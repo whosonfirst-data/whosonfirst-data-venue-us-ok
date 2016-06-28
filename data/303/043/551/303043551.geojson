@@ -2,13 +2,14 @@
   "id": 303043551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.33613,35.725144,-97.33613,35.725144",
     "geom:latitude":35.725144,
     "geom:longitude":-97.33613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11784 E Waterloo Rd",
     "sg:city":"Arcadia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303043551,
-    "wof:lastmodified":1448999944,
+    "wof:lastmodified":1466762319,
     "wof:name":"Dan Reynolds Construction & RE",
     "wof:parent_id":85829129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.33613,35.725144,-97.33613,35.725144],
+  "bbox": [
+    -97.33613,
+    35.725144,
+    -97.33613,
+    35.725144
+],
   "geometry": {"coordinates":[-97.33613,35.725144],"type":"Point"}
 }

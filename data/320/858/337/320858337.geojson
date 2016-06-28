@@ -2,13 +2,14 @@
   "id": 320858337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.434953,34.615749,-98.434953,34.615749",
     "geom:latitude":34.615749,
     "geom:longitude":-98.434953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 NW 36th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320858337,
-    "wof:lastmodified":1449011604,
+    "wof:lastmodified":1466766984,
     "wof:name":"Stephen W Snell MD",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-98.434953,34.615749,-98.434953,34.615749],
-  "geometry": {"coordinates":[-98.434953,34.615749],"type":"Point"}
+  "bbox": [
+    -98.434953,
+    34.615749,
+    -98.434953,
+    34.615749
+],
+  "geometry": {"coordinates":[-98.43495299999999,34.615749],"type":"Point"}
 }

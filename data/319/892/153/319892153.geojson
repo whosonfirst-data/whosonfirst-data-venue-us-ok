@@ -2,13 +2,14 @@
   "id": 319892153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.916098,35.350527,-96.916098,35.350527",
     "geom:latitude":35.350527,
     "geom:longitude":-96.916098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 N Pennsylvania Ave",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319892153,
-    "wof:lastmodified":1449024213,
+    "wof:lastmodified":1466763475,
     "wof:name":"Doggone Lawns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "care"
     ]
 },
-  "bbox": [-96.916098,35.350527,-96.916098,35.350527],
-  "geometry": {"coordinates":[-96.916098,35.350527],"type":"Point"}
+  "bbox": [
+    -96.916098,
+    35.350527,
+    -96.916098,
+    35.350527
+],
+  "geometry": {"coordinates":[-96.91609800000001,35.350527],"type":"Point"}
 }

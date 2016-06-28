@@ -2,13 +2,14 @@
   "id": 303820289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.539563,35.353186,-97.539563,35.353186",
     "geom:latitude":35.353186,
     "geom:longitude":-97.539563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 SW 115th Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303820289,
-    "wof:lastmodified":1448999385,
+    "wof:lastmodified":1466766765,
     "wof:name":"Memory Foam Super Store",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-97.539563,35.353186,-97.539563,35.353186],
+  "bbox": [
+    -97.539563,
+    35.353186,
+    -97.539563,
+    35.353186
+],
   "geometry": {"coordinates":[-97.539563,35.353186],"type":"Point"}
 }

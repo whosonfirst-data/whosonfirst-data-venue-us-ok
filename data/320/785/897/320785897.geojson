@@ -2,13 +2,14 @@
   "id": 320785897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.339615,36.183365,-95.339615,36.183365",
     "geom:latitude":36.183365,
     "geom:longitude":-95.339615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 E Jones Ave",
     "sg:city":"Chouteau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320785897,
-    "wof:lastmodified":1449014336,
+    "wof:lastmodified":1466766809,
     "wof:name":"Stein Ancillary Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.339615,36.183365,-95.339615,36.183365],
-  "geometry": {"coordinates":[-95.339615,36.183365],"type":"Point"}
+  "bbox": [
+    -95.339615,
+    36.183365,
+    -95.339615,
+    36.183365
+],
+  "geometry": {"coordinates":[-95.33961499999999,36.183365],"type":"Point"}
 }

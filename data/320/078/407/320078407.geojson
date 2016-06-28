@@ -2,13 +2,14 @@
   "id": 320078407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.524515,35.612658,-97.524515,35.612658",
     "geom:latitude":35.612658,
     "geom:longitude":-97.524515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 NW 139th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320078407,
-    "wof:lastmodified":1449014393,
+    "wof:lastmodified":1466763454,
     "wof:name":"Dommer & Associates",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-97.524515,35.612658,-97.524515,35.612658],
-  "geometry": {"coordinates":[-97.524515,35.612658],"type":"Point"}
+  "bbox": [
+    -97.524515,
+    35.612658,
+    -97.524515,
+    35.612658
+],
+  "geometry": {"coordinates":[-97.52451499999999,35.612658],"type":"Point"}
 }

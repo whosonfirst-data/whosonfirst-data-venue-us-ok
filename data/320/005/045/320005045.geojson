@@ -2,13 +2,14 @@
   "id": 320005045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.971019,36.13412,-95.971019,36.13412",
     "geom:latitude":36.13412,
     "geom:longitude":-95.971019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1344 E 20th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320005045,
-    "wof:lastmodified":1449014666,
+    "wof:lastmodified":1466762347,
     "wof:name":"Communication Development",
     "wof:parent_id":85872495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [-95.971019,36.13412,-95.971019,36.13412],
+  "bbox": [
+    -95.971019,
+    36.13412,
+    -95.971019,
+    36.13412
+],
   "geometry": {"coordinates":[-95.971019,36.13412],"type":"Point"}
 }

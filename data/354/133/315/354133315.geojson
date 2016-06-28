@@ -2,13 +2,14 @@
   "id": 354133315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940159,36.109172,-95.940159,36.109172",
     "geom:latitude":36.109172,
     "geom:longitude":-95.940159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3729 S Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354133315,
-    "wof:lastmodified":1449067353,
+    "wof:lastmodified":1466763629,
     "wof:name":"Harvard Avenue Veterinary Hosp",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-95.940159,36.109172,-95.940159,36.109172],
-  "geometry": {"coordinates":[-95.940159,36.109172],"type":"Point"}
+  "bbox": [
+    -95.940159,
+    36.109172,
+    -95.940159,
+    36.109172
+],
+  "geometry": {"coordinates":[-95.94015899999999,36.109172],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303394313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.025517,36.105462,-96.025517,36.105462",
     "geom:latitude":36.105462,
     "geom:longitude":-96.025517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 W 40th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303394313,
-    "wof:lastmodified":1448998588,
+    "wof:lastmodified":1466765302,
     "wof:name":"Roto Hammer Industries Inc",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "valve"
     ]
 },
-  "bbox": [-96.025517,36.105462,-96.025517,36.105462],
-  "geometry": {"coordinates":[-96.025517,36.105462],"type":"Point"}
+  "bbox": [
+    -96.025517,
+    36.105462,
+    -96.025517,
+    36.105462
+],
+  "geometry": {"coordinates":[-96.02551699999999,36.105462],"type":"Point"}
 }

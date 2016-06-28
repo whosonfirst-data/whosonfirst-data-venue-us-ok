@@ -2,13 +2,14 @@
   "id": 320489687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.84757,36.10182,-95.84757,36.10182",
     "geom:latitude":36.10182,
     "geom:longitude":-95.84757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11545 E 43rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320489687,
-    "wof:lastmodified":1449013310,
+    "wof:lastmodified":1466765946,
     "wof:name":"Home Builders Assn Of Tulsa",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.84757,36.10182,-95.84757,36.10182],
+  "bbox": [
+    -95.84757,
+    36.10182,
+    -95.84757,
+    36.10182
+],
   "geometry": {"coordinates":[-95.84757,36.10182],"type":"Point"}
 }

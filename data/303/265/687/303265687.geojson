@@ -2,13 +2,14 @@
   "id": 303265687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.382808,34.642209,-98.382808,34.642209",
     "geom:latitude":34.642209,
     "geom:longitude":-98.382808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 NE Dunlop St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303265687,
-    "wof:lastmodified":1448998949,
+    "wof:lastmodified":1466764882,
     "wof:name":"Lawton Janitorial Svc",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-98.382808,34.642209,-98.382808,34.642209],
+  "bbox": [
+    -98.382808,
+    34.642209,
+    -98.382808,
+    34.642209
+],
   "geometry": {"coordinates":[-98.382808,34.642209],"type":"Point"}
 }

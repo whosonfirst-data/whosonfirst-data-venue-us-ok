@@ -2,13 +2,14 @@
   "id": 354184819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.812037,36.075893,-95.812037,36.075893",
     "geom:latitude":36.075893,
     "geom:longitude":-95.812037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1939 W Concord Cir",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354184819,
-    "wof:lastmodified":1449066224,
+    "wof:lastmodified":1466763833,
     "wof:name":"Bennett Engineering",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-95.812037,36.075893,-95.812037,36.075893],
+  "bbox": [
+    -95.812037,
+    36.075893,
+    -95.812037,
+    36.075893
+],
   "geometry": {"coordinates":[-95.812037,36.075893],"type":"Point"}
 }

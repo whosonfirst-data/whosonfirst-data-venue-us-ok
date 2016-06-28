@@ -2,13 +2,14 @@
   "id": 303568161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.952133,35.600571,-95.952133,35.600571",
     "geom:latitude":35.600571,
     "geom:longitude":-95.952133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 Forest Rd",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303568161,
-    "wof:lastmodified":1448998058,
+    "wof:lastmodified":1466766209,
     "wof:name":"Philnor Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.952133,35.600571,-95.952133,35.600571],
+  "bbox": [
+    -95.952133,
+    35.600571,
+    -95.952133,
+    35.600571
+],
   "geometry": {"coordinates":[-95.952133,35.600571],"type":"Point"}
 }

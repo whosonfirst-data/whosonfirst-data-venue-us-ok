@@ -2,13 +2,14 @@
   "id": 320796893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.673692,35.573285,-97.673692,35.573285",
     "geom:latitude":35.573285,
     "geom:longitude":-97.673692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8325 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320796893,
-    "wof:lastmodified":1449013021,
+    "wof:lastmodified":1466766826,
     "wof:name":"Mercy Health Northwest Exwy",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.673692,35.573285,-97.673692,35.573285],
+  "bbox": [
+    -97.673692,
+    35.573285,
+    -97.673692,
+    35.573285
+],
   "geometry": {"coordinates":[-97.673692,35.573285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320518907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.752159,34.919077,-95.752159,34.919077",
     "geom:latitude":34.919077,
     "geom:longitude":-95.752159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 Wichita Ave",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320518907,
-    "wof:lastmodified":1449013374,
+    "wof:lastmodified":1466766100,
     "wof:name":"CJS Builders Inc",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.752159,34.919077,-95.752159,34.919077],
-  "geometry": {"coordinates":[-95.752159,34.919077],"type":"Point"}
+  "bbox": [
+    -95.752159,
+    34.919077,
+    -95.752159,
+    34.919077
+],
+  "geometry": {"coordinates":[-95.75215900000001,34.919077],"type":"Point"}
 }

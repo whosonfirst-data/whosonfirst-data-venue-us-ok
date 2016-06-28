@@ -2,13 +2,14 @@
   "id": 336914905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.85277,36.748747,-94.85277,36.748747",
     "geom:latitude":36.748747,
     "geom:longitude":-94.85277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 W Conner Ave",
     "sg:city":"Fairland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336914905,
-    "wof:lastmodified":1448997358,
+    "wof:lastmodified":1466765279,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.85277,36.748747,-94.85277,36.748747],
-  "geometry": {"coordinates":[-94.85277,36.748747],"type":"Point"}
+  "bbox": [
+    -94.85277,
+    36.748747,
+    -94.85277,
+    36.748747
+],
+  "geometry": {"coordinates":[-94.85277000000001,36.748747],"type":"Point"}
 }

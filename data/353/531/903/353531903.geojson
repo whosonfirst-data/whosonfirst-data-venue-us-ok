@@ -2,13 +2,14 @@
   "id": 353531903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.63998,35.292682,-99.63998,35.292682",
     "geom:latitude":35.292682,
     "geom:longitude":-99.63998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N 4th St",
     "sg:city":"Sayre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353531903,
-    "wof:lastmodified":1449018852,
+    "wof:lastmodified":1466763590,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.63998,35.292682,-99.63998,35.292682],
-  "geometry": {"coordinates":[-99.63998,35.292682],"type":"Point"}
+  "bbox": [
+    -99.63998,
+    35.292682,
+    -99.63998,
+    35.292682
+],
+  "geometry": {"coordinates":[-99.63997999999999,35.292682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320800985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.95635,34.951468,-97.95635,34.951468",
     "geom:latitude":34.951468,
     "geom:longitude":-97.95635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Chestnut Dr",
     "sg:city":"Ninnekah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320800985,
-    "wof:lastmodified":1449011542,
+    "wof:lastmodified":1466766849,
     "wof:name":"Wolverton Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.95635,34.951468,-97.95635,34.951468],
+  "bbox": [
+    -97.95635,
+    34.951468,
+    -97.95635,
+    34.951468
+],
   "geometry": {"coordinates":[-97.95635,34.951468],"type":"Point"}
 }

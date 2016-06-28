@@ -2,13 +2,14 @@
   "id": 220171715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990434,36.154773,-95.990434,36.154773",
     "geom:latitude":36.154773,
     "geom:longitude":-95.990434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E 2nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220171715,
-    "wof:lastmodified":1449074887,
+    "wof:lastmodified":1466762327,
     "wof:name":"Fisher Agency Realtors",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.990434,36.154773,-95.990434,36.154773],
-  "geometry": {"coordinates":[-95.990434,36.154773],"type":"Point"}
+  "bbox": [
+    -95.990434,
+    36.154773,
+    -95.990434,
+    36.154773
+],
+  "geometry": {"coordinates":[-95.99043399999999,36.154773],"type":"Point"}
 }

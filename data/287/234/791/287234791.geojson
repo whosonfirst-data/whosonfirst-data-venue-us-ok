@@ -2,13 +2,14 @@
   "id": 287234791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.61486,36.314379,-95.61486,36.314379",
     "geom:latitude":36.314379,
     "geom:longitude":-95.61486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Lynn Riggs Blvd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287234791,
-    "wof:lastmodified":1449001543,
+    "wof:lastmodified":1466762456,
     "wof:name":"Melton Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.61486,36.314379,-95.61486,36.314379],
-  "geometry": {"coordinates":[-95.61486,36.314379],"type":"Point"}
+  "bbox": [
+    -95.61486,
+    36.314379,
+    -95.61486,
+    36.314379
+],
+  "geometry": {"coordinates":[-95.61485999999999,36.314379],"type":"Point"}
 }

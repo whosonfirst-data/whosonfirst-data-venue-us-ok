@@ -2,13 +2,14 @@
   "id": 320425061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.009489,36.113683,-96.009489,36.113683",
     "geom:latitude":36.113683,
     "geom:longitude":-96.009489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3251 Southwest Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320425061,
-    "wof:lastmodified":1449012594,
+    "wof:lastmodified":1466765849,
     "wof:name":"Brad's Truck & Trailer Sales",
     "wof:parent_id":85821015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trailer"
     ]
 },
-  "bbox": [-96.009489,36.113683,-96.009489,36.113683],
+  "bbox": [
+    -96.009489,
+    36.113683,
+    -96.009489,
+    36.113683
+],
   "geometry": {"coordinates":[-96.009489,36.113683],"type":"Point"}
 }

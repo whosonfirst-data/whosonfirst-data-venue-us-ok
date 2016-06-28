@@ -2,13 +2,14 @@
   "id": 304007019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.347112,35.695445,-95.347112,35.695445",
     "geom:latitude":35.695445,
     "geom:longitude":-95.347112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 Quail Run",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304007019,
-    "wof:lastmodified":1449044062,
+    "wof:lastmodified":1466764188,
     "wof:name":"Blakenship's Upholstery",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-95.347112,35.695445,-95.347112,35.695445],
+  "bbox": [
+    -95.347112,
+    35.695445,
+    -95.347112,
+    35.695445
+],
   "geometry": {"coordinates":[-95.347112,35.695445],"type":"Point"}
 }

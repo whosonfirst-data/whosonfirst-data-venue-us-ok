@@ -2,13 +2,14 @@
   "id": 220160795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.848184,36.321207,-95.848184,36.321207",
     "geom:latitude":36.321207,
     "geom:longitude":-95.848184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11533 N Garnett Rd",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":220160795,
-    "wof:lastmodified":1449074738,
+    "wof:lastmodified":1466762297,
     "wof:name":"Jo Joes Everything Animal",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "store"
     ]
 },
-  "bbox": [-95.848184,36.321207,-95.848184,36.321207],
+  "bbox": [
+    -95.848184,
+    36.321207,
+    -95.848184,
+    36.321207
+],
   "geometry": {"coordinates":[-95.848184,36.321207],"type":"Point"}
 }

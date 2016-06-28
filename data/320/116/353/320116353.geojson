@@ -2,13 +2,14 @@
   "id": 320116353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.724953,35.582952,-97.724953,35.582952",
     "geom:latitude":35.582952,
     "geom:longitude":-97.724953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11208 NW 111th St",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320116353,
-    "wof:lastmodified":1449011799,
+    "wof:lastmodified":1466764029,
     "wof:name":"Deep Creek Corp",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-97.724953,35.582952,-97.724953,35.582952],
+  "bbox": [
+    -97.724953,
+    35.582952,
+    -97.724953,
+    35.582952
+],
   "geometry": {"coordinates":[-97.724953,35.582952],"type":"Point"}
 }

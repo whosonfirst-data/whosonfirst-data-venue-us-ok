@@ -2,13 +2,14 @@
   "id": 320020199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.441286,35.434519,-97.441286,35.434519",
     "geom:latitude":35.434519,
     "geom:longitude":-97.441286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3120 S Sunnylane Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320020199,
-    "wof:lastmodified":1449012999,
+    "wof:lastmodified":1466762584,
     "wof:name":"Jacks Auto Service",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.441286,35.434519,-97.441286,35.434519],
-  "geometry": {"coordinates":[-97.441286,35.434519],"type":"Point"}
+  "bbox": [
+    -97.441286,
+    35.434519,
+    -97.441286,
+    35.434519
+],
+  "geometry": {"coordinates":[-97.44128600000001,35.434519],"type":"Point"}
 }

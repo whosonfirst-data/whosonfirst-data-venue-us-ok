@@ -2,13 +2,14 @@
   "id": 303492191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.308461,34.918854,-95.308461,34.918854",
     "geom:latitude":34.918854,
     "geom:longitude":-95.308461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 E Main St",
     "sg:city":"Wilburton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303492191,
-    "wof:lastmodified":1448998115,
+    "wof:lastmodified":1466765820,
     "wof:name":"Talbot Flower & Gift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gift"
     ]
 },
-  "bbox": [-95.308461,34.918854,-95.308461,34.918854],
-  "geometry": {"coordinates":[-95.308461,34.918854],"type":"Point"}
+  "bbox": [
+    -95.308461,
+    34.918854,
+    -95.308461,
+    34.918854
+],
+  "geometry": {"coordinates":[-95.30846099999999,34.918854],"type":"Point"}
 }

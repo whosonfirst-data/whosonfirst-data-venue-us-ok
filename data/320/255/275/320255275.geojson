@@ -2,13 +2,14 @@
   "id": 320255275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.805183,36.293841,-95.805183,36.293841",
     "geom:latitude":36.293841,
     "geom:longitude":-95.805183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9612 N 151st East Ave",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320255275,
-    "wof:lastmodified":1449012953,
+    "wof:lastmodified":1466764790,
     "wof:name":"Saint James Russian Orthodox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.805183,36.293841,-95.805183,36.293841],
+  "bbox": [
+    -95.805183,
+    36.293841,
+    -95.805183,
+    36.293841
+],
   "geometry": {"coordinates":[-95.805183,36.293841],"type":"Point"}
 }

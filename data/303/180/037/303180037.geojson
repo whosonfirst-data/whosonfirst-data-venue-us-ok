@@ -2,13 +2,14 @@
   "id": 303180037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.672785,34.232173,-96.672785,34.232173",
     "geom:latitude":34.232173,
     "geom:longitude":-96.672785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 State Hwy 22",
     "sg:city":"Tishomingo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303180037,
-    "wof:lastmodified":1448998217,
+    "wof:lastmodified":1466764329,
     "wof:name":"Rockcreek Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-96.672785,34.232173,-96.672785,34.232173],
+  "bbox": [
+    -96.672785,
+    34.232173,
+    -96.672785,
+    34.232173
+],
   "geometry": {"coordinates":[-96.672785,34.232173],"type":"Point"}
 }

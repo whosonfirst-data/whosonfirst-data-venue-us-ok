@@ -2,13 +2,14 @@
   "id": 319834211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.61782,35.069966,-94.61782,35.069966",
     "geom:latitude":35.069966,
     "geom:longitude":-94.61782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Clark Ave",
     "sg:city":"Poteau",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319834211,
-    "wof:lastmodified":1449024179,
+    "wof:lastmodified":1466762992,
     "wof:name":"Abernathy Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-94.61782,35.069966,-94.61782,35.069966],
-  "geometry": {"coordinates":[-94.61782,35.069966],"type":"Point"}
+  "bbox": [
+    -94.61782,
+    35.069966,
+    -94.61782,
+    35.069966
+],
+  "geometry": {"coordinates":[-94.61781999999999,35.069966],"type":"Point"}
 }

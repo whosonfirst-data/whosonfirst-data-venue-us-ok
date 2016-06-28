@@ -2,13 +2,14 @@
   "id": 303665237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.961971,36.140089,-95.961971,36.140089",
     "geom:latitude":36.140089,
     "geom:longitude":-95.961971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1539 S Yorktown Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303665237,
-    "wof:lastmodified":1448998863,
+    "wof:lastmodified":1466766407,
     "wof:name":"Ellen & Co Real Estate",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.961971,36.140089,-95.961971,36.140089],
-  "geometry": {"coordinates":[-95.961971,36.140089],"type":"Point"}
+  "bbox": [
+    -95.961971,
+    36.140089,
+    -95.961971,
+    36.140089
+],
+  "geometry": {"coordinates":[-95.96197100000001,36.140089],"type":"Point"}
 }

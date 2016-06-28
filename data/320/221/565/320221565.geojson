@@ -2,13 +2,14 @@
   "id": 320221565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.645114,35.42077,-97.645114,35.42077",
     "geom:latitude":35.42077,
     "geom:longitude":-97.645114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7505 SW 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320221565,
-    "wof:lastmodified":1449012900,
+    "wof:lastmodified":1466764616,
     "wof:name":"Hobby Lobby",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.645114,35.42077,-97.645114,35.42077],
-  "geometry": {"coordinates":[-97.645114,35.42077],"type":"Point"}
+  "bbox": [
+    -97.645114,
+    35.42077,
+    -97.645114,
+    35.42077
+],
+  "geometry": {"coordinates":[-97.64511400000001,35.42077],"type":"Point"}
 }

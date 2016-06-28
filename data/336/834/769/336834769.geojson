@@ -2,13 +2,14 @@
   "id": 336834769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.560684,35.500328,-97.560684,35.500328",
     "geom:latitude":35.500328,
     "geom:longitude":-97.560684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2616 NW 30th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336834769,
-    "wof:lastmodified":1448997034,
+    "wof:lastmodified":1466764830,
     "wof:name":"Al & Joe's Rooting & Drain",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sewer"
     ]
 },
-  "bbox": [-97.560684,35.500328,-97.560684,35.500328],
-  "geometry": {"coordinates":[-97.560684,35.500328],"type":"Point"}
+  "bbox": [
+    -97.560684,
+    35.500328,
+    -97.560684,
+    35.500328
+],
+  "geometry": {"coordinates":[-97.56068399999999,35.500328],"type":"Point"}
 }

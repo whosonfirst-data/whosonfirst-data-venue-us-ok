@@ -2,13 +2,14 @@
   "id": 353491049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.452497,35.344168,-97.452497,35.344168",
     "geom:latitude":35.344168,
     "geom:longitude":-97.452497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Estell Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353491049,
-    "wof:lastmodified":1449018216,
+    "wof:lastmodified":1466762996,
     "wof:name":"Secrist Fabrication Services",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-97.452497,35.344168,-97.452497,35.344168],
-  "geometry": {"coordinates":[-97.452497,35.344168],"type":"Point"}
+  "bbox": [
+    -97.452497,
+    35.344168,
+    -97.452497,
+    35.344168
+],
+  "geometry": {"coordinates":[-97.45249699999999,35.344168],"type":"Point"}
 }

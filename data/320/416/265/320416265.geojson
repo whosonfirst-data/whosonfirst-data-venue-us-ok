@@ -2,13 +2,14 @@
   "id": 320416265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.802488,36.086478,-95.802488,36.086478",
     "geom:latitude":36.086478,
     "geom:longitude":-95.802488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 N Battle Creek Dr",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320416265,
-    "wof:lastmodified":1449012933,
+    "wof:lastmodified":1466765781,
     "wof:name":"Battle Creek Golf Course",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-95.802488,36.086478,-95.802488,36.086478],
+  "bbox": [
+    -95.802488,
+    36.086478,
+    -95.802488,
+    36.086478
+],
   "geometry": {"coordinates":[-95.802488,36.086478],"type":"Point"}
 }

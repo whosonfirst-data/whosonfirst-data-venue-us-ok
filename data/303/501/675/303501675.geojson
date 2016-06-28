@@ -2,13 +2,14 @@
   "id": 303501675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.49024,35.667365,-97.49024,35.667365",
     "geom:latitude":35.667365,
     "geom:longitude":-97.49024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 W Danforth Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303501675,
-    "wof:lastmodified":1449000586,
+    "wof:lastmodified":1466765839,
     "wof:name":"Studio 750",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.49024,35.667365,-97.49024,35.667365],
+  "bbox": [
+    -97.49024,
+    35.667365,
+    -97.49024,
+    35.667365
+],
   "geometry": {"coordinates":[-97.49024,35.667365],"type":"Point"}
 }

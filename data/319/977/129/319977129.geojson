@@ -2,13 +2,14 @@
   "id": 319977129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.441814,35.457044,-97.441814,35.457044",
     "geom:latitude":35.457044,
     "geom:longitude":-97.441814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4115 Pearl Way",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319977129,
-    "wof:lastmodified":1449024901,
+    "wof:lastmodified":1466762329,
     "wof:name":"Boiler Repair Co",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-97.441814,35.457044,-97.441814,35.457044],
-  "geometry": {"coordinates":[-97.441814,35.457044],"type":"Point"}
+  "bbox": [
+    -97.441814,
+    35.457044,
+    -97.441814,
+    35.457044
+],
+  "geometry": {"coordinates":[-97.44181399999999,35.457044],"type":"Point"}
 }

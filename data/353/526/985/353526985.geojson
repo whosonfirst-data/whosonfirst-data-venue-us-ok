@@ -2,13 +2,14 @@
   "id": 353526985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.660127,35.749001,-96.660127,35.749001",
     "geom:latitude":35.749001,
     "geom:longitude":-96.660127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 W Main St",
     "sg:city":"Stroud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353526985,
-    "wof:lastmodified":1449019045,
+    "wof:lastmodified":1466763526,
     "wof:name":"Stroud Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-96.660127,35.749001,-96.660127,35.749001],
+  "bbox": [
+    -96.660127,
+    35.749001,
+    -96.660127,
+    35.749001
+],
   "geometry": {"coordinates":[-96.660127,35.749001],"type":"Point"}
 }

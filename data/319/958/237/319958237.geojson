@@ -2,13 +2,14 @@
   "id": 319958237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.109597,35.997715,-96.109597,35.997715",
     "geom:latitude":35.997715,
     "geom:longitude":-96.109597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 E Lee Ave",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319958237,
-    "wof:lastmodified":1449024714,
+    "wof:lastmodified":1466764064,
     "wof:name":"Land Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-96.109597,35.997715,-96.109597,35.997715],
-  "geometry": {"coordinates":[-96.109597,35.997715],"type":"Point"}
+  "bbox": [
+    -96.109597,
+    35.997715,
+    -96.109597,
+    35.997715
+],
+  "geometry": {"coordinates":[-96.10959699999999,35.997715],"type":"Point"}
 }

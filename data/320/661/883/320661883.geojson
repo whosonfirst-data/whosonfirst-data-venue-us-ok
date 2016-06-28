@@ -2,13 +2,14 @@
   "id": 320661883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.961318,34.501016,-97.961318,34.501016",
     "geom:latitude":34.501016,
     "geom:longitude":-97.961318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 Willow Ave",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320661883,
-    "wof:lastmodified":1449014561,
+    "wof:lastmodified":1466766366,
     "wof:name":"Curtis Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.961318,34.501016,-97.961318,34.501016],
-  "geometry": {"coordinates":[-97.961318,34.501016],"type":"Point"}
+  "bbox": [
+    -97.961318,
+    34.501016,
+    -97.961318,
+    34.501016
+],
+  "geometry": {"coordinates":[-97.96131800000001,34.501016],"type":"Point"}
 }

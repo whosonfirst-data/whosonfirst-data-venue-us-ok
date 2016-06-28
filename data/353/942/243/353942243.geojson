@@ -2,13 +2,14 @@
   "id": 353942243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.124473,35.253806,-95.124473,35.253806",
     "geom:latitude":35.253806,
     "geom:longitude":-95.124473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E Main St",
     "sg:city":"Stigler",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353942243,
-    "wof:lastmodified":1449019424,
+    "wof:lastmodified":1466765722,
     "wof:name":"Haskell Court Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-95.124473,35.253806,-95.124473,35.253806],
-  "geometry": {"coordinates":[-95.124473,35.253806],"type":"Point"}
+  "bbox": [
+    -95.124473,
+    35.253806,
+    -95.124473,
+    35.253806
+],
+  "geometry": {"coordinates":[-95.12447299999999,35.253806],"type":"Point"}
 }

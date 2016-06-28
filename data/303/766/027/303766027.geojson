@@ -2,13 +2,14 @@
   "id": 303766027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.371699,35.615045,-97.371699,35.615045",
     "geom:latitude":35.615045,
     "geom:longitude":-97.371699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13809 N Douglas Blvd",
     "sg:city":"Jones",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303766027,
-    "wof:lastmodified":1448998082,
+    "wof:lastmodified":1466766652,
     "wof:name":"R C Company",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-97.371699,35.615045,-97.371699,35.615045],
-  "geometry": {"coordinates":[-97.371699,35.615045],"type":"Point"}
+  "bbox": [
+    -97.371699,
+    35.615045,
+    -97.371699,
+    35.615045
+],
+  "geometry": {"coordinates":[-97.37169900000001,35.615045],"type":"Point"}
 }

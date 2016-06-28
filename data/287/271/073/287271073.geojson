@@ -2,13 +2,14 @@
   "id": 287271073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.087344,36.124889,-97.087344,36.124889",
     "geom:latitude":36.124889,
     "geom:longitude":-97.087344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 N Western Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287271073,
-    "wof:lastmodified":1449001132,
+    "wof:lastmodified":1466763001,
     "wof:name":"Central Dining",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.087344,36.124889,-97.087344,36.124889],
+  "bbox": [
+    -97.087344,
+    36.124889,
+    -97.087344,
+    36.124889
+],
   "geometry": {"coordinates":[-97.087344,36.124889],"type":"Point"}
 }

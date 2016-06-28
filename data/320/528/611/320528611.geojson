@@ -2,13 +2,14 @@
   "id": 320528611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.475388,35.658974,-97.475388,35.658974",
     "geom:latitude":35.658974,
     "geom:longitude":-97.475388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 E Ayers St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":320528611,
-    "wof:lastmodified":1449012260,
+    "wof:lastmodified":1466766217,
     "wof:name":"7-Eleven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.475388,35.658974,-97.475388,35.658974],
+  "bbox": [
+    -97.475388,
+    35.658974,
+    -97.475388,
+    35.658974
+],
   "geometry": {"coordinates":[-97.475388,35.658974],"type":"Point"}
 }

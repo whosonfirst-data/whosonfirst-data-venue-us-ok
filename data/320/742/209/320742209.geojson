@@ -2,13 +2,14 @@
   "id": 320742209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.180585,35.798429,-95.180585,35.798429",
     "geom:latitude":35.798429,
     "geom:longitude":-95.180585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1709 US Hwy 62",
     "sg:city":"Fort Gibson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320742209,
-    "wof:lastmodified":1449011493,
+    "wof:lastmodified":1466766656,
     "wof:name":"Muskogee Business Solutions",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.180585,35.798429,-95.180585,35.798429],
-  "geometry": {"coordinates":[-95.180585,35.798429],"type":"Point"}
+  "bbox": [
+    -95.180585,
+    35.798429,
+    -95.180585,
+    35.798429
+],
+  "geometry": {"coordinates":[-95.18058499999999,35.798429],"type":"Point"}
 }

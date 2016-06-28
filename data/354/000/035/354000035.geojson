@@ -2,13 +2,14 @@
   "id": 354000035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.95802,34.517008,-97.95802,34.517008",
     "geom:latitude":34.517008,
     "geom:longitude":-97.95802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 N 10th St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354000035,
-    "wof:lastmodified":1449066204,
+    "wof:lastmodified":1466762902,
     "wof:name":"Mc Casland Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.95802,34.517008,-97.95802,34.517008],
+  "bbox": [
+    -97.95802,
+    34.517008,
+    -97.95802,
+    34.517008
+],
   "geometry": {"coordinates":[-97.95802,34.517008],"type":"Point"}
 }

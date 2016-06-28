@@ -2,13 +2,14 @@
   "id": 320465761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.402054,35.877969,-97.402054,35.877969",
     "geom:latitude":35.877969,
     "geom:longitude":-97.402054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 E Oklahoma Ave",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320465761,
-    "wof:lastmodified":1449013784,
+    "wof:lastmodified":1466765871,
     "wof:name":"State Oklahoma Garden Clubs",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.402054,35.877969,-97.402054,35.877969],
-  "geometry": {"coordinates":[-97.402054,35.877969],"type":"Point"}
+  "bbox": [
+    -97.402054,
+    35.877969,
+    -97.402054,
+    35.877969
+],
+  "geometry": {"coordinates":[-97.40205400000001,35.877969],"type":"Point"}
 }

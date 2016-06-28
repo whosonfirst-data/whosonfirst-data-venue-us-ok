@@ -2,13 +2,14 @@
   "id": 353928209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.41466,34.87924,-96.41466,34.87924",
     "geom:latitude":34.87924,
     "geom:longitude":-96.41466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 E Broadway",
     "sg:city":"Allen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353928209,
-    "wof:lastmodified":1449020453,
+    "wof:lastmodified":1466765655,
     "wof:name":"Allen Auction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-96.41466,34.87924,-96.41466,34.87924],
+  "bbox": [
+    -96.41466,
+    34.87924,
+    -96.41466,
+    34.87924
+],
   "geometry": {"coordinates":[-96.41466,34.87924],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320703845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.929885,35.369143,-96.929885,35.369143",
     "geom:latitude":35.369143,
     "geom:longitude":-96.929885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 N Kickapoo St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320703845,
-    "wof:lastmodified":1449012399,
+    "wof:lastmodified":1466766631,
     "wof:name":"Family Medicine Specialist PC",
     "wof:parent_id":85827517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.929885,35.369143,-96.929885,35.369143],
+  "bbox": [
+    -96.929885,
+    35.369143,
+    -96.929885,
+    35.369143
+],
   "geometry": {"coordinates":[-96.929885,35.369143],"type":"Point"}
 }

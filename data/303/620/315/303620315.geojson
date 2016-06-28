@@ -2,13 +2,14 @@
   "id": 303620315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.395777,35.189665,-97.395777,35.189665",
     "geom:latitude":35.189665,
     "geom:longitude":-97.395777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 State Hwy 9",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303620315,
-    "wof:lastmodified":1449000355,
+    "wof:lastmodified":1466766252,
     "wof:name":"Us Postal Housing Fac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "training"
     ]
 },
-  "bbox": [-97.395777,35.189665,-97.395777,35.189665],
+  "bbox": [
+    -97.395777,
+    35.189665,
+    -97.395777,
+    35.189665
+],
   "geometry": {"coordinates":[-97.395777,35.189665],"type":"Point"}
 }

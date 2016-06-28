@@ -2,13 +2,14 @@
   "id": 303890525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.979173,36.028882,-95.979173,36.028882",
     "geom:latitude":36.028882,
     "geom:longitude":-95.979173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 N Fir St",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":303890525,
-    "wof:lastmodified":1448998650,
+    "wof:lastmodified":1466766937,
     "wof:name":"Jenks Hypnosis Center",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hypnotherapy"
     ]
 },
-  "bbox": [-95.979173,36.028882,-95.979173,36.028882],
+  "bbox": [
+    -95.979173,
+    36.028882,
+    -95.979173,
+    36.028882
+],
   "geometry": {"coordinates":[-95.979173,36.028882],"type":"Point"}
 }

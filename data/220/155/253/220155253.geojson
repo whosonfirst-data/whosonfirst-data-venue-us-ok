@@ -2,13 +2,14 @@
   "id": 220155253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.622371,36.315203,-95.622371,36.315203",
     "geom:latitude":36.315203,
     "geom:longitude":-95.622371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 W Will Rogers Blvd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220155253,
-    "wof:lastmodified":1449074712,
+    "wof:lastmodified":1466762288,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "car"
     ]
 },
-  "bbox": [-95.622371,36.315203,-95.622371,36.315203],
+  "bbox": [
+    -95.622371,
+    36.315203,
+    -95.622371,
+    36.315203
+],
   "geometry": {"coordinates":[-95.622371,36.315203],"type":"Point"}
 }

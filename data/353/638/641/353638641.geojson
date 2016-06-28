@@ -2,13 +2,14 @@
   "id": 353638641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.95389,36.116869,-95.95389,36.116869",
     "geom:latitude":36.116869,
     "geom:longitude":-95.95389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2520 E 32nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353638641,
-    "wof:lastmodified":1449018390,
+    "wof:lastmodified":1466764603,
     "wof:name":"Palik-Nelson Lab",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-95.95389,36.116869,-95.95389,36.116869],
+  "bbox": [
+    -95.95389,
+    36.116869,
+    -95.95389,
+    36.116869
+],
   "geometry": {"coordinates":[-95.95389,36.116869],"type":"Point"}
 }

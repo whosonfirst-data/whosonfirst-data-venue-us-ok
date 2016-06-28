@@ -2,13 +2,14 @@
   "id": 303884565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.037652,36.072031,-96.037652,36.072031",
     "geom:latitude":36.072031,
     "geom:longitude":-96.037652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6303 S 40th W Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303884565,
-    "wof:lastmodified":1449000093,
+    "wof:lastmodified":1466766931,
     "wof:name":"Memorial Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "shop"
     ]
 },
-  "bbox": [-96.037652,36.072031,-96.037652,36.072031],
-  "geometry": {"coordinates":[-96.037652,36.072031],"type":"Point"}
+  "bbox": [
+    -96.037652,
+    36.072031,
+    -96.037652,
+    36.072031
+],
+  "geometry": {"coordinates":[-96.03765199999999,36.072031],"type":"Point"}
 }

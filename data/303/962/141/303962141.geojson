@@ -2,13 +2,14 @@
   "id": 303962141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.159177,35.478045,-97.159177,35.478045",
     "geom:latitude":35.478045,
     "geom:longitude":-97.159177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1065 N Harrah Rd",
     "sg:city":"Harrah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303962141,
-    "wof:lastmodified":1448999560,
+    "wof:lastmodified":1466767101,
     "wof:name":"Harrah Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.159177,35.478045,-97.159177,35.478045],
+  "bbox": [
+    -97.159177,
+    35.478045,
+    -97.159177,
+    35.478045
+],
   "geometry": {"coordinates":[-97.159177,35.478045],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303122857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.259565,35.72982,-95.259565,35.72982",
     "geom:latitude":35.72982,
     "geom:longitude":-95.259565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 S 70th St E",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303122857,
-    "wof:lastmodified":1448999511,
+    "wof:lastmodified":1466763603,
     "wof:name":"Earthworks",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.259565,35.72982,-95.259565,35.72982],
-  "geometry": {"coordinates":[-95.259565,35.72982],"type":"Point"}
+  "bbox": [
+    -95.259565,
+    35.72982,
+    -95.259565,
+    35.72982
+],
+  "geometry": {"coordinates":[-95.25956499999999,35.72982],"type":"Point"}
 }

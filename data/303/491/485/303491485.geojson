@@ -2,13 +2,14 @@
   "id": 303491485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.521349,35.688105,-97.521349,35.688105",
     "geom:latitude":35.688105,
     "geom:longitude":-97.521349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2708 Big Piney Ln",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303491485,
-    "wof:lastmodified":1448998074,
+    "wof:lastmodified":1466765732,
     "wof:name":"Artistic Glass Studio",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leaded"
     ]
 },
-  "bbox": [-97.521349,35.688105,-97.521349,35.688105],
+  "bbox": [
+    -97.521349,
+    35.688105,
+    -97.521349,
+    35.688105
+],
   "geometry": {"coordinates":[-97.521349,35.688105],"type":"Point"}
 }

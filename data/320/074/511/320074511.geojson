@@ -2,13 +2,14 @@
   "id": 320074511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.413165,35.870122,-97.413165,35.870122",
     "geom:latitude":35.870122,
     "geom:longitude":-97.413165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 Elmwood Dr",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320074511,
-    "wof:lastmodified":1449013279,
+    "wof:lastmodified":1466763390,
     "wof:name":"Beasley's TV Svc",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "radio"
     ]
 },
-  "bbox": [-97.413165,35.870122,-97.413165,35.870122],
-  "geometry": {"coordinates":[-97.413165,35.870122],"type":"Point"}
+  "bbox": [
+    -97.413165,
+    35.870122,
+    -97.413165,
+    35.870122
+],
+  "geometry": {"coordinates":[-97.41316500000001,35.870122],"type":"Point"}
 }

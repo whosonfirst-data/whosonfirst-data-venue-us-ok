@@ -2,13 +2,14 @@
   "id": 320413201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.495451,35.156632,-96.495451,35.156632",
     "geom:latitude":35.156632,
     "geom:longitude":-96.495451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 S Okfusakee Ave",
     "sg:city":"Wewoka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320413201,
-    "wof:lastmodified":1449011846,
+    "wof:lastmodified":1466765870,
     "wof:name":"Antique House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-96.495451,35.156632,-96.495451,35.156632],
+  "bbox": [
+    -96.495451,
+    35.156632,
+    -96.495451,
+    35.156632
+],
   "geometry": {"coordinates":[-96.495451,35.156632],"type":"Point"}
 }

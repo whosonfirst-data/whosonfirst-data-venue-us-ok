@@ -2,13 +2,14 @@
   "id": 353415737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.009773,36.092452,-96.009773,36.092452",
     "geom:latitude":36.092452,
     "geom:longitude":-96.009773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1529 W 49th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353415737,
-    "wof:lastmodified":1449020083,
+    "wof:lastmodified":1466762521,
     "wof:name":"Contact Church Of Christ",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.009773,36.092452,-96.009773,36.092452],
+  "bbox": [
+    -96.009773,
+    36.092452,
+    -96.009773,
+    36.092452
+],
   "geometry": {"coordinates":[-96.009773,36.092452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303092727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.550089,35.526794,-97.550089,35.526794",
     "geom:latitude":35.526794,
     "geom:longitude":-97.550089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2218 Belleview Ter",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303092727,
-    "wof:lastmodified":1449000105,
+    "wof:lastmodified":1466763117,
     "wof:name":"Austin Sales Co",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-97.550089,35.526794,-97.550089,35.526794],
+  "bbox": [
+    -97.550089,
+    35.526794,
+    -97.550089,
+    35.526794
+],
   "geometry": {"coordinates":[-97.550089,35.526794],"type":"Point"}
 }

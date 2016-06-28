@@ -2,13 +2,14 @@
   "id": 303525095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.663314,34.781569,-96.663314,34.781569",
     "geom:latitude":34.781569,
     "geom:longitude":-96.663314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Arlington St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303525095,
-    "wof:lastmodified":1449000056,
+    "wof:lastmodified":1466765949,
     "wof:name":"Ok Cardiovascular Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.663314,34.781569,-96.663314,34.781569],
+  "bbox": [
+    -96.663314,
+    34.781569,
+    -96.663314,
+    34.781569
+],
   "geometry": {"coordinates":[-96.663314,34.781569],"type":"Point"}
 }

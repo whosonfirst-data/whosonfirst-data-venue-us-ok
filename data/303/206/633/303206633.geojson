@@ -2,13 +2,14 @@
   "id": 303206633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.483788,35.40296,-97.483788,35.40296",
     "geom:latitude":35.40296,
     "geom:longitude":-97.483788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6309 Camille Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303206633,
-    "wof:lastmodified":1448999780,
+    "wof:lastmodified":1466764471,
     "wof:name":"Southeast District Ctr",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-97.483788,35.40296,-97.483788,35.40296],
+  "bbox": [
+    -97.483788,
+    35.40296,
+    -97.483788,
+    35.40296
+],
   "geometry": {"coordinates":[-97.483788,35.40296],"type":"Point"}
 }

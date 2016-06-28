@@ -2,13 +2,14 @@
   "id": 320032353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.00082,36.02395,-96.00082,36.02395",
     "geom:latitude":36.02395,
     "geom:longitude":-96.00082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6250 W 97th St",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320032353,
-    "wof:lastmodified":1449013092,
+    "wof:lastmodified":1466762769,
     "wof:name":"Air Masters",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furnace"
     ]
 },
-  "bbox": [-96.00082,36.02395,-96.00082,36.02395],
+  "bbox": [
+    -96.00082,
+    36.02395,
+    -96.00082,
+    36.02395
+],
   "geometry": {"coordinates":[-96.00082,36.02395],"type":"Point"}
 }

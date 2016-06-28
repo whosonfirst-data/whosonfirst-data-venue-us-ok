@@ -2,13 +2,14 @@
   "id": 320343791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.764013,36.061075,-95.764013,36.061075",
     "geom:latitude":36.061075,
     "geom:longitude":-95.764013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 E Kenosha St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320343791,
-    "wof:lastmodified":1449013914,
+    "wof:lastmodified":1466765437,
     "wof:name":"State Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.764013,36.061075,-95.764013,36.061075],
-  "geometry": {"coordinates":[-95.764013,36.061075],"type":"Point"}
+  "bbox": [
+    -95.764013,
+    36.061075,
+    -95.764013,
+    36.061075
+],
+  "geometry": {"coordinates":[-95.76401300000001,36.061075],"type":"Point"}
 }

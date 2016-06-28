@@ -2,13 +2,14 @@
   "id": 354103707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.629695,36.691622,-95.629695,36.691622",
     "geom:latitude":36.691622,
     "geom:longitude":-95.629695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 S Ash St",
     "sg:city":"Nowata",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354103707,
-    "wof:lastmodified":1449067015,
+    "wof:lastmodified":1466763524,
     "wof:name":"Express Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.629695,36.691622,-95.629695,36.691622],
+  "bbox": [
+    -95.629695,
+    36.691622,
+    -95.629695,
+    36.691622
+],
   "geometry": {"coordinates":[-95.629695,36.691622],"type":"Point"}
 }

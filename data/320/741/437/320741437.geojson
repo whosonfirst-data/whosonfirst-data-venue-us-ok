@@ -2,13 +2,14 @@
   "id": 320741437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.443476,36.44394,-99.443476,36.44394",
     "geom:latitude":36.44394,
     "geom:longitude":-99.443476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 48th St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320741437,
-    "wof:lastmodified":1449011451,
+    "wof:lastmodified":1466766786,
     "wof:name":"City Limits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "night"
     ]
 },
-  "bbox": [-99.443476,36.44394,-99.443476,36.44394],
+  "bbox": [
+    -99.443476,
+    36.44394,
+    -99.443476,
+    36.44394
+],
   "geometry": {"coordinates":[-99.443476,36.44394],"type":"Point"}
 }

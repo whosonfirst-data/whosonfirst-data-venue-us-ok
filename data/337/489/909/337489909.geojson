@@ -2,13 +2,14 @@
   "id": 337489909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.988707,35.292429,-98.988707,35.292429",
     "geom:latitude":35.292429,
     "geom:longitude":-98.988707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 E 1st St",
     "sg:city":"Cordell",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":337489909,
-    "wof:lastmodified":1449027389,
+    "wof:lastmodified":1466762593,
     "wof:name":"Maddox Fabric & Dry Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-98.988707,35.292429,-98.988707,35.292429],
-  "geometry": {"coordinates":[-98.988707,35.292429],"type":"Point"}
+  "bbox": [
+    -98.988707,
+    35.292429,
+    -98.988707,
+    35.292429
+],
+  "geometry": {"coordinates":[-98.98870700000001,35.292429],"type":"Point"}
 }

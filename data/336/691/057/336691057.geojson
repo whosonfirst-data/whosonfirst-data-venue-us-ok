@@ -2,13 +2,14 @@
   "id": 336691057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.390496,34.006159,-96.390496,34.006159",
     "geom:latitude":34.006159,
     "geom:longitude":-96.390496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 N Washington Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336691057,
-    "wof:lastmodified":1448997018,
+    "wof:lastmodified":1466763585,
     "wof:name":"Bryan County Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-96.390496,34.006159,-96.390496,34.006159],
+  "bbox": [
+    -96.390496,
+    34.006159,
+    -96.390496,
+    34.006159
+],
   "geometry": {"coordinates":[-96.390496,34.006159],"type":"Point"}
 }

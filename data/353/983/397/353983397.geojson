@@ -2,13 +2,14 @@
   "id": 353983397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904306,36.047288,-95.904306,36.047288",
     "geom:latitude":36.047288,
     "geom:longitude":-95.904306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7992 S Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353983397,
-    "wof:lastmodified":1449020597,
+    "wof:lastmodified":1466765926,
     "wof:name":"R L Robison",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-95.904306,36.047288,-95.904306,36.047288],
-  "geometry": {"coordinates":[-95.904306,36.047288],"type":"Point"}
+  "bbox": [
+    -95.904306,
+    36.047288,
+    -95.904306,
+    36.047288
+],
+  "geometry": {"coordinates":[-95.90430600000001,36.047288],"type":"Point"}
 }

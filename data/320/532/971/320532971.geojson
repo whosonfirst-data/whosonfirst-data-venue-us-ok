@@ -2,13 +2,14 @@
   "id": 320532971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.370087,35.711153,-95.370087,35.711153",
     "geom:latitude":35.711153,
     "geom:longitude":-95.370087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 E Peak Blvd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320532971,
-    "wof:lastmodified":1449012528,
+    "wof:lastmodified":1466766220,
     "wof:name":"John G Hasler Sr",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.370087,35.711153,-95.370087,35.711153],
+  "bbox": [
+    -95.370087,
+    35.711153,
+    -95.370087,
+    35.711153
+],
   "geometry": {"coordinates":[-95.370087,35.711153],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320214057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.90708,35.329996,-96.90708,35.329996",
     "geom:latitude":35.329996,
     "geom:longitude":-96.90708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1231 E 10th St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320214057,
-    "wof:lastmodified":1449014842,
+    "wof:lastmodified":1466764751,
     "wof:name":"Church Of The Living God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.90708,35.329996,-96.90708,35.329996],
-  "geometry": {"coordinates":[-96.90708,35.329996],"type":"Point"}
+  "bbox": [
+    -96.90708,
+    35.329996,
+    -96.90708,
+    35.329996
+],
+  "geometry": {"coordinates":[-96.90707999999999,35.329996],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320693023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.912309,35.580744,-95.912309,35.580744",
     "geom:latitude":35.580744,
     "geom:longitude":-95.912309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15648 Banyan Rd",
     "sg:city":"Morris",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320693023,
-    "wof:lastmodified":1449011464,
+    "wof:lastmodified":1466766532,
     "wof:name":"GMG Oil & Gas Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "exploration"
     ]
 },
-  "bbox": [-95.912309,35.580744,-95.912309,35.580744],
-  "geometry": {"coordinates":[-95.912309,35.580744],"type":"Point"}
+  "bbox": [
+    -95.912309,
+    35.580744,
+    -95.912309,
+    35.580744
+],
+  "geometry": {"coordinates":[-95.91230899999999,35.580744],"type":"Point"}
 }

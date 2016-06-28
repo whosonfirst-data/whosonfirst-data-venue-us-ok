@@ -2,13 +2,14 @@
   "id": 287212625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.59404,35.192664,-96.59404,35.192664",
     "geom:latitude":35.192664,
     "geom:longitude":-96.59404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Quail Creek Rd",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287212625,
-    "wof:lastmodified":1449001260,
+    "wof:lastmodified":1466764065,
     "wof:name":"His Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.59404,35.192664,-96.59404,35.192664],
-  "geometry": {"coordinates":[-96.59404,35.192664],"type":"Point"}
+  "bbox": [
+    -96.59404,
+    35.192664,
+    -96.59404,
+    35.192664
+],
+  "geometry": {"coordinates":[-96.59404000000001,35.192664],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303489289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.018349,34.391363,-99.018349,34.391363",
     "geom:latitude":34.391363,
     "geom:longitude":-99.018349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 N 9th St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303489289,
-    "wof:lastmodified":1448999458,
+    "wof:lastmodified":1466765800,
     "wof:name":"Tillman County Historical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.018349,34.391363,-99.018349,34.391363],
+  "bbox": [
+    -99.018349,
+    34.391363,
+    -99.018349,
+    34.391363
+],
   "geometry": {"coordinates":[-99.018349,34.391363],"type":"Point"}
 }

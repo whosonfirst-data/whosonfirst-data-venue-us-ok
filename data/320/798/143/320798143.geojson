@@ -2,13 +2,14 @@
   "id": 320798143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.998404,36.751446,-95.998404,36.751446",
     "geom:latitude":36.751446,
     "geom:longitude":-95.998404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 SW Frank Phillips Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320798143,
-    "wof:lastmodified":1449011953,
+    "wof:lastmodified":1466766765,
     "wof:name":"Git-N-Split Mini Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.998404,36.751446,-95.998404,36.751446],
-  "geometry": {"coordinates":[-95.998404,36.751446],"type":"Point"}
+  "bbox": [
+    -95.998404,
+    36.751446,
+    -95.998404,
+    36.751446
+],
+  "geometry": {"coordinates":[-95.99840399999999,36.751446],"type":"Point"}
 }

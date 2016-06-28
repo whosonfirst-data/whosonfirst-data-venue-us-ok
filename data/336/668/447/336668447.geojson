@@ -2,13 +2,14 @@
   "id": 336668447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.571436,36.437785,-95.571436,36.437785",
     "geom:latitude":36.437785,
     "geom:longitude":-95.571436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14500 E 400 Rd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336668447,
-    "wof:lastmodified":1448997682,
+    "wof:lastmodified":1466763232,
     "wof:name":"Cw Fiberglass Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.571436,36.437785,-95.571436,36.437785],
-  "geometry": {"coordinates":[-95.571436,36.437785],"type":"Point"}
+  "bbox": [
+    -95.571436,
+    36.437785,
+    -95.571436,
+    36.437785
+],
+  "geometry": {"coordinates":[-95.57143600000001,36.437785],"type":"Point"}
 }

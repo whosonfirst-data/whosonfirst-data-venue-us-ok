@@ -2,13 +2,14 @@
   "id": 303857633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.981175,35.61559,-95.981175,35.61559",
     "geom:latitude":35.61559,
     "geom:longitude":-95.981175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 W 13th St",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303857633,
-    "wof:lastmodified":1448999705,
+    "wof:lastmodified":1466766860,
     "wof:name":"Wooley Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-95.981175,35.61559,-95.981175,35.61559],
-  "geometry": {"coordinates":[-95.981175,35.61559],"type":"Point"}
+  "bbox": [
+    -95.981175,
+    35.61559,
+    -95.981175,
+    35.61559
+],
+  "geometry": {"coordinates":[-95.98117499999999,35.61559],"type":"Point"}
 }

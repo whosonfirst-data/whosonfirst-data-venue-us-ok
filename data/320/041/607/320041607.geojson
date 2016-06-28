@@ -2,13 +2,14 @@
   "id": 320041607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.52224,36.81615,-100.52224,36.81615",
     "geom:latitude":36.81615,
     "geom:longitude":-100.52224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Ave F",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320041607,
-    "wof:lastmodified":1449012626,
+    "wof:lastmodified":1466762907,
     "wof:name":"United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-100.52224,36.81615,-100.52224,36.81615],
+  "bbox": [
+    -100.52224,
+    36.81615,
+    -100.52224,
+    36.81615
+],
   "geometry": {"coordinates":[-100.52224,36.81615],"type":"Point"}
 }

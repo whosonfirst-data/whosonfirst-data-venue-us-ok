@@ -2,13 +2,14 @@
   "id": 319973735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.954057,36.089787,-95.954057,36.089787",
     "geom:latitude":36.089787,
     "geom:longitude":-95.954057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 E 51st St S",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319973735,
-    "wof:lastmodified":1449024564,
+    "wof:lastmodified":1466764178,
     "wof:name":"Filly Tag",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "watch"
     ]
 },
-  "bbox": [-95.954057,36.089787,-95.954057,36.089787],
-  "geometry": {"coordinates":[-95.954057,36.089787],"type":"Point"}
+  "bbox": [
+    -95.954057,
+    36.089787,
+    -95.954057,
+    36.089787
+],
+  "geometry": {"coordinates":[-95.95405700000001,36.089787],"type":"Point"}
 }

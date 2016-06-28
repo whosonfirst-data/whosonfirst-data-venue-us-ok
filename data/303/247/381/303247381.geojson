@@ -2,13 +2,14 @@
   "id": 303247381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.83683,36.415227,-97.83683,36.415227",
     "geom:latitude":36.415227,
     "geom:longitude":-97.83683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 N 30th St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303247381,
-    "wof:lastmodified":1448999553,
+    "wof:lastmodified":1466764618,
     "wof:name":"N30 Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-97.83683,36.415227,-97.83683,36.415227],
-  "geometry": {"coordinates":[-97.83683,36.415227],"type":"Point"}
+  "bbox": [
+    -97.83683,
+    36.415227,
+    -97.83683,
+    36.415227
+],
+  "geometry": {"coordinates":[-97.83683000000001,36.415227],"type":"Point"}
 }

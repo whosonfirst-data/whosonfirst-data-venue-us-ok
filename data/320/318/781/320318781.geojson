@@ -2,13 +2,14 @@
   "id": 320318781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.269322,35.406194,-97.269322,35.406194",
     "geom:latitude":35.406194,
     "geom:longitude":-97.269322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14900 SE 59th St",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320318781,
-    "wof:lastmodified":1449012080,
+    "wof:lastmodified":1466765183,
     "wof:name":"Sears Contract Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.269322,35.406194,-97.269322,35.406194],
+  "bbox": [
+    -97.269322,
+    35.406194,
+    -97.269322,
+    35.406194
+],
   "geometry": {"coordinates":[-97.269322,35.406194],"type":"Point"}
 }

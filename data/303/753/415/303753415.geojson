@@ -2,13 +2,14 @@
   "id": 303753415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.636745,35.480391,-97.636745,35.480391",
     "geom:latitude":35.480391,
     "geom:longitude":-97.636745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1131 N Rockwell Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303753415,
-    "wof:lastmodified":1448998408,
+    "wof:lastmodified":1466766621,
     "wof:name":"Westoaks Barber & Style Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.636745,35.480391,-97.636745,35.480391],
+  "bbox": [
+    -97.636745,
+    35.480391,
+    -97.636745,
+    35.480391
+],
   "geometry": {"coordinates":[-97.636745,35.480391],"type":"Point"}
 }

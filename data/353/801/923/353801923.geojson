@@ -2,13 +2,14 @@
   "id": 353801923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.749801,35.985095,-96.749801,35.985095",
     "geom:latitude":35.985095,
     "geom:longitude":-96.749801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 E Main St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353801923,
-    "wof:lastmodified":1449020384,
+    "wof:lastmodified":1466765473,
     "wof:name":"Cimarron Valley Animal Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.749801,35.985095,-96.749801,35.985095],
-  "geometry": {"coordinates":[-96.749801,35.985095],"type":"Point"}
+  "bbox": [
+    -96.749801,
+    35.985095,
+    -96.749801,
+    35.985095
+],
+  "geometry": {"coordinates":[-96.74980100000001,35.985095],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303360497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.487021,35.305249,-97.487021,35.305249",
     "geom:latitude":35.305249,
     "geom:longitude":-97.487021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 SW 34th St",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303360497,
-    "wof:lastmodified":1449000005,
+    "wof:lastmodified":1466765128,
     "wof:name":"Shelley Enterprise Cars",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.487021,35.305249,-97.487021,35.305249],
+  "bbox": [
+    -97.487021,
+    35.305249,
+    -97.487021,
+    35.305249
+],
   "geometry": {"coordinates":[-97.487021,35.305249],"type":"Point"}
 }

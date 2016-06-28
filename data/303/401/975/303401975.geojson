@@ -2,13 +2,14 @@
   "id": 303401975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.051433,36.135684,-97.051433,36.135684",
     "geom:latitude":36.135684,
     "geom:longitude":-97.051433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 N Perkins Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303401975,
-    "wof:lastmodified":1449000201,
+    "wof:lastmodified":1466765531,
     "wof:name":"J R's Liquor & Wine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-97.051433,36.135684,-97.051433,36.135684],
+  "bbox": [
+    -97.051433,
+    36.135684,
+    -97.051433,
+    36.135684
+],
   "geometry": {"coordinates":[-97.051433,36.135684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320126799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.072556,36.056428,-96.072556,36.056428",
     "geom:latitude":36.056428,
     "geom:longitude":-96.072556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 New Sapulpa Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320126799,
-    "wof:lastmodified":1449012660,
+    "wof:lastmodified":1466764387,
     "wof:name":"Windmill Run Marina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-96.072556,36.056428,-96.072556,36.056428],
-  "geometry": {"coordinates":[-96.072556,36.056428],"type":"Point"}
+  "bbox": [
+    -96.072556,
+    36.056428,
+    -96.072556,
+    36.056428
+],
+  "geometry": {"coordinates":[-96.07255600000001,36.056428],"type":"Point"}
 }

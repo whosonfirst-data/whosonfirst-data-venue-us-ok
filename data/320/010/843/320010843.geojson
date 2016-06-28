@@ -2,13 +2,14 @@
   "id": 320010843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.891961,36.097856,-95.891961,36.097856",
     "geom:latitude":36.097856,
     "geom:longitude":-95.891961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7405 E 46th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320010843,
-    "wof:lastmodified":1449013578,
+    "wof:lastmodified":1466762443,
     "wof:name":"Body Boutique",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-95.891961,36.097856,-95.891961,36.097856],
-  "geometry": {"coordinates":[-95.891961,36.097856],"type":"Point"}
+  "bbox": [
+    -95.891961,
+    36.097856,
+    -95.891961,
+    36.097856
+],
+  "geometry": {"coordinates":[-95.89196099999999,36.097856],"type":"Point"}
 }

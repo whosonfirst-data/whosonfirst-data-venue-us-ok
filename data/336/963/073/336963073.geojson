@@ -2,13 +2,14 @@
   "id": 336963073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.218016,34.539975,-96.218016,34.539975",
     "geom:latitude":34.539975,
     "geom:longitude":-96.218016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N Main St",
     "sg:city":"Coalgate",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336963073,
-    "wof:lastmodified":1448997038,
+    "wof:lastmodified":1466765676,
     "wof:name":"Atoka Coal and Pontotoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "general"
     ]
 },
-  "bbox": [-96.218016,34.539975,-96.218016,34.539975],
-  "geometry": {"coordinates":[-96.218016,34.539975],"type":"Point"}
+  "bbox": [
+    -96.218016,
+    34.539975,
+    -96.218016,
+    34.539975
+],
+  "geometry": {"coordinates":[-96.21801600000001,34.539975],"type":"Point"}
 }

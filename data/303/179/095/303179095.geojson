@@ -2,13 +2,14 @@
   "id": 303179095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.340373,35.756318,-95.340373,35.756318",
     "geom:latitude":35.756318,
     "geom:longitude":-95.340373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 N York St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303179095,
-    "wof:lastmodified":1449000318,
+    "wof:lastmodified":1466764324,
     "wof:name":"Zollie's Restaurant",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.340373,35.756318,-95.340373,35.756318],
+  "bbox": [
+    -95.340373,
+    35.756318,
+    -95.340373,
+    35.756318
+],
   "geometry": {"coordinates":[-95.340373,35.756318],"type":"Point"}
 }

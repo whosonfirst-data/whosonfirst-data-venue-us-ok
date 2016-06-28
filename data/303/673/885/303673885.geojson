@@ -2,13 +2,14 @@
   "id": 303673885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.84753,36.329556,-97.84753,36.329556",
     "geom:latitude":36.329556,
     "geom:longitude":-97.84753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2129 E Allen Rd",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303673885,
-    "wof:lastmodified":1448999065,
+    "wof:lastmodified":1466766569,
     "wof:name":"Rocking W Round Pens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "stall"
     ]
 },
-  "bbox": [-97.84753,36.329556,-97.84753,36.329556],
-  "geometry": {"coordinates":[-97.84753,36.329556],"type":"Point"}
+  "bbox": [
+    -97.84753,
+    36.329556,
+    -97.84753,
+    36.329556
+],
+  "geometry": {"coordinates":[-97.84753000000001,36.329556],"type":"Point"}
 }

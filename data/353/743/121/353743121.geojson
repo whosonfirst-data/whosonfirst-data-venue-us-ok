@@ -2,13 +2,14 @@
   "id": 353743121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.098519,35.025471,-99.098519,35.025471",
     "geom:latitude":35.025471,
     "geom:longitude":-99.098519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 S Randlett St",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353743121,
-    "wof:lastmodified":1449020773,
+    "wof:lastmodified":1466765081,
     "wof:name":"St Peter & Paul Catholic Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-99.098519,35.025471,-99.098519,35.025471],
+  "bbox": [
+    -99.098519,
+    35.025471,
+    -99.098519,
+    35.025471
+],
   "geometry": {"coordinates":[-99.098519,35.025471],"type":"Point"}
 }

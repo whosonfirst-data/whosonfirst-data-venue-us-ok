@@ -2,13 +2,14 @@
   "id": 353885827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.827108,33.895915,-94.827108,33.895915",
     "geom:latitude":33.895915,
     "geom:longitude":-94.827108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 NE A Ave",
     "sg:city":"Idabel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353885827,
-    "wof:lastmodified":1449019614,
+    "wof:lastmodified":1466765646,
     "wof:name":"Budget Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-94.827108,33.895915,-94.827108,33.895915],
+  "bbox": [
+    -94.827108,
+    33.895915,
+    -94.827108,
+    33.895915
+],
   "geometry": {"coordinates":[-94.827108,33.895915],"type":"Point"}
 }

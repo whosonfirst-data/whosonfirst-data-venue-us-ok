@@ -2,13 +2,14 @@
   "id": 320463367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.474733,34.012508,-96.474733,34.012508",
     "geom:latitude":34.012508,
     "geom:longitude":-96.474733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Nelson Rd",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320463367,
-    "wof:lastmodified":1449013864,
+    "wof:lastmodified":1466765854,
     "wof:name":"Texoma Carriage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carriage"
     ]
 },
-  "bbox": [-96.474733,34.012508,-96.474733,34.012508],
+  "bbox": [
+    -96.474733,
+    34.012508,
+    -96.474733,
+    34.012508
+],
   "geometry": {"coordinates":[-96.474733,34.012508],"type":"Point"}
 }

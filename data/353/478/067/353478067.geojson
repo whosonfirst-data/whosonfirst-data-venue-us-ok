@@ -2,13 +2,14 @@
   "id": 353478067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.605651,36.321765,-95.605651,36.321765",
     "geom:latitude":36.321765,
     "geom:longitude":-95.605651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 W Blue Starr Dr",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353478067,
-    "wof:lastmodified":1449018326,
+    "wof:lastmodified":1466762867,
     "wof:name":"Women's Healthcare-Rogers Cnty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.605651,36.321765,-95.605651,36.321765],
-  "geometry": {"coordinates":[-95.605651,36.321765],"type":"Point"}
+  "bbox": [
+    -95.605651,
+    36.321765,
+    -95.605651,
+    36.321765
+],
+  "geometry": {"coordinates":[-95.60565099999999,36.321765],"type":"Point"}
 }

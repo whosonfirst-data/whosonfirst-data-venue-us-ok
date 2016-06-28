@@ -2,13 +2,14 @@
   "id": 353544807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.691235,36.060786,-95.691235,36.060786",
     "geom:latitude":36.060786,
     "geom:longitude":-95.691235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25695 E 71st St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353544807,
-    "wof:lastmodified":1449020789,
+    "wof:lastmodified":1466763773,
     "wof:name":"Peep's Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.691235,36.060786,-95.691235,36.060786],
-  "geometry": {"coordinates":[-95.691235,36.060786],"type":"Point"}
+  "bbox": [
+    -95.691235,
+    36.060786,
+    -95.691235,
+    36.060786
+],
+  "geometry": {"coordinates":[-95.69123500000001,36.060786],"type":"Point"}
 }

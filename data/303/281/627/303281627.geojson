@@ -2,13 +2,14 @@
   "id": 303281627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.374715,35.738276,-95.374715,35.738276",
     "geom:latitude":35.738276,
     "geom:longitude":-95.374715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 S Main St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303281627,
-    "wof:lastmodified":1449000189,
+    "wof:lastmodified":1466764871,
     "wof:name":"Matthews U-Haul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-95.374715,35.738276,-95.374715,35.738276],
-  "geometry": {"coordinates":[-95.374715,35.738276],"type":"Point"}
+  "bbox": [
+    -95.374715,
+    35.738276,
+    -95.374715,
+    35.738276
+],
+  "geometry": {"coordinates":[-95.37471499999999,35.738276],"type":"Point"}
 }

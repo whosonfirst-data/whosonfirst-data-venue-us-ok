@@ -2,13 +2,14 @@
   "id": 353732801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.578291,35.546235,-98.578291,35.546235",
     "geom:latitude":35.546235,
     "geom:longitude":-98.578291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Arapaho Ave",
     "sg:city":"Hydro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353732801,
-    "wof:lastmodified":1449020894,
+    "wof:lastmodified":1466764919,
     "wof:name":"Linda's Hair & Tanning Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.578291,35.546235,-98.578291,35.546235],
-  "geometry": {"coordinates":[-98.578291,35.546235],"type":"Point"}
+  "bbox": [
+    -98.578291,
+    35.546235,
+    -98.578291,
+    35.546235
+],
+  "geometry": {"coordinates":[-98.57829099999999,35.546235],"type":"Point"}
 }

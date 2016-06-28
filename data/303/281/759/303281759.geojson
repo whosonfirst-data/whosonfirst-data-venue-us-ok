@@ -2,13 +2,14 @@
   "id": 303281759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534171,35.51851,-97.534171,35.51851",
     "geom:latitude":35.51851,
     "geom:longitude":-97.534171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4618 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303281759,
-    "wof:lastmodified":1449000189,
+    "wof:lastmodified":1466764986,
     "wof:name":"Commercial Cleaning Svc",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-97.534171,35.51851,-97.534171,35.51851],
+  "bbox": [
+    -97.534171,
+    35.51851,
+    -97.534171,
+    35.51851
+],
   "geometry": {"coordinates":[-97.534171,35.51851],"type":"Point"}
 }

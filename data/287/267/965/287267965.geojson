@@ -2,13 +2,14 @@
   "id": 287267965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.028639,36.150793,-96.028639,36.150793",
     "geom:latitude":36.150793,
     "geom:longitude":-96.028639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Charles Page Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287267965,
-    "wof:lastmodified":1449001504,
+    "wof:lastmodified":1466762955,
     "wof:name":"New Fab",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-96.028639,36.150793,-96.028639,36.150793],
+  "bbox": [
+    -96.028639,
+    36.150793,
+    -96.028639,
+    36.150793
+],
   "geometry": {"coordinates":[-96.028639,36.150793],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303581299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.176708,35.356983,-99.176708,35.356983",
     "geom:latitude":35.356983,
     "geom:longitude":-99.176708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Iroquois Trl",
     "sg:city":"Burns Flat",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303581299,
-    "wof:lastmodified":1448998630,
+    "wof:lastmodified":1466766146,
     "wof:name":"Hudgins Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.176708,35.356983,-99.176708,35.356983],
+  "bbox": [
+    -99.176708,
+    35.356983,
+    -99.176708,
+    35.356983
+],
   "geometry": {"coordinates":[-99.176708,35.356983],"type":"Point"}
 }

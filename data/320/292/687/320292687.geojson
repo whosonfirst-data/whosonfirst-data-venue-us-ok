@@ -2,13 +2,14 @@
   "id": 320292687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.837789,36.364392,-95.837789,36.364392",
     "geom:latitude":36.364392,
     "geom:longitude":-95.837789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 S 11th St",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320292687,
-    "wof:lastmodified":1449011559,
+    "wof:lastmodified":1466765124,
     "wof:name":"One Way",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.837789,36.364392,-95.837789,36.364392],
+  "bbox": [
+    -95.837789,
+    36.364392,
+    -95.837789,
+    36.364392
+],
   "geometry": {"coordinates":[-95.837789,36.364392],"type":"Point"}
 }

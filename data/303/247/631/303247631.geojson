@@ -2,13 +2,14 @@
   "id": 303247631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.515942,35.468873,-97.515942,35.468873",
     "geom:latitude":35.468873,
     "geom:longitude":-97.515942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Park Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303247631,
-    "wof:lastmodified":1448999553,
+    "wof:lastmodified":1466764620,
     "wof:name":"Warren T Carter",
     "wof:parent_id":85871717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.515942,35.468873,-97.515942,35.468873],
+  "bbox": [
+    -97.515942,
+    35.468873,
+    -97.515942,
+    35.468873
+],
   "geometry": {"coordinates":[-97.515942,35.468873],"type":"Point"}
 }

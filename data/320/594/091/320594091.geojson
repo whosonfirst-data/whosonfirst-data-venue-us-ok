@@ -2,13 +2,14 @@
   "id": 320594091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.395383,35.186915,-97.395383,35.186915",
     "geom:latitude":35.186915,
     "geom:longitude":-97.395383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2450 John Saxon Blvd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320594091,
-    "wof:lastmodified":1449011790,
+    "wof:lastmodified":1466766375,
     "wof:name":"Saxon Publishers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-97.395383,35.186915,-97.395383,35.186915],
+  "bbox": [
+    -97.395383,
+    35.186915,
+    -97.395383,
+    35.186915
+],
   "geometry": {"coordinates":[-97.395383,35.186915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320015499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.759881,34.947608,-95.759881,34.947608",
     "geom:latitude":34.947608,
     "geom:longitude":-95.759881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 E Gene Stipe Blvd",
     "sg:city":"Krebs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320015499,
-    "wof:lastmodified":1449012109,
+    "wof:lastmodified":1466762510,
     "wof:name":"Ralph's Auto Repair",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-95.759881,34.947608,-95.759881,34.947608],
-  "geometry": {"coordinates":[-95.759881,34.947608],"type":"Point"}
+  "bbox": [
+    -95.759881,
+    34.947608,
+    -95.759881,
+    34.947608
+],
+  "geometry": {"coordinates":[-95.75988099999999,34.947608],"type":"Point"}
 }

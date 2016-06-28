@@ -2,13 +2,14 @@
   "id": 303777113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.99613,36.751413,-95.99613,36.751413",
     "geom:latitude":36.751413,
     "geom:longitude":-95.99613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 SW Adeline Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303777113,
-    "wof:lastmodified":1448999413,
+    "wof:lastmodified":1466766682,
     "wof:name":"Holtz Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.99613,36.751413,-95.99613,36.751413],
-  "geometry": {"coordinates":[-95.99613,36.751413],"type":"Point"}
+  "bbox": [
+    -95.99613,
+    36.751413,
+    -95.99613,
+    36.751413
+],
+  "geometry": {"coordinates":[-95.99612999999999,36.751413],"type":"Point"}
 }

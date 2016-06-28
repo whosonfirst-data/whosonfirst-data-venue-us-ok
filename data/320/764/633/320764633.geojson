@@ -2,13 +2,14 @@
   "id": 320764633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.539642,35.569511,-97.539642,35.569511",
     "geom:latitude":35.569511,
     "geom:longitude":-97.539642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1433 NW 97th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320764633,
-    "wof:lastmodified":1449014789,
+    "wof:lastmodified":1466766743,
     "wof:name":"Aguascalientes Trucking",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.539642,35.569511,-97.539642,35.569511],
+  "bbox": [
+    -97.539642,
+    35.569511,
+    -97.539642,
+    35.569511
+],
   "geometry": {"coordinates":[-97.539642,35.569511],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303738421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.629895,35.525614,-97.629895,35.525614",
     "geom:latitude":35.525614,
     "geom:longitude":-97.629895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 N Central Rd",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303738421,
-    "wof:lastmodified":1448999911,
+    "wof:lastmodified":1466766438,
     "wof:name":"Bethany Public Works Dept",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-97.629895,35.525614,-97.629895,35.525614],
+  "bbox": [
+    -97.629895,
+    35.525614,
+    -97.629895,
+    35.525614
+],
   "geometry": {"coordinates":[-97.629895,35.525614],"type":"Point"}
 }

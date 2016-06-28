@@ -2,13 +2,14 @@
   "id": 336677101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.425388,36.432076,-99.425388,36.432076",
     "geom:latitude":36.432076,
     "geom:longitude":-99.425388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 34th St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336677101,
-    "wof:lastmodified":1448997316,
+    "wof:lastmodified":1466763369,
     "wof:name":"Lakeside Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.425388,36.432076,-99.425388,36.432076],
+  "bbox": [
+    -99.425388,
+    36.432076,
+    -99.425388,
+    36.432076
+],
   "geometry": {"coordinates":[-99.425388,36.432076],"type":"Point"}
 }

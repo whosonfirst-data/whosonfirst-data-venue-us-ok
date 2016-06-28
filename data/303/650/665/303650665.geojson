@@ -2,13 +2,14 @@
   "id": 303650665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.928054,36.06001,-95.928054,36.06001",
     "geom:latitude":36.06001,
     "geom:longitude":-95.928054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4120 E 72nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303650665,
-    "wof:lastmodified":1448999611,
+    "wof:lastmodified":1466766254,
     "wof:name":"Gobbo Group Inc",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.928054,36.06001,-95.928054,36.06001],
+  "bbox": [
+    -95.928054,
+    36.06001,
+    -95.928054,
+    36.06001
+],
   "geometry": {"coordinates":[-95.928054,36.06001],"type":"Point"}
 }

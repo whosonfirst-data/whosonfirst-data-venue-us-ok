@@ -2,13 +2,14 @@
   "id": 353997381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.82053,36.351105,-95.82053,36.351105",
     "geom:latitude":36.351105,
     "geom:longitude":-95.82053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13795 E 136th St N",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353997381,
-    "wof:lastmodified":1449020375,
+    "wof:lastmodified":1466765898,
     "wof:name":"Colt Fixtures & Millwork LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-95.82053,36.351105,-95.82053,36.351105],
-  "geometry": {"coordinates":[-95.82053,36.351105],"type":"Point"}
+  "bbox": [
+    -95.82053,
+    36.351105,
+    -95.82053,
+    36.351105
+],
+  "geometry": {"coordinates":[-95.82053000000001,36.351105],"type":"Point"}
 }

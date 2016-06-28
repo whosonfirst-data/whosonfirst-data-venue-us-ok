@@ -2,13 +2,14 @@
   "id": 303832621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.598344,34.831196,-97.598344,34.831196",
     "geom:latitude":34.831196,
     "geom:longitude":-97.598344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 SE 4th St",
     "sg:city":"Lindsay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303832621,
-    "wof:lastmodified":1448998130,
+    "wof:lastmodified":1466766795,
     "wof:name":"Pumping Unit Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-97.598344,34.831196,-97.598344,34.831196],
+  "bbox": [
+    -97.598344,
+    34.831196,
+    -97.598344,
+    34.831196
+],
   "geometry": {"coordinates":[-97.598344,34.831196],"type":"Point"}
 }

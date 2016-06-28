@@ -2,13 +2,14 @@
   "id": 320603155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.310574,34.362175,-98.310574,34.362175",
     "geom:latitude":34.362175,
     "geom:longitude":-98.310574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 W Missouri Ave",
     "sg:city":"Walters",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320603155,
-    "wof:lastmodified":1449014398,
+    "wof:lastmodified":1466766288,
     "wof:name":"United Super Markets of Okla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-98.310574,34.362175,-98.310574,34.362175],
+  "bbox": [
+    -98.310574,
+    34.362175,
+    -98.310574,
+    34.362175
+],
   "geometry": {"coordinates":[-98.310574,34.362175],"type":"Point"}
 }

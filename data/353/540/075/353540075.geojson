@@ -2,13 +2,14 @@
   "id": 353540075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.521555,35.663236,-97.521555,35.663236",
     "geom:latitude":35.663236,
     "geom:longitude":-97.521555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Adam's Trl",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353540075,
-    "wof:lastmodified":1449019272,
+    "wof:lastmodified":1466763704,
     "wof:name":"G L K Homecare Medical Plus",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-97.521555,35.663236,-97.521555,35.663236],
-  "geometry": {"coordinates":[-97.521555,35.663236],"type":"Point"}
+  "bbox": [
+    -97.521555,
+    35.663236,
+    -97.521555,
+    35.663236
+],
+  "geometry": {"coordinates":[-97.52155500000001,35.663236],"type":"Point"}
 }

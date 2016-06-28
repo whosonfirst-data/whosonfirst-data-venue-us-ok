@@ -2,13 +2,14 @@
   "id": 303440487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.267666,35.493172,-97.267666,35.493172",
     "geom:latitude":35.493172,
     "geom:longitude":-97.267666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14803 NE 23rd St",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303440487,
-    "wof:lastmodified":1448998985,
+    "wof:lastmodified":1466765627,
     "wof:name":"Quality Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.267666,35.493172,-97.267666,35.493172],
-  "geometry": {"coordinates":[-97.267666,35.493172],"type":"Point"}
+  "bbox": [
+    -97.267666,
+    35.493172,
+    -97.267666,
+    35.493172
+],
+  "geometry": {"coordinates":[-97.26766600000001,35.493172],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336724319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.017915,35.798097,-97.017915,35.798097",
     "geom:latitude":35.798097,
     "geom:longitude":-97.017915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 US Hwy 177",
     "sg:city":"Asher",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336724319,
-    "wof:lastmodified":1448997976,
+    "wof:lastmodified":1466764091,
     "wof:name":"Circle B Quick Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.017915,35.798097,-97.017915,35.798097],
+  "bbox": [
+    -97.017915,
+    35.798097,
+    -97.017915,
+    35.798097
+],
   "geometry": {"coordinates":[-97.017915,35.798097],"type":"Point"}
 }

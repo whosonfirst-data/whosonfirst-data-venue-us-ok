@@ -2,13 +2,14 @@
   "id": 353519169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.959859,35.973305,-94.959859,35.973305",
     "geom:latitude":35.973305,
     "geom:longitude":-94.959859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18877 E Steely Hollow Rd",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353519169,
-    "wof:lastmodified":1449020624,
+    "wof:lastmodified":1466763407,
     "wof:name":"Robbins Auto Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.959859,35.973305,-94.959859,35.973305],
-  "geometry": {"coordinates":[-94.959859,35.973305],"type":"Point"}
+  "bbox": [
+    -94.959859,
+    35.973305,
+    -94.959859,
+    35.973305
+],
+  "geometry": {"coordinates":[-94.95985899999999,35.973305],"type":"Point"}
 }

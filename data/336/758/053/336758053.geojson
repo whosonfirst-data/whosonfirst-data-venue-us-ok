@@ -2,13 +2,14 @@
   "id": 336758053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.373138,35.74084,-95.373138,35.74084",
     "geom:latitude":35.74084,
     "geom:longitude":-95.373138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 W Southside Blvd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336758053,
-    "wof:lastmodified":1448997269,
+    "wof:lastmodified":1466764328,
     "wof:name":"Muskogee Overhead Door",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "garage"
     ]
 },
-  "bbox": [-95.373138,35.74084,-95.373138,35.74084],
+  "bbox": [
+    -95.373138,
+    35.74084,
+    -95.373138,
+    35.74084
+],
   "geometry": {"coordinates":[-95.373138,35.74084],"type":"Point"}
 }

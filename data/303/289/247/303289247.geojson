@@ -2,13 +2,14 @@
   "id": 303289247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.781449,34.94736,-95.781449,34.94736",
     "geom:latitude":34.94736,
     "geom:longitude":-95.781449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 N West St",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303289247,
-    "wof:lastmodified":1449000156,
+    "wof:lastmodified":1466764804,
     "wof:name":"Pittsburg County Juvenile",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-95.781449,34.94736,-95.781449,34.94736],
-  "geometry": {"coordinates":[-95.781449,34.94736],"type":"Point"}
+  "bbox": [
+    -95.781449,
+    34.94736,
+    -95.781449,
+    34.94736
+],
+  "geometry": {"coordinates":[-95.78144899999999,34.94736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320206091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.333982,34.64198,-99.333982,34.64198",
     "geom:latitude":34.64198,
     "geom:longitude":-99.333982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 N Main St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320206091,
-    "wof:lastmodified":1449013814,
+    "wof:lastmodified":1466764629,
     "wof:name":"S S P Partners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [-99.333982,34.64198,-99.333982,34.64198],
-  "geometry": {"coordinates":[-99.333982,34.64198],"type":"Point"}
+  "bbox": [
+    -99.333982,
+    34.64198,
+    -99.333982,
+    34.64198
+],
+  "geometry": {"coordinates":[-99.33398200000001,34.64198],"type":"Point"}
 }

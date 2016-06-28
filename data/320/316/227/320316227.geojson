@@ -2,13 +2,14 @@
   "id": 320316227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.095822,35.026786,-99.095822,35.026786",
     "geom:latitude":35.026786,
     "geom:longitude":-99.095822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 S Broadway Ave",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320316227,
-    "wof:lastmodified":1449013805,
+    "wof:lastmodified":1466765154,
     "wof:name":"Terry's Style Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-99.095822,35.026786,-99.095822,35.026786],
+  "bbox": [
+    -99.095822,
+    35.026786,
+    -99.095822,
+    35.026786
+],
   "geometry": {"coordinates":[-99.095822,35.026786],"type":"Point"}
 }

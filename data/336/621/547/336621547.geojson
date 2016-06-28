@@ -2,13 +2,14 @@
   "id": 336621547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.95914,35.516645,-97.95914,35.516645",
     "geom:latitude":35.516645,
     "geom:longitude":-97.95914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 S Miles Ave",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":336621547,
-    "wof:lastmodified":1448997891,
+    "wof:lastmodified":1466762516,
     "wof:name":"Six-M's Septic Tank",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-97.95914,35.516645,-97.95914,35.516645],
+  "bbox": [
+    -97.95914,
+    35.516645,
+    -97.95914,
+    35.516645
+],
   "geometry": {"coordinates":[-97.95914,35.516645],"type":"Point"}
 }

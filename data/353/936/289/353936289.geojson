@@ -2,13 +2,14 @@
   "id": 353936289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565587,35.394345,-97.565587,35.394345",
     "geom:latitude":35.394345,
     "geom:longitude":-97.565587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6901 S May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353936289,
-    "wof:lastmodified":1449019111,
+    "wof:lastmodified":1466765683,
     "wof:name":"Outlaws Barbeque",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.565587,35.394345,-97.565587,35.394345],
-  "geometry": {"coordinates":[-97.565587,35.394345],"type":"Point"}
+  "bbox": [
+    -97.565587,
+    35.394345,
+    -97.565587,
+    35.394345
+],
+  "geometry": {"coordinates":[-97.56558699999999,35.394345],"type":"Point"}
 }

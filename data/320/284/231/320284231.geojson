@@ -2,13 +2,14 @@
   "id": 320284231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.75501,34.912329,-95.75501,34.912329",
     "geom:latitude":34.912329,
     "geom:longitude":-95.75501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Vieux Dr",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320284231,
-    "wof:lastmodified":1449013571,
+    "wof:lastmodified":1466764975,
     "wof:name":"Staples Const",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-95.75501,34.912329,-95.75501,34.912329],
+  "bbox": [
+    -95.75501,
+    34.912329,
+    -95.75501,
+    34.912329
+],
   "geometry": {"coordinates":[-95.75501,34.912329],"type":"Point"}
 }

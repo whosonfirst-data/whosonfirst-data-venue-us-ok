@@ -2,13 +2,14 @@
   "id": 320168145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.649392,35.574062,-97.649392,35.574062",
     "geom:latitude":35.574062,
     "geom:longitude":-97.649392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7628 NW 101st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320168145,
-    "wof:lastmodified":1449013209,
+    "wof:lastmodified":1466764455,
     "wof:name":"Brian Powley",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.649392,35.574062,-97.649392,35.574062],
-  "geometry": {"coordinates":[-97.649392,35.574062],"type":"Point"}
+  "bbox": [
+    -97.649392,
+    35.574062,
+    -97.649392,
+    35.574062
+],
+  "geometry": {"coordinates":[-97.64939200000001,35.574062],"type":"Point"}
 }

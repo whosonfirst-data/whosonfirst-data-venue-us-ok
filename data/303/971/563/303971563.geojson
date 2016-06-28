@@ -2,13 +2,14 @@
   "id": 303971563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.601166,35.475963,-97.601166,35.475963",
     "geom:latitude":35.475963,
     "geom:longitude":-97.601166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 N Meridian Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303971563,
-    "wof:lastmodified":1448999354,
+    "wof:lastmodified":1466767057,
     "wof:name":"American Self Storage",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-97.601166,35.475963,-97.601166,35.475963],
-  "geometry": {"coordinates":[-97.601166,35.475963],"type":"Point"}
+  "bbox": [
+    -97.601166,
+    35.475963,
+    -97.601166,
+    35.475963
+],
+  "geometry": {"coordinates":[-97.60116600000001,35.475963],"type":"Point"}
 }

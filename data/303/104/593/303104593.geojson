@@ -2,13 +2,14 @@
   "id": 303104593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.567113,35.580238,-97.567113,35.580238",
     "geom:latitude":35.580238,
     "geom:longitude":-97.567113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11002 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303104593,
-    "wof:lastmodified":1448999126,
+    "wof:lastmodified":1466763312,
     "wof:name":"Dowell Clinic",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.567113,35.580238,-97.567113,35.580238],
-  "geometry": {"coordinates":[-97.567113,35.580238],"type":"Point"}
+  "bbox": [
+    -97.567113,
+    35.580238,
+    -97.567113,
+    35.580238
+],
+  "geometry": {"coordinates":[-97.56711300000001,35.580238],"type":"Point"}
 }

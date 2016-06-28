@@ -2,13 +2,14 @@
   "id": 354022709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.989168,35.916469,-94.989168,35.916469",
     "geom:latitude":35.916469,
     "geom:longitude":-94.989168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 W Choctaw St",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354022709,
-    "wof:lastmodified":1449066478,
+    "wof:lastmodified":1466763083,
     "wof:name":"Bocho",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.989168,35.916469,-94.989168,35.916469],
-  "geometry": {"coordinates":[-94.989168,35.916469],"type":"Point"}
+  "bbox": [
+    -94.989168,
+    35.916469,
+    -94.989168,
+    35.916469
+],
+  "geometry": {"coordinates":[-94.98916800000001,35.916469],"type":"Point"}
 }

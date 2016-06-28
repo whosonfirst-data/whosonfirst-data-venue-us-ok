@@ -2,13 +2,14 @@
   "id": 354135479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.123319,35.253559,-95.123319,35.253559",
     "geom:latitude":35.253559,
     "geom:longitude":-95.123319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 SE 3rd St",
     "sg:city":"Stigler",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354135479,
-    "wof:lastmodified":1449066570,
+    "wof:lastmodified":1466763640,
     "wof:name":"Haskell Cnty Conservation Dst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "con"
     ]
 },
-  "bbox": [-95.123319,35.253559,-95.123319,35.253559],
+  "bbox": [
+    -95.123319,
+    35.253559,
+    -95.123319,
+    35.253559
+],
   "geometry": {"coordinates":[-95.123319,35.253559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304048423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.415997,35.201248,-97.415997,35.201248",
     "geom:latitude":35.201248,
     "geom:longitude":-97.415997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 Creekside Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304048423,
-    "wof:lastmodified":1449043751,
+    "wof:lastmodified":1466763099,
     "wof:name":"Bloye Reporting Service Inc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-97.415997,35.201248,-97.415997,35.201248],
+  "bbox": [
+    -97.415997,
+    35.201248,
+    -97.415997,
+    35.201248
+],
   "geometry": {"coordinates":[-97.415997,35.201248],"type":"Point"}
 }

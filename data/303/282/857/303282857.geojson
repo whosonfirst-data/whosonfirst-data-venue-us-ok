@@ -2,13 +2,14 @@
   "id": 303282857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.687287,35.487503,-96.687287,35.487503",
     "geom:latitude":35.487503,
     "geom:longitude":-96.687287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Mitacek Ave",
     "sg:city":"Prague",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303282857,
-    "wof:lastmodified":1448999649,
+    "wof:lastmodified":1466764778,
     "wof:name":"Community Hospice Of Oklahoma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-96.687287,35.487503,-96.687287,35.487503],
+  "bbox": [
+    -96.687287,
+    35.487503,
+    -96.687287,
+    35.487503
+],
   "geometry": {"coordinates":[-96.687287,35.487503],"type":"Point"}
 }

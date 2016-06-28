@@ -2,13 +2,14 @@
   "id": 303224467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.120497,34.185941,-97.120497,34.185941",
     "geom:latitude":34.185941,
     "geom:longitude":-97.120497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Sam Noble Pkwy",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303224467,
-    "wof:lastmodified":1448999905,
+    "wof:lastmodified":1466764582,
     "wof:name":"A & A Pump Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.120497,34.185941,-97.120497,34.185941],
+  "bbox": [
+    -97.120497,
+    34.185941,
+    -97.120497,
+    34.185941
+],
   "geometry": {"coordinates":[-97.120497,34.185941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320435623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.096135,35.028656,-99.096135,35.028656",
     "geom:latitude":35.028656,
     "geom:longitude":-99.096135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 N Broadway Ave",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320435623,
-    "wof:lastmodified":1449014620,
+    "wof:lastmodified":1466765905,
     "wof:name":"Southwest Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-99.096135,35.028656,-99.096135,35.028656],
+  "bbox": [
+    -99.096135,
+    35.028656,
+    -99.096135,
+    35.028656
+],
   "geometry": {"coordinates":[-99.096135,35.028656],"type":"Point"}
 }

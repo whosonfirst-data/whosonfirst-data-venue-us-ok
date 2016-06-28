@@ -2,13 +2,14 @@
   "id": 320512717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406396,35.483352,-97.406396,35.483352",
     "geom:latitude":35.483352,
     "geom:longitude":-97.406396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 N Air Depot Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320512717,
-    "wof:lastmodified":1449013972,
+    "wof:lastmodified":1466766181,
     "wof:name":"McConells Body Shop Inc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.406396,35.483352,-97.406396,35.483352],
+  "bbox": [
+    -97.406396,
+    35.483352,
+    -97.406396,
+    35.483352
+],
   "geometry": {"coordinates":[-97.406396,35.483352],"type":"Point"}
 }

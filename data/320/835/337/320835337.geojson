@@ -2,13 +2,14 @@
   "id": 320835337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.627856,35.817366,-94.627856,35.817366",
     "geom:latitude":35.817366,
     "geom:longitude":-94.627856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 W Pine St",
     "sg:city":"Stilwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320835337,
-    "wof:lastmodified":1449011788,
+    "wof:lastmodified":1466766921,
     "wof:name":"Soil & Water Conservation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-94.627856,35.817366,-94.627856,35.817366],
-  "geometry": {"coordinates":[-94.627856,35.817366],"type":"Point"}
+  "bbox": [
+    -94.627856,
+    35.817366,
+    -94.627856,
+    35.817366
+],
+  "geometry": {"coordinates":[-94.62785599999999,35.817366],"type":"Point"}
 }

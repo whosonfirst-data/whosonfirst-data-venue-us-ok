@@ -2,13 +2,14 @@
   "id": 353432381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.641289,35.292548,-99.641289,35.292548",
     "geom:latitude":35.292548,
     "geom:longitude":-99.641289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 N 5th St",
     "sg:city":"Sayre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353432381,
-    "wof:lastmodified":1449018209,
+    "wof:lastmodified":1466762611,
     "wof:name":"Johnson Fertilizer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-99.641289,35.292548,-99.641289,35.292548],
+  "bbox": [
+    -99.641289,
+    35.292548,
+    -99.641289,
+    35.292548
+],
   "geometry": {"coordinates":[-99.641289,35.292548],"type":"Point"}
 }

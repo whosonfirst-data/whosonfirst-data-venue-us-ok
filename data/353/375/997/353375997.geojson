@@ -2,13 +2,14 @@
   "id": 353375997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.184855,35.373873,-97.184855,35.373873",
     "geom:latitude":35.373873,
     "geom:longitude":-97.184855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19308 Rock Springs Dr",
     "sg:city":"Newalla",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353375997,
-    "wof:lastmodified":1449018334,
+    "wof:lastmodified":1466762311,
     "wof:name":"Larry Firkins Tile",
     "wof:parent_id":85830865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.184855,35.373873,-97.184855,35.373873],
+  "bbox": [
+    -97.184855,
+    35.373873,
+    -97.184855,
+    35.373873
+],
   "geometry": {"coordinates":[-97.184855,35.373873],"type":"Point"}
 }

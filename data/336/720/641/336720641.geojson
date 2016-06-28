@@ -2,13 +2,14 @@
   "id": 336720641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.763663,34.929346,-95.763663,34.929346",
     "geom:latitude":34.929346,
     "geom:longitude":-95.763663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 E Chickasaw Ave",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336720641,
-    "wof:lastmodified":1448997208,
+    "wof:lastmodified":1466764037,
     "wof:name":"Southeastern Oklahoma Social",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-95.763663,34.929346,-95.763663,34.929346],
-  "geometry": {"coordinates":[-95.763663,34.929346],"type":"Point"}
+  "bbox": [
+    -95.763663,
+    34.929346,
+    -95.763663,
+    34.929346
+],
+  "geometry": {"coordinates":[-95.76366299999999,34.929346],"type":"Point"}
 }

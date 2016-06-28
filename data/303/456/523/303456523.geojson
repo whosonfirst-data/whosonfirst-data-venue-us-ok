@@ -2,13 +2,14 @@
   "id": 303456523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.815429,36.044603,-95.815429,36.044603",
     "geom:latitude":36.044603,
     "geom:longitude":-95.815429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"846 S Aspen Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303456523,
-    "wof:lastmodified":1448998841,
+    "wof:lastmodified":1466765778,
     "wof:name":"Claearing House",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.815429,36.044603,-95.815429,36.044603],
-  "geometry": {"coordinates":[-95.815429,36.044603],"type":"Point"}
+  "bbox": [
+    -95.815429,
+    36.044603,
+    -95.815429,
+    36.044603
+],
+  "geometry": {"coordinates":[-95.81542899999999,36.044603],"type":"Point"}
 }

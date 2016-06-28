@@ -2,13 +2,14 @@
   "id": 319981619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.518206,35.53397,-97.518206,35.53397",
     "geom:latitude":35.53397,
     "geom:longitude":-97.518206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6019 N Harvey Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319981619,
-    "wof:lastmodified":1449024891,
+    "wof:lastmodified":1466762406,
     "wof:name":"Don Steel Co",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-97.518206,35.53397,-97.518206,35.53397],
-  "geometry": {"coordinates":[-97.518206,35.53397],"type":"Point"}
+  "bbox": [
+    -97.518206,
+    35.53397,
+    -97.518206,
+    35.53397
+],
+  "geometry": {"coordinates":[-97.51820600000001,35.53397],"type":"Point"}
 }

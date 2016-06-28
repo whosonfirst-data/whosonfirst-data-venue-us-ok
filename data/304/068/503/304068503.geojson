@@ -2,13 +2,14 @@
   "id": 304068503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.56558,35.384352,-97.56558,35.384352",
     "geom:latitude":35.384352,
     "geom:longitude":-97.56558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 SW 82nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304068503,
-    "wof:lastmodified":1449043879,
+    "wof:lastmodified":1466763213,
     "wof:name":"South May Auto Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.56558,35.384352,-97.56558,35.384352],
+  "bbox": [
+    -97.56558,
+    35.384352,
+    -97.56558,
+    35.384352
+],
   "geometry": {"coordinates":[-97.56558,35.384352],"type":"Point"}
 }

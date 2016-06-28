@@ -2,13 +2,14 @@
   "id": 336666125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.412161,34.622157,-98.412161,34.622157",
     "geom:latitude":34.622157,
     "geom:longitude":-98.412161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 NW Oak Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336666125,
-    "wof:lastmodified":1448997331,
+    "wof:lastmodified":1466763196,
     "wof:name":"Bushwalker",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-98.412161,34.622157,-98.412161,34.622157],
+  "bbox": [
+    -98.412161,
+    34.622157,
+    -98.412161,
+    34.622157
+],
   "geometry": {"coordinates":[-98.412161,34.622157],"type":"Point"}
 }

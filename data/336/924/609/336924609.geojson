@@ -2,13 +2,14 @@
   "id": 336924609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.24173,35.237103,-96.24173,35.237103",
     "geom:latitude":35.237103,
     "geom:longitude":-96.24173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Main St",
     "sg:city":"Wetumka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336924609,
-    "wof:lastmodified":1448997244,
+    "wof:lastmodified":1466765209,
     "wof:name":"Hughes County Times",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-96.24173,35.237103,-96.24173,35.237103],
+  "bbox": [
+    -96.24173,
+    35.237103,
+    -96.24173,
+    35.237103
+],
   "geometry": {"coordinates":[-96.24173,35.237103],"type":"Point"}
 }

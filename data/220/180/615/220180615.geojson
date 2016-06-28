@@ -2,13 +2,14 @@
   "id": 220180615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967102,36.159988,-95.967102,36.159988",
     "geom:latitude":36.159988,
     "geom:longitude":-95.967102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 N Utica Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":220180615,
-    "wof:lastmodified":1449074086,
+    "wof:lastmodified":1466762362,
     "wof:name":"Quiktrip",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.967102,36.159988,-95.967102,36.159988],
+  "bbox": [
+    -95.967102,
+    36.159988,
+    -95.967102,
+    36.159988
+],
   "geometry": {"coordinates":[-95.967102,36.159988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220189525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.986113,36.149329,-95.986113,36.149329",
     "geom:latitude":36.149329,
     "geom:longitude":-95.986113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 S Cincinnati Ave Suite 500",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":220189525,
-    "wof:lastmodified":1449074616,
+    "wof:lastmodified":1466762407,
     "wof:name":"Vector Properties Inc",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-95.986113,36.149329,-95.986113,36.149329],
+  "bbox": [
+    -95.986113,
+    36.149329,
+    -95.986113,
+    36.149329
+],
   "geometry": {"coordinates":[-95.986113,36.149329],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320022877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940328,35.942486,-95.940328,35.942486",
     "geom:latitude":35.942486,
     "geom:longitude":-95.940328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15506 S Harvard Ave",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320022877,
-    "wof:lastmodified":1449012513,
+    "wof:lastmodified":1466762625,
     "wof:name":"R G Tool",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maker"
     ]
 },
-  "bbox": [-95.940328,35.942486,-95.940328,35.942486],
-  "geometry": {"coordinates":[-95.940328,35.942486],"type":"Point"}
+  "bbox": [
+    -95.940328,
+    35.942486,
+    -95.940328,
+    35.942486
+],
+  "geometry": {"coordinates":[-95.94032799999999,35.942486],"type":"Point"}
 }

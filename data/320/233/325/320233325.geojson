@@ -2,13 +2,14 @@
   "id": 320233325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.616341,35.575319,-97.616341,35.575319",
     "geom:latitude":35.575319,
     "geom:longitude":-97.616341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 NW 103rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320233325,
-    "wof:lastmodified":1449015027,
+    "wof:lastmodified":1466764684,
     "wof:name":"MBA Quality Homes",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-97.616341,35.575319,-97.616341,35.575319],
-  "geometry": {"coordinates":[-97.616341,35.575319],"type":"Point"}
+  "bbox": [
+    -97.616341,
+    35.575319,
+    -97.616341,
+    35.575319
+],
+  "geometry": {"coordinates":[-97.61634100000001,35.575319],"type":"Point"}
 }

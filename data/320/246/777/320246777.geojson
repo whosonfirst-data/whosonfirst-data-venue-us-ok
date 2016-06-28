@@ -2,13 +2,14 @@
   "id": 320246777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.771042,34.09061,-96.771042,34.09061",
     "geom:latitude":34.09061,
     "geom:longitude":-96.771042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Main St",
     "sg:city":"Madill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320246777,
-    "wof:lastmodified":1449011497,
+    "wof:lastmodified":1466764837,
     "wof:name":"Byrons Bail Bonds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.771042,34.09061,-96.771042,34.09061],
-  "geometry": {"coordinates":[-96.771042,34.09061],"type":"Point"}
+  "bbox": [
+    -96.771042,
+    34.09061,
+    -96.771042,
+    34.09061
+],
+  "geometry": {"coordinates":[-96.77104199999999,34.09061],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303964771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.403433,35.751108,-95.403433,35.751108",
     "geom:latitude":35.751108,
     "geom:longitude":-95.403433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"384 S 33rd St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303964771,
-    "wof:lastmodified":1448999961,
+    "wof:lastmodified":1466767050,
     "wof:name":"Kidney Specialist Of Oklahoma",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.403433,35.751108,-95.403433,35.751108],
-  "geometry": {"coordinates":[-95.403433,35.751108],"type":"Point"}
+  "bbox": [
+    -95.403433,
+    35.751108,
+    -95.403433,
+    35.751108
+],
+  "geometry": {"coordinates":[-95.40343300000001,35.751108],"type":"Point"}
 }

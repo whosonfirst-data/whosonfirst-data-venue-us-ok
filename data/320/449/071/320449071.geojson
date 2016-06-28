@@ -2,13 +2,14 @@
   "id": 320449071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.39185,36.434523,-99.39185,36.434523",
     "geom:latitude":36.434523,
     "geom:longitude":-99.39185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 10th St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320449071,
-    "wof:lastmodified":1449014687,
+    "wof:lastmodified":1466765939,
     "wof:name":"Mental Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "health"
     ]
 },
-  "bbox": [-99.39185,36.434523,-99.39185,36.434523],
-  "geometry": {"coordinates":[-99.39185,36.434523],"type":"Point"}
+  "bbox": [
+    -99.39185,
+    36.434523,
+    -99.39185,
+    36.434523
+],
+  "geometry": {"coordinates":[-99.39185000000001,36.434523],"type":"Point"}
 }

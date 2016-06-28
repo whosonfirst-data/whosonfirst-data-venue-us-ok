@@ -2,13 +2,14 @@
   "id": 320142323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.521284,35.469437,-97.521284,35.469437",
     "geom:latitude":35.469437,
     "geom:longitude":-97.521284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Walker Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320142323,
-    "wof:lastmodified":1449014220,
+    "wof:lastmodified":1466764358,
     "wof:name":"Oklahoma City Mayor's Office",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-97.521284,35.469437,-97.521284,35.469437],
-  "geometry": {"coordinates":[-97.521284,35.469437],"type":"Point"}
+  "bbox": [
+    -97.521284,
+    35.469437,
+    -97.521284,
+    35.469437
+],
+  "geometry": {"coordinates":[-97.52128399999999,35.469437],"type":"Point"}
 }

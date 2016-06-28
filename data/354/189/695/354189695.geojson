@@ -2,13 +2,14 @@
   "id": 354189695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935423,36.758801,-95.935423,36.758801",
     "geom:latitude":36.758801,
     "geom:longitude":-95.935423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 NE Washington Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354189695,
-    "wof:lastmodified":1449067160,
+    "wof:lastmodified":1466763856,
     "wof:name":"Bartlesville Engineering Team",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-95.935423,36.758801,-95.935423,36.758801],
+  "bbox": [
+    -95.935423,
+    36.758801,
+    -95.935423,
+    36.758801
+],
   "geometry": {"coordinates":[-95.935423,36.758801],"type":"Point"}
 }

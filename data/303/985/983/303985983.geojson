@@ -2,13 +2,14 @@
   "id": 303985983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.523786,35.580008,-97.523786,35.580008",
     "geom:latitude":35.580008,
     "geom:longitude":-97.523786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 W Hefner Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303985983,
-    "wof:lastmodified":1448999336,
+    "wof:lastmodified":1466767077,
     "wof:name":"Osco Co",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.523786,35.580008,-97.523786,35.580008],
+  "bbox": [
+    -97.523786,
+    35.580008,
+    -97.523786,
+    35.580008
+],
   "geometry": {"coordinates":[-97.523786,35.580008],"type":"Point"}
 }

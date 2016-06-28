@@ -2,13 +2,14 @@
   "id": 287268603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.609074,35.600667,-97.609074,35.600667",
     "geom:latitude":35.600667,
     "geom:longitude":-97.609074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12909 Castlerock Ct",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287268603,
-    "wof:lastmodified":1449001182,
+    "wof:lastmodified":1466762964,
     "wof:name":"VIP Auto Finders",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-97.609074,35.600667,-97.609074,35.600667],
-  "geometry": {"coordinates":[-97.609074,35.600667],"type":"Point"}
+  "bbox": [
+    -97.609074,
+    35.600667,
+    -97.609074,
+    35.600667
+],
+  "geometry": {"coordinates":[-97.60907400000001,35.600667],"type":"Point"}
 }

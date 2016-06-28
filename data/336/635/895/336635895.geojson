@@ -2,13 +2,14 @@
   "id": 336635895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.333888,34.648438,-99.333888,34.648438",
     "geom:latitude":34.648438,
     "geom:longitude":-99.333888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Main St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336635895,
-    "wof:lastmodified":1448997419,
+    "wof:lastmodified":1466762729,
     "wof:name":"Latham Nelson & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-99.333888,34.648438,-99.333888,34.648438],
+  "bbox": [
+    -99.333888,
+    34.648438,
+    -99.333888,
+    34.648438
+],
   "geometry": {"coordinates":[-99.333888,34.648438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303855501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.334171,34.773815,-99.334171,34.773815",
     "geom:latitude":34.773815,
     "geom:longitude":-99.334171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Hughes Dr",
     "sg:city":"Blair",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303855501,
-    "wof:lastmodified":1448999923,
+    "wof:lastmodified":1466766959,
     "wof:name":"Blair Auto Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.334171,34.773815,-99.334171,34.773815],
+  "bbox": [
+    -99.334171,
+    34.773815,
+    -99.334171,
+    34.773815
+],
   "geometry": {"coordinates":[-99.334171,34.773815],"type":"Point"}
 }

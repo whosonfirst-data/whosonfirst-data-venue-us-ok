@@ -2,13 +2,14 @@
   "id": 303542531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.643899,35.291176,-99.643899,35.291176",
     "geom:latitude":35.291176,
     "geom:longitude":-99.643899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 W Main St",
     "sg:city":"Fay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303542531,
-    "wof:lastmodified":1449000015,
+    "wof:lastmodified":1466766024,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.643899,35.291176,-99.643899,35.291176],
+  "bbox": [
+    -99.643899,
+    35.291176,
+    -99.643899,
+    35.291176
+],
   "geometry": {"coordinates":[-99.643899,35.291176],"type":"Point"}
 }

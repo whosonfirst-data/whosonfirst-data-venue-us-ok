@@ -2,13 +2,14 @@
   "id": 336782329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.000591,36.761334,-96.000591,36.761334",
     "geom:latitude":36.761334,
     "geom:longitude":-96.000591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"547 N Sunset Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336782329,
-    "wof:lastmodified":1448996913,
+    "wof:lastmodified":1466764686,
     "wof:name":"Sunset Golf & Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "golf"
     ]
 },
-  "bbox": [-96.000591,36.761334,-96.000591,36.761334],
+  "bbox": [
+    -96.000591,
+    36.761334,
+    -96.000591,
+    36.761334
+],
   "geometry": {"coordinates":[-96.000591,36.761334],"type":"Point"}
 }

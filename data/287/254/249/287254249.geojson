@@ -2,13 +2,14 @@
   "id": 287254249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.536251,35.497327,-97.536251,35.497327",
     "geom:latitude":35.497327,
     "geom:longitude":-97.536251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1428 NW 27th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287254249,
-    "wof:lastmodified":1449001291,
+    "wof:lastmodified":1466762752,
     "wof:name":"University Park Apartments",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.536251,35.497327,-97.536251,35.497327],
-  "geometry": {"coordinates":[-97.536251,35.497327],"type":"Point"}
+  "bbox": [
+    -97.536251,
+    35.497327,
+    -97.536251,
+    35.497327
+],
+  "geometry": {"coordinates":[-97.53625099999999,35.497327],"type":"Point"}
 }

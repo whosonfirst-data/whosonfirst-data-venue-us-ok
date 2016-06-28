@@ -2,13 +2,14 @@
   "id": 303700861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.435497,34.628028,-98.435497,34.628028",
     "geom:latitude":34.628028,
     "geom:longitude":-98.435497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 NW 33rd St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303700861,
-    "wof:lastmodified":1449000353,
+    "wof:lastmodified":1466766492,
     "wof:name":"Rabco",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "construction"
     ]
 },
-  "bbox": [-98.435497,34.628028,-98.435497,34.628028],
+  "bbox": [
+    -98.435497,
+    34.628028,
+    -98.435497,
+    34.628028
+],
   "geometry": {"coordinates":[-98.435497,34.628028],"type":"Point"}
 }

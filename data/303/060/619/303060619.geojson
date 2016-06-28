@@ -2,13 +2,14 @@
   "id": 303060619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.478436,35.722945,-97.478436,35.722945",
     "geom:latitude":35.722945,
     "geom:longitude":-97.478436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6501 N Broadway",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303060619,
-    "wof:lastmodified":1449000340,
+    "wof:lastmodified":1466762591,
     "wof:name":"Terry Tippens",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.478436,35.722945,-97.478436,35.722945],
+  "bbox": [
+    -97.478436,
+    35.722945,
+    -97.478436,
+    35.722945
+],
   "geometry": {"coordinates":[-97.478436,35.722945],"type":"Point"}
 }

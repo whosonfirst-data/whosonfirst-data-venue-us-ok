@@ -2,13 +2,14 @@
   "id": 287245979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.47244,36.271082,-98.47244,36.271082",
     "geom:latitude":36.271082,
     "geom:longitude":-98.47244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N 11th Ave",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287245979,
-    "wof:lastmodified":1449001559,
+    "wof:lastmodified":1466762631,
     "wof:name":"Shannons Home Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.47244,36.271082,-98.47244,36.271082],
-  "geometry": {"coordinates":[-98.47244,36.271082],"type":"Point"}
+  "bbox": [
+    -98.47244,
+    36.271082,
+    -98.47244,
+    36.271082
+],
+  "geometry": {"coordinates":[-98.47244000000001,36.271082],"type":"Point"}
 }

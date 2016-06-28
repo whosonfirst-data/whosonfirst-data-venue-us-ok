@@ -2,13 +2,14 @@
   "id": 303217593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.492091,35.66864,-97.492091,35.66864",
     "geom:latitude":35.66864,
     "geom:longitude":-97.492091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Jasmine Pl",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303217593,
-    "wof:lastmodified":1449000419,
+    "wof:lastmodified":1466764536,
     "wof:name":"Sorita's Book Bindery",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookbinder"
     ]
 },
-  "bbox": [-97.492091,35.66864,-97.492091,35.66864],
+  "bbox": [
+    -97.492091,
+    35.66864,
+    -97.492091,
+    35.66864
+],
   "geometry": {"coordinates":[-97.492091,35.66864],"type":"Point"}
 }

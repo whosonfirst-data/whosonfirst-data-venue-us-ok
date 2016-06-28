@@ -2,13 +2,14 @@
   "id": 303446695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.488281,35.469982,-97.488281,35.469982",
     "geom:latitude":35.469982,
     "geom:longitude":-97.488281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 NE 2nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303446695,
-    "wof:lastmodified":1449000357,
+    "wof:lastmodified":1466765664,
     "wof:name":"Haskell Lemon Construction Co",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.488281,35.469982,-97.488281,35.469982],
+  "bbox": [
+    -97.488281,
+    35.469982,
+    -97.488281,
+    35.469982
+],
   "geometry": {"coordinates":[-97.488281,35.469982],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320347727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.038258,36.137063,-97.038258,36.137063",
     "geom:latitude":36.137063,
     "geom:longitude":-97.038258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 N Skyline St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320347727,
-    "wof:lastmodified":1449013064,
+    "wof:lastmodified":1466765336,
     "wof:name":"Wayne Engineering Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-97.038258,36.137063,-97.038258,36.137063],
+  "bbox": [
+    -97.038258,
+    36.137063,
+    -97.038258,
+    36.137063
+],
   "geometry": {"coordinates":[-97.038258,36.137063],"type":"Point"}
 }

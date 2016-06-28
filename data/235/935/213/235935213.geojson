@@ -2,13 +2,14 @@
   "id": 235935213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.964409,36.060852,-95.964409,36.060852",
     "geom:latitude":36.060852,
     "geom:longitude":-95.964409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1831 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235935213,
-    "wof:lastmodified":1449008534,
+    "wof:lastmodified":1466762412,
     "wof:name":"Challenger Gray & Christmas",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-95.964409,36.060852,-95.964409,36.060852],
+  "bbox": [
+    -95.964409,
+    36.060852,
+    -95.964409,
+    36.060852
+],
   "geometry": {"coordinates":[-95.964409,36.060852],"type":"Point"}
 }

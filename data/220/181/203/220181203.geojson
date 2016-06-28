@@ -2,13 +2,14 @@
   "id": 220181203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.958244,36.203712,-95.958244,36.203712",
     "geom:latitude":36.203712,
     "geom:longitude":-95.958244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3407 N Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220181203,
-    "wof:lastmodified":1449074524,
+    "wof:lastmodified":1466762355,
     "wof:name":"Costef Designs",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shipping"
     ]
 },
-  "bbox": [-95.958244,36.203712,-95.958244,36.203712],
-  "geometry": {"coordinates":[-95.958244,36.203712],"type":"Point"}
+  "bbox": [
+    -95.958244,
+    36.203712,
+    -95.958244,
+    36.203712
+],
+  "geometry": {"coordinates":[-95.95824399999999,36.203712],"type":"Point"}
 }

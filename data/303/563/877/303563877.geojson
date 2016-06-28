@@ -2,13 +2,14 @@
   "id": 303563877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.739387,34.811356,-95.739387,34.811356",
     "geom:latitude":34.811356,
     "geom:longitude":-95.739387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 4 Corners Rd",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303563877,
-    "wof:lastmodified":1448998155,
+    "wof:lastmodified":1466766078,
     "wof:name":"Crystal Marine Inc",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "transportation"
     ]
 },
-  "bbox": [-95.739387,34.811356,-95.739387,34.811356],
-  "geometry": {"coordinates":[-95.739387,34.811356],"type":"Point"}
+  "bbox": [
+    -95.739387,
+    34.811356,
+    -95.739387,
+    34.811356
+],
+  "geometry": {"coordinates":[-95.73938699999999,34.811356],"type":"Point"}
 }

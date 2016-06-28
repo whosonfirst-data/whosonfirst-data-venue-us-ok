@@ -2,13 +2,14 @@
   "id": 353968687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.377503,35.055604,-97.377503,35.055604",
     "geom:latitude":35.055604,
     "geom:longitude":-97.377503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Cedar Dr",
     "sg:city":"Purcell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353968687,
-    "wof:lastmodified":1449018416,
+    "wof:lastmodified":1466765992,
     "wof:name":"MSO Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.377503,35.055604,-97.377503,35.055604],
+  "bbox": [
+    -97.377503,
+    35.055604,
+    -97.377503,
+    35.055604
+],
   "geometry": {"coordinates":[-97.377503,35.055604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320665071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.463637,35.418759,-97.463637,35.418759",
     "geom:latitude":35.418759,
     "geom:longitude":-97.463637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2712 SE 45th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320665071,
-    "wof:lastmodified":1449012408,
+    "wof:lastmodified":1466766439,
     "wof:name":"Tst Enterprises",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-97.463637,35.418759,-97.463637,35.418759],
-  "geometry": {"coordinates":[-97.463637,35.418759],"type":"Point"}
+  "bbox": [
+    -97.463637,
+    35.418759,
+    -97.463637,
+    35.418759
+],
+  "geometry": {"coordinates":[-97.46363700000001,35.418759],"type":"Point"}
 }

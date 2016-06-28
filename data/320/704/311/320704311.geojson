@@ -2,13 +2,14 @@
   "id": 320704311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.789667,36.048482,-95.789667,36.048482",
     "geom:latitude":36.048482,
     "geom:longitude":-95.789667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Fort Worth St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320704311,
-    "wof:lastmodified":1449012241,
+    "wof:lastmodified":1466766629,
     "wof:name":"Arnold's Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-95.789667,36.048482,-95.789667,36.048482],
-  "geometry": {"coordinates":[-95.789667,36.048482],"type":"Point"}
+  "bbox": [
+    -95.789667,
+    36.048482,
+    -95.789667,
+    36.048482
+],
+  "geometry": {"coordinates":[-95.78966699999999,36.048482],"type":"Point"}
 }

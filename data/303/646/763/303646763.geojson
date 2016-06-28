@@ -2,13 +2,14 @@
   "id": 303646763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.883404,35.943185,-95.883404,35.943185",
     "geom:latitude":35.943185,
     "geom:longitude":-95.883404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 W Needles Ave",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303646763,
-    "wof:lastmodified":1448998058,
+    "wof:lastmodified":1466766232,
     "wof:name":"Bixby Civil Defense",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "agency"
     ]
 },
-  "bbox": [-95.883404,35.943185,-95.883404,35.943185],
+  "bbox": [
+    -95.883404,
+    35.943185,
+    -95.883404,
+    35.943185
+],
   "geometry": {"coordinates":[-95.883404,35.943185],"type":"Point"}
 }

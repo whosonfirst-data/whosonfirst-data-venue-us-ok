@@ -2,13 +2,14 @@
   "id": 336833629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.399702,36.431563,-99.399702,36.431563",
     "geom:latitude":36.431563,
     "geom:longitude":-99.399702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 Hillcrest Dr",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336833629,
-    "wof:lastmodified":1448997066,
+    "wof:lastmodified":1466764831,
     "wof:name":"Ferguson Mead",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-99.399702,36.431563,-99.399702,36.431563],
+  "bbox": [
+    -99.399702,
+    36.431563,
+    -99.399702,
+    36.431563
+],
   "geometry": {"coordinates":[-99.399702,36.431563],"type":"Point"}
 }

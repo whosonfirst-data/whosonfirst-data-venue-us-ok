@@ -2,13 +2,14 @@
   "id": 287285537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.45906,35.533526,-97.45906,35.533526",
     "geom:latitude":35.533526,
     "geom:longitude":-97.45906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6205 Aluma Valley Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":287285537,
-    "wof:lastmodified":1449000695,
+    "wof:lastmodified":1466763215,
     "wof:name":"Transportation Resources Inc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "truck"
     ]
 },
-  "bbox": [-97.45906,35.533526,-97.45906,35.533526],
-  "geometry": {"coordinates":[-97.45906,35.533526],"type":"Point"}
+  "bbox": [
+    -97.45906,
+    35.533526,
+    -97.45906,
+    35.533526
+],
+  "geometry": {"coordinates":[-97.45905999999999,35.533526],"type":"Point"}
 }

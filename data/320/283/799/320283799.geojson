@@ -2,13 +2,14 @@
   "id": 320283799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.497879,35.453796,-97.497879,35.453796",
     "geom:latitude":35.453796,
     "geom:longitude":-97.497879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 SE 11th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320283799,
-    "wof:lastmodified":1449012368,
+    "wof:lastmodified":1466765195,
     "wof:name":"Sharon Baptist Church",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.497879,35.453796,-97.497879,35.453796],
+  "bbox": [
+    -97.497879,
+    35.453796,
+    -97.497879,
+    35.453796
+],
   "geometry": {"coordinates":[-97.497879,35.453796],"type":"Point"}
 }

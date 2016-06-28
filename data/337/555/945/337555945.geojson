@@ -2,13 +2,14 @@
   "id": 337555945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.639351,36.278495,-95.639351,36.278495",
     "geom:latitude":36.278495,
     "geom:longitude":-95.639351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10630 E 510 Rd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337555945,
-    "wof:lastmodified":1449027628,
+    "wof:lastmodified":1466762969,
     "wof:name":"Pediatric Associates-Claremore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.639351,36.278495,-95.639351,36.278495],
+  "bbox": [
+    -95.639351,
+    36.278495,
+    -95.639351,
+    36.278495
+],
   "geometry": {"coordinates":[-95.639351,36.278495],"type":"Point"}
 }

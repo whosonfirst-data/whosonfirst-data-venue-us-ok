@@ -2,13 +2,14 @@
   "id": 320665359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990175,36.778572,-95.990175,36.778572",
     "geom:latitude":36.778572,
     "geom:longitude":-95.990175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Carol Rd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320665359,
-    "wof:lastmodified":1449012406,
+    "wof:lastmodified":1466766445,
     "wof:name":"Sleep Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-95.990175,36.778572,-95.990175,36.778572],
-  "geometry": {"coordinates":[-95.990175,36.778572],"type":"Point"}
+  "bbox": [
+    -95.990175,
+    36.778572,
+    -95.990175,
+    36.778572
+],
+  "geometry": {"coordinates":[-95.99017499999999,36.778572],"type":"Point"}
 }

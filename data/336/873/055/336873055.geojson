@@ -2,13 +2,14 @@
   "id": 336873055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.901902,36.385816,-97.901902,36.385816",
     "geom:latitude":36.385816,
     "geom:longitude":-97.901902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Comanche Trl",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336873055,
-    "wof:lastmodified":1448997171,
+    "wof:lastmodified":1466764963,
     "wof:name":"Floyd Hoover",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.901902,36.385816,-97.901902,36.385816],
-  "geometry": {"coordinates":[-97.901902,36.385816],"type":"Point"}
+  "bbox": [
+    -97.901902,
+    36.385816,
+    -97.901902,
+    36.385816
+],
+  "geometry": {"coordinates":[-97.90190200000001,36.385816],"type":"Point"}
 }

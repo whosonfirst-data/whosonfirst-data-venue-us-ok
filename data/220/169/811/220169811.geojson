@@ -2,13 +2,14 @@
   "id": 220169811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.058803,36.127069,-97.058803,36.127069",
     "geom:latitude":36.127069,
     "geom:longitude":-97.058803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 N Main",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":220169811,
-    "wof:lastmodified":1449074530,
+    "wof:lastmodified":1466762319,
     "wof:name":"Pyramid Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.058803,36.127069,-97.058803,36.127069],
+  "bbox": [
+    -97.058803,
+    36.127069,
+    -97.058803,
+    36.127069
+],
   "geometry": {"coordinates":[-97.058803,36.127069],"type":"Point"}
 }

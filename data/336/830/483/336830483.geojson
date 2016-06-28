@@ -2,13 +2,14 @@
   "id": 336830483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.407273,35.410748,-99.407273,35.410748",
     "geom:latitude":35.410748,
     "geom:longitude":-99.407273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W Broadway Ave",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336830483,
-    "wof:lastmodified":1448997177,
+    "wof:lastmodified":1466764819,
     "wof:name":"Libraries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-99.407273,35.410748,-99.407273,35.410748],
+  "bbox": [
+    -99.407273,
+    35.410748,
+    -99.407273,
+    35.410748
+],
   "geometry": {"coordinates":[-99.407273,35.410748],"type":"Point"}
 }

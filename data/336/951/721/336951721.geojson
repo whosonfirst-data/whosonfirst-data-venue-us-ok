@@ -2,13 +2,14 @@
   "id": 336951721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.961987,36.122196,-96.961987,36.122196",
     "geom:latitude":36.122196,
     "geom:longitude":-96.961987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 S Union Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336951721,
-    "wof:lastmodified":1448996956,
+    "wof:lastmodified":1466765441,
     "wof:name":"Fifty One East Water Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.961987,36.122196,-96.961987,36.122196],
-  "geometry": {"coordinates":[-96.961987,36.122196],"type":"Point"}
+  "bbox": [
+    -96.961987,
+    36.122196,
+    -96.961987,
+    36.122196
+],
+  "geometry": {"coordinates":[-96.96198699999999,36.122196],"type":"Point"}
 }

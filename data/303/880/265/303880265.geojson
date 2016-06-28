@@ -2,13 +2,14 @@
   "id": 303880265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.009546,36.114981,-96.009546,36.114981",
     "geom:latitude":36.114981,
     "geom:longitude":-96.009546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3348 S Santa Fe Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303880265,
-    "wof:lastmodified":1449000588,
+    "wof:lastmodified":1466766817,
     "wof:name":"Body Word Sales",
     "wof:parent_id":85821015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-96.009546,36.114981,-96.009546,36.114981],
+  "bbox": [
+    -96.009546,
+    36.114981,
+    -96.009546,
+    36.114981
+],
   "geometry": {"coordinates":[-96.009546,36.114981],"type":"Point"}
 }

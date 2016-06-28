@@ -2,13 +2,14 @@
   "id": 287124853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.125136,35.251976,-95.125136,35.251976",
     "geom:latitude":35.251976,
     "geom:longitude":-95.125136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 SE B St",
     "sg:city":"Stigler",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287124853,
-    "wof:lastmodified":1449001519,
+    "wof:lastmodified":1466763589,
     "wof:name":"Stigler Public Housing Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-95.125136,35.251976,-95.125136,35.251976],
+  "bbox": [
+    -95.125136,
+    35.251976,
+    -95.125136,
+    35.251976
+],
   "geometry": {"coordinates":[-95.125136,35.251976],"type":"Point"}
 }

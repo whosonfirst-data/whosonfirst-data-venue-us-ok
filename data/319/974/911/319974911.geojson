@@ -2,13 +2,14 @@
   "id": 319974911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.509426,35.466396,-97.509426,35.466396",
     "geom:latitude":35.466396,
     "geom:longitude":-97.509426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E Sheridan Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319974911,
-    "wof:lastmodified":1449024785,
+    "wof:lastmodified":1466762293,
     "wof:name":"Nick Young",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-97.509426,35.466396,-97.509426,35.466396],
+  "bbox": [
+    -97.509426,
+    35.466396,
+    -97.509426,
+    35.466396
+],
   "geometry": {"coordinates":[-97.509426,35.466396],"type":"Point"}
 }

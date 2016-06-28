@@ -2,13 +2,14 @@
   "id": 287144727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.996291,36.149753,-95.996291,36.149753",
     "geom:latitude":36.149753,
     "geom:longitude":-95.996291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Civic Center",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287144727,
-    "wof:lastmodified":1449001328,
+    "wof:lastmodified":1466763660,
     "wof:name":"SFX Entertainment",
     "wof:parent_id":85872473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-95.996291,36.149753,-95.996291,36.149753],
+  "bbox": [
+    -95.996291,
+    36.149753,
+    -95.996291,
+    36.149753
+],
   "geometry": {"coordinates":[-95.996291,36.149753],"type":"Point"}
 }

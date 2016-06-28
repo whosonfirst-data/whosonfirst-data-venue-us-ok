@@ -2,13 +2,14 @@
   "id": 303164795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.927327,35.373746,-96.927327,35.373746",
     "geom:latitude":35.373746,
     "geom:longitude":-96.927327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Traditional Way Ct",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303164795,
-    "wof:lastmodified":1448998411,
+    "wof:lastmodified":1466764275,
     "wof:name":"Sac & Fox Indian Housing Wrhs",
     "wof:parent_id":85827517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.927327,35.373746,-96.927327,35.373746],
-  "geometry": {"coordinates":[-96.927327,35.373746],"type":"Point"}
+  "bbox": [
+    -96.927327,
+    35.373746,
+    -96.927327,
+    35.373746
+],
+  "geometry": {"coordinates":[-96.92732700000001,35.373746],"type":"Point"}
 }

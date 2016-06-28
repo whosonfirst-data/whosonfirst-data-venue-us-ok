@@ -2,13 +2,14 @@
   "id": 354107485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.481018,35.255067,-97.481018,35.255067",
     "geom:latitude":35.255067,
     "geom:longitude":-97.481018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3522 24th Ave NW",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354107485,
-    "wof:lastmodified":1449065935,
+    "wof:lastmodified":1466763537,
     "wof:name":"Sanford Mauldin Photography",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-97.481018,35.255067,-97.481018,35.255067],
-  "geometry": {"coordinates":[-97.481018,35.255067],"type":"Point"}
+  "bbox": [
+    -97.481018,
+    35.255067,
+    -97.481018,
+    35.255067
+],
+  "geometry": {"coordinates":[-97.48101800000001,35.255067],"type":"Point"}
 }

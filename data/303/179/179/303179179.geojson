@@ -2,13 +2,14 @@
   "id": 303179179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.511124,35.226166,-97.511124,35.226166",
     "geom:latitude":35.226166,
     "geom:longitude":-97.511124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 Windrush Cir",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303179179,
-    "wof:lastmodified":1449000318,
+    "wof:lastmodified":1466764215,
     "wof:name":"Strategyfirst Consulting",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-97.511124,35.226166,-97.511124,35.226166],
+  "bbox": [
+    -97.511124,
+    35.226166,
+    -97.511124,
+    35.226166
+],
   "geometry": {"coordinates":[-97.511124,35.226166],"type":"Point"}
 }

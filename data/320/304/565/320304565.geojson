@@ -2,13 +2,14 @@
   "id": 320304565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.807317,35.457324,-94.807317,35.457324",
     "geom:latitude":35.457324,
     "geom:longitude":-94.807317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 S Kerr Blvd",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320304565,
-    "wof:lastmodified":1449014032,
+    "wof:lastmodified":1466765188,
     "wof:name":"Golden Spur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-94.807317,35.457324,-94.807317,35.457324],
+  "bbox": [
+    -94.807317,
+    35.457324,
+    -94.807317,
+    35.457324
+],
   "geometry": {"coordinates":[-94.807317,35.457324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354054775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.104025,35.776015,-96.104025,35.776015",
     "geom:latitude":35.776015,
     "geom:longitude":-96.104025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5599 N 150 Rd",
     "sg:city":"Beggs",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":354054775,
-    "wof:lastmodified":1449066725,
+    "wof:lastmodified":1466763319,
     "wof:name":"Bill Henson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.104025,35.776015,-96.104025,35.776015],
-  "geometry": {"coordinates":[-96.104025,35.776015],"type":"Point"}
+  "bbox": [
+    -96.104025,
+    35.776015,
+    -96.104025,
+    35.776015
+],
+  "geometry": {"coordinates":[-96.10402499999999,35.776015],"type":"Point"}
 }

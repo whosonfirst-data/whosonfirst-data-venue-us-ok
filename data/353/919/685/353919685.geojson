@@ -2,13 +2,14 @@
   "id": 353919685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.216163,35.800345,-95.216163,35.800345",
     "geom:latitude":35.800345,
     "geom:longitude":-95.216163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 N 2 Mile Rd",
     "sg:city":"Fort Gibson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353919685,
-    "wof:lastmodified":1449020190,
+    "wof:lastmodified":1466765806,
     "wof:name":"Kerns Construction",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.216163,35.800345,-95.216163,35.800345],
-  "geometry": {"coordinates":[-95.216163,35.800345],"type":"Point"}
+  "bbox": [
+    -95.216163,
+    35.800345,
+    -95.216163,
+    35.800345
+],
+  "geometry": {"coordinates":[-95.21616299999999,35.800345],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320529365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.970737,35.514465,-98.970737,35.514465",
     "geom:latitude":35.514465,
     "geom:longitude":-98.970737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 Frisco Ave",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320529365,
-    "wof:lastmodified":1449012886,
+    "wof:lastmodified":1466766123,
     "wof:name":"Carpet Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.970737,35.514465,-98.970737,35.514465],
+  "bbox": [
+    -98.970737,
+    35.514465,
+    -98.970737,
+    35.514465
+],
   "geometry": {"coordinates":[-98.970737,35.514465],"type":"Point"}
 }

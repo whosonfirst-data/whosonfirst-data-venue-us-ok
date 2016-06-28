@@ -2,13 +2,14 @@
   "id": 320323175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.598531,35.492175,-97.598531,35.492175",
     "geom:latitude":35.492175,
     "geom:longitude":-97.598531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4204 NW 22nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320323175,
-    "wof:lastmodified":1449011565,
+    "wof:lastmodified":1466765203,
     "wof:name":"Cds",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clean"
     ]
 },
-  "bbox": [-97.598531,35.492175,-97.598531,35.492175],
-  "geometry": {"coordinates":[-97.598531,35.492175],"type":"Point"}
+  "bbox": [
+    -97.598531,
+    35.492175,
+    -97.598531,
+    35.492175
+],
+  "geometry": {"coordinates":[-97.59853099999999,35.492175],"type":"Point"}
 }

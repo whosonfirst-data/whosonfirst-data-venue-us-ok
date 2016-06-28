@@ -2,13 +2,14 @@
   "id": 320472107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.851019,36.051919,-95.851019,36.051919",
     "geom:latitude":36.051919,
     "geom:longitude":-95.851019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7616 S Garnett Rd",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320472107,
-    "wof:lastmodified":1449011537,
+    "wof:lastmodified":1466766092,
     "wof:name":"Union Intermediate High School",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.851019,36.051919,-95.851019,36.051919],
-  "geometry": {"coordinates":[-95.851019,36.051919],"type":"Point"}
+  "bbox": [
+    -95.851019,
+    36.051919,
+    -95.851019,
+    36.051919
+],
+  "geometry": {"coordinates":[-95.85101899999999,36.051919],"type":"Point"}
 }

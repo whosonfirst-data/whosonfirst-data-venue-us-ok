@@ -2,13 +2,14 @@
   "id": 304047037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.971231,36.092195,-95.971231,36.092195",
     "geom:latitude":36.092195,
     "geom:longitude":-95.971231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1435 E 49th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304047037,
-    "wof:lastmodified":1449043989,
+    "wof:lastmodified":1466763087,
     "wof:name":"Cowboy Door & Lock",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-95.971231,36.092195,-95.971231,36.092195],
+  "bbox": [
+    -95.971231,
+    36.092195,
+    -95.971231,
+    36.092195
+],
   "geometry": {"coordinates":[-95.971231,36.092195],"type":"Point"}
 }

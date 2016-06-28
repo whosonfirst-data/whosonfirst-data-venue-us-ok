@@ -2,13 +2,14 @@
   "id": 303048669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.502752,34.876174,-99.502752,34.876174",
     "geom:latitude":34.876174,
     "geom:longitude":-99.502752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N Louis Tittle Ave",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303048669,
-    "wof:lastmodified":1448998968,
+    "wof:lastmodified":1466762401,
     "wof:name":"Foss Burnham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-99.502752,34.876174,-99.502752,34.876174],
+  "bbox": [
+    -99.502752,
+    34.876174,
+    -99.502752,
+    34.876174
+],
   "geometry": {"coordinates":[-99.502752,34.876174],"type":"Point"}
 }

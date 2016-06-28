@@ -2,13 +2,14 @@
   "id": 353901585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.851127,36.075314,-95.851127,36.075314",
     "geom:latitude":36.075314,
     "geom:longitude":-95.851127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11202 E 61st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353901585,
-    "wof:lastmodified":1449019319,
+    "wof:lastmodified":1466765684,
     "wof:name":"Futon & Mattress World",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-95.851127,36.075314,-95.851127,36.075314],
-  "geometry": {"coordinates":[-95.851127,36.075314],"type":"Point"}
+  "bbox": [
+    -95.851127,
+    36.075314,
+    -95.851127,
+    36.075314
+],
+  "geometry": {"coordinates":[-95.85112700000001,36.075314],"type":"Point"}
 }

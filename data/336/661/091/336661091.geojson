@@ -2,13 +2,14 @@
   "id": 336661091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.471188,35.446491,-97.471188,35.446491",
     "geom:latitude":35.446491,
     "geom:longitude":-97.471188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 SE 18th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336661091,
-    "wof:lastmodified":1448997901,
+    "wof:lastmodified":1466763119,
     "wof:name":"United Van Lines Agent",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.471188,35.446491,-97.471188,35.446491],
+  "bbox": [
+    -97.471188,
+    35.446491,
+    -97.471188,
+    35.446491
+],
   "geometry": {"coordinates":[-97.471188,35.446491],"type":"Point"}
 }

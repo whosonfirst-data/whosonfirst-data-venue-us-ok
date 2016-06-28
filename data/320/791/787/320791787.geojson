@@ -2,13 +2,14 @@
   "id": 320791787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.849639,36.156546,-95.849639,36.156546",
     "geom:latitude":36.156546,
     "geom:longitude":-95.849639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11310 E 3rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320791787,
-    "wof:lastmodified":1449014099,
+    "wof:lastmodified":1466766920,
     "wof:name":"A & A Ceiling",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ceiling"
     ]
 },
-  "bbox": [-95.849639,36.156546,-95.849639,36.156546],
+  "bbox": [
+    -95.849639,
+    36.156546,
+    -95.849639,
+    36.156546
+],
   "geometry": {"coordinates":[-95.849639,36.156546],"type":"Point"}
 }

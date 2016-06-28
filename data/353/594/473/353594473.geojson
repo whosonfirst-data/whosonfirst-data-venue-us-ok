@@ -2,13 +2,14 @@
   "id": 353594473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.64222,35.51433,-97.64222,35.51433",
     "geom:latitude":35.51433,
     "geom:longitude":-97.64222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4310 N Martin Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353594473,
-    "wof:lastmodified":1449018623,
+    "wof:lastmodified":1466764362,
     "wof:name":"Johnston Oilfield Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-97.64222,35.51433,-97.64222,35.51433],
-  "geometry": {"coordinates":[-97.64222,35.51433],"type":"Point"}
+  "bbox": [
+    -97.64222,
+    35.51433,
+    -97.64222,
+    35.51433
+],
+  "geometry": {"coordinates":[-97.64221999999999,35.51433],"type":"Point"}
 }

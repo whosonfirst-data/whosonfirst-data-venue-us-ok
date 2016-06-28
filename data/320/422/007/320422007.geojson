@@ -2,13 +2,14 @@
   "id": 320422007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.976316,35.515484,-98.976316,35.515484",
     "geom:latitude":35.515484,
     "geom:longitude":-98.976316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 W Gary Blvd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320422007,
-    "wof:lastmodified":1449011507,
+    "wof:lastmodified":1466765740,
     "wof:name":"Ok First Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.976316,35.515484,-98.976316,35.515484],
+  "bbox": [
+    -98.976316,
+    35.515484,
+    -98.976316,
+    35.515484
+],
   "geometry": {"coordinates":[-98.976316,35.515484],"type":"Point"}
 }

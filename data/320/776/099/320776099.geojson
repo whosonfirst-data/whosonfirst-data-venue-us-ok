@@ -2,13 +2,14 @@
   "id": 320776099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.428135,35.464007,-97.428135,35.464007",
     "geom:latitude":35.464007,
     "geom:longitude":-97.428135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 E Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320776099,
-    "wof:lastmodified":1449012070,
+    "wof:lastmodified":1466766776,
     "wof:name":"Woodcrest Apartments",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.428135,35.464007,-97.428135,35.464007],
+  "bbox": [
+    -97.428135,
+    35.464007,
+    -97.428135,
+    35.464007
+],
   "geometry": {"coordinates":[-97.428135,35.464007],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336770341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.636705,35.507792,-97.636705,35.507792",
     "geom:latitude":35.507792,
     "geom:longitude":-97.636705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3409 N Rockwell Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336770341,
-    "wof:lastmodified":1448998040,
+    "wof:lastmodified":1466764520,
     "wof:name":"Dvw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-97.636705,35.507792,-97.636705,35.507792],
-  "geometry": {"coordinates":[-97.636705,35.507792],"type":"Point"}
+  "bbox": [
+    -97.636705,
+    35.507792,
+    -97.636705,
+    35.507792
+],
+  "geometry": {"coordinates":[-97.63670500000001,35.507792],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303660653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.149203,34.169933,-97.149203,34.169933",
     "geom:latitude":34.169933,
     "geom:longitude":-97.149203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 3rd Ave SW",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303660653,
-    "wof:lastmodified":1449000314,
+    "wof:lastmodified":1466766290,
     "wof:name":"Bill Robertson Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.149203,34.169933,-97.149203,34.169933],
+  "bbox": [
+    -97.149203,
+    34.169933,
+    -97.149203,
+    34.169933
+],
   "geometry": {"coordinates":[-97.149203,34.169933],"type":"Point"}
 }

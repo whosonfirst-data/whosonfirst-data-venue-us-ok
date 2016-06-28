@@ -2,13 +2,14 @@
   "id": 320116289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.989422,35.440789,-95.989422,35.440789",
     "geom:latitude":35.440789,
     "geom:longitude":-95.989422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 W Trudgeon St",
     "sg:city":"Henryetta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320116289,
-    "wof:lastmodified":1449011801,
+    "wof:lastmodified":1466764027,
     "wof:name":"Henryetta Family Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-95.989422,35.440789,-95.989422,35.440789],
+  "bbox": [
+    -95.989422,
+    35.440789,
+    -95.989422,
+    35.440789
+],
   "geometry": {"coordinates":[-95.989422,35.440789],"type":"Point"}
 }

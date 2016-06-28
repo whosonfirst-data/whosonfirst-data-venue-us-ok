@@ -2,13 +2,14 @@
   "id": 320139321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.304991,35.431463,-96.304991,35.431463",
     "geom:latitude":35.431463,
     "geom:longitude":-96.304991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 W Broadway St",
     "sg:city":"Okemah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320139321,
-    "wof:lastmodified":1449011588,
+    "wof:lastmodified":1466764332,
     "wof:name":"Scott & Sons Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-96.304991,35.431463,-96.304991,35.431463],
+  "bbox": [
+    -96.304991,
+    35.431463,
+    -96.304991,
+    35.431463
+],
   "geometry": {"coordinates":[-96.304991,35.431463],"type":"Point"}
 }

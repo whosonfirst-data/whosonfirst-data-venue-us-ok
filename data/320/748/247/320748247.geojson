@@ -2,13 +2,14 @@
   "id": 320748247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.937475,35.363528,-96.937475,35.363528",
     "geom:latitude":35.363528,
     "geom:longitude":-96.937475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 W Gilmore St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320748247,
-    "wof:lastmodified":1449014048,
+    "wof:lastmodified":1466766678,
     "wof:name":"Shawnee Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-96.937475,35.363528,-96.937475,35.363528],
-  "geometry": {"coordinates":[-96.937475,35.363528],"type":"Point"}
+  "bbox": [
+    -96.937475,
+    35.363528,
+    -96.937475,
+    35.363528
+],
+  "geometry": {"coordinates":[-96.93747500000001,35.363528],"type":"Point"}
 }

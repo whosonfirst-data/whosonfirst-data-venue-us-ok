@@ -2,13 +2,14 @@
   "id": 303437409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.358649,35.769807,-97.358649,35.769807",
     "geom:latitude":35.769807,
     "geom:longitude":-97.358649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10551 Huckleberry Row",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303437409,
-    "wof:lastmodified":1448999887,
+    "wof:lastmodified":1466765626,
     "wof:name":"Ferris Fine Homes Inc",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-97.358649,35.769807,-97.358649,35.769807],
+  "bbox": [
+    -97.358649,
+    35.769807,
+    -97.358649,
+    35.769807
+],
   "geometry": {"coordinates":[-97.358649,35.769807],"type":"Point"}
 }

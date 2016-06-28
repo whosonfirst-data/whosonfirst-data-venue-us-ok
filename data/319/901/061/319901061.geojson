@@ -2,13 +2,14 @@
   "id": 319901061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.527684,35.46308,-95.527684,35.46308",
     "geom:latitude":35.46308,
     "geom:longitude":-95.527684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 SW 2nd St",
     "sg:city":"Checotah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319901061,
-    "wof:lastmodified":1449024416,
+    "wof:lastmodified":1466764207,
     "wof:name":"Snips-N-Tips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.527684,35.46308,-95.527684,35.46308],
-  "geometry": {"coordinates":[-95.527684,35.46308],"type":"Point"}
+  "bbox": [
+    -95.527684,
+    35.46308,
+    -95.527684,
+    35.46308
+],
+  "geometry": {"coordinates":[-95.52768399999999,35.46308],"type":"Point"}
 }

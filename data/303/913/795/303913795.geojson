@@ -2,13 +2,14 @@
   "id": 303913795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.639446,35.489076,-97.639446,35.489076",
     "geom:latitude":35.489076,
     "geom:longitude":-97.639446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 N Timber Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303913795,
-    "wof:lastmodified":1448999064,
+    "wof:lastmodified":1466767067,
     "wof:name":"Bartlebaugh Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.639446,35.489076,-97.639446,35.489076],
-  "geometry": {"coordinates":[-97.639446,35.489076],"type":"Point"}
+  "bbox": [
+    -97.639446,
+    35.489076,
+    -97.639446,
+    35.489076
+],
+  "geometry": {"coordinates":[-97.63944600000001,35.489076],"type":"Point"}
 }

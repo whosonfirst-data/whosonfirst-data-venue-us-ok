@@ -2,13 +2,14 @@
   "id": 353567033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.911771,36.002766,-95.911771,36.002766",
     "geom:latitude":36.002766,
     "geom:longitude":-95.911771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5706 E 111th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353567033,
-    "wof:lastmodified":1449020815,
+    "wof:lastmodified":1466764127,
     "wof:name":"Taylor Tree Care",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-95.911771,36.002766,-95.911771,36.002766],
+  "bbox": [
+    -95.911771,
+    36.002766,
+    -95.911771,
+    36.002766
+],
   "geometry": {"coordinates":[-95.911771,36.002766],"type":"Point"}
 }

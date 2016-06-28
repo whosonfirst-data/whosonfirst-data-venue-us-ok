@@ -2,13 +2,14 @@
   "id": 303695247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.713304,36.039215,-95.713304,36.039215",
     "geom:latitude":36.039215,
     "geom:longitude":-95.713304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8675 Harp Blvd",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303695247,
-    "wof:lastmodified":1448999044,
+    "wof:lastmodified":1466766386,
     "wof:name":"Farms Gallery of Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.713304,36.039215,-95.713304,36.039215],
-  "geometry": {"coordinates":[-95.713304,36.039215],"type":"Point"}
+  "bbox": [
+    -95.713304,
+    36.039215,
+    -95.713304,
+    36.039215
+],
+  "geometry": {"coordinates":[-95.71330399999999,36.039215],"type":"Point"}
 }

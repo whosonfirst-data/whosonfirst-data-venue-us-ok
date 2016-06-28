@@ -2,13 +2,14 @@
   "id": 320110385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.528685,35.514515,-97.528685,35.514515",
     "geom:latitude":35.514515,
     "geom:longitude":-97.528685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 NW 42nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320110385,
-    "wof:lastmodified":1449012502,
+    "wof:lastmodified":1466763925,
     "wof:name":"Crown Heights Dental Clinic",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "dental"
     ]
 },
-  "bbox": [-97.528685,35.514515,-97.528685,35.514515],
+  "bbox": [
+    -97.528685,
+    35.514515,
+    -97.528685,
+    35.514515
+],
   "geometry": {"coordinates":[-97.528685,35.514515],"type":"Point"}
 }

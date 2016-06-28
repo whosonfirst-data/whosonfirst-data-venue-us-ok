@@ -2,13 +2,14 @@
   "id": 303961029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.3943,36.436025,-99.3943,36.436025",
     "geom:latitude":36.436025,
     "geom:longitude":-99.3943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Main Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303961029,
-    "wof:lastmodified":1449000519,
+    "wof:lastmodified":1466767042,
     "wof:name":"Clem's Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-99.3943,36.436025,-99.3943,36.436025],
+  "bbox": [
+    -99.3943,
+    36.436025,
+    -99.3943,
+    36.436025
+],
   "geometry": {"coordinates":[-99.3943,36.436025],"type":"Point"}
 }

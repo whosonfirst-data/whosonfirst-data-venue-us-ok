@@ -2,13 +2,14 @@
   "id": 303080871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.886995,35.710855,-96.886995,35.710855",
     "geom:latitude":35.710855,
     "geom:longitude":-96.886995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 McKinley Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303080871,
-    "wof:lastmodified":1449000497,
+    "wof:lastmodified":1466762918,
     "wof:name":"Red Rock Behavioral Health Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-96.886995,35.710855,-96.886995,35.710855],
+  "bbox": [
+    -96.886995,
+    35.710855,
+    -96.886995,
+    35.710855
+],
   "geometry": {"coordinates":[-96.886995,35.710855],"type":"Point"}
 }

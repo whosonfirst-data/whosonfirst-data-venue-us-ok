@@ -2,13 +2,14 @@
   "id": 303967177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.440997,35.231661,-97.440997,35.231661",
     "geom:latitude":35.231661,
     "geom:longitude":-97.440997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 N Porter Ave",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303967177,
-    "wof:lastmodified":1449000385,
+    "wof:lastmodified":1466767103,
     "wof:name":"Levine Norman S",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.440997,35.231661,-97.440997,35.231661],
+  "bbox": [
+    -97.440997,
+    35.231661,
+    -97.440997,
+    35.231661
+],
   "geometry": {"coordinates":[-97.440997,35.231661],"type":"Point"}
 }

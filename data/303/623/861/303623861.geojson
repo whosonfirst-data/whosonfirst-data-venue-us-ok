@@ -2,13 +2,14 @@
   "id": 303623861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.52837,35.43525,-97.52837,35.43525",
     "geom:latitude":35.43525,
     "geom:longitude":-97.52837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 SW 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303623861,
-    "wof:lastmodified":1448999835,
+    "wof:lastmodified":1466766254,
     "wof:name":"First Fidelity Bank",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.52837,35.43525,-97.52837,35.43525],
+  "bbox": [
+    -97.52837,
+    35.43525,
+    -97.52837,
+    35.43525
+],
   "geometry": {"coordinates":[-97.52837,35.43525],"type":"Point"}
 }

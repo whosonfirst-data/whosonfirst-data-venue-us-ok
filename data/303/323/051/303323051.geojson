@@ -2,13 +2,14 @@
   "id": 303323051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.042941,36.116095,-97.042941,36.116095",
     "geom:latitude":36.116095,
     "geom:longitude":-97.042941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 E 6th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303323051,
-    "wof:lastmodified":1448998330,
+    "wof:lastmodified":1466765037,
     "wof:name":"Big Country Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-97.042941,36.116095,-97.042941,36.116095],
+  "bbox": [
+    -97.042941,
+    36.116095,
+    -97.042941,
+    36.116095
+],
   "geometry": {"coordinates":[-97.042941,36.116095],"type":"Point"}
 }

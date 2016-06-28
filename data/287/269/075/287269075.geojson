@@ -2,13 +2,14 @@
   "id": 287269075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.595019,35.503505,-97.595019,35.503505",
     "geom:latitude":35.503505,
     "geom:longitude":-97.595019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 N Vermont Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287269075,
-    "wof:lastmodified":1449001230,
+    "wof:lastmodified":1466762970,
     "wof:name":"Support People Incorporated",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.595019,35.503505,-97.595019,35.503505],
-  "geometry": {"coordinates":[-97.595019,35.503505],"type":"Point"}
+  "bbox": [
+    -97.595019,
+    35.503505,
+    -97.595019,
+    35.503505
+],
+  "geometry": {"coordinates":[-97.59501899999999,35.503505],"type":"Point"}
 }

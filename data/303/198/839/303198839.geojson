@@ -2,13 +2,14 @@
   "id": 303198839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.558311,35.568615,-97.558311,35.568615",
     "geom:latitude":35.568615,
     "geom:longitude":-97.558311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9613 Greystone Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303198839,
-    "wof:lastmodified":1448999006,
+    "wof:lastmodified":1466764324,
     "wof:name":"Caint Stop",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sporting"
     ]
 },
-  "bbox": [-97.558311,35.568615,-97.558311,35.568615],
+  "bbox": [
+    -97.558311,
+    35.568615,
+    -97.558311,
+    35.568615
+],
   "geometry": {"coordinates":[-97.558311,35.568615],"type":"Point"}
 }

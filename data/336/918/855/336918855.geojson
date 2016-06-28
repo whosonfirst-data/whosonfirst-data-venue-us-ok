@@ -2,13 +2,14 @@
   "id": 336918855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.255921,35.965751,-96.255921,35.965751",
     "geom:latitude":35.965751,
     "geom:longitude":-96.255921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13908 S 236th W Ave",
     "sg:city":"Kellyville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336918855,
-    "wof:lastmodified":1448997657,
+    "wof:lastmodified":1466765285,
     "wof:name":"Triple M Asphalt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-96.255921,35.965751,-96.255921,35.965751],
+  "bbox": [
+    -96.255921,
+    35.965751,
+    -96.255921,
+    35.965751
+],
   "geometry": {"coordinates":[-96.255921,35.965751],"type":"Point"}
 }

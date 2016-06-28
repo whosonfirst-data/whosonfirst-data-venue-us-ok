@@ -2,13 +2,14 @@
   "id": 303099209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.881295,36.397869,-97.881295,36.397869",
     "geom:latitude":36.397869,
     "geom:longitude":-97.881295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 W Randolph Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303099209,
-    "wof:lastmodified":1448999711,
+    "wof:lastmodified":1466763224,
     "wof:name":"Your Credit Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institution"
     ]
 },
-  "bbox": [-97.881295,36.397869,-97.881295,36.397869],
-  "geometry": {"coordinates":[-97.881295,36.397869],"type":"Point"}
+  "bbox": [
+    -97.881295,
+    36.397869,
+    -97.881295,
+    36.397869
+],
+  "geometry": {"coordinates":[-97.88129499999999,36.397869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304072631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.610639,35.545838,-97.610639,35.545838",
     "geom:latitude":35.545838,
     "geom:longitude":-97.610639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5503 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":304072631,
-    "wof:lastmodified":1449043887,
+    "wof:lastmodified":1466763239,
     "wof:name":"David's Bridal",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "special"
     ]
 },
-  "bbox": [-97.610639,35.545838,-97.610639,35.545838],
-  "geometry": {"coordinates":[-97.610639,35.545838],"type":"Point"}
+  "bbox": [
+    -97.610639,
+    35.545838,
+    -97.610639,
+    35.545838
+],
+  "geometry": {"coordinates":[-97.61063900000001,35.545838],"type":"Point"}
 }

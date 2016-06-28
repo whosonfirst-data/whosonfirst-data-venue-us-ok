@@ -2,13 +2,14 @@
   "id": 303913599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.655823,35.493352,-97.655823,35.493352",
     "geom:latitude":35.493352,
     "geom:longitude":-97.655823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8019 NW 23rd St",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303913599,
-    "wof:lastmodified":1448999061,
+    "wof:lastmodified":1466767066,
     "wof:name":"Breakaway Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-97.655823,35.493352,-97.655823,35.493352],
+  "bbox": [
+    -97.655823,
+    35.493352,
+    -97.655823,
+    35.493352
+],
   "geometry": {"coordinates":[-97.655823,35.493352],"type":"Point"}
 }

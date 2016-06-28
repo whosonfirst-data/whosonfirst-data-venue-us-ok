@@ -2,13 +2,14 @@
   "id": 303942837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.5302,35.412985,-97.5302,35.412985",
     "geom:latitude":35.412985,
     "geom:longitude":-97.5302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303942837,
-    "wof:lastmodified":1448999234,
+    "wof:lastmodified":1466767034,
     "wof:name":"Referee's Call",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.5302,35.412985,-97.5302,35.412985],
-  "geometry": {"coordinates":[-97.5302,35.412985],"type":"Point"}
+  "bbox": [
+    -97.5302,
+    35.412985,
+    -97.5302,
+    35.412985
+],
+  "geometry": {"coordinates":[-97.53019999999999,35.412985],"type":"Point"}
 }

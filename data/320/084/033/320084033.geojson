@@ -2,13 +2,14 @@
   "id": 320084033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.308764,34.358014,-98.308764,34.358014",
     "geom:latitude":34.358014,
     "geom:longitude":-98.308764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 E Colorado Ave",
     "sg:city":"Walters",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320084033,
-    "wof:lastmodified":1449011646,
+    "wof:lastmodified":1466763539,
     "wof:name":"Lakeside Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [-98.308764,34.358014,-98.308764,34.358014],
+  "bbox": [
+    -98.308764,
+    34.358014,
+    -98.308764,
+    34.358014
+],
   "geometry": {"coordinates":[-98.308764,34.358014],"type":"Point"}
 }

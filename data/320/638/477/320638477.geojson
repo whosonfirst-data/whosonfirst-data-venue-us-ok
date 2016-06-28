@@ -2,13 +2,14 @@
   "id": 320638477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.598407,34.829046,-97.598407,34.829046",
     "geom:latitude":34.829046,
     "geom:longitude":-97.598407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 SE 4th St",
     "sg:city":"Lindsay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320638477,
-    "wof:lastmodified":1449011452,
+    "wof:lastmodified":1466766360,
     "wof:name":"Great Plains Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.598407,34.829046,-97.598407,34.829046],
-  "geometry": {"coordinates":[-97.598407,34.829046],"type":"Point"}
+  "bbox": [
+    -97.598407,
+    34.829046,
+    -97.598407,
+    34.829046
+],
+  "geometry": {"coordinates":[-97.59840699999999,34.829046],"type":"Point"}
 }

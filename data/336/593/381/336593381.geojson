@@ -2,13 +2,14 @@
   "id": 336593381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935079,36.6923,-95.935079,36.6923",
     "geom:latitude":36.6923,
     "geom:longitude":-95.935079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3691 SE Washington Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336593381,
-    "wof:lastmodified":1448997648,
+    "wof:lastmodified":1466764076,
     "wof:name":"Mock Auto Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.935079,36.6923,-95.935079,36.6923],
+  "bbox": [
+    -95.935079,
+    36.6923,
+    -95.935079,
+    36.6923
+],
   "geometry": {"coordinates":[-95.935079,36.6923],"type":"Point"}
 }

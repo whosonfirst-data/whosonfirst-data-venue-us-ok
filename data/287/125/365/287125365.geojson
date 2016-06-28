@@ -2,13 +2,14 @@
   "id": 287125365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.51954,35.467815,-97.51954,35.467815",
     "geom:latitude":35.467815,
     "geom:longitude":-97.51954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N Hudson Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":287125365,
-    "wof:lastmodified":1449001556,
+    "wof:lastmodified":1466763583,
     "wof:name":"Haupt Brooks Vandruff",
     "wof:parent_id":85871717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.51954,35.467815,-97.51954,35.467815],
-  "geometry": {"coordinates":[-97.51954,35.467815],"type":"Point"}
+  "bbox": [
+    -97.51954,
+    35.467815,
+    -97.51954,
+    35.467815
+],
+  "geometry": {"coordinates":[-97.51954000000001,35.467815],"type":"Point"}
 }

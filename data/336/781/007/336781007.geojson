@@ -2,13 +2,14 @@
   "id": 336781007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.880765,35.705746,-96.880765,35.705746",
     "geom:latitude":35.705746,
     "geom:longitude":-96.880765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 State Hwy 18",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336781007,
-    "wof:lastmodified":1448997155,
+    "wof:lastmodified":1466764594,
     "wof:name":"Thunderbird Package Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.880765,35.705746,-96.880765,35.705746],
+  "bbox": [
+    -96.880765,
+    35.705746,
+    -96.880765,
+    35.705746
+],
   "geometry": {"coordinates":[-96.880765,35.705746],"type":"Point"}
 }

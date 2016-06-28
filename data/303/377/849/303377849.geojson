@@ -2,13 +2,14 @@
   "id": 303377849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.061254,36.114496,-97.061254,36.114496",
     "geom:latitude":36.114496,
     "geom:longitude":-97.061254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 W 7th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303377849,
-    "wof:lastmodified":1448999035,
+    "wof:lastmodified":1466765319,
     "wof:name":"Jim C Leonard CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-97.061254,36.114496,-97.061254,36.114496],
-  "geometry": {"coordinates":[-97.061254,36.114496],"type":"Point"}
+  "bbox": [
+    -97.061254,
+    36.114496,
+    -97.061254,
+    36.114496
+],
+  "geometry": {"coordinates":[-97.06125400000001,36.114496],"type":"Point"}
 }

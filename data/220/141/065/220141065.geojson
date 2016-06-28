@@ -2,13 +2,14 @@
   "id": 220141065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.922323,34.688099,-99.922323,34.688099",
     "geom:latitude":34.688099,
     "geom:longitude":-99.922323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 W Dorothy St",
     "sg:city":"Hollis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220141065,
-    "wof:lastmodified":1449074306,
+    "wof:lastmodified":1466763648,
     "wof:name":"Gary Lee Lewis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.922323,34.688099,-99.922323,34.688099],
-  "geometry": {"coordinates":[-99.922323,34.688099],"type":"Point"}
+  "bbox": [
+    -99.922323,
+    34.688099,
+    -99.922323,
+    34.688099
+],
+  "geometry": {"coordinates":[-99.92232300000001,34.688099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303864253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.245119,35.071474,-98.245119,35.071474",
     "geom:latitude":35.071474,
     "geom:longitude":-98.245119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Kentucky Ave",
     "sg:city":"Anadarko",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303864253,
-    "wof:lastmodified":1449000598,
+    "wof:lastmodified":1466766967,
     "wof:name":"Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dept"
     ]
 },
-  "bbox": [-98.245119,35.071474,-98.245119,35.071474],
+  "bbox": [
+    -98.245119,
+    35.071474,
+    -98.245119,
+    35.071474
+],
   "geometry": {"coordinates":[-98.245119,35.071474],"type":"Point"}
 }

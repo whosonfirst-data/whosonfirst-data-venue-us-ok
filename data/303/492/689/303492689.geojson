@@ -2,13 +2,14 @@
   "id": 303492689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.931925,36.125555,-95.931925,36.125555",
     "geom:latitude":36.125555,
     "geom:longitude":-95.931925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4077 E 26th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303492689,
-    "wof:lastmodified":1448998116,
+    "wof:lastmodified":1466765826,
     "wof:name":"Cho-Wella and Associates Inc",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-95.931925,36.125555,-95.931925,36.125555],
-  "geometry": {"coordinates":[-95.931925,36.125555],"type":"Point"}
+  "bbox": [
+    -95.931925,
+    36.125555,
+    -95.931925,
+    36.125555
+],
+  "geometry": {"coordinates":[-95.93192500000001,36.125555],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304033411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.675298,35.512284,-97.675298,35.512284",
     "geom:latitude":35.512284,
     "geom:longitude":-97.675298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9501 N Overholser Dr",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304033411,
-    "wof:lastmodified":1449043673,
+    "wof:lastmodified":1466762996,
     "wof:name":"Revive Publications",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-97.675298,35.512284,-97.675298,35.512284],
+  "bbox": [
+    -97.675298,
+    35.512284,
+    -97.675298,
+    35.512284
+],
   "geometry": {"coordinates":[-97.675298,35.512284],"type":"Point"}
 }

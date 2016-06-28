@@ -2,13 +2,14 @@
   "id": 303452175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.330097,34.605409,-98.330097,34.605409",
     "geom:latitude":34.605409,
     "geom:longitude":-98.330097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 SE Churchill Way",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303452175,
-    "wof:lastmodified":1448998687,
+    "wof:lastmodified":1466765654,
     "wof:name":"Sheffield Painting",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.330097,34.605409,-98.330097,34.605409],
-  "geometry": {"coordinates":[-98.330097,34.605409],"type":"Point"}
+  "bbox": [
+    -98.330097,
+    34.605409,
+    -98.330097,
+    34.605409
+],
+  "geometry": {"coordinates":[-98.33009699999999,34.605409],"type":"Point"}
 }

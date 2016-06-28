@@ -2,13 +2,14 @@
   "id": 320092329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507166,35.592326,-97.507166,35.592326",
     "geom:latitude":35.592326,
     "geom:longitude":-97.507166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11900 N Broadway Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320092329,
-    "wof:lastmodified":1449014262,
+    "wof:lastmodified":1466763655,
     "wof:name":"Geolograph Pioneer Geosource",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.507166,35.592326,-97.507166,35.592326],
+  "bbox": [
+    -97.507166,
+    35.592326,
+    -97.507166,
+    35.592326
+],
   "geometry": {"coordinates":[-97.507166,35.592326],"type":"Point"}
 }

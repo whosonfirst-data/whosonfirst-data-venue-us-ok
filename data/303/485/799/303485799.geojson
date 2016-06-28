@@ -2,13 +2,14 @@
   "id": 303485799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.412557,34.60879,-98.412557,34.60879",
     "geom:latitude":34.60879,
     "geom:longitude":-98.412557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 W Gore Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303485799,
-    "wof:lastmodified":1448999611,
+    "wof:lastmodified":1466765705,
     "wof:name":"Phillips Music Co",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.412557,34.60879,-98.412557,34.60879],
-  "geometry": {"coordinates":[-98.412557,34.60879],"type":"Point"}
+  "bbox": [
+    -98.412557,
+    34.60879,
+    -98.412557,
+    34.60879
+],
+  "geometry": {"coordinates":[-98.41255700000001,34.60879],"type":"Point"}
 }

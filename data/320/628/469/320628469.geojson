@@ -2,13 +2,14 @@
   "id": 320628469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.051415,36.131692,-97.051415,36.131692",
     "geom:latitude":36.131692,
     "geom:longitude":-97.051415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 N Perkins Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320628469,
-    "wof:lastmodified":1449014261,
+    "wof:lastmodified":1466766341,
     "wof:name":"Omar Alsabti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.051415,36.131692,-97.051415,36.131692],
-  "geometry": {"coordinates":[-97.051415,36.131692],"type":"Point"}
+  "bbox": [
+    -97.051415,
+    36.131692,
+    -97.051415,
+    36.131692
+],
+  "geometry": {"coordinates":[-97.05141500000001,36.131692],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320348667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975903,36.115582,-95.975903,36.115582",
     "geom:latitude":36.115582,
     "geom:longitude":-95.975903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 E 33rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320348667,
-    "wof:lastmodified":1449011422,
+    "wof:lastmodified":1466765343,
     "wof:name":"Jones Waldo & Jean Ministries",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ministry"
     ]
 },
-  "bbox": [-95.975903,36.115582,-95.975903,36.115582],
+  "bbox": [
+    -95.975903,
+    36.115582,
+    -95.975903,
+    36.115582
+],
   "geometry": {"coordinates":[-95.975903,36.115582],"type":"Point"}
 }

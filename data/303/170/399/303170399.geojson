@@ -2,13 +2,14 @@
   "id": 303170399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.388599,35.151108,-97.388599,35.151108",
     "geom:latitude":35.151108,
     "geom:longitude":-97.388599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Holsey Dr",
     "sg:city":"Noble",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303170399,
-    "wof:lastmodified":1448998348,
+    "wof:lastmodified":1466764280,
     "wof:name":"Coach Works Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-97.388599,35.151108,-97.388599,35.151108],
+  "bbox": [
+    -97.388599,
+    35.151108,
+    -97.388599,
+    35.151108
+],
   "geometry": {"coordinates":[-97.388599,35.151108],"type":"Point"}
 }

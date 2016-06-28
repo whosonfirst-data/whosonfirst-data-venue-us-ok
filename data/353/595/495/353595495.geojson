@@ -2,13 +2,14 @@
   "id": 353595495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531299,35.554417,-97.531299,35.554417",
     "geom:latitude":35.554417,
     "geom:longitude":-97.531299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8220 N Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353595495,
-    "wof:lastmodified":1449020561,
+    "wof:lastmodified":1466764368,
     "wof:name":"Custom Tile & Marble Inc",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.531299,35.554417,-97.531299,35.554417],
+  "bbox": [
+    -97.531299,
+    35.554417,
+    -97.531299,
+    35.554417
+],
   "geometry": {"coordinates":[-97.531299,35.554417],"type":"Point"}
 }

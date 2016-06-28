@@ -2,13 +2,14 @@
   "id": 303377611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.216708,34.725225,-97.216708,34.725225",
     "geom:latitude":34.725225,
     "geom:longitude":-97.216708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 S Walnut St",
     "sg:city":"Pauls Valley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303377611,
-    "wof:lastmodified":1448999037,
+    "wof:lastmodified":1466765315,
     "wof:name":"Nazerene Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-97.216708,34.725225,-97.216708,34.725225],
+  "bbox": [
+    -97.216708,
+    34.725225,
+    -97.216708,
+    34.725225
+],
   "geometry": {"coordinates":[-97.216708,34.725225],"type":"Point"}
 }

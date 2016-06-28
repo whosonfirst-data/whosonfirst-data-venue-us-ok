@@ -2,13 +2,14 @@
   "id": 303116455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507487,35.581554,-97.507487,35.581554",
     "geom:latitude":35.581554,
     "geom:longitude":-97.507487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Bainbridge Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303116455,
-    "wof:lastmodified":1448998476,
+    "wof:lastmodified":1466763497,
     "wof:name":"Banks Stevenson",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.507487,35.581554,-97.507487,35.581554],
+  "bbox": [
+    -97.507487,
+    35.581554,
+    -97.507487,
+    35.581554
+],
   "geometry": {"coordinates":[-97.507487,35.581554],"type":"Point"}
 }

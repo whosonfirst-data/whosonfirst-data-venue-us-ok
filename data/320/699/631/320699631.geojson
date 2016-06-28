@@ -2,13 +2,14 @@
   "id": 320699631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.483427,36.698603,-101.483427,36.698603",
     "geom:latitude":36.698603,
     "geom:longitude":-101.483427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1936 US Hwy 64",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320699631,
-    "wof:lastmodified":1449011762,
+    "wof:lastmodified":1466766418,
     "wof:name":"Chiles & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-101.483427,36.698603,-101.483427,36.698603],
-  "geometry": {"coordinates":[-101.483427,36.698603],"type":"Point"}
+  "bbox": [
+    -101.483427,
+    36.698603,
+    -101.483427,
+    36.698603
+],
+  "geometry": {"coordinates":[-101.48342700000001,36.698603],"type":"Point"}
 }

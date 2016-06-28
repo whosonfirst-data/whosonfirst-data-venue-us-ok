@@ -2,13 +2,14 @@
   "id": 319878285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.583384,35.499296,-97.583384,35.499296",
     "geom:latitude":35.499296,
     "geom:longitude":-97.583384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 N Portland Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319878285,
-    "wof:lastmodified":1449024494,
+    "wof:lastmodified":1466763404,
     "wof:name":"Mc Salty's Pizza",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.583384,35.499296,-97.583384,35.499296],
+  "bbox": [
+    -97.583384,
+    35.499296,
+    -97.583384,
+    35.499296
+],
   "geometry": {"coordinates":[-97.583384,35.499296],"type":"Point"}
 }

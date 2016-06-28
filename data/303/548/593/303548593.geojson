@@ -2,13 +2,14 @@
   "id": 303548593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.434007,35.218368,-97.434007,35.218368",
     "geom:latitude":35.218368,
     "geom:longitude":-97.434007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Alameda St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303548593,
-    "wof:lastmodified":1448999809,
+    "wof:lastmodified":1466766045,
     "wof:name":"Guardian-Mayes Funeral",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-97.434007,35.218368,-97.434007,35.218368],
-  "geometry": {"coordinates":[-97.434007,35.218368],"type":"Point"}
+  "bbox": [
+    -97.434007,
+    35.218368,
+    -97.434007,
+    35.218368
+],
+  "geometry": {"coordinates":[-97.43400699999999,35.218368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303858601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.058655,36.122185,-97.058655,36.122185",
     "geom:latitude":36.122185,
     "geom:longitude":-97.058655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Elm Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303858601,
-    "wof:lastmodified":1448998362,
+    "wof:lastmodified":1466766860,
     "wof:name":"Mircrofirm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-97.058655,36.122185,-97.058655,36.122185],
+  "bbox": [
+    -97.058655,
+    36.122185,
+    -97.058655,
+    36.122185
+],
   "geometry": {"coordinates":[-97.058655,36.122185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303941427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.516023,35.443105,-97.516023,35.443105",
     "geom:latitude":35.443105,
     "geom:longitude":-97.516023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2216 S Robinson Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303941427,
-    "wof:lastmodified":1448999580,
+    "wof:lastmodified":1466767024,
     "wof:name":"Acme Radiator Center",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.516023,35.443105,-97.516023,35.443105],
+  "bbox": [
+    -97.516023,
+    35.443105,
+    -97.516023,
+    35.443105
+],
   "geometry": {"coordinates":[-97.516023,35.443105],"type":"Point"}
 }

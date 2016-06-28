@@ -2,13 +2,14 @@
   "id": 354127321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.536594,35.420669,-97.536594,35.420669",
     "geom:latitude":35.420669,
     "geom:longitude":-97.536594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 SW 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354127321,
-    "wof:lastmodified":1449067523,
+    "wof:lastmodified":1466763609,
     "wof:name":"AM Accounting",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-97.536594,35.420669,-97.536594,35.420669],
-  "geometry": {"coordinates":[-97.536594,35.420669],"type":"Point"}
+  "bbox": [
+    -97.536594,
+    35.420669,
+    -97.536594,
+    35.420669
+],
+  "geometry": {"coordinates":[-97.53659399999999,35.420669],"type":"Point"}
 }

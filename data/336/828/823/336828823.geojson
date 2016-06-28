@@ -2,13 +2,14 @@
   "id": 336828823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.410721,34.597572,-98.410721,34.597572",
     "geom:latitude":34.597572,
     "geom:longitude":-98.410721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 SW J Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336828823,
-    "wof:lastmodified":1448997503,
+    "wof:lastmodified":1466764809,
     "wof:name":"Residential Concrete",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.410721,34.597572,-98.410721,34.597572],
+  "bbox": [
+    -98.410721,
+    34.597572,
+    -98.410721,
+    34.597572
+],
   "geometry": {"coordinates":[-98.410721,34.597572],"type":"Point"}
 }

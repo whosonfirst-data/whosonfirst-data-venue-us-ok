@@ -2,13 +2,14 @@
   "id": 353969665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.251431,36.808968,-102.251431,36.808968",
     "geom:latitude":36.808968,
     "geom:longitude":-102.251431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Monroe Ave",
     "sg:city":"Keyes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353969665,
-    "wof:lastmodified":1449018866,
+    "wof:lastmodified":1466765895,
     "wof:name":"Keyes Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-102.251431,36.808968,-102.251431,36.808968],
+  "bbox": [
+    -102.251431,
+    36.808968,
+    -102.251431,
+    36.808968
+],
   "geometry": {"coordinates":[-102.251431,36.808968],"type":"Point"}
 }

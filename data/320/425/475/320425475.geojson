@@ -2,13 +2,14 @@
   "id": 320425475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.061394,36.11659,-97.061394,36.11659",
     "geom:latitude":36.11659,
     "geom:longitude":-97.061394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 S Duncan St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320425475,
-    "wof:lastmodified":1449012590,
+    "wof:lastmodified":1466765857,
     "wof:name":"Fort Environmental Labs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-97.061394,36.11659,-97.061394,36.11659],
-  "geometry": {"coordinates":[-97.061394,36.11659],"type":"Point"}
+  "bbox": [
+    -97.061394,
+    36.11659,
+    -97.061394,
+    36.11659
+],
+  "geometry": {"coordinates":[-97.06139400000001,36.11659],"type":"Point"}
 }

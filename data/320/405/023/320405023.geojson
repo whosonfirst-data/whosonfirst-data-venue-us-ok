@@ -2,13 +2,14 @@
   "id": 320405023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.831539,36.793659,-94.831539,36.793659",
     "geom:latitude":36.793659,
     "geom:longitude":-94.831539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58500 E 155 Rd",
     "sg:city":"Fairland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320405023,
-    "wof:lastmodified":1449014649,
+    "wof:lastmodified":1466765741,
     "wof:name":"Charles Wyrick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-94.831539,36.793659,-94.831539,36.793659],
-  "geometry": {"coordinates":[-94.831539,36.793659],"type":"Point"}
+  "bbox": [
+    -94.831539,
+    36.793659,
+    -94.831539,
+    36.793659
+],
+  "geometry": {"coordinates":[-94.83153900000001,36.793659],"type":"Point"}
 }

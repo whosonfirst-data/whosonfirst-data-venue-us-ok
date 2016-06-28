@@ -2,13 +2,14 @@
   "id": 303710003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.85215,33.895531,-94.85215,33.895531",
     "geom:latitude":33.895531,
     "geom:longitude":-94.85215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 SW Lincoln Rd",
     "sg:city":"Idabel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303710003,
-    "wof:lastmodified":1448998270,
+    "wof:lastmodified":1466766398,
     "wof:name":"Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-94.85215,33.895531,-94.85215,33.895531],
-  "geometry": {"coordinates":[-94.85215,33.895531],"type":"Point"}
+  "bbox": [
+    -94.85215,
+    33.895531,
+    -94.85215,
+    33.895531
+],
+  "geometry": {"coordinates":[-94.85214999999999,33.895531],"type":"Point"}
 }

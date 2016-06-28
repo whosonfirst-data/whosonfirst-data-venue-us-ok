@@ -2,13 +2,14 @@
   "id": 353527291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.478267,35.611626,-97.478267,35.611626",
     "geom:latitude":35.611626,
     "geom:longitude":-97.478267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13801 N Eastern Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353527291,
-    "wof:lastmodified":1449020302,
+    "wof:lastmodified":1466763530,
     "wof:name":"Party Information",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.478267,35.611626,-97.478267,35.611626],
+  "bbox": [
+    -97.478267,
+    35.611626,
+    -97.478267,
+    35.611626
+],
   "geometry": {"coordinates":[-97.478267,35.611626],"type":"Point"}
 }

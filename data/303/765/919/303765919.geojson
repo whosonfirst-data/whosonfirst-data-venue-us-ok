@@ -2,13 +2,14 @@
   "id": 303765919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.131854,34.186239,-97.131854,34.186239",
     "geom:latitude":34.186239,
     "geom:longitude":-97.131854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 12th Ave NW",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303765919,
-    "wof:lastmodified":1448999535,
+    "wof:lastmodified":1466766573,
     "wof:name":"T & M Prescription Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drug"
     ]
 },
-  "bbox": [-97.131854,34.186239,-97.131854,34.186239],
+  "bbox": [
+    -97.131854,
+    34.186239,
+    -97.131854,
+    34.186239
+],
   "geometry": {"coordinates":[-97.131854,34.186239],"type":"Point"}
 }

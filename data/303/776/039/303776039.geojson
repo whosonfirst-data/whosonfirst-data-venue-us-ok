@@ -2,13 +2,14 @@
   "id": 303776039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.941225,35.05245,-97.941225,35.05245",
     "geom:latitude":35.05245,
     "geom:longitude":-97.941225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 W Choctaw Ave",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303776039,
-    "wof:lastmodified":1448998648,
+    "wof:lastmodified":1466766578,
     "wof:name":"Current Classics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.941225,35.05245,-97.941225,35.05245],
+  "bbox": [
+    -97.941225,
+    35.05245,
+    -97.941225,
+    35.05245
+],
   "geometry": {"coordinates":[-97.941225,35.05245],"type":"Point"}
 }

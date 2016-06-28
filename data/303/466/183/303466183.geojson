@@ -2,13 +2,14 @@
   "id": 303466183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.623224,35.55117,-97.623224,35.55117",
     "geom:latitude":35.55117,
     "geom:longitude":-97.623224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303466183,
-    "wof:lastmodified":1448998846,
+    "wof:lastmodified":1466765595,
     "wof:name":"Express Home Help",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-97.623224,35.55117,-97.623224,35.55117],
-  "geometry": {"coordinates":[-97.623224,35.55117],"type":"Point"}
+  "bbox": [
+    -97.623224,
+    35.55117,
+    -97.623224,
+    35.55117
+],
+  "geometry": {"coordinates":[-97.62322399999999,35.55117],"type":"Point"}
 }

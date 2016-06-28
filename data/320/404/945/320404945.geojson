@@ -2,13 +2,14 @@
   "id": 320404945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.590013,35.482396,-97.590013,35.482396",
     "geom:latitude":35.482396,
     "geom:longitude":-97.590013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 NW 12th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320404945,
-    "wof:lastmodified":1449013751,
+    "wof:lastmodified":1466765752,
     "wof:name":"Music Row Recording LLC",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.590013,35.482396,-97.590013,35.482396],
+  "bbox": [
+    -97.590013,
+    35.482396,
+    -97.590013,
+    35.482396
+],
   "geometry": {"coordinates":[-97.590013,35.482396],"type":"Point"}
 }

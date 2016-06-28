@@ -2,13 +2,14 @@
   "id": 353886701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.476725,35.487735,-97.476725,35.487735",
     "geom:latitude":35.487735,
     "geom:longitude":-97.476725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 N Martin Luther King Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353886701,
-    "wof:lastmodified":1449019672,
+    "wof:lastmodified":1466765644,
     "wof:name":"Oklahoma County Sr Ntrn Prog",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-97.476725,35.487735,-97.476725,35.487735],
+  "bbox": [
+    -97.476725,
+    35.487735,
+    -97.476725,
+    35.487735
+],
   "geometry": {"coordinates":[-97.476725,35.487735],"type":"Point"}
 }

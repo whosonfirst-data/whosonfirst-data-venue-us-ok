@@ -2,13 +2,14 @@
   "id": 320461703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.352317,35.741559,-95.352317,35.741559",
     "geom:latitude":35.741559,
     "geom:longitude":-95.352317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 E Okmulgee St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320461703,
-    "wof:lastmodified":1449012688,
+    "wof:lastmodified":1466766057,
     "wof:name":"Advanced Bankruptcy",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-95.352317,35.741559,-95.352317,35.741559],
+  "bbox": [
+    -95.352317,
+    35.741559,
+    -95.352317,
+    35.741559
+],
   "geometry": {"coordinates":[-95.352317,35.741559],"type":"Point"}
 }

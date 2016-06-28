@@ -2,13 +2,14 @@
   "id": 320580313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.93551,36.755238,-95.93551,36.755238",
     "geom:latitude":36.755238,
     "geom:longitude":-95.93551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 SE Washington Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320580313,
-    "wof:lastmodified":1449013785,
+    "wof:lastmodified":1466766250,
     "wof:name":"Goldie's Patio Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.93551,36.755238,-95.93551,36.755238],
-  "geometry": {"coordinates":[-95.93551,36.755238],"type":"Point"}
+  "bbox": [
+    -95.93551,
+    36.755238,
+    -95.93551,
+    36.755238
+],
+  "geometry": {"coordinates":[-95.93550999999999,36.755238],"type":"Point"}
 }

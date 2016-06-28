@@ -2,13 +2,14 @@
   "id": 320571577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.309841,34.403715,-96.309841,34.403715",
     "geom:latitude":34.403715,
     "geom:longitude":-96.309841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1047 W Rocking R Rd",
     "sg:city":"Atoka",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320571577,
-    "wof:lastmodified":1449013824,
+    "wof:lastmodified":1466766123,
     "wof:name":"Haven Kennel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "kennel"
     ]
 },
-  "bbox": [-96.309841,34.403715,-96.309841,34.403715],
-  "geometry": {"coordinates":[-96.309841,34.403715],"type":"Point"}
+  "bbox": [
+    -96.309841,
+    34.403715,
+    -96.309841,
+    34.403715
+],
+  "geometry": {"coordinates":[-96.30984100000001,34.403715],"type":"Point"}
 }

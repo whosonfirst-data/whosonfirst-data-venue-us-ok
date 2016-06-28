@@ -2,13 +2,14 @@
   "id": 320226963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406066,35.455183,-97.406066,35.455183",
     "geom:latitude":35.455183,
     "geom:longitude":-97.406066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 S Air Depot Blvd",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320226963,
-    "wof:lastmodified":1449013963,
+    "wof:lastmodified":1466764634,
     "wof:name":"Game Time",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "video"
     ]
 },
-  "bbox": [-97.406066,35.455183,-97.406066,35.455183],
+  "bbox": [
+    -97.406066,
+    35.455183,
+    -97.406066,
+    35.455183
+],
   "geometry": {"coordinates":[-97.406066,35.455183],"type":"Point"}
 }

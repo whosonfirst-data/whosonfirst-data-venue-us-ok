@@ -2,13 +2,14 @@
   "id": 320045421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.539546,35.351747,-97.539546,35.351747",
     "geom:latitude":35.351747,
     "geom:longitude":-97.539546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 SW 116th Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320045421,
-    "wof:lastmodified":1449014526,
+    "wof:lastmodified":1466762967,
     "wof:name":"Allied Wholesale Supply Inc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.539546,35.351747,-97.539546,35.351747],
+  "bbox": [
+    -97.539546,
+    35.351747,
+    -97.539546,
+    35.351747
+],
   "geometry": {"coordinates":[-97.539546,35.351747],"type":"Point"}
 }

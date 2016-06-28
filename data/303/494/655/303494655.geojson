@@ -2,13 +2,14 @@
   "id": 303494655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.605215,36.323141,-95.605215,36.323141",
     "geom:latitude":36.323141,
     "geom:longitude":-95.605215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 N Muskogee Pl",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303494655,
-    "wof:lastmodified":1449000299,
+    "wof:lastmodified":1466765939,
     "wof:name":"Anesthesia Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.605215,36.323141,-95.605215,36.323141],
+  "bbox": [
+    -95.605215,
+    36.323141,
+    -95.605215,
+    36.323141
+],
   "geometry": {"coordinates":[-95.605215,36.323141],"type":"Point"}
 }

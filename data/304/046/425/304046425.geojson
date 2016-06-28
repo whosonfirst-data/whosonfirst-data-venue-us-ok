@@ -2,13 +2,14 @@
   "id": 304046425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.929729,35.375406,-96.929729,35.375406",
     "geom:latitude":35.375406,
     "geom:longitude":-96.929729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4439 N Kickapoo St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304046425,
-    "wof:lastmodified":1449043928,
+    "wof:lastmodified":1466763087,
     "wof:name":"First United Bank & Trust",
     "wof:parent_id":85827517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.929729,35.375406,-96.929729,35.375406],
-  "geometry": {"coordinates":[-96.929729,35.375406],"type":"Point"}
+  "bbox": [
+    -96.929729,
+    35.375406,
+    -96.929729,
+    35.375406
+],
+  "geometry": {"coordinates":[-96.92972899999999,35.375406],"type":"Point"}
 }

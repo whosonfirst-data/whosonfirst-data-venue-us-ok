@@ -2,13 +2,14 @@
   "id": 303628285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.522669,35.48238,-97.522669,35.48238",
     "geom:latitude":35.48238,
     "geom:longitude":-97.522669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 NW 13th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303628285,
-    "wof:lastmodified":1449000099,
+    "wof:lastmodified":1466766304,
     "wof:name":"Evans Rees & Assoc",
     "wof:parent_id":85871701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.522669,35.48238,-97.522669,35.48238],
-  "geometry": {"coordinates":[-97.522669,35.48238],"type":"Point"}
+  "bbox": [
+    -97.522669,
+    35.48238,
+    -97.522669,
+    35.48238
+],
+  "geometry": {"coordinates":[-97.52266899999999,35.48238],"type":"Point"}
 }

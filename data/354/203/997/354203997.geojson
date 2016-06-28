@@ -2,13 +2,14 @@
   "id": 354203997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.877148,36.126475,-95.877148,36.126475",
     "geom:latitude":36.126475,
     "geom:longitude":-95.877148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8906 E Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354203997,
-    "wof:lastmodified":1449066669,
+    "wof:lastmodified":1466763949,
     "wof:name":"Maid America",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-95.877148,36.126475,-95.877148,36.126475],
-  "geometry": {"coordinates":[-95.877148,36.126475],"type":"Point"}
+  "bbox": [
+    -95.877148,
+    36.126475,
+    -95.877148,
+    36.126475
+],
+  "geometry": {"coordinates":[-95.87714800000001,36.126475],"type":"Point"}
 }

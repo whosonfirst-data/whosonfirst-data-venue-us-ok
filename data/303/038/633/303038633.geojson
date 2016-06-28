@@ -2,13 +2,14 @@
   "id": 303038633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.422129,34.628569,-98.422129,34.628569",
     "geom:latitude":34.628569,
     "geom:longitude":-98.422129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 NW Sheridan Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303038633,
-    "wof:lastmodified":1448999684,
+    "wof:lastmodified":1466764159,
     "wof:name":"Churchs Chicken",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-98.422129,34.628569,-98.422129,34.628569],
+  "bbox": [
+    -98.422129,
+    34.628569,
+    -98.422129,
+    34.628569
+],
   "geometry": {"coordinates":[-98.422129,34.628569],"type":"Point"}
 }

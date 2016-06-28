@@ -2,13 +2,14 @@
   "id": 353782313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.372987,35.745808,-95.372987,35.745808",
     "geom:latitude":35.745808,
     "geom:longitude":-95.372987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Elgin St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353782313,
-    "wof:lastmodified":1449018241,
+    "wof:lastmodified":1466765237,
     "wof:name":"Three Rivers Museum Muskogee",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "legal"
     ]
 },
-  "bbox": [-95.372987,35.745808,-95.372987,35.745808],
-  "geometry": {"coordinates":[-95.372987,35.745808],"type":"Point"}
+  "bbox": [
+    -95.372987,
+    35.745808,
+    -95.372987,
+    35.745808
+],
+  "geometry": {"coordinates":[-95.37298699999999,35.745808],"type":"Point"}
 }

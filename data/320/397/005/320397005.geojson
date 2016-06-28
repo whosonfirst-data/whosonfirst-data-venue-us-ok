@@ -2,13 +2,14 @@
   "id": 320397005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.454392,35.456476,-97.454392,35.456476",
     "geom:latitude":35.456476,
     "geom:longitude":-97.454392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3280 Delmar Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320397005,
-    "wof:lastmodified":1449012760,
+    "wof:lastmodified":1466765791,
     "wof:name":"Pelfrey Rentals",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-97.454392,35.456476,-97.454392,35.456476],
+  "bbox": [
+    -97.454392,
+    35.456476,
+    -97.454392,
+    35.456476
+],
   "geometry": {"coordinates":[-97.454392,35.456476],"type":"Point"}
 }

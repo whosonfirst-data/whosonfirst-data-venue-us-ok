@@ -2,13 +2,14 @@
   "id": 320387945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.997037,36.141603,-95.997037,36.141603",
     "geom:latitude":36.141603,
     "geom:longitude":-95.997037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 W 14th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320387945,
-    "wof:lastmodified":1449014466,
+    "wof:lastmodified":1466765516,
     "wof:name":"Positech",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "handling"
     ]
 },
-  "bbox": [-95.997037,36.141603,-95.997037,36.141603],
-  "geometry": {"coordinates":[-95.997037,36.141603],"type":"Point"}
+  "bbox": [
+    -95.997037,
+    36.141603,
+    -95.997037,
+    36.141603
+],
+  "geometry": {"coordinates":[-95.99703700000001,36.141603],"type":"Point"}
 }

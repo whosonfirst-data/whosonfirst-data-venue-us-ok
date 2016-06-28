@@ -2,13 +2,14 @@
   "id": 303062041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.184823,35.525851,-97.184823,35.525851",
     "geom:latitude":35.525851,
     "geom:longitude":-97.184823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5422 E Lakeview Dr",
     "sg:city":"Harrah",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303062041,
-    "wof:lastmodified":1449000388,
+    "wof:lastmodified":1466762615,
     "wof:name":"Oak Tree Financial Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "financial"
     ]
 },
-  "bbox": [-97.184823,35.525851,-97.184823,35.525851],
-  "geometry": {"coordinates":[-97.184823,35.525851],"type":"Point"}
+  "bbox": [
+    -97.184823,
+    35.525851,
+    -97.184823,
+    35.525851
+],
+  "geometry": {"coordinates":[-97.18482299999999,35.525851],"type":"Point"}
 }

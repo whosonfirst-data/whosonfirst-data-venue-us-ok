@@ -2,13 +2,14 @@
   "id": 337395803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.553705,35.420781,-97.553705,35.420781",
     "geom:latitude":35.420781,
     "geom:longitude":-97.553705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 SW 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337395803,
-    "wof:lastmodified":1449027627,
+    "wof:lastmodified":1466763926,
     "wof:name":"True Love Full Gospel Church",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.553705,35.420781,-97.553705,35.420781],
-  "geometry": {"coordinates":[-97.553705,35.420781],"type":"Point"}
+  "bbox": [
+    -97.553705,
+    35.420781,
+    -97.553705,
+    35.420781
+],
+  "geometry": {"coordinates":[-97.55370499999999,35.420781],"type":"Point"}
 }

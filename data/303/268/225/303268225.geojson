@@ -2,13 +2,14 @@
   "id": 303268225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.954921,36.773492,-95.954921,36.773492",
     "geom:latitude":36.773492,
     "geom:longitude":-95.954921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6105 Bartles Rd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303268225,
-    "wof:lastmodified":1448999513,
+    "wof:lastmodified":1466764902,
     "wof:name":"Bartlesville Industrial Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "floor"
     ]
 },
-  "bbox": [-95.954921,36.773492,-95.954921,36.773492],
+  "bbox": [
+    -95.954921,
+    36.773492,
+    -95.954921,
+    36.773492
+],
   "geometry": {"coordinates":[-95.954921,36.773492],"type":"Point"}
 }

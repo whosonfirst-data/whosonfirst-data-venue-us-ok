@@ -2,13 +2,14 @@
   "id": 320225469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.569375,35.601704,-97.569375,35.601704",
     "geom:latitude":35.601704,
     "geom:longitude":-97.569375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Brush Creek Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320225469,
-    "wof:lastmodified":1449012436,
+    "wof:lastmodified":1466764704,
     "wof:name":"Deno Brice Custom Homes Inc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.569375,35.601704,-97.569375,35.601704],
-  "geometry": {"coordinates":[-97.569375,35.601704],"type":"Point"}
+  "bbox": [
+    -97.569375,
+    35.601704,
+    -97.569375,
+    35.601704
+],
+  "geometry": {"coordinates":[-97.56937499999999,35.601704],"type":"Point"}
 }

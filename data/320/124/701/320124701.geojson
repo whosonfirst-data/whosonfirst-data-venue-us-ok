@@ -2,13 +2,14 @@
   "id": 320124701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547748,35.379063,-97.547748,35.379063",
     "geom:latitude":35.379063,
     "geom:longitude":-97.547748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1628 SW 87th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320124701,
-    "wof:lastmodified":1449014679,
+    "wof:lastmodified":1466764166,
     "wof:name":"Moore Soccer Club",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "soccer"
     ]
 },
-  "bbox": [-97.547748,35.379063,-97.547748,35.379063],
+  "bbox": [
+    -97.547748,
+    35.379063,
+    -97.547748,
+    35.379063
+],
   "geometry": {"coordinates":[-97.547748,35.379063],"type":"Point"}
 }

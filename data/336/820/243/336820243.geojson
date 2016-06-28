@@ -2,13 +2,14 @@
   "id": 336820243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.49468,35.433547,-97.49468,35.433547",
     "geom:latitude":35.433547,
     "geom:longitude":-97.49468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3108 S High Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336820243,
-    "wof:lastmodified":1448997513,
+    "wof:lastmodified":1466764778,
     "wof:name":"A&E Motors",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-97.49468,35.433547,-97.49468,35.433547],
+  "bbox": [
+    -97.49468,
+    35.433547,
+    -97.49468,
+    35.433547
+],
   "geometry": {"coordinates":[-97.49468,35.433547],"type":"Point"}
 }

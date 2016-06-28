@@ -2,13 +2,14 @@
   "id": 303257415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.710829,36.452294,-95.710829,36.452294",
     "geom:latitude":36.452294,
     "geom:longitude":-95.710829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 E 390 Rd",
     "sg:city":"Oologah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303257415,
-    "wof:lastmodified":1448998835,
+    "wof:lastmodified":1466764741,
     "wof:name":"Cross Creek Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.710829,36.452294,-95.710829,36.452294],
+  "bbox": [
+    -95.710829,
+    36.452294,
+    -95.710829,
+    36.452294
+],
   "geometry": {"coordinates":[-95.710829,36.452294],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287268745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.86473,36.133416,-95.86473,36.133416",
     "geom:latitude":36.133416,
     "geom:longitude":-95.86473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9912 E 21st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287268745,
-    "wof:lastmodified":1449001180,
+    "wof:lastmodified":1466762966,
     "wof:name":"O U Physicians",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.86473,36.133416,-95.86473,36.133416],
-  "geometry": {"coordinates":[-95.86473,36.133416],"type":"Point"}
+  "bbox": [
+    -95.86473,
+    36.133416,
+    -95.86473,
+    36.133416
+],
+  "geometry": {"coordinates":[-95.86472999999999,36.133416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303071983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.368096,35.448614,-97.368096,35.448614",
     "geom:latitude":35.448614,
     "geom:longitude":-97.368096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9128 Pepperdine",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303071983,
-    "wof:lastmodified":1448999658,
+    "wof:lastmodified":1466762775,
     "wof:name":"Ray Savell Sale Service",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.368096,35.448614,-97.368096,35.448614],
-  "geometry": {"coordinates":[-97.368096,35.448614],"type":"Point"}
+  "bbox": [
+    -97.368096,
+    35.448614,
+    -97.368096,
+    35.448614
+],
+  "geometry": {"coordinates":[-97.36809599999999,35.448614],"type":"Point"}
 }

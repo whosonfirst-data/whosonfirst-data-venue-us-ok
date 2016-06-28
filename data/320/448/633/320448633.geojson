@@ -2,13 +2,14 @@
   "id": 320448633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.75884,36.014651,-96.75884,36.014651",
     "geom:latitude":36.014651,
     "geom:longitude":-96.75884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 E Deep Rock Rd",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320448633,
-    "wof:lastmodified":1449014782,
+    "wof:lastmodified":1466765821,
     "wof:name":"KERR-Mc Gee Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.75884,36.014651,-96.75884,36.014651],
-  "geometry": {"coordinates":[-96.75884,36.014651],"type":"Point"}
+  "bbox": [
+    -96.75884,
+    36.014651,
+    -96.75884,
+    36.014651
+],
+  "geometry": {"coordinates":[-96.75884000000001,36.014651],"type":"Point"}
 }

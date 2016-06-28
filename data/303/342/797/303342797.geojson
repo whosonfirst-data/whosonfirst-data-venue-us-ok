@@ -2,13 +2,14 @@
   "id": 303342797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.957923,36.045179,-95.957923,36.045179",
     "geom:latitude":36.045179,
     "geom:longitude":-95.957923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8122 S Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303342797,
-    "wof:lastmodified":1449000394,
+    "wof:lastmodified":1466765239,
     "wof:name":"Bill Miller Piano",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "piano"
     ]
 },
-  "bbox": [-95.957923,36.045179,-95.957923,36.045179],
-  "geometry": {"coordinates":[-95.957923,36.045179],"type":"Point"}
+  "bbox": [
+    -95.957923,
+    36.045179,
+    -95.957923,
+    36.045179
+],
+  "geometry": {"coordinates":[-95.95792299999999,36.045179],"type":"Point"}
 }

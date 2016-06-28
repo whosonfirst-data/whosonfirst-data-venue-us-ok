@@ -2,13 +2,14 @@
   "id": 320586565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.090455,36.734231,-97.090455,36.734231",
     "geom:latitude":36.734231,
     "geom:longitude":-97.090455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 N Ash St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320586565,
-    "wof:lastmodified":1449014536,
+    "wof:lastmodified":1466766264,
     "wof:name":"Seismicsource Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.090455,36.734231,-97.090455,36.734231],
-  "geometry": {"coordinates":[-97.090455,36.734231],"type":"Point"}
+  "bbox": [
+    -97.090455,
+    36.734231,
+    -97.090455,
+    36.734231
+],
+  "geometry": {"coordinates":[-97.09045500000001,36.734231],"type":"Point"}
 }

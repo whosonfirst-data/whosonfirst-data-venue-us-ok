@@ -2,13 +2,14 @@
   "id": 303140041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.518488,35.64961,-97.518488,35.64961",
     "geom:latitude":35.64961,
     "geom:longitude":-97.518488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Lakeside Cir",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303140041,
-    "wof:lastmodified":1448998472,
+    "wof:lastmodified":1466763883,
     "wof:name":"Raymond Lowery Construction",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.518488,35.64961,-97.518488,35.64961],
+  "bbox": [
+    -97.518488,
+    35.64961,
+    -97.518488,
+    35.64961
+],
   "geometry": {"coordinates":[-97.518488,35.64961],"type":"Point"}
 }

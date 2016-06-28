@@ -2,13 +2,14 @@
   "id": 320175375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.128563,36.09535,-96.128563,36.09535",
     "geom:latitude":36.09535,
     "geom:longitude":-96.128563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Tobago Dr",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320175375,
-    "wof:lastmodified":1449013858,
+    "wof:lastmodified":1466764493,
     "wof:name":"Julian Taco",
     "wof:parent_id":85843055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.128563,36.09535,-96.128563,36.09535],
+  "bbox": [
+    -96.128563,
+    36.09535,
+    -96.128563,
+    36.09535
+],
   "geometry": {"coordinates":[-96.128563,36.09535],"type":"Point"}
 }

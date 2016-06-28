@@ -2,13 +2,14 @@
   "id": 320778525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.470907,36.275247,-98.470907,36.275247",
     "geom:latitude":36.275247,
     "geom:longitude":-98.470907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 E State Rd",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320778525,
-    "wof:lastmodified":1449011332,
+    "wof:lastmodified":1466766780,
     "wof:name":"East Side Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.470907,36.275247,-98.470907,36.275247],
+  "bbox": [
+    -98.470907,
+    36.275247,
+    -98.470907,
+    36.275247
+],
   "geometry": {"coordinates":[-98.470907,36.275247],"type":"Point"}
 }

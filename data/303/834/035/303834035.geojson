@@ -2,13 +2,14 @@
   "id": 303834035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.856561,36.119044,-95.856561,36.119044",
     "geom:latitude":36.119044,
     "geom:longitude":-95.856561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10661 E 31st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303834035,
-    "wof:lastmodified":1448998348,
+    "wof:lastmodified":1466766796,
     "wof:name":"Tulsa Sales & Rentals LLC",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.856561,36.119044,-95.856561,36.119044],
+  "bbox": [
+    -95.856561,
+    36.119044,
+    -95.856561,
+    36.119044
+],
   "geometry": {"coordinates":[-95.856561,36.119044],"type":"Point"}
 }

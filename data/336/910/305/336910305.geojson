@@ -2,13 +2,14 @@
   "id": 336910305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.43067,34.623302,-98.43067,34.623302",
     "geom:latitude":34.623302,
     "geom:longitude":-98.43067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 NW 31st St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336910305,
-    "wof:lastmodified":1448997391,
+    "wof:lastmodified":1466765262,
     "wof:name":"Spread Word Mins",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.43067,34.623302,-98.43067,34.623302],
-  "geometry": {"coordinates":[-98.43067,34.623302],"type":"Point"}
+  "bbox": [
+    -98.43067,
+    34.623302,
+    -98.43067,
+    34.623302
+],
+  "geometry": {"coordinates":[-98.43067000000001,34.623302],"type":"Point"}
 }

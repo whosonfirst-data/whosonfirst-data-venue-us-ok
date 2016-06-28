@@ -2,13 +2,14 @@
   "id": 337448755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.476968,35.420839,-97.476968,35.420839",
     "geom:latitude":35.420839,
     "geom:longitude":-97.476968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 SE 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":337448755,
-    "wof:lastmodified":1449027704,
+    "wof:lastmodified":1466762348,
     "wof:name":"Interlink Imports",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "business"
     ]
 },
-  "bbox": [-97.476968,35.420839,-97.476968,35.420839],
+  "bbox": [
+    -97.476968,
+    35.420839,
+    -97.476968,
+    35.420839
+],
   "geometry": {"coordinates":[-97.476968,35.420839],"type":"Point"}
 }

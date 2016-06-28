@@ -2,13 +2,14 @@
   "id": 287221375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.538626,35.693977,-97.538626,35.693977",
     "geom:latitude":35.693977,
     "geom:longitude":-97.538626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21851 N Horseshoe Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287221375,
-    "wof:lastmodified":1449001048,
+    "wof:lastmodified":1466764131,
     "wof:name":"Great Styles Salon",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.538626,35.693977,-97.538626,35.693977],
-  "geometry": {"coordinates":[-97.538626,35.693977],"type":"Point"}
+  "bbox": [
+    -97.538626,
+    35.693977,
+    -97.538626,
+    35.693977
+],
+  "geometry": {"coordinates":[-97.53862599999999,35.693977],"type":"Point"}
 }

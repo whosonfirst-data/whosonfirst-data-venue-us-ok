@@ -2,13 +2,14 @@
   "id": 303460129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.516247,35.464272,-97.516247,35.464272",
     "geom:latitude":35.464272,
     "geom:longitude":-97.516247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 S Robinson Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303460129,
-    "wof:lastmodified":1449000427,
+    "wof:lastmodified":1466765561,
     "wof:name":"Able Auto Buyers",
     "wof:parent_id":85871685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.516247,35.464272,-97.516247,35.464272],
-  "geometry": {"coordinates":[-97.516247,35.464272],"type":"Point"}
+  "bbox": [
+    -97.516247,
+    35.464272,
+    -97.516247,
+    35.464272
+],
+  "geometry": {"coordinates":[-97.51624700000001,35.464272],"type":"Point"}
 }

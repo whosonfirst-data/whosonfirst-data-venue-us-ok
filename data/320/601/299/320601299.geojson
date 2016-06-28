@@ -2,13 +2,14 @@
   "id": 320601299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.621141,35.224335,-97.621141,35.224335",
     "geom:latitude":35.224335,
     "geom:longitude":-97.621141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 Ridgeview Ln",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320601299,
-    "wof:lastmodified":1449012921,
+    "wof:lastmodified":1466766391,
     "wof:name":"Andys Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.621141,35.224335,-97.621141,35.224335],
-  "geometry": {"coordinates":[-97.621141,35.224335],"type":"Point"}
+  "bbox": [
+    -97.621141,
+    35.224335,
+    -97.621141,
+    35.224335
+],
+  "geometry": {"coordinates":[-97.62114099999999,35.224335],"type":"Point"}
 }

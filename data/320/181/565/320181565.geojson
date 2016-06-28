@@ -2,13 +2,14 @@
   "id": 320181565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.538614,35.457533,-97.538614,35.457533",
     "geom:latitude":35.457533,
     "geom:longitude":-97.538614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 Exchange Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320181565,
-    "wof:lastmodified":1449013545,
+    "wof:lastmodified":1466764508,
     "wof:name":"Consolidated Builders Supply",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-97.538614,35.457533,-97.538614,35.457533],
+  "bbox": [
+    -97.538614,
+    35.457533,
+    -97.538614,
+    35.457533
+],
   "geometry": {"coordinates":[-97.538614,35.457533],"type":"Point"}
 }

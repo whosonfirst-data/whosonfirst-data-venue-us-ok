@@ -2,13 +2,14 @@
   "id": 353498651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.335596,35.029346,-97.335596,35.029346",
     "geom:latitude":35.029346,
     "geom:longitude":-97.335596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 Moffatt Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353498651,
-    "wof:lastmodified":1449020196,
+    "wof:lastmodified":1466763096,
     "wof:name":"Moffat Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-97.335596,35.029346,-97.335596,35.029346],
+  "bbox": [
+    -97.335596,
+    35.029346,
+    -97.335596,
+    35.029346
+],
   "geometry": {"coordinates":[-97.335596,35.029346],"type":"Point"}
 }

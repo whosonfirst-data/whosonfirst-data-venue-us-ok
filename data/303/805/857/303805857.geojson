@@ -2,13 +2,14 @@
   "id": 303805857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.752085,34.957248,-96.752085,34.957248",
     "geom:latitude":34.957248,
     "geom:longitude":-96.752085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E 1st St",
     "sg:city":"Konawa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303805857,
-    "wof:lastmodified":1448998932,
+    "wof:lastmodified":1466766735,
     "wof:name":"Konawa Conservation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.752085,34.957248,-96.752085,34.957248],
-  "geometry": {"coordinates":[-96.752085,34.957248],"type":"Point"}
+  "bbox": [
+    -96.752085,
+    34.957248,
+    -96.752085,
+    34.957248
+],
+  "geometry": {"coordinates":[-96.75208499999999,34.957248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303223051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.610019,35.517157,-97.610019,35.517157",
     "geom:latitude":35.517157,
     "geom:longitude":-97.610019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 N Ann Arbor Ave",
     "sg:city":"Warr Acres",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303223051,
-    "wof:lastmodified":1448998288,
+    "wof:lastmodified":1466764576,
     "wof:name":"WARR Acres Community Ctr",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "citizen"
     ]
 },
-  "bbox": [-97.610019,35.517157,-97.610019,35.517157],
-  "geometry": {"coordinates":[-97.610019,35.517157],"type":"Point"}
+  "bbox": [
+    -97.610019,
+    35.517157,
+    -97.610019,
+    35.517157
+],
+  "geometry": {"coordinates":[-97.61001899999999,35.517157],"type":"Point"}
 }

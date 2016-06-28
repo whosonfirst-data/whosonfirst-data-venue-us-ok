@@ -2,13 +2,14 @@
   "id": 353492831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.130434,34.173109,-97.130434,34.173109",
     "geom:latitude":34.173109,
     "geom:longitude":-97.130434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Main St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353492831,
-    "wof:lastmodified":1449018260,
+    "wof:lastmodified":1466763020,
     "wof:name":"Health By Nature",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.130434,34.173109,-97.130434,34.173109],
-  "geometry": {"coordinates":[-97.130434,34.173109],"type":"Point"}
+  "bbox": [
+    -97.130434,
+    34.173109,
+    -97.130434,
+    34.173109
+],
+  "geometry": {"coordinates":[-97.13043399999999,34.173109],"type":"Point"}
 }

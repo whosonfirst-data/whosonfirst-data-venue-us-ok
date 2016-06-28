@@ -2,13 +2,14 @@
   "id": 303148617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.204788,36.441049,-99.204788,36.441049",
     "geom:latitude":36.441049,
     "geom:longitude":-99.204788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Main St",
     "sg:city":"Mooreland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303148617,
-    "wof:lastmodified":1449000178,
+    "wof:lastmodified":1466764018,
     "wof:name":"Erna's Country Cut & Curl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plumbing"
     ]
 },
-  "bbox": [-99.204788,36.441049,-99.204788,36.441049],
-  "geometry": {"coordinates":[-99.204788,36.441049],"type":"Point"}
+  "bbox": [
+    -99.204788,
+    36.441049,
+    -99.204788,
+    36.441049
+],
+  "geometry": {"coordinates":[-99.20478799999999,36.441049],"type":"Point"}
 }

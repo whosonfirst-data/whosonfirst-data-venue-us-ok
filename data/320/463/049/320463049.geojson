@@ -2,13 +2,14 @@
   "id": 320463049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.346058,35.7649,-95.346058,35.7649",
     "geom:latitude":35.7649,
     "geom:longitude":-95.346058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Walnut St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320463049,
-    "wof:lastmodified":1449013864,
+    "wof:lastmodified":1466765849,
     "wof:name":"Northside Baptist Church",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.346058,35.7649,-95.346058,35.7649],
+  "bbox": [
+    -95.346058,
+    35.7649,
+    -95.346058,
+    35.7649
+],
   "geometry": {"coordinates":[-95.346058,35.7649],"type":"Point"}
 }

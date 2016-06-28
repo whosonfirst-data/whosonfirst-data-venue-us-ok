@@ -2,13 +2,14 @@
   "id": 320185003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.728366,36.06226,-95.728366,36.06226",
     "geom:latitude":36.06226,
     "geom:longitude":-95.728366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22326 E 69th St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320185003,
-    "wof:lastmodified":1449011874,
+    "wof:lastmodified":1466764420,
     "wof:name":"Tim W Ficklin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychoanalyst"
     ]
 },
-  "bbox": [-95.728366,36.06226,-95.728366,36.06226],
-  "geometry": {"coordinates":[-95.728366,36.06226],"type":"Point"}
+  "bbox": [
+    -95.728366,
+    36.06226,
+    -95.728366,
+    36.06226
+],
+  "geometry": {"coordinates":[-95.72836599999999,36.06226],"type":"Point"}
 }

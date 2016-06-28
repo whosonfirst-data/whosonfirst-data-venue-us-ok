@@ -2,13 +2,14 @@
   "id": 336958291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.528579,35.519356,-97.528579,35.519356",
     "geom:latitude":35.519356,
     "geom:longitude":-97.528579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 NW 47th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336958291,
-    "wof:lastmodified":1448997798,
+    "wof:lastmodified":1466765499,
     "wof:name":"Laurie Kukas DO",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.528579,35.519356,-97.528579,35.519356],
-  "geometry": {"coordinates":[-97.528579,35.519356],"type":"Point"}
+  "bbox": [
+    -97.528579,
+    35.519356,
+    -97.528579,
+    35.519356
+],
+  "geometry": {"coordinates":[-97.52857899999999,35.519356],"type":"Point"}
 }

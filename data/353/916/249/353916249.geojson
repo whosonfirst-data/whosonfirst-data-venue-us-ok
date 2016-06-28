@@ -2,13 +2,14 @@
   "id": 353916249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.416007,34.620779,-98.416007,34.620779",
     "geom:latitude":34.620779,
     "geom:longitude":-98.416007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1713 NW Maple Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353916249,
-    "wof:lastmodified":1449019661,
+    "wof:lastmodified":1466765711,
     "wof:name":"TCH Enterprises",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-98.416007,34.620779,-98.416007,34.620779],
-  "geometry": {"coordinates":[-98.416007,34.620779],"type":"Point"}
+  "bbox": [
+    -98.416007,
+    34.620779,
+    -98.416007,
+    34.620779
+],
+  "geometry": {"coordinates":[-98.41600699999999,34.620779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303933693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.601247,35.539937,-97.601247,35.539937",
     "geom:latitude":35.539937,
     "geom:longitude":-97.601247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6405 N Meridian Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303933693,
-    "wof:lastmodified":1448998615,
+    "wof:lastmodified":1466767021,
     "wof:name":"Recreation Adventure Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-97.601247,35.539937,-97.601247,35.539937],
+  "bbox": [
+    -97.601247,
+    35.539937,
+    -97.601247,
+    35.539937
+],
   "geometry": {"coordinates":[-97.601247,35.539937],"type":"Point"}
 }

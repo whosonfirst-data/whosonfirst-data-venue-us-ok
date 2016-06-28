@@ -2,13 +2,14 @@
   "id": 320391407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.553587,35.403885,-97.553587,35.403885",
     "geom:latitude":35.403885,
     "geom:longitude":-97.553587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6109 S Country Club Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320391407,
-    "wof:lastmodified":1449013652,
+    "wof:lastmodified":1466765674,
     "wof:name":"Central Avenue Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [-97.553587,35.403885,-97.553587,35.403885],
-  "geometry": {"coordinates":[-97.553587,35.403885],"type":"Point"}
+  "bbox": [
+    -97.553587,
+    35.403885,
+    -97.553587,
+    35.403885
+],
+  "geometry": {"coordinates":[-97.55358699999999,35.403885],"type":"Point"}
 }

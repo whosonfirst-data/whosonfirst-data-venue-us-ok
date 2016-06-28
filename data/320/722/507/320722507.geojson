@@ -2,13 +2,14 @@
   "id": 320722507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480202,35.231531,-97.480202,35.231531",
     "geom:latitude":35.231531,
     "geom:longitude":-97.480202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2417 Westport Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320722507,
-    "wof:lastmodified":1449012584,
+    "wof:lastmodified":1466766600,
     "wof:name":"Norman Behavioral Health Group",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-97.480202,35.231531,-97.480202,35.231531],
-  "geometry": {"coordinates":[-97.480202,35.231531],"type":"Point"}
+  "bbox": [
+    -97.480202,
+    35.231531,
+    -97.480202,
+    35.231531
+],
+  "geometry": {"coordinates":[-97.48020200000001,35.231531],"type":"Point"}
 }

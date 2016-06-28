@@ -2,13 +2,14 @@
   "id": 353566083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.887593,35.333943,-96.887593,35.333943",
     "geom:latitude":35.333943,
     "geom:longitude":-96.887593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Pool Pl",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353566083,
-    "wof:lastmodified":1449018302,
+    "wof:lastmodified":1466764114,
     "wof:name":"Hubbard Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.887593,35.333943,-96.887593,35.333943],
+  "bbox": [
+    -96.887593,
+    35.333943,
+    -96.887593,
+    35.333943
+],
   "geometry": {"coordinates":[-96.887593,35.333943],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304068189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.413493,34.601609,-98.413493,34.601609",
     "geom:latitude":34.601609,
     "geom:longitude":-98.413493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 SW F Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304068189,
-    "wof:lastmodified":1449043874,
+    "wof:lastmodified":1466763208,
     "wof:name":"Lawton Moving & Storage Inc",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-98.413493,34.601609,-98.413493,34.601609],
+  "bbox": [
+    -98.413493,
+    34.601609,
+    -98.413493,
+    34.601609
+],
   "geometry": {"coordinates":[-98.413493,34.601609],"type":"Point"}
 }

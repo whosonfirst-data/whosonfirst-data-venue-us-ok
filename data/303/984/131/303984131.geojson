@@ -2,13 +2,14 @@
   "id": 303984131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.782408,34.927563,-95.782408,34.927563",
     "geom:latitude":34.927563,
     "geom:longitude":-95.782408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2511 W Seminole Ave",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303984131,
-    "wof:lastmodified":1448999505,
+    "wof:lastmodified":1466767117,
     "wof:name":"Kinnamon's Used Cars",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.782408,34.927563,-95.782408,34.927563],
+  "bbox": [
+    -95.782408,
+    34.927563,
+    -95.782408,
+    34.927563
+],
   "geometry": {"coordinates":[-95.782408,34.927563],"type":"Point"}
 }

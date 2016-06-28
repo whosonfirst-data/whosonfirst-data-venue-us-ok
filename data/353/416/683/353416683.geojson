@@ -2,13 +2,14 @@
   "id": 353416683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.001533,34.163635,-98.001533,34.163635",
     "geom:latitude":34.163635,
     "geom:longitude":-98.001533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Main St",
     "sg:city":"Waurika",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353416683,
-    "wof:lastmodified":1449019408,
+    "wof:lastmodified":1466762528,
     "wof:name":"City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-98.001533,34.163635,-98.001533,34.163635],
-  "geometry": {"coordinates":[-98.001533,34.163635],"type":"Point"}
+  "bbox": [
+    -98.001533,
+    34.163635,
+    -98.001533,
+    34.163635
+],
+  "geometry": {"coordinates":[-98.00153299999999,34.163635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336725679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.212088,34.913179,-97.212088,34.913179",
     "geom:latitude":34.913179,
     "geom:longitude":-97.212088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36318 State Hwy 59",
     "sg:city":"Wayne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336725679,
-    "wof:lastmodified":1448997211,
+    "wof:lastmodified":1466764111,
     "wof:name":"D& D Dozier Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.212088,34.913179,-97.212088,34.913179],
-  "geometry": {"coordinates":[-97.212088,34.913179],"type":"Point"}
+  "bbox": [
+    -97.212088,
+    34.913179,
+    -97.212088,
+    34.913179
+],
+  "geometry": {"coordinates":[-97.21208799999999,34.913179],"type":"Point"}
 }

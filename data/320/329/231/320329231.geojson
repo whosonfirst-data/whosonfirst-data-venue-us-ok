@@ -2,13 +2,14 @@
   "id": 320329231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.328483,35.522037,-97.328483,35.522037",
     "geom:latitude":35.522037,
     "geom:longitude":-97.328483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11001 NE 50th St",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320329231,
-    "wof:lastmodified":1449012297,
+    "wof:lastmodified":1466765361,
     "wof:name":"West's Income Tax Svc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-97.328483,35.522037,-97.328483,35.522037],
-  "geometry": {"coordinates":[-97.328483,35.522037],"type":"Point"}
+  "bbox": [
+    -97.328483,
+    35.522037,
+    -97.328483,
+    35.522037
+],
+  "geometry": {"coordinates":[-97.32848300000001,35.522037],"type":"Point"}
 }

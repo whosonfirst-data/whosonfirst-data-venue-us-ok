@@ -2,13 +2,14 @@
   "id": 303938581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494836,35.429006,-97.494836,35.429006",
     "geom:latitude":35.429006,
     "geom:longitude":-97.494836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3609 S High Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303938581,
-    "wof:lastmodified":1448999941,
+    "wof:lastmodified":1466766963,
     "wof:name":"Industrial Rubber Inc",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "oil"
     ]
 },
-  "bbox": [-97.494836,35.429006,-97.494836,35.429006],
-  "geometry": {"coordinates":[-97.494836,35.429006],"type":"Point"}
+  "bbox": [
+    -97.494836,
+    35.429006,
+    -97.494836,
+    35.429006
+],
+  "geometry": {"coordinates":[-97.49483600000001,35.429006],"type":"Point"}
 }

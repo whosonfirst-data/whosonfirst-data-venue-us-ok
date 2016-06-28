@@ -2,13 +2,14 @@
   "id": 353708063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.508007,35.413057,-97.508007,35.413057",
     "geom:latitude":35.413057,
     "geom:longitude":-97.508007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 S Shields Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353708063,
-    "wof:lastmodified":1449018657,
+    "wof:lastmodified":1466764801,
     "wof:name":"L & R Auto Connection",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.508007,35.413057,-97.508007,35.413057],
-  "geometry": {"coordinates":[-97.508007,35.413057],"type":"Point"}
+  "bbox": [
+    -97.508007,
+    35.413057,
+    -97.508007,
+    35.413057
+],
+  "geometry": {"coordinates":[-97.50800700000001,35.413057],"type":"Point"}
 }

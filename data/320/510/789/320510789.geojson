@@ -2,13 +2,14 @@
   "id": 320510789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.287786,35.623493,-97.287786,35.623493",
     "geom:latitude":35.623493,
     "geom:longitude":-97.287786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13720 NE 150th St",
     "sg:city":"Jones",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320510789,
-    "wof:lastmodified":1449013501,
+    "wof:lastmodified":1466766079,
     "wof:name":"Tim R Tall Chief",
     "wof:parent_id":85829129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lecturer"
     ]
 },
-  "bbox": [-97.287786,35.623493,-97.287786,35.623493],
+  "bbox": [
+    -97.287786,
+    35.623493,
+    -97.287786,
+    35.623493
+],
   "geometry": {"coordinates":[-97.287786,35.623493],"type":"Point"}
 }

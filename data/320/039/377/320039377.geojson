@@ -2,13 +2,14 @@
   "id": 320039377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.736028,35.511808,-97.736028,35.511808",
     "geom:latitude":35.511808,
     "geom:longitude":-97.736028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Tanglewood Ct",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320039377,
-    "wof:lastmodified":1449014497,
+    "wof:lastmodified":1466762875,
     "wof:name":"Stitch That",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-97.736028,35.511808,-97.736028,35.511808],
+  "bbox": [
+    -97.736028,
+    35.511808,
+    -97.736028,
+    35.511808
+],
   "geometry": {"coordinates":[-97.736028,35.511808],"type":"Point"}
 }

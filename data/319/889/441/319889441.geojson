@@ -2,13 +2,14 @@
   "id": 319889441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.450432,35.493184,-97.450432,35.493184",
     "geom:latitude":35.493184,
     "geom:longitude":-97.450432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3428 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319889441,
-    "wof:lastmodified":1449024098,
+    "wof:lastmodified":1466763466,
     "wof:name":"Razz",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.450432,35.493184,-97.450432,35.493184],
-  "geometry": {"coordinates":[-97.450432,35.493184],"type":"Point"}
+  "bbox": [
+    -97.450432,
+    35.493184,
+    -97.450432,
+    35.493184
+],
+  "geometry": {"coordinates":[-97.45043200000001,35.493184],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336615691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.779502,35.994402,-95.779502,35.994402",
     "geom:latitude":35.994402,
     "geom:longitude":-95.779502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11715 S Lynn Lane Rd",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336615691,
-    "wof:lastmodified":1448997280,
+    "wof:lastmodified":1466762422,
     "wof:name":"Lynn Lane Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-95.779502,35.994402,-95.779502,35.994402],
-  "geometry": {"coordinates":[-95.779502,35.994402],"type":"Point"}
+  "bbox": [
+    -95.779502,
+    35.994402,
+    -95.779502,
+    35.994402
+],
+  "geometry": {"coordinates":[-95.77950199999999,35.994402],"type":"Point"}
 }

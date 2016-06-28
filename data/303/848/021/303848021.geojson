@@ -2,13 +2,14 @@
   "id": 303848021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.614319,34.855146,-97.614319,34.855146",
     "geom:latitude":34.855146,
     "geom:longitude":-97.614319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"881 County Rd",
     "sg:city":"Tuttle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303848021,
-    "wof:lastmodified":1448998462,
+    "wof:lastmodified":1466766951,
     "wof:name":"Carr & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.614319,34.855146,-97.614319,34.855146],
-  "geometry": {"coordinates":[-97.614319,34.855146],"type":"Point"}
+  "bbox": [
+    -97.614319,
+    34.855146,
+    -97.614319,
+    34.855146
+],
+  "geometry": {"coordinates":[-97.61431899999999,34.855146],"type":"Point"}
 }

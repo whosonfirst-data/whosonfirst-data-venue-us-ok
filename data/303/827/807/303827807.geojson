@@ -2,13 +2,14 @@
   "id": 303827807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.789013,35.984376,-95.789013,35.984376",
     "geom:latitude":35.984376,
     "geom:longitude":-95.789013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W Yuma Ct",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303827807,
-    "wof:lastmodified":1448998995,
+    "wof:lastmodified":1466766645,
     "wof:name":"Ethan Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.789013,35.984376,-95.789013,35.984376],
+  "bbox": [
+    -95.789013,
+    35.984376,
+    -95.789013,
+    35.984376
+],
   "geometry": {"coordinates":[-95.789013,35.984376],"type":"Point"}
 }

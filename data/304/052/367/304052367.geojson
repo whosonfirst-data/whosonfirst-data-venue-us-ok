@@ -2,13 +2,14 @@
   "id": 304052367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.445638,35.435325,-97.445638,35.435325",
     "geom:latitude":35.435325,
     "geom:longitude":-97.445638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3903 SE 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304052367,
-    "wof:lastmodified":1449043799,
+    "wof:lastmodified":1466763124,
     "wof:name":"Total Protection Svc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "patrol"
     ]
 },
-  "bbox": [-97.445638,35.435325,-97.445638,35.435325],
+  "bbox": [
+    -97.445638,
+    35.435325,
+    -97.445638,
+    35.435325
+],
   "geometry": {"coordinates":[-97.445638,35.435325],"type":"Point"}
 }

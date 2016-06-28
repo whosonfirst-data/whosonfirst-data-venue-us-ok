@@ -2,13 +2,14 @@
   "id": 303482219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935423,36.757029,-95.935423,36.757029",
     "geom:latitude":36.757029,
     "geom:longitude":-95.935423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 NE Washington Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303482219,
-    "wof:lastmodified":1448998987,
+    "wof:lastmodified":1466765783,
     "wof:name":"Animal Rescue Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.935423,36.757029,-95.935423,36.757029],
+  "bbox": [
+    -95.935423,
+    36.757029,
+    -95.935423,
+    36.757029
+],
   "geometry": {"coordinates":[-95.935423,36.757029],"type":"Point"}
 }

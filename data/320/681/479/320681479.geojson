@@ -2,13 +2,14 @@
   "id": 320681479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.866881,36.399909,-97.866881,36.399909",
     "geom:latitude":36.399909,
     "geom:longitude":-97.866881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 E Elm Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320681479,
-    "wof:lastmodified":1449013535,
+    "wof:lastmodified":1466766486,
     "wof:name":"Janzen Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.866881,36.399909,-97.866881,36.399909],
-  "geometry": {"coordinates":[-97.866881,36.399909],"type":"Point"}
+  "bbox": [
+    -97.866881,
+    36.399909,
+    -97.866881,
+    36.399909
+],
+  "geometry": {"coordinates":[-97.86688100000001,36.399909],"type":"Point"}
 }

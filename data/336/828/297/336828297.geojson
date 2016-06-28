@@ -2,13 +2,14 @@
   "id": 336828297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.479003,35.498031,-97.479003,35.498031",
     "geom:latitude":35.498031,
     "geom:longitude":-97.479003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 N Missouri Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336828297,
-    "wof:lastmodified":1448997501,
+    "wof:lastmodified":1466764804,
     "wof:name":"Prospect Baptist Church",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.479003,35.498031,-97.479003,35.498031],
-  "geometry": {"coordinates":[-97.479003,35.498031],"type":"Point"}
+  "bbox": [
+    -97.479003,
+    35.498031,
+    -97.479003,
+    35.498031
+],
+  "geometry": {"coordinates":[-97.47900300000001,35.498031],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319888015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.323638,34.625385,-99.323638,34.625385",
     "geom:latitude":34.625385,
     "geom:longitude":-99.323638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 Hazel St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319888015,
-    "wof:lastmodified":1449024579,
+    "wof:lastmodified":1466764203,
     "wof:name":"Sanchez & Son Custom Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-99.323638,34.625385,-99.323638,34.625385],
+  "bbox": [
+    -99.323638,
+    34.625385,
+    -99.323638,
+    34.625385
+],
   "geometry": {"coordinates":[-99.323638,34.625385],"type":"Point"}
 }

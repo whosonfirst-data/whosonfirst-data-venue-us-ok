@@ -2,13 +2,14 @@
   "id": 319853621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531621,35.638481,-97.531621,35.638481",
     "geom:latitude":35.638481,
     "geom:longitude":-97.531621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16502 N Western Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319853621,
-    "wof:lastmodified":1449024396,
+    "wof:lastmodified":1466763184,
     "wof:name":"Cork & Bottle",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-97.531621,35.638481,-97.531621,35.638481],
+  "bbox": [
+    -97.531621,
+    35.638481,
+    -97.531621,
+    35.638481
+],
   "geometry": {"coordinates":[-97.531621,35.638481],"type":"Point"}
 }

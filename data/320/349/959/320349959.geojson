@@ -2,13 +2,14 @@
   "id": 320349959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.010809,34.397827,-99.010809,34.397827",
     "geom:latitude":34.397827,
     "geom:longitude":-99.010809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 N 15th St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320349959,
-    "wof:lastmodified":1449012698,
+    "wof:lastmodified":1466765358,
     "wof:name":"Frederick School District Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.010809,34.397827,-99.010809,34.397827],
-  "geometry": {"coordinates":[-99.010809,34.397827],"type":"Point"}
+  "bbox": [
+    -99.010809,
+    34.397827,
+    -99.010809,
+    34.397827
+],
+  "geometry": {"coordinates":[-99.01080899999999,34.397827],"type":"Point"}
 }

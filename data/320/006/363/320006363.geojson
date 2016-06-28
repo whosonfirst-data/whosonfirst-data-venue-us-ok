@@ -2,13 +2,14 @@
   "id": 320006363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.618979,35.492263,-97.618979,35.492263",
     "geom:latitude":35.492263,
     "geom:longitude":-97.618979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2308 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320006363,
-    "wof:lastmodified":1449014243,
+    "wof:lastmodified":1466762369,
     "wof:name":"Pizza and More",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.618979,35.492263,-97.618979,35.492263],
+  "bbox": [
+    -97.618979,
+    35.492263,
+    -97.618979,
+    35.492263
+],
   "geometry": {"coordinates":[-97.618979,35.492263],"type":"Point"}
 }

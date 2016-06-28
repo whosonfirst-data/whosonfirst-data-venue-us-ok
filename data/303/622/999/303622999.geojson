@@ -2,13 +2,14 @@
   "id": 303622999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.85626,36.174148,-95.85626,36.174148",
     "geom:latitude":36.174148,
     "geom:longitude":-95.85626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10818 E Newton Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303622999,
-    "wof:lastmodified":1449000121,
+    "wof:lastmodified":1466766262,
     "wof:name":"Professional Reroofing",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.85626,36.174148,-95.85626,36.174148],
-  "geometry": {"coordinates":[-95.85626,36.174148],"type":"Point"}
+  "bbox": [
+    -95.85626,
+    36.174148,
+    -95.85626,
+    36.174148
+],
+  "geometry": {"coordinates":[-95.85626000000001,36.174148],"type":"Point"}
 }

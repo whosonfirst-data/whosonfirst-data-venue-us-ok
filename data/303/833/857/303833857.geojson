@@ -2,13 +2,14 @@
   "id": 303833857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.456835,35.435328,-97.456835,35.435328",
     "geom:latitude":35.435328,
     "geom:longitude":-97.456835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3224 SE 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303833857,
-    "wof:lastmodified":1448998432,
+    "wof:lastmodified":1466766903,
     "wof:name":"Collision Works LLC",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-97.456835,35.435328,-97.456835,35.435328],
+  "bbox": [
+    -97.456835,
+    35.435328,
+    -97.456835,
+    35.435328
+],
   "geometry": {"coordinates":[-97.456835,35.435328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320027307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.563499,35.546827,-97.563499,35.546827",
     "geom:latitude":35.546827,
     "geom:longitude":-97.563499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7542 Berkley Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320027307,
-    "wof:lastmodified":1449011955,
+    "wof:lastmodified":1466762691,
     "wof:name":"Edward Jones 04485",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-97.563499,35.546827,-97.563499,35.546827],
-  "geometry": {"coordinates":[-97.563499,35.546827],"type":"Point"}
+  "bbox": [
+    -97.563499,
+    35.546827,
+    -97.563499,
+    35.546827
+],
+  "geometry": {"coordinates":[-97.56349899999999,35.546827],"type":"Point"}
 }

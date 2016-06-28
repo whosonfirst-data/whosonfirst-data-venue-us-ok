@@ -2,13 +2,14 @@
   "id": 303358201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480589,35.333112,-97.480589,35.333112",
     "geom:latitude":35.333112,
     "geom:longitude":-97.480589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 SE 5th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303358201,
-    "wof:lastmodified":1448999150,
+    "wof:lastmodified":1466765105,
     "wof:name":"Hodges Group The",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-97.480589,35.333112,-97.480589,35.333112],
-  "geometry": {"coordinates":[-97.480589,35.333112],"type":"Point"}
+  "bbox": [
+    -97.480589,
+    35.333112,
+    -97.480589,
+    35.333112
+],
+  "geometry": {"coordinates":[-97.48058899999999,35.333112],"type":"Point"}
 }

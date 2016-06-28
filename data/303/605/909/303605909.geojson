@@ -2,13 +2,14 @@
   "id": 303605909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.667129,35.224482,-96.667129,35.224482",
     "geom:latitude":35.224482,
     "geom:longitude":-96.667129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N 4th St",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303605909,
-    "wof:lastmodified":1448999308,
+    "wof:lastmodified":1466766117,
     "wof:name":"Mikes Bit Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-96.667129,35.224482,-96.667129,35.224482],
+  "bbox": [
+    -96.667129,
+    35.224482,
+    -96.667129,
+    35.224482
+],
   "geometry": {"coordinates":[-96.667129,35.224482],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320028959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.95094,35.507797,-97.95094,35.507797",
     "geom:latitude":35.507797,
     "geom:longitude":-97.95094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 SE 27th St",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320028959,
-    "wof:lastmodified":1449013283,
+    "wof:lastmodified":1466762715,
     "wof:name":"27th Street Stop",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gasoline"
     ]
 },
-  "bbox": [-97.95094,35.507797,-97.95094,35.507797],
+  "bbox": [
+    -97.95094,
+    35.507797,
+    -97.95094,
+    35.507797
+],
   "geometry": {"coordinates":[-97.95094,35.507797],"type":"Point"}
 }

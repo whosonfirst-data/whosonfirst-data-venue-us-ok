@@ -2,13 +2,14 @@
   "id": 304068043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.979715,35.628937,-95.979715,35.628937",
     "geom:latitude":35.628937,
     "geom:longitude":-95.979715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 N Oklahoma Ave",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304068043,
-    "wof:lastmodified":1449043874,
+    "wof:lastmodified":1466763207,
     "wof:name":"Foursquare Gospel Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.979715,35.628937,-95.979715,35.628937],
+  "bbox": [
+    -95.979715,
+    35.628937,
+    -95.979715,
+    35.628937
+],
   "geometry": {"coordinates":[-95.979715,35.628937],"type":"Point"}
 }

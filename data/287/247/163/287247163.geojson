@@ -2,13 +2,14 @@
   "id": 287247163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.605539,35.478777,-97.605539,35.478777",
     "geom:latitude":35.478777,
     "geom:longitude":-97.605539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 NW 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287247163,
-    "wof:lastmodified":1449001192,
+    "wof:lastmodified":1466762647,
     "wof:name":"Autocap",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.605539,35.478777,-97.605539,35.478777],
-  "geometry": {"coordinates":[-97.605539,35.478777],"type":"Point"}
+  "bbox": [
+    -97.605539,
+    35.478777,
+    -97.605539,
+    35.478777
+],
+  "geometry": {"coordinates":[-97.60553899999999,35.478777],"type":"Point"}
 }

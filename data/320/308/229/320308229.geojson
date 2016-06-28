@@ -2,13 +2,14 @@
   "id": 320308229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.521249,35.467867,-97.521249,35.467867",
     "geom:latitude":35.467867,
     "geom:longitude":-97.521249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N Walker Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320308229,
-    "wof:lastmodified":1449015059,
+    "wof:lastmodified":1466765196,
     "wof:name":"Guthrie Job Corps",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.521249,35.467867,-97.521249,35.467867],
+  "bbox": [
+    -97.521249,
+    35.467867,
+    -97.521249,
+    35.467867
+],
   "geometry": {"coordinates":[-97.521249,35.467867],"type":"Point"}
 }

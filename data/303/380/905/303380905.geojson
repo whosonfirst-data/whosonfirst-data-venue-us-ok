@@ -2,13 +2,14 @@
   "id": 303380905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768864,35.982374,-96.768864,35.982374",
     "geom:latitude":35.982374,
     "geom:longitude":-96.768864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 N Steele Ave",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303380905,
-    "wof:lastmodified":1448999253,
+    "wof:lastmodified":1466765328,
     "wof:name":"Cushing Public Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.768864,35.982374,-96.768864,35.982374],
-  "geometry": {"coordinates":[-96.768864,35.982374],"type":"Point"}
+  "bbox": [
+    -96.768864,
+    35.982374,
+    -96.768864,
+    35.982374
+],
+  "geometry": {"coordinates":[-96.76886399999999,35.982374],"type":"Point"}
 }

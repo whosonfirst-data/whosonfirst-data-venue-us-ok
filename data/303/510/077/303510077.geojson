@@ -2,13 +2,14 @@
   "id": 303510077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.42212,34.612247,-98.42212,34.612247",
     "geom:latitude":34.612247,
     "geom:longitude":-98.42212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 NW Sheridan Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303510077,
-    "wof:lastmodified":1448999590,
+    "wof:lastmodified":1466765985,
     "wof:name":"Lawton Cable Vision",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-98.42212,34.612247,-98.42212,34.612247],
-  "geometry": {"coordinates":[-98.42212,34.612247],"type":"Point"}
+  "bbox": [
+    -98.42212,
+    34.612247,
+    -98.42212,
+    34.612247
+],
+  "geometry": {"coordinates":[-98.42212000000001,34.612247],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336940697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.393683,34.606368,-98.393683,34.606368",
     "geom:latitude":34.606368,
     "geom:longitude":-98.393683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 SW 4th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336940697,
-    "wof:lastmodified":1448997214,
+    "wof:lastmodified":1466765399,
     "wof:name":"Lawton Neighborhood Svc Dept",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-98.393683,34.606368,-98.393683,34.606368],
+  "bbox": [
+    -98.393683,
+    34.606368,
+    -98.393683,
+    34.606368
+],
   "geometry": {"coordinates":[-98.393683,34.606368],"type":"Point"}
 }

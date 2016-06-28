@@ -2,13 +2,14 @@
   "id": 353406351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.95198,35.912677,-94.95198,35.912677",
     "geom:latitude":35.912677,
     "geom:longitude":-94.95198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 E Boone St",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353406351,
-    "wof:lastmodified":1449019632,
+    "wof:lastmodified":1466762474,
     "wof:name":"Oklahoma Oncology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.95198,35.912677,-94.95198,35.912677],
-  "geometry": {"coordinates":[-94.95198,35.912677],"type":"Point"}
+  "bbox": [
+    -94.95198,
+    35.912677,
+    -94.95198,
+    35.912677
+],
+  "geometry": {"coordinates":[-94.95198000000001,35.912677],"type":"Point"}
 }

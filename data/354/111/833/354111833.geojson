@@ -2,13 +2,14 @@
   "id": 354111833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.974414,36.023556,-95.974414,36.023556",
     "geom:latitude":36.023556,
     "geom:longitude":-95.974414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 W A St",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354111833,
-    "wof:lastmodified":1449067704,
+    "wof:lastmodified":1466763559,
     "wof:name":"Jenks Tag",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-95.974414,36.023556,-95.974414,36.023556],
+  "bbox": [
+    -95.974414,
+    36.023556,
+    -95.974414,
+    36.023556
+],
   "geometry": {"coordinates":[-95.974414,36.023556],"type":"Point"}
 }

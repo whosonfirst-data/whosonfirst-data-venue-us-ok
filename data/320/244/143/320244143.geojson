@@ -2,13 +2,14 @@
   "id": 320244143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.397827,36.414586,-96.397827,36.414586",
     "geom:latitude":36.414586,
     "geom:longitude":-96.397827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 W 1st St",
     "sg:city":"Hominy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320244143,
-    "wof:lastmodified":1449012756,
+    "wof:lastmodified":1466764730,
     "wof:name":"Scott's Tire Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-96.397827,36.414586,-96.397827,36.414586],
-  "geometry": {"coordinates":[-96.397827,36.414586],"type":"Point"}
+  "bbox": [
+    -96.397827,
+    36.414586,
+    -96.397827,
+    36.414586
+],
+  "geometry": {"coordinates":[-96.39782700000001,36.414586],"type":"Point"}
 }

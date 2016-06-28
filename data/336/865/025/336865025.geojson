@@ -2,13 +2,14 @@
   "id": 336865025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.343932,35.755085,-95.343932,35.755085",
     "geom:latitude":35.755085,
     "geom:longitude":-95.343932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2021 Gibson St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336865025,
-    "wof:lastmodified":1448997760,
+    "wof:lastmodified":1466764892,
     "wof:name":"My Place 1",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.343932,35.755085,-95.343932,35.755085],
+  "bbox": [
+    -95.343932,
+    35.755085,
+    -95.343932,
+    35.755085
+],
   "geometry": {"coordinates":[-95.343932,35.755085],"type":"Point"}
 }

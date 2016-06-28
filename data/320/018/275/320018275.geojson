@@ -2,13 +2,14 @@
   "id": 320018275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.462262,35.245674,-97.462262,35.245674",
     "geom:latitude":35.245674,
     "geom:longitude":-97.462262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2232 Goddard Ave",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320018275,
-    "wof:lastmodified":1449013120,
+    "wof:lastmodified":1466762555,
     "wof:name":"Oklahoma Army National Guard",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-97.462262,35.245674,-97.462262,35.245674],
+  "bbox": [
+    -97.462262,
+    35.245674,
+    -97.462262,
+    35.245674
+],
   "geometry": {"coordinates":[-97.462262,35.245674],"type":"Point"}
 }

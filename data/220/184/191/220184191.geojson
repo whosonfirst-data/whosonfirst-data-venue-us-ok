@@ -2,13 +2,14 @@
   "id": 220184191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.948975,36.133202,-95.948975,36.133202",
     "geom:latitude":36.133202,
     "geom:longitude":-95.948975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2740 E 21st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":220184191,
-    "wof:lastmodified":1449074178,
+    "wof:lastmodified":1466762370,
     "wof:name":"Clean Freaks Of Tulsa",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-95.948975,36.133202,-95.948975,36.133202],
+  "bbox": [
+    -95.948975,
+    36.133202,
+    -95.948975,
+    36.133202
+],
   "geometry": {"coordinates":[-95.948975,36.133202],"type":"Point"}
 }

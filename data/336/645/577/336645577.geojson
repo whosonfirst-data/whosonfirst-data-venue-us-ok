@@ -2,13 +2,14 @@
   "id": 336645577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.393555,35.150377,-97.393555,35.150377",
     "geom:latitude":35.150377,
     "geom:longitude":-97.393555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 N 5th St",
     "sg:city":"Noble",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336645577,
-    "wof:lastmodified":1448997046,
+    "wof:lastmodified":1466762883,
     "wof:name":"Vallee Computer Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-97.393555,35.150377,-97.393555,35.150377],
-  "geometry": {"coordinates":[-97.393555,35.150377],"type":"Point"}
+  "bbox": [
+    -97.393555,
+    35.150377,
+    -97.393555,
+    35.150377
+],
+  "geometry": {"coordinates":[-97.39355500000001,35.150377],"type":"Point"}
 }

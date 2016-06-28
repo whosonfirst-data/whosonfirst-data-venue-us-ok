@@ -2,13 +2,14 @@
   "id": 319878247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976498,35.623245,-95.976498,35.623245",
     "geom:latitude":35.623245,
     "geom:longitude":-95.976498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W 6th St",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319878247,
-    "wof:lastmodified":1449024495,
+    "wof:lastmodified":1466763404,
     "wof:name":"Okmulgee County Alternative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-95.976498,35.623245,-95.976498,35.623245],
-  "geometry": {"coordinates":[-95.976498,35.623245],"type":"Point"}
+  "bbox": [
+    -95.976498,
+    35.623245,
+    -95.976498,
+    35.623245
+],
+  "geometry": {"coordinates":[-95.97649800000001,35.623245],"type":"Point"}
 }

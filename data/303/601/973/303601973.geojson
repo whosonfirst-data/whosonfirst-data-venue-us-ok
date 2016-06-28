@@ -2,13 +2,14 @@
   "id": 303601973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.430839,35.413917,-97.430839,35.413917",
     "geom:latitude":35.413917,
     "geom:longitude":-97.430839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5004 SE 51st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303601973,
-    "wof:lastmodified":1448999213,
+    "wof:lastmodified":1466766197,
     "wof:name":"Strategic Advantage Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.430839,35.413917,-97.430839,35.413917],
-  "geometry": {"coordinates":[-97.430839,35.413917],"type":"Point"}
+  "bbox": [
+    -97.430839,
+    35.413917,
+    -97.430839,
+    35.413917
+],
+  "geometry": {"coordinates":[-97.43083900000001,35.413917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287307521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.969609,35.514388,-98.969609,35.514388",
     "geom:latitude":35.514388,
     "geom:longitude":-98.969609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Frisco Ave",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287307521,
-    "wof:lastmodified":1449000887,
+    "wof:lastmodified":1466764207,
     "wof:name":"KCDL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-98.969609,35.514388,-98.969609,35.514388],
-  "geometry": {"coordinates":[-98.969609,35.514388],"type":"Point"}
+  "bbox": [
+    -98.969609,
+    35.514388,
+    -98.969609,
+    35.514388
+],
+  "geometry": {"coordinates":[-98.96960900000001,35.514388],"type":"Point"}
 }

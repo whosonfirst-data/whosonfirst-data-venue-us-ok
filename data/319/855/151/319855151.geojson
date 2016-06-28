@@ -2,13 +2,14 @@
   "id": 319855151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.785969,35.376185,-98.785969,35.376185",
     "geom:latitude":35.376185,
     "geom:longitude":-98.785969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 W Lincoln Ave",
     "sg:city":"Corn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319855151,
-    "wof:lastmodified":1449024660,
+    "wof:lastmodified":1466763208,
     "wof:name":"Drews Heating & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.785969,35.376185,-98.785969,35.376185],
-  "geometry": {"coordinates":[-98.785969,35.376185],"type":"Point"}
+  "bbox": [
+    -98.785969,
+    35.376185,
+    -98.785969,
+    35.376185
+],
+  "geometry": {"coordinates":[-98.78596899999999,35.376185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320425863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.357739,35.726063,-95.357739,35.726063",
     "geom:latitude":35.726063,
     "geom:longitude":-95.357739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 E Hancock Rd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320425863,
-    "wof:lastmodified":1449012590,
+    "wof:lastmodified":1466765862,
     "wof:name":"P & S Classic Auto Sales",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.357739,35.726063,-95.357739,35.726063],
+  "bbox": [
+    -95.357739,
+    35.726063,
+    -95.357739,
+    35.726063
+],
   "geometry": {"coordinates":[-95.357739,35.726063],"type":"Point"}
 }

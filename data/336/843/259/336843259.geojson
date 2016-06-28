@@ -2,13 +2,14 @@
   "id": 336843259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.521181,35.394158,-97.521181,35.394158",
     "geom:latitude":35.394158,
     "geom:longitude":-97.521181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7390 S Walker Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336843259,
-    "wof:lastmodified":1448997023,
+    "wof:lastmodified":1466764879,
     "wof:name":"WCD-Wic",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-97.521181,35.394158,-97.521181,35.394158],
+  "bbox": [
+    -97.521181,
+    35.394158,
+    -97.521181,
+    35.394158
+],
   "geometry": {"coordinates":[-97.521181,35.394158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320240589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.136257,34.174601,-97.136257,34.174601",
     "geom:latitude":34.174601,
     "geom:longitude":-97.136257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 W Main St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320240589,
-    "wof:lastmodified":1449011629,
+    "wof:lastmodified":1466764796,
     "wof:name":"Edward Jones 03583",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-97.136257,34.174601,-97.136257,34.174601],
+  "bbox": [
+    -97.136257,
+    34.174601,
+    -97.136257,
+    34.174601
+],
   "geometry": {"coordinates":[-97.136257,34.174601],"type":"Point"}
 }

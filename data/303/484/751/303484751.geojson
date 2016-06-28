@@ -2,13 +2,14 @@
   "id": 303484751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.913201,35.327311,-96.913201,35.327311",
     "geom:latitude":35.327311,
     "geom:longitude":-96.913201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 E Main St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303484751,
-    "wof:lastmodified":1449000424,
+    "wof:lastmodified":1466765791,
     "wof:name":"Shawnee Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-96.913201,35.327311,-96.913201,35.327311],
+  "bbox": [
+    -96.913201,
+    35.327311,
+    -96.913201,
+    35.327311
+],
   "geometry": {"coordinates":[-96.913201,35.327311],"type":"Point"}
 }

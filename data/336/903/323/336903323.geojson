@@ -2,13 +2,14 @@
   "id": 336903323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.049604,36.126815,-97.049604,36.126815",
     "geom:latitude":36.126815,
     "geom:longitude":-97.049604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 E Hall of Fame Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336903323,
-    "wof:lastmodified":1448996986,
+    "wof:lastmodified":1466765337,
     "wof:name":"Banc First",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.049604,36.126815,-97.049604,36.126815],
+  "bbox": [
+    -97.049604,
+    36.126815,
+    -97.049604,
+    36.126815
+],
   "geometry": {"coordinates":[-97.049604,36.126815],"type":"Point"}
 }

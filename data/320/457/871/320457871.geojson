@@ -2,13 +2,14 @@
   "id": 320457871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.488054,35.432462,-97.488054,35.432462",
     "geom:latitude":35.432462,
     "geom:longitude":-97.488054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3245 S Hattie Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320457871,
-    "wof:lastmodified":1449013779,
+    "wof:lastmodified":1466765976,
     "wof:name":"Balon Corp",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "valve"
     ]
 },
-  "bbox": [-97.488054,35.432462,-97.488054,35.432462],
-  "geometry": {"coordinates":[-97.488054,35.432462],"type":"Point"}
+  "bbox": [
+    -97.488054,
+    35.432462,
+    -97.488054,
+    35.432462
+],
+  "geometry": {"coordinates":[-97.48805400000001,35.432462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303598401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.038458,34.011627,-96.038458,34.011627",
     "geom:latitude":34.011627,
     "geom:longitude":-96.038458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34601 US Hwy 70",
     "sg:city":"Bennington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303598401,
-    "wof:lastmodified":1448998249,
+    "wof:lastmodified":1466766299,
     "wof:name":"Curtis Quick Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.038458,34.011627,-96.038458,34.011627],
-  "geometry": {"coordinates":[-96.038458,34.011627],"type":"Point"}
+  "bbox": [
+    -96.038458,
+    34.011627,
+    -96.038458,
+    34.011627
+],
+  "geometry": {"coordinates":[-96.03845800000001,34.011627],"type":"Point"}
 }

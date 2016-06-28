@@ -2,13 +2,14 @@
   "id": 320328569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.561727,35.565592,-97.561727,35.565592",
     "geom:latitude":35.565592,
     "geom:longitude":-97.561727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2646 W Britton Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320328569,
-    "wof:lastmodified":1449013457,
+    "wof:lastmodified":1466765351,
     "wof:name":"Studio Gallery",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-97.561727,35.565592,-97.561727,35.565592],
+  "bbox": [
+    -97.561727,
+    35.565592,
+    -97.561727,
+    35.565592
+],
   "geometry": {"coordinates":[-97.561727,35.565592],"type":"Point"}
 }

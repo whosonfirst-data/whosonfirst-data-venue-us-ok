@@ -2,13 +2,14 @@
   "id": 320002237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800159,36.326608,-96.800159,36.326608",
     "geom:latitude":36.326608,
     "geom:longitude":-96.800159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 4th St",
     "sg:city":"Pawnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320002237,
-    "wof:lastmodified":1449014288,
+    "wof:lastmodified":1466762306,
     "wof:name":"Southern Oaks Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-96.800159,36.326608,-96.800159,36.326608],
-  "geometry": {"coordinates":[-96.800159,36.326608],"type":"Point"}
+  "bbox": [
+    -96.800159,
+    36.326608,
+    -96.800159,
+    36.326608
+],
+  "geometry": {"coordinates":[-96.80015899999999,36.326608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336724665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.662731,35.739831,-96.662731,35.739831",
     "geom:latitude":35.739831,
     "geom:longitude":-96.662731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2823 State Hwy 99",
     "sg:city":"Stroud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336724665,
-    "wof:lastmodified":1448997974,
+    "wof:lastmodified":1466764097,
     "wof:name":"Mc Elyea Feed Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-96.662731,35.739831,-96.662731,35.739831],
-  "geometry": {"coordinates":[-96.662731,35.739831],"type":"Point"}
+  "bbox": [
+    -96.662731,
+    35.739831,
+    -96.662731,
+    35.739831
+],
+  "geometry": {"coordinates":[-96.66273099999999,35.739831],"type":"Point"}
 }

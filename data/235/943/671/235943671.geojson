@@ -2,13 +2,14 @@
   "id": 235943671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.991898,36.154816,-95.991898,36.154816",
     "geom:latitude":36.154816,
     "geom:longitude":-95.991898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 One Williams Ctr Ste 10th",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":235943671,
-    "wof:lastmodified":1449008342,
+    "wof:lastmodified":1466762527,
     "wof:name":"Bank Of Oklahoma Na",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-95.991898,36.154816,-95.991898,36.154816],
-  "geometry": {"coordinates":[-95.991898,36.154816],"type":"Point"}
+  "bbox": [
+    -95.991898,
+    36.154816,
+    -95.991898,
+    36.154816
+],
+  "geometry": {"coordinates":[-95.99189800000001,36.154816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320328929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.489139,35.210446,-97.489139,35.210446",
     "geom:latitude":35.210446,
     "geom:longitude":-97.489139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 Riverwalk Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320328929,
-    "wof:lastmodified":1449013454,
+    "wof:lastmodified":1466765357,
     "wof:name":"Gingersnap Resale Shoppe",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.489139,35.210446,-97.489139,35.210446],
-  "geometry": {"coordinates":[-97.489139,35.210446],"type":"Point"}
+  "bbox": [
+    -97.489139,
+    35.210446,
+    -97.489139,
+    35.210446
+],
+  "geometry": {"coordinates":[-97.48913899999999,35.210446],"type":"Point"}
 }

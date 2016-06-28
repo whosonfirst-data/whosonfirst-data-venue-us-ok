@@ -2,13 +2,14 @@
   "id": 303173265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.405955,35.445758,-97.405955,35.445758",
     "geom:latitude":35.445758,
     "geom:longitude":-97.405955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1816 S Air Depot Blvd",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303173265,
-    "wof:lastmodified":1448998586,
+    "wof:lastmodified":1466764304,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.405955,35.445758,-97.405955,35.445758],
-  "geometry": {"coordinates":[-97.405955,35.445758],"type":"Point"}
+  "bbox": [
+    -97.405955,
+    35.445758,
+    -97.405955,
+    35.445758
+],
+  "geometry": {"coordinates":[-97.40595500000001,35.445758],"type":"Point"}
 }

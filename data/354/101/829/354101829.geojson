@@ -2,13 +2,14 @@
   "id": 354101829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.173695,34.749128,-98.173695,34.749128",
     "geom:latitude":34.749128,
     "geom:longitude":-98.173695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"328 Oliver St",
     "sg:city":"Sterling",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354101829,
-    "wof:lastmodified":1449066837,
+    "wof:lastmodified":1466763515,
     "wof:name":"Parsonage Sterling United",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.173695,34.749128,-98.173695,34.749128],
+  "bbox": [
+    -98.173695,
+    34.749128,
+    -98.173695,
+    34.749128
+],
   "geometry": {"coordinates":[-98.173695,34.749128],"type":"Point"}
 }

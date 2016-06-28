@@ -2,13 +2,14 @@
   "id": 354118421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.49491,34.594511,-98.49491,34.594511",
     "geom:latitude":34.594511,
     "geom:longitude":-98.49491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8202 SW Lee Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354118421,
-    "wof:lastmodified":1449067317,
+    "wof:lastmodified":1466763580,
     "wof:name":"Hilltop Fabric",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.49491,34.594511,-98.49491,34.594511],
+  "bbox": [
+    -98.49491,
+    34.594511,
+    -98.49491,
+    34.594511
+],
   "geometry": {"coordinates":[-98.49491,34.594511],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303600169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.403192,35.419392,-99.403192,35.419392",
     "geom:latitude":35.419392,
     "geom:longitude":-99.403192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Colorado Ave",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303600169,
-    "wof:lastmodified":1448998344,
+    "wof:lastmodified":1466766187,
     "wof:name":"Wendell Musick Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.403192,35.419392,-99.403192,35.419392],
+  "bbox": [
+    -99.403192,
+    35.419392,
+    -99.403192,
+    35.419392
+],
   "geometry": {"coordinates":[-99.403192,35.419392],"type":"Point"}
 }

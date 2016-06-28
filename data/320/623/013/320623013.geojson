@@ -2,13 +2,14 @@
   "id": 320623013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.39154,35.838844,-96.39154,35.838844",
     "geom:latitude":35.838844,
     "geom:longitude":-96.39154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 W 12th Ave",
     "sg:city":"Bristow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320623013,
-    "wof:lastmodified":1449013886,
+    "wof:lastmodified":1466766337,
     "wof:name":"Bristow Food Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.39154,35.838844,-96.39154,35.838844],
-  "geometry": {"coordinates":[-96.39154,35.838844],"type":"Point"}
+  "bbox": [
+    -96.39154,
+    35.838844,
+    -96.39154,
+    35.838844
+],
+  "geometry": {"coordinates":[-96.39154000000001,35.838844],"type":"Point"}
 }

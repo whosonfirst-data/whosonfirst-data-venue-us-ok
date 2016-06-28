@@ -2,13 +2,14 @@
   "id": 336875631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.927557,36.40861,-97.927557,36.40861",
     "geom:latitude":36.40861,
     "geom:longitude":-97.927557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 Quail Creek Dr",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336875631,
-    "wof:lastmodified":1448997738,
+    "wof:lastmodified":1466764977,
     "wof:name":"Jcclorg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-97.927557,36.40861,-97.927557,36.40861],
-  "geometry": {"coordinates":[-97.927557,36.40861],"type":"Point"}
+  "bbox": [
+    -97.927557,
+    36.40861,
+    -97.927557,
+    36.40861
+],
+  "geometry": {"coordinates":[-97.92755699999999,36.40861],"type":"Point"}
 }

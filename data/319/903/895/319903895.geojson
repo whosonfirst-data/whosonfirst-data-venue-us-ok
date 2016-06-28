@@ -2,13 +2,14 @@
   "id": 319903895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.588483,35.535061,-97.588483,35.535061",
     "geom:latitude":35.535061,
     "geom:longitude":-97.588483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3804 NW 62nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319903895,
-    "wof:lastmodified":1449024143,
+    "wof:lastmodified":1466763542,
     "wof:name":"Gns Express",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.588483,35.535061,-97.588483,35.535061],
+  "bbox": [
+    -97.588483,
+    35.535061,
+    -97.588483,
+    35.535061
+],
   "geometry": {"coordinates":[-97.588483,35.535061],"type":"Point"}
 }

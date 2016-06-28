@@ -2,13 +2,14 @@
   "id": 320610093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.993876,36.158705,-95.993876,36.158705",
     "geom:latitude":36.158705,
     "geom:longitude":-95.993876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Main St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320610093,
-    "wof:lastmodified":1449014899,
+    "wof:lastmodified":1466766292,
     "wof:name":"Bowery Club",
     "wof:parent_id":85872499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-95.993876,36.158705,-95.993876,36.158705],
+  "bbox": [
+    -95.993876,
+    36.158705,
+    -95.993876,
+    36.158705
+],
   "geometry": {"coordinates":[-95.993876,36.158705],"type":"Point"}
 }

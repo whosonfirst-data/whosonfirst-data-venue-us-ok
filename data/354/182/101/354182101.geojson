@@ -2,13 +2,14 @@
   "id": 354182101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.414066,35.8738,-97.414066,35.8738",
     "geom:latitude":35.8738,
     "geom:longitude":-97.414066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 E Perkins Ave",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354182101,
-    "wof:lastmodified":1449067044,
+    "wof:lastmodified":1466763817,
     "wof:name":"Guthrie Head Start",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-97.414066,35.8738,-97.414066,35.8738],
-  "geometry": {"coordinates":[-97.414066,35.8738],"type":"Point"}
+  "bbox": [
+    -97.414066,
+    35.8738,
+    -97.414066,
+    35.8738
+],
+  "geometry": {"coordinates":[-97.41406600000001,35.8738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320181809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547929,35.421658,-97.547929,35.421658",
     "geom:latitude":35.421658,
     "geom:longitude":-97.547929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 SW 43rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320181809,
-    "wof:lastmodified":1449013544,
+    "wof:lastmodified":1466764511,
     "wof:name":"Bob Ross Building Spec",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-97.547929,35.421658,-97.547929,35.421658],
+  "bbox": [
+    -97.547929,
+    35.421658,
+    -97.547929,
+    35.421658
+],
   "geometry": {"coordinates":[-97.547929,35.421658],"type":"Point"}
 }

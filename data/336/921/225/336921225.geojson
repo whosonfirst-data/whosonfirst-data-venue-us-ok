@@ -2,13 +2,14 @@
   "id": 336921225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.552538,35.351486,-97.552538,35.351486",
     "geom:latitude":35.351486,
     "geom:longitude":-97.552538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11824 Autumn Leaves",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336921225,
-    "wof:lastmodified":1448997619,
+    "wof:lastmodified":1466765292,
     "wof:name":"Tonertech",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.552538,35.351486,-97.552538,35.351486],
+  "bbox": [
+    -97.552538,
+    35.351486,
+    -97.552538,
+    35.351486
+],
   "geometry": {"coordinates":[-97.552538,35.351486],"type":"Point"}
 }

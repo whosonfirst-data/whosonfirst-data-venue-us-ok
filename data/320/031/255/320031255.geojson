@@ -2,13 +2,14 @@
   "id": 320031255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.6085,35.544899,-97.6085,35.544899",
     "geom:latitude":35.544899,
     "geom:longitude":-97.6085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4705 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320031255,
-    "wof:lastmodified":1449012667,
+    "wof:lastmodified":1466762751,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.6085,35.544899,-97.6085,35.544899],
-  "geometry": {"coordinates":[-97.6085,35.544899],"type":"Point"}
+  "bbox": [
+    -97.6085,
+    35.544899,
+    -97.6085,
+    35.544899
+],
+  "geometry": {"coordinates":[-97.60850000000001,35.544899],"type":"Point"}
 }

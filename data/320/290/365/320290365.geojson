@@ -2,13 +2,14 @@
   "id": 320290365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.479001,35.229494,-97.479001,35.229494",
     "geom:latitude":35.229494,
     "geom:longitude":-97.479001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2413 Palmer Cir",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320290365,
-    "wof:lastmodified":1449012863,
+    "wof:lastmodified":1466765103,
     "wof:name":"Thomas D Urice MD",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.479001,35.229494,-97.479001,35.229494],
+  "bbox": [
+    -97.479001,
+    35.229494,
+    -97.479001,
+    35.229494
+],
   "geometry": {"coordinates":[-97.479001,35.229494],"type":"Point"}
 }

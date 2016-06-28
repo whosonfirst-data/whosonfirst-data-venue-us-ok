@@ -2,13 +2,14 @@
   "id": 354136899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.914363,35.351312,-96.914363,35.351312",
     "geom:latitude":35.351312,
     "geom:longitude":-96.914363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 E Cammack St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354136899,
-    "wof:lastmodified":1449067657,
+    "wof:lastmodified":1466764215,
     "wof:name":"Sooner Dent Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-96.914363,35.351312,-96.914363,35.351312],
-  "geometry": {"coordinates":[-96.914363,35.351312],"type":"Point"}
+  "bbox": [
+    -96.914363,
+    35.351312,
+    -96.914363,
+    35.351312
+],
+  "geometry": {"coordinates":[-96.91436299999999,35.351312],"type":"Point"}
 }

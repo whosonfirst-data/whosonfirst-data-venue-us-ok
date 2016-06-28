@@ -2,13 +2,14 @@
   "id": 303517621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.946992,34.50084,-97.946992,34.50084",
     "geom:latitude":34.50084,
     "geom:longitude":-97.946992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 W Main St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303517621,
-    "wof:lastmodified":1448999521,
+    "wof:lastmodified":1466765799,
     "wof:name":"Hoggs Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.946992,34.50084,-97.946992,34.50084],
-  "geometry": {"coordinates":[-97.946992,34.50084],"type":"Point"}
+  "bbox": [
+    -97.946992,
+    34.50084,
+    -97.946992,
+    34.50084
+],
+  "geometry": {"coordinates":[-97.94699199999999,34.50084],"type":"Point"}
 }

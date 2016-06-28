@@ -2,13 +2,14 @@
   "id": 337631983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.619116,35.495439,-97.619116,35.495439",
     "geom:latitude":35.495439,
     "geom:longitude":-97.619116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2621 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337631983,
-    "wof:lastmodified":1449027195,
+    "wof:lastmodified":1466763389,
     "wof:name":"J & J Pawnshop",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-97.619116,35.495439,-97.619116,35.495439],
-  "geometry": {"coordinates":[-97.619116,35.495439],"type":"Point"}
+  "bbox": [
+    -97.619116,
+    35.495439,
+    -97.619116,
+    35.495439
+],
+  "geometry": {"coordinates":[-97.61911600000001,35.495439],"type":"Point"}
 }

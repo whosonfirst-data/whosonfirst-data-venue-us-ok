@@ -2,13 +2,14 @@
   "id": 235941355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.867604,36.086305,-95.867604,36.086305",
     "geom:latitude":36.086305,
     "geom:longitude":-95.867604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9743 E 54th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":235941355,
-    "wof:lastmodified":1449008448,
+    "wof:lastmodified":1466762475,
     "wof:name":"A & S Dispatch",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.867604,36.086305,-95.867604,36.086305],
+  "bbox": [
+    -95.867604,
+    36.086305,
+    -95.867604,
+    36.086305
+],
   "geometry": {"coordinates":[-95.867604,36.086305],"type":"Point"}
 }

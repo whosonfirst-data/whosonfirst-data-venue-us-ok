@@ -2,13 +2,14 @@
   "id": 303048735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.157169,35.713804,-96.157169,35.713804",
     "geom:latitude":35.713804,
     "geom:longitude":-96.157169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9880 N 120 Rd",
     "sg:city":"Beggs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303048735,
-    "wof:lastmodified":1448998969,
+    "wof:lastmodified":1466762402,
     "wof:name":"AAA Stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.157169,35.713804,-96.157169,35.713804],
+  "bbox": [
+    -96.157169,
+    35.713804,
+    -96.157169,
+    35.713804
+],
   "geometry": {"coordinates":[-96.157169,35.713804],"type":"Point"}
 }

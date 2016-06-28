@@ -2,13 +2,14 @@
   "id": 303529929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.553544,35.374999,-97.553544,35.374999",
     "geom:latitude":35.374999,
     "geom:longitude":-97.553544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2312 SW 91st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303529929,
-    "wof:lastmodified":1448999189,
+    "wof:lastmodified":1466766042,
     "wof:name":"Scents Of Perfection",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"
     ]
 },
-  "bbox": [-97.553544,35.374999,-97.553544,35.374999],
+  "bbox": [
+    -97.553544,
+    35.374999,
+    -97.553544,
+    35.374999
+],
   "geometry": {"coordinates":[-97.553544,35.374999],"type":"Point"}
 }

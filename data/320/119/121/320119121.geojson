@@ -2,13 +2,14 @@
   "id": 320119121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.304993,35.491777,-97.304993,35.491777",
     "geom:latitude":35.491777,
     "geom:longitude":-97.304993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2229 Dixon Rd",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320119121,
-    "wof:lastmodified":1449013934,
+    "wof:lastmodified":1466764076,
     "wof:name":"Midwest Pump & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-97.304993,35.491777,-97.304993,35.491777],
+  "bbox": [
+    -97.304993,
+    35.491777,
+    -97.304993,
+    35.491777
+],
   "geometry": {"coordinates":[-97.304993,35.491777],"type":"Point"}
 }

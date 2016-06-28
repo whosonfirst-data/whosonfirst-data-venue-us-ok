@@ -2,13 +2,14 @@
   "id": 304019345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.585537,35.432299,-97.585537,35.432299",
     "geom:latitude":35.432299,
     "geom:longitude":-97.585537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3826 S Newcastle Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304019345,
-    "wof:lastmodified":1449043940,
+    "wof:lastmodified":1466762913,
     "wof:name":"Bronco Tree Shear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-97.585537,35.432299,-97.585537,35.432299],
+  "bbox": [
+    -97.585537,
+    35.432299,
+    -97.585537,
+    35.432299
+],
   "geometry": {"coordinates":[-97.585537,35.432299],"type":"Point"}
 }

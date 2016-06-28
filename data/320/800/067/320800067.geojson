@@ -2,13 +2,14 @@
   "id": 320800067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.713919,35.521395,-97.713919,35.521395",
     "geom:latitude":35.521395,
     "geom:longitude":-97.713919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4717 Skytrail Ave",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320800067,
-    "wof:lastmodified":1449011542,
+    "wof:lastmodified":1466766835,
     "wof:name":"Queen Appraisal Service",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.713919,35.521395,-97.713919,35.521395],
+  "bbox": [
+    -97.713919,
+    35.521395,
+    -97.713919,
+    35.521395
+],
   "geometry": {"coordinates":[-97.713919,35.521395],"type":"Point"}
 }

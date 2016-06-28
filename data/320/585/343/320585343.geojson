@@ -2,13 +2,14 @@
   "id": 320585343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.05151,36.127038,-97.05151,36.127038",
     "geom:latitude":36.127038,
     "geom:longitude":-97.05151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 N Perkins Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320585343,
-    "wof:lastmodified":1449013758,
+    "wof:lastmodified":1466766259,
     "wof:name":"Jackson B Diamond Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-97.05151,36.127038,-97.05151,36.127038],
-  "geometry": {"coordinates":[-97.05151,36.127038],"type":"Point"}
+  "bbox": [
+    -97.05151,
+    36.127038,
+    -97.05151,
+    36.127038
+],
+  "geometry": {"coordinates":[-97.05150999999999,36.127038],"type":"Point"}
 }

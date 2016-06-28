@@ -2,13 +2,14 @@
   "id": 353699863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.080165,34.954121,-95.080165,34.954121",
     "geom:latitude":34.954121,
     "geom:longitude":-95.080165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 N Main St",
     "sg:city":"Red Oak",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353699863,
-    "wof:lastmodified":1449018601,
+    "wof:lastmodified":1466764892,
     "wof:name":"Red Oak City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-95.080165,34.954121,-95.080165,34.954121],
-  "geometry": {"coordinates":[-95.080165,34.954121],"type":"Point"}
+  "bbox": [
+    -95.080165,
+    34.954121,
+    -95.080165,
+    34.954121
+],
+  "geometry": {"coordinates":[-95.08016499999999,34.954121],"type":"Point"}
 }

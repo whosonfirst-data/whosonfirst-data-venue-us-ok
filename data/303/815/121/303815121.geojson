@@ -2,13 +2,14 @@
   "id": 303815121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.521345,35.383762,-97.521345,35.383762",
     "geom:latitude":35.383762,
     "geom:longitude":-97.521345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8301 S Walker Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303815121,
-    "wof:lastmodified":1448999304,
+    "wof:lastmodified":1466766756,
     "wof:name":"Oral & Maxillofacial Assoc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-97.521345,35.383762,-97.521345,35.383762],
+  "bbox": [
+    -97.521345,
+    35.383762,
+    -97.521345,
+    35.383762
+],
   "geometry": {"coordinates":[-97.521345,35.383762],"type":"Point"}
 }

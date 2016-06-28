@@ -2,13 +2,14 @@
   "id": 320204845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.49105,35.397806,-97.49105,35.397806",
     "geom:latitude":35.397806,
     "geom:longitude":-97.49105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1153 Crossroads Mall Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320204845,
-    "wof:lastmodified":1449015066,
+    "wof:lastmodified":1466764477,
     "wof:name":"Quick Test/Heakin",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "analysis"
     ]
 },
-  "bbox": [-97.49105,35.397806,-97.49105,35.397806],
+  "bbox": [
+    -97.49105,
+    35.397806,
+    -97.49105,
+    35.397806
+],
   "geometry": {"coordinates":[-97.49105,35.397806],"type":"Point"}
 }

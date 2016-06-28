@@ -2,13 +2,14 @@
   "id": 320532353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.536915,35.420776,-97.536915,35.420776",
     "geom:latitude":35.420776,
     "geom:longitude":-97.536915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 SW 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320532353,
-    "wof:lastmodified":1449012528,
+    "wof:lastmodified":1466766123,
     "wof:name":"Lone Wolf Guitars",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guitar"
     ]
 },
-  "bbox": [-97.536915,35.420776,-97.536915,35.420776],
-  "geometry": {"coordinates":[-97.536915,35.420776],"type":"Point"}
+  "bbox": [
+    -97.536915,
+    35.420776,
+    -97.536915,
+    35.420776
+],
+  "geometry": {"coordinates":[-97.53691499999999,35.420776],"type":"Point"}
 }

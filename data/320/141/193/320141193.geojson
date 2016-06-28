@@ -2,13 +2,14 @@
   "id": 320141193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.986085,36.151632,-95.986085,36.151632",
     "geom:latitude":36.151632,
     "geom:longitude":-95.986085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 E 6th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320141193,
-    "wof:lastmodified":1449012576,
+    "wof:lastmodified":1466764228,
     "wof:name":"A E P",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-95.986085,36.151632,-95.986085,36.151632],
+  "bbox": [
+    -95.986085,
+    36.151632,
+    -95.986085,
+    36.151632
+],
   "geometry": {"coordinates":[-95.986085,36.151632],"type":"Point"}
 }

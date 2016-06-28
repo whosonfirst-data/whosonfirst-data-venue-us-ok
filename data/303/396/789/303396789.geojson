@@ -2,13 +2,14 @@
   "id": 303396789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.022158,35.318708,-97.022158,35.318708",
     "geom:latitude":35.318708,
     "geom:longitude":-97.022158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35200 Clear Pond Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303396789,
-    "wof:lastmodified":1448999723,
+    "wof:lastmodified":1466765430,
     "wof:name":"Equity Appraisal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-97.022158,35.318708,-97.022158,35.318708],
+  "bbox": [
+    -97.022158,
+    35.318708,
+    -97.022158,
+    35.318708
+],
   "geometry": {"coordinates":[-97.022158,35.318708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303193951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.496872,35.427539,-97.496872,35.427539",
     "geom:latitude":35.427539,
     "geom:longitude":-97.496872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3716 S Phillips Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303193951,
-    "wof:lastmodified":1448998512,
+    "wof:lastmodified":1466764411,
     "wof:name":"EDS Transport Refrigeration",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-97.496872,35.427539,-97.496872,35.427539],
+  "bbox": [
+    -97.496872,
+    35.427539,
+    -97.496872,
+    35.427539
+],
   "geometry": {"coordinates":[-97.496872,35.427539],"type":"Point"}
 }

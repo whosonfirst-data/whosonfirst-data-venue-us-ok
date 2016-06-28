@@ -2,13 +2,14 @@
   "id": 319910353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.922074,36.019632,-95.922074,36.019632",
     "geom:latitude":36.019632,
     "geom:longitude":-95.922074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10051 S Yale Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319910353,
-    "wof:lastmodified":1449024411,
+    "wof:lastmodified":1466763766,
     "wof:name":"AAA Automobile Club Of Ok",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automobile"
     ]
 },
-  "bbox": [-95.922074,36.019632,-95.922074,36.019632],
-  "geometry": {"coordinates":[-95.922074,36.019632],"type":"Point"}
+  "bbox": [
+    -95.922074,
+    36.019632,
+    -95.922074,
+    36.019632
+],
+  "geometry": {"coordinates":[-95.92207399999999,36.019632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353947955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976895,36.753126,-95.976895,36.753126",
     "geom:latitude":36.753126,
     "geom:longitude":-95.976895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Hensley Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353947955,
-    "wof:lastmodified":1449020091,
+    "wof:lastmodified":1466765736,
     "wof:name":"Police Dept-Svc Div",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-95.976895,36.753126,-95.976895,36.753126],
+  "bbox": [
+    -95.976895,
+    36.753126,
+    -95.976895,
+    36.753126
+],
   "geometry": {"coordinates":[-95.976895,36.753126],"type":"Point"}
 }

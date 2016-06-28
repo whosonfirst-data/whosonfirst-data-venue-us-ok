@@ -2,13 +2,14 @@
   "id": 303955451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.131501,36.10887,-96.131501,36.10887",
     "geom:latitude":36.10887,
     "geom:longitude":-96.131501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 W 37th Pl",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303955451,
-    "wof:lastmodified":1448999814,
+    "wof:lastmodified":1466767037,
     "wof:name":"Expert Detail Svc",
     "wof:parent_id":85843055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-96.131501,36.10887,-96.131501,36.10887],
+  "bbox": [
+    -96.131501,
+    36.10887,
+    -96.131501,
+    36.10887
+],
   "geometry": {"coordinates":[-96.131501,36.10887],"type":"Point"}
 }

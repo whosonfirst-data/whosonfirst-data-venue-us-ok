@@ -2,13 +2,14 @@
   "id": 303049519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.96465,36.023584,-95.96465,36.023584",
     "geom:latitude":36.023584,
     "geom:longitude":-95.96465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 E A St",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303049519,
-    "wof:lastmodified":1448999329,
+    "wof:lastmodified":1466762414,
     "wof:name":"Michael D Leu Consulting",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.96465,36.023584,-95.96465,36.023584],
-  "geometry": {"coordinates":[-95.96465,36.023584],"type":"Point"}
+  "bbox": [
+    -95.96465,
+    36.023584,
+    -95.96465,
+    36.023584
+],
+  "geometry": {"coordinates":[-95.96465000000001,36.023584],"type":"Point"}
 }

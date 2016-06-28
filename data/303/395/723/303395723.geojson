@@ -2,13 +2,14 @@
   "id": 303395723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.868599,35.973206,-95.868599,35.973206",
     "geom:latitude":35.973206,
     "geom:longitude":-95.868599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13401 S Mingo Rd",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303395723,
-    "wof:lastmodified":1449000202,
+    "wof:lastmodified":1466765428,
     "wof:name":"Four Seasons Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.868599,35.973206,-95.868599,35.973206],
+  "bbox": [
+    -95.868599,
+    35.973206,
+    -95.868599,
+    35.973206
+],
   "geometry": {"coordinates":[-95.868599,35.973206],"type":"Point"}
 }

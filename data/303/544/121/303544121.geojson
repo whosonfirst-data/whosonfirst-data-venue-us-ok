@@ -2,13 +2,14 @@
   "id": 303544121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.48569,35.43119,-97.48569,35.43119",
     "geom:latitude":35.43119,
     "geom:longitude":-97.48569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 S Prospect Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303544121,
-    "wof:lastmodified":1449000563,
+    "wof:lastmodified":1466766133,
     "wof:name":"Berry Excavating Service",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.48569,35.43119,-97.48569,35.43119],
-  "geometry": {"coordinates":[-97.48569,35.43119],"type":"Point"}
+  "bbox": [
+    -97.48569,
+    35.43119,
+    -97.48569,
+    35.43119
+],
+  "geometry": {"coordinates":[-97.48569000000001,35.43119],"type":"Point"}
 }

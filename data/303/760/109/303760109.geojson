@@ -2,13 +2,14 @@
   "id": 303760109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.62813,36.31756,-95.62813,36.31756",
     "geom:latitude":36.31756,
     "geom:longitude":-95.62813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Moore Ave",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303760109,
-    "wof:lastmodified":1449000473,
+    "wof:lastmodified":1466766638,
     "wof:name":"Claremore Indian Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychiatric"
     ]
 },
-  "bbox": [-95.62813,36.31756,-95.62813,36.31756],
+  "bbox": [
+    -95.62813,
+    36.31756,
+    -95.62813,
+    36.31756
+],
   "geometry": {"coordinates":[-95.62813,36.31756],"type":"Point"}
 }

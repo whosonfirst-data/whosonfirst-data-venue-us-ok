@@ -2,13 +2,14 @@
   "id": 336620491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.944252,34.654645,-98.944252,34.654645",
     "geom:latitude":34.654645,
     "geom:longitude":-98.944252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 11th St",
     "sg:city":"Snyder",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336620491,
-    "wof:lastmodified":1448997927,
+    "wof:lastmodified":1466762499,
     "wof:name":"Triple Nickel Trading Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trading"
     ]
 },
-  "bbox": [-98.944252,34.654645,-98.944252,34.654645],
-  "geometry": {"coordinates":[-98.944252,34.654645],"type":"Point"}
+  "bbox": [
+    -98.944252,
+    34.654645,
+    -98.944252,
+    34.654645
+],
+  "geometry": {"coordinates":[-98.94425200000001,34.654645],"type":"Point"}
 }

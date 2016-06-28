@@ -2,13 +2,14 @@
   "id": 303626305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.128357,34.172512,-97.128357,34.172512",
     "geom:latitude":34.172512,
     "geom:longitude":-97.128357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 E Main St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303626305,
-    "wof:lastmodified":1449000567,
+    "wof:lastmodified":1466766287,
     "wof:name":"Cook Paint Ardmore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.128357,34.172512,-97.128357,34.172512],
-  "geometry": {"coordinates":[-97.128357,34.172512],"type":"Point"}
+  "bbox": [
+    -97.128357,
+    34.172512,
+    -97.128357,
+    34.172512
+],
+  "geometry": {"coordinates":[-97.12835699999999,34.172512],"type":"Point"}
 }

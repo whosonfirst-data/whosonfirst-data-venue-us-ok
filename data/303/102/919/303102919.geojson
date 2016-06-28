@@ -2,13 +2,14 @@
   "id": 303102919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.333629,36.801418,-97.333629,36.801418",
     "geom:latitude":36.801418,
     "geom:longitude":-97.333629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Country Club Ln",
     "sg:city":"Blackwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303102919,
-    "wof:lastmodified":1449000382,
+    "wof:lastmodified":1466763282,
     "wof:name":"Blackwell Municipal Golf Crse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "golf"
     ]
 },
-  "bbox": [-97.333629,36.801418,-97.333629,36.801418],
+  "bbox": [
+    -97.333629,
+    36.801418,
+    -97.333629,
+    36.801418
+],
   "geometry": {"coordinates":[-97.333629,36.801418],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320130913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.452072,35.231884,-97.452072,35.231884",
     "geom:latitude":35.231884,
     "geom:longitude":-97.452072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 W Hayes St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320130913,
-    "wof:lastmodified":1449012558,
+    "wof:lastmodified":1466764273,
     "wof:name":"Spray Trucking",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.452072,35.231884,-97.452072,35.231884],
+  "bbox": [
+    -97.452072,
+    35.231884,
+    -97.452072,
+    35.231884
+],
   "geometry": {"coordinates":[-97.452072,35.231884],"type":"Point"}
 }

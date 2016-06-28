@@ -2,13 +2,14 @@
   "id": 337598583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.53013,35.380579,-97.53013,35.380579",
     "geom:latitude":35.380579,
     "geom:longitude":-97.53013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8601 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":337598583,
-    "wof:lastmodified":1449026985,
+    "wof:lastmodified":1466763206,
     "wof:name":"Nonna's",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.53013,35.380579,-97.53013,35.380579],
+  "bbox": [
+    -97.53013,
+    35.380579,
+    -97.53013,
+    35.380579
+],
   "geometry": {"coordinates":[-97.53013,35.380579],"type":"Point"}
 }

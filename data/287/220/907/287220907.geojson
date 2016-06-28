@@ -2,13 +2,14 @@
   "id": 287220907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.623395,35.521066,-97.623395,35.521066",
     "geom:latitude":35.521066,
     "geom:longitude":-97.623395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5930 NW 49th St",
     "sg:city":"Warr Acres",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287220907,
-    "wof:lastmodified":1449001556,
+    "wof:lastmodified":1466764133,
     "wof:name":"WARR Acres Police Dept",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.623395,35.521066,-97.623395,35.521066],
+  "bbox": [
+    -97.623395,
+    35.521066,
+    -97.623395,
+    35.521066
+],
   "geometry": {"coordinates":[-97.623395,35.521066],"type":"Point"}
 }

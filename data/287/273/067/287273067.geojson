@@ -2,13 +2,14 @@
   "id": 287273067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.961871,35.611511,-95.961871,35.611511",
     "geom:latitude":35.611511,
     "geom:longitude":-95.961871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 S Wood Dr",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287273067,
-    "wof:lastmodified":1449001119,
+    "wof:lastmodified":1466763034,
     "wof:name":"Git-N-Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.961871,35.611511,-95.961871,35.611511],
+  "bbox": [
+    -95.961871,
+    35.611511,
+    -95.961871,
+    35.611511
+],
   "geometry": {"coordinates":[-95.961871,35.611511],"type":"Point"}
 }

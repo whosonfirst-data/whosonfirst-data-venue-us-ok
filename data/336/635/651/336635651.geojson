@@ -2,13 +2,14 @@
   "id": 336635651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.493299,35.648093,-97.493299,35.648093",
     "geom:latitude":35.648093,
     "geom:longitude":-97.493299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 Sunset Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336635651,
-    "wof:lastmodified":1448997418,
+    "wof:lastmodified":1466762725,
     "wof:name":"Hixson Dennis Custom Barber",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.493299,35.648093,-97.493299,35.648093],
-  "geometry": {"coordinates":[-97.493299,35.648093],"type":"Point"}
+  "bbox": [
+    -97.493299,
+    35.648093,
+    -97.493299,
+    35.648093
+],
+  "geometry": {"coordinates":[-97.49329899999999,35.648093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303716263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.543151,35.569122,-97.543151,35.569122",
     "geom:latitude":35.569122,
     "geom:longitude":-97.543151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9411 N Georgia Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303716263,
-    "wof:lastmodified":1448998465,
+    "wof:lastmodified":1466766508,
     "wof:name":"Auto Club Of America Corp",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.543151,35.569122,-97.543151,35.569122],
-  "geometry": {"coordinates":[-97.543151,35.569122],"type":"Point"}
+  "bbox": [
+    -97.543151,
+    35.569122,
+    -97.543151,
+    35.569122
+],
+  "geometry": {"coordinates":[-97.54315099999999,35.569122],"type":"Point"}
 }

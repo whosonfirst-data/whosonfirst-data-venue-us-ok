@@ -2,13 +2,14 @@
   "id": 353957585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.109961,35.260668,-95.109961,35.260668",
     "geom:latitude":35.260668,
     "geom:longitude":-95.109961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 NE H St",
     "sg:city":"Stigler",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353957585,
-    "wof:lastmodified":1449020438,
+    "wof:lastmodified":1466765858,
     "wof:name":"Haskell County Nutrition Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "health"
     ]
 },
-  "bbox": [-95.109961,35.260668,-95.109961,35.260668],
+  "bbox": [
+    -95.109961,
+    35.260668,
+    -95.109961,
+    35.260668
+],
   "geometry": {"coordinates":[-95.109961,35.260668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320091195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.726254,35.65738,-97.726254,35.65738",
     "geom:latitude":35.65738,
     "geom:longitude":-97.726254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1823 Susanna Rd NE",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320091195,
-    "wof:lastmodified":1449011610,
+    "wof:lastmodified":1466763636,
     "wof:name":"Peak Cement Piedmont",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cement"
     ]
 },
-  "bbox": [-97.726254,35.65738,-97.726254,35.65738],
+  "bbox": [
+    -97.726254,
+    35.65738,
+    -97.726254,
+    35.65738
+],
   "geometry": {"coordinates":[-97.726254,35.65738],"type":"Point"}
 }

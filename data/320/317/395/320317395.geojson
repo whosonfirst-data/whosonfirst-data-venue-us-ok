@@ -2,13 +2,14 @@
   "id": 320317395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.614736,36.312476,-95.614736,36.312476",
     "geom:latitude":36.312476,
     "geom:longitude":-95.614736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Missouri Ave",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320317395,
-    "wof:lastmodified":1449012961,
+    "wof:lastmodified":1466765258,
     "wof:name":"Claremore Youth Football Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-95.614736,36.312476,-95.614736,36.312476],
-  "geometry": {"coordinates":[-95.614736,36.312476],"type":"Point"}
+  "bbox": [
+    -95.614736,
+    36.312476,
+    -95.614736,
+    36.312476
+],
+  "geometry": {"coordinates":[-95.61473599999999,36.312476],"type":"Point"}
 }

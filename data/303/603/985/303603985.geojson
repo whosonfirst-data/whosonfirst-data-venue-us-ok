@@ -2,13 +2,14 @@
   "id": 303603985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.575009,35.605776,-97.575009,35.605776",
     "geom:latitude":35.605776,
     "geom:longitude":-97.575009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3240 Brush Creek Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303603985,
-    "wof:lastmodified":1449000184,
+    "wof:lastmodified":1466766209,
     "wof:name":"Craig J Peck",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"
     ]
 },
-  "bbox": [-97.575009,35.605776,-97.575009,35.605776],
-  "geometry": {"coordinates":[-97.575009,35.605776],"type":"Point"}
+  "bbox": [
+    -97.575009,
+    35.605776,
+    -97.575009,
+    35.605776
+],
+  "geometry": {"coordinates":[-97.57500899999999,35.605776],"type":"Point"}
 }

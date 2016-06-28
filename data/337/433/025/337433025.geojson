@@ -2,13 +2,14 @@
   "id": 337433025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.943954,35.875054,-95.943954,35.875054",
     "geom:latitude":35.875054,
     "geom:longitude":-95.943954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19821 S Harvard Ave",
     "sg:city":"Mounds",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337433025,
-    "wof:lastmodified":1449027032,
+    "wof:lastmodified":1466764241,
     "wof:name":"Ability Development",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "picture"
     ]
 },
-  "bbox": [-95.943954,35.875054,-95.943954,35.875054],
-  "geometry": {"coordinates":[-95.943954,35.875054],"type":"Point"}
+  "bbox": [
+    -95.943954,
+    35.875054,
+    -95.943954,
+    35.875054
+],
+  "geometry": {"coordinates":[-95.94395400000001,35.875054],"type":"Point"}
 }

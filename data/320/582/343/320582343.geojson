@@ -2,13 +2,14 @@
   "id": 320582343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.683427,34.774484,-96.683427,34.774484",
     "geom:latitude":34.774484,
     "geom:longitude":-96.683427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Main St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320582343,
-    "wof:lastmodified":1449013272,
+    "wof:lastmodified":1466766259,
     "wof:name":"Ada Jobs Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "agency"
     ]
 },
-  "bbox": [-96.683427,34.774484,-96.683427,34.774484],
-  "geometry": {"coordinates":[-96.683427,34.774484],"type":"Point"}
+  "bbox": [
+    -96.683427,
+    34.774484,
+    -96.683427,
+    34.774484
+],
+  "geometry": {"coordinates":[-96.68342699999999,34.774484],"type":"Point"}
 }

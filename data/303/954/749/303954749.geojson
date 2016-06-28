@@ -2,13 +2,14 @@
   "id": 303954749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.427343,35.41177,-99.427343,35.41177",
     "geom:latitude":35.41177,
     "geom:longitude":-99.427343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 W 3rd St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303954749,
-    "wof:lastmodified":1449000250,
+    "wof:lastmodified":1466767099,
     "wof:name":"William M Featherston MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-99.427343,35.41177,-99.427343,35.41177],
-  "geometry": {"coordinates":[-99.427343,35.41177],"type":"Point"}
+  "bbox": [
+    -99.427343,
+    35.41177,
+    -99.427343,
+    35.41177
+],
+  "geometry": {"coordinates":[-99.42734299999999,35.41177],"type":"Point"}
 }

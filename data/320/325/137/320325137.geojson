@@ -2,13 +2,14 @@
   "id": 320325137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.945631,36.114299,-95.945631,36.114299",
     "geom:latitude":36.114299,
     "geom:longitude":-95.945631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2846 E 34th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320325137,
-    "wof:lastmodified":1449012732,
+    "wof:lastmodified":1466765228,
     "wof:name":"Cmg Oil Properties LLC",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-95.945631,36.114299,-95.945631,36.114299],
-  "geometry": {"coordinates":[-95.945631,36.114299],"type":"Point"}
+  "bbox": [
+    -95.945631,
+    36.114299,
+    -95.945631,
+    36.114299
+],
+  "geometry": {"coordinates":[-95.94563100000001,36.114299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303905927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.100117,35.017952,-99.100117,35.017952",
     "geom:latitude":35.017952,
     "geom:longitude":-99.100117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W 9th St",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303905927,
-    "wof:lastmodified":1448999073,
+    "wof:lastmodified":1466767054,
     "wof:name":"Western Unf & Towel Svc Okla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-99.100117,35.017952,-99.100117,35.017952],
+  "bbox": [
+    -99.100117,
+    35.017952,
+    -99.100117,
+    35.017952
+],
   "geometry": {"coordinates":[-99.100117,35.017952],"type":"Point"}
 }

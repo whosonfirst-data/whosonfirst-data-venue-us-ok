@@ -2,13 +2,14 @@
   "id": 303315675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.563104,35.525779,-97.563104,35.525779",
     "geom:latitude":35.525779,
     "geom:longitude":-97.563104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2727 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303315675,
-    "wof:lastmodified":1449000437,
+    "wof:lastmodified":1466765020,
     "wof:name":"West Marine",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.563104,35.525779,-97.563104,35.525779],
+  "bbox": [
+    -97.563104,
+    35.525779,
+    -97.563104,
+    35.525779
+],
   "geometry": {"coordinates":[-97.563104,35.525779],"type":"Point"}
 }

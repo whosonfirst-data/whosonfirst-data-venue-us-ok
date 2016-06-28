@@ -2,13 +2,14 @@
   "id": 303312559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.618865,35.506784,-97.618865,35.506784",
     "geom:latitude":35.506784,
     "geom:longitude":-97.618865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3504 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303312559,
-    "wof:lastmodified":1448999354,
+    "wof:lastmodified":1466765020,
     "wof:name":"Mac Arthur Liquor Store",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-97.618865,35.506784,-97.618865,35.506784],
+  "bbox": [
+    -97.618865,
+    35.506784,
+    -97.618865,
+    35.506784
+],
   "geometry": {"coordinates":[-97.618865,35.506784],"type":"Point"}
 }

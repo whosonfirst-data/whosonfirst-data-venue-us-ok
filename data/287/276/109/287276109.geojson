@@ -2,13 +2,14 @@
   "id": 287276109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.919234,35.516922,-97.919234,35.516922",
     "geom:latitude":35.516922,
     "geom:longitude":-97.919234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 S Alfadale Rd",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287276109,
-    "wof:lastmodified":1449000702,
+    "wof:lastmodified":1466763078,
     "wof:name":"Wet Drilling",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.919234,35.516922,-97.919234,35.516922],
+  "bbox": [
+    -97.919234,
+    35.516922,
+    -97.919234,
+    35.516922
+],
   "geometry": {"coordinates":[-97.919234,35.516922],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220169713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.119193,36.115826,-97.119193,36.115826",
     "geom:latitude":36.115826,
     "geom:longitude":-97.119193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 W 6th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -105,10 +106,11 @@
         }
     ],
     "wof:id":220169713,
-    "wof:lastmodified":1449074531,
+    "wof:lastmodified":1466762317,
     "wof:name":"T-Mobile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -124,6 +126,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-97.119193,36.115826,-97.119193,36.115826],
+  "bbox": [
+    -97.119193,
+    36.115826,
+    -97.119193,
+    36.115826
+],
   "geometry": {"coordinates":[-97.119193,36.115826],"type":"Point"}
 }

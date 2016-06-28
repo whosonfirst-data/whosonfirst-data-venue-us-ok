@@ -2,13 +2,14 @@
   "id": 320526055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.365355,35.276162,-97.365355,35.276162",
     "geom:latitude":35.276162,
     "geom:longitude":-97.365355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 E Franklin Rd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320526055,
-    "wof:lastmodified":1449012410,
+    "wof:lastmodified":1466766021,
     "wof:name":"Jones' Septic Tank Svc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-97.365355,35.276162,-97.365355,35.276162],
-  "geometry": {"coordinates":[-97.365355,35.276162],"type":"Point"}
+  "bbox": [
+    -97.365355,
+    35.276162,
+    -97.365355,
+    35.276162
+],
+  "geometry": {"coordinates":[-97.36535499999999,35.276162],"type":"Point"}
 }

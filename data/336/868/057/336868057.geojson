@@ -2,13 +2,14 @@
   "id": 336868057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.568683,36.263765,-95.568683,36.263765",
     "geom:latitude":36.263765,
     "geom:longitude":-95.568683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14264 E 520 Rd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336868057,
-    "wof:lastmodified":1448996959,
+    "wof:lastmodified":1466764924,
     "wof:name":"Mike Lawson Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.568683,36.263765,-95.568683,36.263765],
-  "geometry": {"coordinates":[-95.568683,36.263765],"type":"Point"}
+  "bbox": [
+    -95.568683,
+    36.263765,
+    -95.568683,
+    36.263765
+],
+  "geometry": {"coordinates":[-95.56868299999999,36.263765],"type":"Point"}
 }

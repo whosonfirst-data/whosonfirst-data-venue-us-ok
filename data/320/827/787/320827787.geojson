@@ -2,13 +2,14 @@
   "id": 320827787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.495876,35.5183,-97.495876,35.5183",
     "geom:latitude":35.5183,
     "geom:longitude":-97.495876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Sunset Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320827787,
-    "wof:lastmodified":1449012615,
+    "wof:lastmodified":1466766904,
     "wof:name":"Ficor",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.495876,35.5183,-97.495876,35.5183],
+  "bbox": [
+    -97.495876,
+    35.5183,
+    -97.495876,
+    35.5183
+],
   "geometry": {"coordinates":[-97.495876,35.5183],"type":"Point"}
 }

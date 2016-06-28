@@ -2,13 +2,14 @@
   "id": 287157737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.409443,35.203916,-97.409443,35.203916",
     "geom:latitude":35.203916,
     "geom:longitude":-97.409443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2313 E Lindsey St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287157737,
-    "wof:lastmodified":1449001448,
+    "wof:lastmodified":1466763704,
     "wof:name":"Drivers License",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-97.409443,35.203916,-97.409443,35.203916],
+  "bbox": [
+    -97.409443,
+    35.203916,
+    -97.409443,
+    35.203916
+],
   "geometry": {"coordinates":[-97.409443,35.203916],"type":"Point"}
 }

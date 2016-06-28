@@ -2,13 +2,14 @@
   "id": 303238221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.536685,35.446071,-97.536685,35.446071",
     "geom:latitude":35.446071,
     "geom:longitude":-97.536685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 SW 19th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303238221,
-    "wof:lastmodified":1448999034,
+    "wof:lastmodified":1466764649,
     "wof:name":"Lyles Signs Svc",
     "wof:parent_id":85871685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.536685,35.446071,-97.536685,35.446071],
-  "geometry": {"coordinates":[-97.536685,35.446071],"type":"Point"}
+  "bbox": [
+    -97.536685,
+    35.446071,
+    -97.536685,
+    35.446071
+],
+  "geometry": {"coordinates":[-97.53668500000001,35.446071],"type":"Point"}
 }

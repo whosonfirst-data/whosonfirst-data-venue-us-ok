@@ -2,13 +2,14 @@
   "id": 303519275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.536725,35.420833,-97.536725,35.420833",
     "geom:latitude":35.420833,
     "geom:longitude":-97.536725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 SW 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303519275,
-    "wof:lastmodified":1449000401,
+    "wof:lastmodified":1466765923,
     "wof:name":"Somnograph",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-97.536725,35.420833,-97.536725,35.420833],
+  "bbox": [
+    -97.536725,
+    35.420833,
+    -97.536725,
+    35.420833
+],
   "geometry": {"coordinates":[-97.536725,35.420833],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320226359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.342587,35.749167,-95.342587,35.749167",
     "geom:latitude":35.749167,
     "geom:longitude":-95.342587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1824 Houston St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320226359,
-    "wof:lastmodified":1449013963,
+    "wof:lastmodified":1466764629,
     "wof:name":"Studio III & Day Spa",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.342587,35.749167,-95.342587,35.749167],
-  "geometry": {"coordinates":[-95.342587,35.749167],"type":"Point"}
+  "bbox": [
+    -95.342587,
+    35.749167,
+    -95.342587,
+    35.749167
+],
+  "geometry": {"coordinates":[-95.34258699999999,35.749167],"type":"Point"}
 }

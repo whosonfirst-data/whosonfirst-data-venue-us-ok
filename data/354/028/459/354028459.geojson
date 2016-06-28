@@ -2,13 +2,14 @@
   "id": 354028459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.882865,36.381564,-97.882865,36.381564",
     "geom:latitude":36.381564,
     "geom:longitude":-97.882865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1418 S Adams St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354028459,
-    "wof:lastmodified":1449066862,
+    "wof:lastmodified":1466763126,
     "wof:name":"Weather Barrier Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.882865,36.381564,-97.882865,36.381564],
+  "bbox": [
+    -97.882865,
+    36.381564,
+    -97.882865,
+    36.381564
+],
   "geometry": {"coordinates":[-97.882865,36.381564],"type":"Point"}
 }

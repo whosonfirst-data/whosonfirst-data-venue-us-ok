@@ -2,13 +2,14 @@
   "id": 336730939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.641239,35.29119,-99.641239,35.29119",
     "geom:latitude":35.29119,
     "geom:longitude":-99.641239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Main St",
     "sg:city":"Sayre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336730939,
-    "wof:lastmodified":1448997862,
+    "wof:lastmodified":1466764252,
     "wof:name":"Country At Heart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.641239,35.29119,-99.641239,35.29119],
+  "bbox": [
+    -99.641239,
+    35.29119,
+    -99.641239,
+    35.29119
+],
   "geometry": {"coordinates":[-99.641239,35.29119],"type":"Point"}
 }

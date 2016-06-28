@@ -2,13 +2,14 @@
   "id": 303697345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.661228,34.230553,-96.661228,34.230553",
     "geom:latitude":34.230553,
     "geom:longitude":-96.661228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 State Hwy 22",
     "sg:city":"Tishomingo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303697345,
-    "wof:lastmodified":1448999660,
+    "wof:lastmodified":1466766393,
     "wof:name":"Western Inn Restaurant & Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.661228,34.230553,-96.661228,34.230553],
-  "geometry": {"coordinates":[-96.661228,34.230553],"type":"Point"}
+  "bbox": [
+    -96.661228,
+    34.230553,
+    -96.661228,
+    34.230553
+],
+  "geometry": {"coordinates":[-96.66122799999999,34.230553],"type":"Point"}
 }

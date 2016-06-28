@@ -2,13 +2,14 @@
   "id": 303813877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480759,35.630132,-97.480759,35.630132",
     "geom:latitude":35.630132,
     "geom:longitude":-97.480759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2309 Elwood Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303813877,
-    "wof:lastmodified":1448998741,
+    "wof:lastmodified":1466766749,
     "wof:name":"Wesley E Listen",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.480759,35.630132,-97.480759,35.630132],
-  "geometry": {"coordinates":[-97.480759,35.630132],"type":"Point"}
+  "bbox": [
+    -97.480759,
+    35.630132,
+    -97.480759,
+    35.630132
+],
+  "geometry": {"coordinates":[-97.48075900000001,35.630132],"type":"Point"}
 }

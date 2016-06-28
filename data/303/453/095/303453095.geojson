@@ -2,13 +2,14 @@
   "id": 303453095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494737,35.400973,-97.494737,35.400973",
     "geom:latitude":35.400973,
     "geom:longitude":-97.494737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6009 S I- 35 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303453095,
-    "wof:lastmodified":1448999957,
+    "wof:lastmodified":1466765763,
     "wof:name":"A Deal Auto Sales",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.494737,35.400973,-97.494737,35.400973],
+  "bbox": [
+    -97.494737,
+    35.400973,
+    -97.494737,
+    35.400973
+],
   "geometry": {"coordinates":[-97.494737,35.400973],"type":"Point"}
 }

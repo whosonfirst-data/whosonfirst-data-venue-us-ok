@@ -2,13 +2,14 @@
   "id": 303582755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.829693,36.116061,-95.829693,36.116061",
     "geom:latitude":36.116061,
     "geom:longitude":-95.829693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12912 E 32nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303582755,
-    "wof:lastmodified":1448999437,
+    "wof:lastmodified":1466766234,
     "wof:name":"Budget Refrigeration",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-95.829693,36.116061,-95.829693,36.116061],
-  "geometry": {"coordinates":[-95.829693,36.116061],"type":"Point"}
+  "bbox": [
+    -95.829693,
+    36.116061,
+    -95.829693,
+    36.116061
+],
+  "geometry": {"coordinates":[-95.82969300000001,36.116061],"type":"Point"}
 }

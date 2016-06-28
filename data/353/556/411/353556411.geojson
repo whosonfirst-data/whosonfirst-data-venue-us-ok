@@ -2,13 +2,14 @@
   "id": 353556411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.649285,36.80354,-98.649285,36.80354",
     "geom:latitude":36.80354,
     "geom:longitude":-98.649285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 E Barnes Ave",
     "sg:city":"Alva",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353556411,
-    "wof:lastmodified":1449018892,
+    "wof:lastmodified":1466763957,
     "wof:name":"Washington Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.649285,36.80354,-98.649285,36.80354],
-  "geometry": {"coordinates":[-98.649285,36.80354],"type":"Point"}
+  "bbox": [
+    -98.649285,
+    36.80354,
+    -98.649285,
+    36.80354
+],
+  "geometry": {"coordinates":[-98.64928500000001,36.80354],"type":"Point"}
 }

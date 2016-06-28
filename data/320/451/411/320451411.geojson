@@ -2,13 +2,14 @@
   "id": 320451411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.836649,36.364471,-95.836649,36.364471",
     "geom:latitude":36.364471,
     "geom:longitude":-95.836649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 W Main St",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320451411,
-    "wof:lastmodified":1449012881,
+    "wof:lastmodified":1466765843,
     "wof:name":"Rick's Custom Processing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "butchering"
     ]
 },
-  "bbox": [-95.836649,36.364471,-95.836649,36.364471],
-  "geometry": {"coordinates":[-95.836649,36.364471],"type":"Point"}
+  "bbox": [
+    -95.836649,
+    36.364471,
+    -95.836649,
+    36.364471
+],
+  "geometry": {"coordinates":[-95.83664899999999,36.364471],"type":"Point"}
 }

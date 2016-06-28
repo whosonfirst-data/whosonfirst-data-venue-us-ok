@@ -2,13 +2,14 @@
   "id": 303156763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.64004,35.300129,-99.64004,35.300129",
     "geom:latitude":35.300129,
     "geom:longitude":-99.64004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 US Hwy 66",
     "sg:city":"Sayre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303156763,
-    "wof:lastmodified":1448998599,
+    "wof:lastmodified":1466764142,
     "wof:name":"Mc Cullough Ford Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-99.64004,35.300129,-99.64004,35.300129],
+  "bbox": [
+    -99.64004,
+    35.300129,
+    -99.64004,
+    35.300129
+],
   "geometry": {"coordinates":[-99.64004,35.300129],"type":"Point"}
 }

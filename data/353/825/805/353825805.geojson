@@ -2,13 +2,14 @@
   "id": 353825805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.958104,36.200636,-95.958104,36.200636",
     "geom:latitude":36.200636,
     "geom:longitude":-95.958104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3153 N Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353825805,
-    "wof:lastmodified":1449018337,
+    "wof:lastmodified":1466765326,
     "wof:name":"Kirkwood Tank Co Inc",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fabricates"
     ]
 },
-  "bbox": [-95.958104,36.200636,-95.958104,36.200636],
-  "geometry": {"coordinates":[-95.958104,36.200636],"type":"Point"}
+  "bbox": [
+    -95.958104,
+    36.200636,
+    -95.958104,
+    36.200636
+],
+  "geometry": {"coordinates":[-95.95810400000001,36.200636],"type":"Point"}
 }

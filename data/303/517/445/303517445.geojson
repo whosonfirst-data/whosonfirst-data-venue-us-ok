@@ -2,13 +2,14 @@
   "id": 303517445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.129565,34.159667,-97.129565,34.159667",
     "geom:latitude":34.159667,
     "geom:longitude":-97.129565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 Douglas Blvd",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303517445,
-    "wof:lastmodified":1448999517,
+    "wof:lastmodified":1466765911,
     "wof:name":"Jds Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.129565,34.159667,-97.129565,34.159667],
+  "bbox": [
+    -97.129565,
+    34.159667,
+    -97.129565,
+    34.159667
+],
   "geometry": {"coordinates":[-97.129565,34.159667],"type":"Point"}
 }

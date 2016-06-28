@@ -2,13 +2,14 @@
   "id": 354002991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.576754,35.551769,-97.576754,35.551769",
     "geom:latitude":35.551769,
     "geom:longitude":-97.576754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9225 Lake Hefner Pkwy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354002991,
-    "wof:lastmodified":1449067334,
+    "wof:lastmodified":1466762937,
     "wof:name":"KIS Futures & Financial Svc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "financial"
     ]
 },
-  "bbox": [-97.576754,35.551769,-97.576754,35.551769],
-  "geometry": {"coordinates":[-97.576754,35.551769],"type":"Point"}
+  "bbox": [
+    -97.576754,
+    35.551769,
+    -97.576754,
+    35.551769
+],
+  "geometry": {"coordinates":[-97.57675399999999,35.551769],"type":"Point"}
 }

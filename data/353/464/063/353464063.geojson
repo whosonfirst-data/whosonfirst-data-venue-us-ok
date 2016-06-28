@@ -2,13 +2,14 @@
   "id": 353464063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517781,35.566538,-97.517781,35.566538",
     "geom:latitude":35.566538,
     "geom:longitude":-97.517781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 NW 94th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353464063,
-    "wof:lastmodified":1449018956,
+    "wof:lastmodified":1466762788,
     "wof:name":"AM Tel Svc Inc",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-97.517781,35.566538,-97.517781,35.566538],
+  "bbox": [
+    -97.517781,
+    35.566538,
+    -97.517781,
+    35.566538
+],
   "geometry": {"coordinates":[-97.517781,35.566538],"type":"Point"}
 }

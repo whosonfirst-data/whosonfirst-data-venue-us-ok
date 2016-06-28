@@ -2,13 +2,14 @@
   "id": 336755599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.338563,35.493123,-97.338563,35.493123",
     "geom:latitude":35.493123,
     "geom:longitude":-97.338563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10911 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336755599,
-    "wof:lastmodified":1448997253,
+    "wof:lastmodified":1466764318,
     "wof:name":"Classic Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.338563,35.493123,-97.338563,35.493123],
-  "geometry": {"coordinates":[-97.338563,35.493123],"type":"Point"}
+  "bbox": [
+    -97.338563,
+    35.493123,
+    -97.338563,
+    35.493123
+],
+  "geometry": {"coordinates":[-97.33856299999999,35.493123],"type":"Point"}
 }

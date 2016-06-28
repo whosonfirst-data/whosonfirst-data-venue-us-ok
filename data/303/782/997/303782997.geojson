@@ -2,13 +2,14 @@
   "id": 303782997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.168128,34.203071,-97.168128,34.203071",
     "geom:latitude":34.203071,
     "geom:longitude":-97.168128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Cooper Dr",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303782997,
-    "wof:lastmodified":1448998105,
+    "wof:lastmodified":1466766708,
     "wof:name":"Sooner Lift",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.168128,34.203071,-97.168128,34.203071],
+  "bbox": [
+    -97.168128,
+    34.203071,
+    -97.168128,
+    34.203071
+],
   "geometry": {"coordinates":[-97.168128,34.203071],"type":"Point"}
 }

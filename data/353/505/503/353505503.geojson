@@ -2,13 +2,14 @@
   "id": 353505503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.475693,36.26331,-98.475693,36.26331",
     "geom:latitude":36.26331,
     "geom:longitude":-98.475693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Woodridge Dr",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353505503,
-    "wof:lastmodified":1449020404,
+    "wof:lastmodified":1466763202,
     "wof:name":"Woodcreek Art Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.475693,36.26331,-98.475693,36.26331],
-  "geometry": {"coordinates":[-98.475693,36.26331],"type":"Point"}
+  "bbox": [
+    -98.475693,
+    36.26331,
+    -98.475693,
+    36.26331
+],
+  "geometry": {"coordinates":[-98.47569300000001,36.26331],"type":"Point"}
 }

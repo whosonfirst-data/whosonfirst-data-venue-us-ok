@@ -2,13 +2,14 @@
   "id": 287219867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.593928,35.478833,-97.593928,35.478833",
     "geom:latitude":35.478833,
     "geom:longitude":-97.593928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4141 NW 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287219867,
-    "wof:lastmodified":1449001548,
+    "wof:lastmodified":1466764125,
     "wof:name":"Northwest 10th Liquor Store",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-97.593928,35.478833,-97.593928,35.478833],
-  "geometry": {"coordinates":[-97.593928,35.478833],"type":"Point"}
+  "bbox": [
+    -97.593928,
+    35.478833,
+    -97.593928,
+    35.478833
+],
+  "geometry": {"coordinates":[-97.59392800000001,35.478833],"type":"Point"}
 }

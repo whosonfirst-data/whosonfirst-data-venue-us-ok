@@ -2,13 +2,14 @@
   "id": 220160841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.833603,36.262001,-95.833603,36.262001",
     "geom:latitude":36.262001,
     "geom:longitude":-95.833603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7410 N 127th East Ave",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220160841,
-    "wof:lastmodified":1449074735,
+    "wof:lastmodified":1466762298,
     "wof:name":"Baptist Village of Owasso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.833603,36.262001,-95.833603,36.262001],
+  "bbox": [
+    -95.833603,
+    36.262001,
+    -95.833603,
+    36.262001
+],
   "geometry": {"coordinates":[-95.833603,36.262001],"type":"Point"}
 }

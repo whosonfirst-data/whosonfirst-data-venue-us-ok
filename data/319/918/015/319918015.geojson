@@ -2,13 +2,14 @@
   "id": 319918015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.506278,35.714991,-97.506278,35.714991",
     "geom:latitude":35.714991,
     "geom:longitude":-97.506278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5817 Chestnut Ct",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319918015,
-    "wof:lastmodified":1449024604,
+    "wof:lastmodified":1466764223,
     "wof:name":"Burke Group LL",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.506278,35.714991,-97.506278,35.714991],
-  "geometry": {"coordinates":[-97.506278,35.714991],"type":"Point"}
+  "bbox": [
+    -97.506278,
+    35.714991,
+    -97.506278,
+    35.714991
+],
+  "geometry": {"coordinates":[-97.50627799999999,35.714991],"type":"Point"}
 }

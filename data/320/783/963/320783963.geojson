@@ -2,13 +2,14 @@
   "id": 320783963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.949557,34.647454,-97.949557,34.647454",
     "geom:latitude":34.647454,
     "geom:longitude":-97.949557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 E Main St",
     "sg:city":"Marlow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320783963,
-    "wof:lastmodified":1449011379,
+    "wof:lastmodified":1466766678,
     "wof:name":"Speed Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.949557,34.647454,-97.949557,34.647454],
+  "bbox": [
+    -97.949557,
+    34.647454,
+    -97.949557,
+    34.647454
+],
   "geometry": {"coordinates":[-97.949557,34.647454],"type":"Point"}
 }

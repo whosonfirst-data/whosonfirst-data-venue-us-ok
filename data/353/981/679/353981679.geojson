@@ -2,13 +2,14 @@
   "id": 353981679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.385201,34.59684,-98.385201,34.59684",
     "geom:latitude":34.59684,
     "geom:longitude":-98.385201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 SE 1st St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353981679,
-    "wof:lastmodified":1449020851,
+    "wof:lastmodified":1466766019,
     "wof:name":"P Cupit",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-98.385201,34.59684,-98.385201,34.59684],
+  "bbox": [
+    -98.385201,
+    34.59684,
+    -98.385201,
+    34.59684
+],
   "geometry": {"coordinates":[-98.385201,34.59684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336633727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.007276,36.118099,-96.007276,36.118099",
     "geom:latitude":36.118099,
     "geom:longitude":-96.007276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3230 Southwest Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336633727,
-    "wof:lastmodified":1448997995,
+    "wof:lastmodified":1466764265,
     "wof:name":"Rush Truck Rigging",
     "wof:parent_id":85821015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "truck"
     ]
 },
-  "bbox": [-96.007276,36.118099,-96.007276,36.118099],
+  "bbox": [
+    -96.007276,
+    36.118099,
+    -96.007276,
+    36.118099
+],
   "geometry": {"coordinates":[-96.007276,36.118099],"type":"Point"}
 }

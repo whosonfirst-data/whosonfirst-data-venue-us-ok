@@ -2,13 +2,14 @@
   "id": 303790523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.515453,35.484773,-97.515453,35.484773",
     "geom:latitude":35.484773,
     "geom:longitude":-97.515453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 NW 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303790523,
-    "wof:lastmodified":1448999994,
+    "wof:lastmodified":1466766719,
     "wof:name":"Aberdeen Square Apartments",
     "wof:parent_id":85871669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.515453,35.484773,-97.515453,35.484773],
-  "geometry": {"coordinates":[-97.515453,35.484773],"type":"Point"}
+  "bbox": [
+    -97.515453,
+    35.484773,
+    -97.515453,
+    35.484773
+],
+  "geometry": {"coordinates":[-97.51545299999999,35.484773],"type":"Point"}
 }

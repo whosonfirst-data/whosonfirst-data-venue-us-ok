@@ -2,13 +2,14 @@
   "id": 336598205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.654986,35.460485,-97.654986,35.460485",
     "geom:latitude":35.460485,
     "geom:longitude":-97.654986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8200 W I- 40 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336598205,
-    "wof:lastmodified":1448996968,
+    "wof:lastmodified":1466764125,
     "wof:name":"Paladin CB",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "radio"
     ]
 },
-  "bbox": [-97.654986,35.460485,-97.654986,35.460485],
-  "geometry": {"coordinates":[-97.654986,35.460485],"type":"Point"}
+  "bbox": [
+    -97.654986,
+    35.460485,
+    -97.654986,
+    35.460485
+],
+  "geometry": {"coordinates":[-97.65498599999999,35.460485],"type":"Point"}
 }

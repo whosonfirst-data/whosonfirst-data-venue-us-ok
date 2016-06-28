@@ -2,13 +2,14 @@
   "id": 235931485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940098,36.11517,-95.940098,36.11517",
     "geom:latitude":36.11517,
     "geom:longitude":-95.940098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3315 E 33rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235931485,
-    "wof:lastmodified":1449008585,
+    "wof:lastmodified":1466762385,
     "wof:name":"Tulsa School Of Ballet",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.940098,36.11517,-95.940098,36.11517],
-  "geometry": {"coordinates":[-95.940098,36.11517],"type":"Point"}
+  "bbox": [
+    -95.940098,
+    36.11517,
+    -95.940098,
+    36.11517
+],
+  "geometry": {"coordinates":[-95.94009800000001,36.11517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320849723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.84576,36.205936,-95.84576,36.205936",
     "geom:latitude":36.205936,
     "geom:longitude":-95.84576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12790 E 36th St N",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320849723,
-    "wof:lastmodified":1449011946,
+    "wof:lastmodified":1466766872,
     "wof:name":"APAC",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crane"
     ]
 },
-  "bbox": [-95.84576,36.205936,-95.84576,36.205936],
+  "bbox": [
+    -95.84576,
+    36.205936,
+    -95.84576,
+    36.205936
+],
   "geometry": {"coordinates":[-95.84576,36.205936],"type":"Point"}
 }

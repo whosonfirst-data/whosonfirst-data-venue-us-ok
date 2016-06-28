@@ -2,13 +2,14 @@
   "id": 336815081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.949902,36.03819,-95.949902,36.03819",
     "geom:latitude":36.03819,
     "geom:longitude":-95.949902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 E 88th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336815081,
-    "wof:lastmodified":1448997477,
+    "wof:lastmodified":1466764750,
     "wof:name":"HBS Funding",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-95.949902,36.03819,-95.949902,36.03819],
-  "geometry": {"coordinates":[-95.949902,36.03819],"type":"Point"}
+  "bbox": [
+    -95.949902,
+    36.03819,
+    -95.949902,
+    36.03819
+],
+  "geometry": {"coordinates":[-95.94990199999999,36.03819],"type":"Point"}
 }

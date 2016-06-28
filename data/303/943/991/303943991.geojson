@@ -2,13 +2,14 @@
   "id": 303943991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.090586,34.146249,-97.090586,34.146249",
     "geom:latitude":34.146249,
     "geom:longitude":-97.090586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 N Harvey Rd",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303943991,
-    "wof:lastmodified":1448998757,
+    "wof:lastmodified":1466767031,
     "wof:name":"Akins Concrete Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-97.090586,34.146249,-97.090586,34.146249],
+  "bbox": [
+    -97.090586,
+    34.146249,
+    -97.090586,
+    34.146249
+],
   "geometry": {"coordinates":[-97.090586,34.146249],"type":"Point"}
 }

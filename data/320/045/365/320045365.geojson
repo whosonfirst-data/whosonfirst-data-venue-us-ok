@@ -2,13 +2,14 @@
   "id": 320045365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.409058,34.607563,-98.409058,34.607563",
     "geom:latitude":34.607563,
     "geom:longitude":-98.409058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 SW A Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320045365,
-    "wof:lastmodified":1449014522,
+    "wof:lastmodified":1466762965,
     "wof:name":"Property Management Resources",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.409058,34.607563,-98.409058,34.607563],
+  "bbox": [
+    -98.409058,
+    34.607563,
+    -98.409058,
+    34.607563
+],
   "geometry": {"coordinates":[-98.409058,34.607563],"type":"Point"}
 }

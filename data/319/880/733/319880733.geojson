@@ -2,13 +2,14 @@
   "id": 319880733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534653,35.435316,-97.534653,35.435316",
     "geom:latitude":35.435316,
     "geom:longitude":-97.534653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1145 SW 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":319880733,
-    "wof:lastmodified":1449024880,
+    "wof:lastmodified":1466763424,
     "wof:name":"Wilson's Decorative Ctr",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.534653,35.435316,-97.534653,35.435316],
-  "geometry": {"coordinates":[-97.534653,35.435316],"type":"Point"}
+  "bbox": [
+    -97.534653,
+    35.435316,
+    -97.534653,
+    35.435316
+],
+  "geometry": {"coordinates":[-97.53465300000001,35.435316],"type":"Point"}
 }

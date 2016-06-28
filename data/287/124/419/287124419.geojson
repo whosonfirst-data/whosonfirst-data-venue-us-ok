@@ -2,13 +2,14 @@
   "id": 287124419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.954743,34.782711,-97.954743,34.782711",
     "geom:latitude":34.782711,
     "geom:longitude":-97.954743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Blakeley Ave",
     "sg:city":"Rush Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287124419,
-    "wof:lastmodified":1449001521,
+    "wof:lastmodified":1466763580,
     "wof:name":"Kyle Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.954743,34.782711,-97.954743,34.782711],
-  "geometry": {"coordinates":[-97.954743,34.782711],"type":"Point"}
+  "bbox": [
+    -97.954743,
+    34.782711,
+    -97.954743,
+    34.782711
+],
+  "geometry": {"coordinates":[-97.95474299999999,34.782711],"type":"Point"}
 }

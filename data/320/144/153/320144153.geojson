@@ -2,13 +2,14 @@
   "id": 320144153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.3278,35.179062,-97.3278,35.179062",
     "geom:latitude":35.179062,
     "geom:longitude":-97.3278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3360 Allspice Run",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320144153,
-    "wof:lastmodified":1449013992,
+    "wof:lastmodified":1466764366,
     "wof:name":"Support Services Engineering",
     "wof:parent_id":85814357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-97.3278,35.179062,-97.3278,35.179062],
+  "bbox": [
+    -97.3278,
+    35.179062,
+    -97.3278,
+    35.179062
+],
   "geometry": {"coordinates":[-97.3278,35.179062],"type":"Point"}
 }

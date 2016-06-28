@@ -2,13 +2,14 @@
   "id": 353957081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.085304,36.714556,-97.085304,36.714556",
     "geom:latitude":36.714556,
     "geom:longitude":-97.085304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1032 N Union St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353957081,
-    "wof:lastmodified":1449020438,
+    "wof:lastmodified":1466765851,
     "wof:name":"Palmer's Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.085304,36.714556,-97.085304,36.714556],
-  "geometry": {"coordinates":[-97.085304,36.714556],"type":"Point"}
+  "bbox": [
+    -97.085304,
+    36.714556,
+    -97.085304,
+    36.714556
+],
+  "geometry": {"coordinates":[-97.08530399999999,36.714556],"type":"Point"}
 }

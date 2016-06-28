@@ -2,13 +2,14 @@
   "id": 303616001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.190808,35.658662,-97.190808,35.658662",
     "geom:latitude":35.658662,
     "geom:longitude":-97.190808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 S Dogwood St",
     "sg:city":"Luther",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303616001,
-    "wof:lastmodified":1448999916,
+    "wof:lastmodified":1466766368,
     "wof:name":"Luther Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.190808,35.658662,-97.190808,35.658662],
+  "bbox": [
+    -97.190808,
+    35.658662,
+    -97.190808,
+    35.658662
+],
   "geometry": {"coordinates":[-97.190808,35.658662],"type":"Point"}
 }

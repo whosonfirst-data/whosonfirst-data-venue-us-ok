@@ -2,13 +2,14 @@
   "id": 303896273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.669705,36.087918,-96.669705,36.087918",
     "geom:latitude":36.087918,
     "geom:longitude":-96.669705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26815 E 32nd St",
     "sg:city":"Yale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303896273,
-    "wof:lastmodified":1448999011,
+    "wof:lastmodified":1466766945,
     "wof:name":"Speers Alvy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.669705,36.087918,-96.669705,36.087918],
-  "geometry": {"coordinates":[-96.669705,36.087918],"type":"Point"}
+  "bbox": [
+    -96.669705,
+    36.087918,
+    -96.669705,
+    36.087918
+],
+  "geometry": {"coordinates":[-96.66970499999999,36.087918],"type":"Point"}
 }

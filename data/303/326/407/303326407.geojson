@@ -2,13 +2,14 @@
   "id": 303326407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.598115,35.606175,-97.598115,35.606175",
     "geom:latitude":35.606175,
     "geom:longitude":-97.598115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4205 McAuley Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303326407,
-    "wof:lastmodified":1448999161,
+    "wof:lastmodified":1466765056,
     "wof:name":"Mercy Health Direct",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "information"
     ]
 },
-  "bbox": [-97.598115,35.606175,-97.598115,35.606175],
-  "geometry": {"coordinates":[-97.598115,35.606175],"type":"Point"}
+  "bbox": [
+    -97.598115,
+    35.606175,
+    -97.598115,
+    35.606175
+],
+  "geometry": {"coordinates":[-97.59811500000001,35.606175],"type":"Point"}
 }

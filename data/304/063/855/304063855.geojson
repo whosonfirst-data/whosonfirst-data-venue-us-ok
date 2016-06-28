@@ -2,13 +2,14 @@
   "id": 304063855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.968063,36.11367,-95.968063,36.11367",
     "geom:latitude":36.11367,
     "geom:longitude":-95.968063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3337 S Troost Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304063855,
-    "wof:lastmodified":1449043613,
+    "wof:lastmodified":1466763196,
     "wof:name":"Ford Engineering",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-95.968063,36.11367,-95.968063,36.11367],
+  "bbox": [
+    -95.968063,
+    36.11367,
+    -95.968063,
+    36.11367
+],
   "geometry": {"coordinates":[-95.968063,36.11367],"type":"Point"}
 }

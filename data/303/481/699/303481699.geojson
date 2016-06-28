@@ -2,13 +2,14 @@
   "id": 303481699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.053498,36.107052,-97.053498,36.107052",
     "geom:latitude":36.107052,
     "geom:longitude":-97.053498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 E 14th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303481699,
-    "wof:lastmodified":1449000250,
+    "wof:lastmodified":1466765780,
     "wof:name":"Bible Missionary Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.053498,36.107052,-97.053498,36.107052],
+  "bbox": [
+    -97.053498,
+    36.107052,
+    -97.053498,
+    36.107052
+],
   "geometry": {"coordinates":[-97.053498,36.107052],"type":"Point"}
 }

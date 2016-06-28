@@ -2,13 +2,14 @@
   "id": 303742993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.610054,34.231987,-95.610054,34.231987",
     "geom:latitude":34.231987,
     "geom:longitude":-95.610054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 E Main St",
     "sg:city":"Antlers",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303742993,
-    "wof:lastmodified":1448998280,
+    "wof:lastmodified":1466766597,
     "wof:name":"Bearcat Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-95.610054,34.231987,-95.610054,34.231987],
-  "geometry": {"coordinates":[-95.610054,34.231987],"type":"Point"}
+  "bbox": [
+    -95.610054,
+    34.231987,
+    -95.610054,
+    34.231987
+],
+  "geometry": {"coordinates":[-95.61005400000001,34.231987],"type":"Point"}
 }

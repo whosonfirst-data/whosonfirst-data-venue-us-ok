@@ -2,13 +2,14 @@
   "id": 353656775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.986105,34.509862,-96.986105,34.509862",
     "geom:latitude":34.509862,
     "geom:longitude":-96.986105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 W Wynnewood Ave",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353656775,
-    "wof:lastmodified":1449019908,
+    "wof:lastmodified":1466764545,
     "wof:name":"Beauty World Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.986105,34.509862,-96.986105,34.509862],
-  "geometry": {"coordinates":[-96.986105,34.509862],"type":"Point"}
+  "bbox": [
+    -96.986105,
+    34.509862,
+    -96.986105,
+    34.509862
+],
+  "geometry": {"coordinates":[-96.98610499999999,34.509862],"type":"Point"}
 }

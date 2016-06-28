@@ -2,13 +2,14 @@
   "id": 354010807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.899223,36.160658,-95.899223,36.160658",
     "geom:latitude":36.160658,
     "geom:longitude":-95.899223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6914 E Admiral Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354010807,
-    "wof:lastmodified":1449067009,
+    "wof:lastmodified":1466763002,
     "wof:name":"Quik Print",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-95.899223,36.160658,-95.899223,36.160658],
-  "geometry": {"coordinates":[-95.899223,36.160658],"type":"Point"}
+  "bbox": [
+    -95.899223,
+    36.160658,
+    -95.899223,
+    36.160658
+],
+  "geometry": {"coordinates":[-95.89922300000001,36.160658],"type":"Point"}
 }

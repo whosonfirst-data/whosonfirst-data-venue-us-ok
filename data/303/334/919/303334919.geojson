@@ -2,13 +2,14 @@
   "id": 303334919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.331025,34.650381,-99.331025,34.650381",
     "geom:latitude":34.650381,
     "geom:longitude":-99.331025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Falcon Rd",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303334919,
-    "wof:lastmodified":1448998829,
+    "wof:lastmodified":1466764998,
     "wof:name":"Pacer Computer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-99.331025,34.650381,-99.331025,34.650381],
+  "bbox": [
+    -99.331025,
+    34.650381,
+    -99.331025,
+    34.650381
+],
   "geometry": {"coordinates":[-99.331025,34.650381],"type":"Point"}
 }

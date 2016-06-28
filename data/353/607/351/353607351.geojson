@@ -2,13 +2,14 @@
   "id": 353607351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.910406,36.742573,-95.910406,36.742573",
     "geom:latitude":36.742573,
     "geom:longitude":-95.910406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6006 SE Adams Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353607351,
-    "wof:lastmodified":1449018593,
+    "wof:lastmodified":1466764418,
     "wof:name":"Silver Lake Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-95.910406,36.742573,-95.910406,36.742573],
-  "geometry": {"coordinates":[-95.910406,36.742573],"type":"Point"}
+  "bbox": [
+    -95.910406,
+    36.742573,
+    -95.910406,
+    36.742573
+],
+  "geometry": {"coordinates":[-95.91040599999999,36.742573],"type":"Point"}
 }

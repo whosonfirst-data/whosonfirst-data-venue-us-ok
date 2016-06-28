@@ -2,13 +2,14 @@
   "id": 336682217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.516297,35.458195,-97.516297,35.458195",
     "geom:latitude":35.458195,
     "geom:longitude":-97.516297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 S Robinson Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336682217,
-    "wof:lastmodified":1448997131,
+    "wof:lastmodified":1466763446,
     "wof:name":"Pat Smith Used Cars",
     "wof:parent_id":85871685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.516297,35.458195,-97.516297,35.458195],
-  "geometry": {"coordinates":[-97.516297,35.458195],"type":"Point"}
+  "bbox": [
+    -97.516297,
+    35.458195,
+    -97.516297,
+    35.458195
+],
+  "geometry": {"coordinates":[-97.51629699999999,35.458195],"type":"Point"}
 }

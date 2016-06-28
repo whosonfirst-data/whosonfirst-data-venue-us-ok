@@ -2,13 +2,14 @@
   "id": 303155771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975664,36.095344,-95.975664,36.095344",
     "geom:latitude":36.095344,
     "geom:longitude":-95.975664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4611 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303155771,
-    "wof:lastmodified":1449000134,
+    "wof:lastmodified":1466764128,
     "wof:name":"Beth Watts Salon",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.975664,36.095344,-95.975664,36.095344],
-  "geometry": {"coordinates":[-95.975664,36.095344],"type":"Point"}
+  "bbox": [
+    -95.975664,
+    36.095344,
+    -95.975664,
+    36.095344
+],
+  "geometry": {"coordinates":[-95.97566399999999,36.095344],"type":"Point"}
 }

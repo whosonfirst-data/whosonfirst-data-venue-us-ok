@@ -2,13 +2,14 @@
   "id": 319920755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.852629,36.264097,-95.852629,36.264097",
     "geom:latitude":36.264097,
     "geom:longitude":-95.852629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E 2nd Ave",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319920755,
-    "wof:lastmodified":1449024702,
+    "wof:lastmodified":1466763835,
     "wof:name":"Rams Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.852629,36.264097,-95.852629,36.264097],
-  "geometry": {"coordinates":[-95.852629,36.264097],"type":"Point"}
+  "bbox": [
+    -95.852629,
+    36.264097,
+    -95.852629,
+    36.264097
+],
+  "geometry": {"coordinates":[-95.85262899999999,36.264097],"type":"Point"}
 }

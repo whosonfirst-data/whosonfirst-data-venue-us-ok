@@ -2,13 +2,14 @@
   "id": 303985573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.641031,35.462142,-97.641031,35.462142",
     "geom:latitude":35.462142,
     "geom:longitude":-97.641031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7100 SW 3rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303985573,
-    "wof:lastmodified":1448999333,
+    "wof:lastmodified":1466767119,
     "wof:name":"OCT Equipment Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.641031,35.462142,-97.641031,35.462142],
+  "bbox": [
+    -97.641031,
+    35.462142,
+    -97.641031,
+    35.462142
+],
   "geometry": {"coordinates":[-97.641031,35.462142],"type":"Point"}
 }

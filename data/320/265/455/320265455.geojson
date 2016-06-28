@@ -2,13 +2,14 @@
   "id": 320265455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.445483,35.643645,-97.445483,35.643645",
     "geom:latitude":35.643645,
     "geom:longitude":-97.445483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Sandhurst Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320265455,
-    "wof:lastmodified":1449012548,
+    "wof:lastmodified":1466764874,
     "wof:name":"Contractor Capital",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.445483,35.643645,-97.445483,35.643645],
+  "bbox": [
+    -97.445483,
+    35.643645,
+    -97.445483,
+    35.643645
+],
   "geometry": {"coordinates":[-97.445483,35.643645],"type":"Point"}
 }

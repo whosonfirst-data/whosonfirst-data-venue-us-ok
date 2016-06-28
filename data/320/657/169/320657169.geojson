@@ -2,13 +2,14 @@
   "id": 320657169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.624809,35.565543,-97.624809,35.565543",
     "geom:latitude":35.565543,
     "geom:longitude":-97.624809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6064 W Britton Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320657169,
-    "wof:lastmodified":1449011665,
+    "wof:lastmodified":1466766335,
     "wof:name":"Carusi Camelot",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-97.624809,35.565543,-97.624809,35.565543],
+  "bbox": [
+    -97.624809,
+    35.565543,
+    -97.624809,
+    35.565543
+],
   "geometry": {"coordinates":[-97.624809,35.565543],"type":"Point"}
 }

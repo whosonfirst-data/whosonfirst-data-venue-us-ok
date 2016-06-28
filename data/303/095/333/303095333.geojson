@@ -2,13 +2,14 @@
   "id": 303095333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.545486,35.475829,-97.545486,35.475829",
     "geom:latitude":35.475829,
     "geom:longitude":-97.545486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 NW 7th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303095333,
-    "wof:lastmodified":1448999364,
+    "wof:lastmodified":1466763162,
     "wof:name":"Gurkees Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.545486,35.475829,-97.545486,35.475829],
+  "bbox": [
+    -97.545486,
+    35.475829,
+    -97.545486,
+    35.475829
+],
   "geometry": {"coordinates":[-97.545486,35.475829],"type":"Point"}
 }

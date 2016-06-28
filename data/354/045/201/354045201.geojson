@@ -2,13 +2,14 @@
   "id": 354045201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.052707,36.10905,-97.052707,36.10905",
     "geom:latitude":36.10905,
     "geom:longitude":-97.052707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 E 12th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354045201,
-    "wof:lastmodified":1449067475,
+    "wof:lastmodified":1466763249,
     "wof:name":"Gatesway West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-97.052707,36.10905,-97.052707,36.10905],
+  "bbox": [
+    -97.052707,
+    36.10905,
+    -97.052707,
+    36.10905
+],
   "geometry": {"coordinates":[-97.052707,36.10905],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287255711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.937718,34.50386,-97.937718,34.50386",
     "geom:latitude":34.50386,
     "geom:longitude":-97.937718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 N G St",
     "sg:city":"Walters",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287255711,
-    "wof:lastmodified":1449001059,
+    "wof:lastmodified":1466762774,
     "wof:name":"Spence Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.937718,34.50386,-97.937718,34.50386],
+  "bbox": [
+    -97.937718,
+    34.50386,
+    -97.937718,
+    34.50386
+],
   "geometry": {"coordinates":[-97.937718,34.50386],"type":"Point"}
 }

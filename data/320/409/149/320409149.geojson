@@ -2,13 +2,14 @@
   "id": 320409149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.075871,36.05043,-96.075871,36.05043",
     "geom:latitude":36.05043,
     "geom:longitude":-96.075871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7905 New Sapulpa Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320409149,
-    "wof:lastmodified":1449012800,
+    "wof:lastmodified":1466765759,
     "wof:name":"Black Gold Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-96.075871,36.05043,-96.075871,36.05043],
-  "geometry": {"coordinates":[-96.075871,36.05043],"type":"Point"}
+  "bbox": [
+    -96.075871,
+    36.05043,
+    -96.075871,
+    36.05043
+],
+  "geometry": {"coordinates":[-96.07587100000001,36.05043],"type":"Point"}
 }

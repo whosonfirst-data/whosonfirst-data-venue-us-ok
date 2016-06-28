@@ -2,13 +2,14 @@
   "id": 353959501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.839121,36.356839,-95.839121,36.356839",
     "geom:latitude":36.356839,
     "geom:longitude":-95.839121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S 12th St",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353959501,
-    "wof:lastmodified":1449020553,
+    "wof:lastmodified":1466765855,
     "wof:name":"Eds Paint Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.839121,36.356839,-95.839121,36.356839],
-  "geometry": {"coordinates":[-95.839121,36.356839],"type":"Point"}
+  "bbox": [
+    -95.839121,
+    36.356839,
+    -95.839121,
+    36.356839
+],
+  "geometry": {"coordinates":[-95.83912100000001,36.356839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320102275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.481641,36.682866,-101.481641,36.682866",
     "geom:latitude":36.682866,
     "geom:longitude":-101.481641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 N Main St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320102275,
-    "wof:lastmodified":1449014680,
+    "wof:lastmodified":1466763798,
     "wof:name":"F & S Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mower"
     ]
 },
-  "bbox": [-101.481641,36.682866,-101.481641,36.682866],
+  "bbox": [
+    -101.481641,
+    36.682866,
+    -101.481641,
+    36.682866
+],
   "geometry": {"coordinates":[-101.481641,36.682866],"type":"Point"}
 }

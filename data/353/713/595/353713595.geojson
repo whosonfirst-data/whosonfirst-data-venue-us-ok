@@ -2,13 +2,14 @@
   "id": 353713595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.640071,35.29452,-99.640071,35.29452",
     "geom:latitude":35.29452,
     "geom:longitude":-99.640071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 US Hwy 66",
     "sg:city":"Sayre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353713595,
-    "wof:lastmodified":1449020570,
+    "wof:lastmodified":1466765051,
     "wof:name":"Park Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.640071,35.29452,-99.640071,35.29452],
-  "geometry": {"coordinates":[-99.640071,35.29452],"type":"Point"}
+  "bbox": [
+    -99.640071,
+    35.29452,
+    -99.640071,
+    35.29452
+],
+  "geometry": {"coordinates":[-99.64007100000001,35.29452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303513105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.485372,35.761441,-97.485372,35.761441",
     "geom:latitude":35.761441,
     "geom:longitude":-97.485372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10120 N Chisholm Trail Blvd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303513105,
-    "wof:lastmodified":1448999737,
+    "wof:lastmodified":1466765903,
     "wof:name":"Matthews Plumbing",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.485372,35.761441,-97.485372,35.761441],
+  "bbox": [
+    -97.485372,
+    35.761441,
+    -97.485372,
+    35.761441
+],
   "geometry": {"coordinates":[-97.485372,35.761441],"type":"Point"}
 }

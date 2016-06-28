@@ -2,13 +2,14 @@
   "id": 320603323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.974095,35.318691,-96.974095,35.318691",
     "geom:latitude":35.318691,
     "geom:longitude":-96.974095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38500 Clear Pond Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320603323,
-    "wof:lastmodified":1449014396,
+    "wof:lastmodified":1466766289,
     "wof:name":"Total Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "care"
     ]
 },
-  "bbox": [-96.974095,35.318691,-96.974095,35.318691],
-  "geometry": {"coordinates":[-96.974095,35.318691],"type":"Point"}
+  "bbox": [
+    -96.974095,
+    35.318691,
+    -96.974095,
+    35.318691
+],
+  "geometry": {"coordinates":[-96.97409500000001,35.318691],"type":"Point"}
 }

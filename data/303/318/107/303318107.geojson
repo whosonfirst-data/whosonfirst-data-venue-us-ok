@@ -2,13 +2,14 @@
   "id": 303318107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.33297,34.589051,-98.33297,34.589051",
     "geom:latitude":34.589051,
     "geom:longitude":-98.33297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 SE Indiana Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303318107,
-    "wof:lastmodified":1448998655,
+    "wof:lastmodified":1466765025,
     "wof:name":"P&M Trucking Co",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.33297,34.589051,-98.33297,34.589051],
+  "bbox": [
+    -98.33297,
+    34.589051,
+    -98.33297,
+    34.589051
+],
   "geometry": {"coordinates":[-98.33297,34.589051],"type":"Point"}
 }

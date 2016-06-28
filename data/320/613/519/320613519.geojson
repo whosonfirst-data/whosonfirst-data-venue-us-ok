@@ -2,13 +2,14 @@
   "id": 320613519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.467415,36.675127,-101.467415,36.675127",
     "geom:latitude":36.675127,
     "geom:longitude":-101.467415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Morgan St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320613519,
-    "wof:lastmodified":1449012998,
+    "wof:lastmodified":1466766311,
     "wof:name":"Lothman Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.467415,36.675127,-101.467415,36.675127],
+  "bbox": [
+    -101.467415,
+    36.675127,
+    -101.467415,
+    36.675127
+],
   "geometry": {"coordinates":[-101.467415,36.675127],"type":"Point"}
 }

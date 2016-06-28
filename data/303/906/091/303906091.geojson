@@ -2,13 +2,14 @@
   "id": 303906091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.555921,35.450641,-97.555921,35.450641",
     "geom:latitude":35.450641,
     "geom:longitude":-97.555921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 SW 14th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303906091,
-    "wof:lastmodified":1448999045,
+    "wof:lastmodified":1466766972,
     "wof:name":"Tnt Print",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-97.555921,35.450641,-97.555921,35.450641],
+  "bbox": [
+    -97.555921,
+    35.450641,
+    -97.555921,
+    35.450641
+],
   "geometry": {"coordinates":[-97.555921,35.450641],"type":"Point"}
 }

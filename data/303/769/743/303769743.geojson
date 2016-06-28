@@ -2,13 +2,14 @@
   "id": 303769743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.523969,35.525206,-97.523969,35.525206",
     "geom:latitude":35.525206,
     "geom:longitude":-97.523969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5313 Aspen Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303769743,
-    "wof:lastmodified":1448998930,
+    "wof:lastmodified":1466766671,
     "wof:name":"The Peer Group Inc",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-97.523969,35.525206,-97.523969,35.525206],
-  "geometry": {"coordinates":[-97.523969,35.525206],"type":"Point"}
+  "bbox": [
+    -97.523969,
+    35.525206,
+    -97.523969,
+    35.525206
+],
+  "geometry": {"coordinates":[-97.52396899999999,35.525206],"type":"Point"}
 }

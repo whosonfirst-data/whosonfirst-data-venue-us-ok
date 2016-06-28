@@ -2,13 +2,14 @@
   "id": 320196683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.921135,34.680439,-99.921135,34.680439",
     "geom:latitude":34.680439,
     "geom:longitude":-99.921135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 S 1st St",
     "sg:city":"Hollis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320196683,
-    "wof:lastmodified":1449012101,
+    "wof:lastmodified":1466764453,
     "wof:name":"Harmon County District No 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.921135,34.680439,-99.921135,34.680439],
-  "geometry": {"coordinates":[-99.921135,34.680439],"type":"Point"}
+  "bbox": [
+    -99.921135,
+    34.680439,
+    -99.921135,
+    34.680439
+],
+  "geometry": {"coordinates":[-99.92113500000001,34.680439],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303176895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.78477,34.097253,-96.78477,34.097253",
     "geom:latitude":34.097253,
     "geom:longitude":-96.78477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Mockingbird Ln",
     "sg:city":"Madill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303176895,
-    "wof:lastmodified":1448999714,
+    "wof:lastmodified":1466764317,
     "wof:name":"Neil Duncan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "gun"
     ]
 },
-  "bbox": [-96.78477,34.097253,-96.78477,34.097253],
-  "geometry": {"coordinates":[-96.78477,34.097253],"type":"Point"}
+  "bbox": [
+    -96.78477,
+    34.097253,
+    -96.78477,
+    34.097253
+],
+  "geometry": {"coordinates":[-96.78476999999999,34.097253],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353691155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.402507,35.449727,-97.402507,35.449727",
     "geom:latitude":35.449727,
     "geom:longitude":-97.402507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7023 SE 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353691155,
-    "wof:lastmodified":1449018471,
+    "wof:lastmodified":1466764965,
     "wof:name":"Larkin Engineering Co",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-97.402507,35.449727,-97.402507,35.449727],
+  "bbox": [
+    -97.402507,
+    35.449727,
+    -97.402507,
+    35.449727
+],
   "geometry": {"coordinates":[-97.402507,35.449727],"type":"Point"}
 }

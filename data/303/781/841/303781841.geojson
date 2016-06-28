@@ -2,13 +2,14 @@
   "id": 303781841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.413335,35.493113,-97.413335,35.493113",
     "geom:latitude":35.493113,
     "geom:longitude":-97.413335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6618 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303781841,
-    "wof:lastmodified":1448998573,
+    "wof:lastmodified":1466766707,
     "wof:name":"B & S Auto Collections",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.413335,35.493113,-97.413335,35.493113],
+  "bbox": [
+    -97.413335,
+    35.493113,
+    -97.413335,
+    35.493113
+],
   "geometry": {"coordinates":[-97.413335,35.493113],"type":"Point"}
 }

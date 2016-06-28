@@ -2,13 +2,14 @@
   "id": 303120965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.829146,36.39067,-97.829146,36.39067",
     "geom:latitude":36.39067,
     "geom:longitude":-97.829146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 E Market St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303120965,
-    "wof:lastmodified":1449000211,
+    "wof:lastmodified":1466763572,
     "wof:name":"Hole In The Wall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "night"
     ]
 },
-  "bbox": [-97.829146,36.39067,-97.829146,36.39067],
-  "geometry": {"coordinates":[-97.829146,36.39067],"type":"Point"}
+  "bbox": [
+    -97.829146,
+    36.39067,
+    -97.829146,
+    36.39067
+],
+  "geometry": {"coordinates":[-97.82914599999999,36.39067],"type":"Point"}
 }

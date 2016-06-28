@@ -2,13 +2,14 @@
   "id": 320415861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.610044,35.464152,-97.610044,35.464152",
     "geom:latitude":35.464152,
     "geom:longitude":-97.610044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 N Ann Arbor Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320415861,
-    "wof:lastmodified":1449013952,
+    "wof:lastmodified":1466765887,
     "wof:name":"Air Liquide America LP",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dioxide"
     ]
 },
-  "bbox": [-97.610044,35.464152,-97.610044,35.464152],
+  "bbox": [
+    -97.610044,
+    35.464152,
+    -97.610044,
+    35.464152
+],
   "geometry": {"coordinates":[-97.610044,35.464152],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354066079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.596724,35.447324,-97.596724,35.447324",
     "geom:latitude":35.447324,
     "geom:longitude":-97.596724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 SW 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354066079,
-    "wof:lastmodified":1449066400,
+    "wof:lastmodified":1466763371,
     "wof:name":"West Recycle Yard",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-97.596724,35.447324,-97.596724,35.447324],
-  "geometry": {"coordinates":[-97.596724,35.447324],"type":"Point"}
+  "bbox": [
+    -97.596724,
+    35.447324,
+    -97.596724,
+    35.447324
+],
+  "geometry": {"coordinates":[-97.59672399999999,35.447324],"type":"Point"}
 }

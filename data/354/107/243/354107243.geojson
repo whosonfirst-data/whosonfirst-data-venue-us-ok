@@ -2,13 +2,14 @@
   "id": 354107243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565686,35.478615,-97.565686,35.478615",
     "geom:latitude":35.478615,
     "geom:longitude":-97.565686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354107243,
-    "wof:lastmodified":1449065935,
+    "wof:lastmodified":1466763533,
     "wof:name":"Faith Fellowship Church",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.565686,35.478615,-97.565686,35.478615],
+  "bbox": [
+    -97.565686,
+    35.478615,
+    -97.565686,
+    35.478615
+],
   "geometry": {"coordinates":[-97.565686,35.478615],"type":"Point"}
 }

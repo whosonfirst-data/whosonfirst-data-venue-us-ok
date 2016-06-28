@@ -2,13 +2,14 @@
   "id": 303169567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530195,35.394481,-97.530195,35.394481",
     "geom:latitude":35.394481,
     "geom:longitude":-97.530195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7119 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303169567,
-    "wof:lastmodified":1448999629,
+    "wof:lastmodified":1466764281,
     "wof:name":"South Central Insurance LLP",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.530195,35.394481,-97.530195,35.394481],
-  "geometry": {"coordinates":[-97.530195,35.394481],"type":"Point"}
+  "bbox": [
+    -97.530195,
+    35.394481,
+    -97.530195,
+    35.394481
+],
+  "geometry": {"coordinates":[-97.53019500000001,35.394481],"type":"Point"}
 }

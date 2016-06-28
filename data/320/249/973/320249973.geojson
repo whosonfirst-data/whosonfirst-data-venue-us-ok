@@ -2,13 +2,14 @@
   "id": 320249973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.536783,35.495332,-97.536783,35.495332",
     "geom:latitude":35.495332,
     "geom:longitude":-97.536783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 NW 25th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320249973,
-    "wof:lastmodified":1449011442,
+    "wof:lastmodified":1466764861,
     "wof:name":"Wesley United Methodist Church",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.536783,35.495332,-97.536783,35.495332],
+  "bbox": [
+    -97.536783,
+    35.495332,
+    -97.536783,
+    35.495332
+],
   "geometry": {"coordinates":[-97.536783,35.495332],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320684665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.997194,35.95912,-95.997194,35.95912",
     "geom:latitude":35.95912,
     "geom:longitude":-95.997194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 E 141st St",
     "sg:city":"Glenpool",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320684665,
-    "wof:lastmodified":1449012188,
+    "wof:lastmodified":1466766508,
     "wof:name":"Glenpool Library",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.997194,35.95912,-95.997194,35.95912],
-  "geometry": {"coordinates":[-95.997194,35.95912],"type":"Point"}
+  "bbox": [
+    -95.997194,
+    35.95912,
+    -95.997194,
+    35.95912
+],
+  "geometry": {"coordinates":[-95.99719399999999,35.95912],"type":"Point"}
 }

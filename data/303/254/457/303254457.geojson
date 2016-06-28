@@ -2,13 +2,14 @@
   "id": 303254457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.033126,34.957944,-97.033126,34.957944",
     "geom:latitude":34.957944,
     "geom:longitude":-97.033126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Elmer Ave",
     "sg:city":"Wanette",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303254457,
-    "wof:lastmodified":1448999798,
+    "wof:lastmodified":1466764728,
     "wof:name":"US Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-97.033126,34.957944,-97.033126,34.957944],
+  "bbox": [
+    -97.033126,
+    34.957944,
+    -97.033126,
+    34.957944
+],
   "geometry": {"coordinates":[-97.033126,34.957944],"type":"Point"}
 }

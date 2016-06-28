@@ -2,13 +2,14 @@
   "id": 337370933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.440096,35.211182,-97.440096,35.211182",
     "geom:latitude":35.211182,
     "geom:longitude":-97.440096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 E Boyd St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337370933,
-    "wof:lastmodified":1449027387,
+    "wof:lastmodified":1466763779,
     "wof:name":"Vogue Beauty Salon",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.440096,35.211182,-97.440096,35.211182],
+  "bbox": [
+    -97.440096,
+    35.211182,
+    -97.440096,
+    35.211182
+],
   "geometry": {"coordinates":[-97.440096,35.211182],"type":"Point"}
 }

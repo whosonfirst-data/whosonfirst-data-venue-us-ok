@@ -2,13 +2,14 @@
   "id": 353798353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.879149,36.585436,-98.879149,36.585436",
     "geom:latitude":36.585436,
     "geom:longitude":-98.879149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 E Cecil St",
     "sg:city":"Waynoka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353798353,
-    "wof:lastmodified":1449018724,
+    "wof:lastmodified":1466765229,
     "wof:name":"London Fish & Chips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.879149,36.585436,-98.879149,36.585436],
+  "bbox": [
+    -98.879149,
+    36.585436,
+    -98.879149,
+    36.585436
+],
   "geometry": {"coordinates":[-98.879149,36.585436],"type":"Point"}
 }

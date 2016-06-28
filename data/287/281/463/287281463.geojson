@@ -2,13 +2,14 @@
   "id": 287281463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.952098,36.173862,-95.952098,36.173862",
     "geom:latitude":36.173862,
     "geom:longitude":-95.952098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2608 E Newton Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287281463,
-    "wof:lastmodified":1449001436,
+    "wof:lastmodified":1466763151,
     "wof:name":"Jasper's Chem-Dry",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-95.952098,36.173862,-95.952098,36.173862],
-  "geometry": {"coordinates":[-95.952098,36.173862],"type":"Point"}
+  "bbox": [
+    -95.952098,
+    36.173862,
+    -95.952098,
+    36.173862
+],
+  "geometry": {"coordinates":[-95.95209800000001,36.173862],"type":"Point"}
 }

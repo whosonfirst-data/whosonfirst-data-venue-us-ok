@@ -2,13 +2,14 @@
   "id": 220197643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886547,36.033415,-95.886547,36.033415",
     "geom:latitude":36.033415,
     "geom:longitude":-95.886547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8922 S Memorial Dr # B",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":220197643,
-    "wof:lastmodified":1449074771,
+    "wof:lastmodified":1466762507,
     "wof:name":"Spa Lux",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.886547,36.033415,-95.886547,36.033415],
-  "geometry": {"coordinates":[-95.886547,36.033415],"type":"Point"}
+  "bbox": [
+    -95.886547,
+    36.033415,
+    -95.886547,
+    36.033415
+],
+  "geometry": {"coordinates":[-95.88654699999999,36.033415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303973593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.55331,35.586873,-97.55331,35.586873",
     "geom:latitude":35.586873,
     "geom:longitude":-97.55331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2224 NW 115th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303973593,
-    "wof:lastmodified":1448999587,
+    "wof:lastmodified":1466766989,
     "wof:name":"Deans Parts Service",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-97.55331,35.586873,-97.55331,35.586873],
+  "bbox": [
+    -97.55331,
+    35.586873,
+    -97.55331,
+    35.586873
+],
   "geometry": {"coordinates":[-97.55331,35.586873],"type":"Point"}
 }

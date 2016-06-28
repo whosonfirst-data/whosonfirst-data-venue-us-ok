@@ -2,13 +2,14 @@
   "id": 353629751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.404696,34.602632,-98.404696,34.602632",
     "geom:latitude":34.602632,
     "geom:longitude":-98.404696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 SW 11th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353629751,
-    "wof:lastmodified":1449020218,
+    "wof:lastmodified":1466764436,
     "wof:name":"Terry's Nice Used Furniture",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-98.404696,34.602632,-98.404696,34.602632],
+  "bbox": [
+    -98.404696,
+    34.602632,
+    -98.404696,
+    34.602632
+],
   "geometry": {"coordinates":[-98.404696,34.602632],"type":"Point"}
 }

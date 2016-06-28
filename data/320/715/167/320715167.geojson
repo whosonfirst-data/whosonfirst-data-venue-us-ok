@@ -2,13 +2,14 @@
   "id": 320715167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.145398,35.318655,-97.145398,35.318655",
     "geom:latitude":35.318655,
     "geom:longitude":-97.145398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21700 SE 149th St",
     "sg:city":"Newalla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320715167,
-    "wof:lastmodified":1449014218,
+    "wof:lastmodified":1466766584,
     "wof:name":"Electric Grace",
     "wof:parent_id":85830865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.145398,35.318655,-97.145398,35.318655],
+  "bbox": [
+    -97.145398,
+    35.318655,
+    -97.145398,
+    35.318655
+],
   "geometry": {"coordinates":[-97.145398,35.318655],"type":"Point"}
 }

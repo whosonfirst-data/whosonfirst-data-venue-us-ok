@@ -2,13 +2,14 @@
   "id": 353744207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.650671,35.497289,-97.650671,35.497289",
     "geom:latitude":35.497289,
     "geom:longitude":-97.650671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7904 NW 27th St",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353744207,
-    "wof:lastmodified":1449019178,
+    "wof:lastmodified":1466765085,
     "wof:name":"Bagel Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.650671,35.497289,-97.650671,35.497289],
+  "bbox": [
+    -97.650671,
+    35.497289,
+    -97.650671,
+    35.497289
+],
   "geometry": {"coordinates":[-97.650671,35.497289],"type":"Point"}
 }

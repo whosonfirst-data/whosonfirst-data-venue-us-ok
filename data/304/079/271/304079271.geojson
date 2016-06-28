@@ -2,13 +2,14 @@
   "id": 304079271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.838833,36.109144,-95.838833,36.109144",
     "geom:latitude":36.109144,
     "geom:longitude":-95.838833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12142 E 37th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304079271,
-    "wof:lastmodified":1449044065,
+    "wof:lastmodified":1466763281,
     "wof:name":"Krafft Academy Of Gymnastics",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gymnastic"
     ]
 },
-  "bbox": [-95.838833,36.109144,-95.838833,36.109144],
-  "geometry": {"coordinates":[-95.838833,36.109144],"type":"Point"}
+  "bbox": [
+    -95.838833,
+    36.109144,
+    -95.838833,
+    36.109144
+],
+  "geometry": {"coordinates":[-95.83883299999999,36.109144],"type":"Point"}
 }

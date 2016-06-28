@@ -2,13 +2,14 @@
   "id": 303740869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547691,35.500534,-97.547691,35.500534",
     "geom:latitude":35.500534,
     "geom:longitude":-97.547691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3109 N Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303740869,
-    "wof:lastmodified":1448999227,
+    "wof:lastmodified":1466766671,
     "wof:name":"Colonial Manor Nursing Home",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-97.547691,35.500534,-97.547691,35.500534],
+  "bbox": [
+    -97.547691,
+    35.500534,
+    -97.547691,
+    35.500534
+],
   "geometry": {"coordinates":[-97.547691,35.500534],"type":"Point"}
 }

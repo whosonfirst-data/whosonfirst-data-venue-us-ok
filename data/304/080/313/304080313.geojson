@@ -2,13 +2,14 @@
   "id": 304080313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530501,35.537691,-97.530501,35.537691",
     "geom:latitude":35.537691,
     "geom:longitude":-97.530501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6421 Avondale Dr",
     "sg:city":"Nichols Hills",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":304080313,
-    "wof:lastmodified":1449044142,
+    "wof:lastmodified":1466763293,
     "wof:name":"Oak Hill Petroleum Corporation",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "crude"
     ]
 },
-  "bbox": [-97.530501,35.537691,-97.530501,35.537691],
+  "bbox": [
+    -97.530501,
+    35.537691,
+    -97.530501,
+    35.537691
+],
   "geometry": {"coordinates":[-97.530501,35.537691],"type":"Point"}
 }

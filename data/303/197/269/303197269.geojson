@@ -2,13 +2,14 @@
   "id": 303197269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.909754,36.017345,-95.909754,36.017345",
     "geom:latitude":36.017345,
     "geom:longitude":-95.909754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6014 E 101st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303197269,
-    "wof:lastmodified":1449000258,
+    "wof:lastmodified":1466764309,
     "wof:name":"Monson Associates Inc",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.909754,36.017345,-95.909754,36.017345],
-  "geometry": {"coordinates":[-95.909754,36.017345],"type":"Point"}
+  "bbox": [
+    -95.909754,
+    36.017345,
+    -95.909754,
+    36.017345
+],
+  "geometry": {"coordinates":[-95.90975400000001,36.017345],"type":"Point"}
 }

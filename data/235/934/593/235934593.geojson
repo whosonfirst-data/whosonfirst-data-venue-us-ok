@@ -2,13 +2,14 @@
   "id": 235934593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.970951,36.060799,-95.970951,36.060799",
     "geom:latitude":36.060799,
     "geom:longitude":-95.970951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -79,10 +80,11 @@
         }
     ],
     "wof:id":235934593,
-    "wof:lastmodified":1449008292,
+    "wof:lastmodified":1466762410,
     "wof:name":"Southside Auction",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -96,6 +98,11 @@
         "furniture"
     ]
 },
-  "bbox": [-95.970951,36.060799,-95.970951,36.060799],
+  "bbox": [
+    -95.970951,
+    36.060799,
+    -95.970951,
+    36.060799
+],
   "geometry": {"coordinates":[-95.970951,36.060799],"type":"Point"}
 }

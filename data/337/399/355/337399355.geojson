@@ -2,13 +2,14 @@
   "id": 337399355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.67534,35.536944,-98.67534,35.536944",
     "geom:latitude":35.536944,
     "geom:longitude":-98.67534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 E Main St",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337399355,
-    "wof:lastmodified":1449027067,
+    "wof:lastmodified":1466763946,
     "wof:name":"Steve Tinsley Roofing & Constr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.67534,35.536944,-98.67534,35.536944],
-  "geometry": {"coordinates":[-98.67534,35.536944],"type":"Point"}
+  "bbox": [
+    -98.67534,
+    35.536944,
+    -98.67534,
+    35.536944
+],
+  "geometry": {"coordinates":[-98.67534000000001,35.536944],"type":"Point"}
 }

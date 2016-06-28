@@ -2,13 +2,14 @@
   "id": 304070041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.965994,36.078773,-95.965994,36.078773",
     "geom:latitude":36.078773,
     "geom:longitude":-95.965994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5814 S Victor Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304070041,
-    "wof:lastmodified":1449043836,
+    "wof:lastmodified":1466764197,
     "wof:name":"Knight Performance MGT LLC",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-95.965994,36.078773,-95.965994,36.078773],
-  "geometry": {"coordinates":[-95.965994,36.078773],"type":"Point"}
+  "bbox": [
+    -95.965994,
+    36.078773,
+    -95.965994,
+    36.078773
+],
+  "geometry": {"coordinates":[-95.96599399999999,36.078773],"type":"Point"}
 }

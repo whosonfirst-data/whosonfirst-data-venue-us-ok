@@ -2,13 +2,14 @@
   "id": 303118751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.61886,35.509353,-97.61886,35.509353",
     "geom:latitude":35.509353,
     "geom:longitude":-97.61886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3844 N Macarthur Blvd",
     "sg:city":"Warr Acres",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303118751,
-    "wof:lastmodified":1449000096,
+    "wof:lastmodified":1466763536,
     "wof:name":"One Salon Place",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.61886,35.509353,-97.61886,35.509353],
+  "bbox": [
+    -97.61886,
+    35.509353,
+    -97.61886,
+    35.509353
+],
   "geometry": {"coordinates":[-97.61886,35.509353],"type":"Point"}
 }

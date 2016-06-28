@@ -2,13 +2,14 @@
   "id": 336772841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.49356,35.504031,-97.49356,35.504031",
     "geom:latitude":35.504031,
     "geom:longitude":-97.49356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 NE 33rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336772841,
-    "wof:lastmodified":1448997435,
+    "wof:lastmodified":1466764537,
     "wof:name":"Northeast Recreation Ctr",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-97.49356,35.504031,-97.49356,35.504031],
+  "bbox": [
+    -97.49356,
+    35.504031,
+    -97.49356,
+    35.504031
+],
   "geometry": {"coordinates":[-97.49356,35.504031],"type":"Point"}
 }

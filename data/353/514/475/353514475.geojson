@@ -2,13 +2,14 @@
   "id": 353514475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.07631,36.089194,-96.07631,36.089194",
     "geom:latitude":36.089194,
     "geom:longitude":-96.07631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8830 W 51st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353514475,
-    "wof:lastmodified":1449019549,
+    "wof:lastmodified":1466763343,
     "wof:name":"Nancy Jane's Custom Draperies",
     "wof:parent_id":85843055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drapery"
     ]
 },
-  "bbox": [-96.07631,36.089194,-96.07631,36.089194],
-  "geometry": {"coordinates":[-96.07631,36.089194],"type":"Point"}
+  "bbox": [
+    -96.07631,
+    36.089194,
+    -96.07631,
+    36.089194
+],
+  "geometry": {"coordinates":[-96.07631000000001,36.089194],"type":"Point"}
 }

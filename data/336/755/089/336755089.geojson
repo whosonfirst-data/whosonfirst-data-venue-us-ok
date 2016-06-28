@@ -2,13 +2,14 @@
   "id": 336755089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.505983,34.87406,-99.505983,34.87406",
     "geom:latitude":34.87406,
     "geom:longitude":-99.505983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 N Oklahoma Ave",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336755089,
-    "wof:lastmodified":1448997253,
+    "wof:lastmodified":1466764424,
     "wof:name":"Francis Appliances",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.505983,34.87406,-99.505983,34.87406],
+  "bbox": [
+    -99.505983,
+    34.87406,
+    -99.505983,
+    34.87406
+],
   "geometry": {"coordinates":[-99.505983,34.87406],"type":"Point"}
 }

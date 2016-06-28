@@ -2,13 +2,14 @@
   "id": 320195395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.381531,35.747557,-95.381531,35.747557",
     "geom:latitude":35.747557,
     "geom:longitude":-95.381531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 S 9th St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320195395,
-    "wof:lastmodified":1449013728,
+    "wof:lastmodified":1466764567,
     "wof:name":"First Indian Baptist Church",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.381531,35.747557,-95.381531,35.747557],
+  "bbox": [
+    -95.381531,
+    35.747557,
+    -95.381531,
+    35.747557
+],
   "geometry": {"coordinates":[-95.381531,35.747557],"type":"Point"}
 }

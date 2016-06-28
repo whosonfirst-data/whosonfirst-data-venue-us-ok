@@ -2,13 +2,14 @@
   "id": 337403965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.554548,35.448933,-97.554548,35.448933",
     "geom:latitude":35.448933,
     "geom:longitude":-97.554548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1624 S Agnew Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337403965,
-    "wof:lastmodified":1449027632,
+    "wof:lastmodified":1466763963,
     "wof:name":"Social Club Inc",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-97.554548,35.448933,-97.554548,35.448933],
+  "bbox": [
+    -97.554548,
+    35.448933,
+    -97.554548,
+    35.448933
+],
   "geometry": {"coordinates":[-97.554548,35.448933],"type":"Point"}
 }

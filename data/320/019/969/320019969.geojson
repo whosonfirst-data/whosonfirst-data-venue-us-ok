@@ -2,13 +2,14 @@
   "id": 320019969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.929774,36.012648,-95.929774,36.012648",
     "geom:latitude":36.012648,
     "geom:longitude":-95.929774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10302 S Quebec Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320019969,
-    "wof:lastmodified":1449013400,
+    "wof:lastmodified":1466762581,
     "wof:name":"Mc Mannus Publishing",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-95.929774,36.012648,-95.929774,36.012648],
-  "geometry": {"coordinates":[-95.929774,36.012648],"type":"Point"}
+  "bbox": [
+    -95.929774,
+    36.012648,
+    -95.929774,
+    36.012648
+],
+  "geometry": {"coordinates":[-95.92977399999999,36.012648],"type":"Point"}
 }

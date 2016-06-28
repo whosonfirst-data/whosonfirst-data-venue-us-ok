@@ -2,13 +2,14 @@
   "id": 354016801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.630535,35.045565,-94.630535,35.045565",
     "geom:latitude":35.045565,
     "geom:longitude":-94.630535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 S McKenna St",
     "sg:city":"Poteau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354016801,
-    "wof:lastmodified":1449066233,
+    "wof:lastmodified":1466763043,
     "wof:name":"Jacks Bargains",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.630535,35.045565,-94.630535,35.045565],
-  "geometry": {"coordinates":[-94.630535,35.045565],"type":"Point"}
+  "bbox": [
+    -94.630535,
+    35.045565,
+    -94.630535,
+    35.045565
+],
+  "geometry": {"coordinates":[-94.63053499999999,35.045565],"type":"Point"}
 }

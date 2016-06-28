@@ -2,13 +2,14 @@
   "id": 353579089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.767776,35.578603,-97.767776,35.578603",
     "geom:latitude":35.578603,
     "geom:longitude":-97.767776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13300 Skyland Dr",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353579089,
-    "wof:lastmodified":1449019071,
+    "wof:lastmodified":1466764197,
     "wof:name":"Dave Trammel Pools",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-97.767776,35.578603,-97.767776,35.578603],
+  "bbox": [
+    -97.767776,
+    35.578603,
+    -97.767776,
+    35.578603
+],
   "geometry": {"coordinates":[-97.767776,35.578603],"type":"Point"}
 }

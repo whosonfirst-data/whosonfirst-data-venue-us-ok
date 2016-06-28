@@ -2,13 +2,14 @@
   "id": 303640133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.537511,35.461549,-97.537511,35.461549",
     "geom:latitude":35.461549,
     "geom:longitude":-97.537511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1342 SW 3rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303640133,
-    "wof:lastmodified":1448999181,
+    "wof:lastmodified":1466766324,
     "wof:name":"Spec Roofing Materials Corp",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roofing"
     ]
 },
-  "bbox": [-97.537511,35.461549,-97.537511,35.461549],
-  "geometry": {"coordinates":[-97.537511,35.461549],"type":"Point"}
+  "bbox": [
+    -97.537511,
+    35.461549,
+    -97.537511,
+    35.461549
+],
+  "geometry": {"coordinates":[-97.53751099999999,35.461549],"type":"Point"}
 }

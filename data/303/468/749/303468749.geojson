@@ -2,13 +2,14 @@
   "id": 303468749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.500616,35.395514,-97.500616,35.395514",
     "geom:latitude":35.395514,
     "geom:longitude":-97.500616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7001 Sears Ter",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303468749,
-    "wof:lastmodified":1448999869,
+    "wof:lastmodified":1466765815,
     "wof:name":"Taylor Tots Day Care",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.500616,35.395514,-97.500616,35.395514],
-  "geometry": {"coordinates":[-97.500616,35.395514],"type":"Point"}
+  "bbox": [
+    -97.500616,
+    35.395514,
+    -97.500616,
+    35.395514
+],
+  "geometry": {"coordinates":[-97.50061599999999,35.395514],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336825457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.66149,35.749089,-96.66149,35.749089",
     "geom:latitude":35.749089,
     "geom:longitude":-96.66149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W Main St",
     "sg:city":"Stroud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336825457,
-    "wof:lastmodified":1448996953,
+    "wof:lastmodified":1466764714,
     "wof:name":"Us Postal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.66149,35.749089,-96.66149,35.749089],
+  "bbox": [
+    -96.66149,
+    35.749089,
+    -96.66149,
+    35.749089
+],
   "geometry": {"coordinates":[-96.66149,35.749089],"type":"Point"}
 }

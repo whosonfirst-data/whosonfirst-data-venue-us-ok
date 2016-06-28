@@ -2,13 +2,14 @@
   "id": 336666867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.560268,35.381765,-97.560268,35.381765",
     "geom:latitude":35.381765,
     "geom:longitude":-97.560268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2632 SW 84th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336666867,
-    "wof:lastmodified":1448997331,
+    "wof:lastmodified":1466763208,
     "wof:name":"Able Auto Buyers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.560268,35.381765,-97.560268,35.381765],
-  "geometry": {"coordinates":[-97.560268,35.381765],"type":"Point"}
+  "bbox": [
+    -97.560268,
+    35.381765,
+    -97.560268,
+    35.381765
+],
+  "geometry": {"coordinates":[-97.56026799999999,35.381765],"type":"Point"}
 }

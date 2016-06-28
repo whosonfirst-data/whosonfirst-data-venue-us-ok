@@ -2,13 +2,14 @@
   "id": 336775343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.798219,36.669841,-97.798219,36.669841",
     "geom:latitude":36.669841,
     "geom:longitude":-97.798219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Apache St",
     "sg:city":"Pond Creek",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336775343,
-    "wof:lastmodified":1448997731,
+    "wof:lastmodified":1466764545,
     "wof:name":"Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.798219,36.669841,-97.798219,36.669841],
+  "bbox": [
+    -97.798219,
+    36.669841,
+    -97.798219,
+    36.669841
+],
   "geometry": {"coordinates":[-97.798219,36.669841],"type":"Point"}
 }

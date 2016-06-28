@@ -2,13 +2,14 @@
   "id": 303709793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549332,35.56395,-97.549332,35.56395",
     "geom:latitude":35.56395,
     "geom:longitude":-97.549332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9203 N Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303709793,
-    "wof:lastmodified":1448998604,
+    "wof:lastmodified":1466766606,
     "wof:name":"Valerie Naifeh Fine Jewelry",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.549332,35.56395,-97.549332,35.56395],
-  "geometry": {"coordinates":[-97.549332,35.56395],"type":"Point"}
+  "bbox": [
+    -97.549332,
+    35.56395,
+    -97.549332,
+    35.56395
+],
+  "geometry": {"coordinates":[-97.54933200000001,35.56395],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320498815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.845249,36.393839,-97.845249,36.393839",
     "geom:latitude":36.393839,
     "geom:longitude":-97.845249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Montgomery",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320498815,
-    "wof:lastmodified":1449014062,
+    "wof:lastmodified":1466765974,
     "wof:name":"Northern Hills Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-97.845249,36.393839,-97.845249,36.393839],
+  "bbox": [
+    -97.845249,
+    36.393839,
+    -97.845249,
+    36.393839
+],
   "geometry": {"coordinates":[-97.845249,36.393839],"type":"Point"}
 }

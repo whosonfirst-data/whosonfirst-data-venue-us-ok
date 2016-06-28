@@ -2,13 +2,14 @@
   "id": 353694653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.981045,35.536943,-97.981045,35.536943",
     "geom:latitude":35.536943,
     "geom:longitude":-97.981045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2406 Sunset Dr",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353694653,
-    "wof:lastmodified":1449018985,
+    "wof:lastmodified":1466764769,
     "wof:name":"Marlene's Beauty Salon",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "barber"
     ]
 },
-  "bbox": [-97.981045,35.536943,-97.981045,35.536943],
-  "geometry": {"coordinates":[-97.981045,35.536943],"type":"Point"}
+  "bbox": [
+    -97.981045,
+    35.536943,
+    -97.981045,
+    35.536943
+],
+  "geometry": {"coordinates":[-97.98104499999999,35.536943],"type":"Point"}
 }

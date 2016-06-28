@@ -2,13 +2,14 @@
   "id": 303178367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.499584,34.88816,-99.499584,34.88816",
     "geom:latitude":34.88816,
     "geom:longitude":-99.499584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 Cindy St",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303178367,
-    "wof:lastmodified":1448999874,
+    "wof:lastmodified":1466764317,
     "wof:name":"Riley Hamilton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.499584,34.88816,-99.499584,34.88816],
+  "bbox": [
+    -99.499584,
+    34.88816,
+    -99.499584,
+    34.88816
+],
   "geometry": {"coordinates":[-99.499584,34.88816],"type":"Point"}
 }

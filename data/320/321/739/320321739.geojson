@@ -2,13 +2,14 @@
   "id": 320321739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.117337,35.252003,-95.117337,35.252003",
     "geom:latitude":35.252003,
     "geom:longitude":-95.117337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 E Main St",
     "sg:city":"Stigler",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320321739,
-    "wof:lastmodified":1449011344,
+    "wof:lastmodified":1466765413,
     "wof:name":"Country Flowers & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.117337,35.252003,-95.117337,35.252003],
-  "geometry": {"coordinates":[-95.117337,35.252003],"type":"Point"}
+  "bbox": [
+    -95.117337,
+    35.252003,
+    -95.117337,
+    35.252003
+],
+  "geometry": {"coordinates":[-95.11733700000001,35.252003],"type":"Point"}
 }

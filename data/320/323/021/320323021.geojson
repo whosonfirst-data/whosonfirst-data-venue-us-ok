@@ -2,13 +2,14 @@
   "id": 320323021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.588805,35.597463,-97.588805,35.597463",
     "geom:latitude":35.597463,
     "geom:longitude":-97.588805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3709 NW 125th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320323021,
-    "wof:lastmodified":1449011566,
+    "wof:lastmodified":1466765202,
     "wof:name":"Utility Equipment Leasing Corp",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.588805,35.597463,-97.588805,35.597463],
-  "geometry": {"coordinates":[-97.588805,35.597463],"type":"Point"}
+  "bbox": [
+    -97.588805,
+    35.597463,
+    -97.588805,
+    35.597463
+],
+  "geometry": {"coordinates":[-97.58880499999999,35.597463],"type":"Point"}
 }

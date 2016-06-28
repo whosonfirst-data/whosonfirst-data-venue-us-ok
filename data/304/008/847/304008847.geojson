@@ -2,13 +2,14 @@
   "id": 304008847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.718646,34.932191,-95.718646,34.932191",
     "geom:latitude":34.932191,
     "geom:longitude":-95.718646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 NW Church St",
     "sg:city":"Krebs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304008847,
-    "wof:lastmodified":1449043737,
+    "wof:lastmodified":1466762865,
     "wof:name":"St Joseph's Church",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.718646,34.932191,-95.718646,34.932191],
-  "geometry": {"coordinates":[-95.718646,34.932191],"type":"Point"}
+  "bbox": [
+    -95.718646,
+    34.932191,
+    -95.718646,
+    34.932191
+],
+  "geometry": {"coordinates":[-95.71864600000001,34.932191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303691519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967176,36.133501,-95.967176,36.133501",
     "geom:latitude":36.133501,
     "geom:longitude":-95.967176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1923 S Utica Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303691519,
-    "wof:lastmodified":1448998322,
+    "wof:lastmodified":1466766470,
     "wof:name":"Continuous Care Ctr-Tulsa",
     "wof:parent_id":85872495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.967176,36.133501,-95.967176,36.133501],
-  "geometry": {"coordinates":[-95.967176,36.133501],"type":"Point"}
+  "bbox": [
+    -95.967176,
+    36.133501,
+    -95.967176,
+    36.133501
+],
+  "geometry": {"coordinates":[-95.96717599999999,36.133501],"type":"Point"}
 }

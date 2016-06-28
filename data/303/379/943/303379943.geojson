@@ -2,13 +2,14 @@
   "id": 303379943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.702925,36.047174,-95.702925,36.047174",
     "geom:latitude":36.047174,
     "geom:longitude":-95.702925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6912 S Forest Ridge Blvd",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303379943,
-    "wof:lastmodified":1448999544,
+    "wof:lastmodified":1466765439,
     "wof:name":"Kraig Kannard Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.702925,36.047174,-95.702925,36.047174],
-  "geometry": {"coordinates":[-95.702925,36.047174],"type":"Point"}
+  "bbox": [
+    -95.702925,
+    36.047174,
+    -95.702925,
+    36.047174
+],
+  "geometry": {"coordinates":[-95.70292499999999,36.047174],"type":"Point"}
 }

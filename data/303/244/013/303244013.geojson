@@ -2,13 +2,14 @@
   "id": 303244013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.497048,35.48455,-97.497048,35.48455",
     "geom:latitude":35.48455,
     "geom:longitude":-97.497048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 NE 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303244013,
-    "wof:lastmodified":1448999093,
+    "wof:lastmodified":1466764580,
     "wof:name":"Ou Physicians",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "operates"
     ]
 },
-  "bbox": [-97.497048,35.48455,-97.497048,35.48455],
-  "geometry": {"coordinates":[-97.497048,35.48455],"type":"Point"}
+  "bbox": [
+    -97.497048,
+    35.48455,
+    -97.497048,
+    35.48455
+],
+  "geometry": {"coordinates":[-97.49704800000001,35.48455],"type":"Point"}
 }

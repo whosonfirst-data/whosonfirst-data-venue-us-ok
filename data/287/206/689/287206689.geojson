@@ -2,13 +2,14 @@
   "id": 287206689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.935988,35.015034,-97.935988,35.015034",
     "geom:latitude":35.015034,
     "geom:longitude":-97.935988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W Country Club Rd",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287206689,
-    "wof:lastmodified":1449001290,
+    "wof:lastmodified":1466764033,
     "wof:name":"KWCO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-97.935988,35.015034,-97.935988,35.015034],
-  "geometry": {"coordinates":[-97.935988,35.015034],"type":"Point"}
+  "bbox": [
+    -97.935988,
+    35.015034,
+    -97.935988,
+    35.015034
+],
+  "geometry": {"coordinates":[-97.93598799999999,35.015034],"type":"Point"}
 }

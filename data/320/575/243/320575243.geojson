@@ -2,13 +2,14 @@
   "id": 320575243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.591728,35.333238,-97.591728,35.333238",
     "geom:latitude":35.333238,
     "geom:longitude":-97.591728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14200 S Tulsa Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320575243,
-    "wof:lastmodified":1449012342,
+    "wof:lastmodified":1466766228,
     "wof:name":"Electrical Line Services Inc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.591728,35.333238,-97.591728,35.333238],
+  "bbox": [
+    -97.591728,
+    35.333238,
+    -97.591728,
+    35.333238
+],
   "geometry": {"coordinates":[-97.591728,35.333238],"type":"Point"}
 }

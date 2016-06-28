@@ -2,13 +2,14 @@
   "id": 320381899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.846122,36.133469,-95.846122,36.133469",
     "geom:latitude":36.133469,
     "geom:longitude":-95.846122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11600 E 21st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320381899,
-    "wof:lastmodified":1449011554,
+    "wof:lastmodified":1466765611,
     "wof:name":"US Post Office",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.846122,36.133469,-95.846122,36.133469],
-  "geometry": {"coordinates":[-95.846122,36.133469],"type":"Point"}
+  "bbox": [
+    -95.846122,
+    36.133469,
+    -95.846122,
+    36.133469
+],
+  "geometry": {"coordinates":[-95.84612199999999,36.133469],"type":"Point"}
 }

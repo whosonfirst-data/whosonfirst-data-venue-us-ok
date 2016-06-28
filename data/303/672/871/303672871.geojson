@@ -2,13 +2,14 @@
   "id": 303672871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.706289,35.310955,-97.706289,35.310955",
     "geom:latitude":35.310955,
     "geom:longitude":-97.706289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 N Sara Rd",
     "sg:city":"Tuttle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303672871,
-    "wof:lastmodified":1448998275,
+    "wof:lastmodified":1466766568,
     "wof:name":"Burtons Oil Field Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.706289,35.310955,-97.706289,35.310955],
+  "bbox": [
+    -97.706289,
+    35.310955,
+    -97.706289,
+    35.310955
+],
   "geometry": {"coordinates":[-97.706289,35.310955],"type":"Point"}
 }

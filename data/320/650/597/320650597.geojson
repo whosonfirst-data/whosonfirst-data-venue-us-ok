@@ -2,13 +2,14 @@
   "id": 320650597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.512722,35.468683,-97.512722,35.468683",
     "geom:latitude":35.468683,
     "geom:longitude":-97.512722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N E K Gaylord Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320650597,
-    "wof:lastmodified":1449013533,
+    "wof:lastmodified":1466766305,
     "wof:name":"Amtrak National Rail Passenger",
     "wof:parent_id":85871717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.512722,35.468683,-97.512722,35.468683],
+  "bbox": [
+    -97.512722,
+    35.468683,
+    -97.512722,
+    35.468683
+],
   "geometry": {"coordinates":[-97.512722,35.468683],"type":"Point"}
 }

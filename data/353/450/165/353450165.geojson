@@ -2,13 +2,14 @@
   "id": 353450165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.519054,35.346351,-97.519054,35.346351",
     "geom:latitude":35.346351,
     "geom:longitude":-97.519054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 NW 9th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353450165,
-    "wof:lastmodified":1449020430,
+    "wof:lastmodified":1466762708,
     "wof:name":"Our Best Intentions Inc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.519054,35.346351,-97.519054,35.346351],
+  "bbox": [
+    -97.519054,
+    35.346351,
+    -97.519054,
+    35.346351
+],
   "geometry": {"coordinates":[-97.519054,35.346351],"type":"Point"}
 }

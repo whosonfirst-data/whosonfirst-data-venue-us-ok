@@ -2,13 +2,14 @@
   "id": 336756739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503088,35.34984,-97.503088,35.34984",
     "geom:latitude":35.34984,
     "geom:longitude":-97.503088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 N Janeway Ave",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336756739,
-    "wof:lastmodified":1448997583,
+    "wof:lastmodified":1466764436,
     "wof:name":"Summer Snow",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cream"
     ]
 },
-  "bbox": [-97.503088,35.34984,-97.503088,35.34984],
-  "geometry": {"coordinates":[-97.503088,35.34984],"type":"Point"}
+  "bbox": [
+    -97.503088,
+    35.34984,
+    -97.503088,
+    35.34984
+],
+  "geometry": {"coordinates":[-97.50308800000001,35.34984],"type":"Point"}
 }

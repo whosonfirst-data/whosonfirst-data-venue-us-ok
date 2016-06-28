@@ -2,13 +2,14 @@
   "id": 353712457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565679,35.511379,-97.565679,35.511379",
     "geom:latitude":35.511379,
     "geom:longitude":-97.565679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4025 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353712457,
-    "wof:lastmodified":1449019345,
+    "wof:lastmodified":1466764938,
     "wof:name":"Bob Moore Dodge",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.565679,35.511379,-97.565679,35.511379],
+  "bbox": [
+    -97.565679,
+    35.511379,
+    -97.565679,
+    35.511379
+],
   "geometry": {"coordinates":[-97.565679,35.511379],"type":"Point"}
 }

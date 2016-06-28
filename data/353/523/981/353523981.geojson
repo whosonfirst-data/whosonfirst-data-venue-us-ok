@@ -2,13 +2,14 @@
   "id": 353523981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.464319,35.667277,-97.464319,35.667277",
     "geom:latitude":35.667277,
     "geom:longitude":-97.464319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 E Danforth Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353523981,
-    "wof:lastmodified":1449019733,
+    "wof:lastmodified":1466763484,
     "wof:name":"Kickingbird Cinema",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.464319,35.667277,-97.464319,35.667277],
+  "bbox": [
+    -97.464319,
+    35.667277,
+    -97.464319,
+    35.667277
+],
   "geometry": {"coordinates":[-97.464319,35.667277],"type":"Point"}
 }

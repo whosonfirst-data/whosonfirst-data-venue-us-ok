@@ -2,13 +2,14 @@
   "id": 303987341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.886469,36.395625,-97.886469,36.395625",
     "geom:latitude":36.395625,
     "geom:longitude":-97.886469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 W Maine St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303987341,
-    "wof:lastmodified":1448999490,
+    "wof:lastmodified":1466766996,
     "wof:name":"Ok Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.886469,36.395625,-97.886469,36.395625],
-  "geometry": {"coordinates":[-97.886469,36.395625],"type":"Point"}
+  "bbox": [
+    -97.886469,
+    36.395625,
+    -97.886469,
+    36.395625
+],
+  "geometry": {"coordinates":[-97.88646900000001,36.395625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220173981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967238,36.134668,-95.967238,36.134668",
     "geom:latitude":36.134668,
     "geom:longitude":-95.967238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 S Utica Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220173981,
-    "wof:lastmodified":1449074197,
+    "wof:lastmodified":1466762336,
     "wof:name":"St. John Medical Center Foundation",
     "wof:parent_id":85872495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.967238,36.134668,-95.967238,36.134668],
-  "geometry": {"coordinates":[-95.967238,36.134668],"type":"Point"}
+  "bbox": [
+    -95.967238,
+    36.134668,
+    -95.967238,
+    36.134668
+],
+  "geometry": {"coordinates":[-95.96723799999999,36.134668],"type":"Point"}
 }

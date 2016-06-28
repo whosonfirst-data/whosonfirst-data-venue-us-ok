@@ -2,13 +2,14 @@
   "id": 336758169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547536,35.365327,-97.547536,35.365327",
     "geom:latitude":35.365327,
     "geom:longitude":-97.547536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1624 Greenbriar Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336758169,
-    "wof:lastmodified":1448997271,
+    "wof:lastmodified":1466764441,
     "wof:name":"Ron Wallace / Farmers Ins",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.547536,35.365327,-97.547536,35.365327],
-  "geometry": {"coordinates":[-97.547536,35.365327],"type":"Point"}
+  "bbox": [
+    -97.547536,
+    35.365327,
+    -97.547536,
+    35.365327
+],
+  "geometry": {"coordinates":[-97.54753599999999,35.365327],"type":"Point"}
 }

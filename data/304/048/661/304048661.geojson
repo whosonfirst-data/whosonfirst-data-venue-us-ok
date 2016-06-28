@@ -2,13 +2,14 @@
   "id": 304048661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.984991,35.285135,-98.984991,35.285135",
     "geom:latitude":35.285135,
     "geom:longitude":-98.984991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 E Normal St",
     "sg:city":"Cordell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304048661,
-    "wof:lastmodified":1449043759,
+    "wof:lastmodified":1466763102,
     "wof:name":"Nabors Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-98.984991,35.285135,-98.984991,35.285135],
-  "geometry": {"coordinates":[-98.984991,35.285135],"type":"Point"}
+  "bbox": [
+    -98.984991,
+    35.285135,
+    -98.984991,
+    35.285135
+],
+  "geometry": {"coordinates":[-98.98499099999999,35.285135],"type":"Point"}
 }

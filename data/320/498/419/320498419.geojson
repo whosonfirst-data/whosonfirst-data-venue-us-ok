@@ -2,13 +2,14 @@
   "id": 320498419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.031777,36.080131,-96.031777,36.080131",
     "geom:latitude":36.080131,
     "geom:longitude":-96.031777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5723 S 35th West Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320498419,
-    "wof:lastmodified":1449014064,
+    "wof:lastmodified":1466765972,
     "wof:name":"A & E Trucking",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.031777,36.080131,-96.031777,36.080131],
-  "geometry": {"coordinates":[-96.031777,36.080131],"type":"Point"}
+  "bbox": [
+    -96.031777,
+    36.080131,
+    -96.031777,
+    36.080131
+],
+  "geometry": {"coordinates":[-96.03177700000001,36.080131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287298689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.577363,35.513676,-97.577363,35.513676",
     "geom:latitude":35.513676,
     "geom:longitude":-97.577363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3519 NW 41st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287298689,
-    "wof:lastmodified":1449000892,
+    "wof:lastmodified":1466763406,
     "wof:name":"Spiritlife Ministry",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.577363,35.513676,-97.577363,35.513676],
-  "geometry": {"coordinates":[-97.577363,35.513676],"type":"Point"}
+  "bbox": [
+    -97.577363,
+    35.513676,
+    -97.577363,
+    35.513676
+],
+  "geometry": {"coordinates":[-97.57736300000001,35.513676],"type":"Point"}
 }

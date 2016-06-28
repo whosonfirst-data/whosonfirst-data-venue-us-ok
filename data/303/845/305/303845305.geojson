@@ -2,13 +2,14 @@
   "id": 303845305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.460341,35.64944,-97.460341,35.64944",
     "geom:latitude":35.64944,
     "geom:longitude":-97.460341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 S Bryant Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303845305,
-    "wof:lastmodified":1448998515,
+    "wof:lastmodified":1466766828,
     "wof:name":"House Of Vacuums",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-97.460341,35.64944,-97.460341,35.64944],
+  "bbox": [
+    -97.460341,
+    35.64944,
+    -97.460341,
+    35.64944
+],
   "geometry": {"coordinates":[-97.460341,35.64944],"type":"Point"}
 }

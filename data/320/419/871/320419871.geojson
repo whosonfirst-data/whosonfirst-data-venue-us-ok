@@ -2,13 +2,14 @@
   "id": 320419871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.481655,36.685847,-101.481655,36.685847",
     "geom:latitude":36.685847,
     "geom:longitude":-101.481655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 N Main St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320419871,
-    "wof:lastmodified":1449014896,
+    "wof:lastmodified":1466765801,
     "wof:name":"Rainmaker Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-101.481655,36.685847,-101.481655,36.685847],
+  "bbox": [
+    -101.481655,
+    36.685847,
+    -101.481655,
+    36.685847
+],
   "geometry": {"coordinates":[-101.481655,36.685847],"type":"Point"}
 }

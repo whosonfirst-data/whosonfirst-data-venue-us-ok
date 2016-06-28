@@ -2,13 +2,14 @@
   "id": 337447193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.445665,34.610094,-98.445665,34.610094",
     "geom:latitude":34.610094,
     "geom:longitude":-98.445665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 NW 44th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337447193,
-    "wof:lastmodified":1449027517,
+    "wof:lastmodified":1466762337,
     "wof:name":"Stellar Solutions Inc",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manual"
     ]
 },
-  "bbox": [-98.445665,34.610094,-98.445665,34.610094],
-  "geometry": {"coordinates":[-98.445665,34.610094],"type":"Point"}
+  "bbox": [
+    -98.445665,
+    34.610094,
+    -98.445665,
+    34.610094
+],
+  "geometry": {"coordinates":[-98.44566500000001,34.610094],"type":"Point"}
 }

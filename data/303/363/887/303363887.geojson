@@ -2,13 +2,14 @@
   "id": 303363887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.280605,35.452467,-97.280605,35.452467",
     "geom:latitude":35.452467,
     "geom:longitude":-97.280605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14021 Hummingbird Dr",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303363887,
-    "wof:lastmodified":1449000271,
+    "wof:lastmodified":1466765142,
     "wof:name":"SAF Consulting Intl Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "forensic"
     ]
 },
-  "bbox": [-97.280605,35.452467,-97.280605,35.452467],
-  "geometry": {"coordinates":[-97.280605,35.452467],"type":"Point"}
+  "bbox": [
+    -97.280605,
+    35.452467,
+    -97.280605,
+    35.452467
+],
+  "geometry": {"coordinates":[-97.28060499999999,35.452467],"type":"Point"}
 }

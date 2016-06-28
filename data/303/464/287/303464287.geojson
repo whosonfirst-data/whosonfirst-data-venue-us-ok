@@ -2,13 +2,14 @@
   "id": 303464287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.465295,35.348592,-97.465295,35.348592",
     "geom:latitude":35.348592,
     "geom:longitude":-97.465295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1426 NE 12th St",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303464287,
-    "wof:lastmodified":1448998769,
+    "wof:lastmodified":1466765718,
     "wof:name":"Moore Seventh Day Adventist",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.465295,35.348592,-97.465295,35.348592],
+  "bbox": [
+    -97.465295,
+    35.348592,
+    -97.465295,
+    35.348592
+],
   "geometry": {"coordinates":[-97.465295,35.348592],"type":"Point"}
 }

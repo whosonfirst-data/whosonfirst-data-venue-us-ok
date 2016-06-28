@@ -2,13 +2,14 @@
   "id": 303777637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.937063,35.845163,-97.937063,35.845163",
     "geom:latitude":35.845163,
     "geom:longitude":-97.937063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1419 S Oak St",
     "sg:city":"Kingfisher",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303777637,
-    "wof:lastmodified":1448999412,
+    "wof:lastmodified":1466766595,
     "wof:name":"Shults Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-97.937063,35.845163,-97.937063,35.845163],
-  "geometry": {"coordinates":[-97.937063,35.845163],"type":"Point"}
+  "bbox": [
+    -97.937063,
+    35.845163,
+    -97.937063,
+    35.845163
+],
+  "geometry": {"coordinates":[-97.93706299999999,35.845163],"type":"Point"}
 }

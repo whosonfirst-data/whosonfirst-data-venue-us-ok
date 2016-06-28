@@ -2,13 +2,14 @@
   "id": 303557017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.561519,35.551033,-97.561519,35.551033",
     "geom:latitude":35.551033,
     "geom:longitude":-97.561519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2832 W Wilshire Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303557017,
-    "wof:lastmodified":1448999862,
+    "wof:lastmodified":1466766052,
     "wof:name":"Coon Engineering Inc",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "civil"
     ]
 },
-  "bbox": [-97.561519,35.551033,-97.561519,35.551033],
+  "bbox": [
+    -97.561519,
+    35.551033,
+    -97.561519,
+    35.551033
+],
   "geometry": {"coordinates":[-97.561519,35.551033],"type":"Point"}
 }

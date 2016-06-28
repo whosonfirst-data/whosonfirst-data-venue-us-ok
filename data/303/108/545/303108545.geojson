@@ -2,13 +2,14 @@
   "id": 303108545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940987,36.684353,-95.940987,36.684353",
     "geom:latitude":36.684353,
     "geom:longitude":-95.940987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40873 W 3967 Rd",
     "sg:city":"Skiatook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303108545,
-    "wof:lastmodified":1448998160,
+    "wof:lastmodified":1466763373,
     "wof:name":"Kaleidoscope Entertainment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "event"
     ]
 },
-  "bbox": [-95.940987,36.684353,-95.940987,36.684353],
-  "geometry": {"coordinates":[-95.940987,36.684353],"type":"Point"}
+  "bbox": [
+    -95.940987,
+    36.684353,
+    -95.940987,
+    36.684353
+],
+  "geometry": {"coordinates":[-95.94098700000001,36.684353],"type":"Point"}
 }

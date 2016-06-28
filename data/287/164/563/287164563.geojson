@@ -2,13 +2,14 @@
   "id": 287164563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.46924,35.640903,-97.46924,35.640903",
     "geom:latitude":35.640903,
     "geom:longitude":-97.46924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 East Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287164563,
-    "wof:lastmodified":1449000765,
+    "wof:lastmodified":1466763740,
     "wof:name":"Andersen & Andersen",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.46924,35.640903,-97.46924,35.640903],
+  "bbox": [
+    -97.46924,
+    35.640903,
+    -97.46924,
+    35.640903
+],
   "geometry": {"coordinates":[-97.46924,35.640903],"type":"Point"}
 }

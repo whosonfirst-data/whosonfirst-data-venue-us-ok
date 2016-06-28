@@ -2,13 +2,14 @@
   "id": 354112343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.415954,35.449571,-97.415954,35.449571",
     "geom:latitude":35.449571,
     "geom:longitude":-97.415954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6107 SE 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354112343,
-    "wof:lastmodified":1449066699,
+    "wof:lastmodified":1466763554,
     "wof:name":"Midwest City Typewriter",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typewriter"
     ]
 },
-  "bbox": [-97.415954,35.449571,-97.415954,35.449571],
+  "bbox": [
+    -97.415954,
+    35.449571,
+    -97.415954,
+    35.449571
+],
   "geometry": {"coordinates":[-97.415954,35.449571],"type":"Point"}
 }

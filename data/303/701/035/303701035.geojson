@@ -2,13 +2,14 @@
   "id": 303701035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.405004,35.401901,-99.405004,35.401901",
     "geom:latitude":35.401901,
     "geom:longitude":-99.405004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 S Main St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303701035,
-    "wof:lastmodified":1449000054,
+    "wof:lastmodified":1466766395,
     "wof:name":"Meridian Oil Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-99.405004,35.401901,-99.405004,35.401901],
-  "geometry": {"coordinates":[-99.405004,35.401901],"type":"Point"}
+  "bbox": [
+    -99.405004,
+    35.401901,
+    -99.405004,
+    35.401901
+],
+  "geometry": {"coordinates":[-99.40500400000001,35.401901],"type":"Point"}
 }

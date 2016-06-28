@@ -2,13 +2,14 @@
   "id": 320032711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.060547,35.807692,-95.060547,35.807692",
     "geom:latitude":35.807692,
     "geom:longitude":-95.060547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13712 W 834 Rd",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320032711,
-    "wof:lastmodified":1449013093,
+    "wof:lastmodified":1466762775,
     "wof:name":"Mid American Barns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barn"
     ]
 },
-  "bbox": [-95.060547,35.807692,-95.060547,35.807692],
+  "bbox": [
+    -95.060547,
+    35.807692,
+    -95.060547,
+    35.807692
+],
   "geometry": {"coordinates":[-95.060547,35.807692],"type":"Point"}
 }

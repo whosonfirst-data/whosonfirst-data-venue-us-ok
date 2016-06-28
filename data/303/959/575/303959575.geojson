@@ -2,13 +2,14 @@
   "id": 303959575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.389483,36.440545,-99.389483,36.440545",
     "geom:latitude":36.440545,
     "geom:longitude":-99.389483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 Madison Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303959575,
-    "wof:lastmodified":1449000323,
+    "wof:lastmodified":1466767101,
     "wof:name":"Madison Park Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.389483,36.440545,-99.389483,36.440545],
+  "bbox": [
+    -99.389483,
+    36.440545,
+    -99.389483,
+    36.440545
+],
   "geometry": {"coordinates":[-99.389483,36.440545],"type":"Point"}
 }

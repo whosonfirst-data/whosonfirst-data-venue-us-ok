@@ -2,13 +2,14 @@
   "id": 303607651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.618404,35.536748,-97.618404,35.536748",
     "geom:latitude":35.536748,
     "geom:longitude":-97.618404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5816 NW 63rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303607651,
-    "wof:lastmodified":1448998442,
+    "wof:lastmodified":1466766222,
     "wof:name":"Dina's Cafe",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.618404,35.536748,-97.618404,35.536748],
+  "bbox": [
+    -97.618404,
+    35.536748,
+    -97.618404,
+    35.536748
+],
   "geometry": {"coordinates":[-97.618404,35.536748],"type":"Point"}
 }

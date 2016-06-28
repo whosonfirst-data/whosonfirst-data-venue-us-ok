@@ -2,13 +2,14 @@
   "id": 320023429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494335,35.504651,-97.494335,35.504651",
     "geom:latitude":35.504651,
     "geom:longitude":-97.494335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3520 N Kelley Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320023429,
-    "wof:lastmodified":1449014598,
+    "wof:lastmodified":1466762634,
     "wof:name":"Church Of The Living God",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.494335,35.504651,-97.494335,35.504651],
-  "geometry": {"coordinates":[-97.494335,35.504651],"type":"Point"}
+  "bbox": [
+    -97.494335,
+    35.504651,
+    -97.494335,
+    35.504651
+],
+  "geometry": {"coordinates":[-97.49433500000001,35.504651],"type":"Point"}
 }

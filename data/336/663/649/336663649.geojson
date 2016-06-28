@@ -2,13 +2,14 @@
   "id": 336663649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.936025,36.068179,-95.936025,36.068179",
     "geom:latitude":36.068179,
     "geom:longitude":-95.936025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3535 E 66th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336663649,
-    "wof:lastmodified":1448997724,
+    "wof:lastmodified":1466763157,
     "wof:name":"Broadland Properties",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-95.936025,36.068179,-95.936025,36.068179],
+  "bbox": [
+    -95.936025,
+    36.068179,
+    -95.936025,
+    36.068179
+],
   "geometry": {"coordinates":[-95.936025,36.068179],"type":"Point"}
 }

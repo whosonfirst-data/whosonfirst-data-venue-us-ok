@@ -2,13 +2,14 @@
   "id": 303803475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.719178,33.999917,-96.719178,33.999917",
     "geom:latitude":33.999917,
     "geom:longitude":-96.719178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 N Main St",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303803475,
-    "wof:lastmodified":1449000592,
+    "wof:lastmodified":1466766816,
     "wof:name":"Valley Creek Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.719178,33.999917,-96.719178,33.999917],
+  "bbox": [
+    -96.719178,
+    33.999917,
+    -96.719178,
+    33.999917
+],
   "geometry": {"coordinates":[-96.719178,33.999917],"type":"Point"}
 }

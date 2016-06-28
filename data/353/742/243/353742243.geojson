@@ -2,13 +2,14 @@
   "id": 353742243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.870534,36.928975,-94.870534,36.928975",
     "geom:latitude":36.928975,
     "geom:longitude":-94.870534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 D St",
     "sg:city":"Commerce",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353742243,
-    "wof:lastmodified":1449018426,
+    "wof:lastmodified":1466764979,
     "wof:name":"City Commerce Housing Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "authority"
     ]
 },
-  "bbox": [-94.870534,36.928975,-94.870534,36.928975],
-  "geometry": {"coordinates":[-94.870534,36.928975],"type":"Point"}
+  "bbox": [
+    -94.870534,
+    36.928975,
+    -94.870534,
+    36.928975
+],
+  "geometry": {"coordinates":[-94.87053400000001,36.928975],"type":"Point"}
 }

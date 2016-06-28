@@ -2,13 +2,14 @@
   "id": 303861607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.546005,35.504174,-97.546005,35.504174",
     "geom:latitude":35.504174,
     "geom:longitude":-97.546005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2022 NW 33rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303861607,
-    "wof:lastmodified":1449000549,
+    "wof:lastmodified":1466766871,
     "wof:name":"Remodel By Dan Slate Inc",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.546005,35.504174,-97.546005,35.504174],
-  "geometry": {"coordinates":[-97.546005,35.504174],"type":"Point"}
+  "bbox": [
+    -97.546005,
+    35.504174,
+    -97.546005,
+    35.504174
+],
+  "geometry": {"coordinates":[-97.54600499999999,35.504174],"type":"Point"}
 }

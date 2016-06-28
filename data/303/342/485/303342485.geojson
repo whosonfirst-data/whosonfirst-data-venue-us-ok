@@ -2,13 +2,14 @@
   "id": 303342485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.506997,35.631998,-97.506997,35.631998",
     "geom:latitude":35.631998,
     "geom:longitude":-97.506997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 Whispering Creek Ct",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303342485,
-    "wof:lastmodified":1449000393,
+    "wof:lastmodified":1466765132,
     "wof:name":"Longaberger",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.506997,35.631998,-97.506997,35.631998],
+  "bbox": [
+    -97.506997,
+    35.631998,
+    -97.506997,
+    35.631998
+],
   "geometry": {"coordinates":[-97.506997,35.631998],"type":"Point"}
 }

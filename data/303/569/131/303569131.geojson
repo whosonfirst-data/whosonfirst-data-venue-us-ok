@@ -2,13 +2,14 @@
   "id": 303569131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.184914,36.24657,-98.184914,36.24657",
     "geom:latitude":36.24657,
     "geom:longitude":-98.184914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Frisco St",
     "sg:city":"Ames",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303569131,
-    "wof:lastmodified":1449000467,
+    "wof:lastmodified":1466766101,
     "wof:name":"American Measurement Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "measurement"
     ]
 },
-  "bbox": [-98.184914,36.24657,-98.184914,36.24657],
-  "geometry": {"coordinates":[-98.184914,36.24657],"type":"Point"}
+  "bbox": [
+    -98.184914,
+    36.24657,
+    -98.184914,
+    36.24657
+],
+  "geometry": {"coordinates":[-98.18491400000001,36.24657],"type":"Point"}
 }

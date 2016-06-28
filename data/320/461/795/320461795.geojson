@@ -2,13 +2,14 @@
   "id": 320461795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.700314,35.445676,-97.700314,35.445676",
     "geom:latitude":35.445676,
     "geom:longitude":-97.700314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2127 Bentham Pl",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320461795,
-    "wof:lastmodified":1449012688,
+    "wof:lastmodified":1466766058,
     "wof:name":"Mark Krapff's Total Home Extrs",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.700314,35.445676,-97.700314,35.445676],
-  "geometry": {"coordinates":[-97.700314,35.445676],"type":"Point"}
+  "bbox": [
+    -97.700314,
+    35.445676,
+    -97.700314,
+    35.445676
+],
+  "geometry": {"coordinates":[-97.70031400000001,35.445676],"type":"Point"}
 }

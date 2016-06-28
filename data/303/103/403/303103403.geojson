@@ -2,13 +2,14 @@
   "id": 303103403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.899128,36.108004,-95.899128,36.108004",
     "geom:latitude":36.108004,
     "geom:longitude":-95.899128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6972 E 38th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303103403,
-    "wof:lastmodified":1448999647,
+    "wof:lastmodified":1466763290,
     "wof:name":"Paramount Transportation LLC",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.899128,36.108004,-95.899128,36.108004],
+  "bbox": [
+    -95.899128,
+    36.108004,
+    -95.899128,
+    36.108004
+],
   "geometry": {"coordinates":[-95.899128,36.108004],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303663179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547997,35.377131,-97.547997,35.377131",
     "geom:latitude":35.377131,
     "geom:longitude":-97.547997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8800 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303663179,
-    "wof:lastmodified":1448999918,
+    "wof:lastmodified":1466766402,
     "wof:name":"Latimer Vision Center",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.547997,35.377131,-97.547997,35.377131],
+  "bbox": [
+    -97.547997,
+    35.377131,
+    -97.547997,
+    35.377131
+],
   "geometry": {"coordinates":[-97.547997,35.377131],"type":"Point"}
 }

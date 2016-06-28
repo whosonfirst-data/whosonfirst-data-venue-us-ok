@@ -2,13 +2,14 @@
   "id": 303829117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.409264,36.430272,-99.409264,36.430272",
     "geom:latitude":36.430272,
     "geom:longitude":-99.409264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 Cherry Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303829117,
-    "wof:lastmodified":1449000406,
+    "wof:lastmodified":1466766871,
     "wof:name":"Clark Morrison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-99.409264,36.430272,-99.409264,36.430272],
-  "geometry": {"coordinates":[-99.409264,36.430272],"type":"Point"}
+  "bbox": [
+    -99.409264,
+    36.430272,
+    -99.409264,
+    36.430272
+],
+  "geometry": {"coordinates":[-99.40926399999999,36.430272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320184251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.451958,36.578823,-98.451958,36.578823",
     "geom:latitude":36.578823,
     "geom:longitude":-98.451958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 E Main St",
     "sg:city":"Carmen",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320184251,
-    "wof:lastmodified":1449011890,
+    "wof:lastmodified":1466764505,
     "wof:name":"Wentworth's Mortuary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-98.451958,36.578823,-98.451958,36.578823],
+  "bbox": [
+    -98.451958,
+    36.578823,
+    -98.451958,
+    36.578823
+],
   "geometry": {"coordinates":[-98.451958,36.578823],"type":"Point"}
 }

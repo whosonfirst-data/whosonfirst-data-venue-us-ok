@@ -2,13 +2,14 @@
   "id": 336718769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.633029,36.594387,-101.633029,36.594387",
     "geom:latitude":36.594387,
     "geom:longitude":-101.633029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Main St",
     "sg:city":"Goodwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336718769,
-    "wof:lastmodified":1448997183,
+    "wof:lastmodified":1466764008,
     "wof:name":"Sensations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.633029,36.594387,-101.633029,36.594387],
-  "geometry": {"coordinates":[-101.633029,36.594387],"type":"Point"}
+  "bbox": [
+    -101.633029,
+    36.594387,
+    -101.633029,
+    36.594387
+],
+  "geometry": {"coordinates":[-101.63302899999999,36.594387],"type":"Point"}
 }

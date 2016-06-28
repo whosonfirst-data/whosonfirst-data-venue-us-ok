@@ -2,13 +2,14 @@
   "id": 303666373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.393127,35.833909,-96.393127,35.833909",
     "geom:latitude":35.833909,
     "geom:longitude":-96.393127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 W 7th Ave",
     "sg:city":"Bristow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303666373,
-    "wof:lastmodified":1448999015,
+    "wof:lastmodified":1466766412,
     "wof:name":"Kelvin Hake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.393127,35.833909,-96.393127,35.833909],
-  "geometry": {"coordinates":[-96.393127,35.833909],"type":"Point"}
+  "bbox": [
+    -96.393127,
+    35.833909,
+    -96.393127,
+    35.833909
+],
+  "geometry": {"coordinates":[-96.39312700000001,35.833909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303308511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.995314,36.153345,-95.995314,36.153345",
     "geom:latitude":36.153345,
     "geom:longitude":-95.995314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 S Denver Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303308511,
-    "wof:lastmodified":1449000631,
+    "wof:lastmodified":1466764888,
     "wof:name":"Painters & Sign Painters Local",
     "wof:parent_id":85872473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.995314,36.153345,-95.995314,36.153345],
-  "geometry": {"coordinates":[-95.995314,36.153345],"type":"Point"}
+  "bbox": [
+    -95.995314,
+    36.153345,
+    -95.995314,
+    36.153345
+],
+  "geometry": {"coordinates":[-95.99531399999999,36.153345],"type":"Point"}
 }

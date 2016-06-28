@@ -2,13 +2,14 @@
   "id": 353957883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.970045,36.191439,-95.970045,36.191439",
     "geom:latitude":36.191439,
     "geom:longitude":-95.970045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1532 E Apache St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353957883,
-    "wof:lastmodified":1449020439,
+    "wof:lastmodified":1466765863,
     "wof:name":"Dash Inn",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.970045,36.191439,-95.970045,36.191439],
+  "bbox": [
+    -95.970045,
+    36.191439,
+    -95.970045,
+    36.191439
+],
   "geometry": {"coordinates":[-95.970045,36.191439],"type":"Point"}
 }

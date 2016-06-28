@@ -2,13 +2,14 @@
   "id": 354013413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.960453,36.14079,-95.960453,36.14079",
     "geom:latitude":36.14079,
     "geom:longitude":-95.960453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 Terrace Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354013413,
-    "wof:lastmodified":1449067125,
+    "wof:lastmodified":1466763021,
     "wof:name":"Franvel Corp",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-95.960453,36.14079,-95.960453,36.14079],
+  "bbox": [
+    -95.960453,
+    36.14079,
+    -95.960453,
+    36.14079
+],
   "geometry": {"coordinates":[-95.960453,36.14079],"type":"Point"}
 }

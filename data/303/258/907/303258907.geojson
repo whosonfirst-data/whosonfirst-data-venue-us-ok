@@ -2,13 +2,14 @@
   "id": 303258907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.441501,35.446015,-97.441501,35.446015",
     "geom:latitude":35.446015,
     "geom:longitude":-97.441501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 S Sunnylane Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303258907,
-    "wof:lastmodified":1449000063,
+    "wof:lastmodified":1466764750,
     "wof:name":"Drakes Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-97.441501,35.446015,-97.441501,35.446015],
+  "bbox": [
+    -97.441501,
+    35.446015,
+    -97.441501,
+    35.446015
+],
   "geometry": {"coordinates":[-97.441501,35.446015],"type":"Point"}
 }

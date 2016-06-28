@@ -2,13 +2,14 @@
   "id": 320284545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.762593,34.937315,-95.762593,34.937315",
     "geom:latitude":34.937315,
     "geom:longitude":-95.762593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 E Monroe Ave",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320284545,
-    "wof:lastmodified":1449013571,
+    "wof:lastmodified":1466764979,
     "wof:name":"Vernon Green",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.762593,34.937315,-95.762593,34.937315],
+  "bbox": [
+    -95.762593,
+    34.937315,
+    -95.762593,
+    34.937315
+],
   "geometry": {"coordinates":[-95.762593,34.937315],"type":"Point"}
 }

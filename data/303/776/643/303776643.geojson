@@ -2,13 +2,14 @@
   "id": 303776643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.079398,36.115808,-97.079398,36.115808",
     "geom:latitude":36.115808,
     "geom:longitude":-97.079398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 S Orchard St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303776643,
-    "wof:lastmodified":1448998647,
+    "wof:lastmodified":1466766676,
     "wof:name":"William A Gray Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-97.079398,36.115808,-97.079398,36.115808],
+  "bbox": [
+    -97.079398,
+    36.115808,
+    -97.079398,
+    36.115808
+],
   "geometry": {"coordinates":[-97.079398,36.115808],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320367653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.460455,35.652114,-97.460455,35.652114",
     "geom:latitude":35.652114,
     "geom:longitude":-97.460455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Bryant Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320367653,
-    "wof:lastmodified":1449013463,
+    "wof:lastmodified":1466765712,
     "wof:name":"Oklahoma University Ctr",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.460455,35.652114,-97.460455,35.652114],
+  "bbox": [
+    -97.460455,
+    35.652114,
+    -97.460455,
+    35.652114
+],
   "geometry": {"coordinates":[-97.460455,35.652114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336890469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.655476,36.415251,-95.655476,36.415251",
     "geom:latitude":36.415251,
     "geom:longitude":-95.655476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9845 NW Mesa Dr",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336890469,
-    "wof:lastmodified":1448997191,
+    "wof:lastmodified":1466765172,
     "wof:name":"Green Country Solar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "solar"
     ]
 },
-  "bbox": [-95.655476,36.415251,-95.655476,36.415251],
-  "geometry": {"coordinates":[-95.655476,36.415251],"type":"Point"}
+  "bbox": [
+    -95.655476,
+    36.415251,
+    -95.655476,
+    36.415251
+],
+  "geometry": {"coordinates":[-95.65547599999999,36.415251],"type":"Point"}
 }

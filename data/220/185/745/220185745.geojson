@@ -2,13 +2,14 @@
   "id": 220185745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.916462,36.177072,-95.916462,36.177072",
     "geom:latitude":36.177072,
     "geom:longitude":-95.916462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5268 E Pine St Ste E",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220185745,
-    "wof:lastmodified":1449074176,
+    "wof:lastmodified":1466762389,
     "wof:name":"Acme Machine Inc",
     "wof:parent_id":85813737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "machinery-rebuild"
     ]
 },
-  "bbox": [-95.916462,36.177072,-95.916462,36.177072],
+  "bbox": [
+    -95.916462,
+    36.177072,
+    -95.916462,
+    36.177072
+],
   "geometry": {"coordinates":[-95.916462,36.177072],"type":"Point"}
 }

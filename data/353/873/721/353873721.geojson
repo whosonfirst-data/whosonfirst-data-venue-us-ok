@@ -2,13 +2,14 @@
   "id": 353873721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.93502,36.716326,-95.93502,36.716326",
     "geom:latitude":36.716326,
     "geom:longitude":-95.93502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2340 SE Washington Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353873721,
-    "wof:lastmodified":1449018791,
+    "wof:lastmodified":1466765583,
     "wof:name":"Taco Bueno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.93502,36.716326,-95.93502,36.716326],
-  "geometry": {"coordinates":[-95.93502,36.716326],"type":"Point"}
+  "bbox": [
+    -95.93502,
+    36.716326,
+    -95.93502,
+    36.716326
+],
+  "geometry": {"coordinates":[-95.93501999999999,36.716326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303726389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.482241,36.27096,-98.482241,36.27096",
     "geom:latitude":36.27096,
     "geom:longitude":-98.482241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 N Santa Fe St",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303726389,
-    "wof:lastmodified":1448999792,
+    "wof:lastmodified":1466766541,
     "wof:name":"Fairview Packing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packer"
     ]
 },
-  "bbox": [-98.482241,36.27096,-98.482241,36.27096],
+  "bbox": [
+    -98.482241,
+    36.27096,
+    -98.482241,
+    36.27096
+],
   "geometry": {"coordinates":[-98.482241,36.27096],"type":"Point"}
 }

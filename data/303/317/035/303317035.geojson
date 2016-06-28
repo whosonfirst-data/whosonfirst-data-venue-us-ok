@@ -2,13 +2,14 @@
   "id": 303317035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.813703,36.055467,-95.813703,36.055467",
     "geom:latitude":36.055467,
     "geom:longitude":-95.813703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 N Walnut Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303317035,
-    "wof:lastmodified":1448999239,
+    "wof:lastmodified":1466765014,
     "wof:name":"Clearkote",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.813703,36.055467,-95.813703,36.055467],
+  "bbox": [
+    -95.813703,
+    36.055467,
+    -95.813703,
+    36.055467
+],
   "geometry": {"coordinates":[-95.813703,36.055467],"type":"Point"}
 }

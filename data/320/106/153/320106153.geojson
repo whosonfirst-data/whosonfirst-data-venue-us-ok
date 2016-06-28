@@ -2,13 +2,14 @@
   "id": 320106153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.770221,36.817981,-94.770221,36.817981",
     "geom:latitude":36.817981,
     "geom:longitude":-94.770221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13700 S 620 Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320106153,
-    "wof:lastmodified":1449011204,
+    "wof:lastmodified":1466763857,
     "wof:name":"SL Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.770221,36.817981,-94.770221,36.817981],
-  "geometry": {"coordinates":[-94.770221,36.817981],"type":"Point"}
+  "bbox": [
+    -94.770221,
+    36.817981,
+    -94.770221,
+    36.817981
+],
+  "geometry": {"coordinates":[-94.77022100000001,36.817981],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303638551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.909005,36.15877,-95.909005,36.15877",
     "geom:latitude":36.15877,
     "geom:longitude":-95.909005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 S Lakewood Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303638551,
-    "wof:lastmodified":1448998252,
+    "wof:lastmodified":1466766332,
     "wof:name":"Star Painting & Blasting Co",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-95.909005,36.15877,-95.909005,36.15877],
-  "geometry": {"coordinates":[-95.909005,36.15877],"type":"Point"}
+  "bbox": [
+    -95.909005,
+    36.15877,
+    -95.909005,
+    36.15877
+],
+  "geometry": {"coordinates":[-95.90900499999999,36.15877],"type":"Point"}
 }

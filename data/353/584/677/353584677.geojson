@@ -2,13 +2,14 @@
   "id": 353584677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565677,35.515378,-97.565677,35.515378",
     "geom:latitude":35.515378,
     "geom:longitude":-97.565677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353584677,
-    "wof:lastmodified":1449018528,
+    "wof:lastmodified":1466764303,
     "wof:name":"O'Reilly Auto Color",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parts"
     ]
 },
-  "bbox": [-97.565677,35.515378,-97.565677,35.515378],
-  "geometry": {"coordinates":[-97.565677,35.515378],"type":"Point"}
+  "bbox": [
+    -97.565677,
+    35.515378,
+    -97.565677,
+    35.515378
+],
+  "geometry": {"coordinates":[-97.56567699999999,35.515378],"type":"Point"}
 }

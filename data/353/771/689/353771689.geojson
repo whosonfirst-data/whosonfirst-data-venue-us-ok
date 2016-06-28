@@ -2,13 +2,14 @@
   "id": 353771689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.303389,35.43515,-96.303389,35.43515",
     "geom:latitude":35.43515,
     "geom:longitude":-96.303389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N 3rd St",
     "sg:city":"Okemah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353771689,
-    "wof:lastmodified":1449019647,
+    "wof:lastmodified":1466765210,
     "wof:name":"Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.303389,35.43515,-96.303389,35.43515],
+  "bbox": [
+    -96.303389,
+    35.43515,
+    -96.303389,
+    35.43515
+],
   "geometry": {"coordinates":[-96.303389,35.43515],"type":"Point"}
 }

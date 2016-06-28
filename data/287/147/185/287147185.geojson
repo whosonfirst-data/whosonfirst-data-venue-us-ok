@@ -2,13 +2,14 @@
   "id": 287147185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.505519,35.388752,-97.505519,35.388752",
     "geom:latitude":35.388752,
     "geom:longitude":-97.505519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7601 S Shields Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287147185,
-    "wof:lastmodified":1449001481,
+    "wof:lastmodified":1466763663,
     "wof:name":"Hudiburg Used Cars",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.505519,35.388752,-97.505519,35.388752],
-  "geometry": {"coordinates":[-97.505519,35.388752],"type":"Point"}
+  "bbox": [
+    -97.505519,
+    35.388752,
+    -97.505519,
+    35.388752
+],
+  "geometry": {"coordinates":[-97.50551900000001,35.388752],"type":"Point"}
 }

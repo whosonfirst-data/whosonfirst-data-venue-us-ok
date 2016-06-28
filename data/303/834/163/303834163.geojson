@@ -2,13 +2,14 @@
   "id": 303834163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.440496,34.60899,-98.440496,34.60899",
     "geom:latitude":34.60899,
     "geom:longitude":-98.440496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3811 W Gore Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303834163,
-    "wof:lastmodified":1448998348,
+    "wof:lastmodified":1466766798,
     "wof:name":"Kirit Shah MD",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-98.440496,34.60899,-98.440496,34.60899],
+  "bbox": [
+    -98.440496,
+    34.60899,
+    -98.440496,
+    34.60899
+],
   "geometry": {"coordinates":[-98.440496,34.60899],"type":"Point"}
 }

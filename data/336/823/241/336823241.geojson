@@ -2,13 +2,14 @@
   "id": 336823241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.851915,36.007875,-95.851915,36.007875",
     "geom:latitude":36.007875,
     "geom:longitude":-95.851915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Cedar Ridge Rd",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336823241,
-    "wof:lastmodified":1448997994,
+    "wof:lastmodified":1466764788,
     "wof:name":"Cahill Associates Inc",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.851915,36.007875,-95.851915,36.007875],
-  "geometry": {"coordinates":[-95.851915,36.007875],"type":"Point"}
+  "bbox": [
+    -95.851915,
+    36.007875,
+    -95.851915,
+    36.007875
+],
+  "geometry": {"coordinates":[-95.85191500000001,36.007875],"type":"Point"}
 }

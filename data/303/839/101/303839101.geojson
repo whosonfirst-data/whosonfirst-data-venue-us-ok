@@ -2,13 +2,14 @@
   "id": 303839101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.914928,35.99157,-95.914928,35.99157",
     "geom:latitude":35.99157,
     "geom:longitude":-95.914928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5405 E 119th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303839101,
-    "wof:lastmodified":1448999589,
+    "wof:lastmodified":1466766706,
     "wof:name":"Hobbes Group Inc",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.914928,35.99157,-95.914928,35.99157],
+  "bbox": [
+    -95.914928,
+    35.99157,
+    -95.914928,
+    35.99157
+],
   "geometry": {"coordinates":[-95.914928,35.99157],"type":"Point"}
 }

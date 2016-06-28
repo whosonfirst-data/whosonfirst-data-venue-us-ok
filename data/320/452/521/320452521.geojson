@@ -2,13 +2,14 @@
   "id": 320452521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.873325,36.167605,-95.873325,36.167605",
     "geom:latitude":36.167605,
     "geom:longitude":-95.873325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"839 N 92nd East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320452521,
-    "wof:lastmodified":1449012147,
+    "wof:lastmodified":1466765956,
     "wof:name":"Charles Brixey Enterprises",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.873325,36.167605,-95.873325,36.167605],
-  "geometry": {"coordinates":[-95.873325,36.167605],"type":"Point"}
+  "bbox": [
+    -95.873325,
+    36.167605,
+    -95.873325,
+    36.167605
+],
+  "geometry": {"coordinates":[-95.87332499999999,36.167605],"type":"Point"}
 }

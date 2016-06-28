@@ -2,13 +2,14 @@
   "id": 303556765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.303687,36.289599,-97.303687,36.289599",
     "geom:latitude":36.289599,
     "geom:longitude":-97.303687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1606 Fir St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303556765,
-    "wof:lastmodified":1448998718,
+    "wof:lastmodified":1466766060,
     "wof:name":"Perry Dental Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.303687,36.289599,-97.303687,36.289599],
+  "bbox": [
+    -97.303687,
+    36.289599,
+    -97.303687,
+    36.289599
+],
   "geometry": {"coordinates":[-97.303687,36.289599],"type":"Point"}
 }

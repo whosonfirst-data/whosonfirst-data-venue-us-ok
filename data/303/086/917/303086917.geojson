@@ -2,13 +2,14 @@
   "id": 303086917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.323862,35.627642,-98.323862,35.627642",
     "geom:latitude":35.627642,
     "geom:longitude":-98.323862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 S Galena Ave",
     "sg:city":"Geary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303086917,
-    "wof:lastmodified":1448999759,
+    "wof:lastmodified":1466763021,
     "wof:name":"Jesse Chisholm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.323862,35.627642,-98.323862,35.627642],
-  "geometry": {"coordinates":[-98.323862,35.627642],"type":"Point"}
+  "bbox": [
+    -98.323862,
+    35.627642,
+    -98.323862,
+    35.627642
+],
+  "geometry": {"coordinates":[-98.32386200000001,35.627642],"type":"Point"}
 }

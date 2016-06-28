@@ -2,13 +2,14 @@
   "id": 353799479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.867264,36.932598,-94.867264,36.932598",
     "geom:latitude":36.932598,
     "geom:longitude":-94.867264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 S Mickey Mantle Blvd",
     "sg:city":"Commerce",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353799479,
-    "wof:lastmodified":1449020806,
+    "wof:lastmodified":1466765332,
     "wof:name":"Mullen Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-94.867264,36.932598,-94.867264,36.932598],
-  "geometry": {"coordinates":[-94.867264,36.932598],"type":"Point"}
+  "bbox": [
+    -94.867264,
+    36.932598,
+    -94.867264,
+    36.932598
+],
+  "geometry": {"coordinates":[-94.86726400000001,36.932598],"type":"Point"}
 }

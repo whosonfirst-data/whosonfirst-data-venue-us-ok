@@ -2,13 +2,14 @@
   "id": 353806935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507838,35.501671,-97.507838,35.501671",
     "geom:latitude":35.501671,
     "geom:longitude":-97.507838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 NE 31st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353806935,
-    "wof:lastmodified":1449018250,
+    "wof:lastmodified":1466765361,
     "wof:name":"Cains Coffee",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "warehouse"
     ]
 },
-  "bbox": [-97.507838,35.501671,-97.507838,35.501671],
-  "geometry": {"coordinates":[-97.507838,35.501671],"type":"Point"}
+  "bbox": [
+    -97.507838,
+    35.501671,
+    -97.507838,
+    35.501671
+],
+  "geometry": {"coordinates":[-97.50783800000001,35.501671],"type":"Point"}
 }

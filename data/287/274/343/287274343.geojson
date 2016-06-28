@@ -2,13 +2,14 @@
   "id": 287274343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.523282,35.318422,-97.523282,35.318422",
     "geom:latitude":35.318422,
     "geom:longitude":-97.523282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 SW 150th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287274343,
-    "wof:lastmodified":1449000775,
+    "wof:lastmodified":1466763054,
     "wof:name":"Big Daves Music",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-97.523282,35.318422,-97.523282,35.318422],
-  "geometry": {"coordinates":[-97.523282,35.318422],"type":"Point"}
+  "bbox": [
+    -97.523282,
+    35.318422,
+    -97.523282,
+    35.318422
+],
+  "geometry": {"coordinates":[-97.52328199999999,35.318422],"type":"Point"}
 }

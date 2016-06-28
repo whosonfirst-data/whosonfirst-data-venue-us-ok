@@ -2,13 +2,14 @@
   "id": 320801773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.404543,34.573824,-98.404543,34.573824",
     "geom:latitude":34.573824,
     "geom:longitude":-98.404543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 SW 11th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320801773,
-    "wof:lastmodified":1449014311,
+    "wof:lastmodified":1466766955,
     "wof:name":"New Life Fellowship Church",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.404543,34.573824,-98.404543,34.573824],
+  "bbox": [
+    -98.404543,
+    34.573824,
+    -98.404543,
+    34.573824
+],
   "geometry": {"coordinates":[-98.404543,34.573824],"type":"Point"}
 }

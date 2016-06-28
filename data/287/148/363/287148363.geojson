@@ -2,13 +2,14 @@
   "id": 287148363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.569128,35.5521,-97.569128,35.5521",
     "geom:latitude":35.5521,
     "geom:longitude":-97.569128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3017 Hemingford Ln",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":287148363,
-    "wof:lastmodified":1449001430,
+    "wof:lastmodified":1466763668,
     "wof:name":"J R Lukeman & Associates Inc",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "structural"
     ]
 },
-  "bbox": [-97.569128,35.5521,-97.569128,35.5521],
-  "geometry": {"coordinates":[-97.569128,35.5521],"type":"Point"}
+  "bbox": [
+    -97.569128,
+    35.5521,
+    -97.569128,
+    35.5521
+],
+  "geometry": {"coordinates":[-97.56912800000001,35.5521],"type":"Point"}
 }

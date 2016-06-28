@@ -2,13 +2,14 @@
   "id": 304052543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.464655,35.406207,-97.464655,35.406207",
     "geom:latitude":35.406207,
     "geom:longitude":-97.464655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2744 SE 59th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304052543,
-    "wof:lastmodified":1449043798,
+    "wof:lastmodified":1466763127,
     "wof:name":"Hilltop Tavern",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-97.464655,35.406207,-97.464655,35.406207],
-  "geometry": {"coordinates":[-97.464655,35.406207],"type":"Point"}
+  "bbox": [
+    -97.464655,
+    35.406207,
+    -97.464655,
+    35.406207
+],
+  "geometry": {"coordinates":[-97.46465499999999,35.406207],"type":"Point"}
 }

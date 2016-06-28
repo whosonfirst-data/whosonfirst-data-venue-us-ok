@@ -2,13 +2,14 @@
   "id": 353834115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.98183,36.118927,-95.98183,36.118927",
     "geom:latitude":36.118927,
     "geom:longitude":-95.98183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3002 S Cincinnati Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353834115,
-    "wof:lastmodified":1449018495,
+    "wof:lastmodified":1466765563,
     "wof:name":"Theresa Farrow MD",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.98183,36.118927,-95.98183,36.118927],
+  "bbox": [
+    -95.98183,
+    36.118927,
+    -95.98183,
+    36.118927
+],
   "geometry": {"coordinates":[-95.98183,36.118927],"type":"Point"}
 }

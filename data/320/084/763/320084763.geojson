@@ -2,13 +2,14 @@
   "id": 320084763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.313656,35.51667,-97.313656,35.51667",
     "geom:latitude":35.51667,
     "geom:longitude":-97.313656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12000 NE 45th St",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320084763,
-    "wof:lastmodified":1449011649,
+    "wof:lastmodified":1466763550,
     "wof:name":"Williams Oliver L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-97.313656,35.51667,-97.313656,35.51667],
-  "geometry": {"coordinates":[-97.313656,35.51667],"type":"Point"}
+  "bbox": [
+    -97.313656,
+    35.51667,
+    -97.313656,
+    35.51667
+],
+  "geometry": {"coordinates":[-97.31365599999999,35.51667],"type":"Point"}
 }

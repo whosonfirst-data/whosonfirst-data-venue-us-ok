@@ -2,13 +2,14 @@
   "id": 303477937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.910782,34.681829,-99.910782,34.681829",
     "geom:latitude":34.681829,
     "geom:longitude":-99.910782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 E Broadway St",
     "sg:city":"Hollis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303477937,
-    "wof:lastmodified":1448998537,
+    "wof:lastmodified":1466765654,
     "wof:name":"OBWEO Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.910782,34.681829,-99.910782,34.681829],
+  "bbox": [
+    -99.910782,
+    34.681829,
+    -99.910782,
+    34.681829
+],
   "geometry": {"coordinates":[-99.910782,34.681829],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287308313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.583398,35.452481,-97.583398,35.452481",
     "geom:latitude":35.452481,
     "geom:longitude":-97.583398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 S Portland Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287308313,
-    "wof:lastmodified":1449001606,
+    "wof:lastmodified":1466763536,
     "wof:name":"Express Detail",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-97.583398,35.452481,-97.583398,35.452481],
+  "bbox": [
+    -97.583398,
+    35.452481,
+    -97.583398,
+    35.452481
+],
   "geometry": {"coordinates":[-97.583398,35.452481],"type":"Point"}
 }

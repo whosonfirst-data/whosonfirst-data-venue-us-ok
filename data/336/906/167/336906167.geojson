@@ -2,13 +2,14 @@
   "id": 336906167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.386338,33.990443,-96.386338,33.990443",
     "geom:latitude":33.990443,
     "geom:longitude":-96.386338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 S 9th Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336906167,
-    "wof:lastmodified":1448997353,
+    "wof:lastmodified":1466765141,
     "wof:name":"Wrights Driven In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.386338,33.990443,-96.386338,33.990443],
-  "geometry": {"coordinates":[-96.386338,33.990443],"type":"Point"}
+  "bbox": [
+    -96.386338,
+    33.990443,
+    -96.386338,
+    33.990443
+],
+  "geometry": {"coordinates":[-96.38633799999999,33.990443],"type":"Point"}
 }

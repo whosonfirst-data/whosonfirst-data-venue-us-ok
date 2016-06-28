@@ -2,13 +2,14 @@
   "id": 320854025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.471077,35.346875,-97.471077,35.346875",
     "geom:latitude":35.346875,
     "geom:longitude":-97.471077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 NE 10th Ct",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320854025,
-    "wof:lastmodified":1449014826,
+    "wof:lastmodified":1466767058,
     "wof:name":"Anomaly Industries",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hosting"
     ]
 },
-  "bbox": [-97.471077,35.346875,-97.471077,35.346875],
-  "geometry": {"coordinates":[-97.471077,35.346875],"type":"Point"}
+  "bbox": [
+    -97.471077,
+    35.346875,
+    -97.471077,
+    35.346875
+],
+  "geometry": {"coordinates":[-97.47107699999999,35.346875],"type":"Point"}
 }

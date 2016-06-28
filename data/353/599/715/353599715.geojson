@@ -2,13 +2,14 @@
   "id": 353599715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.989051,35.306595,-98.989051,35.306595",
     "geom:latitude":35.306595,
     "geom:longitude":-98.989051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 N Market St",
     "sg:city":"Cordell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353599715,
-    "wof:lastmodified":1449019443,
+    "wof:lastmodified":1466764243,
     "wof:name":"First Assembly Of God Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.989051,35.306595,-98.989051,35.306595],
+  "bbox": [
+    -98.989051,
+    35.306595,
+    -98.989051,
+    35.306595
+],
   "geometry": {"coordinates":[-98.989051,35.306595],"type":"Point"}
 }

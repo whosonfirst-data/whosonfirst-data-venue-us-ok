@@ -2,13 +2,14 @@
   "id": 320313903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.445273,34.60967,-98.445273,34.60967",
     "geom:latitude":34.60967,
     "geom:longitude":-98.445273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 NW 44th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320313903,
-    "wof:lastmodified":1449011370,
+    "wof:lastmodified":1466765127,
     "wof:name":"Timbers Apartments",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-98.445273,34.60967,-98.445273,34.60967],
+  "bbox": [
+    -98.445273,
+    34.60967,
+    -98.445273,
+    34.60967
+],
   "geometry": {"coordinates":[-98.445273,34.60967],"type":"Point"}
 }

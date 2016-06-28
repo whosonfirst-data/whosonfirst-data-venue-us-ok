@@ -2,13 +2,14 @@
   "id": 320662535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.615418,35.493196,-97.615418,35.493196",
     "geom:latitude":35.493196,
     "geom:longitude":-97.615418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5628 NW 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320662535,
-    "wof:lastmodified":1449013794,
+    "wof:lastmodified":1466766370,
     "wof:name":"Sheep of Good Sheperd",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.615418,35.493196,-97.615418,35.493196],
-  "geometry": {"coordinates":[-97.615418,35.493196],"type":"Point"}
+  "bbox": [
+    -97.615418,
+    35.493196,
+    -97.615418,
+    35.493196
+],
+  "geometry": {"coordinates":[-97.61541800000001,35.493196],"type":"Point"}
 }

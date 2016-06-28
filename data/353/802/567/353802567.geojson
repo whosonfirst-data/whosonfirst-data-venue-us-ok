@@ -2,13 +2,14 @@
   "id": 353802567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.742999,35.979039,-96.742999,35.979039",
     "geom:latitude":35.979039,
     "geom:longitude":-96.742999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1713 Cherry Ln",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353802567,
-    "wof:lastmodified":1449020352,
+    "wof:lastmodified":1466765346,
     "wof:name":"Cherry Lane Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.742999,35.979039,-96.742999,35.979039],
+  "bbox": [
+    -96.742999,
+    35.979039,
+    -96.742999,
+    35.979039
+],
   "geometry": {"coordinates":[-96.742999,35.979039],"type":"Point"}
 }

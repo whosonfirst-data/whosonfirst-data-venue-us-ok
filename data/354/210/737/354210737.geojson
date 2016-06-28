@@ -2,13 +2,14 @@
   "id": 354210737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.533631,35.525877,-97.533631,35.525877",
     "geom:latitude":35.525877,
     "geom:longitude":-97.533631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 NW 53rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354210737,
-    "wof:lastmodified":1449066485,
+    "wof:lastmodified":1466763983,
     "wof:name":"Sawdust Construction",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-97.533631,35.525877,-97.533631,35.525877],
+  "bbox": [
+    -97.533631,
+    35.525877,
+    -97.533631,
+    35.525877
+],
   "geometry": {"coordinates":[-97.533631,35.525877],"type":"Point"}
 }

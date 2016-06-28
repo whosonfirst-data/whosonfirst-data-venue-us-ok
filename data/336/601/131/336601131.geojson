@@ -2,13 +2,14 @@
   "id": 336601131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.803948,36.046515,-95.803948,36.046515",
     "geom:latitude":36.046515,
     "geom:longitude":-95.803948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 W Houston St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336601131,
-    "wof:lastmodified":1448997431,
+    "wof:lastmodified":1466764143,
     "wof:name":"Playhouse For Kidz",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.803948,36.046515,-95.803948,36.046515],
-  "geometry": {"coordinates":[-95.803948,36.046515],"type":"Point"}
+  "bbox": [
+    -95.803948,
+    36.046515,
+    -95.803948,
+    36.046515
+],
+  "geometry": {"coordinates":[-95.80394800000001,36.046515],"type":"Point"}
 }

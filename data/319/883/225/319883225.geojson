@@ -2,13 +2,14 @@
   "id": 319883225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.518679,35.648686,-97.518679,35.648686",
     "geom:latitude":35.648686,
     "geom:longitude":-97.518679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Lakeside Cir",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319883225,
-    "wof:lastmodified":1449024698,
+    "wof:lastmodified":1466763432,
     "wof:name":"Artmoves",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.518679,35.648686,-97.518679,35.648686],
-  "geometry": {"coordinates":[-97.518679,35.648686],"type":"Point"}
+  "bbox": [
+    -97.518679,
+    35.648686,
+    -97.518679,
+    35.648686
+],
+  "geometry": {"coordinates":[-97.51867900000001,35.648686],"type":"Point"}
 }

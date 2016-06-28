@@ -2,13 +2,14 @@
   "id": 320388469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.53459,35.47178,-97.53459,35.47178",
     "geom:latitude":35.47178,
     "geom:longitude":-97.53459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 N Douglas Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320388469,
-    "wof:lastmodified":1449011403,
+    "wof:lastmodified":1466765660,
     "wof:name":"Oklahoma League-The Blind",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.53459,35.47178,-97.53459,35.47178],
-  "geometry": {"coordinates":[-97.53459,35.47178],"type":"Point"}
+  "bbox": [
+    -97.53459,
+    35.47178,
+    -97.53459,
+    35.47178
+],
+  "geometry": {"coordinates":[-97.53458999999999,35.47178],"type":"Point"}
 }

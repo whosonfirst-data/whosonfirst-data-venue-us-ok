@@ -2,13 +2,14 @@
   "id": 320056581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.380198,36.425322,-99.380198,36.425322",
     "geom:latitude":36.425322,
     "geom:longitude":-99.380198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Temple Houston Dr",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320056581,
-    "wof:lastmodified":1449012331,
+    "wof:lastmodified":1466763131,
     "wof:name":"Woodward Cnty Drivers License",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "program"
     ]
 },
-  "bbox": [-99.380198,36.425322,-99.380198,36.425322],
-  "geometry": {"coordinates":[-99.380198,36.425322],"type":"Point"}
+  "bbox": [
+    -99.380198,
+    36.425322,
+    -99.380198,
+    36.425322
+],
+  "geometry": {"coordinates":[-99.38019799999999,36.425322],"type":"Point"}
 }

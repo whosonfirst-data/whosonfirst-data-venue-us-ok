@@ -2,13 +2,14 @@
   "id": 303487583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.095069,36.726697,-97.095069,36.726697",
     "geom:latitude":36.726697,
     "geom:longitude":-97.095069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 N Ash St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303487583,
-    "wof:lastmodified":1448998916,
+    "wof:lastmodified":1466765715,
     "wof:name":"Ponca City Fire Ash Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.095069,36.726697,-97.095069,36.726697],
+  "bbox": [
+    -97.095069,
+    36.726697,
+    -97.095069,
+    36.726697
+],
   "geometry": {"coordinates":[-97.095069,36.726697],"type":"Point"}
 }

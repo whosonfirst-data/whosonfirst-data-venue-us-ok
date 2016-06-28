@@ -2,13 +2,14 @@
   "id": 336866189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.795442,35.44976,-97.795442,35.44976",
     "geom:latitude":35.44976,
     "geom:longitude":-97.795442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 S Richland Rd",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336866189,
-    "wof:lastmodified":1448997463,
+    "wof:lastmodified":1466764904,
     "wof:name":"West Point Christian Church",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.795442,35.44976,-97.795442,35.44976],
-  "geometry": {"coordinates":[-97.795442,35.44976],"type":"Point"}
+  "bbox": [
+    -97.795442,
+    35.44976,
+    -97.795442,
+    35.44976
+],
+  "geometry": {"coordinates":[-97.79544199999999,35.44976],"type":"Point"}
 }

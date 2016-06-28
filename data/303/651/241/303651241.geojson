@@ -2,13 +2,14 @@
   "id": 303651241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.543907,35.493159,-97.543907,35.493159",
     "geom:latitude":35.493159,
     "geom:longitude":-97.543907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 NW 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303651241,
-    "wof:lastmodified":1448998601,
+    "wof:lastmodified":1466766265,
     "wof:name":"Thuong Nguyen MD",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.543907,35.493159,-97.543907,35.493159],
+  "bbox": [
+    -97.543907,
+    35.493159,
+    -97.543907,
+    35.493159
+],
   "geometry": {"coordinates":[-97.543907,35.493159],"type":"Point"}
 }

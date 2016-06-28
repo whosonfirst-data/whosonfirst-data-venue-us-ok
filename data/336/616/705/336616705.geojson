@@ -2,13 +2,14 @@
   "id": 336616705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904525,36.146518,-95.904525,36.146518",
     "geom:latitude":36.146518,
     "geom:longitude":-95.904525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 S Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":336616705,
-    "wof:lastmodified":1448997722,
+    "wof:lastmodified":1466762436,
     "wof:name":"Hostess Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.904525,36.146518,-95.904525,36.146518],
-  "geometry": {"coordinates":[-95.904525,36.146518],"type":"Point"}
+  "bbox": [
+    -95.904525,
+    36.146518,
+    -95.904525,
+    36.146518
+],
+  "geometry": {"coordinates":[-95.90452500000001,36.146518],"type":"Point"}
 }

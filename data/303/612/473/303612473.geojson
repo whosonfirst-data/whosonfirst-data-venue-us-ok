@@ -2,13 +2,14 @@
   "id": 303612473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768571,34.092535,-96.768571,34.092535",
     "geom:latitude":34.092535,
     "geom:longitude":-96.768571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 N 4th St",
     "sg:city":"Madill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303612473,
-    "wof:lastmodified":1448999199,
+    "wof:lastmodified":1466766242,
     "wof:name":"City Of Madill Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-96.768571,34.092535,-96.768571,34.092535],
-  "geometry": {"coordinates":[-96.768571,34.092535],"type":"Point"}
+  "bbox": [
+    -96.768571,
+    34.092535,
+    -96.768571,
+    34.092535
+],
+  "geometry": {"coordinates":[-96.76857099999999,34.092535],"type":"Point"}
 }

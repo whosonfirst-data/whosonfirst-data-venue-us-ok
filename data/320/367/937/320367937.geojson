@@ -2,13 +2,14 @@
   "id": 320367937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.312197,35.696,-97.312197,35.696",
     "geom:latitude":35.696,
     "geom:longitude":-97.312197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12401 NE 220th St",
     "sg:city":"Arcadia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320367937,
-    "wof:lastmodified":1449013463,
+    "wof:lastmodified":1466765719,
     "wof:name":"BRT Arcadia",
     "wof:parent_id":85829129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-97.312197,35.696,-97.312197,35.696],
+  "bbox": [
+    -97.312197,
+    35.696,
+    -97.312197,
+    35.696
+],
   "geometry": {"coordinates":[-97.312197,35.696],"type":"Point"}
 }

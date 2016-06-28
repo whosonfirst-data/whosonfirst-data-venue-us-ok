@@ -2,13 +2,14 @@
   "id": 320382793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.688997,35.395374,-97.688997,35.395374",
     "geom:latitude":35.395374,
     "geom:longitude":-97.688997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 N Morgan Rd",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320382793,
-    "wof:lastmodified":1449012252,
+    "wof:lastmodified":1466765613,
     "wof:name":"Grady & Grady",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-97.688997,35.395374,-97.688997,35.395374],
+  "bbox": [
+    -97.688997,
+    35.395374,
+    -97.688997,
+    35.395374
+],
   "geometry": {"coordinates":[-97.688997,35.395374],"type":"Point"}
 }

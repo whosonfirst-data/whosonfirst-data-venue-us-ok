@@ -2,13 +2,14 @@
   "id": 336877771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.009454,35.992499,-96.009454,35.992499",
     "geom:latitude":35.992499,
     "geom:longitude":-96.009454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 W 118th St",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336877771,
-    "wof:lastmodified":1448997693,
+    "wof:lastmodified":1466764997,
     "wof:name":"Barns & Boundaries",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-96.009454,35.992499,-96.009454,35.992499],
-  "geometry": {"coordinates":[-96.009454,35.992499],"type":"Point"}
+  "bbox": [
+    -96.009454,
+    35.992499,
+    -96.009454,
+    35.992499
+],
+  "geometry": {"coordinates":[-96.00945400000001,35.992499],"type":"Point"}
 }

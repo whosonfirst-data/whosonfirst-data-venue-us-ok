@@ -2,13 +2,14 @@
   "id": 303253967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.880433,36.066521,-95.880433,36.066521",
     "geom:latitude":36.066521,
     "geom:longitude":-95.880433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8607 E 67th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303253967,
-    "wof:lastmodified":1449000266,
+    "wof:lastmodified":1466764733,
     "wof:name":"Family Medical Care Of Tulsa",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.880433,36.066521,-95.880433,36.066521],
+  "bbox": [
+    -95.880433,
+    36.066521,
+    -95.880433,
+    36.066521
+],
   "geometry": {"coordinates":[-95.880433,36.066521],"type":"Point"}
 }

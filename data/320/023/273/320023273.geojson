@@ -2,13 +2,14 @@
   "id": 320023273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.255642,35.945157,-97.255642,35.945157",
     "geom:latitude":35.945157,
     "geom:longitude":-97.255642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N Tolson St",
     "sg:city":"Langston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320023273,
-    "wof:lastmodified":1449014597,
+    "wof:lastmodified":1466762631,
     "wof:name":"Feed The Needy Ministry",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.255642,35.945157,-97.255642,35.945157],
-  "geometry": {"coordinates":[-97.255642,35.945157],"type":"Point"}
+  "bbox": [
+    -97.255642,
+    35.945157,
+    -97.255642,
+    35.945157
+],
+  "geometry": {"coordinates":[-97.25564199999999,35.945157],"type":"Point"}
 }

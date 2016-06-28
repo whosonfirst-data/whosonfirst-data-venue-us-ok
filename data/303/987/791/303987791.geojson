@@ -2,13 +2,14 @@
   "id": 303987791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507848,35.523156,-97.507848,35.523156",
     "geom:latitude":35.523156,
     "geom:longitude":-97.507848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 NE 51st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303987791,
-    "wof:lastmodified":1448999490,
+    "wof:lastmodified":1466767071,
     "wof:name":"Advanced Sandblasting-Painting",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandblasting"
     ]
 },
-  "bbox": [-97.507848,35.523156,-97.507848,35.523156],
+  "bbox": [
+    -97.507848,
+    35.523156,
+    -97.507848,
+    35.523156
+],
   "geometry": {"coordinates":[-97.507848,35.523156],"type":"Point"}
 }

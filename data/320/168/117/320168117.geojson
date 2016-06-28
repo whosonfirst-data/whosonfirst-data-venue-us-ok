@@ -2,13 +2,14 @@
   "id": 320168117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.526617,35.495253,-97.526617,35.495253",
     "geom:latitude":35.495253,
     "geom:longitude":-97.526617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 NW 25th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320168117,
-    "wof:lastmodified":1449013209,
+    "wof:lastmodified":1466764361,
     "wof:name":"CMK Remodeling & Roofing",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.526617,35.495253,-97.526617,35.495253],
+  "bbox": [
+    -97.526617,
+    35.495253,
+    -97.526617,
+    35.495253
+],
   "geometry": {"coordinates":[-97.526617,35.495253],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320163815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.966034,36.157567,-95.966034,36.157567",
     "geom:latitude":36.157567,
     "geom:longitude":-95.966034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 E 2nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320163815,
-    "wof:lastmodified":1449014886,
+    "wof:lastmodified":1466764439,
     "wof:name":"Z Automotive Inc",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-95.966034,36.157567,-95.966034,36.157567],
-  "geometry": {"coordinates":[-95.966034,36.157567],"type":"Point"}
+  "bbox": [
+    -95.966034,
+    36.157567,
+    -95.966034,
+    36.157567
+],
+  "geometry": {"coordinates":[-95.96603399999999,36.157567],"type":"Point"}
 }

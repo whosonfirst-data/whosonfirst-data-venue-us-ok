@@ -2,13 +2,14 @@
   "id": 353412879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.852735,36.268067,-95.852735,36.268067",
     "geom:latitude":36.268067,
     "geom:longitude":-95.852735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 E 2nd St",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353412879,
-    "wof:lastmodified":1449018776,
+    "wof:lastmodified":1466762505,
     "wof:name":"Woodarts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-95.852735,36.268067,-95.852735,36.268067],
+  "bbox": [
+    -95.852735,
+    36.268067,
+    -95.852735,
+    36.268067
+],
   "geometry": {"coordinates":[-95.852735,36.268067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320604023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.32302,34.91894,-95.32302,34.91894",
     "geom:latitude":34.91894,
     "geom:longitude":-95.32302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Cynthia St",
     "sg:city":"Wilburton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320604023,
-    "wof:lastmodified":1449014529,
+    "wof:lastmodified":1466766391,
     "wof:name":"Plaza Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-95.32302,34.91894,-95.32302,34.91894],
+  "bbox": [
+    -95.32302,
+    34.91894,
+    -95.32302,
+    34.91894
+],
   "geometry": {"coordinates":[-95.32302,34.91894],"type":"Point"}
 }

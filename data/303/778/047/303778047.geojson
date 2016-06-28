@@ -2,13 +2,14 @@
   "id": 303778047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.399125,35.465828,-97.399125,35.465828",
     "geom:latitude":35.465828,
     "geom:longitude":-97.399125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2828 Robin Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303778047,
-    "wof:lastmodified":1448998166,
+    "wof:lastmodified":1466766685,
     "wof:name":"Debs Inc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "rental"
     ]
 },
-  "bbox": [-97.399125,35.465828,-97.399125,35.465828],
+  "bbox": [
+    -97.399125,
+    35.465828,
+    -97.399125,
+    35.465828
+],
   "geometry": {"coordinates":[-97.399125,35.465828],"type":"Point"}
 }

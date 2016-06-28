@@ -2,13 +2,14 @@
   "id": 303050667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.882854,36.00106,-95.882854,36.00106",
     "geom:latitude":36.00106,
     "geom:longitude":-95.882854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8115 E 112th St S",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303050667,
-    "wof:lastmodified":1448999468,
+    "wof:lastmodified":1466762432,
     "wof:name":"Billy Rays Trucking",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.882854,36.00106,-95.882854,36.00106],
-  "geometry": {"coordinates":[-95.882854,36.00106],"type":"Point"}
+  "bbox": [
+    -95.882854,
+    36.00106,
+    -95.882854,
+    36.00106
+],
+  "geometry": {"coordinates":[-95.88285399999999,36.00106],"type":"Point"}
 }

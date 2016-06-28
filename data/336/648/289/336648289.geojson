@@ -2,13 +2,14 @@
   "id": 336648289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.970971,35.522457,-97.970971,35.522457",
     "geom:latitude":35.522457,
     "geom:longitude":-97.970971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 W Elm St",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336648289,
-    "wof:lastmodified":1448997242,
+    "wof:lastmodified":1466762923,
     "wof:name":"Edward Jones 09032",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-97.970971,35.522457,-97.970971,35.522457],
-  "geometry": {"coordinates":[-97.970971,35.522457],"type":"Point"}
+  "bbox": [
+    -97.970971,
+    35.522457,
+    -97.970971,
+    35.522457
+],
+  "geometry": {"coordinates":[-97.97097100000001,35.522457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336669791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.284355,36.793221,-97.284355,36.793221",
     "geom:latitude":36.793221,
     "geom:longitude":-97.284355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 S 1st St",
     "sg:city":"Blackwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336669791,
-    "wof:lastmodified":1448997054,
+    "wof:lastmodified":1466763250,
     "wof:name":"Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.284355,36.793221,-97.284355,36.793221],
-  "geometry": {"coordinates":[-97.284355,36.793221],"type":"Point"}
+  "bbox": [
+    -97.284355,
+    36.793221,
+    -97.284355,
+    36.793221
+],
+  "geometry": {"coordinates":[-97.28435500000001,36.793221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303605227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.459096,35.551157,-97.459096,35.551157",
     "geom:latitude":35.551157,
     "geom:longitude":-97.459096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7604 N Bryant Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303605227,
-    "wof:lastmodified":1448999308,
+    "wof:lastmodified":1466766108,
     "wof:name":"Village Tours",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "promoter"
     ]
 },
-  "bbox": [-97.459096,35.551157,-97.459096,35.551157],
+  "bbox": [
+    -97.459096,
+    35.551157,
+    -97.459096,
+    35.551157
+],
   "geometry": {"coordinates":[-97.459096,35.551157],"type":"Point"}
 }

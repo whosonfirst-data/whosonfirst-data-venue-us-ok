@@ -2,13 +2,14 @@
   "id": 303983845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.824852,36.365322,-95.824852,36.365322",
     "geom:latitude":36.365322,
     "geom:longitude":-95.824852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Main St",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303983845,
-    "wof:lastmodified":1449000360,
+    "wof:lastmodified":1466767121,
     "wof:name":"Home Town Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.824852,36.365322,-95.824852,36.365322],
-  "geometry": {"coordinates":[-95.824852,36.365322],"type":"Point"}
+  "bbox": [
+    -95.824852,
+    36.365322,
+    -95.824852,
+    36.365322
+],
+  "geometry": {"coordinates":[-95.82485200000001,36.365322],"type":"Point"}
 }

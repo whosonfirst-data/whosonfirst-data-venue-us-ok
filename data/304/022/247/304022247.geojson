@@ -2,13 +2,14 @@
   "id": 304022247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.830818,36.191625,-95.830818,36.191625",
     "geom:latitude":36.191625,
     "geom:longitude":-95.830818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14113 E Apache St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":304022247,
-    "wof:lastmodified":1449043747,
+    "wof:lastmodified":1466762929,
     "wof:name":"H G Flake Co Inc",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "flange"
     ]
 },
-  "bbox": [-95.830818,36.191625,-95.830818,36.191625],
-  "geometry": {"coordinates":[-95.830818,36.191625],"type":"Point"}
+  "bbox": [
+    -95.830818,
+    36.191625,
+    -95.830818,
+    36.191625
+],
+  "geometry": {"coordinates":[-95.83081799999999,36.191625],"type":"Point"}
 }

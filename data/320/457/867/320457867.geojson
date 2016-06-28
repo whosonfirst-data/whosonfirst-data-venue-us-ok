@@ -2,13 +2,14 @@
   "id": 320457867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.398458,35.435318,-97.398458,35.435318",
     "geom:latitude":35.435318,
     "geom:longitude":-97.398458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 E Atkinson Plz",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320457867,
-    "wof:lastmodified":1449013780,
+    "wof:lastmodified":1466765976,
     "wof:name":"Langston Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "western"
     ]
 },
-  "bbox": [-97.398458,35.435318,-97.398458,35.435318],
-  "geometry": {"coordinates":[-97.398458,35.435318],"type":"Point"}
+  "bbox": [
+    -97.398458,
+    35.435318,
+    -97.398458,
+    35.435318
+],
+  "geometry": {"coordinates":[-97.39845800000001,35.435318],"type":"Point"}
 }

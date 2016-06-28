@@ -2,13 +2,14 @@
   "id": 353824229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.219113,34.740117,-97.219113,34.740117",
     "geom:latitude":34.740117,
     "geom:longitude":-97.219113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Chickasaw St",
     "sg:city":"Pauls Valley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353824229,
-    "wof:lastmodified":1449019158,
+    "wof:lastmodified":1466765428,
     "wof:name":"In-Touch Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-97.219113,34.740117,-97.219113,34.740117],
-  "geometry": {"coordinates":[-97.219113,34.740117],"type":"Point"}
+  "bbox": [
+    -97.219113,
+    34.740117,
+    -97.219113,
+    34.740117
+],
+  "geometry": {"coordinates":[-97.21911299999999,34.740117],"type":"Point"}
 }

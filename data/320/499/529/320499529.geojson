@@ -2,13 +2,14 @@
   "id": 320499529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.09308,35.026937,-99.09308,35.026937",
     "geom:latitude":35.026937,
     "geom:longitude":-99.09308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 S Main St",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320499529,
-    "wof:lastmodified":1449011969,
+    "wof:lastmodified":1466766161,
     "wof:name":"KOZY Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-99.09308,35.026937,-99.09308,35.026937],
+  "bbox": [
+    -99.09308,
+    35.026937,
+    -99.09308,
+    35.026937
+],
   "geometry": {"coordinates":[-99.09308,35.026937],"type":"Point"}
 }

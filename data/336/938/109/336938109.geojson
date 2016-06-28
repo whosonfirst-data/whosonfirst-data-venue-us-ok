@@ -2,13 +2,14 @@
   "id": 336938109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.810147,36.01348,-95.810147,36.01348",
     "geom:latitude":36.01348,
     "geom:longitude":-95.810147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 S Poplar Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336938109,
-    "wof:lastmodified":1448997740,
+    "wof:lastmodified":1466765276,
     "wof:name":"Northern Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-95.810147,36.01348,-95.810147,36.01348],
+  "bbox": [
+    -95.810147,
+    36.01348,
+    -95.810147,
+    36.01348
+],
   "geometry": {"coordinates":[-95.810147,36.01348],"type":"Point"}
 }

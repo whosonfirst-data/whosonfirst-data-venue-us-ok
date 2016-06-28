@@ -2,13 +2,14 @@
   "id": 353792813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.646538,35.587813,-97.646538,35.587813",
     "geom:latitude":35.587813,
     "geom:longitude":-97.646538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7325 NW 115th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353792813,
-    "wof:lastmodified":1449018811,
+    "wof:lastmodified":1466765218,
     "wof:name":"American String Teachers",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.646538,35.587813,-97.646538,35.587813],
-  "geometry": {"coordinates":[-97.646538,35.587813],"type":"Point"}
+  "bbox": [
+    -97.646538,
+    35.587813,
+    -97.646538,
+    35.587813
+],
+  "geometry": {"coordinates":[-97.64653800000001,35.587813],"type":"Point"}
 }

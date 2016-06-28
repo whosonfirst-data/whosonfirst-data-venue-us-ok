@@ -2,13 +2,14 @@
   "id": 336804299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990614,36.13803,-95.990614,36.13803",
     "geom:latitude":36.13803,
     "geom:longitude":-95.990614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 S Carson Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336804299,
-    "wof:lastmodified":1448997679,
+    "wof:lastmodified":1466764575,
     "wof:name":"Lisa Dillaha LLC",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.990614,36.13803,-95.990614,36.13803],
-  "geometry": {"coordinates":[-95.990614,36.13803],"type":"Point"}
+  "bbox": [
+    -95.990614,
+    36.13803,
+    -95.990614,
+    36.13803
+],
+  "geometry": {"coordinates":[-95.99061399999999,36.13803],"type":"Point"}
 }

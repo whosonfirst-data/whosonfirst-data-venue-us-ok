@@ -2,13 +2,14 @@
   "id": 320025067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.629159,35.506044,-97.629159,35.506044",
     "geom:latitude":35.506044,
     "geom:longitude":-97.629159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6611 NW 34th St",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320025067,
-    "wof:lastmodified":1449014357,
+    "wof:lastmodified":1466762657,
     "wof:name":"Parnell Piano",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.629159,35.506044,-97.629159,35.506044],
+  "bbox": [
+    -97.629159,
+    35.506044,
+    -97.629159,
+    35.506044
+],
   "geometry": {"coordinates":[-97.629159,35.506044],"type":"Point"}
 }

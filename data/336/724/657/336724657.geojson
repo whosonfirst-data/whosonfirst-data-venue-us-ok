@@ -2,13 +2,14 @@
   "id": 336724657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.615435,35.043099,-94.615435,35.043099",
     "geom:latitude":35.043099,
     "geom:longitude":-94.615435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Reynolds Ave",
     "sg:city":"Poteau",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336724657,
-    "wof:lastmodified":1448997975,
+    "wof:lastmodified":1466764096,
     "wof:name":"Le Flore County Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "child"
     ]
 },
-  "bbox": [-94.615435,35.043099,-94.615435,35.043099],
-  "geometry": {"coordinates":[-94.615435,35.043099],"type":"Point"}
+  "bbox": [
+    -94.615435,
+    35.043099,
+    -94.615435,
+    35.043099
+],
+  "geometry": {"coordinates":[-94.61543500000001,35.043099],"type":"Point"}
 }

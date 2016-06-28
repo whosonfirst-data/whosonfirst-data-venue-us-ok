@@ -2,13 +2,14 @@
   "id": 320729831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517329,35.536782,-97.517329,35.536782",
     "geom:latitude":35.536782,
     "geom:longitude":-97.517329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 NW 63rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320729831,
-    "wof:lastmodified":1449013138,
+    "wof:lastmodified":1466766625,
     "wof:name":"Kirkpatrick Bank",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.517329,35.536782,-97.517329,35.536782],
+  "bbox": [
+    -97.517329,
+    35.536782,
+    -97.517329,
+    35.536782
+],
   "geometry": {"coordinates":[-97.517329,35.536782],"type":"Point"}
 }

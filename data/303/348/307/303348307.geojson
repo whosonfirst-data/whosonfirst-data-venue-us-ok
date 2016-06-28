@@ -2,13 +2,14 @@
   "id": 303348307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.578476,35.531572,-97.578476,35.531572",
     "geom:latitude":35.531572,
     "geom:longitude":-97.578476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303348307,
-    "wof:lastmodified":1448998223,
+    "wof:lastmodified":1466765045,
     "wof:name":"Financial Network Investment",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-97.578476,35.531572,-97.578476,35.531572],
-  "geometry": {"coordinates":[-97.578476,35.531572],"type":"Point"}
+  "bbox": [
+    -97.578476,
+    35.531572,
+    -97.578476,
+    35.531572
+],
+  "geometry": {"coordinates":[-97.57847599999999,35.531572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303530379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.907148,36.206176,-95.907148,36.206176",
     "geom:latitude":36.206176,
     "geom:longitude":-95.907148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6421 E 36th St N",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303530379,
-    "wof:lastmodified":1448999423,
+    "wof:lastmodified":1466765964,
     "wof:name":"Tulsa Zoo Friends",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-95.907148,36.206176,-95.907148,36.206176],
-  "geometry": {"coordinates":[-95.907148,36.206176],"type":"Point"}
+  "bbox": [
+    -95.907148,
+    36.206176,
+    -95.907148,
+    36.206176
+],
+  "geometry": {"coordinates":[-95.90714800000001,36.206176],"type":"Point"}
 }

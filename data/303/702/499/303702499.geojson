@@ -2,13 +2,14 @@
   "id": 303702499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.109597,35.997715,-96.109597,35.997715",
     "geom:latitude":35.997715,
     "geom:longitude":-96.109597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 E Lee Ave",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303702499,
-    "wof:lastmodified":1448999338,
+    "wof:lastmodified":1466766493,
     "wof:name":"Commissioner Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-96.109597,35.997715,-96.109597,35.997715],
-  "geometry": {"coordinates":[-96.109597,35.997715],"type":"Point"}
+  "bbox": [
+    -96.109597,
+    35.997715,
+    -96.109597,
+    35.997715
+],
+  "geometry": {"coordinates":[-96.10959699999999,35.997715],"type":"Point"}
 }

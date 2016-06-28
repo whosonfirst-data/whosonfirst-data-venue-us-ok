@@ -2,13 +2,14 @@
   "id": 353729321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.947345,34.496308,-97.947345,34.496308",
     "geom:latitude":34.496308,
     "geom:longitude":-97.947345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 S 2nd St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353729321,
-    "wof:lastmodified":1449019550,
+    "wof:lastmodified":1466765110,
     "wof:name":"Petty's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.947345,34.496308,-97.947345,34.496308],
+  "bbox": [
+    -97.947345,
+    34.496308,
+    -97.947345,
+    34.496308
+],
   "geometry": {"coordinates":[-97.947345,34.496308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320171891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.048819,36.114117,-97.048819,36.114117",
     "geom:latitude":36.114117,
     "geom:longitude":-97.048819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 E 8th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320171891,
-    "wof:lastmodified":1449014985,
+    "wof:lastmodified":1466764486,
     "wof:name":"Stillwater Sanitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-97.048819,36.114117,-97.048819,36.114117],
-  "geometry": {"coordinates":[-97.048819,36.114117],"type":"Point"}
+  "bbox": [
+    -97.048819,
+    36.114117,
+    -97.048819,
+    36.114117
+],
+  "geometry": {"coordinates":[-97.04881899999999,36.114117],"type":"Point"}
 }

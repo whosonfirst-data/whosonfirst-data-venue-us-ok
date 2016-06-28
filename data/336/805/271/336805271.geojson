@@ -2,13 +2,14 @@
   "id": 336805271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.149954,36.292835,-95.149954,36.292835",
     "geom:latitude":36.292835,
     "geom:longitude":-95.149954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 E Ferry St",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336805271,
-    "wof:lastmodified":1448997298,
+    "wof:lastmodified":1466764592,
     "wof:name":"Chouteau Memorial Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "historical"
     ]
 },
-  "bbox": [-95.149954,36.292835,-95.149954,36.292835],
-  "geometry": {"coordinates":[-95.149954,36.292835],"type":"Point"}
+  "bbox": [
+    -95.149954,
+    36.292835,
+    -95.149954,
+    36.292835
+],
+  "geometry": {"coordinates":[-95.14995399999999,36.292835],"type":"Point"}
 }

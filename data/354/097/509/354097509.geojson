@@ -2,13 +2,14 @@
   "id": 354097509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.742455,35.506997,-97.742455,35.506997",
     "geom:latitude":35.506997,
     "geom:longitude":-97.742455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S Cornwell Dr",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354097509,
-    "wof:lastmodified":1449066582,
+    "wof:lastmodified":1466763500,
     "wof:name":"KWIK Change Of Oklahoma",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-97.742455,35.506997,-97.742455,35.506997],
-  "geometry": {"coordinates":[-97.742455,35.506997],"type":"Point"}
+  "bbox": [
+    -97.742455,
+    35.506997,
+    -97.742455,
+    35.506997
+],
+  "geometry": {"coordinates":[-97.74245500000001,35.506997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303414427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.515042,35.493288,-97.515042,35.493288",
     "geom:latitude":35.493288,
     "geom:longitude":-97.515042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 NW 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303414427,
-    "wof:lastmodified":1448999260,
+    "wof:lastmodified":1466765385,
     "wof:name":"Signature Loan Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-97.515042,35.493288,-97.515042,35.493288],
-  "geometry": {"coordinates":[-97.515042,35.493288],"type":"Point"}
+  "bbox": [
+    -97.515042,
+    35.493288,
+    -97.515042,
+    35.493288
+],
+  "geometry": {"coordinates":[-97.51504199999999,35.493288],"type":"Point"}
 }

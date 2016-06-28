@@ -2,13 +2,14 @@
   "id": 303458253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.945431,36.113195,-95.945431,36.113195",
     "geom:latitude":36.113195,
     "geom:longitude":-95.945431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2849 E 35th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303458253,
-    "wof:lastmodified":1448999857,
+    "wof:lastmodified":1466765784,
     "wof:name":"Advertising Specialties",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "advertising"
     ]
 },
-  "bbox": [-95.945431,36.113195,-95.945431,36.113195],
+  "bbox": [
+    -95.945431,
+    36.113195,
+    -95.945431,
+    36.113195
+],
   "geometry": {"coordinates":[-95.945431,36.113195],"type":"Point"}
 }

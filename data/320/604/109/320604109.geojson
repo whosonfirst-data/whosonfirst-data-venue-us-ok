@@ -2,13 +2,14 @@
   "id": 320604109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.441359,35.342924,-97.441359,35.342924",
     "geom:latitude":35.342924,
     "geom:longitude":-97.441359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13020 S Sunnylane Rd",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320604109,
-    "wof:lastmodified":1449014528,
+    "wof:lastmodified":1466766287,
     "wof:name":"L Dale Brown LLC",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.441359,35.342924,-97.441359,35.342924],
-  "geometry": {"coordinates":[-97.441359,35.342924],"type":"Point"}
+  "bbox": [
+    -97.441359,
+    35.342924,
+    -97.441359,
+    35.342924
+],
+  "geometry": {"coordinates":[-97.44135900000001,35.342924],"type":"Point"}
 }

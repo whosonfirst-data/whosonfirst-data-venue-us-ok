@@ -2,13 +2,14 @@
   "id": 320432521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.486101,34.594273,-98.486101,34.594273",
     "geom:latitude":34.594273,
     "geom:longitude":-98.486101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7700 SW Lee Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320432521,
-    "wof:lastmodified":1449011193,
+    "wof:lastmodified":1466765884,
     "wof:name":"C W Scooters",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.486101,34.594273,-98.486101,34.594273],
-  "geometry": {"coordinates":[-98.486101,34.594273],"type":"Point"}
+  "bbox": [
+    -98.486101,
+    34.594273,
+    -98.486101,
+    34.594273
+],
+  "geometry": {"coordinates":[-98.48610100000001,34.594273],"type":"Point"}
 }

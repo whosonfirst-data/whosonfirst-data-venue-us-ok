@@ -2,13 +2,14 @@
   "id": 320330891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.580366,35.529975,-97.580366,35.529975",
     "geom:latitude":35.529975,
     "geom:longitude":-97.580366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3555 NW 58th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320330891,
-    "wof:lastmodified":1449013127,
+    "wof:lastmodified":1466765372,
     "wof:name":"DRILLINGINFO.COM",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "oil"
     ]
 },
-  "bbox": [-97.580366,35.529975,-97.580366,35.529975],
+  "bbox": [
+    -97.580366,
+    35.529975,
+    -97.580366,
+    35.529975
+],
   "geometry": {"coordinates":[-97.580366,35.529975],"type":"Point"}
 }

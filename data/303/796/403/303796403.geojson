@@ -2,13 +2,14 @@
   "id": 303796403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.096028,35.025549,-99.096028,35.025549",
     "geom:latitude":35.025549,
     "geom:longitude":-99.096028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 S Broadway Ave",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303796403,
-    "wof:lastmodified":1448999276,
+    "wof:lastmodified":1466766717,
     "wof:name":"United Supermarkets Hobart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.096028,35.025549,-99.096028,35.025549],
+  "bbox": [
+    -99.096028,
+    35.025549,
+    -99.096028,
+    35.025549
+],
   "geometry": {"coordinates":[-99.096028,35.025549],"type":"Point"}
 }

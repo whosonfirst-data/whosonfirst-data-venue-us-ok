@@ -2,13 +2,14 @@
   "id": 336836479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.611008,35.431669,-97.611008,35.431669",
     "geom:latitude":35.431669,
     "geom:longitude":-97.611008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 S Ann Arbor Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336836479,
-    "wof:lastmodified":1448997646,
+    "wof:lastmodified":1466764827,
     "wof:name":"Cookson Trucking Co Inc",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.611008,35.431669,-97.611008,35.431669],
+  "bbox": [
+    -97.611008,
+    35.431669,
+    -97.611008,
+    35.431669
+],
   "geometry": {"coordinates":[-97.611008,35.431669],"type":"Point"}
 }

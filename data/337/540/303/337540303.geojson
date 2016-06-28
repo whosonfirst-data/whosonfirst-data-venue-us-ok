@@ -2,13 +2,14 @@
   "id": 337540303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.042003,36.137825,-97.042003,36.137825",
     "geom:latitude":36.137825,
     "geom:longitude":-97.042003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 E Sunrise Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337540303,
-    "wof:lastmodified":1449027244,
+    "wof:lastmodified":1466762881,
     "wof:name":"Skyline Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.042003,36.137825,-97.042003,36.137825],
-  "geometry": {"coordinates":[-97.042003,36.137825],"type":"Point"}
+  "bbox": [
+    -97.042003,
+    36.137825,
+    -97.042003,
+    36.137825
+],
+  "geometry": {"coordinates":[-97.04200299999999,36.137825],"type":"Point"}
 }

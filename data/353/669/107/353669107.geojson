@@ -2,13 +2,14 @@
   "id": 353669107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.52854,36.089727,-95.52854,36.089727",
     "geom:latitude":36.089727,
     "geom:longitude":-95.52854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17054 E 640 Rd",
     "sg:city":"Inola",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353669107,
-    "wof:lastmodified":1449018543,
+    "wof:lastmodified":1466764724,
     "wof:name":"Johnson Transportation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.52854,36.089727,-95.52854,36.089727],
-  "geometry": {"coordinates":[-95.52854,36.089727],"type":"Point"}
+  "bbox": [
+    -95.52854,
+    36.089727,
+    -95.52854,
+    36.089727
+],
+  "geometry": {"coordinates":[-95.52854000000001,36.089727],"type":"Point"}
 }

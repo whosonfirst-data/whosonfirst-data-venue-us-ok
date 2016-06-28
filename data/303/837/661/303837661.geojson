@@ -2,13 +2,14 @@
   "id": 303837661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.542625,35.466925,-97.542625,35.466925",
     "geom:latitude":35.466925,
     "geom:longitude":-97.542625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1639 W Sheridan Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303837661,
-    "wof:lastmodified":1448998501,
+    "wof:lastmodified":1466766801,
     "wof:name":"XLM Corp",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.542625,35.466925,-97.542625,35.466925],
+  "bbox": [
+    -97.542625,
+    35.466925,
+    -97.542625,
+    35.466925
+],
   "geometry": {"coordinates":[-97.542625,35.466925],"type":"Point"}
 }

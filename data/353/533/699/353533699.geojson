@@ -2,13 +2,14 @@
   "id": 353533699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.504112,34.882063,-99.504112,34.882063",
     "geom:latitude":34.882063,
     "geom:longitude":-99.504112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 E Madison St",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353533699,
-    "wof:lastmodified":1449018224,
+    "wof:lastmodified":1466763617,
     "wof:name":"Clark Butch 00",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.504112,34.882063,-99.504112,34.882063],
-  "geometry": {"coordinates":[-99.504112,34.882063],"type":"Point"}
+  "bbox": [
+    -99.504112,
+    34.882063,
+    -99.504112,
+    34.882063
+],
+  "geometry": {"coordinates":[-99.50411200000001,34.882063],"type":"Point"}
 }

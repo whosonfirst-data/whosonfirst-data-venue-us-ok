@@ -2,13 +2,14 @@
   "id": 353803349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.422157,34.623113,-98.422157,34.623113",
     "geom:latitude":34.623113,
     "geom:longitude":-98.422157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 NW Cache Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353803349,
-    "wof:lastmodified":1449020828,
+    "wof:lastmodified":1466765344,
     "wof:name":"Cache Road Liqours & Wines",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-98.422157,34.623113,-98.422157,34.623113],
+  "bbox": [
+    -98.422157,
+    34.623113,
+    -98.422157,
+    34.623113
+],
   "geometry": {"coordinates":[-98.422157,34.623113],"type":"Point"}
 }

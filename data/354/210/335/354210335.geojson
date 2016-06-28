@@ -2,13 +2,14 @@
   "id": 354210335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.876353,36.894353,-94.876353,36.894353",
     "geom:latitude":36.894353,
     "geom:longitude":-94.876353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 A St NE",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354210335,
-    "wof:lastmodified":1449066488,
+    "wof:lastmodified":1466763977,
     "wof:name":"Payton's Plumbing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.876353,36.894353,-94.876353,36.894353],
-  "geometry": {"coordinates":[-94.876353,36.894353],"type":"Point"}
+  "bbox": [
+    -94.876353,
+    36.894353,
+    -94.876353,
+    36.894353
+],
+  "geometry": {"coordinates":[-94.87635299999999,36.894353],"type":"Point"}
 }

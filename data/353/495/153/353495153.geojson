@@ -2,13 +2,14 @@
   "id": 353495153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.509975,34.599057,-98.509975,34.599057",
     "geom:latitude":34.599057,
     "geom:longitude":-98.509975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 SW Goodyear Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353495153,
-    "wof:lastmodified":1449019379,
+    "wof:lastmodified":1466763047,
     "wof:name":"Bar-S Foods Co",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-98.509975,34.599057,-98.509975,34.599057],
+  "bbox": [
+    -98.509975,
+    34.599057,
+    -98.509975,
+    34.599057
+],
   "geometry": {"coordinates":[-98.509975,34.599057],"type":"Point"}
 }

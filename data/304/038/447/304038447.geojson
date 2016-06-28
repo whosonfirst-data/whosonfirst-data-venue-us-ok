@@ -2,13 +2,14 @@
   "id": 304038447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.633808,35.555785,-97.633808,35.555785",
     "geom:latitude":35.555785,
     "geom:longitude":-97.633808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6712 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304038447,
-    "wof:lastmodified":1449043984,
+    "wof:lastmodified":1466763027,
     "wof:name":"Pro Nails & Tan",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-97.633808,35.555785,-97.633808,35.555785],
+  "bbox": [
+    -97.633808,
+    35.555785,
+    -97.633808,
+    35.555785
+],
   "geometry": {"coordinates":[-97.633808,35.555785],"type":"Point"}
 }

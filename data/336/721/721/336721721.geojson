@@ -2,13 +2,14 @@
   "id": 336721721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.300947,36.28959,-97.300947,36.28959",
     "geom:latitude":36.28959,
     "geom:longitude":-97.300947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1406 Fir St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336721721,
-    "wof:lastmodified":1448998011,
+    "wof:lastmodified":1466764053,
     "wof:name":"Carver Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-97.300947,36.28959,-97.300947,36.28959],
-  "geometry": {"coordinates":[-97.300947,36.28959],"type":"Point"}
+  "bbox": [
+    -97.300947,
+    36.28959,
+    -97.300947,
+    36.28959
+],
+  "geometry": {"coordinates":[-97.30094699999999,36.28959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303098045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.913617,35.333538,-96.913617,35.333538",
     "geom:latitude":35.333538,
     "geom:longitude":-96.913617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 N Mc Kinley Ave",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303098045,
-    "wof:lastmodified":1449000311,
+    "wof:lastmodified":1466763208,
     "wof:name":"Berry's Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-96.913617,35.333538,-96.913617,35.333538],
+  "bbox": [
+    -96.913617,
+    35.333538,
+    -96.913617,
+    35.333538
+],
   "geometry": {"coordinates":[-96.913617,35.333538],"type":"Point"}
 }

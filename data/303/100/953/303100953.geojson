@@ -2,13 +2,14 @@
   "id": 303100953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.826612,36.291349,-95.826612,36.291349",
     "geom:latitude":36.291349,
     "geom:longitude":-95.826612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9406 N 133rd E Ave",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303100953,
-    "wof:lastmodified":1448999931,
+    "wof:lastmodified":1466763251,
     "wof:name":"Copper Mill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.826612,36.291349,-95.826612,36.291349],
+  "bbox": [
+    -95.826612,
+    36.291349,
+    -95.826612,
+    36.291349
+],
   "geometry": {"coordinates":[-95.826612,36.291349],"type":"Point"}
 }

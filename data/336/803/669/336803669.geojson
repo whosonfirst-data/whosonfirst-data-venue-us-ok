@@ -2,13 +2,14 @@
   "id": 336803669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.887878,36.076439,-95.887878,36.076439",
     "geom:latitude":36.076439,
     "geom:longitude":-95.887878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7947 E 60th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336803669,
-    "wof:lastmodified":1448998025,
+    "wof:lastmodified":1466764681,
     "wof:name":"VPM",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-95.887878,36.076439,-95.887878,36.076439],
+  "bbox": [
+    -95.887878,
+    36.076439,
+    -95.887878,
+    36.076439
+],
   "geometry": {"coordinates":[-95.887878,36.076439],"type":"Point"}
 }

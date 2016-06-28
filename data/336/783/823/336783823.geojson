@@ -2,13 +2,14 @@
   "id": 336783823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.476065,36.423171,-95.476065,36.423171",
     "geom:latitude":36.423171,
     "geom:longitude":-95.476065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19614 E 410 Rd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336783823,
-    "wof:lastmodified":1448996947,
+    "wof:lastmodified":1466764602,
     "wof:name":"Sweet's Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.476065,36.423171,-95.476065,36.423171],
-  "geometry": {"coordinates":[-95.476065,36.423171],"type":"Point"}
+  "bbox": [
+    -95.476065,
+    36.423171,
+    -95.476065,
+    36.423171
+],
+  "geometry": {"coordinates":[-95.47606500000001,36.423171],"type":"Point"}
 }

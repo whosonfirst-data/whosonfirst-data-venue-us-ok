@@ -2,13 +2,14 @@
   "id": 303844107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.391021,35.449617,-97.391021,35.449617",
     "geom:latitude":35.449617,
     "geom:longitude":-97.391021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7501 SE 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303844107,
-    "wof:lastmodified":1448999160,
+    "wof:lastmodified":1466766753,
     "wof:name":"Colortype",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "entertainment"
     ]
 },
-  "bbox": [-97.391021,35.449617,-97.391021,35.449617],
-  "geometry": {"coordinates":[-97.391021,35.449617],"type":"Point"}
+  "bbox": [
+    -97.391021,
+    35.449617,
+    -97.391021,
+    35.449617
+],
+  "geometry": {"coordinates":[-97.39102099999999,35.449617],"type":"Point"}
 }

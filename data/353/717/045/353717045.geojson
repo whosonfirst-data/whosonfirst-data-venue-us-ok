@@ -2,13 +2,14 @@
   "id": 353717045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.945867,35.960492,-95.945867,35.960492",
     "geom:latitude":35.960492,
     "geom:longitude":-95.945867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13997 S 26th St",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353717045,
-    "wof:lastmodified":1449018314,
+    "wof:lastmodified":1466765058,
     "wof:name":"David Merrell",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-95.945867,35.960492,-95.945867,35.960492],
-  "geometry": {"coordinates":[-95.945867,35.960492],"type":"Point"}
+  "bbox": [
+    -95.945867,
+    35.960492,
+    -95.945867,
+    35.960492
+],
+  "geometry": {"coordinates":[-95.94586700000001,35.960492],"type":"Point"}
 }

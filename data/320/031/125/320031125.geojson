@@ -2,13 +2,14 @@
   "id": 320031125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.797536,36.022396,-95.797536,36.022396",
     "geom:latitude":36.022396,
     "geom:longitude":-95.797536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 S Elm Pl",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320031125,
-    "wof:lastmodified":1449012670,
+    "wof:lastmodified":1466762748,
     "wof:name":"Oklahoma Neuro Restorative Ctr",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.797536,36.022396,-95.797536,36.022396],
-  "geometry": {"coordinates":[-95.797536,36.022396],"type":"Point"}
+  "bbox": [
+    -95.797536,
+    36.022396,
+    -95.797536,
+    36.022396
+],
+  "geometry": {"coordinates":[-95.79753599999999,36.022396],"type":"Point"}
 }

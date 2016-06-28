@@ -2,13 +2,14 @@
   "id": 287242459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.013294,36.152832,-96.013294,36.152832",
     "geom:latitude":36.152832,
     "geom:longitude":-96.013294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1760 Newblock Park Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287242459,
-    "wof:lastmodified":1449001471,
+    "wof:lastmodified":1466762575,
     "wof:name":"Fire Marshal",
     "wof:parent_id":85872499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-96.013294,36.152832,-96.013294,36.152832],
+  "bbox": [
+    -96.013294,
+    36.152832,
+    -96.013294,
+    36.152832
+],
   "geometry": {"coordinates":[-96.013294,36.152832],"type":"Point"}
 }

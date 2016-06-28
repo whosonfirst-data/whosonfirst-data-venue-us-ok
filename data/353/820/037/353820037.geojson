@@ -2,13 +2,14 @@
   "id": 353820037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.705063,34.758558,-96.705063,34.758558",
     "geom:latitude":34.758558,
     "geom:longitude":-96.705063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 Latta Rd",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353820037,
-    "wof:lastmodified":1449019588,
+    "wof:lastmodified":1466765417,
     "wof:name":"Jones Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.705063,34.758558,-96.705063,34.758558],
+  "bbox": [
+    -96.705063,
+    34.758558,
+    -96.705063,
+    34.758558
+],
   "geometry": {"coordinates":[-96.705063,34.758558],"type":"Point"}
 }

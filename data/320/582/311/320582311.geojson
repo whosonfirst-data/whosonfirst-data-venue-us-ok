@@ -2,13 +2,14 @@
   "id": 320582311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.64325,35.580713,-97.64325,35.580713",
     "geom:latitude":35.580713,
     "geom:longitude":-97.64325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7217 NW 109th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320582311,
-    "wof:lastmodified":1449013271,
+    "wof:lastmodified":1466766258,
     "wof:name":"Raytek Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.64325,35.580713,-97.64325,35.580713],
-  "geometry": {"coordinates":[-97.64325,35.580713],"type":"Point"}
+  "bbox": [
+    -97.64325,
+    35.580713,
+    -97.64325,
+    35.580713
+],
+  "geometry": {"coordinates":[-97.64324999999999,35.580713],"type":"Point"}
 }

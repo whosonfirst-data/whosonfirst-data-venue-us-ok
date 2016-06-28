@@ -2,13 +2,14 @@
   "id": 303355387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.137684,34.226835,-97.137684,34.226835",
     "geom:latitude":34.226835,
     "geom:longitude":-97.137684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Ardmore Industrial Airpark",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303355387,
-    "wof:lastmodified":1448998796,
+    "wof:lastmodified":1466765086,
     "wof:name":"King Aerospace Support Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [-97.137684,34.226835,-97.137684,34.226835],
-  "geometry": {"coordinates":[-97.137684,34.226835],"type":"Point"}
+  "bbox": [
+    -97.137684,
+    34.226835,
+    -97.137684,
+    34.226835
+],
+  "geometry": {"coordinates":[-97.13768399999999,34.226835],"type":"Point"}
 }

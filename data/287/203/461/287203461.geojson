@@ -2,13 +2,14 @@
   "id": 287203461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.355639,35.745781,-95.355639,35.745781",
     "geom:latitude":35.745781,
     "geom:longitude":-95.355639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Callahan St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287203461,
-    "wof:lastmodified":1449001052,
+    "wof:lastmodified":1466764001,
     "wof:name":"Scott & Assoc Inc",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-95.355639,35.745781,-95.355639,35.745781],
+  "bbox": [
+    -95.355639,
+    35.745781,
+    -95.355639,
+    35.745781
+],
   "geometry": {"coordinates":[-95.355639,35.745781],"type":"Point"}
 }

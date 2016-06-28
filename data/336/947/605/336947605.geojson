@@ -2,13 +2,14 @@
   "id": 336947605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.419418,34.611922,-98.419418,34.611922",
     "geom:latitude":34.611922,
     "geom:longitude":-98.419418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 NW Bell Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336947605,
-    "wof:lastmodified":1448997711,
+    "wof:lastmodified":1466765306,
     "wof:name":"William A Corrales DDS",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.419418,34.611922,-98.419418,34.611922],
-  "geometry": {"coordinates":[-98.419418,34.611922],"type":"Point"}
+  "bbox": [
+    -98.419418,
+    34.611922,
+    -98.419418,
+    34.611922
+],
+  "geometry": {"coordinates":[-98.41941799999999,34.611922],"type":"Point"}
 }

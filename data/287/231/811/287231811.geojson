@@ -2,13 +2,14 @@
   "id": 287231811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.992337,36.150725,-95.992337,36.150725",
     "geom:latitude":36.150725,
     "geom:longitude":-95.992337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W 5th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287231811,
-    "wof:lastmodified":1449001113,
+    "wof:lastmodified":1466762406,
     "wof:name":"Mayo",
     "wof:parent_id":85872473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rooms"
     ]
 },
-  "bbox": [-95.992337,36.150725,-95.992337,36.150725],
-  "geometry": {"coordinates":[-95.992337,36.150725],"type":"Point"}
+  "bbox": [
+    -95.992337,
+    36.150725,
+    -95.992337,
+    36.150725
+],
+  "geometry": {"coordinates":[-95.99233700000001,36.150725],"type":"Point"}
 }

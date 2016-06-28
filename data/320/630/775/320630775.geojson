@@ -2,13 +2,14 @@
   "id": 320630775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.526736,35.563363,-97.526736,35.563363",
     "geom:latitude":35.563363,
     "geom:longitude":-97.526736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"732 NW 91st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320630775,
-    "wof:lastmodified":1449012612,
+    "wof:lastmodified":1466766352,
     "wof:name":"Johns Delivery Ser",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.526736,35.563363,-97.526736,35.563363],
+  "bbox": [
+    -97.526736,
+    35.563363,
+    -97.526736,
+    35.563363
+],
   "geometry": {"coordinates":[-97.526736,35.563363],"type":"Point"}
 }

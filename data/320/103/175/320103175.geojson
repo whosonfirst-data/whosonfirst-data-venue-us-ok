@@ -2,13 +2,14 @@
   "id": 320103175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.136682,35.33645,-96.136682,35.33645",
     "geom:latitude":35.33645,
     "geom:longitude":-96.136682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 Seminole Ave",
     "sg:city":"Weleetka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320103175,
-    "wof:lastmodified":1449013587,
+    "wof:lastmodified":1466763812,
     "wof:name":"Weleetka Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-96.136682,35.33645,-96.136682,35.33645],
-  "geometry": {"coordinates":[-96.136682,35.33645],"type":"Point"}
+  "bbox": [
+    -96.136682,
+    35.33645,
+    -96.136682,
+    35.33645
+],
+  "geometry": {"coordinates":[-96.13668199999999,35.33645],"type":"Point"}
 }

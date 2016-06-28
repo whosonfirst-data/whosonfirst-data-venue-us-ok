@@ -2,13 +2,14 @@
   "id": 303862145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.715211,35.519466,-97.715211,35.519466",
     "geom:latitude":35.519466,
     "geom:longitude":-97.715211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4812 Deer Creek",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303862145,
-    "wof:lastmodified":1449000627,
+    "wof:lastmodified":1466766863,
     "wof:name":"Lon's Custom Welding",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.715211,35.519466,-97.715211,35.519466],
+  "bbox": [
+    -97.715211,
+    35.519466,
+    -97.715211,
+    35.519466
+],
   "geometry": {"coordinates":[-97.715211,35.519466],"type":"Point"}
 }

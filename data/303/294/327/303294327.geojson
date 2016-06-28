@@ -2,13 +2,14 @@
   "id": 303294327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.564792,35.565604,-97.564792,35.565604",
     "geom:latitude":35.565604,
     "geom:longitude":-97.564792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2730 W Britton Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303294327,
-    "wof:lastmodified":1448999858,
+    "wof:lastmodified":1466764815,
     "wof:name":"Don Bolen Autos",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.564792,35.565604,-97.564792,35.565604],
+  "bbox": [
+    -97.564792,
+    35.565604,
+    -97.564792,
+    35.565604
+],
   "geometry": {"coordinates":[-97.564792,35.565604],"type":"Point"}
 }

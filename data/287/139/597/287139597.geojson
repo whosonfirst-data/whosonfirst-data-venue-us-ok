@@ -2,13 +2,14 @@
   "id": 287139597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.431589,34.611543,-98.431589,34.611543",
     "geom:latitude":34.611543,
     "geom:longitude":-98.431589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 NW 31st St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287139597,
-    "wof:lastmodified":1449000734,
+    "wof:lastmodified":1466763638,
     "wof:name":"Southwest Oklahoma Surgical",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-98.431589,34.611543,-98.431589,34.611543],
+  "bbox": [
+    -98.431589,
+    34.611543,
+    -98.431589,
+    34.611543
+],
   "geometry": {"coordinates":[-98.431589,34.611543],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303205089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.310549,36.30617,-95.310549,36.30617",
     "geom:latitude":36.30617,
     "geom:longitude":-95.310549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E Graham Ave",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303205089,
-    "wof:lastmodified":1448999598,
+    "wof:lastmodified":1466764602,
     "wof:name":"Emergency Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.310549,36.30617,-95.310549,36.30617],
-  "geometry": {"coordinates":[-95.310549,36.30617],"type":"Point"}
+  "bbox": [
+    -95.310549,
+    36.30617,
+    -95.310549,
+    36.30617
+],
+  "geometry": {"coordinates":[-95.31054899999999,36.30617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303478471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.593518,35.513605,-97.593518,35.513605",
     "geom:latitude":35.513605,
     "geom:longitude":-97.593518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 Perimeter Center Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303478471,
-    "wof:lastmodified":1448998198,
+    "wof:lastmodified":1466765661,
     "wof:name":"Stephen L Stratton",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.593518,35.513605,-97.593518,35.513605],
+  "bbox": [
+    -97.593518,
+    35.513605,
+    -97.593518,
+    35.513605
+],
   "geometry": {"coordinates":[-97.593518,35.513605],"type":"Point"}
 }

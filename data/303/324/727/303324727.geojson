@@ -2,13 +2,14 @@
   "id": 303324727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.370785,35.437747,-97.370785,35.437747",
     "geom:latitude":35.437747,
     "geom:longitude":-97.370785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2829 S Douglas Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303324727,
-    "wof:lastmodified":1448999548,
+    "wof:lastmodified":1466765046,
     "wof:name":"Dons Pest Control",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "disinfecting"
     ]
 },
-  "bbox": [-97.370785,35.437747,-97.370785,35.437747],
+  "bbox": [
+    -97.370785,
+    35.437747,
+    -97.370785,
+    35.437747
+],
   "geometry": {"coordinates":[-97.370785,35.437747],"type":"Point"}
 }

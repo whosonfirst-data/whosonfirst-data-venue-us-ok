@@ -2,13 +2,14 @@
   "id": 220180229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.833329,36.153317,-95.833329,36.153317",
     "geom:latitude":36.153317,
     "geom:longitude":-95.833329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 S 129th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":220180229,
-    "wof:lastmodified":1449074089,
+    "wof:lastmodified":1466762355,
     "wof:name":"Top Choice Countertops, L.L.C.",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-95.833329,36.153317,-95.833329,36.153317],
-  "geometry": {"coordinates":[-95.833329,36.153317],"type":"Point"}
+  "bbox": [
+    -95.833329,
+    36.153317,
+    -95.833329,
+    36.153317
+],
+  "geometry": {"coordinates":[-95.83332900000001,36.153317],"type":"Point"}
 }

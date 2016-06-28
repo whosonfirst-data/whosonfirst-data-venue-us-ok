@@ -2,13 +2,14 @@
   "id": 353547089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.956286,36.094461,-95.956286,36.094461",
     "geom:latitude":36.094461,
     "geom:longitude":-95.956286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4728 S Lewis Ct",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353547089,
-    "wof:lastmodified":1449018518,
+    "wof:lastmodified":1466763807,
     "wof:name":"HLJ Consulting Inc",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-95.956286,36.094461,-95.956286,36.094461],
-  "geometry": {"coordinates":[-95.956286,36.094461],"type":"Point"}
+  "bbox": [
+    -95.956286,
+    36.094461,
+    -95.956286,
+    36.094461
+],
+  "geometry": {"coordinates":[-95.95628600000001,36.094461],"type":"Point"}
 }

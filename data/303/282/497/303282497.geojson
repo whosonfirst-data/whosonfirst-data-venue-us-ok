@@ -2,13 +2,14 @@
   "id": 303282497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.530211,36.121278,-95.530211,36.121278",
     "geom:latitude":36.121278,
     "geom:longitude":-95.530211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34102 S 4200 Rd",
     "sg:city":"Inola",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303282497,
-    "wof:lastmodified":1448999651,
+    "wof:lastmodified":1466764872,
     "wof:name":"Williams Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-95.530211,36.121278,-95.530211,36.121278],
-  "geometry": {"coordinates":[-95.530211,36.121278],"type":"Point"}
+  "bbox": [
+    -95.530211,
+    36.121278,
+    -95.530211,
+    36.121278
+],
+  "geometry": {"coordinates":[-95.53021099999999,36.121278],"type":"Point"}
 }

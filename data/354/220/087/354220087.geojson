@@ -2,13 +2,14 @@
   "id": 354220087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.629537,36.698852,-95.629537,36.698852",
     "geom:latitude":36.698852,
     "geom:longitude":-95.629537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S Ash St",
     "sg:city":"Nowata",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354220087,
-    "wof:lastmodified":1449067615,
+    "wof:lastmodified":1466764039,
     "wof:name":"Nowata County Conservation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-95.629537,36.698852,-95.629537,36.698852],
+  "bbox": [
+    -95.629537,
+    36.698852,
+    -95.629537,
+    36.698852
+],
   "geometry": {"coordinates":[-95.629537,36.698852],"type":"Point"}
 }

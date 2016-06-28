@@ -2,13 +2,14 @@
   "id": 320828993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.311833,35.726042,-95.311833,35.726042",
     "geom:latitude":35.726042,
     "geom:longitude":-95.311833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S 41st St E",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320828993,
-    "wof:lastmodified":1449013147,
+    "wof:lastmodified":1466766908,
     "wof:name":"Optronics Inc",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lighting"
     ]
 },
-  "bbox": [-95.311833,35.726042,-95.311833,35.726042],
-  "geometry": {"coordinates":[-95.311833,35.726042],"type":"Point"}
+  "bbox": [
+    -95.311833,
+    35.726042,
+    -95.311833,
+    35.726042
+],
+  "geometry": {"coordinates":[-95.31183299999999,35.726042],"type":"Point"}
 }

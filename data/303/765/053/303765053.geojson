@@ -2,13 +2,14 @@
   "id": 303765053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.432619,34.608793,-98.432619,34.608793",
     "geom:latitude":34.608793,
     "geom:longitude":-98.432619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 W Gore Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303765053,
-    "wof:lastmodified":1448999534,
+    "wof:lastmodified":1466766638,
     "wof:name":"KCCU",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-98.432619,34.608793,-98.432619,34.608793],
+  "bbox": [
+    -98.432619,
+    34.608793,
+    -98.432619,
+    34.608793
+],
   "geometry": {"coordinates":[-98.432619,34.608793],"type":"Point"}
 }

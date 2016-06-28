@@ -2,13 +2,14 @@
   "id": 320819793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.537109,35.565489,-97.537109,35.565489",
     "geom:latitude":35.565489,
     "geom:longitude":-97.537109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 W Britton Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320819793,
-    "wof:lastmodified":1449012151,
+    "wof:lastmodified":1466766893,
     "wof:name":"Britton Discount Cigarrette",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.537109,35.565489,-97.537109,35.565489],
+  "bbox": [
+    -97.537109,
+    35.565489,
+    -97.537109,
+    35.565489
+],
   "geometry": {"coordinates":[-97.537109,35.565489],"type":"Point"}
 }

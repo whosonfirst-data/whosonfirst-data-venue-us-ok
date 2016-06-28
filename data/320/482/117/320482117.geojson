@@ -2,13 +2,14 @@
   "id": 320482117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.890203,36.393071,-97.890203,36.393071",
     "geom:latitude":36.393071,
     "geom:longitude":-97.890203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 S Van Buren St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320482117,
-    "wof:lastmodified":1449012601,
+    "wof:lastmodified":1466766012,
     "wof:name":"Grand Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.890203,36.393071,-97.890203,36.393071],
+  "bbox": [
+    -97.890203,
+    36.393071,
+    -97.890203,
+    36.393071
+],
   "geometry": {"coordinates":[-97.890203,36.393071],"type":"Point"}
 }

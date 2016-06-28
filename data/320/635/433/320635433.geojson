@@ -2,13 +2,14 @@
   "id": 320635433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.877567,36.895066,-94.877567,36.895066",
     "geom:latitude":36.895066,
     "geom:longitude":-94.877567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 N Main St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320635433,
-    "wof:lastmodified":1449012870,
+    "wof:lastmodified":1466766357,
     "wof:name":"Miami Pawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.877567,36.895066,-94.877567,36.895066],
+  "bbox": [
+    -94.877567,
+    36.895066,
+    -94.877567,
+    36.895066
+],
   "geometry": {"coordinates":[-94.877567,36.895066],"type":"Point"}
 }

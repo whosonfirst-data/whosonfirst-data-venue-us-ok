@@ -2,13 +2,14 @@
   "id": 303479603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.428118,35.453572,-97.428118,35.453572",
     "geom:latitude":35.453572,
     "geom:longitude":-97.428118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Howard Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303479603,
-    "wof:lastmodified":1448999790,
+    "wof:lastmodified":1466765764,
     "wof:name":"Clark Mary Lee",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.428118,35.453572,-97.428118,35.453572],
+  "bbox": [
+    -97.428118,
+    35.453572,
+    -97.428118,
+    35.453572
+],
   "geometry": {"coordinates":[-97.428118,35.453572],"type":"Point"}
 }

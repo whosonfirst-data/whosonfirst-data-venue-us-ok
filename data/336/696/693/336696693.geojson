@@ -2,13 +2,14 @@
   "id": 336696693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530066,35.353931,-97.530066,35.353931",
     "geom:latitude":35.353931,
     "geom:longitude":-97.530066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11925 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336696693,
-    "wof:lastmodified":1448997011,
+    "wof:lastmodified":1466763669,
     "wof:name":"Mid First Bank",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.530066,35.353931,-97.530066,35.353931],
-  "geometry": {"coordinates":[-97.530066,35.353931],"type":"Point"}
+  "bbox": [
+    -97.530066,
+    35.353931,
+    -97.530066,
+    35.353931
+],
+  "geometry": {"coordinates":[-97.53006600000001,35.353931],"type":"Point"}
 }

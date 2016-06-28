@@ -2,13 +2,14 @@
   "id": 303967313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.413005,35.844884,-98.413005,35.844884",
     "geom:latitude":35.844884,
     "geom:longitude":-98.413005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Noble Ave",
     "sg:city":"Watonga",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303967313,
-    "wof:lastmodified":1449000383,
+    "wof:lastmodified":1466767104,
     "wof:name":"Pat's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.413005,35.844884,-98.413005,35.844884],
+  "bbox": [
+    -98.413005,
+    35.844884,
+    -98.413005,
+    35.844884
+],
   "geometry": {"coordinates":[-98.413005,35.844884],"type":"Point"}
 }

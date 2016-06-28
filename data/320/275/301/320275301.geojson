@@ -2,13 +2,14 @@
   "id": 320275301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.670863,35.571919,-97.670863,35.571919",
     "geom:latitude":35.571919,
     "geom:longitude":-97.670863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8512 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320275301,
-    "wof:lastmodified":1449012469,
+    "wof:lastmodified":1466765032,
     "wof:name":"Express Services Intl",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-97.670863,35.571919,-97.670863,35.571919],
+  "bbox": [
+    -97.670863,
+    35.571919,
+    -97.670863,
+    35.571919
+],
   "geometry": {"coordinates":[-97.670863,35.571919],"type":"Point"}
 }

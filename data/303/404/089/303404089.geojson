@@ -2,13 +2,14 @@
   "id": 303404089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.958274,36.188262,-95.958274,36.188262",
     "geom:latitude":36.188262,
     "geom:longitude":-95.958274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2436 N Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303404089,
-    "wof:lastmodified":1448999741,
+    "wof:lastmodified":1466765449,
     "wof:name":"H & H Manufacturing",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.958274,36.188262,-95.958274,36.188262],
+  "bbox": [
+    -95.958274,
+    36.188262,
+    -95.958274,
+    36.188262
+],
   "geometry": {"coordinates":[-95.958274,36.188262],"type":"Point"}
 }

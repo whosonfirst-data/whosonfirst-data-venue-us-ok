@@ -2,13 +2,14 @@
   "id": 303847673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.537529,36.30742,-95.537529,36.30742",
     "geom:latitude":36.30742,
     "geom:longitude":-95.537529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16352 E Hwy 20",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303847673,
-    "wof:lastmodified":1448999009,
+    "wof:lastmodified":1466766833,
     "wof:name":"Shipman Veterinary Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-95.537529,36.30742,-95.537529,36.30742],
-  "geometry": {"coordinates":[-95.537529,36.30742],"type":"Point"}
+  "bbox": [
+    -95.537529,
+    36.30742,
+    -95.537529,
+    36.30742
+],
+  "geometry": {"coordinates":[-95.53752900000001,36.30742],"type":"Point"}
 }

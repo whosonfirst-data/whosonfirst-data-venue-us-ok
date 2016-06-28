@@ -2,13 +2,14 @@
   "id": 303370903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.650636,35.58003,-97.650636,35.58003",
     "geom:latitude":35.58003,
     "geom:longitude":-97.650636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7700 W Hefner Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303370903,
-    "wof:lastmodified":1448999453,
+    "wof:lastmodified":1466765279,
     "wof:name":"Hefner Mansions Retirement Ctr",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.650636,35.58003,-97.650636,35.58003],
-  "geometry": {"coordinates":[-97.650636,35.58003],"type":"Point"}
+  "bbox": [
+    -97.650636,
+    35.58003,
+    -97.650636,
+    35.58003
+],
+  "geometry": {"coordinates":[-97.65063600000001,35.58003],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303829745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.119931,36.105337,-97.119931,36.105337",
     "geom:latitude":36.105337,
     "geom:longitude":-97.119931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Oakfield Ct",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303829745,
-    "wof:lastmodified":1449000405,
+    "wof:lastmodified":1466766877,
     "wof:name":"Austin Longworth Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "partner"
     ]
 },
-  "bbox": [-97.119931,36.105337,-97.119931,36.105337],
-  "geometry": {"coordinates":[-97.119931,36.105337],"type":"Point"}
+  "bbox": [
+    -97.119931,
+    36.105337,
+    -97.119931,
+    36.105337
+],
+  "geometry": {"coordinates":[-97.11993099999999,36.105337],"type":"Point"}
 }

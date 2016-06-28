@@ -2,13 +2,14 @@
   "id": 336944495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975856,36.071018,-95.975856,36.071018",
     "geom:latitude":36.071018,
     "geom:longitude":-95.975856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6320 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336944495,
-    "wof:lastmodified":1448997493,
+    "wof:lastmodified":1466765408,
     "wof:name":"New Home Team Appliance",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-95.975856,36.071018,-95.975856,36.071018],
-  "geometry": {"coordinates":[-95.975856,36.071018],"type":"Point"}
+  "bbox": [
+    -95.975856,
+    36.071018,
+    -95.975856,
+    36.071018
+],
+  "geometry": {"coordinates":[-95.97585599999999,36.071018],"type":"Point"}
 }

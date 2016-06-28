@@ -2,13 +2,14 @@
   "id": 303205011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.65436,35.493723,-97.65436,35.493723",
     "geom:latitude":35.493723,
     "geom:longitude":-97.65436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2431 N Council Rd",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303205011,
-    "wof:lastmodified":1448999599,
+    "wof:lastmodified":1466764602,
     "wof:name":"ABS Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.65436,35.493723,-97.65436,35.493723],
+  "bbox": [
+    -97.65436,
+    35.493723,
+    -97.65436,
+    35.493723
+],
   "geometry": {"coordinates":[-97.65436,35.493723],"type":"Point"}
 }

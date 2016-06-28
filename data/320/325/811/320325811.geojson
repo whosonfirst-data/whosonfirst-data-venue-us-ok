@@ -2,13 +2,14 @@
   "id": 320325811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.374082,35.978353,-95.374082,35.978353",
     "geom:latitude":35.978353,
     "geom:longitude":-95.374082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Honeysuckle Dr",
     "sg:city":"Wagoner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320325811,
-    "wof:lastmodified":1449012731,
+    "wof:lastmodified":1466765233,
     "wof:name":"Cimarron Vly Therapeutic Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-95.374082,35.978353,-95.374082,35.978353],
+  "bbox": [
+    -95.374082,
+    35.978353,
+    -95.374082,
+    35.978353
+],
   "geometry": {"coordinates":[-95.374082,35.978353],"type":"Point"}
 }

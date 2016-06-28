@@ -2,13 +2,14 @@
   "id": 353414479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406467,35.513197,-97.406467,35.513197",
     "geom:latitude":35.513197,
     "geom:longitude":-97.406467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4385 N Air Depot Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353414479,
-    "wof:lastmodified":1449019450,
+    "wof:lastmodified":1466762514,
     "wof:name":"US Dept of the Air Force",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-97.406467,35.513197,-97.406467,35.513197],
-  "geometry": {"coordinates":[-97.406467,35.513197],"type":"Point"}
+  "bbox": [
+    -97.406467,
+    35.513197,
+    -97.406467,
+    35.513197
+],
+  "geometry": {"coordinates":[-97.40646700000001,35.513197],"type":"Point"}
 }

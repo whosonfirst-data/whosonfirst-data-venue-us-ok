@@ -2,13 +2,14 @@
   "id": 354039401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.872161,36.051731,-95.872161,36.051731",
     "geom:latitude":36.051731,
     "geom:longitude":-95.872161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9427 E 77th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354039401,
-    "wof:lastmodified":1449067454,
+    "wof:lastmodified":1466763210,
     "wof:name":"PC Problem Solvers",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.872161,36.051731,-95.872161,36.051731],
-  "geometry": {"coordinates":[-95.872161,36.051731],"type":"Point"}
+  "bbox": [
+    -95.872161,
+    36.051731,
+    -95.872161,
+    36.051731
+],
+  "geometry": {"coordinates":[-95.87216100000001,36.051731],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320324849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.508872,35.718569,-97.508872,35.718569",
     "geom:latitude":35.718569,
     "geom:longitude":-97.508872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 Oak Forest Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320324849,
-    "wof:lastmodified":1449013435,
+    "wof:lastmodified":1466765223,
     "wof:name":"Pagosa Auto Parts Inc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parts"
     ]
 },
-  "bbox": [-97.508872,35.718569,-97.508872,35.718569],
+  "bbox": [
+    -97.508872,
+    35.718569,
+    -97.508872,
+    35.718569
+],
   "geometry": {"coordinates":[-97.508872,35.718569],"type":"Point"}
 }

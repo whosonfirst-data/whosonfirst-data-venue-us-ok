@@ -2,13 +2,14 @@
   "id": 303785805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.968185,35.987049,-95.968185,35.987049",
     "geom:latitude":35.987049,
     "geom:longitude":-95.968185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E 122nd Pl",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303785805,
-    "wof:lastmodified":1449000142,
+    "wof:lastmodified":1466766711,
     "wof:name":"Oklahoma Disaster Medical Assi",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "disaster"
     ]
 },
-  "bbox": [-95.968185,35.987049,-95.968185,35.987049],
-  "geometry": {"coordinates":[-95.968185,35.987049],"type":"Point"}
+  "bbox": [
+    -95.968185,
+    35.987049,
+    -95.968185,
+    35.987049
+],
+  "geometry": {"coordinates":[-95.96818500000001,35.987049],"type":"Point"}
 }

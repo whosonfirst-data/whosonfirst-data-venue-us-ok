@@ -2,13 +2,14 @@
   "id": 303645633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.016147,36.131408,-96.016147,36.131408",
     "geom:latitude":36.131408,
     "geom:longitude":-96.016147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2122 S Yukon Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303645633,
-    "wof:lastmodified":1448998368,
+    "wof:lastmodified":1466766344,
     "wof:name":"Barlow Operators Of Tulsa",
     "wof:parent_id":85821015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.016147,36.131408,-96.016147,36.131408],
+  "bbox": [
+    -96.016147,
+    36.131408,
+    -96.016147,
+    36.131408
+],
   "geometry": {"coordinates":[-96.016147,36.131408],"type":"Point"}
 }

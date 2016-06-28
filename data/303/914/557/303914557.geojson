@@ -2,13 +2,14 @@
   "id": 303914557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.636148,35.587001,-97.636148,35.587001",
     "geom:latitude":35.587001,
     "geom:longitude":-97.636148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6901 NW 116th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303914557,
-    "wof:lastmodified":1448999052,
+    "wof:lastmodified":1466766995,
     "wof:name":"Parrfect Solutions Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-97.636148,35.587001,-97.636148,35.587001],
-  "geometry": {"coordinates":[-97.636148,35.587001],"type":"Point"}
+  "bbox": [
+    -97.636148,
+    35.587001,
+    -97.636148,
+    35.587001
+],
+  "geometry": {"coordinates":[-97.63614800000001,35.587001],"type":"Point"}
 }

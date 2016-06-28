@@ -2,13 +2,14 @@
   "id": 320022795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531411,35.552952,-97.531411,35.552952",
     "geom:latitude":35.552952,
     "geom:longitude":-97.531411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 N Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320022795,
-    "wof:lastmodified":1449012513,
+    "wof:lastmodified":1466762624,
     "wof:name":"Gfeller Photography",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "photo"
     ]
 },
-  "bbox": [-97.531411,35.552952,-97.531411,35.552952],
-  "geometry": {"coordinates":[-97.531411,35.552952],"type":"Point"}
+  "bbox": [
+    -97.531411,
+    35.552952,
+    -97.531411,
+    35.552952
+],
+  "geometry": {"coordinates":[-97.53141100000001,35.552952],"type":"Point"}
 }

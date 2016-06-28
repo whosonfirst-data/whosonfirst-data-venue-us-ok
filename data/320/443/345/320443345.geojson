@@ -2,13 +2,14 @@
   "id": 320443345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.472686,35.216408,-97.472686,35.216408",
     "geom:latitude":35.216408,
     "geom:longitude":-97.472686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Muldrow Ct",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320443345,
-    "wof:lastmodified":1449014279,
+    "wof:lastmodified":1466765936,
     "wof:name":"McLane",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.472686,35.216408,-97.472686,35.216408],
+  "bbox": [
+    -97.472686,
+    35.216408,
+    -97.472686,
+    35.216408
+],
   "geometry": {"coordinates":[-97.472686,35.216408],"type":"Point"}
 }

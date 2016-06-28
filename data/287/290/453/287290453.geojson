@@ -2,13 +2,14 @@
   "id": 287290453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.433489,36.53629,-95.433489,36.53629",
     "geom:latitude":36.53629,
     "geom:longitude":-95.433489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Vine St",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287290453,
-    "wof:lastmodified":1449001049,
+    "wof:lastmodified":1466763286,
     "wof:name":"Chelsea Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-95.433489,36.53629,-95.433489,36.53629],
-  "geometry": {"coordinates":[-95.433489,36.53629],"type":"Point"}
+  "bbox": [
+    -95.433489,
+    36.53629,
+    -95.433489,
+    36.53629
+],
+  "geometry": {"coordinates":[-95.43348899999999,36.53629],"type":"Point"}
 }

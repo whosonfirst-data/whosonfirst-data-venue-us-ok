@@ -2,13 +2,14 @@
   "id": 336745653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.315739,36.307439,-95.315739,36.307439",
     "geom:latitude":36.307439,
     "geom:longitude":-95.315739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 S Vann St",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336745653,
-    "wof:lastmodified":1448997955,
+    "wof:lastmodified":1466764376,
     "wof:name":"Continental Credit Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-95.315739,36.307439,-95.315739,36.307439],
-  "geometry": {"coordinates":[-95.315739,36.307439],"type":"Point"}
+  "bbox": [
+    -95.315739,
+    36.307439,
+    -95.315739,
+    36.307439
+],
+  "geometry": {"coordinates":[-95.31573899999999,36.307439],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320058943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.126252,33.934802,-97.126252,33.934802",
     "geom:latitude":33.934802,
     "geom:longitude":-97.126252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 US Hwy 77",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320058943,
-    "wof:lastmodified":1449011802,
+    "wof:lastmodified":1466763167,
     "wof:name":"Donut Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "doughnut"
     ]
 },
-  "bbox": [-97.126252,33.934802,-97.126252,33.934802],
-  "geometry": {"coordinates":[-97.126252,33.934802],"type":"Point"}
+  "bbox": [
+    -97.126252,
+    33.934802,
+    -97.126252,
+    33.934802
+],
+  "geometry": {"coordinates":[-97.12625199999999,33.934802],"type":"Point"}
 }

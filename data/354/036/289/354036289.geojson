@@ -2,13 +2,14 @@
   "id": 354036289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.638257,35.808605,-94.638257,35.808605",
     "geom:latitude":35.808605,
     "geom:longitude":-94.638257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 W Locust St",
     "sg:city":"Stilwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354036289,
-    "wof:lastmodified":1449066301,
+    "wof:lastmodified":1466763177,
     "wof:name":"Memorial Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.638257,35.808605,-94.638257,35.808605],
+  "bbox": [
+    -94.638257,
+    35.808605,
+    -94.638257,
+    35.808605
+],
   "geometry": {"coordinates":[-94.638257,35.808605],"type":"Point"}
 }

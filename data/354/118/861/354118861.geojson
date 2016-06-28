@@ -2,13 +2,14 @@
   "id": 354118861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.934856,36.145568,-95.934856,36.145568",
     "geom:latitude":36.145568,
     "geom:longitude":-95.934856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 S Marion Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354118861,
-    "wof:lastmodified":1449067319,
+    "wof:lastmodified":1466763585,
     "wof:name":"Sam Fullerton",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.934856,36.145568,-95.934856,36.145568],
+  "bbox": [
+    -95.934856,
+    36.145568,
+    -95.934856,
+    36.145568
+],
   "geometry": {"coordinates":[-95.934856,36.145568],"type":"Point"}
 }

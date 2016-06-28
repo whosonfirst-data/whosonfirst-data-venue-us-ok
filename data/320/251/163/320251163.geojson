@@ -2,13 +2,14 @@
   "id": 320251163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.560319,35.534685,-97.560319,35.534685",
     "geom:latitude":35.534685,
     "geom:longitude":-97.560319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 NW 62nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320251163,
-    "wof:lastmodified":1449011329,
+    "wof:lastmodified":1466764848,
     "wof:name":"Imperial Terrace Condo Owners",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-97.560319,35.534685,-97.560319,35.534685],
-  "geometry": {"coordinates":[-97.560319,35.534685],"type":"Point"}
+  "bbox": [
+    -97.560319,
+    35.534685,
+    -97.560319,
+    35.534685
+],
+  "geometry": {"coordinates":[-97.56031900000001,35.534685],"type":"Point"}
 }

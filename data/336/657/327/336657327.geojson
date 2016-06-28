@@ -2,13 +2,14 @@
   "id": 336657327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.410005,36.435236,-99.410005,36.435236",
     "geom:latitude":36.435236,
     "geom:longitude":-99.410005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2327 Main Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336657327,
-    "wof:lastmodified":1448997049,
+    "wof:lastmodified":1466763063,
     "wof:name":"Bargain World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.410005,36.435236,-99.410005,36.435236],
+  "bbox": [
+    -99.410005,
+    36.435236,
+    -99.410005,
+    36.435236
+],
   "geometry": {"coordinates":[-99.410005,36.435236],"type":"Point"}
 }

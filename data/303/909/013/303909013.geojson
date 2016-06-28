@@ -2,13 +2,14 @@
   "id": 303909013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.135029,35.281142,-99.135029,35.281142",
     "geom:latitude":35.281142,
     "geom:longitude":-99.135029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 S Rambo St",
     "sg:city":"Dill City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303909013,
-    "wof:lastmodified":1448999961,
+    "wof:lastmodified":1466767061,
     "wof:name":"Dill City Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-99.135029,35.281142,-99.135029,35.281142],
+  "bbox": [
+    -99.135029,
+    35.281142,
+    -99.135029,
+    35.281142
+],
   "geometry": {"coordinates":[-99.135029,35.281142],"type":"Point"}
 }

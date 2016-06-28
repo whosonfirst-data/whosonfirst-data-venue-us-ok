@@ -2,13 +2,14 @@
   "id": 320263779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.602775,34.838151,-97.602775,34.838151",
     "geom:latitude":34.838151,
     "geom:longitude":-97.602775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Main St",
     "sg:city":"Lindsay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320263779,
-    "wof:lastmodified":1449014850,
+    "wof:lastmodified":1466764857,
     "wof:name":"Pro Vid All Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.602775,34.838151,-97.602775,34.838151],
-  "geometry": {"coordinates":[-97.602775,34.838151],"type":"Point"}
+  "bbox": [
+    -97.602775,
+    34.838151,
+    -97.602775,
+    34.838151
+],
+  "geometry": {"coordinates":[-97.60277499999999,34.838151],"type":"Point"}
 }

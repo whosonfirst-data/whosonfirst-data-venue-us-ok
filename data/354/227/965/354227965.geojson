@@ -2,13 +2,14 @@
   "id": 354227965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.562846,35.531609,-97.562846,35.531609",
     "geom:latitude":35.531609,
     "geom:longitude":-97.562846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 NW 58th Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354227965,
-    "wof:lastmodified":1449066286,
+    "wof:lastmodified":1466764098,
     "wof:name":"Davids",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.562846,35.531609,-97.562846,35.531609],
-  "geometry": {"coordinates":[-97.562846,35.531609],"type":"Point"}
+  "bbox": [
+    -97.562846,
+    35.531609,
+    -97.562846,
+    35.531609
+],
+  "geometry": {"coordinates":[-97.56284599999999,35.531609],"type":"Point"}
 }

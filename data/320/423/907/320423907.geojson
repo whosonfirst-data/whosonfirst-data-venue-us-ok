@@ -2,13 +2,14 @@
   "id": 320423907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.495456,35.536826,-97.495456,35.536826",
     "geom:latitude":35.536826,
     "geom:longitude":-97.495456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 NE 63rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320423907,
-    "wof:lastmodified":1449011881,
+    "wof:lastmodified":1466765849,
     "wof:name":"Oklahoma State Home Bldrs Assn",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-97.495456,35.536826,-97.495456,35.536826],
+  "bbox": [
+    -97.495456,
+    35.536826,
+    -97.495456,
+    35.536826
+],
   "geometry": {"coordinates":[-97.495456,35.536826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354011613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.884076,36.413133,-97.884076,36.413133",
     "geom:latitude":36.413133,
     "geom:longitude":-97.884076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 N Meadowbrook Dr",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354011613,
-    "wof:lastmodified":1449067329,
+    "wof:lastmodified":1466763008,
     "wof:name":"Wolf Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.884076,36.413133,-97.884076,36.413133],
-  "geometry": {"coordinates":[-97.884076,36.413133],"type":"Point"}
+  "bbox": [
+    -97.884076,
+    36.413133,
+    -97.884076,
+    36.413133
+],
+  "geometry": {"coordinates":[-97.88407599999999,36.413133],"type":"Point"}
 }

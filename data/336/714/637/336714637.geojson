@@ -2,13 +2,14 @@
   "id": 336714637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.958267,36.131264,-95.958267,36.131264",
     "geom:latitude":36.131264,
     "geom:longitude":-95.958267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 S Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336714637,
-    "wof:lastmodified":1448997484,
+    "wof:lastmodified":1466763946,
     "wof:name":"St Joseph's Monastery",
     "wof:parent_id":85872495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convent"
     ]
 },
-  "bbox": [-95.958267,36.131264,-95.958267,36.131264],
-  "geometry": {"coordinates":[-95.958267,36.131264],"type":"Point"}
+  "bbox": [
+    -95.958267,
+    36.131264,
+    -95.958267,
+    36.131264
+],
+  "geometry": {"coordinates":[-95.95826700000001,36.131264],"type":"Point"}
 }

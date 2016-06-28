@@ -2,13 +2,14 @@
   "id": 336900989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.54394,35.391114,-97.54394,35.391114",
     "geom:latitude":35.391114,
     "geom:longitude":-97.54394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 SW 74th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336900989,
-    "wof:lastmodified":1448997414,
+    "wof:lastmodified":1466765114,
     "wof:name":"Taco Bueno 3027",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.54394,35.391114,-97.54394,35.391114],
-  "geometry": {"coordinates":[-97.54394,35.391114],"type":"Point"}
+  "bbox": [
+    -97.54394,
+    35.391114,
+    -97.54394,
+    35.391114
+],
+  "geometry": {"coordinates":[-97.54394000000001,35.391114],"type":"Point"}
 }

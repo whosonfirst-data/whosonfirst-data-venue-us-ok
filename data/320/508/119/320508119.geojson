@@ -2,13 +2,14 @@
   "id": 320508119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.124452,35.253799,-95.124452,35.253799",
     "geom:latitude":35.253799,
     "geom:longitude":-95.124452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Main St",
     "sg:city":"Stigler",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320508119,
-    "wof:lastmodified":1449013353,
+    "wof:lastmodified":1466766174,
     "wof:name":"Haskell County Historial Soc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.124452,35.253799,-95.124452,35.253799],
-  "geometry": {"coordinates":[-95.124452,35.253799],"type":"Point"}
+  "bbox": [
+    -95.124452,
+    35.253799,
+    -95.124452,
+    35.253799
+],
+  "geometry": {"coordinates":[-95.12445200000001,35.253799],"type":"Point"}
 }

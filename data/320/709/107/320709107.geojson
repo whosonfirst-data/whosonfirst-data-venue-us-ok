@@ -2,13 +2,14 @@
   "id": 320709107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.833194,36.389379,-97.833194,36.389379",
     "geom:latitude":36.389379,
     "geom:longitude":-97.833194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3120 Brooks Dr",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320709107,
-    "wof:lastmodified":1449012006,
+    "wof:lastmodified":1466766645,
     "wof:name":"Faithfully Yours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "publishing"
     ]
 },
-  "bbox": [-97.833194,36.389379,-97.833194,36.389379],
-  "geometry": {"coordinates":[-97.833194,36.389379],"type":"Point"}
+  "bbox": [
+    -97.833194,
+    36.389379,
+    -97.833194,
+    36.389379
+],
+  "geometry": {"coordinates":[-97.83319400000001,36.389379],"type":"Point"}
 }

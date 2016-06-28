@@ -2,13 +2,14 @@
   "id": 319942471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.88143,36.269795,-99.88143,36.269795",
     "geom:latitude":36.269795,
     "geom:longitude":-99.88143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Main St",
     "sg:city":"Shattuck",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319942471,
-    "wof:lastmodified":1449024445,
+    "wof:lastmodified":1466763978,
     "wof:name":"Whistle Stop Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cafe"
     ]
 },
-  "bbox": [-99.88143,36.269795,-99.88143,36.269795],
-  "geometry": {"coordinates":[-99.88143,36.269795],"type":"Point"}
+  "bbox": [
+    -99.88143,
+    36.269795,
+    -99.88143,
+    36.269795
+],
+  "geometry": {"coordinates":[-99.88142999999999,36.269795],"type":"Point"}
 }

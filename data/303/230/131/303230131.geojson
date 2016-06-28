@@ -2,13 +2,14 @@
   "id": 303230131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.561503,35.346064,-97.561503,35.346064",
     "geom:latitude":35.346064,
     "geom:longitude":-97.561503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12209 Long Lake Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303230131,
-    "wof:lastmodified":1448999934,
+    "wof:lastmodified":1466764590,
     "wof:name":"Wayne Long Construction",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "operative"
     ]
 },
-  "bbox": [-97.561503,35.346064,-97.561503,35.346064],
+  "bbox": [
+    -97.561503,
+    35.346064,
+    -97.561503,
+    35.346064
+],
   "geometry": {"coordinates":[-97.561503,35.346064],"type":"Point"}
 }

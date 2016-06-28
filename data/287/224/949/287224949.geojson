@@ -2,13 +2,14 @@
   "id": 287224949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.615175,35.593215,-97.615175,35.593215",
     "geom:latitude":35.593215,
     "geom:longitude":-97.615175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5412 NW 121st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":287224949,
-    "wof:lastmodified":1449001326,
+    "wof:lastmodified":1466762290,
     "wof:name":"J Orban & Co",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exploration"
     ]
 },
-  "bbox": [-97.615175,35.593215,-97.615175,35.593215],
-  "geometry": {"coordinates":[-97.615175,35.593215],"type":"Point"}
+  "bbox": [
+    -97.615175,
+    35.593215,
+    -97.615175,
+    35.593215
+],
+  "geometry": {"coordinates":[-97.61517499999999,35.593215],"type":"Point"}
 }

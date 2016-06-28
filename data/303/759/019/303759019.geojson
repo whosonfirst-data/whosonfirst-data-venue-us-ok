@@ -2,13 +2,14 @@
   "id": 303759019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.920006,36.095549,-95.920006,36.095549",
     "geom:latitude":36.095549,
     "geom:longitude":-95.920006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4641 S Braden Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303759019,
-    "wof:lastmodified":1449000603,
+    "wof:lastmodified":1466766779,
     "wof:name":"Rneighborhood",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.920006,36.095549,-95.920006,36.095549],
+  "bbox": [
+    -95.920006,
+    36.095549,
+    -95.920006,
+    36.095549
+],
   "geometry": {"coordinates":[-95.920006,36.095549],"type":"Point"}
 }

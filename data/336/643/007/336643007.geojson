@@ -2,13 +2,14 @@
   "id": 336643007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.300857,36.81389,-97.300857,36.81389",
     "geom:latitude":36.81389,
     "geom:longitude":-97.300857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 N 13th St",
     "sg:city":"Blackwell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336643007,
-    "wof:lastmodified":1448997879,
+    "wof:lastmodified":1466762841,
     "wof:name":"Hewitt Energy Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.300857,36.81389,-97.300857,36.81389],
-  "geometry": {"coordinates":[-97.300857,36.81389],"type":"Point"}
+  "bbox": [
+    -97.300857,
+    36.81389,
+    -97.300857,
+    36.81389
+],
+  "geometry": {"coordinates":[-97.30085699999999,36.81389],"type":"Point"}
 }

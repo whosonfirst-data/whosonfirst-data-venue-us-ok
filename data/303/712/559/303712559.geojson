@@ -2,13 +2,14 @@
   "id": 303712559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.780408,36.054505,-95.780408,36.054505",
     "geom:latitude":36.054505,
     "geom:longitude":-95.780408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 E Detroit St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303712559,
-    "wof:lastmodified":1448999167,
+    "wof:lastmodified":1466766511,
     "wof:name":"Oneta Warehouse LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-95.780408,36.054505,-95.780408,36.054505],
-  "geometry": {"coordinates":[-95.780408,36.054505],"type":"Point"}
+  "bbox": [
+    -95.780408,
+    36.054505,
+    -95.780408,
+    36.054505
+],
+  "geometry": {"coordinates":[-95.78040799999999,36.054505],"type":"Point"}
 }

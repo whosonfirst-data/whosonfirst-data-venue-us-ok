@@ -2,13 +2,14 @@
   "id": 336708029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.437601,35.436581,-97.437601,35.436581",
     "geom:latitude":35.436581,
     "geom:longitude":-97.437601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Epperly Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336708029,
-    "wof:lastmodified":1448997116,
+    "wof:lastmodified":1466763846,
     "wof:name":"Del City Police-Records Div",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.437601,35.436581,-97.437601,35.436581],
+  "bbox": [
+    -97.437601,
+    35.436581,
+    -97.437601,
+    35.436581
+],
   "geometry": {"coordinates":[-97.437601,35.436581],"type":"Point"}
 }

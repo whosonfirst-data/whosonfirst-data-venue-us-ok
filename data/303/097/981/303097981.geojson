@@ -2,13 +2,14 @@
   "id": 303097981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.909856,36.146102,-95.909856,36.146102",
     "geom:latitude":36.146102,
     "geom:longitude":-95.909856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5961 E 12th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303097981,
-    "wof:lastmodified":1448999086,
+    "wof:lastmodified":1466763207,
     "wof:name":"Arc-Angel Welding Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-95.909856,36.146102,-95.909856,36.146102],
+  "bbox": [
+    -95.909856,
+    36.146102,
+    -95.909856,
+    36.146102
+],
   "geometry": {"coordinates":[-95.909856,36.146102],"type":"Point"}
 }

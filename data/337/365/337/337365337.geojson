@@ -2,13 +2,14 @@
   "id": 337365337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975733,36.089271,-95.975733,36.089271",
     "geom:latitude":36.089271,
     "geom:longitude":-95.975733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5239 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337365337,
-    "wof:lastmodified":1449027057,
+    "wof:lastmodified":1466763745,
     "wof:name":"Ron's Hamburgers & Chili",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.975733,36.089271,-95.975733,36.089271],
-  "geometry": {"coordinates":[-95.975733,36.089271],"type":"Point"}
+  "bbox": [
+    -95.975733,
+    36.089271,
+    -95.975733,
+    36.089271
+],
+  "geometry": {"coordinates":[-95.97573300000001,36.089271],"type":"Point"}
 }

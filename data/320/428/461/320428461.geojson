@@ -2,13 +2,14 @@
   "id": 320428461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.390503,34.005325,-96.390503,34.005325",
     "geom:latitude":34.005325,
     "geom:longitude":-96.390503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 N Washington Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320428461,
-    "wof:lastmodified":1449014707,
+    "wof:lastmodified":1466765866,
     "wof:name":"Nichols Dollar Saver Feed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-96.390503,34.005325,-96.390503,34.005325],
+  "bbox": [
+    -96.390503,
+    34.005325,
+    -96.390503,
+    34.005325
+],
   "geometry": {"coordinates":[-96.390503,34.005325],"type":"Point"}
 }

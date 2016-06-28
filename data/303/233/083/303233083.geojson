@@ -2,13 +2,14 @@
   "id": 303233083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79735,36.33209,-96.79735,36.33209",
     "geom:latitude":36.33209,
     "geom:longitude":-96.79735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Cleveland St",
     "sg:city":"Pawnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303233083,
-    "wof:lastmodified":1449000606,
+    "wof:lastmodified":1466764616,
     "wof:name":"Pawnee Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "animal"
     ]
 },
-  "bbox": [-96.79735,36.33209,-96.79735,36.33209],
-  "geometry": {"coordinates":[-96.79735,36.33209],"type":"Point"}
+  "bbox": [
+    -96.79735,
+    36.33209,
+    -96.79735,
+    36.33209
+],
+  "geometry": {"coordinates":[-96.79734999999999,36.33209],"type":"Point"}
 }

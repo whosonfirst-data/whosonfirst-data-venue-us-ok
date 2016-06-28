@@ -2,13 +2,14 @@
   "id": 303423861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.850996,36.038515,-95.850996,36.038515",
     "geom:latitude":36.038515,
     "geom:longitude":-95.850996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 W Quincy St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303423861,
-    "wof:lastmodified":1448998524,
+    "wof:lastmodified":1466765527,
     "wof:name":"Vanguard Environmental Inc",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "ecological"
     ]
 },
-  "bbox": [-95.850996,36.038515,-95.850996,36.038515],
-  "geometry": {"coordinates":[-95.850996,36.038515],"type":"Point"}
+  "bbox": [
+    -95.850996,
+    36.038515,
+    -95.850996,
+    36.038515
+],
+  "geometry": {"coordinates":[-95.85099599999999,36.038515],"type":"Point"}
 }

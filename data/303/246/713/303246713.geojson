@@ -2,13 +2,14 @@
   "id": 303246713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.971499,34.492309,-97.971499,34.492309",
     "geom:latitude":34.492309,
     "geom:longitude":-97.971499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1928 W Bois D Arc Ave",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303246713,
-    "wof:lastmodified":1448998288,
+    "wof:lastmodified":1466764610,
     "wof:name":"Dalston Duncan Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-97.971499,34.492309,-97.971499,34.492309],
-  "geometry": {"coordinates":[-97.971499,34.492309],"type":"Point"}
+  "bbox": [
+    -97.971499,
+    34.492309,
+    -97.971499,
+    34.492309
+],
+  "geometry": {"coordinates":[-97.97149899999999,34.492309],"type":"Point"}
 }

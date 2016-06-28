@@ -2,13 +2,14 @@
   "id": 320353919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.533397,35.363209,-97.533397,35.363209",
     "geom:latitude":35.363209,
     "geom:longitude":-97.533397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 SW 104th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320353919,
-    "wof:lastmodified":1449012335,
+    "wof:lastmodified":1466765499,
     "wof:name":"Market Wine & Liquor",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.533397,35.363209,-97.533397,35.363209],
-  "geometry": {"coordinates":[-97.533397,35.363209],"type":"Point"}
+  "bbox": [
+    -97.533397,
+    35.363209,
+    -97.533397,
+    35.363209
+],
+  "geometry": {"coordinates":[-97.53339699999999,35.363209],"type":"Point"}
 }

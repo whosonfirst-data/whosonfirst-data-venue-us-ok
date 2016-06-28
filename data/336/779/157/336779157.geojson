@@ -2,13 +2,14 @@
   "id": 336779157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.877559,36.880011,-94.877559,36.880011",
     "geom:latitude":36.880011,
     "geom:longitude":-94.877559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 N Main St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336779157,
-    "wof:lastmodified":1448997108,
+    "wof:lastmodified":1466764571,
     "wof:name":"R & D Ribbon Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.877559,36.880011,-94.877559,36.880011],
-  "geometry": {"coordinates":[-94.877559,36.880011],"type":"Point"}
+  "bbox": [
+    -94.877559,
+    36.880011,
+    -94.877559,
+    36.880011
+],
+  "geometry": {"coordinates":[-94.87755900000001,36.880011],"type":"Point"}
 }

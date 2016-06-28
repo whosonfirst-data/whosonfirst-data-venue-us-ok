@@ -2,13 +2,14 @@
   "id": 303499517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.851819,36.089915,-95.851819,36.089915",
     "geom:latitude":36.089915,
     "geom:longitude":-95.851819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11006 E 51st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303499517,
-    "wof:lastmodified":1448998581,
+    "wof:lastmodified":1466765838,
     "wof:name":"Infrastructure Design Svc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-95.851819,36.089915,-95.851819,36.089915],
-  "geometry": {"coordinates":[-95.851819,36.089915],"type":"Point"}
+  "bbox": [
+    -95.851819,
+    36.089915,
+    -95.851819,
+    36.089915
+],
+  "geometry": {"coordinates":[-95.85181900000001,36.089915],"type":"Point"}
 }

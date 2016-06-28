@@ -2,13 +2,14 @@
   "id": 336825173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.899192,36.100735,-95.899192,36.100735",
     "geom:latitude":36.100735,
     "geom:longitude":-95.899192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4142 S 70th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336825173,
-    "wof:lastmodified":1448996953,
+    "wof:lastmodified":1466764711,
     "wof:name":"M & D Controls Inc",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "control"
     ]
 },
-  "bbox": [-95.899192,36.100735,-95.899192,36.100735],
+  "bbox": [
+    -95.899192,
+    36.100735,
+    -95.899192,
+    36.100735
+],
   "geometry": {"coordinates":[-95.899192,36.100735],"type":"Point"}
 }

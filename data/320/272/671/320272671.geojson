@@ -2,13 +2,14 @@
   "id": 320272671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.508116,35.770456,-97.508116,35.770456",
     "geom:latitude":35.770456,
     "geom:longitude":-97.508116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1813 Loveland Cir",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320272671,
-    "wof:lastmodified":1449014702,
+    "wof:lastmodified":1466765028,
     "wof:name":"Bieber Auctions",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.508116,35.770456,-97.508116,35.770456],
+  "bbox": [
+    -97.508116,
+    35.770456,
+    -97.508116,
+    35.770456
+],
   "geometry": {"coordinates":[-97.508116,35.770456],"type":"Point"}
 }

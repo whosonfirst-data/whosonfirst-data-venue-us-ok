@@ -2,13 +2,14 @@
   "id": 320145945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.425345,35.837979,-97.425345,35.837979",
     "geom:latitude":35.837979,
     "geom:longitude":-97.425345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4024 S Division St",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320145945,
-    "wof:lastmodified":1449012405,
+    "wof:lastmodified":1466764386,
     "wof:name":"Morgan Auto World Inc",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "car"
     ]
 },
-  "bbox": [-97.425345,35.837979,-97.425345,35.837979],
-  "geometry": {"coordinates":[-97.425345,35.837979],"type":"Point"}
+  "bbox": [
+    -97.425345,
+    35.837979,
+    -97.425345,
+    35.837979
+],
+  "geometry": {"coordinates":[-97.42534499999999,35.837979],"type":"Point"}
 }

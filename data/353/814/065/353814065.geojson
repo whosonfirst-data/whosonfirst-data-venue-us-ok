@@ -2,13 +2,14 @@
   "id": 353814065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.938853,36.758751,-95.938853,36.758751",
     "geom:latitude":36.758751,
     "geom:longitude":-95.938853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 Michigan St",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353814065,
-    "wof:lastmodified":1449018719,
+    "wof:lastmodified":1466765498,
     "wof:name":"Fine Woodworking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-95.938853,36.758751,-95.938853,36.758751],
-  "geometry": {"coordinates":[-95.938853,36.758751],"type":"Point"}
+  "bbox": [
+    -95.938853,
+    36.758751,
+    -95.938853,
+    36.758751
+],
+  "geometry": {"coordinates":[-95.93885299999999,36.758751],"type":"Point"}
 }

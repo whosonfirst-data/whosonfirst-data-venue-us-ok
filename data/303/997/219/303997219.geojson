@@ -2,13 +2,14 @@
   "id": 303997219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.308523,35.428927,-96.308523,35.428927",
     "geom:latitude":35.428927,
     "geom:longitude":-96.308523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 S 7th St",
     "sg:city":"Okemah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303997219,
-    "wof:lastmodified":1449000128,
+    "wof:lastmodified":1466767124,
     "wof:name":"Massey Evelyn K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.308523,35.428927,-96.308523,35.428927],
-  "geometry": {"coordinates":[-96.308523,35.428927],"type":"Point"}
+  "bbox": [
+    -96.308523,
+    35.428927,
+    -96.308523,
+    35.428927
+],
+  "geometry": {"coordinates":[-96.30852299999999,35.428927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303115015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.005198,35.95147,-95.005198,35.95147",
     "geom:latitude":35.95147,
     "geom:longitude":-95.005198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16363 W Burchett Rd",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303115015,
-    "wof:lastmodified":1448998097,
+    "wof:lastmodified":1466763475,
     "wof:name":"Brady Caviniss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parking"
     ]
 },
-  "bbox": [-95.005198,35.95147,-95.005198,35.95147],
-  "geometry": {"coordinates":[-95.005198,35.95147],"type":"Point"}
+  "bbox": [
+    -95.005198,
+    35.95147,
+    -95.005198,
+    35.95147
+],
+  "geometry": {"coordinates":[-95.00519799999999,35.95147],"type":"Point"}
 }

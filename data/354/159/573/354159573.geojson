@@ -2,13 +2,14 @@
   "id": 354159573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.682225,35.392434,-97.682225,35.392434",
     "geom:latitude":35.392434,
     "geom:longitude":-97.682225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 N Canadian Ter",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354159573,
-    "wof:lastmodified":1449066144,
+    "wof:lastmodified":1466763734,
     "wof:name":"LDS",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.682225,35.392434,-97.682225,35.392434],
+  "bbox": [
+    -97.682225,
+    35.392434,
+    -97.682225,
+    35.392434
+],
   "geometry": {"coordinates":[-97.682225,35.392434],"type":"Point"}
 }

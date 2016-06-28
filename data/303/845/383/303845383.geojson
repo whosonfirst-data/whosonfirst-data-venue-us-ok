@@ -2,13 +2,14 @@
   "id": 303845383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.973548,35.907979,-94.973548,35.907979",
     "geom:latitude":35.907979,
     "geom:longitude":-94.973548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 S Muskogee Ave",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303845383,
-    "wof:lastmodified":1448998516,
+    "wof:lastmodified":1466766829,
     "wof:name":"Heavenly Bride",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bridal"
     ]
 },
-  "bbox": [-94.973548,35.907979,-94.973548,35.907979],
-  "geometry": {"coordinates":[-94.973548,35.907979],"type":"Point"}
+  "bbox": [
+    -94.973548,
+    35.907979,
+    -94.973548,
+    35.907979
+],
+  "geometry": {"coordinates":[-94.97354799999999,35.907979],"type":"Point"}
 }

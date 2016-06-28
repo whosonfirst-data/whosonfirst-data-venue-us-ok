@@ -2,13 +2,14 @@
   "id": 319919295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940239,36.187015,-95.940239,36.187015",
     "geom:latitude":36.187015,
     "geom:longitude":-95.940239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2237 N Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319919295,
-    "wof:lastmodified":1449024692,
+    "wof:lastmodified":1466763822,
     "wof:name":"King Liquors",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.940239,36.187015,-95.940239,36.187015],
-  "geometry": {"coordinates":[-95.940239,36.187015],"type":"Point"}
+  "bbox": [
+    -95.940239,
+    36.187015,
+    -95.940239,
+    36.187015
+],
+  "geometry": {"coordinates":[-95.94023900000001,36.187015],"type":"Point"}
 }

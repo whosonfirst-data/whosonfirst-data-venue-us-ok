@@ -2,13 +2,14 @@
   "id": 303189509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.377311,35.515464,-97.377311,35.515464",
     "geom:latitude":35.515464,
     "geom:longitude":-97.377311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8616 NE 46th Street Ter",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303189509,
-    "wof:lastmodified":1448999844,
+    "wof:lastmodified":1466764240,
     "wof:name":"JCD Design Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.377311,35.515464,-97.377311,35.515464],
-  "geometry": {"coordinates":[-97.377311,35.515464],"type":"Point"}
+  "bbox": [
+    -97.377311,
+    35.515464,
+    -97.377311,
+    35.515464
+],
+  "geometry": {"coordinates":[-97.37731100000001,35.515464],"type":"Point"}
 }

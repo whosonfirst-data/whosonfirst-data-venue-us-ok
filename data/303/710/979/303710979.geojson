@@ -2,13 +2,14 @@
   "id": 303710979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.635308,35.536956,-97.635308,35.536956",
     "geom:latitude":35.536956,
     "geom:longitude":-97.635308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6901 NW 63rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303710979,
-    "wof:lastmodified":1448998269,
+    "wof:lastmodified":1466766401,
     "wof:name":"Woodlake Racquet Club",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "instruction"
     ]
 },
-  "bbox": [-97.635308,35.536956,-97.635308,35.536956],
-  "geometry": {"coordinates":[-97.635308,35.536956],"type":"Point"}
+  "bbox": [
+    -97.635308,
+    35.536956,
+    -97.635308,
+    35.536956
+],
+  "geometry": {"coordinates":[-97.63530799999999,35.536956],"type":"Point"}
 }

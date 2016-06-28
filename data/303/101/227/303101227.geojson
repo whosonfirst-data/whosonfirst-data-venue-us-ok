@@ -2,13 +2,14 @@
   "id": 303101227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940305,35.921891,-95.940305,35.921891",
     "geom:latitude":35.921891,
     "geom:longitude":-95.940305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16532 S Harvard Ave",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303101227,
-    "wof:lastmodified":1448999407,
+    "wof:lastmodified":1466763256,
     "wof:name":"Burns Cutting Horses",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.940305,35.921891,-95.940305,35.921891],
+  "bbox": [
+    -95.940305,
+    35.921891,
+    -95.940305,
+    35.921891
+],
   "geometry": {"coordinates":[-95.940305,35.921891],"type":"Point"}
 }

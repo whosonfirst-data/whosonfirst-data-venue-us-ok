@@ -2,13 +2,14 @@
   "id": 303879739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.506539,35.507854,-97.506539,35.507854",
     "geom:latitude":35.507854,
     "geom:longitude":-97.506539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 NE 36th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303879739,
-    "wof:lastmodified":1448998139,
+    "wof:lastmodified":1466766921,
     "wof:name":"Next Level Detail",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.506539,35.507854,-97.506539,35.507854],
+  "bbox": [
+    -97.506539,
+    35.507854,
+    -97.506539,
+    35.507854
+],
   "geometry": {"coordinates":[-97.506539,35.507854],"type":"Point"}
 }

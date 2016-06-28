@@ -2,13 +2,14 @@
   "id": 337596285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.999401,36.145949,-95.999401,36.145949",
     "geom:latitude":36.145949,
     "geom:longitude":-95.999401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 S Jackson Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337596285,
-    "wof:lastmodified":1449027367,
+    "wof:lastmodified":1466763194,
     "wof:name":"Cardiology Of Tulsa At Trmc",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.999401,36.145949,-95.999401,36.145949],
-  "geometry": {"coordinates":[-95.999401,36.145949],"type":"Point"}
+  "bbox": [
+    -95.999401,
+    36.145949,
+    -95.999401,
+    36.145949
+],
+  "geometry": {"coordinates":[-95.99940100000001,36.145949],"type":"Point"}
 }

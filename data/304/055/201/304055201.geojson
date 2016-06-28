@@ -2,13 +2,14 @@
   "id": 304055201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.876105,36.030019,-95.876105,36.030019",
     "geom:latitude":36.030019,
     "geom:longitude":-95.876105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8914 E 92nd Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304055201,
-    "wof:lastmodified":1449043689,
+    "wof:lastmodified":1466763138,
     "wof:name":"Brian Whitt",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-95.876105,36.030019,-95.876105,36.030019],
+  "bbox": [
+    -95.876105,
+    36.030019,
+    -95.876105,
+    36.030019
+],
   "geometry": {"coordinates":[-95.876105,36.030019],"type":"Point"}
 }

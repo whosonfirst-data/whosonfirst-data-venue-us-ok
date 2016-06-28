@@ -2,13 +2,14 @@
   "id": 303120865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.379005,36.435041,-99.379005,36.435041",
     "geom:latitude":36.435041,
     "geom:longitude":-99.379005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 E Main Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303120865,
-    "wof:lastmodified":1449000210,
+    "wof:lastmodified":1466763570,
     "wof:name":"J B's Catering Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rooms"
     ]
 },
-  "bbox": [-99.379005,36.435041,-99.379005,36.435041],
-  "geometry": {"coordinates":[-99.379005,36.435041],"type":"Point"}
+  "bbox": [
+    -99.379005,
+    36.435041,
+    -99.379005,
+    36.435041
+],
+  "geometry": {"coordinates":[-99.37900500000001,36.435041],"type":"Point"}
 }

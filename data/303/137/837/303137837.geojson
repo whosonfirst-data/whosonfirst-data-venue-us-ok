@@ -2,13 +2,14 @@
   "id": 303137837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.866335,36.084487,-95.866335,36.084487",
     "geom:latitude":36.084487,
     "geom:longitude":-95.866335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5432 S 99th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303137837,
-    "wof:lastmodified":1449000228,
+    "wof:lastmodified":1466763846,
     "wof:name":"Slim Haney Inc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.866335,36.084487,-95.866335,36.084487],
-  "geometry": {"coordinates":[-95.866335,36.084487],"type":"Point"}
+  "bbox": [
+    -95.866335,
+    36.084487,
+    -95.866335,
+    36.084487
+],
+  "geometry": {"coordinates":[-95.86633500000001,36.084487],"type":"Point"}
 }

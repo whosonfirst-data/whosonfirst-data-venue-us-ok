@@ -2,13 +2,14 @@
   "id": 319841733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.379486,35.758736,-95.379486,35.758736",
     "geom:latitude":35.758736,
     "geom:longitude":-95.379486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 N 12th St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319841733,
-    "wof:lastmodified":1449024260,
+    "wof:lastmodified":1466763071,
     "wof:name":"Hayes House Bed & Breakfast",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-95.379486,35.758736,-95.379486,35.758736],
+  "bbox": [
+    -95.379486,
+    35.758736,
+    -95.379486,
+    35.758736
+],
   "geometry": {"coordinates":[-95.379486,35.758736],"type":"Point"}
 }

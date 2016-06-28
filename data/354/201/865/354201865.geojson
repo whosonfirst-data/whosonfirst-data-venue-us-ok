@@ -2,13 +2,14 @@
   "id": 354201865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.441294,36.430594,-99.441294,36.430594",
     "geom:latitude":36.430594,
     "geom:longitude":-99.441294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 46th St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354201865,
-    "wof:lastmodified":1449067438,
+    "wof:lastmodified":1466763932,
     "wof:name":"Wesco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.441294,36.430594,-99.441294,36.430594],
+  "bbox": [
+    -99.441294,
+    36.430594,
+    -99.441294,
+    36.430594
+],
   "geometry": {"coordinates":[-99.441294,36.430594],"type":"Point"}
 }

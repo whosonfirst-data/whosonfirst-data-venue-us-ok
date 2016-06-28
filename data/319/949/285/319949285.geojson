@@ -2,13 +2,14 @@
   "id": 319949285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480246,35.638297,-97.480246,35.638297",
     "geom:latitude":35.638297,
     "geom:longitude":-97.480246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 E 15th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319949285,
-    "wof:lastmodified":1449024576,
+    "wof:lastmodified":1466764012,
     "wof:name":"Little Gym of Edmond",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "personal"
     ]
 },
-  "bbox": [-97.480246,35.638297,-97.480246,35.638297],
-  "geometry": {"coordinates":[-97.480246,35.638297],"type":"Point"}
+  "bbox": [
+    -97.480246,
+    35.638297,
+    -97.480246,
+    35.638297
+],
+  "geometry": {"coordinates":[-97.48024599999999,35.638297],"type":"Point"}
 }

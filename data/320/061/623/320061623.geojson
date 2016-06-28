@@ -2,13 +2,14 @@
   "id": 320061623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.909033,36.39344,-97.909033,36.39344",
     "geom:latitude":36.39344,
     "geom:longitude":-97.909033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 W Oklahoma Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320061623,
-    "wof:lastmodified":1449013955,
+    "wof:lastmodified":1466763203,
     "wof:name":"Canine Clipper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.909033,36.39344,-97.909033,36.39344],
-  "geometry": {"coordinates":[-97.909033,36.39344],"type":"Point"}
+  "bbox": [
+    -97.909033,
+    36.39344,
+    -97.909033,
+    36.39344
+],
+  "geometry": {"coordinates":[-97.90903299999999,36.39344],"type":"Point"}
 }

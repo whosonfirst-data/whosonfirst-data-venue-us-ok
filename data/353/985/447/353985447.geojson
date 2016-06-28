@@ -2,13 +2,14 @@
   "id": 353985447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.840945,33.891809,-94.840945,33.891809",
     "geom:latitude":33.891809,
     "geom:longitude":-94.840945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 SW Howard Ave",
     "sg:city":"Idabel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353985447,
-    "wof:lastmodified":1449019531,
+    "wof:lastmodified":1466765932,
     "wof:name":"Maple Spring Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.840945,33.891809,-94.840945,33.891809],
+  "bbox": [
+    -94.840945,
+    33.891809,
+    -94.840945,
+    33.891809
+],
   "geometry": {"coordinates":[-94.840945,33.891809],"type":"Point"}
 }

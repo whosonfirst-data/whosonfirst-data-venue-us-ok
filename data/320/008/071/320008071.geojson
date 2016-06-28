@@ -2,13 +2,14 @@
   "id": 320008071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.932728,35.260622,-96.932728,35.260622",
     "geom:latitude":35.260622,
     "geom:longitude":-96.932728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 E Walnut St",
     "sg:city":"Tecumseh",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320008071,
-    "wof:lastmodified":1449012444,
+    "wof:lastmodified":1466762395,
     "wof:name":"Tecumseh Medical Clinic Pharm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.932728,35.260622,-96.932728,35.260622],
+  "bbox": [
+    -96.932728,
+    35.260622,
+    -96.932728,
+    35.260622
+],
   "geometry": {"coordinates":[-96.932728,35.260622],"type":"Point"}
 }

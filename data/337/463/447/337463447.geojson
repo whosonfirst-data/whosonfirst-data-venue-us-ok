@@ -2,13 +2,14 @@
   "id": 337463447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.910485,36.097968,-95.910485,36.097968",
     "geom:latitude":36.097968,
     "geom:longitude":-95.910485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4547 S Joplin Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337463447,
-    "wof:lastmodified":1449027515,
+    "wof:lastmodified":1466762445,
     "wof:name":"American Bail Bonding Co",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-95.910485,36.097968,-95.910485,36.097968],
-  "geometry": {"coordinates":[-95.910485,36.097968],"type":"Point"}
+  "bbox": [
+    -95.910485,
+    36.097968,
+    -95.910485,
+    36.097968
+],
+  "geometry": {"coordinates":[-95.91048499999999,36.097968],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353583775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.001292,36.144788,-96.001292,36.144788",
     "geom:latitude":36.144788,
     "geom:longitude":-96.001292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 S Lawton Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353583775,
-    "wof:lastmodified":1449020283,
+    "wof:lastmodified":1466764305,
     "wof:name":"P C H L",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.001292,36.144788,-96.001292,36.144788],
-  "geometry": {"coordinates":[-96.001292,36.144788],"type":"Point"}
+  "bbox": [
+    -96.001292,
+    36.144788,
+    -96.001292,
+    36.144788
+],
+  "geometry": {"coordinates":[-96.00129200000001,36.144788],"type":"Point"}
 }

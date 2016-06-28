@@ -2,13 +2,14 @@
   "id": 320462511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.054856,36.882483,-97.054856,36.882483",
     "geom:latitude":36.882483,
     "geom:longitude":-97.054856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 W 7th St",
     "sg:city":"Newkirk",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320462511,
-    "wof:lastmodified":1449014814,
+    "wof:lastmodified":1466766057,
     "wof:name":"Newkirk Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.054856,36.882483,-97.054856,36.882483],
+  "bbox": [
+    -97.054856,
+    36.882483,
+    -97.054856,
+    36.882483
+],
   "geometry": {"coordinates":[-97.054856,36.882483],"type":"Point"}
 }

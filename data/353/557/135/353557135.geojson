@@ -2,13 +2,14 @@
   "id": 353557135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.957985,36.05929,-95.957985,36.05929",
     "geom:latitude":36.05929,
     "geom:longitude":-95.957985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7130 S Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353557135,
-    "wof:lastmodified":1449020063,
+    "wof:lastmodified":1466763968,
     "wof:name":"KCS Resources Inc",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exploration"
     ]
 },
-  "bbox": [-95.957985,36.05929,-95.957985,36.05929],
-  "geometry": {"coordinates":[-95.957985,36.05929],"type":"Point"}
+  "bbox": [
+    -95.957985,
+    36.05929,
+    -95.957985,
+    36.05929
+],
+  "geometry": {"coordinates":[-95.95798499999999,36.05929],"type":"Point"}
 }

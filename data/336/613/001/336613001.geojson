@@ -2,13 +2,14 @@
   "id": 336613001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.896865,36.097184,-95.896865,36.097184",
     "geom:latitude":36.097184,
     "geom:longitude":-95.896865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 S 72nd East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336613001,
-    "wof:lastmodified":1448997451,
+    "wof:lastmodified":1466762378,
     "wof:name":"Hodges Warehouse",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "storage"
     ]
 },
-  "bbox": [-95.896865,36.097184,-95.896865,36.097184],
-  "geometry": {"coordinates":[-95.896865,36.097184],"type":"Point"}
+  "bbox": [
+    -95.896865,
+    36.097184,
+    -95.896865,
+    36.097184
+],
+  "geometry": {"coordinates":[-95.89686500000001,36.097184],"type":"Point"}
 }

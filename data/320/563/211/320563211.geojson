@@ -2,13 +2,14 @@
   "id": 320563211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.665102,36.805001,-98.665102,36.805001",
     "geom:latitude":36.805001,
     "geom:longitude":-98.665102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Flynn St",
     "sg:city":"Alva",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320563211,
-    "wof:lastmodified":1449011311,
+    "wof:lastmodified":1466766112,
     "wof:name":"Wild Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.665102,36.805001,-98.665102,36.805001],
+  "bbox": [
+    -98.665102,
+    36.805001,
+    -98.665102,
+    36.805001
+],
   "geometry": {"coordinates":[-98.665102,36.805001],"type":"Point"}
 }

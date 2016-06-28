@@ -2,13 +2,14 @@
   "id": 303368041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.387294,35.473332,-97.387294,35.473332",
     "geom:latitude":35.473332,
     "geom:longitude":-97.387294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3424 Brookside Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303368041,
-    "wof:lastmodified":1448998672,
+    "wof:lastmodified":1466765175,
     "wof:name":"C G Svc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "order"
     ]
 },
-  "bbox": [-97.387294,35.473332,-97.387294,35.473332],
+  "bbox": [
+    -97.387294,
+    35.473332,
+    -97.387294,
+    35.473332
+],
   "geometry": {"coordinates":[-97.387294,35.473332],"type":"Point"}
 }

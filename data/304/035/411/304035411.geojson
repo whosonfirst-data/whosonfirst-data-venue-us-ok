@@ -2,13 +2,14 @@
   "id": 304035411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.984786,34.510113,-96.984786,34.510113",
     "geom:latitude":34.510113,
     "geom:longitude":-96.984786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 W 14th St",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304035411,
-    "wof:lastmodified":1449044035,
+    "wof:lastmodified":1466763009,
     "wof:name":"Sue's Hair Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.984786,34.510113,-96.984786,34.510113],
+  "bbox": [
+    -96.984786,
+    34.510113,
+    -96.984786,
+    34.510113
+],
   "geometry": {"coordinates":[-96.984786,34.510113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303770111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.489438,35.355546,-97.489438,35.355546",
     "geom:latitude":35.355546,
     "geom:longitude":-97.489438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Bellaire Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303770111,
-    "wof:lastmodified":1449000615,
+    "wof:lastmodified":1466766661,
     "wof:name":"Polly Wilcox",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.489438,35.355546,-97.489438,35.355546],
-  "geometry": {"coordinates":[-97.489438,35.355546],"type":"Point"}
+  "bbox": [
+    -97.489438,
+    35.355546,
+    -97.489438,
+    35.355546
+],
+  "geometry": {"coordinates":[-97.48943800000001,35.355546],"type":"Point"}
 }

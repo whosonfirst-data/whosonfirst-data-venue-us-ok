@@ -2,13 +2,14 @@
   "id": 303351077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.376871,35.96085,-95.376871,35.96085",
     "geom:latitude":35.96085,
     "geom:longitude":-95.376871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Main St",
     "sg:city":"Redbird",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303351077,
-    "wof:lastmodified":1449000193,
+    "wof:lastmodified":1466765164,
     "wof:name":"Town Of Redbird",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-95.376871,35.96085,-95.376871,35.96085],
-  "geometry": {"coordinates":[-95.376871,35.96085],"type":"Point"}
+  "bbox": [
+    -95.376871,
+    35.96085,
+    -95.376871,
+    35.96085
+],
+  "geometry": {"coordinates":[-95.37687099999999,35.96085],"type":"Point"}
 }

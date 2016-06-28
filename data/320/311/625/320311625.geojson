@@ -2,13 +2,14 @@
   "id": 320311625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.943914,35.052459,-97.943914,35.052459",
     "geom:latitude":35.052459,
     "geom:longitude":-97.943914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 W Choctaw Ave",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320311625,
-    "wof:lastmodified":1449012141,
+    "wof:lastmodified":1466765101,
     "wof:name":"Monk Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.943914,35.052459,-97.943914,35.052459],
-  "geometry": {"coordinates":[-97.943914,35.052459],"type":"Point"}
+  "bbox": [
+    -97.943914,
+    35.052459,
+    -97.943914,
+    35.052459
+],
+  "geometry": {"coordinates":[-97.94391400000001,35.052459],"type":"Point"}
 }

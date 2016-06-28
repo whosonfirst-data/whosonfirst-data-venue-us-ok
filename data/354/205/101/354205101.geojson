@@ -2,13 +2,14 @@
   "id": 354205101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.980074,35.789417,-95.980074,35.789417",
     "geom:latitude":35.789417,
     "geom:longitude":-95.980074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4535 Peoria Ave",
     "sg:city":"Beggs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354205101,
-    "wof:lastmodified":1449066963,
+    "wof:lastmodified":1466763945,
     "wof:name":"Adco Heat & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.980074,35.789417,-95.980074,35.789417],
+  "bbox": [
+    -95.980074,
+    35.789417,
+    -95.980074,
+    35.789417
+],
   "geometry": {"coordinates":[-95.980074,35.789417],"type":"Point"}
 }

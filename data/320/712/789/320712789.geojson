@@ -2,13 +2,14 @@
   "id": 320712789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.78947,33.880996,-94.78947,33.880996",
     "geom:latitude":33.880996,
     "geom:longitude":-94.78947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Lincoln Ln",
     "sg:city":"Idabel",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320712789,
-    "wof:lastmodified":1449012860,
+    "wof:lastmodified":1466766582,
     "wof:name":"D & M Chipping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "logging"
     ]
 },
-  "bbox": [-94.78947,33.880996,-94.78947,33.880996],
-  "geometry": {"coordinates":[-94.78947,33.880996],"type":"Point"}
+  "bbox": [
+    -94.78947,
+    33.880996,
+    -94.78947,
+    33.880996
+],
+  "geometry": {"coordinates":[-94.78946999999999,33.880996],"type":"Point"}
 }

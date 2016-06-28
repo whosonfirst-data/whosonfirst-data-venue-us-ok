@@ -2,13 +2,14 @@
   "id": 320429149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.512541,35.444716,-97.512541,35.444716",
     "geom:latitude":35.444716,
     "geom:longitude":-97.512541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2113 S Santa Fe Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320429149,
-    "wof:lastmodified":1449014759,
+    "wof:lastmodified":1466765771,
     "wof:name":"Consolidated Business Supply",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.512541,35.444716,-97.512541,35.444716],
+  "bbox": [
+    -97.512541,
+    35.444716,
+    -97.512541,
+    35.444716
+],
   "geometry": {"coordinates":[-97.512541,35.444716],"type":"Point"}
 }

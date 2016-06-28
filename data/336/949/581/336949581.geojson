@@ -2,13 +2,14 @@
   "id": 336949581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.497403,35.232779,-97.497403,35.232779",
     "geom:latitude":35.232779,
     "geom:longitude":-97.497403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3850 W Robinson St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":336949581,
-    "wof:lastmodified":1448997600,
+    "wof:lastmodified":1466765313,
     "wof:name":"O'Higgins Lawn & Garden",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-97.497403,35.232779,-97.497403,35.232779],
-  "geometry": {"coordinates":[-97.497403,35.232779],"type":"Point"}
+  "bbox": [
+    -97.497403,
+    35.232779,
+    -97.497403,
+    35.232779
+],
+  "geometry": {"coordinates":[-97.49740300000001,35.232779],"type":"Point"}
 }

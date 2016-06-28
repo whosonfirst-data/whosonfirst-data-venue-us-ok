@@ -2,13 +2,14 @@
   "id": 303879167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.542545,35.559182,-97.542545,35.559182",
     "geom:latitude":35.559182,
     "geom:longitude":-97.542545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Westchester Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303879167,
-    "wof:lastmodified":1448998139,
+    "wof:lastmodified":1466766913,
     "wof:name":"Creative Homes Construction",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.542545,35.559182,-97.542545,35.559182],
+  "bbox": [
+    -97.542545,
+    35.559182,
+    -97.542545,
+    35.559182
+],
   "geometry": {"coordinates":[-97.542545,35.559182],"type":"Point"}
 }

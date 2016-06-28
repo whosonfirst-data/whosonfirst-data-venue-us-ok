@@ -2,13 +2,14 @@
   "id": 303810213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.031414,36.662839,-97.031414,36.662839",
     "geom:latitude":36.662839,
     "geom:longitude":-97.031414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3515 Mc Cord Rd",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303810213,
-    "wof:lastmodified":1448998823,
+    "wof:lastmodified":1466766739,
     "wof:name":"Hambleton Propane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gas"
     ]
 },
-  "bbox": [-97.031414,36.662839,-97.031414,36.662839],
+  "bbox": [
+    -97.031414,
+    36.662839,
+    -97.031414,
+    36.662839
+],
   "geometry": {"coordinates":[-97.031414,36.662839],"type":"Point"}
 }

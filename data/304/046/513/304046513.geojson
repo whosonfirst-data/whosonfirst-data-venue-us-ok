@@ -2,13 +2,14 @@
   "id": 304046513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.985953,36.750781,-95.985953,36.750781",
     "geom:latitude":36.750781,
     "geom:longitude":-95.985953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Cheyenne Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304046513,
-    "wof:lastmodified":1449043927,
+    "wof:lastmodified":1466763088,
     "wof:name":"Horn Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.985953,36.750781,-95.985953,36.750781],
-  "geometry": {"coordinates":[-95.985953,36.750781],"type":"Point"}
+  "bbox": [
+    -95.985953,
+    36.750781,
+    -95.985953,
+    36.750781
+],
+  "geometry": {"coordinates":[-95.98595299999999,36.750781],"type":"Point"}
 }

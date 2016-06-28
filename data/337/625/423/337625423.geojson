@@ -2,13 +2,14 @@
   "id": 337625423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.378209,36.411589,-99.378209,36.411589",
     "geom:latitude":36.411589,
     "geom:longitude":-99.378209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3524 Williams Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337625423,
-    "wof:lastmodified":1449027745,
+    "wof:lastmodified":1466763358,
     "wof:name":"Autoplus Of Woodward",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-99.378209,36.411589,-99.378209,36.411589],
+  "bbox": [
+    -99.378209,
+    36.411589,
+    -99.378209,
+    36.411589
+],
   "geometry": {"coordinates":[-99.378209,36.411589],"type":"Point"}
 }

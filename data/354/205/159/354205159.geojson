@@ -2,13 +2,14 @@
   "id": 354205159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531461,35.580195,-97.531461,35.580195",
     "geom:latitude":35.580195,
     "geom:longitude":-97.531461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11101 N Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354205159,
-    "wof:lastmodified":1449066960,
+    "wof:lastmodified":1466763947,
     "wof:name":"Landscape Enterprises LTD",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.531461,35.580195,-97.531461,35.580195],
-  "geometry": {"coordinates":[-97.531461,35.580195],"type":"Point"}
+  "bbox": [
+    -97.531461,
+    35.580195,
+    -97.531461,
+    35.580195
+],
+  "geometry": {"coordinates":[-97.53146099999999,35.580195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320829905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.478874,36.675258,-101.478874,36.675258",
     "geom:latitude":36.675258,
     "geom:longitude":-101.478874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 S Crumley St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320829905,
-    "wof:lastmodified":1449014718,
+    "wof:lastmodified":1466766916,
     "wof:name":"Park Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-101.478874,36.675258,-101.478874,36.675258],
+  "bbox": [
+    -101.478874,
+    36.675258,
+    -101.478874,
+    36.675258
+],
   "geometry": {"coordinates":[-101.478874,36.675258],"type":"Point"}
 }

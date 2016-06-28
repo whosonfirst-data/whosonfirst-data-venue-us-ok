@@ -2,13 +2,14 @@
   "id": 320491415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.401427,34.60641,-98.401427,34.60641",
     "geom:latitude":34.60641,
     "geom:longitude":-98.401427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 SW B Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320491415,
-    "wof:lastmodified":1449011198,
+    "wof:lastmodified":1466766049,
     "wof:name":"Lawtonka Counseling Service",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "health"
     ]
 },
-  "bbox": [-98.401427,34.60641,-98.401427,34.60641],
+  "bbox": [
+    -98.401427,
+    34.60641,
+    -98.401427,
+    34.60641
+],
   "geometry": {"coordinates":[-98.401427,34.60641],"type":"Point"}
 }

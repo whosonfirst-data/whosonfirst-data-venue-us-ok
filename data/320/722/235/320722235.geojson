@@ -2,13 +2,14 @@
   "id": 320722235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.58344,35.541821,-97.58344,35.541821",
     "geom:latitude":35.541821,
     "geom:longitude":-97.58344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 NW 67th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320722235,
-    "wof:lastmodified":1449012580,
+    "wof:lastmodified":1466766683,
     "wof:name":"Jim Tidwell Consulting",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-97.58344,35.541821,-97.58344,35.541821],
+  "bbox": [
+    -97.58344,
+    35.541821,
+    -97.58344,
+    35.541821
+],
   "geometry": {"coordinates":[-97.58344,35.541821],"type":"Point"}
 }

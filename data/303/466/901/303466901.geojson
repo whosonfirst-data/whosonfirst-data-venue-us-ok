@@ -2,13 +2,14 @@
   "id": 303466901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549461,35.595562,-97.549461,35.595562",
     "geom:latitude":35.595562,
     "geom:longitude":-97.549461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12525 N Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303466901,
-    "wof:lastmodified":1448998846,
+    "wof:lastmodified":1466765603,
     "wof:name":"Capital Senior Living",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-97.549461,35.595562,-97.549461,35.595562],
-  "geometry": {"coordinates":[-97.549461,35.595562],"type":"Point"}
+  "bbox": [
+    -97.549461,
+    35.595562,
+    -97.549461,
+    35.595562
+],
+  "geometry": {"coordinates":[-97.54946099999999,35.595562],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303535351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.488543,35.493262,-97.488543,35.493262",
     "geom:latitude":35.493262,
     "geom:longitude":-97.488543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303535351,
-    "wof:lastmodified":1448998560,
+    "wof:lastmodified":1466766065,
     "wof:name":"Juanita's Cut N Curl",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.488543,35.493262,-97.488543,35.493262],
-  "geometry": {"coordinates":[-97.488543,35.493262],"type":"Point"}
+  "bbox": [
+    -97.488543,
+    35.493262,
+    -97.488543,
+    35.493262
+],
+  "geometry": {"coordinates":[-97.48854300000001,35.493262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303533979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.977802,36.231354,-95.977802,36.231354",
     "geom:latitude":36.231354,
     "geom:longitude":-95.977802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 E 54th St N",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303533979,
-    "wof:lastmodified":1448998087,
+    "wof:lastmodified":1466766068,
     "wof:name":"Grace Apostolic Temple",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.977802,36.231354,-95.977802,36.231354],
+  "bbox": [
+    -95.977802,
+    36.231354,
+    -95.977802,
+    36.231354
+],
   "geometry": {"coordinates":[-95.977802,36.231354],"type":"Point"}
 }

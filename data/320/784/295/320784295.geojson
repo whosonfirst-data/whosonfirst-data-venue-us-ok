@@ -2,13 +2,14 @@
   "id": 320784295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.388482,35.468374,-97.388482,35.468374",
     "geom:latitude":35.468374,
     "geom:longitude":-97.388482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 N Midwest Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320784295,
-    "wof:lastmodified":1449013764,
+    "wof:lastmodified":1466766683,
     "wof:name":"Midwest Boulevard Christian",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.388482,35.468374,-97.388482,35.468374],
+  "bbox": [
+    -97.388482,
+    35.468374,
+    -97.388482,
+    35.468374
+],
   "geometry": {"coordinates":[-97.388482,35.468374],"type":"Point"}
 }

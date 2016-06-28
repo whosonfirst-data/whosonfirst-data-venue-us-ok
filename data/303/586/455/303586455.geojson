@@ -2,13 +2,14 @@
   "id": 303586455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480937,35.65798,-97.480937,35.65798",
     "geom:latitude":35.65798,
     "geom:longitude":-97.480937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"243 N Broadway",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":303586455,
-    "wof:lastmodified":1449000288,
+    "wof:lastmodified":1466766155,
     "wof:name":"Edmond Golf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-97.480937,35.65798,-97.480937,35.65798],
+  "bbox": [
+    -97.480937,
+    35.65798,
+    -97.480937,
+    35.65798
+],
   "geometry": {"coordinates":[-97.480937,35.65798],"type":"Point"}
 }

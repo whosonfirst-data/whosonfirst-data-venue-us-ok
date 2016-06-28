@@ -2,13 +2,14 @@
   "id": 287171421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.449548,35.59709,-97.449548,35.59709",
     "geom:latitude":35.59709,
     "geom:longitude":-97.449548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12401 Roberts Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287171421,
-    "wof:lastmodified":1449001598,
+    "wof:lastmodified":1466763799,
     "wof:name":"Continental Tree Svc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-97.449548,35.59709,-97.449548,35.59709],
-  "geometry": {"coordinates":[-97.449548,35.59709],"type":"Point"}
+  "bbox": [
+    -97.449548,
+    35.59709,
+    -97.449548,
+    35.59709
+],
+  "geometry": {"coordinates":[-97.44954799999999,35.59709],"type":"Point"}
 }

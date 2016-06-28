@@ -2,13 +2,14 @@
   "id": 303206551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.958313,36.134236,-95.958313,36.134236",
     "geom:latitude":36.134236,
     "geom:longitude":-95.958313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 S Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303206551,
-    "wof:lastmodified":1448999778,
+    "wof:lastmodified":1466764468,
     "wof:name":"YWCA of Tulsa",
     "wof:parent_id":85872495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "child"
     ]
 },
-  "bbox": [-95.958313,36.134236,-95.958313,36.134236],
+  "bbox": [
+    -95.958313,
+    36.134236,
+    -95.958313,
+    36.134236
+],
   "geometry": {"coordinates":[-95.958313,36.134236],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336838853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.89512,36.115032,-97.89512,36.115032",
     "geom:latitude":36.115032,
     "geom:longitude":-97.89512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 N Cimarron St",
     "sg:city":"Hennessey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336838853,
-    "wof:lastmodified":1448997060,
+    "wof:lastmodified":1466764851,
     "wof:name":"Kace Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.89512,36.115032,-97.89512,36.115032],
-  "geometry": {"coordinates":[-97.89512,36.115032],"type":"Point"}
+  "bbox": [
+    -97.89512,
+    36.115032,
+    -97.89512,
+    36.115032
+],
+  "geometry": {"coordinates":[-97.89512000000001,36.115032],"type":"Point"}
 }

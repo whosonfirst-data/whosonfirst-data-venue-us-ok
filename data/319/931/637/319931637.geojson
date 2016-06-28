@@ -2,13 +2,14 @@
   "id": 319931637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.567085,35.615078,-97.567085,35.615078",
     "geom:latitude":35.615078,
     "geom:longitude":-97.567085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14624 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319931637,
-    "wof:lastmodified":1449024810,
+    "wof:lastmodified":1466763901,
     "wof:name":"Smith & Kernke Funeral Dirs",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-97.567085,35.615078,-97.567085,35.615078],
-  "geometry": {"coordinates":[-97.567085,35.615078],"type":"Point"}
+  "bbox": [
+    -97.567085,
+    35.615078,
+    -97.567085,
+    35.615078
+],
+  "geometry": {"coordinates":[-97.56708500000001,35.615078],"type":"Point"}
 }

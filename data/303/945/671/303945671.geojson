@@ -2,13 +2,14 @@
   "id": 303945671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.491709,35.657465,-97.491709,35.657465",
     "geom:latitude":35.657465,
     "geom:longitude":-97.491709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 N State St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":303945671,
-    "wof:lastmodified":1448998325,
+    "wof:lastmodified":1466767035,
     "wof:name":"Edmond Schools Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.491709,35.657465,-97.491709,35.657465],
+  "bbox": [
+    -97.491709,
+    35.657465,
+    -97.491709,
+    35.657465
+],
   "geometry": {"coordinates":[-97.491709,35.657465],"type":"Point"}
 }

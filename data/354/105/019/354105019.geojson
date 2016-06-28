@@ -2,13 +2,14 @@
   "id": 354105019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.875235,36.874749,-94.875235,36.874749",
     "geom:latitude":36.874749,
     "geom:longitude":-94.875235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 E Central Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354105019,
-    "wof:lastmodified":1449066565,
+    "wof:lastmodified":1466763521,
     "wof:name":"Erik Johnson Attorney At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.875235,36.874749,-94.875235,36.874749],
+  "bbox": [
+    -94.875235,
+    36.874749,
+    -94.875235,
+    36.874749
+],
   "geometry": {"coordinates":[-94.875235,36.874749],"type":"Point"}
 }

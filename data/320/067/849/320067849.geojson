@@ -2,13 +2,14 @@
   "id": 320067849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.318306,36.308145,-95.318306,36.308145",
     "geom:latitude":36.308145,
     "geom:longitude":-95.318306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 E Graham Ave",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320067849,
-    "wof:lastmodified":1449011485,
+    "wof:lastmodified":1466763294,
     "wof:name":"Pryor Automotive Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-95.318306,36.308145,-95.318306,36.308145],
-  "geometry": {"coordinates":[-95.318306,36.308145],"type":"Point"}
+  "bbox": [
+    -95.318306,
+    36.308145,
+    -95.318306,
+    36.308145
+],
+  "geometry": {"coordinates":[-95.31830600000001,36.308145],"type":"Point"}
 }

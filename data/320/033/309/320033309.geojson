@@ -2,13 +2,14 @@
   "id": 320033309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.350503,35.762186,-95.350503,35.762186",
     "geom:latitude":35.762186,
     "geom:longitude":-95.350503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 Locust St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320033309,
-    "wof:lastmodified":1449012023,
+    "wof:lastmodified":1466762783,
     "wof:name":"Help Assn",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-95.350503,35.762186,-95.350503,35.762186],
+  "bbox": [
+    -95.350503,
+    35.762186,
+    -95.350503,
+    35.762186
+],
   "geometry": {"coordinates":[-95.350503,35.762186],"type":"Point"}
 }

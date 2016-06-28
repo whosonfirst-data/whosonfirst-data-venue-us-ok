@@ -2,13 +2,14 @@
   "id": 220152477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.761649,36.166996,-95.761649,36.166996",
     "geom:latitude":36.166996,
     "geom:longitude":-95.761649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 N 193rd E Ave",
     "sg:city":"Catoosa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220152477,
-    "wof:lastmodified":1449074650,
+    "wof:lastmodified":1466762290,
     "wof:name":"Pauline's Buffet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "buffet"
     ]
 },
-  "bbox": [-95.761649,36.166996,-95.761649,36.166996],
-  "geometry": {"coordinates":[-95.761649,36.166996],"type":"Point"}
+  "bbox": [
+    -95.761649,
+    36.166996,
+    -95.761649,
+    36.166996
+],
+  "geometry": {"coordinates":[-95.76164900000001,36.166996],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320589757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.058652,36.114448,-97.058652,36.114448",
     "geom:latitude":36.114448,
     "geom:longitude":-97.058652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 S Main St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320589757,
-    "wof:lastmodified":1449013257,
+    "wof:lastmodified":1466766270,
     "wof:name":"Country Cat & Friends",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.058652,36.114448,-97.058652,36.114448],
+  "bbox": [
+    -97.058652,
+    36.114448,
+    -97.058652,
+    36.114448
+],
   "geometry": {"coordinates":[-97.058652,36.114448],"type":"Point"}
 }

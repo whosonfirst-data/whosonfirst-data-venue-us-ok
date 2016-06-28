@@ -2,13 +2,14 @@
   "id": 353944805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.576073,35.610817,-97.576073,35.610817",
     "geom:latitude":35.610817,
     "geom:longitude":-97.576073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14000 Quail Springs Pkwy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353944805,
-    "wof:lastmodified":1449019537,
+    "wof:lastmodified":1466765809,
     "wof:name":"Medtronic Inc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-97.576073,35.610817,-97.576073,35.610817],
-  "geometry": {"coordinates":[-97.576073,35.610817],"type":"Point"}
+  "bbox": [
+    -97.576073,
+    35.610817,
+    -97.576073,
+    35.610817
+],
+  "geometry": {"coordinates":[-97.57607299999999,35.610817],"type":"Point"}
 }

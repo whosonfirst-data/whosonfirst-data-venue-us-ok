@@ -2,13 +2,14 @@
   "id": 336638611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975698,36.082693,-95.975698,36.082693",
     "geom:latitude":36.082693,
     "geom:longitude":-95.975698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336638611,
-    "wof:lastmodified":1448996975,
+    "wof:lastmodified":1466762772,
     "wof:name":"Presentation Systems Inc",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "integration"
     ]
 },
-  "bbox": [-95.975698,36.082693,-95.975698,36.082693],
-  "geometry": {"coordinates":[-95.975698,36.082693],"type":"Point"}
+  "bbox": [
+    -95.975698,
+    36.082693,
+    -95.975698,
+    36.082693
+],
+  "geometry": {"coordinates":[-95.97569799999999,36.082693],"type":"Point"}
 }

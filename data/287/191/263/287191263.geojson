@@ -2,13 +2,14 @@
   "id": 287191263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.130452,34.172806,-97.130452,34.172806",
     "geom:latitude":34.172806,
     "geom:longitude":-97.130452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 B St SW",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287191263,
-    "wof:lastmodified":1449001200,
+    "wof:lastmodified":1466763922,
     "wof:name":"Thomas S Walker Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "representative"
     ]
 },
-  "bbox": [-97.130452,34.172806,-97.130452,34.172806],
-  "geometry": {"coordinates":[-97.130452,34.172806],"type":"Point"}
+  "bbox": [
+    -97.130452,
+    34.172806,
+    -97.130452,
+    34.172806
+],
+  "geometry": {"coordinates":[-97.13045200000001,34.172806],"type":"Point"}
 }

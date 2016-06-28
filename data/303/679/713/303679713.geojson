@@ -2,13 +2,14 @@
   "id": 303679713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.925573,36.133368,-95.925573,36.133368",
     "geom:latitude":36.133368,
     "geom:longitude":-95.925573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4145 E 21st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":303679713,
-    "wof:lastmodified":1448999691,
+    "wof:lastmodified":1466766437,
     "wof:name":"Tulsa County Public Facilities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.925573,36.133368,-95.925573,36.133368],
+  "bbox": [
+    -95.925573,
+    36.133368,
+    -95.925573,
+    36.133368
+],
   "geometry": {"coordinates":[-95.925573,36.133368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353552017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.718198,33.997848,-96.718198,33.997848",
     "geom:latitude":33.997848,
     "geom:longitude":-96.718198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Gary Dr",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353552017,
-    "wof:lastmodified":1449019314,
+    "wof:lastmodified":1466763884,
     "wof:name":"Kingston City Housing Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-96.718198,33.997848,-96.718198,33.997848],
+  "bbox": [
+    -96.718198,
+    33.997848,
+    -96.718198,
+    33.997848
+],
   "geometry": {"coordinates":[-96.718198,33.997848],"type":"Point"}
 }

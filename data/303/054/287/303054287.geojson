@@ -2,13 +2,14 @@
   "id": 303054287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.868635,36.083529,-95.868635,36.083529",
     "geom:latitude":36.083529,
     "geom:longitude":-95.868635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9402 E 55th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303054287,
-    "wof:lastmodified":1448999269,
+    "wof:lastmodified":1466762490,
     "wof:name":"Wizard Transportation Svc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.868635,36.083529,-95.868635,36.083529],
+  "bbox": [
+    -95.868635,
+    36.083529,
+    -95.868635,
+    36.083529
+],
   "geometry": {"coordinates":[-95.868635,36.083529],"type":"Point"}
 }

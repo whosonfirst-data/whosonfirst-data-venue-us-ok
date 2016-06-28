@@ -2,13 +2,14 @@
   "id": 320077117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.24173,35.238365,-96.24173,35.238365",
     "geom:latitude":35.238365,
     "geom:longitude":-96.24173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Main St",
     "sg:city":"Wetumka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320077117,
-    "wof:lastmodified":1449011850,
+    "wof:lastmodified":1466763433,
     "wof:name":"Wetumka Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-96.24173,35.238365,-96.24173,35.238365],
+  "bbox": [
+    -96.24173,
+    35.238365,
+    -96.24173,
+    35.238365
+],
   "geometry": {"coordinates":[-96.24173,35.238365],"type":"Point"}
 }

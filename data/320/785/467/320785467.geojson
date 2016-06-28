@@ -2,13 +2,14 @@
   "id": 320785467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.570916,35.370675,-97.570916,35.370675",
     "geom:latitude":35.370675,
     "geom:longitude":-97.570916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3132 SW 96th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320785467,
-    "wof:lastmodified":1449014335,
+    "wof:lastmodified":1466766906,
     "wof:name":"Meredith Home Inspections",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-97.570916,35.370675,-97.570916,35.370675],
+  "bbox": [
+    -97.570916,
+    35.370675,
+    -97.570916,
+    35.370675
+],
   "geometry": {"coordinates":[-97.570916,35.370675],"type":"Point"}
 }

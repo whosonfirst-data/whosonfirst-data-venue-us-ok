@@ -2,13 +2,14 @@
   "id": 303789113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.412828,35.844484,-98.412828,35.844484",
     "geom:latitude":35.844484,
     "geom:longitude":-98.412828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 E Main St",
     "sg:city":"Watonga",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303789113,
-    "wof:lastmodified":1448999222,
+    "wof:lastmodified":1466766711,
     "wof:name":"Wright Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.412828,35.844484,-98.412828,35.844484],
+  "bbox": [
+    -98.412828,
+    35.844484,
+    -98.412828,
+    35.844484
+],
   "geometry": {"coordinates":[-98.412828,35.844484],"type":"Point"}
 }

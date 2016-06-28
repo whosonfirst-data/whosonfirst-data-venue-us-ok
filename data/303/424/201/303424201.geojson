@@ -2,13 +2,14 @@
   "id": 303424201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.143572,34.174583,-97.143572,34.174583",
     "geom:latitude":34.174583,
     "geom:longitude":-97.143572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 W Broadway St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303424201,
-    "wof:lastmodified":1449000413,
+    "wof:lastmodified":1466765523,
     "wof:name":"Ryan Hobbs Investment Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-97.143572,34.174583,-97.143572,34.174583],
-  "geometry": {"coordinates":[-97.143572,34.174583],"type":"Point"}
+  "bbox": [
+    -97.143572,
+    34.174583,
+    -97.143572,
+    34.174583
+],
+  "geometry": {"coordinates":[-97.14357200000001,34.174583],"type":"Point"}
 }

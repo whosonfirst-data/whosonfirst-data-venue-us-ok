@@ -2,13 +2,14 @@
   "id": 303415727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.921629,36.089905,-95.921629,36.089905",
     "geom:latitude":36.089905,
     "geom:longitude":-95.921629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5079 E 51st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303415727,
-    "wof:lastmodified":1448999879,
+    "wof:lastmodified":1466765394,
     "wof:name":"Triple A Blazer Loan Co",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-95.921629,36.089905,-95.921629,36.089905],
+  "bbox": [
+    -95.921629,
+    36.089905,
+    -95.921629,
+    36.089905
+],
   "geometry": {"coordinates":[-95.921629,36.089905],"type":"Point"}
 }

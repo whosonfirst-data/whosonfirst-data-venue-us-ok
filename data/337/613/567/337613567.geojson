@@ -2,13 +2,14 @@
   "id": 337613567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.390347,34.610711,-98.390347,34.610711",
     "geom:latitude":34.610711,
     "geom:longitude":-98.390347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 NW 2nd St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337613567,
-    "wof:lastmodified":1449027327,
+    "wof:lastmodified":1466763292,
     "wof:name":"Biancos Italian Restaurant",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-98.390347,34.610711,-98.390347,34.610711],
-  "geometry": {"coordinates":[-98.390347,34.610711],"type":"Point"}
+  "bbox": [
+    -98.390347,
+    34.610711,
+    -98.390347,
+    34.610711
+],
+  "geometry": {"coordinates":[-98.39034700000001,34.610711],"type":"Point"}
 }

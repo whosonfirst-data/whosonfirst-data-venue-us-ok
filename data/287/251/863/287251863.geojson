@@ -2,13 +2,14 @@
   "id": 287251863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.650625,36.3511,-95.650625,36.3511",
     "geom:latitude":36.3511,
     "geom:longitude":-95.650625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Northaven Rd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287251863,
-    "wof:lastmodified":1449000688,
+    "wof:lastmodified":1466762718,
     "wof:name":"Head 2 Tail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "washing"
     ]
 },
-  "bbox": [-95.650625,36.3511,-95.650625,36.3511],
-  "geometry": {"coordinates":[-95.650625,36.3511],"type":"Point"}
+  "bbox": [
+    -95.650625,
+    36.3511,
+    -95.650625,
+    36.3511
+],
+  "geometry": {"coordinates":[-95.65062500000001,36.3511],"type":"Point"}
 }

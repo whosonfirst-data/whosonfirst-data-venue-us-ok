@@ -2,13 +2,14 @@
   "id": 303403697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.969369,36.120095,-95.969369,36.120095",
     "geom:latitude":36.120095,
     "geom:longitude":-95.969369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1631 E 30th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303403697,
-    "wof:lastmodified":1449000219,
+    "wof:lastmodified":1466765528,
     "wof:name":"Contours Inc",
     "wof:parent_id":85872479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "studio"
     ]
 },
-  "bbox": [-95.969369,36.120095,-95.969369,36.120095],
+  "bbox": [
+    -95.969369,
+    36.120095,
+    -95.969369,
+    36.120095
+],
   "geometry": {"coordinates":[-95.969369,36.120095],"type":"Point"}
 }

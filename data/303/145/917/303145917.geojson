@@ -2,13 +2,14 @@
   "id": 303145917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.855382,36.016323,-95.855382,36.016323",
     "geom:latitude":36.016323,
     "geom:longitude":-95.855382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5404 W Orlando Cir",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303145917,
-    "wof:lastmodified":1448998861,
+    "wof:lastmodified":1466763978,
     "wof:name":"Flag & Flagpole Express",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.855382,36.016323,-95.855382,36.016323],
-  "geometry": {"coordinates":[-95.855382,36.016323],"type":"Point"}
+  "bbox": [
+    -95.855382,
+    36.016323,
+    -95.855382,
+    36.016323
+],
+  "geometry": {"coordinates":[-95.85538200000001,36.016323],"type":"Point"}
 }

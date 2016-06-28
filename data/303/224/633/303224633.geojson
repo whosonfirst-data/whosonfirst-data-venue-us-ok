@@ -2,13 +2,14 @@
   "id": 303224633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.856983,36.264036,-95.856983,36.264036",
     "geom:latitude":36.264036,
     "geom:longitude":-95.856983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W 2nd Ave",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303224633,
-    "wof:lastmodified":1448999907,
+    "wof:lastmodified":1466764586,
     "wof:name":"Owasso City Public Works Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-95.856983,36.264036,-95.856983,36.264036],
+  "bbox": [
+    -95.856983,
+    36.264036,
+    -95.856983,
+    36.264036
+],
   "geometry": {"coordinates":[-95.856983,36.264036],"type":"Point"}
 }

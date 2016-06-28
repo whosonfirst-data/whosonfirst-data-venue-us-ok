@@ -2,13 +2,14 @@
   "id": 303668839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.758033,34.898248,-95.758033,34.898248",
     "geom:latitude":34.898248,
     "geom:longitude":-95.758033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S George Nigh Expy",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303668839,
-    "wof:lastmodified":1448999823,
+    "wof:lastmodified":1466766343,
     "wof:name":"Enterprise Rent-A-Car Company",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "car"
     ]
 },
-  "bbox": [-95.758033,34.898248,-95.758033,34.898248],
+  "bbox": [
+    -95.758033,
+    34.898248,
+    -95.758033,
+    34.898248
+],
   "geometry": {"coordinates":[-95.758033,34.898248],"type":"Point"}
 }

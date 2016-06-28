@@ -2,13 +2,14 @@
   "id": 320492579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.390507,34.005601,-96.390507,34.005601",
     "geom:latitude":34.005601,
     "geom:longitude":-96.390507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1259 N Washington Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320492579,
-    "wof:lastmodified":1449011257,
+    "wof:lastmodified":1466766051,
     "wof:name":"Lead Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mail"
     ]
 },
-  "bbox": [-96.390507,34.005601,-96.390507,34.005601],
+  "bbox": [
+    -96.390507,
+    34.005601,
+    -96.390507,
+    34.005601
+],
   "geometry": {"coordinates":[-96.390507,34.005601],"type":"Point"}
 }

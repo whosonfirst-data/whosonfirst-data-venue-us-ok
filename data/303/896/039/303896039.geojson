@@ -2,13 +2,14 @@
   "id": 303896039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.508088,34.873554,-99.508088,34.873554",
     "geom:latitude":34.873554,
     "geom:longitude":-99.508088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Jefferson St",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303896039,
-    "wof:lastmodified":1448999012,
+    "wof:lastmodified":1466766941,
     "wof:name":"Healthback Of Mangum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-99.508088,34.873554,-99.508088,34.873554],
+  "bbox": [
+    -99.508088,
+    34.873554,
+    -99.508088,
+    34.873554
+],
   "geometry": {"coordinates":[-99.508088,34.873554],"type":"Point"}
 }

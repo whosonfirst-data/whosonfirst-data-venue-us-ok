@@ -2,13 +2,14 @@
   "id": 320331431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.876359,36.873419,-94.876359,36.873419",
     "geom:latitude":36.873419,
     "geom:longitude":-94.876359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 A St SE",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320331431,
-    "wof:lastmodified":1449013519,
+    "wof:lastmodified":1466765364,
     "wof:name":"Whittle Investigatons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-94.876359,36.873419,-94.876359,36.873419],
-  "geometry": {"coordinates":[-94.876359,36.873419],"type":"Point"}
+  "bbox": [
+    -94.876359,
+    36.873419,
+    -94.876359,
+    36.873419
+],
+  "geometry": {"coordinates":[-94.87635899999999,36.873419],"type":"Point"}
 }

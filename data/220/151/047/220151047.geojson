@@ -2,13 +2,14 @@
   "id": 220151047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.756941,36.171266,-95.756941,36.171266",
     "geom:latitude":36.171266,
     "geom:longitude":-95.756941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 S Cherokee St",
     "sg:city":"Catoosa",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220151047,
-    "wof:lastmodified":1449074071,
+    "wof:lastmodified":1466762284,
     "wof:name":"USPS - United States Post Office - Catoosa Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shipping"
     ]
 },
-  "bbox": [-95.756941,36.171266,-95.756941,36.171266],
+  "bbox": [
+    -95.756941,
+    36.171266,
+    -95.756941,
+    36.171266
+],
   "geometry": {"coordinates":[-95.756941,36.171266],"type":"Point"}
 }

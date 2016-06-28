@@ -2,13 +2,14 @@
   "id": 320224657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.629892,35.525129,-97.629892,35.525129",
     "geom:latitude":35.525129,
     "geom:longitude":-97.629892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 N Central Rd",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320224657,
-    "wof:lastmodified":1449013983,
+    "wof:lastmodified":1466764705,
     "wof:name":"Parks Maintenance",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-97.629892,35.525129,-97.629892,35.525129],
+  "bbox": [
+    -97.629892,
+    35.525129,
+    -97.629892,
+    35.525129
+],
   "geometry": {"coordinates":[-97.629892,35.525129],"type":"Point"}
 }

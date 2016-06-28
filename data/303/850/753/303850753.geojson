@@ -2,13 +2,14 @@
   "id": 303850753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.696508,35.98811,-96.696508,35.98811",
     "geom:latitude":35.98811,
     "geom:longitude":-96.696508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N Euchee Valley Rd",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303850753,
-    "wof:lastmodified":1448999537,
+    "wof:lastmodified":1466766844,
     "wof:name":"Layne Western",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "oil"
     ]
 },
-  "bbox": [-96.696508,35.98811,-96.696508,35.98811],
-  "geometry": {"coordinates":[-96.696508,35.98811],"type":"Point"}
+  "bbox": [
+    -96.696508,
+    35.98811,
+    -96.696508,
+    35.98811
+],
+  "geometry": {"coordinates":[-96.69650799999999,35.98811],"type":"Point"}
 }

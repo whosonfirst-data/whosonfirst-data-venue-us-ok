@@ -2,13 +2,14 @@
   "id": 336680049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.372867,34.004997,-96.372867,34.004997",
     "geom:latitude":34.004997,
     "geom:longitude":-96.372867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 N 1st Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336680049,
-    "wof:lastmodified":1448997688,
+    "wof:lastmodified":1466763409,
     "wof:name":"Head Start USDA Monitor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-96.372867,34.004997,-96.372867,34.004997],
+  "bbox": [
+    -96.372867,
+    34.004997,
+    -96.372867,
+    34.004997
+],
   "geometry": {"coordinates":[-96.372867,34.004997],"type":"Point"}
 }

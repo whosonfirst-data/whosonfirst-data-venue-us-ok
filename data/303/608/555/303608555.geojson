@@ -2,13 +2,14 @@
   "id": 303608555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.502006,36.437685,-95.502006,36.437685",
     "geom:latitude":36.437685,
     "geom:longitude":-95.502006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18420 E Hwy 28A",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303608555,
-    "wof:lastmodified":1448999166,
+    "wof:lastmodified":1466766349,
     "wof:name":"Mid America Pipeline Constr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.502006,36.437685,-95.502006,36.437685],
-  "geometry": {"coordinates":[-95.502006,36.437685],"type":"Point"}
+  "bbox": [
+    -95.502006,
+    36.437685,
+    -95.502006,
+    36.437685
+],
+  "geometry": {"coordinates":[-95.50200599999999,36.437685],"type":"Point"}
 }

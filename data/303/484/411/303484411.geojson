@@ -2,13 +2,14 @@
   "id": 303484411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.608302,35.536895,-97.608302,35.536895",
     "geom:latitude":35.536895,
     "geom:longitude":-97.608302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4709 NW 63rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303484411,
-    "wof:lastmodified":1449000423,
+    "wof:lastmodified":1466765903,
     "wof:name":"Kings Wireless Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "cellular"
     ]
 },
-  "bbox": [-97.608302,35.536895,-97.608302,35.536895],
-  "geometry": {"coordinates":[-97.608302,35.536895],"type":"Point"}
+  "bbox": [
+    -97.608302,
+    35.536895,
+    -97.608302,
+    35.536895
+],
+  "geometry": {"coordinates":[-97.60830199999999,35.536895],"type":"Point"}
 }

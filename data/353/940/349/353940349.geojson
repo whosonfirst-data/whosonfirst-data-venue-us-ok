@@ -2,13 +2,14 @@
   "id": 353940349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.460523,35.640732,-97.460523,35.640732",
     "geom:latitude":35.640732,
     "geom:longitude":-97.460523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 S Bryant Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353940349,
-    "wof:lastmodified":1449018885,
+    "wof:lastmodified":1466765802,
     "wof:name":"Edward Jones Co",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-97.460523,35.640732,-97.460523,35.640732],
-  "geometry": {"coordinates":[-97.460523,35.640732],"type":"Point"}
+  "bbox": [
+    -97.460523,
+    35.640732,
+    -97.460523,
+    35.640732
+],
+  "geometry": {"coordinates":[-97.46052299999999,35.640732],"type":"Point"}
 }

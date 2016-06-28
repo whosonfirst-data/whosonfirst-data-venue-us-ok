@@ -2,13 +2,14 @@
   "id": 303138589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.676004,34.223209,-96.676004,34.223209",
     "geom:latitude":34.223209,
     "geom:longitude":-96.676004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 E 24th St",
     "sg:city":"Tishomingo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303138589,
-    "wof:lastmodified":1448998820,
+    "wof:lastmodified":1466763856,
     "wof:name":"National Guard Armory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-96.676004,34.223209,-96.676004,34.223209],
-  "geometry": {"coordinates":[-96.676004,34.223209],"type":"Point"}
+  "bbox": [
+    -96.676004,
+    34.223209,
+    -96.676004,
+    34.223209
+],
+  "geometry": {"coordinates":[-96.67600400000001,34.223209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303216695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.876337,36.881685,-94.876337,36.881685",
     "geom:latitude":36.881685,
     "geom:longitude":-94.876337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 5th Ave NE",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303216695,
-    "wof:lastmodified":1449000288,
+    "wof:lastmodified":1466764660,
     "wof:name":"US Army Reserve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "reserve"
     ]
 },
-  "bbox": [-94.876337,36.881685,-94.876337,36.881685],
-  "geometry": {"coordinates":[-94.876337,36.881685],"type":"Point"}
+  "bbox": [
+    -94.876337,
+    36.881685,
+    -94.876337,
+    36.881685
+],
+  "geometry": {"coordinates":[-94.87633700000001,36.881685],"type":"Point"}
 }

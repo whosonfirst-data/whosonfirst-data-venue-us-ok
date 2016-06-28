@@ -2,13 +2,14 @@
   "id": 336600583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.897454,36.109367,-97.897454,36.109367",
     "geom:latitude":36.109367,
     "geom:longitude":-97.897454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 E Oklahoma St",
     "sg:city":"Hennessey",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336600583,
-    "wof:lastmodified":1448997033,
+    "wof:lastmodified":1466764143,
     "wof:name":"Mescoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.897454,36.109367,-97.897454,36.109367],
+  "bbox": [
+    -97.897454,
+    36.109367,
+    -97.897454,
+    36.109367
+],
   "geometry": {"coordinates":[-97.897454,36.109367],"type":"Point"}
 }

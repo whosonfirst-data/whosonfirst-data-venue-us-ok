@@ -2,13 +2,14 @@
   "id": 303630551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.876618,35.214981,-99.876618,35.214981",
     "geom:latitude":35.214981,
     "geom:longitude":-99.876618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Broadway",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303630551,
-    "wof:lastmodified":1448998993,
+    "wof:lastmodified":1466766305,
     "wof:name":"John D Parrish Oil & Gas Lease",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "lease"
     ]
 },
-  "bbox": [-99.876618,35.214981,-99.876618,35.214981],
-  "geometry": {"coordinates":[-99.876618,35.214981],"type":"Point"}
+  "bbox": [
+    -99.876618,
+    35.214981,
+    -99.876618,
+    35.214981
+],
+  "geometry": {"coordinates":[-99.87661799999999,35.214981],"type":"Point"}
 }

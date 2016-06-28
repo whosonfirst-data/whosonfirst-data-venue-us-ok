@@ -2,13 +2,14 @@
   "id": 303128825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.577825,35.518524,-97.577825,35.518524",
     "geom:latitude":35.518524,
     "geom:longitude":-97.577825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3408 NW 46th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303128825,
-    "wof:lastmodified":1448999076,
+    "wof:lastmodified":1466763701,
     "wof:name":"Kelley Advertising Co",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.577825,35.518524,-97.577825,35.518524],
+  "bbox": [
+    -97.577825,
+    35.518524,
+    -97.577825,
+    35.518524
+],
   "geometry": {"coordinates":[-97.577825,35.518524],"type":"Point"}
 }

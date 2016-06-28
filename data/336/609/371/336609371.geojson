@@ -2,13 +2,14 @@
   "id": 336609371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.479278,35.316239,-97.479278,35.316239",
     "geom:latitude":35.316239,
     "geom:longitude":-97.479278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Industrial Blvd",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336609371,
-    "wof:lastmodified":1448997343,
+    "wof:lastmodified":1466762313,
     "wof:name":"MDRC",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.479278,35.316239,-97.479278,35.316239],
-  "geometry": {"coordinates":[-97.479278,35.316239],"type":"Point"}
+  "bbox": [
+    -97.479278,
+    35.316239,
+    -97.479278,
+    35.316239
+],
+  "geometry": {"coordinates":[-97.47927799999999,35.316239],"type":"Point"}
 }

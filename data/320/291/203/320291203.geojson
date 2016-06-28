@@ -2,13 +2,14 @@
   "id": 320291203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.362641,35.012207,-97.362641,35.012207",
     "geom:latitude":35.012207,
     "geom:longitude":-97.362641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W Main St",
     "sg:city":"Purcell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320291203,
-    "wof:lastmodified":1449012420,
+    "wof:lastmodified":1466765005,
     "wof:name":"Rambling Rose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-97.362641,35.012207,-97.362641,35.012207],
+  "bbox": [
+    -97.362641,
+    35.012207,
+    -97.362641,
+    35.012207
+],
   "geometry": {"coordinates":[-97.362641,35.012207],"type":"Point"}
 }

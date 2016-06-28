@@ -2,13 +2,14 @@
   "id": 320841591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.863959,36.095708,-95.863959,36.095708",
     "geom:latitude":36.095708,
     "geom:longitude":-95.863959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10012 E 47th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320841591,
-    "wof:lastmodified":1449012038,
+    "wof:lastmodified":1466766946,
     "wof:name":"BPC Intl Inc",
     "wof:parent_id":85802911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "infrared"
     ]
 },
-  "bbox": [-95.863959,36.095708,-95.863959,36.095708],
-  "geometry": {"coordinates":[-95.863959,36.095708],"type":"Point"}
+  "bbox": [
+    -95.863959,
+    36.095708,
+    -95.863959,
+    36.095708
+],
+  "geometry": {"coordinates":[-95.86395899999999,36.095708],"type":"Point"}
 }

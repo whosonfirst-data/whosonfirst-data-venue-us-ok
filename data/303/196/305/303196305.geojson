@@ -2,13 +2,14 @@
   "id": 303196305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406023,35.393171,-97.406023,35.393171",
     "geom:latitude":35.393171,
     "geom:longitude":-97.406023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7125 S Air Depot Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303196305,
-    "wof:lastmodified":1448998666,
+    "wof:lastmodified":1466764295,
     "wof:name":"Gradepoint Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.406023,35.393171,-97.406023,35.393171],
+  "bbox": [
+    -97.406023,
+    35.393171,
+    -97.406023,
+    35.393171
+],
   "geometry": {"coordinates":[-97.406023,35.393171],"type":"Point"}
 }

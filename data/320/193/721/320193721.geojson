@@ -2,13 +2,14 @@
   "id": 320193721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.568855,35.504736,-97.568855,35.504736",
     "geom:latitude":35.504736,
     "geom:longitude":-97.568855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2928 W Hill St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320193721,
-    "wof:lastmodified":1449011866,
+    "wof:lastmodified":1466764669,
     "wof:name":"Aqua Clean",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-97.568855,35.504736,-97.568855,35.504736],
+  "bbox": [
+    -97.568855,
+    35.504736,
+    -97.568855,
+    35.504736
+],
   "geometry": {"coordinates":[-97.568855,35.504736],"type":"Point"}
 }

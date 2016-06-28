@@ -2,13 +2,14 @@
   "id": 303844685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886608,36.097825,-95.886608,36.097825",
     "geom:latitude":36.097825,
     "geom:longitude":-95.886608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4404 S Memorial Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303844685,
-    "wof:lastmodified":1448999163,
+    "wof:lastmodified":1466766760,
     "wof:name":"Signs Now",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacture"
     ]
 },
-  "bbox": [-95.886608,36.097825,-95.886608,36.097825],
+  "bbox": [
+    -95.886608,
+    36.097825,
+    -95.886608,
+    36.097825
+],
   "geometry": {"coordinates":[-95.886608,36.097825],"type":"Point"}
 }

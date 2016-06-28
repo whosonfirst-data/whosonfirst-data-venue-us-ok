@@ -2,13 +2,14 @@
   "id": 303078133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.794638,35.302386,-97.794638,35.302386",
     "geom:latitude":35.302386,
     "geom:longitude":-97.794638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 N Richland Rd",
     "sg:city":"Tuttle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303078133,
-    "wof:lastmodified":1449000181,
+    "wof:lastmodified":1466762874,
     "wof:name":"Leg Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.794638,35.302386,-97.794638,35.302386],
-  "geometry": {"coordinates":[-97.794638,35.302386],"type":"Point"}
+  "bbox": [
+    -97.794638,
+    35.302386,
+    -97.794638,
+    35.302386
+],
+  "geometry": {"coordinates":[-97.79463800000001,35.302386],"type":"Point"}
 }

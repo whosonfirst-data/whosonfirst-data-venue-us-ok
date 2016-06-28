@@ -2,13 +2,14 @@
   "id": 303044925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.992263,36.136166,-95.992263,36.136166",
     "geom:latitude":36.136166,
     "geom:longitude":-95.992263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1729 S Denver Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303044925,
-    "wof:lastmodified":1448999393,
+    "wof:lastmodified":1466762342,
     "wof:name":"Terrace View Apartments",
     "wof:parent_id":85872487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.992263,36.136166,-95.992263,36.136166],
-  "geometry": {"coordinates":[-95.992263,36.136166],"type":"Point"}
+  "bbox": [
+    -95.992263,
+    36.136166,
+    -95.992263,
+    36.136166
+],
+  "geometry": {"coordinates":[-95.99226299999999,36.136166],"type":"Point"}
 }

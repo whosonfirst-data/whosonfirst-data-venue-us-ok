@@ -2,13 +2,14 @@
   "id": 353698779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.631339,35.606619,-97.631339,35.606619",
     "geom:latitude":35.606619,
     "geom:longitude":-97.631339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13400 Baldwin Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353698779,
-    "wof:lastmodified":1449020636,
+    "wof:lastmodified":1466764784,
     "wof:name":"Big Ideas Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-97.631339,35.606619,-97.631339,35.606619],
+  "bbox": [
+    -97.631339,
+    35.606619,
+    -97.631339,
+    35.606619
+],
   "geometry": {"coordinates":[-97.631339,35.606619],"type":"Point"}
 }

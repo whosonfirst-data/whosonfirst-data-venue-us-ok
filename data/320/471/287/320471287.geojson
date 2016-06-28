@@ -2,13 +2,14 @@
   "id": 320471287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.476566,35.657,-97.476566,35.657",
     "geom:latitude":35.657,
     "geom:longitude":-97.476566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Campbell St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320471287,
-    "wof:lastmodified":1449012767,
+    "wof:lastmodified":1466766092,
     "wof:name":"Spring Energy Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "exploration"
     ]
 },
-  "bbox": [-97.476566,35.657,-97.476566,35.657],
-  "geometry": {"coordinates":[-97.476566,35.657],"type":"Point"}
+  "bbox": [
+    -97.476566,
+    35.657,
+    -97.476566,
+    35.657
+],
+  "geometry": {"coordinates":[-97.47656600000001,35.657],"type":"Point"}
 }

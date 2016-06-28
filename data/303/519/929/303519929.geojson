@@ -2,13 +2,14 @@
   "id": 303519929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.777492,35.978991,-96.777492,35.978991",
     "geom:latitude":35.978991,
     "geom:longitude":-96.777492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 W Cherry St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303519929,
-    "wof:lastmodified":1449000401,
+    "wof:lastmodified":1466765809,
     "wof:name":"Maintenance Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-96.777492,35.978991,-96.777492,35.978991],
+  "bbox": [
+    -96.777492,
+    35.978991,
+    -96.777492,
+    35.978991
+],
   "geometry": {"coordinates":[-96.777492,35.978991],"type":"Point"}
 }

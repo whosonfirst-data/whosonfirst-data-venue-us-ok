@@ -2,13 +2,14 @@
   "id": 336851395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.402714,35.461338,-97.402714,35.461338",
     "geom:latitude":35.461338,
     "geom:longitude":-97.402714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 W Coe Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336851395,
-    "wof:lastmodified":1448997644,
+    "wof:lastmodified":1466764945,
     "wof:name":"Richard Cannon",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-97.402714,35.461338,-97.402714,35.461338],
+  "bbox": [
+    -97.402714,
+    35.461338,
+    -97.402714,
+    35.461338
+],
   "geometry": {"coordinates":[-97.402714,35.461338],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320602431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.540302,35.361085,-97.540302,35.361085",
     "geom:latitude":35.361085,
     "geom:longitude":-97.540302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 SW 107th Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320602431,
-    "wof:lastmodified":1449013010,
+    "wof:lastmodified":1466766289,
     "wof:name":"Dodsons Hillcrest Cafeteria",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "eating"
     ]
 },
-  "bbox": [-97.540302,35.361085,-97.540302,35.361085],
+  "bbox": [
+    -97.540302,
+    35.361085,
+    -97.540302,
+    35.361085
+],
   "geometry": {"coordinates":[-97.540302,35.361085],"type":"Point"}
 }

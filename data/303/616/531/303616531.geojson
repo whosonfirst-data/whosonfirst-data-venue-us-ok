@@ -2,13 +2,14 @@
   "id": 303616531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.738233,35.462457,-97.738233,35.462457",
     "geom:latitude":35.462457,
     "geom:longitude":-97.738233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Conestoga Dr",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303616531,
-    "wof:lastmodified":1448999916,
+    "wof:lastmodified":1466766244,
     "wof:name":"Noland Painting",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.738233,35.462457,-97.738233,35.462457],
-  "geometry": {"coordinates":[-97.738233,35.462457],"type":"Point"}
+  "bbox": [
+    -97.738233,
+    35.462457,
+    -97.738233,
+    35.462457
+],
+  "geometry": {"coordinates":[-97.73823299999999,35.462457],"type":"Point"}
 }

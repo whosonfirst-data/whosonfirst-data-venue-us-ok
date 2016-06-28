@@ -2,13 +2,14 @@
   "id": 320648783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.016574,34.389535,-99.016574,34.389535",
     "geom:latitude":34.389535,
     "geom:longitude":-99.016574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E Grand Ave",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320648783,
-    "wof:lastmodified":1449012275,
+    "wof:lastmodified":1466766386,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.016574,34.389535,-99.016574,34.389535],
-  "geometry": {"coordinates":[-99.016574,34.389535],"type":"Point"}
+  "bbox": [
+    -99.016574,
+    34.389535,
+    -99.016574,
+    34.389535
+],
+  "geometry": {"coordinates":[-99.01657400000001,34.389535],"type":"Point"}
 }

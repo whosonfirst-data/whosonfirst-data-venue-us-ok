@@ -2,13 +2,14 @@
   "id": 303073813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.967807,34.510884,-96.967807,34.510884",
     "geom:latitude":34.510884,
     "geom:longitude":-96.967807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 State Hwy 7",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303073813,
-    "wof:lastmodified":1448998457,
+    "wof:lastmodified":1466762805,
     "wof:name":"Bailey's Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-96.967807,34.510884,-96.967807,34.510884],
-  "geometry": {"coordinates":[-96.967807,34.510884],"type":"Point"}
+  "bbox": [
+    -96.967807,
+    34.510884,
+    -96.967807,
+    34.510884
+],
+  "geometry": {"coordinates":[-96.96780699999999,34.510884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320311245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.901251,35.716327,-96.901251,35.716327",
     "geom:latitude":35.716327,
     "geom:longitude":-96.901251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 N Rozell Rd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320311245,
-    "wof:lastmodified":1449012141,
+    "wof:lastmodified":1466765209,
     "wof:name":"Marys Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.901251,35.716327,-96.901251,35.716327],
+  "bbox": [
+    -96.901251,
+    35.716327,
+    -96.901251,
+    35.716327
+],
   "geometry": {"coordinates":[-96.901251,35.716327],"type":"Point"}
 }

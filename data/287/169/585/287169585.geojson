@@ -2,13 +2,14 @@
   "id": 287169585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.873951,36.097825,-95.873951,36.097825",
     "geom:latitude":36.097825,
     "geom:longitude":-95.873951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9133 E 46th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":287169585,
-    "wof:lastmodified":1449001205,
+    "wof:lastmodified":1466763769,
     "wof:name":"Loman Stained Glass Studio",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "blown"
     ]
 },
-  "bbox": [-95.873951,36.097825,-95.873951,36.097825],
-  "geometry": {"coordinates":[-95.873951,36.097825],"type":"Point"}
+  "bbox": [
+    -95.873951,
+    36.097825,
+    -95.873951,
+    36.097825
+],
+  "geometry": {"coordinates":[-95.87395100000001,36.097825],"type":"Point"}
 }

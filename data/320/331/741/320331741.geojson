@@ -2,13 +2,14 @@
   "id": 320331741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.719245,34.000201,-96.719245,34.000201",
     "geom:latitude":34.000201,
     "geom:longitude":-96.719245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Main St",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320331741,
-    "wof:lastmodified":1449013519,
+    "wof:lastmodified":1466765481,
     "wof:name":"Akins Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-96.719245,34.000201,-96.719245,34.000201],
+  "bbox": [
+    -96.719245,
+    34.000201,
+    -96.719245,
+    34.000201
+],
   "geometry": {"coordinates":[-96.719245,34.000201],"type":"Point"}
 }

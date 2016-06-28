@@ -2,13 +2,14 @@
   "id": 320374867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.319157,36.306107,-95.319157,36.306107",
     "geom:latitude":36.306107,
     "geom:longitude":-95.319157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Mill St",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":320374867,
-    "wof:lastmodified":1449012879,
+    "wof:lastmodified":1466765596,
     "wof:name":"Offices Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-95.319157,36.306107,-95.319157,36.306107],
+  "bbox": [
+    -95.319157,
+    36.306107,
+    -95.319157,
+    36.306107
+],
   "geometry": {"coordinates":[-95.319157,36.306107],"type":"Point"}
 }

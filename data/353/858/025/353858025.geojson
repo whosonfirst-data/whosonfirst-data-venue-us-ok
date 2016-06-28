@@ -2,13 +2,14 @@
   "id": 353858025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.058562,36.112309,-97.058562,36.112309",
     "geom:latitude":36.112309,
     "geom:longitude":-97.058562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 E 9th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353858025,
-    "wof:lastmodified":1449018511,
+    "wof:lastmodified":1466765472,
     "wof:name":"Armbruster Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-97.058562,36.112309,-97.058562,36.112309],
-  "geometry": {"coordinates":[-97.058562,36.112309],"type":"Point"}
+  "bbox": [
+    -97.058562,
+    36.112309,
+    -97.058562,
+    36.112309
+],
+  "geometry": {"coordinates":[-97.05856199999999,36.112309],"type":"Point"}
 }

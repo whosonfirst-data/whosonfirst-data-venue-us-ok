@@ -2,13 +2,14 @@
   "id": 320477853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.67838,34.781682,-96.67838,34.781682",
     "geom:latitude":34.781682,
     "geom:longitude":-96.67838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Arlington St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320477853,
-    "wof:lastmodified":1449011894,
+    "wof:lastmodified":1466766012,
     "wof:name":"Electronics Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.67838,34.781682,-96.67838,34.781682],
+  "bbox": [
+    -96.67838,
+    34.781682,
+    -96.67838,
+    34.781682
+],
   "geometry": {"coordinates":[-96.67838,34.781682],"type":"Point"}
 }

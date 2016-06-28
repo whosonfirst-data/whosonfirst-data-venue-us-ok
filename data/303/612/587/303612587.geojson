@@ -2,13 +2,14 @@
   "id": 303612587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.872366,36.579917,-98.872366,36.579917",
     "geom:latitude":36.579917,
     "geom:longitude":-98.872366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 E Maple St",
     "sg:city":"Waynoka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303612587,
-    "wof:lastmodified":1448999199,
+    "wof:lastmodified":1466766370,
     "wof:name":"Steve Redgate Cattle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agricultural"
     ]
 },
-  "bbox": [-98.872366,36.579917,-98.872366,36.579917],
+  "bbox": [
+    -98.872366,
+    36.579917,
+    -98.872366,
+    36.579917
+],
   "geometry": {"coordinates":[-98.872366,36.579917],"type":"Point"}
 }

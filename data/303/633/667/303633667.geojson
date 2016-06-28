@@ -2,13 +2,14 @@
   "id": 303633667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.354445,33.772603,-96.354445,33.772603",
     "geom:latitude":33.772603,
     "geom:longitude":-96.354445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Main St",
     "sg:city":"Battiest",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303633667,
-    "wof:lastmodified":1449000547,
+    "wof:lastmodified":1466766307,
     "wof:name":"Battiest Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.354445,33.772603,-96.354445,33.772603],
+  "bbox": [
+    -96.354445,
+    33.772603,
+    -96.354445,
+    33.772603
+],
   "geometry": {"coordinates":[-96.354445,33.772603],"type":"Point"}
 }

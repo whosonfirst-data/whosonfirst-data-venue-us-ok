@@ -2,13 +2,14 @@
   "id": 303582129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.482713,36.682913,-101.482713,36.682913",
     "geom:latitude":36.682913,
     "geom:longitude":-101.482713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 NW 5th St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303582129,
-    "wof:lastmodified":1448999438,
+    "wof:lastmodified":1466766145,
     "wof:name":"Bagley Appraisal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-101.482713,36.682913,-101.482713,36.682913],
+  "bbox": [
+    -101.482713,
+    36.682913,
+    -101.482713,
+    36.682913
+],
   "geometry": {"coordinates":[-101.482713,36.682913],"type":"Point"}
 }

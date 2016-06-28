@@ -2,13 +2,14 @@
   "id": 303359739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.511256,35.482251,-97.511256,35.482251",
     "geom:latitude":35.482251,
     "geom:longitude":-97.511256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 NE 13th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303359739,
-    "wof:lastmodified":1448998078,
+    "wof:lastmodified":1466765229,
     "wof:name":"Sugar Creek Camp",
     "wof:parent_id":85871669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [-97.511256,35.482251,-97.511256,35.482251],
+  "bbox": [
+    -97.511256,
+    35.482251,
+    -97.511256,
+    35.482251
+],
   "geometry": {"coordinates":[-97.511256,35.482251],"type":"Point"}
 }

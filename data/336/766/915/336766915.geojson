@@ -2,13 +2,14 @@
   "id": 336766915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.907517,36.401483,-97.907517,36.401483",
     "geom:latitude":36.401483,
     "geom:longitude":-97.907517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 Fountain Lake Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336766915,
-    "wof:lastmodified":1448996908,
+    "wof:lastmodified":1466764408,
     "wof:name":"Fountain Lake Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.907517,36.401483,-97.907517,36.401483],
+  "bbox": [
+    -97.907517,
+    36.401483,
+    -97.907517,
+    36.401483
+],
   "geometry": {"coordinates":[-97.907517,36.401483],"type":"Point"}
 }

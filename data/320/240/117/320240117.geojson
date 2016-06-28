@@ -2,13 +2,14 @@
   "id": 320240117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.65243,34.780502,-96.65243,34.780502",
     "geom:latitude":34.780502,
     "geom:longitude":-96.65243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 N Country Club Rd",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320240117,
-    "wof:lastmodified":1449011628,
+    "wof:lastmodified":1466764709,
     "wof:name":"US Army Reserve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-96.65243,34.780502,-96.65243,34.780502],
+  "bbox": [
+    -96.65243,
+    34.780502,
+    -96.65243,
+    34.780502
+],
   "geometry": {"coordinates":[-96.65243,34.780502],"type":"Point"}
 }

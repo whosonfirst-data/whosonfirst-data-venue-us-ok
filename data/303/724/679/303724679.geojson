@@ -2,13 +2,14 @@
   "id": 303724679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.983012,35.610008,-95.983012,35.610008",
     "geom:latitude":35.610008,
     "geom:longitude":-95.983012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W 20th St",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303724679,
-    "wof:lastmodified":1449000516,
+    "wof:lastmodified":1466766529,
     "wof:name":"Thompson Pump Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [-95.983012,35.610008,-95.983012,35.610008],
+  "bbox": [
+    -95.983012,
+    35.610008,
+    -95.983012,
+    35.610008
+],
   "geometry": {"coordinates":[-95.983012,35.610008],"type":"Point"}
 }

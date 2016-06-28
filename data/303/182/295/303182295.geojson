@@ -2,13 +2,14 @@
   "id": 303182295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.081509,36.698181,-97.081509,36.698181",
     "geom:latitude":36.698181,
     "geom:longitude":-97.081509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 S 3rd St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303182295,
-    "wof:lastmodified":1448999665,
+    "wof:lastmodified":1466764226,
     "wof:name":"Sam's Industrial Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [-97.081509,36.698181,-97.081509,36.698181],
+  "bbox": [
+    -97.081509,
+    36.698181,
+    -97.081509,
+    36.698181
+],
   "geometry": {"coordinates":[-97.081509,36.698181],"type":"Point"}
 }

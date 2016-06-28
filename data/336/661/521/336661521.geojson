@@ -2,13 +2,14 @@
   "id": 336661521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.395783,36.435952,-99.395783,36.435952",
     "geom:latitude":36.435952,
     "geom:longitude":-99.395783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Main Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336661521,
-    "wof:lastmodified":1448997902,
+    "wof:lastmodified":1466763128,
     "wof:name":"Bruce Buck Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.395783,36.435952,-99.395783,36.435952],
-  "geometry": {"coordinates":[-99.395783,36.435952],"type":"Point"}
+  "bbox": [
+    -99.395783,
+    36.435952,
+    -99.395783,
+    36.435952
+],
+  "geometry": {"coordinates":[-99.39578299999999,36.435952],"type":"Point"}
 }

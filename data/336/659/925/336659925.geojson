@@ -2,13 +2,14 @@
   "id": 336659925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.506395,35.652892,-97.506395,35.652892",
     "geom:latitude":35.652892,
     "geom:longitude":-97.506395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Longhorn Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336659925,
-    "wof:lastmodified":1448997047,
+    "wof:lastmodified":1466763105,
     "wof:name":"Able Welding",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.506395,35.652892,-97.506395,35.652892],
+  "bbox": [
+    -97.506395,
+    35.652892,
+    -97.506395,
+    35.652892
+],
   "geometry": {"coordinates":[-97.506395,35.652892],"type":"Point"}
 }

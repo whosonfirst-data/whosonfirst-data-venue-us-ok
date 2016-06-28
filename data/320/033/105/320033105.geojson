@@ -2,13 +2,14 @@
   "id": 320033105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.255958,35.474332,-97.255958,35.474332",
     "geom:latitude":35.474332,
     "geom:longitude":-97.255958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15600 Kent Dr",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320033105,
-    "wof:lastmodified":1449012026,
+    "wof:lastmodified":1466762779,
     "wof:name":"Harold Weaver",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tract"
     ]
 },
-  "bbox": [-97.255958,35.474332,-97.255958,35.474332],
-  "geometry": {"coordinates":[-97.255958,35.474332],"type":"Point"}
+  "bbox": [
+    -97.255958,
+    35.474332,
+    -97.255958,
+    35.474332
+],
+  "geometry": {"coordinates":[-97.25595800000001,35.474332],"type":"Point"}
 }

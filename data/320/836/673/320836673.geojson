@@ -2,13 +2,14 @@
   "id": 320836673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.564968,35.529711,-97.564968,35.529711",
     "geom:latitude":35.529711,
     "geom:longitude":-97.564968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2828 NW 57th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320836673,
-    "wof:lastmodified":1449013740,
+    "wof:lastmodified":1466766995,
     "wof:name":"Gateway Services Oklahoma City",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "us"
     ]
 },
-  "bbox": [-97.564968,35.529711,-97.564968,35.529711],
-  "geometry": {"coordinates":[-97.564968,35.529711],"type":"Point"}
+  "bbox": [
+    -97.564968,
+    35.529711,
+    -97.564968,
+    35.529711
+],
+  "geometry": {"coordinates":[-97.56496799999999,35.529711],"type":"Point"}
 }

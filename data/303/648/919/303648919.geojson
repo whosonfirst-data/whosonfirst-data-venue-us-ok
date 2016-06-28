@@ -2,13 +2,14 @@
   "id": 303648919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.159236,35.478418,-97.159236,35.478418",
     "geom:latitude":35.478418,
     "geom:longitude":-97.159236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1093 N Harrah Rd",
     "sg:city":"Harrah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303648919,
-    "wof:lastmodified":1448998780,
+    "wof:lastmodified":1466766368,
     "wof:name":"Harrah Police Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.159236,35.478418,-97.159236,35.478418],
-  "geometry": {"coordinates":[-97.159236,35.478418],"type":"Point"}
+  "bbox": [
+    -97.159236,
+    35.478418,
+    -97.159236,
+    35.478418
+],
+  "geometry": {"coordinates":[-97.15923600000001,35.478418],"type":"Point"}
 }

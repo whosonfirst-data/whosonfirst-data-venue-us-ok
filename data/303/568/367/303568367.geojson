@@ -2,13 +2,14 @@
   "id": 303568367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.680939,35.396157,-97.680939,35.396157",
     "geom:latitude":35.396157,
     "geom:longitude":-97.680939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 E Willow Creek Ter",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303568367,
-    "wof:lastmodified":1448998059,
+    "wof:lastmodified":1466766209,
     "wof:name":"Clear Signal Products",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-97.680939,35.396157,-97.680939,35.396157],
+  "bbox": [
+    -97.680939,
+    35.396157,
+    -97.680939,
+    35.396157
+],
   "geometry": {"coordinates":[-97.680939,35.396157],"type":"Point"}
 }

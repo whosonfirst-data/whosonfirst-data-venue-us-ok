@@ -2,13 +2,14 @@
   "id": 303619609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.420614,35.41179,-99.420614,35.41179",
     "geom:latitude":35.41179,
     "geom:longitude":-99.420614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 W 3rd St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303619609,
-    "wof:lastmodified":1448998557,
+    "wof:lastmodified":1466766253,
     "wof:name":"Taco Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-99.420614,35.41179,-99.420614,35.41179],
+  "bbox": [
+    -99.420614,
+    35.41179,
+    -99.420614,
+    35.41179
+],
   "geometry": {"coordinates":[-99.420614,35.41179],"type":"Point"}
 }

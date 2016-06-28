@@ -2,13 +2,14 @@
   "id": 303732111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.952287,35.8276,-97.952287,35.8276",
     "geom:latitude":35.8276,
     "geom:longitude":-97.952287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Starlite Dr",
     "sg:city":"Kingfisher",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303732111,
-    "wof:lastmodified":1449000648,
+    "wof:lastmodified":1466766627,
     "wof:name":"Sheppard Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.952287,35.8276,-97.952287,35.8276],
+  "bbox": [
+    -97.952287,
+    35.8276,
+    -97.952287,
+    35.8276
+],
   "geometry": {"coordinates":[-97.952287,35.8276],"type":"Point"}
 }

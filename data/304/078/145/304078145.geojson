@@ -2,13 +2,14 @@
   "id": 304078145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.045658,36.144174,-97.045658,36.144174",
     "geom:latitude":36.144174,
     "geom:longitude":-97.045658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2019 N Burdick St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304078145,
-    "wof:lastmodified":1449044079,
+    "wof:lastmodified":1466763275,
     "wof:name":"Land Surveying Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.045658,36.144174,-97.045658,36.144174],
+  "bbox": [
+    -97.045658,
+    36.144174,
+    -97.045658,
+    36.144174
+],
   "geometry": {"coordinates":[-97.045658,36.144174],"type":"Point"}
 }

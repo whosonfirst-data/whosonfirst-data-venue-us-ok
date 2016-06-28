@@ -2,13 +2,14 @@
   "id": 287288553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.704361,36.569974,-96.704361,36.569974",
     "geom:latitude":36.569974,
     "geom:longitude":-96.704361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 S Main St",
     "sg:city":"Fairfax",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287288553,
-    "wof:lastmodified":1449000747,
+    "wof:lastmodified":1466763259,
     "wof:name":"Red Devil Superette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.704361,36.569974,-96.704361,36.569974],
-  "geometry": {"coordinates":[-96.704361,36.569974],"type":"Point"}
+  "bbox": [
+    -96.704361,
+    36.569974,
+    -96.704361,
+    36.569974
+],
+  "geometry": {"coordinates":[-96.70436100000001,36.569974],"type":"Point"}
 }

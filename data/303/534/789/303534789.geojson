@@ -2,13 +2,14 @@
   "id": 303534789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531253,35.550053,-97.531253,35.550053",
     "geom:latitude":35.550053,
     "geom:longitude":-97.531253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 N Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303534789,
-    "wof:lastmodified":1448998747,
+    "wof:lastmodified":1466765983,
     "wof:name":"Brown Bag Deli",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-97.531253,35.550053,-97.531253,35.550053],
-  "geometry": {"coordinates":[-97.531253,35.550053],"type":"Point"}
+  "bbox": [
+    -97.531253,
+    35.550053,
+    -97.531253,
+    35.550053
+],
+  "geometry": {"coordinates":[-97.53125300000001,35.550053],"type":"Point"}
 }

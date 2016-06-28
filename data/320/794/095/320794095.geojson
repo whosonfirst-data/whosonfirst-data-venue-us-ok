@@ -2,13 +2,14 @@
   "id": 320794095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.09848,36.86785,-95.09848,36.86785",
     "geom:latitude":36.86785,
     "geom:longitude":-95.09848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1047 S Washington St",
     "sg:city":"Welch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320794095,
-    "wof:lastmodified":1449013052,
+    "wof:lastmodified":1466766820,
     "wof:name":"Willow Bend Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.09848,36.86785,-95.09848,36.86785],
+  "bbox": [
+    -95.09848,
+    36.86785,
+    -95.09848,
+    36.86785
+],
   "geometry": {"coordinates":[-95.09848,36.86785],"type":"Point"}
 }

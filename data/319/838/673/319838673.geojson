@@ -2,13 +2,14 @@
   "id": 319838673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.971139,36.689029,-94.971139,36.689029",
     "geom:latitude":36.689029,
     "geom:longitude":-94.971139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Monroe Ave",
     "sg:city":"Afton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319838673,
-    "wof:lastmodified":1449024194,
+    "wof:lastmodified":1466763039,
     "wof:name":"Afton Holiness Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.971139,36.689029,-94.971139,36.689029],
-  "geometry": {"coordinates":[-94.971139,36.689029],"type":"Point"}
+  "bbox": [
+    -94.971139,
+    36.689029,
+    -94.971139,
+    36.689029
+],
+  "geometry": {"coordinates":[-94.97113899999999,36.689029],"type":"Point"}
 }

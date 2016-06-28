@@ -2,13 +2,14 @@
   "id": 320283051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.901612,36.382502,-97.901612,36.382502",
     "geom:latitude":36.382502,
     "geom:longitude":-97.901612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 Huron St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320283051,
-    "wof:lastmodified":1449012367,
+    "wof:lastmodified":1466765074,
     "wof:name":"Attic Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.901612,36.382502,-97.901612,36.382502],
+  "bbox": [
+    -97.901612,
+    36.382502,
+    -97.901612,
+    36.382502
+],
   "geometry": {"coordinates":[-97.901612,36.382502],"type":"Point"}
 }

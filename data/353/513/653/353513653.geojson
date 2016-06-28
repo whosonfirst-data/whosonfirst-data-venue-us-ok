@@ -2,13 +2,14 @@
   "id": 353513653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.139545,34.179453,-97.139545,34.179453",
     "geom:latitude":34.179453,
     "geom:longitude":-97.139545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 Grand Ave NW",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353513653,
-    "wof:lastmodified":1449019930,
+    "wof:lastmodified":1466763329,
     "wof:name":"Steele Drug Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.139545,34.179453,-97.139545,34.179453],
+  "bbox": [
+    -97.139545,
+    34.179453,
+    -97.139545,
+    34.179453
+],
   "geometry": {"coordinates":[-97.139545,34.179453],"type":"Point"}
 }

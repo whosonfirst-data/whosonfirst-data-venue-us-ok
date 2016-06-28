@@ -2,13 +2,14 @@
   "id": 220164301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.833574,36.278563,-95.833574,36.278563",
     "geom:latitude":36.278563,
     "geom:longitude":-95.833574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12601 E 86th St N",
     "sg:city":"Owasso",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220164301,
-    "wof:lastmodified":1449074126,
+    "wof:lastmodified":1466762303,
     "wof:name":"Owasso 10",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.833574,36.278563,-95.833574,36.278563],
+  "bbox": [
+    -95.833574,
+    36.278563,
+    -95.833574,
+    36.278563
+],
   "geometry": {"coordinates":[-95.833574,36.278563],"type":"Point"}
 }

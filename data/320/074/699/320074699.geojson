@@ -2,13 +2,14 @@
   "id": 320074699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.437775,35.435163,-97.437775,35.435163",
     "geom:latitude":35.435163,
     "geom:longitude":-97.437775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4412 SE 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320074699,
-    "wof:lastmodified":1449013279,
+    "wof:lastmodified":1466763394,
     "wof:name":"American Telcom Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "electrical"
     ]
 },
-  "bbox": [-97.437775,35.435163,-97.437775,35.435163],
+  "bbox": [
+    -97.437775,
+    35.435163,
+    -97.437775,
+    35.435163
+],
   "geometry": {"coordinates":[-97.437775,35.435163],"type":"Point"}
 }

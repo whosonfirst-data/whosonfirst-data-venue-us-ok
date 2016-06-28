@@ -2,13 +2,14 @@
   "id": 303102813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.693738,34.775562,-96.693738,34.775562",
     "geom:latitude":34.775562,
     "geom:longitude":-96.693738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1131 Sandy Creek Dr",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303102813,
-    "wof:lastmodified":1449000380,
+    "wof:lastmodified":1466763279,
     "wof:name":"Capps Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.693738,34.775562,-96.693738,34.775562],
+  "bbox": [
+    -96.693738,
+    34.775562,
+    -96.693738,
+    34.775562
+],
   "geometry": {"coordinates":[-96.693738,34.775562],"type":"Point"}
 }

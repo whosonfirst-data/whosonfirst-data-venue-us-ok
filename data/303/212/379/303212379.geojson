@@ -2,13 +2,14 @@
   "id": 303212379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.859834,36.181226,-95.859834,36.181226",
     "geom:latitude":36.181226,
     "geom:longitude":-95.859834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1807 N 105th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303212379,
-    "wof:lastmodified":1448999702,
+    "wof:lastmodified":1466764418,
     "wof:name":"Oil Capitol Sheet Metal Inc",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.859834,36.181226,-95.859834,36.181226],
-  "geometry": {"coordinates":[-95.859834,36.181226],"type":"Point"}
+  "bbox": [
+    -95.859834,
+    36.181226,
+    -95.859834,
+    36.181226
+],
+  "geometry": {"coordinates":[-95.85983400000001,36.181226],"type":"Point"}
 }

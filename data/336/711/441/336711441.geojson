@@ -2,13 +2,14 @@
   "id": 336711441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967934,35.619051,-95.967934,35.619051",
     "geom:latitude":35.619051,
     "geom:longitude":-95.967934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 S Muskogee Ave",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336711441,
-    "wof:lastmodified":1448997833,
+    "wof:lastmodified":1466763898,
     "wof:name":"Graham Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "animal"
     ]
 },
-  "bbox": [-95.967934,35.619051,-95.967934,35.619051],
+  "bbox": [
+    -95.967934,
+    35.619051,
+    -95.967934,
+    35.619051
+],
   "geometry": {"coordinates":[-95.967934,35.619051],"type":"Point"}
 }

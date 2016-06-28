@@ -2,13 +2,14 @@
   "id": 320797289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.389478,36.418977,-99.389478,36.418977",
     "geom:latitude":36.418977,
     "geom:longitude":-99.389478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 8th St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320797289,
-    "wof:lastmodified":1449014592,
+    "wof:lastmodified":1466766830,
     "wof:name":"United Supermarkets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-99.389478,36.418977,-99.389478,36.418977],
+  "bbox": [
+    -99.389478,
+    36.418977,
+    -99.389478,
+    36.418977
+],
   "geometry": {"coordinates":[-99.389478,36.418977],"type":"Point"}
 }

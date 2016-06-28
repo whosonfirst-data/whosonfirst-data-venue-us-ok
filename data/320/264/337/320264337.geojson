@@ -2,13 +2,14 @@
   "id": 320264337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760148,35.49174,-97.760148,35.49174",
     "geom:latitude":35.49174,
     "geom:longitude":-97.760148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1769 Garth Brooks Blvd",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320264337,
-    "wof:lastmodified":1449013690,
+    "wof:lastmodified":1466764863,
     "wof:name":"Julie's Juice & Java",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-97.760148,35.49174,-97.760148,35.49174],
+  "bbox": [
+    -97.760148,
+    35.49174,
+    -97.760148,
+    35.49174
+],
   "geometry": {"coordinates":[-97.760148,35.49174],"type":"Point"}
 }

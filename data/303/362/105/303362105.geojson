@@ -2,13 +2,14 @@
   "id": 303362105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.58818,35.511159,-97.58818,35.511159",
     "geom:latitude":35.511159,
     "geom:longitude":-97.58818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 NW 39th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303362105,
-    "wof:lastmodified":1448999699,
+    "wof:lastmodified":1466765237,
     "wof:name":"W Kenneth Wertz",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.58818,35.511159,-97.58818,35.511159],
-  "geometry": {"coordinates":[-97.58818,35.511159],"type":"Point"}
+  "bbox": [
+    -97.58818,
+    35.511159,
+    -97.58818,
+    35.511159
+],
+  "geometry": {"coordinates":[-97.58817999999999,35.511159],"type":"Point"}
 }

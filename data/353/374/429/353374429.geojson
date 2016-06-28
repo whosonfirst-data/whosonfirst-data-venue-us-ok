@@ -2,13 +2,14 @@
   "id": 353374429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.789027,35.985233,-95.789027,35.985233",
     "geom:latitude":35.985233,
     "geom:longitude":-95.789027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 W Winston Ct",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353374429,
-    "wof:lastmodified":1449019370,
+    "wof:lastmodified":1466762303,
     "wof:name":"CBI Pipe & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "warehouse"
     ]
 },
-  "bbox": [-95.789027,35.985233,-95.789027,35.985233],
+  "bbox": [
+    -95.789027,
+    35.985233,
+    -95.789027,
+    35.985233
+],
   "geometry": {"coordinates":[-95.789027,35.985233],"type":"Point"}
 }

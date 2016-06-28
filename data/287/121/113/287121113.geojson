@@ -2,13 +2,14 @@
   "id": 287121113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.515478,35.539488,-97.515478,35.539488",
     "geom:latitude":35.539488,
     "geom:longitude":-97.515478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 NW 66th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287121113,
-    "wof:lastmodified":1449001358,
+    "wof:lastmodified":1466763563,
     "wof:name":"Cost Ctr 8642-OK Wtr Dst Off",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "district"
     ]
 },
-  "bbox": [-97.515478,35.539488,-97.515478,35.539488],
+  "bbox": [
+    -97.515478,
+    35.539488,
+    -97.515478,
+    35.539488
+],
   "geometry": {"coordinates":[-97.515478,35.539488],"type":"Point"}
 }

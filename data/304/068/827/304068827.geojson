@@ -2,13 +2,14 @@
   "id": 304068827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.49132,35.229966,-97.49132,35.229966",
     "geom:latitude":35.229966,
     "geom:longitude":-97.49132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Rambling Oaks Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304068827,
-    "wof:lastmodified":1449043872,
+    "wof:lastmodified":1466763219,
     "wof:name":"Brookhaven Extensive Care",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-97.49132,35.229966,-97.49132,35.229966],
+  "bbox": [
+    -97.49132,
+    35.229966,
+    -97.49132,
+    35.229966
+],
   "geometry": {"coordinates":[-97.49132,35.229966],"type":"Point"}
 }

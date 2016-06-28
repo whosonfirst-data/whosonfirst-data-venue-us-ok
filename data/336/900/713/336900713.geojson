@@ -2,13 +2,14 @@
   "id": 336900713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.804003,36.339119,-96.804003,36.339119",
     "geom:latitude":36.339119,
     "geom:longitude":-96.804003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 6th St",
     "sg:city":"Pawnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336900713,
-    "wof:lastmodified":1448997415,
+    "wof:lastmodified":1466765219,
     "wof:name":"Community Action",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-96.804003,36.339119,-96.804003,36.339119],
-  "geometry": {"coordinates":[-96.804003,36.339119],"type":"Point"}
+  "bbox": [
+    -96.804003,
+    36.339119,
+    -96.804003,
+    36.339119
+],
+  "geometry": {"coordinates":[-96.80400299999999,36.339119],"type":"Point"}
 }

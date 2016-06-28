@@ -2,13 +2,14 @@
   "id": 303163039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.522589,35.469967,-97.522589,35.469967",
     "geom:latitude":35.469967,
     "geom:longitude":-97.522589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Robert S Kerr Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303163039,
-    "wof:lastmodified":1449000514,
+    "wof:lastmodified":1466764407,
     "wof:name":"Oklahoma City Public Defender",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counsel"
     ]
 },
-  "bbox": [-97.522589,35.469967,-97.522589,35.469967],
+  "bbox": [
+    -97.522589,
+    35.469967,
+    -97.522589,
+    35.469967
+],
   "geometry": {"coordinates":[-97.522589,35.469967],"type":"Point"}
 }

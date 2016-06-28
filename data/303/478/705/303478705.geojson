@@ -2,13 +2,14 @@
   "id": 303478705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.55926,35.638608,-97.55926,35.638608",
     "geom:latitude":35.638608,
     "geom:longitude":-97.55926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2451 NW 164th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303478705,
-    "wof:lastmodified":1448998200,
+    "wof:lastmodified":1466765666,
     "wof:name":"Duke Energy Field Svc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.55926,35.638608,-97.55926,35.638608],
-  "geometry": {"coordinates":[-97.55926,35.638608],"type":"Point"}
+  "bbox": [
+    -97.55926,
+    35.638608,
+    -97.55926,
+    35.638608
+],
+  "geometry": {"coordinates":[-97.55925999999999,35.638608],"type":"Point"}
 }

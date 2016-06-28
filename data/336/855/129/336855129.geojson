@@ -2,13 +2,14 @@
   "id": 336855129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.638117,35.528277,-97.638117,35.528277",
     "geom:latitude":35.528277,
     "geom:longitude":-97.638117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5604 Phillip J Rhoads Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336855129,
-    "wof:lastmodified":1448997726,
+    "wof:lastmodified":1466765058,
     "wof:name":"Vintage Air Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-97.638117,35.528277,-97.638117,35.528277],
-  "geometry": {"coordinates":[-97.638117,35.528277],"type":"Point"}
+  "bbox": [
+    -97.638117,
+    35.528277,
+    -97.638117,
+    35.528277
+],
+  "geometry": {"coordinates":[-97.63811699999999,35.528277],"type":"Point"}
 }

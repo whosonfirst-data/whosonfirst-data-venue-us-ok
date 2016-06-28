@@ -2,13 +2,14 @@
   "id": 320432055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.984344,36.151204,-95.984344,36.151204",
     "geom:latitude":36.151204,
     "geom:longitude":-95.984344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 S Elgin Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320432055,
-    "wof:lastmodified":1449011191,
+    "wof:lastmodified":1466765880,
     "wof:name":"St Elizabeth's Lodge",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-95.984344,36.151204,-95.984344,36.151204],
-  "geometry": {"coordinates":[-95.984344,36.151204],"type":"Point"}
+  "bbox": [
+    -95.984344,
+    36.151204,
+    -95.984344,
+    36.151204
+],
+  "geometry": {"coordinates":[-95.98434399999999,36.151204],"type":"Point"}
 }

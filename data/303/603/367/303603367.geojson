@@ -2,13 +2,14 @@
   "id": 303603367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.542279,35.356411,-97.542279,35.356411",
     "geom:latitude":35.356411,
     "geom:longitude":-97.542279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Kingsridge Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303603367,
-    "wof:lastmodified":1449000184,
+    "wof:lastmodified":1466766316,
     "wof:name":"Y M C A",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-97.542279,35.356411,-97.542279,35.356411],
-  "geometry": {"coordinates":[-97.542279,35.356411],"type":"Point"}
+  "bbox": [
+    -97.542279,
+    35.356411,
+    -97.542279,
+    35.356411
+],
+  "geometry": {"coordinates":[-97.54227899999999,35.356411],"type":"Point"}
 }

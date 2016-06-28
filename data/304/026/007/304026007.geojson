@@ -2,13 +2,14 @@
   "id": 304026007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.935001,35.032803,-97.935001,35.032803",
     "geom:latitude":35.032803,
     "geom:longitude":-97.935001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1728 S 4th St",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304026007,
-    "wof:lastmodified":1449043942,
+    "wof:lastmodified":1466762952,
     "wof:name":"Ehri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.935001,35.032803,-97.935001,35.032803],
+  "bbox": [
+    -97.935001,
+    35.032803,
+    -97.935001,
+    35.032803
+],
   "geometry": {"coordinates":[-97.935001,35.032803],"type":"Point"}
 }

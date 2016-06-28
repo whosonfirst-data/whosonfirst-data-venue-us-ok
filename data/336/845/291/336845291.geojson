@@ -2,13 +2,14 @@
   "id": 336845291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.127922,34.173822,-97.127922,34.173822",
     "geom:latitude":34.173822,
     "geom:longitude":-97.127922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 N Washington St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336845291,
-    "wof:lastmodified":1448997117,
+    "wof:lastmodified":1466764799,
     "wof:name":"Hamburger Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.127922,34.173822,-97.127922,34.173822],
+  "bbox": [
+    -97.127922,
+    34.173822,
+    -97.127922,
+    34.173822
+],
   "geometry": {"coordinates":[-97.127922,34.173822],"type":"Point"}
 }

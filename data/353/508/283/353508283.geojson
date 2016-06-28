@@ -2,13 +2,14 @@
   "id": 353508283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.368942,35.748531,-95.368942,35.748531",
     "geom:latitude":35.748531,
     "geom:longitude":-95.368942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 N Main St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353508283,
-    "wof:lastmodified":1449019686,
+    "wof:lastmodified":1466763246,
     "wof:name":"Bock's Pawn",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-95.368942,35.748531,-95.368942,35.748531],
+  "bbox": [
+    -95.368942,
+    35.748531,
+    -95.368942,
+    35.748531
+],
   "geometry": {"coordinates":[-95.368942,35.748531],"type":"Point"}
 }

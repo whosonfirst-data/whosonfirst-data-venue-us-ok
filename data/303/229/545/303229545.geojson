@@ -2,13 +2,14 @@
   "id": 303229545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.868225,36.405155,-97.868225,36.405155",
     "geom:latitude":36.405155,
     "geom:longitude":-97.868225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 N 7th St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303229545,
-    "wof:lastmodified":1449000070,
+    "wof:lastmodified":1466764590,
     "wof:name":"Progressive Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.868225,36.405155,-97.868225,36.405155],
+  "bbox": [
+    -97.868225,
+    36.405155,
+    -97.868225,
+    36.405155
+],
   "geometry": {"coordinates":[-97.868225,36.405155],"type":"Point"}
 }

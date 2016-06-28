@@ -2,13 +2,14 @@
   "id": 336775229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.915602,36.404269,-97.915602,36.404269",
     "geom:latitude":36.404269,
     "geom:longitude":-97.915602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2829 W Forrest Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336775229,
-    "wof:lastmodified":1448997731,
+    "wof:lastmodified":1466764542,
     "wof:name":"Bonnie Howell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.915602,36.404269,-97.915602,36.404269],
-  "geometry": {"coordinates":[-97.915602,36.404269],"type":"Point"}
+  "bbox": [
+    -97.915602,
+    36.404269,
+    -97.915602,
+    36.404269
+],
+  "geometry": {"coordinates":[-97.91560200000001,36.404269],"type":"Point"}
 }

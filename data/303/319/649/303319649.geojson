@@ -2,13 +2,14 @@
   "id": 303319649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.968694,34.633809,-97.968694,34.633809",
     "geom:latitude":34.633809,
     "geom:longitude":-97.968694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 W Scott Ave",
     "sg:city":"Marlow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303319649,
-    "wof:lastmodified":1448999116,
+    "wof:lastmodified":1466765036,
     "wof:name":"Gardentown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sup"
     ]
 },
-  "bbox": [-97.968694,34.633809,-97.968694,34.633809],
+  "bbox": [
+    -97.968694,
+    34.633809,
+    -97.968694,
+    34.633809
+],
   "geometry": {"coordinates":[-97.968694,34.633809],"type":"Point"}
 }

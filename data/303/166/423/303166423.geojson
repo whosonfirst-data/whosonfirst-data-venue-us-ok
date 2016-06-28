@@ -2,13 +2,14 @@
   "id": 303166423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.720107,34.928903,-95.720107,34.928903",
     "geom:latitude":34.928903,
     "geom:longitude":-95.720107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 NW 3rd St",
     "sg:city":"Krebs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303166423,
-    "wof:lastmodified":1448999486,
+    "wof:lastmodified":1466764415,
     "wof:name":"Weiher's Professional Svc",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-95.720107,34.928903,-95.720107,34.928903],
+  "bbox": [
+    -95.720107,
+    34.928903,
+    -95.720107,
+    34.928903
+],
   "geometry": {"coordinates":[-95.720107,34.928903],"type":"Point"}
 }

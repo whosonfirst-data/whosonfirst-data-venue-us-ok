@@ -2,13 +2,14 @@
   "id": 303157275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.388106,36.437958,-99.388106,36.437958",
     "geom:latitude":36.437958,
     "geom:longitude":-99.388106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Santa Fe Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303157275,
-    "wof:lastmodified":1449000214,
+    "wof:lastmodified":1466764151,
     "wof:name":"Mr Brown & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-99.388106,36.437958,-99.388106,36.437958],
-  "geometry": {"coordinates":[-99.388106,36.437958],"type":"Point"}
+  "bbox": [
+    -99.388106,
+    36.437958,
+    -99.388106,
+    36.437958
+],
+  "geometry": {"coordinates":[-99.38810599999999,36.437958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303052345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.80907,36.057483,-95.80907,36.057483",
     "geom:latitude":36.057483,
     "geom:longitude":-95.80907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N Poplar Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303052345,
-    "wof:lastmodified":1448999230,
+    "wof:lastmodified":1466762458,
     "wof:name":"Da Pro Rubber Inc",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-95.80907,36.057483,-95.80907,36.057483],
-  "geometry": {"coordinates":[-95.80907,36.057483],"type":"Point"}
+  "bbox": [
+    -95.80907,
+    36.057483,
+    -95.80907,
+    36.057483
+],
+  "geometry": {"coordinates":[-95.80907000000001,36.057483],"type":"Point"}
 }

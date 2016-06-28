@@ -2,13 +2,14 @@
   "id": 287123531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.475727,36.13498,-95.475727,36.13498",
     "geom:latitude":36.13498,
     "geom:longitude":-95.475727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32889 S 4230 Rd",
     "sg:city":"Inola",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287123531,
-    "wof:lastmodified":1449000911,
+    "wof:lastmodified":1466763578,
     "wof:name":"Martek Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "software"
     ]
 },
-  "bbox": [-95.475727,36.13498,-95.475727,36.13498],
-  "geometry": {"coordinates":[-95.475727,36.13498],"type":"Point"}
+  "bbox": [
+    -95.475727,
+    36.13498,
+    -95.475727,
+    36.13498
+],
+  "geometry": {"coordinates":[-95.47572700000001,36.13498],"type":"Point"}
 }

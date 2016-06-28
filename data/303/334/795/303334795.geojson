@@ -2,13 +2,14 @@
   "id": 303334795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.570749,35.559329,-97.570749,35.559329",
     "geom:latitude":35.559329,
     "geom:longitude":-97.570749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2925 Pelham Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303334795,
-    "wof:lastmodified":1448998829,
+    "wof:lastmodified":1466764996,
     "wof:name":"Steven Trumbly Homes",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-97.570749,35.559329,-97.570749,35.559329],
-  "geometry": {"coordinates":[-97.570749,35.559329],"type":"Point"}
+  "bbox": [
+    -97.570749,
+    35.559329,
+    -97.570749,
+    35.559329
+],
+  "geometry": {"coordinates":[-97.57074900000001,35.559329],"type":"Point"}
 }

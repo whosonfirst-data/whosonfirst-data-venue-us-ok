@@ -2,13 +2,14 @@
   "id": 353841799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.899633,36.753138,-95.899633,36.753138",
     "geom:latitude":36.753138,
     "geom:longitude":-95.899633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Lee Dr",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353841799,
-    "wof:lastmodified":1449018797,
+    "wof:lastmodified":1466765495,
     "wof:name":"International Data Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "datum"
     ]
 },
-  "bbox": [-95.899633,36.753138,-95.899633,36.753138],
-  "geometry": {"coordinates":[-95.899633,36.753138],"type":"Point"}
+  "bbox": [
+    -95.899633,
+    36.753138,
+    -95.899633,
+    36.753138
+],
+  "geometry": {"coordinates":[-95.89963299999999,36.753138],"type":"Point"}
 }

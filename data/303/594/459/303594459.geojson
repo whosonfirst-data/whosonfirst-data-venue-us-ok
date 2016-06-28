@@ -2,13 +2,14 @@
   "id": 303594459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.155049,36.654496,-95.155049,36.654496",
     "geom:latitude":36.654496,
     "geom:longitude":-95.155049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 N Foreman St",
     "sg:city":"Vinita",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303594459,
-    "wof:lastmodified":1448998470,
+    "wof:lastmodified":1466766170,
     "wof:name":"Thomas J Byrne MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.155049,36.654496,-95.155049,36.654496],
-  "geometry": {"coordinates":[-95.155049,36.654496],"type":"Point"}
+  "bbox": [
+    -95.155049,
+    36.654496,
+    -95.155049,
+    36.654496
+],
+  "geometry": {"coordinates":[-95.15504900000001,36.654496],"type":"Point"}
 }

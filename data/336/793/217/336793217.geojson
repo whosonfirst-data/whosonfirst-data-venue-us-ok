@@ -2,13 +2,14 @@
   "id": 336793217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.922165,35.330319,-96.922165,35.330319",
     "geom:latitude":35.330319,
     "geom:longitude":-96.922165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Bell Ave",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336793217,
-    "wof:lastmodified":1448997537,
+    "wof:lastmodified":1466764730,
     "wof:name":"Municipal Auditorium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-96.922165,35.330319,-96.922165,35.330319],
-  "geometry": {"coordinates":[-96.922165,35.330319],"type":"Point"}
+  "bbox": [
+    -96.922165,
+    35.330319,
+    -96.922165,
+    35.330319
+],
+  "geometry": {"coordinates":[-96.92216500000001,35.330319],"type":"Point"}
 }

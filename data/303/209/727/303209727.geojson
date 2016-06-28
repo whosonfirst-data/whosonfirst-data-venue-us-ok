@@ -2,13 +2,14 @@
   "id": 303209727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.340444,35.751466,-95.340444,35.751466",
     "geom:latitude":35.751466,
     "geom:longitude":-95.340444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 N York St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303209727,
-    "wof:lastmodified":1449000306,
+    "wof:lastmodified":1466764625,
     "wof:name":"USA Beer & More",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ale"
     ]
 },
-  "bbox": [-95.340444,35.751466,-95.340444,35.751466],
-  "geometry": {"coordinates":[-95.340444,35.751466],"type":"Point"}
+  "bbox": [
+    -95.340444,
+    35.751466,
+    -95.340444,
+    35.751466
+],
+  "geometry": {"coordinates":[-95.34044400000001,35.751466],"type":"Point"}
 }

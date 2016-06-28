@@ -2,13 +2,14 @@
   "id": 303114383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.855364,36.361409,-95.855364,36.361409",
     "geom:latitude":36.361409,
     "geom:longitude":-95.855364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14317 N 106th East Ave",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303114383,
-    "wof:lastmodified":1448999137,
+    "wof:lastmodified":1466763465,
     "wof:name":"M Tech Computer Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.855364,36.361409,-95.855364,36.361409],
-  "geometry": {"coordinates":[-95.855364,36.361409],"type":"Point"}
+  "bbox": [
+    -95.855364,
+    36.361409,
+    -95.855364,
+    36.361409
+],
+  "geometry": {"coordinates":[-95.85536399999999,36.361409],"type":"Point"}
 }

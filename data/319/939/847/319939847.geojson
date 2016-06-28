@@ -2,13 +2,14 @@
   "id": 319939847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.73393,36.19151,-95.73393,36.19151",
     "geom:latitude":36.19151,
     "geom:longitude":-95.73393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 S Hwy 66",
     "sg:city":"Catoosa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319939847,
-    "wof:lastmodified":1449024312,
+    "wof:lastmodified":1466763964,
     "wof:name":"Oak Ridge Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.73393,36.19151,-95.73393,36.19151],
+  "bbox": [
+    -95.73393,
+    36.19151,
+    -95.73393,
+    36.19151
+],
   "geometry": {"coordinates":[-95.73393,36.19151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303161699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.880658,35.703408,-96.880658,35.703408",
     "geom:latitude":35.703408,
     "geom:longitude":-96.880658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 Manvel Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303161699,
-    "wof:lastmodified":1448999086,
+    "wof:lastmodified":1466764395,
     "wof:name":"Joe Dobry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.880658,35.703408,-96.880658,35.703408],
+  "bbox": [
+    -96.880658,
+    35.703408,
+    -96.880658,
+    35.703408
+],
   "geometry": {"coordinates":[-96.880658,35.703408],"type":"Point"}
 }

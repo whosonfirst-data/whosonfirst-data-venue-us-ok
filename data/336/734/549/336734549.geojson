@@ -2,13 +2,14 @@
   "id": 336734549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.818542,36.078368,-95.818542,36.078368",
     "geom:latitude":36.078368,
     "geom:longitude":-95.818542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 N Hemlock Cir",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336734549,
-    "wof:lastmodified":1448997886,
+    "wof:lastmodified":1466764204,
     "wof:name":"A-1 Freeman North American",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.818542,36.078368,-95.818542,36.078368],
-  "geometry": {"coordinates":[-95.818542,36.078368],"type":"Point"}
+  "bbox": [
+    -95.818542,
+    36.078368,
+    -95.818542,
+    36.078368
+],
+  "geometry": {"coordinates":[-95.81854199999999,36.078368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354042291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.953237,36.738272,-95.953237,36.738272",
     "geom:latitude":36.738272,
     "geom:longitude":-95.953237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1350 Silver Lake Rd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354042291,
-    "wof:lastmodified":1449067232,
+    "wof:lastmodified":1466763234,
     "wof:name":"Church Of The Resurrection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.953237,36.738272,-95.953237,36.738272],
+  "bbox": [
+    -95.953237,
+    36.738272,
+    -95.953237,
+    36.738272
+],
   "geometry": {"coordinates":[-95.953237,36.738272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287294053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.430146,35.55103,-97.430146,35.55103",
     "geom:latitude":35.55103,
     "geom:longitude":-97.430146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 E Wilshire Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287294053,
-    "wof:lastmodified":1449001310,
+    "wof:lastmodified":1466763342,
     "wof:name":"Sharon Booth",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-97.430146,35.55103,-97.430146,35.55103],
-  "geometry": {"coordinates":[-97.430146,35.55103],"type":"Point"}
+  "bbox": [
+    -97.430146,
+    35.55103,
+    -97.430146,
+    35.55103
+],
+  "geometry": {"coordinates":[-97.43014599999999,35.55103],"type":"Point"}
 }

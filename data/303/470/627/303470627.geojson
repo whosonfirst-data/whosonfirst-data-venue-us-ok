@@ -2,13 +2,14 @@
   "id": 303470627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.717309,35.531204,-98.717309,35.531204",
     "geom:latitude":35.531204,
     "geom:longitude":-98.717309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 W Huber Ave",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303470627,
-    "wof:lastmodified":1448998705,
+    "wof:lastmodified":1466765635,
     "wof:name":"West Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.717309,35.531204,-98.717309,35.531204],
+  "bbox": [
+    -98.717309,
+    35.531204,
+    -98.717309,
+    35.531204
+],
   "geometry": {"coordinates":[-98.717309,35.531204],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353849981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.487726,35.435389,-97.487726,35.435389",
     "geom:latitude":35.435389,
     "geom:longitude":-97.487726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 SE 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353849981,
-    "wof:lastmodified":1449018723,
+    "wof:lastmodified":1466765527,
     "wof:name":"Wilson Supply Co",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "oil"
     ]
 },
-  "bbox": [-97.487726,35.435389,-97.487726,35.435389],
-  "geometry": {"coordinates":[-97.487726,35.435389],"type":"Point"}
+  "bbox": [
+    -97.487726,
+    35.435389,
+    -97.487726,
+    35.435389
+],
+  "geometry": {"coordinates":[-97.48772599999999,35.435389],"type":"Point"}
 }

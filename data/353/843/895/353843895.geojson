@@ -2,13 +2,14 @@
   "id": 353843895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.877597,36.936149,-94.877597,36.936149",
     "geom:latitude":36.936149,
     "geom:longitude":-94.877597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N Main St",
     "sg:city":"Commerce",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353843895,
-    "wof:lastmodified":1449018480,
+    "wof:lastmodified":1466765407,
     "wof:name":"Pioneer Transmission Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-94.877597,36.936149,-94.877597,36.936149],
-  "geometry": {"coordinates":[-94.877597,36.936149],"type":"Point"}
+  "bbox": [
+    -94.877597,
+    36.936149,
+    -94.877597,
+    36.936149
+],
+  "geometry": {"coordinates":[-94.87759699999999,36.936149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353987609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.88217,35.705594,-96.88217,35.705594",
     "geom:latitude":35.705594,
     "geom:longitude":-96.88217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Steele Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353987609,
-    "wof:lastmodified":1449019682,
+    "wof:lastmodified":1466765842,
     "wof:name":"Chandler Public Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.88217,35.705594,-96.88217,35.705594],
+  "bbox": [
+    -96.88217,
+    35.705594,
+    -96.88217,
+    35.705594
+],
   "geometry": {"coordinates":[-96.88217,35.705594],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303335717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.887247,35.275085,-96.887247,35.275085",
     "geom:latitude":35.275085,
     "geom:longitude":-96.887247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42605 Bob Crouch Dr",
     "sg:city":"Tecumseh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303335717,
-    "wof:lastmodified":1448999730,
+    "wof:lastmodified":1466765217,
     "wof:name":"Bowlan Henry Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "animal"
     ]
 },
-  "bbox": [-96.887247,35.275085,-96.887247,35.275085],
+  "bbox": [
+    -96.887247,
+    35.275085,
+    -96.887247,
+    35.275085
+],
   "geometry": {"coordinates":[-96.887247,35.275085],"type":"Point"}
 }

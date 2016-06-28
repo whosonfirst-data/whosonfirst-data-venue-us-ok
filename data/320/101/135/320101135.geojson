@@ -2,13 +2,14 @@
   "id": 320101135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.618266,35.493339,-97.618266,35.493339",
     "geom:latitude":35.493339,
     "geom:longitude":-97.618266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5825 NW 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320101135,
-    "wof:lastmodified":1449013222,
+    "wof:lastmodified":1466763783,
     "wof:name":"Western Sizzlin Steakhouse",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.618266,35.493339,-97.618266,35.493339],
-  "geometry": {"coordinates":[-97.618266,35.493339],"type":"Point"}
+  "bbox": [
+    -97.618266,
+    35.493339,
+    -97.618266,
+    35.493339
+],
+  "geometry": {"coordinates":[-97.61826600000001,35.493339],"type":"Point"}
 }

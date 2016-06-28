@@ -2,13 +2,14 @@
   "id": 320255857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.652347,34.786315,-96.652347,34.786315",
     "geom:latitude":34.786315,
     "geom:longitude":-96.652347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 N Country Club Rd",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320255857,
-    "wof:lastmodified":1449012953,
+    "wof:lastmodified":1466764795,
     "wof:name":"Medisaw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-96.652347,34.786315,-96.652347,34.786315],
-  "geometry": {"coordinates":[-96.652347,34.786315],"type":"Point"}
+  "bbox": [
+    -96.652347,
+    34.786315,
+    -96.652347,
+    34.786315
+],
+  "geometry": {"coordinates":[-96.65234700000001,34.786315],"type":"Point"}
 }

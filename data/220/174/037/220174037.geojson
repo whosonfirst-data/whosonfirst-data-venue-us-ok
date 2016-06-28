@@ -2,13 +2,14 @@
   "id": 220174037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.964423,36.135109,-95.964423,36.135109",
     "geom:latitude":36.135109,
     "geom:longitude":-95.964423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1923 E 19th St Ste 200",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220174037,
-    "wof:lastmodified":1449074138,
+    "wof:lastmodified":1466764180,
     "wof:name":"St. John Cardiovascular Medicine, Inc.",
     "wof:parent_id":85872495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.964423,36.135109,-95.964423,36.135109],
+  "bbox": [
+    -95.964423,
+    36.135109,
+    -95.964423,
+    36.135109
+],
   "geometry": {"coordinates":[-95.964423,36.135109],"type":"Point"}
 }

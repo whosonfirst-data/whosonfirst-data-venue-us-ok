@@ -2,13 +2,14 @@
   "id": 336956897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.434324,35.414038,-97.434324,35.414038",
     "geom:latitude":35.414038,
     "geom:longitude":-97.434324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4805 SE 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336956897,
-    "wof:lastmodified":1448997125,
+    "wof:lastmodified":1466765382,
     "wof:name":"Midwest Tile",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.434324,35.414038,-97.434324,35.414038],
+  "bbox": [
+    -97.434324,
+    35.414038,
+    -97.434324,
+    35.414038
+],
   "geometry": {"coordinates":[-97.434324,35.414038],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303039965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.3711,34.98829,-97.3711,34.98829",
     "geom:latitude":34.98829,
     "geom:longitude":-97.3711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Hardcastle Blvd",
     "sg:city":"Purcell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303039965,
-    "wof:lastmodified":1449000263,
+    "wof:lastmodified":1466764177,
     "wof:name":"Heart Of Oklahoma Flea Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "market"
     ]
 },
-  "bbox": [-97.3711,34.98829,-97.3711,34.98829],
+  "bbox": [
+    -97.3711,
+    34.98829,
+    -97.3711,
+    34.98829
+],
   "geometry": {"coordinates":[-97.3711,34.98829],"type":"Point"}
 }

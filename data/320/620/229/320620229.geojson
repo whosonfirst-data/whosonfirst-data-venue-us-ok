@@ -2,13 +2,14 @@
   "id": 320620229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.62542,35.514765,-97.62542,35.514765",
     "geom:latitude":35.514765,
     "geom:longitude":-97.62542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4213 N Redmond Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320620229,
-    "wof:lastmodified":1449014640,
+    "wof:lastmodified":1466766322,
     "wof:name":"Ron Calloway Tile",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.62542,35.514765,-97.62542,35.514765],
-  "geometry": {"coordinates":[-97.62542,35.514765],"type":"Point"}
+  "bbox": [
+    -97.62542,
+    35.514765,
+    -97.62542,
+    35.514765
+],
+  "geometry": {"coordinates":[-97.62542000000001,35.514765],"type":"Point"}
 }

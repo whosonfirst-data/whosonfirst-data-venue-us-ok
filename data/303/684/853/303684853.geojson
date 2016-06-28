@@ -2,13 +2,14 @@
   "id": 303684853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.917855,36.061657,-95.917855,36.061657",
     "geom:latitude":36.061657,
     "geom:longitude":-95.917855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5219 E 69th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303684853,
-    "wof:lastmodified":1448998719,
+    "wof:lastmodified":1466766458,
     "wof:name":"International Dental Arts",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-95.917855,36.061657,-95.917855,36.061657],
+  "bbox": [
+    -95.917855,
+    36.061657,
+    -95.917855,
+    36.061657
+],
   "geometry": {"coordinates":[-95.917855,36.061657],"type":"Point"}
 }

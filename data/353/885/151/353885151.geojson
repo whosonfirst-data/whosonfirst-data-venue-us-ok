@@ -2,13 +2,14 @@
   "id": 353885151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.754634,35.385106,-97.754634,35.385106",
     "geom:latitude":35.385106,
     "geom:longitude":-97.754634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 W Linden Dr",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353885151,
-    "wof:lastmodified":1449019614,
+    "wof:lastmodified":1466765635,
     "wof:name":"Lindsay Irrigation",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.754634,35.385106,-97.754634,35.385106],
+  "bbox": [
+    -97.754634,
+    35.385106,
+    -97.754634,
+    35.385106
+],
   "geometry": {"coordinates":[-97.754634,35.385106],"type":"Point"}
 }

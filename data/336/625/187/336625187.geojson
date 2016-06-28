@@ -2,13 +2,14 @@
   "id": 336625187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.544919,35.647051,-97.544919,35.647051",
     "geom:latitude":35.647051,
     "geom:longitude":-97.544919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17500 Zinc Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336625187,
-    "wof:lastmodified":1448998034,
+    "wof:lastmodified":1466762581,
     "wof:name":"Bullock Detective Agency",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-97.544919,35.647051,-97.544919,35.647051],
-  "geometry": {"coordinates":[-97.544919,35.647051],"type":"Point"}
+  "bbox": [
+    -97.544919,
+    35.647051,
+    -97.544919,
+    35.647051
+],
+  "geometry": {"coordinates":[-97.54491899999999,35.647051],"type":"Point"}
 }

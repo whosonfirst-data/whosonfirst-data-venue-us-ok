@@ -2,13 +2,14 @@
   "id": 303783657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.303297,33.965531,-96.303297,33.965531",
     "geom:latitude":33.965531,
     "geom:longitude":-96.303297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2925 N Roberta Rd",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303783657,
-    "wof:lastmodified":1448998196,
+    "wof:lastmodified":1466766704,
     "wof:name":"Homeward Bound Humane Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shelter"
     ]
 },
-  "bbox": [-96.303297,33.965531,-96.303297,33.965531],
+  "bbox": [
+    -96.303297,
+    33.965531,
+    -96.303297,
+    33.965531
+],
   "geometry": {"coordinates":[-96.303297,33.965531],"type":"Point"}
 }

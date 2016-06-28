@@ -2,13 +2,14 @@
   "id": 303175015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.881445,36.386788,-97.881445,36.386788",
     "geom:latitude":36.386788,
     "geom:longitude":-97.881445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 S Washington St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303175015,
-    "wof:lastmodified":1448999810,
+    "wof:lastmodified":1466764307,
     "wof:name":"Amy Sierra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.881445,36.386788,-97.881445,36.386788],
+  "bbox": [
+    -97.881445,
+    36.386788,
+    -97.881445,
+    36.386788
+],
   "geometry": {"coordinates":[-97.881445,36.386788],"type":"Point"}
 }

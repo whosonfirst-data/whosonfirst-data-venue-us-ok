@@ -2,13 +2,14 @@
   "id": 303341177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565713,35.53451,-97.565713,35.53451",
     "geom:latitude":35.53451,
     "geom:longitude":-97.565713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6003 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303341177,
-    "wof:lastmodified":1449000461,
+    "wof:lastmodified":1466765012,
     "wof:name":"American Cleaners & Laundry",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-97.565713,35.53451,-97.565713,35.53451],
+  "bbox": [
+    -97.565713,
+    35.53451,
+    -97.565713,
+    35.53451
+],
   "geometry": {"coordinates":[-97.565713,35.53451],"type":"Point"}
 }

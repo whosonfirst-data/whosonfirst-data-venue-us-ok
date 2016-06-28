@@ -2,13 +2,14 @@
   "id": 320630963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530189,35.430711,-97.530189,35.430711",
     "geom:latitude":35.430711,
     "geom:longitude":-97.530189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320630963,
-    "wof:lastmodified":1449012608,
+    "wof:lastmodified":1466766353,
     "wof:name":"Home Savings & Ln Assn of Okla",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-97.530189,35.430711,-97.530189,35.430711],
-  "geometry": {"coordinates":[-97.530189,35.430711],"type":"Point"}
+  "bbox": [
+    -97.530189,
+    35.430711,
+    -97.530189,
+    35.430711
+],
+  "geometry": {"coordinates":[-97.53018899999999,35.430711],"type":"Point"}
 }

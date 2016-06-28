@@ -2,13 +2,14 @@
   "id": 320070605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.363329,35.478608,-97.363329,35.478608",
     "geom:latitude":35.478608,
     "geom:longitude":-97.363329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9411 NE 10th St",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320070605,
-    "wof:lastmodified":1449013084,
+    "wof:lastmodified":1466763330,
     "wof:name":"Del-Rancho Restaurant",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.363329,35.478608,-97.363329,35.478608],
-  "geometry": {"coordinates":[-97.363329,35.478608],"type":"Point"}
+  "bbox": [
+    -97.363329,
+    35.478608,
+    -97.363329,
+    35.478608
+],
+  "geometry": {"coordinates":[-97.36332899999999,35.478608],"type":"Point"}
 }

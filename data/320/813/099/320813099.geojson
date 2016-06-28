@@ -2,13 +2,14 @@
   "id": 320813099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.581667,35.286428,-95.581667,35.286428",
     "geom:latitude":35.286428,
     "geom:longitude":-95.581667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 W Foley St",
     "sg:city":"Eufaula",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320813099,
-    "wof:lastmodified":1449012224,
+    "wof:lastmodified":1466766865,
     "wof:name":"McClain Building Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.581667,35.286428,-95.581667,35.286428],
+  "bbox": [
+    -95.581667,
+    35.286428,
+    -95.581667,
+    35.286428
+],
   "geometry": {"coordinates":[-95.581667,35.286428],"type":"Point"}
 }

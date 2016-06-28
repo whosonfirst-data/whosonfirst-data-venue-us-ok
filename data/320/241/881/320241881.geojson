@@ -2,13 +2,14 @@
   "id": 320241881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.677906,36.032935,-95.677906,36.032935",
     "geom:latitude":36.032935,
     "geom:longitude":-95.677906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8921 S 267th E Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320241881,
-    "wof:lastmodified":1449014866,
+    "wof:lastmodified":1466764809,
     "wof:name":"Transit Advertising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [-95.677906,36.032935,-95.677906,36.032935],
-  "geometry": {"coordinates":[-95.677906,36.032935],"type":"Point"}
+  "bbox": [
+    -95.677906,
+    36.032935,
+    -95.677906,
+    36.032935
+],
+  "geometry": {"coordinates":[-95.67790599999999,36.032935],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287134591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.571424,35.236496,-97.571424,35.236496",
     "geom:latitude":35.236496,
     "geom:longitude":-97.571424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 Riverview Dr",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287134591,
-    "wof:lastmodified":1449001540,
+    "wof:lastmodified":1466763617,
     "wof:name":"Hales Software LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-97.571424,35.236496,-97.571424,35.236496],
-  "geometry": {"coordinates":[-97.571424,35.236496],"type":"Point"}
+  "bbox": [
+    -97.571424,
+    35.236496,
+    -97.571424,
+    35.236496
+],
+  "geometry": {"coordinates":[-97.57142399999999,35.236496],"type":"Point"}
 }

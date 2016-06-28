@@ -2,13 +2,14 @@
   "id": 303042523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.443116,35.649417,-97.443116,35.649417",
     "geom:latitude":35.649417,
     "geom:longitude":-97.443116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Coltrane Pl",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303042523,
-    "wof:lastmodified":1448999974,
+    "wof:lastmodified":1466762302,
     "wof:name":"Shepard Custom Art",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.443116,35.649417,-97.443116,35.649417],
+  "bbox": [
+    -97.443116,
+    35.649417,
+    -97.443116,
+    35.649417
+],
   "geometry": {"coordinates":[-97.443116,35.649417],"type":"Point"}
 }

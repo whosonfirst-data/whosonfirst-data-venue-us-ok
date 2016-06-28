@@ -2,13 +2,14 @@
   "id": 303442843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.582524,35.256869,-97.582524,35.256869",
     "geom:latitude":35.256869,
     "geom:longitude":-97.582524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1741 N Portland Ave",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303442843,
-    "wof:lastmodified":1448999191,
+    "wof:lastmodified":1466765641,
     "wof:name":"Newcastle Landfill Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landfill"
     ]
 },
-  "bbox": [-97.582524,35.256869,-97.582524,35.256869],
-  "geometry": {"coordinates":[-97.582524,35.256869],"type":"Point"}
+  "bbox": [
+    -97.582524,
+    35.256869,
+    -97.582524,
+    35.256869
+],
+  "geometry": {"coordinates":[-97.58252400000001,35.256869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336598577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.583292,35.492164,-97.583292,35.492164",
     "geom:latitude":35.492164,
     "geom:longitude":-97.583292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 N Portland Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336598577,
-    "wof:lastmodified":1448996969,
+    "wof:lastmodified":1466764132,
     "wof:name":"Cactus Patch",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.583292,35.492164,-97.583292,35.492164],
+  "bbox": [
+    -97.583292,
+    35.492164,
+    -97.583292,
+    35.492164
+],
   "geometry": {"coordinates":[-97.583292,35.492164],"type":"Point"}
 }

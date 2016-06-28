@@ -2,13 +2,14 @@
   "id": 337445643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.359911,35.448926,-97.359911,35.448926",
     "geom:latitude":35.448926,
     "geom:longitude":-97.359911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9700 Willow Wind Dr",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337445643,
-    "wof:lastmodified":1449027044,
+    "wof:lastmodified":1466762326,
     "wof:name":"Rent A Tent",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camping"
     ]
 },
-  "bbox": [-97.359911,35.448926,-97.359911,35.448926],
+  "bbox": [
+    -97.359911,
+    35.448926,
+    -97.359911,
+    35.448926
+],
   "geometry": {"coordinates":[-97.359911,35.448926],"type":"Point"}
 }

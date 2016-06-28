@@ -2,13 +2,14 @@
   "id": 303057013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.007228,36.125664,-96.007228,36.125664",
     "geom:latitude":36.125664,
     "geom:longitude":-96.007228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3050 Southwest Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303057013,
-    "wof:lastmodified":1448999326,
+    "wof:lastmodified":1466762533,
     "wof:name":"Midwest Metals LLC",
     "wof:parent_id":85821015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "warehouse"
     ]
 },
-  "bbox": [-96.007228,36.125664,-96.007228,36.125664],
+  "bbox": [
+    -96.007228,
+    36.125664,
+    -96.007228,
+    36.125664
+],
   "geometry": {"coordinates":[-96.007228,36.125664],"type":"Point"}
 }

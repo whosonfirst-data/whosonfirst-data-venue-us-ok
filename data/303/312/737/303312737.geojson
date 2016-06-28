@@ -2,13 +2,14 @@
   "id": 303312737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.044131,36.057776,-97.044131,36.057776",
     "geom:latitude":36.057776,
     "geom:longitude":-97.044131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5616 S Leigh St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303312737,
-    "wof:lastmodified":1448999351,
+    "wof:lastmodified":1466765125,
     "wof:name":"AAA Pest & Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grounds"
     ]
 },
-  "bbox": [-97.044131,36.057776,-97.044131,36.057776],
-  "geometry": {"coordinates":[-97.044131,36.057776],"type":"Point"}
+  "bbox": [
+    -97.044131,
+    36.057776,
+    -97.044131,
+    36.057776
+],
+  "geometry": {"coordinates":[-97.04413099999999,36.057776],"type":"Point"}
 }

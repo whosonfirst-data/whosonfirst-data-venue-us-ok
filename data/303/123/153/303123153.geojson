@@ -2,13 +2,14 @@
   "id": 303123153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.94011,36.097335,-95.94011,36.097335",
     "geom:latitude":36.097335,
     "geom:longitude":-95.94011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4517 S Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303123153,
-    "wof:lastmodified":1448998848,
+    "wof:lastmodified":1466763610,
     "wof:name":"S Lee Hays DC",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.94011,36.097335,-95.94011,36.097335],
+  "bbox": [
+    -95.94011,
+    36.097335,
+    -95.94011,
+    36.097335
+],
   "geometry": {"coordinates":[-95.94011,36.097335],"type":"Point"}
 }

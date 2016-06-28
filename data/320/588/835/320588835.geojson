@@ -2,13 +2,14 @@
   "id": 320588835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.533807,35.420668,-97.533807,35.420668",
     "geom:latitude":35.420668,
     "geom:longitude":-97.533807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1044 SW 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320588835,
-    "wof:lastmodified":1449014227,
+    "wof:lastmodified":1466766268,
     "wof:name":"Clinical Pathology Lab",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "language"
     ]
 },
-  "bbox": [-97.533807,35.420668,-97.533807,35.420668],
+  "bbox": [
+    -97.533807,
+    35.420668,
+    -97.533807,
+    35.420668
+],
   "geometry": {"coordinates":[-97.533807,35.420668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303928753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.771864,34.9475,-95.771864,34.9475",
     "geom:latitude":34.9475,
     "geom:longitude":-95.771864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 W Gene Stipe Blvd",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303928753,
-    "wof:lastmodified":1449000220,
+    "wof:lastmodified":1466767092,
     "wof:name":"Mitchell Manor Convalescent HM",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-95.771864,34.9475,-95.771864,34.9475],
-  "geometry": {"coordinates":[-95.771864,34.9475],"type":"Point"}
+  "bbox": [
+    -95.771864,
+    34.9475,
+    -95.771864,
+    34.9475
+],
+  "geometry": {"coordinates":[-95.77186399999999,34.9475],"type":"Point"}
 }

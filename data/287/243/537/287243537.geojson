@@ -2,13 +2,14 @@
   "id": 287243537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.058338,36.11246,-97.058338,36.11246",
     "geom:latitude":36.11246,
     "geom:longitude":-97.058338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 E 9th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287243537,
-    "wof:lastmodified":1449000947,
+    "wof:lastmodified":1466762592,
     "wof:name":"Word Generation Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.058338,36.11246,-97.058338,36.11246],
-  "geometry": {"coordinates":[-97.058338,36.11246],"type":"Point"}
+  "bbox": [
+    -97.058338,
+    36.11246,
+    -97.058338,
+    36.11246
+],
+  "geometry": {"coordinates":[-97.05833800000001,36.11246],"type":"Point"}
 }

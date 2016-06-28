@@ -2,13 +2,14 @@
   "id": 287236381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.133029,36.124511,-96.133029,36.124511",
     "geom:latitude":36.124511,
     "geom:longitude":-96.133029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12000 State Hwy 51",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":287236381,
-    "wof:lastmodified":1449000750,
+    "wof:lastmodified":1466762483,
     "wof:name":"J & W Pit Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.133029,36.124511,-96.133029,36.124511],
-  "geometry": {"coordinates":[-96.133029,36.124511],"type":"Point"}
+  "bbox": [
+    -96.133029,
+    36.124511,
+    -96.133029,
+    36.124511
+],
+  "geometry": {"coordinates":[-96.13302899999999,36.124511],"type":"Point"}
 }

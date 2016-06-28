@@ -2,13 +2,14 @@
   "id": 354045991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.485484,35.358855,-97.485484,35.358855",
     "geom:latitude":35.358855,
     "geom:longitude":-97.485484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2304 Pole Rd",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354045991,
-    "wof:lastmodified":1449067473,
+    "wof:lastmodified":1466763264,
     "wof:name":"Ward Income Tax Svc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-97.485484,35.358855,-97.485484,35.358855],
+  "bbox": [
+    -97.485484,
+    35.358855,
+    -97.485484,
+    35.358855
+],
   "geometry": {"coordinates":[-97.485484,35.358855],"type":"Point"}
 }

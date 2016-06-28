@@ -2,13 +2,14 @@
   "id": 337576783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.504308,34.873889,-99.504308,34.873889",
     "geom:latitude":34.873889,
     "geom:longitude":-99.504308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 N Pennsylvania Ave",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337576783,
-    "wof:lastmodified":1449027560,
+    "wof:lastmodified":1466763077,
     "wof:name":"Central Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.504308,34.873889,-99.504308,34.873889],
-  "geometry": {"coordinates":[-99.504308,34.873889],"type":"Point"}
+  "bbox": [
+    -99.504308,
+    34.873889,
+    -99.504308,
+    34.873889
+],
+  "geometry": {"coordinates":[-99.50430799999999,34.873889],"type":"Point"}
 }

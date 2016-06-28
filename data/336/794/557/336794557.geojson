@@ -2,13 +2,14 @@
   "id": 336794557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549827,35.344458,-97.549827,35.344458",
     "geom:latitude":35.344458,
     "geom:longitude":-97.549827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12408 Rockwood Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336794557,
-    "wof:lastmodified":1448997469,
+    "wof:lastmodified":1466764522,
     "wof:name":"H2H Inc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.549827,35.344458,-97.549827,35.344458],
-  "geometry": {"coordinates":[-97.549827,35.344458],"type":"Point"}
+  "bbox": [
+    -97.549827,
+    35.344458,
+    -97.549827,
+    35.344458
+],
+  "geometry": {"coordinates":[-97.54982699999999,35.344458],"type":"Point"}
 }

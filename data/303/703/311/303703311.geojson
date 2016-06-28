@@ -2,13 +2,14 @@
   "id": 303703311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.300367,35.157142,-97.300367,35.157142",
     "geom:latitude":35.157142,
     "geom:longitude":-97.300367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 96th Ave SE",
     "sg:city":"Noble",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303703311,
-    "wof:lastmodified":1448998858,
+    "wof:lastmodified":1466766490,
     "wof:name":"Coons Heating & AC",
     "wof:parent_id":85814357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.300367,35.157142,-97.300367,35.157142],
-  "geometry": {"coordinates":[-97.300367,35.157142],"type":"Point"}
+  "bbox": [
+    -97.300367,
+    35.157142,
+    -97.300367,
+    35.157142
+],
+  "geometry": {"coordinates":[-97.30036699999999,35.157142],"type":"Point"}
 }

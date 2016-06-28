@@ -2,13 +2,14 @@
   "id": 320210041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.727131,35.596461,-97.727131,35.596461",
     "geom:latitude":35.596461,
     "geom:longitude":-97.727131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12316 N Mustang Rd",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320210041,
-    "wof:lastmodified":1449012544,
+    "wof:lastmodified":1466764735,
     "wof:name":"Surrey Hills Dental Clinic",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-97.727131,35.596461,-97.727131,35.596461],
+  "bbox": [
+    -97.727131,
+    35.596461,
+    -97.727131,
+    35.596461
+],
   "geometry": {"coordinates":[-97.727131,35.596461],"type":"Point"}
 }

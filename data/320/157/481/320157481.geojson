@@ -2,13 +2,14 @@
   "id": 320157481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.887415,36.096557,-95.887415,36.096557",
     "geom:latitude":36.096557,
     "geom:longitude":-95.887415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7485 E 46th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320157481,
-    "wof:lastmodified":1449014448,
+    "wof:lastmodified":1466764407,
     "wof:name":"C W Cook Inc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.887415,36.096557,-95.887415,36.096557],
+  "bbox": [
+    -95.887415,
+    36.096557,
+    -95.887415,
+    36.096557
+],
   "geometry": {"coordinates":[-95.887415,36.096557],"type":"Point"}
 }

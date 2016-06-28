@@ -2,13 +2,14 @@
   "id": 320541805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.204671,36.438008,-99.204671,36.438008",
     "geom:latitude":36.438008,
     "geom:longitude":-99.204671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 S Main St",
     "sg:city":"Mooreland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320541805,
-    "wof:lastmodified":1449011658,
+    "wof:lastmodified":1466766047,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.204671,36.438008,-99.204671,36.438008],
+  "bbox": [
+    -99.204671,
+    36.438008,
+    -99.204671,
+    36.438008
+],
   "geometry": {"coordinates":[-99.204671,36.438008],"type":"Point"}
 }

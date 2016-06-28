@@ -2,13 +2,14 @@
   "id": 303900675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.608764,34.232164,-95.608764,34.232164",
     "geom:latitude":34.232164,
     "geom:longitude":-95.608764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 E Main St",
     "sg:city":"Antlers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303900675,
-    "wof:lastmodified":1448999172,
+    "wof:lastmodified":1466767011,
     "wof:name":"Sharps Department Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.608764,34.232164,-95.608764,34.232164],
-  "geometry": {"coordinates":[-95.608764,34.232164],"type":"Point"}
+  "bbox": [
+    -95.608764,
+    34.232164,
+    -95.608764,
+    34.232164
+],
+  "geometry": {"coordinates":[-95.60876399999999,34.232164],"type":"Point"}
 }

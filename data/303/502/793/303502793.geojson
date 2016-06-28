@@ -2,13 +2,14 @@
   "id": 303502793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.054274,36.732499,-97.054274,36.732499",
     "geom:latitude":36.732499,
     "geom:longitude":-97.054274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 el Camino St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303502793,
-    "wof:lastmodified":1448999241,
+    "wof:lastmodified":1466765946,
     "wof:name":"Perry Schauvliege Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-97.054274,36.732499,-97.054274,36.732499],
-  "geometry": {"coordinates":[-97.054274,36.732499],"type":"Point"}
+  "bbox": [
+    -97.054274,
+    36.732499,
+    -97.054274,
+    36.732499
+],
+  "geometry": {"coordinates":[-97.05427400000001,36.732499],"type":"Point"}
 }

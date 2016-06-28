@@ -2,13 +2,14 @@
   "id": 303171193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.333807,34.650605,-99.333807,34.650605",
     "geom:latitude":34.650605,
     "geom:longitude":-99.333807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 N Main St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303171193,
-    "wof:lastmodified":1449000575,
+    "wof:lastmodified":1466764279,
     "wof:name":"Bennys Mexican Food & Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-99.333807,34.650605,-99.333807,34.650605],
-  "geometry": {"coordinates":[-99.333807,34.650605],"type":"Point"}
+  "bbox": [
+    -99.333807,
+    34.650605,
+    -99.333807,
+    34.650605
+],
+  "geometry": {"coordinates":[-99.33380699999999,34.650605],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303996197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.473228,35.493053,-97.473228,35.493053",
     "geom:latitude":35.493053,
     "geom:longitude":-97.473228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2124 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303996197,
-    "wof:lastmodified":1448998766,
+    "wof:lastmodified":1466767083,
     "wof:name":"Creston Hills Dental Clinic",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-97.473228,35.493053,-97.473228,35.493053],
-  "geometry": {"coordinates":[-97.473228,35.493053],"type":"Point"}
+  "bbox": [
+    -97.473228,
+    35.493053,
+    -97.473228,
+    35.493053
+],
+  "geometry": {"coordinates":[-97.47322800000001,35.493053],"type":"Point"}
 }

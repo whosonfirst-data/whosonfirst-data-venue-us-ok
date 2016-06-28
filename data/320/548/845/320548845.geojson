@@ -2,13 +2,14 @@
   "id": 320548845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.505395,36.153182,-95.505395,36.153182",
     "geom:latitude":36.153182,
     "geom:longitude":-95.505395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 E Commercial St",
     "sg:city":"Inola",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320548845,
-    "wof:lastmodified":1449013853,
+    "wof:lastmodified":1466766183,
     "wof:name":"Picture The Moment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-95.505395,36.153182,-95.505395,36.153182],
-  "geometry": {"coordinates":[-95.505395,36.153182],"type":"Point"}
+  "bbox": [
+    -95.505395,
+    36.153182,
+    -95.505395,
+    36.153182
+],
+  "geometry": {"coordinates":[-95.50539499999999,36.153182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319845581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531981,35.51466,-97.531981,35.51466",
     "geom:latitude":35.51466,
     "geom:longitude":-97.531981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 NW 42nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319845581,
-    "wof:lastmodified":1449024219,
+    "wof:lastmodified":1466763104,
     "wof:name":"Accurate Guttering",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gutter"
     ]
 },
-  "bbox": [-97.531981,35.51466,-97.531981,35.51466],
+  "bbox": [
+    -97.531981,
+    35.51466,
+    -97.531981,
+    35.51466
+],
   "geometry": {"coordinates":[-97.531981,35.51466],"type":"Point"}
 }

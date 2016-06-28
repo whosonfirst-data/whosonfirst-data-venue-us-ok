@@ -2,13 +2,14 @@
   "id": 320591937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.627511,36.324225,-95.627511,36.324225",
     "geom:latitude":36.324225,
     "geom:longitude":-95.627511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1454 Paradise Ln",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320591937,
-    "wof:lastmodified":1449013259,
+    "wof:lastmodified":1466766378,
     "wof:name":"Claremore Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.627511,36.324225,-95.627511,36.324225],
+  "bbox": [
+    -95.627511,
+    36.324225,
+    -95.627511,
+    36.324225
+],
   "geometry": {"coordinates":[-95.627511,36.324225],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320851279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.463193,35.45548,-97.463193,35.45548",
     "geom:latitude":35.45548,
     "geom:longitude":-97.463193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2836 SE 9th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320851279,
-    "wof:lastmodified":1449013728,
+    "wof:lastmodified":1466766890,
     "wof:name":"Chris Truck Lines",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.463193,35.45548,-97.463193,35.45548],
+  "bbox": [
+    -97.463193,
+    35.45548,
+    -97.463193,
+    35.45548
+],
   "geometry": {"coordinates":[-97.463193,35.45548],"type":"Point"}
 }

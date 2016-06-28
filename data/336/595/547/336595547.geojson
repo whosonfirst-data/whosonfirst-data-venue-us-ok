@@ -2,13 +2,14 @@
   "id": 336595547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.140915,34.494304,-99.140915,34.494304",
     "geom:latitude":34.494304,
     "geom:longitude":-99.140915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 S Broadway Ave",
     "sg:city":"Tipton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336595547,
-    "wof:lastmodified":1448997915,
+    "wof:lastmodified":1466764098,
     "wof:name":"Tipton Public Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.140915,34.494304,-99.140915,34.494304],
-  "geometry": {"coordinates":[-99.140915,34.494304],"type":"Point"}
+  "bbox": [
+    -99.140915,
+    34.494304,
+    -99.140915,
+    34.494304
+],
+  "geometry": {"coordinates":[-99.14091500000001,34.494304],"type":"Point"}
 }

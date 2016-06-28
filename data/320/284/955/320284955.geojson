@@ -2,13 +2,14 @@
   "id": 320284955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.515702,35.47618,-97.515702,35.47618",
     "geom:latitude":35.47618,
     "geom:longitude":-97.515702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 NW 8th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320284955,
-    "wof:lastmodified":1449013573,
+    "wof:lastmodified":1466764986,
     "wof:name":"Isaacs Garvin Inc",
     "wof:parent_id":85871669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.515702,35.47618,-97.515702,35.47618],
+  "bbox": [
+    -97.515702,
+    35.47618,
+    -97.515702,
+    35.47618
+],
   "geometry": {"coordinates":[-97.515702,35.47618],"type":"Point"}
 }

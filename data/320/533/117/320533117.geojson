@@ -2,13 +2,14 @@
   "id": 320533117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.561817,35.348004,-97.561817,35.348004",
     "geom:latitude":35.348004,
     "geom:longitude":-97.561817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 SW 120th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320533117,
-    "wof:lastmodified":1449011216,
+    "wof:lastmodified":1466766119,
     "wof:name":"L W Trauma Svc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.561817,35.348004,-97.561817,35.348004],
+  "bbox": [
+    -97.561817,
+    35.348004,
+    -97.561817,
+    35.348004
+],
   "geometry": {"coordinates":[-97.561817,35.348004],"type":"Point"}
 }

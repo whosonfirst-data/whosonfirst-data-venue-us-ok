@@ -2,13 +2,14 @@
   "id": 320431345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.568746,35.356382,-97.568746,35.356382",
     "geom:latitude":35.356382,
     "geom:longitude":-97.568746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2917 SW 111th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320431345,
-    "wof:lastmodified":1449011758,
+    "wof:lastmodified":1466765885,
     "wof:name":"Aim To Kill",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.568746,35.356382,-97.568746,35.356382],
+  "bbox": [
+    -97.568746,
+    35.356382,
+    -97.568746,
+    35.356382
+],
   "geometry": {"coordinates":[-97.568746,35.356382],"type":"Point"}
 }

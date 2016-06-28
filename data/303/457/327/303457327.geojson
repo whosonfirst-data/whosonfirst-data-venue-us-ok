@@ -2,13 +2,14 @@
   "id": 303457327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494785,35.42262,-97.494785,35.42262",
     "geom:latitude":35.42262,
     "geom:longitude":-97.494785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 S High Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303457327,
-    "wof:lastmodified":1448999759,
+    "wof:lastmodified":1466765683,
     "wof:name":"L & L Welding Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.494785,35.42262,-97.494785,35.42262],
-  "geometry": {"coordinates":[-97.494785,35.42262],"type":"Point"}
+  "bbox": [
+    -97.494785,
+    35.42262,
+    -97.494785,
+    35.42262
+],
+  "geometry": {"coordinates":[-97.49478499999999,35.42262],"type":"Point"}
 }

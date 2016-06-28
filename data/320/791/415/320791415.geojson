@@ -2,13 +2,14 @@
   "id": 320791415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.524696,35.551193,-97.524696,35.551193",
     "geom:latitude":35.551193,
     "geom:longitude":-97.524696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 W Wilshire Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320791415,
-    "wof:lastmodified":1449014100,
+    "wof:lastmodified":1466766914,
     "wof:name":"US Foodservice",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-97.524696,35.551193,-97.524696,35.551193],
-  "geometry": {"coordinates":[-97.524696,35.551193],"type":"Point"}
+  "bbox": [
+    -97.524696,
+    35.551193,
+    -97.524696,
+    35.551193
+],
+  "geometry": {"coordinates":[-97.52469600000001,35.551193],"type":"Point"}
 }

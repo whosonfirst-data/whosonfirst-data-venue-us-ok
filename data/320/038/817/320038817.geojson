@@ -2,13 +2,14 @@
   "id": 320038817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.407761,34.591362,-98.407761,34.591362",
     "geom:latitude":34.591362,
     "geom:longitude":-98.407761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 SW Monroe Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320038817,
-    "wof:lastmodified":1449013657,
+    "wof:lastmodified":1466762867,
     "wof:name":"Pleasant Valley Senior Ctr",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "citizen"
     ]
 },
-  "bbox": [-98.407761,34.591362,-98.407761,34.591362],
-  "geometry": {"coordinates":[-98.407761,34.591362],"type":"Point"}
+  "bbox": [
+    -98.407761,
+    34.591362,
+    -98.407761,
+    34.591362
+],
+  "geometry": {"coordinates":[-98.40776099999999,34.591362],"type":"Point"}
 }

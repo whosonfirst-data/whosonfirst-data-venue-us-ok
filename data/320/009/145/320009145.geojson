@@ -2,13 +2,14 @@
   "id": 320009145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.574093,35.490095,-97.574093,35.490095",
     "geom:latitude":35.490095,
     "geom:longitude":-97.574093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3226 NW 20th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320009145,
-    "wof:lastmodified":1449014894,
+    "wof:lastmodified":1466762415,
     "wof:name":"Christopher N Reiger",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-97.574093,35.490095,-97.574093,35.490095],
+  "bbox": [
+    -97.574093,
+    35.490095,
+    -97.574093,
+    35.490095
+],
   "geometry": {"coordinates":[-97.574093,35.490095],"type":"Point"}
 }

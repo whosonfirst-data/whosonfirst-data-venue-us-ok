@@ -2,13 +2,14 @@
   "id": 320066913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.913786,36.089935,-95.913786,36.089935",
     "geom:latitude":36.089935,
     "geom:longitude":-95.913786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5505 E 51st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320066913,
-    "wof:lastmodified":1449012353,
+    "wof:lastmodified":1466763279,
     "wof:name":"Phillip White",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.913786,36.089935,-95.913786,36.089935],
+  "bbox": [
+    -95.913786,
+    36.089935,
+    -95.913786,
+    36.089935
+],
   "geometry": {"coordinates":[-95.913786,36.089935],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336681759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.934855,35.030019,-97.934855,35.030019",
     "geom:latitude":35.030019,
     "geom:longitude":-97.934855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2041 US Hwy 81",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336681759,
-    "wof:lastmodified":1448997600,
+    "wof:lastmodified":1466763440,
     "wof:name":"Morse Welding Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.934855,35.030019,-97.934855,35.030019],
+  "bbox": [
+    -97.934855,
+    35.030019,
+    -97.934855,
+    35.030019
+],
   "geometry": {"coordinates":[-97.934855,35.030019],"type":"Point"}
 }

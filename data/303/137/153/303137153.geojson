@@ -2,13 +2,14 @@
   "id": 303137153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.712583,35.524938,-98.712583,35.524938",
     "geom:latitude":35.524938,
     "geom:longitude":-98.712583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 SW Main St",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303137153,
-    "wof:lastmodified":1449000228,
+    "wof:lastmodified":1466763834,
     "wof:name":"Weatherford Red River Transptn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-98.712583,35.524938,-98.712583,35.524938],
+  "bbox": [
+    -98.712583,
+    35.524938,
+    -98.712583,
+    35.524938
+],
   "geometry": {"coordinates":[-98.712583,35.524938],"type":"Point"}
 }

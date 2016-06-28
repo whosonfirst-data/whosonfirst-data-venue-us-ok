@@ -2,13 +2,14 @@
   "id": 303740401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.438473,35.535969,-97.438473,35.535969",
     "geom:latitude":35.535969,
     "geom:longitude":-97.438473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 Hilltop Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303740401,
-    "wof:lastmodified":1448999227,
+    "wof:lastmodified":1466766670,
     "wof:name":"OPI Bus Corp Training Firm",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "training"
     ]
 },
-  "bbox": [-97.438473,35.535969,-97.438473,35.535969],
+  "bbox": [
+    -97.438473,
+    35.535969,
+    -97.438473,
+    35.535969
+],
   "geometry": {"coordinates":[-97.438473,35.535969],"type":"Point"}
 }

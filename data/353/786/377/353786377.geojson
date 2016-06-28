@@ -2,13 +2,14 @@
   "id": 353786377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.506736,34.873544,-99.506736,34.873544",
     "geom:latitude":34.873544,
     "geom:longitude":-99.506736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W Jefferson St",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353786377,
-    "wof:lastmodified":1449018586,
+    "wof:lastmodified":1466765165,
     "wof:name":"Greer County Assoc Dist Judge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-99.506736,34.873544,-99.506736,34.873544],
+  "bbox": [
+    -99.506736,
+    34.873544,
+    -99.506736,
+    34.873544
+],
   "geometry": {"coordinates":[-99.506736,34.873544],"type":"Point"}
 }

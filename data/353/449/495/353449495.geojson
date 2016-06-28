@@ -2,13 +2,14 @@
   "id": 353449495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.430524,36.532941,-95.430524,36.532941",
     "geom:latitude":36.532941,
     "geom:longitude":-95.430524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Walnut St",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353449495,
-    "wof:lastmodified":1449020620,
+    "wof:lastmodified":1466762703,
     "wof:name":"B & M Ventures Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.430524,36.532941,-95.430524,36.532941],
-  "geometry": {"coordinates":[-95.430524,36.532941],"type":"Point"}
+  "bbox": [
+    -95.430524,
+    36.532941,
+    -95.430524,
+    36.532941
+],
+  "geometry": {"coordinates":[-95.43052400000001,36.532941],"type":"Point"}
 }

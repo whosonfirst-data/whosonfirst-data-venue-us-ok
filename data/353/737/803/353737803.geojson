@@ -2,13 +2,14 @@
   "id": 353737803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.643425,35.568128,-97.643425,35.568128",
     "geom:latitude":35.568128,
     "geom:longitude":-97.643425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9609 Eagle Hill Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353737803,
-    "wof:lastmodified":1449018835,
+    "wof:lastmodified":1466764938,
     "wof:name":"Austin Gas Properties LLC",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "field"
     ]
 },
-  "bbox": [-97.643425,35.568128,-97.643425,35.568128],
-  "geometry": {"coordinates":[-97.643425,35.568128],"type":"Point"}
+  "bbox": [
+    -97.643425,
+    35.568128,
+    -97.643425,
+    35.568128
+],
+  "geometry": {"coordinates":[-97.64342499999999,35.568128],"type":"Point"}
 }

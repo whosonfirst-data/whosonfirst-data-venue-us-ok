@@ -2,13 +2,14 @@
   "id": 353874317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.085591,36.094182,-97.085591,36.094182",
     "geom:latitude":36.094182,
     "geom:longitude":-97.085591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 W 26th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353874317,
-    "wof:lastmodified":1449020631,
+    "wof:lastmodified":1466765580,
     "wof:name":"Maddox Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-97.085591,36.094182,-97.085591,36.094182],
-  "geometry": {"coordinates":[-97.085591,36.094182],"type":"Point"}
+  "bbox": [
+    -97.085591,
+    36.094182,
+    -97.085591,
+    36.094182
+],
+  "geometry": {"coordinates":[-97.08559099999999,36.094182],"type":"Point"}
 }

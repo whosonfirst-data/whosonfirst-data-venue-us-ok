@@ -2,13 +2,14 @@
   "id": 303426641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.285693,36.286935,-97.285693,36.286935",
     "geom:latitude":36.286935,
     "geom:longitude":-97.285693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 N 6th St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303426641,
-    "wof:lastmodified":1448998637,
+    "wof:lastmodified":1466765465,
     "wof:name":"Perry Sports & Outdoor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.285693,36.286935,-97.285693,36.286935],
-  "geometry": {"coordinates":[-97.285693,36.286935],"type":"Point"}
+  "bbox": [
+    -97.285693,
+    36.286935,
+    -97.285693,
+    36.286935
+],
+  "geometry": {"coordinates":[-97.28569299999999,36.286935],"type":"Point"}
 }

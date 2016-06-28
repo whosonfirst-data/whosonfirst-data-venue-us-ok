@@ -2,13 +2,14 @@
   "id": 336881951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.026964,36.106857,-96.026964,36.106857",
     "geom:latitude":36.106857,
     "geom:longitude":-96.026964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3822 S 31st West Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336881951,
-    "wof:lastmodified":1448997562,
+    "wof:lastmodified":1466765015,
     "wof:name":"Helzer Construction",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.026964,36.106857,-96.026964,36.106857],
-  "geometry": {"coordinates":[-96.026964,36.106857],"type":"Point"}
+  "bbox": [
+    -96.026964,
+    36.106857,
+    -96.026964,
+    36.106857
+],
+  "geometry": {"coordinates":[-96.02696400000001,36.106857],"type":"Point"}
 }

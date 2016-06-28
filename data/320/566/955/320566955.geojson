@@ -2,13 +2,14 @@
   "id": 320566955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.522562,35.464344,-97.522562,35.464344",
     "geom:latitude":35.464344,
     "geom:longitude":-97.522562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 W Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320566955,
-    "wof:lastmodified":1449011337,
+    "wof:lastmodified":1466766334,
     "wof:name":"Dimitris Peacock Green Rstrnt",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.522562,35.464344,-97.522562,35.464344],
-  "geometry": {"coordinates":[-97.522562,35.464344],"type":"Point"}
+  "bbox": [
+    -97.522562,
+    35.464344,
+    -97.522562,
+    35.464344
+],
+  "geometry": {"coordinates":[-97.52256199999999,35.464344],"type":"Point"}
 }

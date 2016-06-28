@@ -2,13 +2,14 @@
   "id": 303867231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.051344,36.109879,-97.051344,36.109879",
     "geom:latitude":36.109879,
     "geom:longitude":-97.051344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 S Perkins Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303867231,
-    "wof:lastmodified":1448999175,
+    "wof:lastmodified":1466766889,
     "wof:name":"Dial 'N' Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.051344,36.109879,-97.051344,36.109879],
+  "bbox": [
+    -97.051344,
+    36.109879,
+    -97.051344,
+    36.109879
+],
   "geometry": {"coordinates":[-97.051344,36.109879],"type":"Point"}
 }

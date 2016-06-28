@@ -2,13 +2,14 @@
   "id": 287214949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.34041,35.767068,-95.34041,35.767068",
     "geom:latitude":35.767068,
     "geom:longitude":-95.34041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 N York St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287214949,
-    "wof:lastmodified":1449001562,
+    "wof:lastmodified":1466764086,
     "wof:name":"Mulligan's Sports Bar & Grill",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-95.34041,35.767068,-95.34041,35.767068],
-  "geometry": {"coordinates":[-95.34041,35.767068],"type":"Point"}
+  "bbox": [
+    -95.34041,
+    35.767068,
+    -95.34041,
+    35.767068
+],
+  "geometry": {"coordinates":[-95.34041000000001,35.767068],"type":"Point"}
 }

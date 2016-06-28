@@ -2,13 +2,14 @@
   "id": 353763005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.587865,35.478746,-97.587865,35.478746",
     "geom:latitude":35.478746,
     "geom:longitude":-97.587865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 NW 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353763005,
-    "wof:lastmodified":1449020786,
+    "wof:lastmodified":1466765257,
     "wof:name":"Beaver Food & Gas",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.587865,35.478746,-97.587865,35.478746],
-  "geometry": {"coordinates":[-97.587865,35.478746],"type":"Point"}
+  "bbox": [
+    -97.587865,
+    35.478746,
+    -97.587865,
+    35.478746
+],
+  "geometry": {"coordinates":[-97.58786499999999,35.478746],"type":"Point"}
 }

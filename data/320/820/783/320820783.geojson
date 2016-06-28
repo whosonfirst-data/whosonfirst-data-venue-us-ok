@@ -2,13 +2,14 @@
   "id": 320820783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.329772,34.609584,-98.329772,34.609584",
     "geom:latitude":34.609584,
     "geom:longitude":-98.329772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4802 NE Bell Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320820783,
-    "wof:lastmodified":1449013186,
+    "wof:lastmodified":1466766891,
     "wof:name":"Marple Networking",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-98.329772,34.609584,-98.329772,34.609584],
-  "geometry": {"coordinates":[-98.329772,34.609584],"type":"Point"}
+  "bbox": [
+    -98.329772,
+    34.609584,
+    -98.329772,
+    34.609584
+],
+  "geometry": {"coordinates":[-98.32977200000001,34.609584],"type":"Point"}
 }

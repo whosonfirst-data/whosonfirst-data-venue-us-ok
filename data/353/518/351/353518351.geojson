@@ -2,13 +2,14 @@
   "id": 353518351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.887909,36.069111,-95.887909,36.069111",
     "geom:latitude":36.069111,
     "geom:longitude":-95.887909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6358 S 80th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353518351,
-    "wof:lastmodified":1449019697,
+    "wof:lastmodified":1466763397,
     "wof:name":"William D Thompson",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-95.887909,36.069111,-95.887909,36.069111],
-  "geometry": {"coordinates":[-95.887909,36.069111],"type":"Point"}
+  "bbox": [
+    -95.887909,
+    36.069111,
+    -95.887909,
+    36.069111
+],
+  "geometry": {"coordinates":[-95.88790899999999,36.069111],"type":"Point"}
 }

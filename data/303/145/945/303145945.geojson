@@ -2,13 +2,14 @@
   "id": 303145945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.970583,35.624726,-95.970583,35.624726",
     "geom:latitude":35.624726,
     "geom:longitude":-95.970583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E 4th St",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303145945,
-    "wof:lastmodified":1448998860,
+    "wof:lastmodified":1466763979,
     "wof:name":"Okmulgee City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-95.970583,35.624726,-95.970583,35.624726],
+  "bbox": [
+    -95.970583,
+    35.624726,
+    -95.970583,
+    35.624726
+],
   "geometry": {"coordinates":[-95.970583,35.624726],"type":"Point"}
 }

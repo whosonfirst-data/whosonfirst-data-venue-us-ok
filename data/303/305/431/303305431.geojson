@@ -2,13 +2,14 @@
   "id": 303305431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940029,36.044187,-95.940029,36.044187",
     "geom:latitude":36.044187,
     "geom:longitude":-95.940029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8142 S Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303305431,
-    "wof:lastmodified":1448998490,
+    "wof:lastmodified":1466764870,
     "wof:name":"Just Quilt It",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.940029,36.044187,-95.940029,36.044187],
+  "bbox": [
+    -95.940029,
+    36.044187,
+    -95.940029,
+    36.044187
+],
   "geometry": {"coordinates":[-95.940029,36.044187],"type":"Point"}
 }

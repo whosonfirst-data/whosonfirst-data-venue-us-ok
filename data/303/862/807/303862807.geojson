@@ -2,13 +2,14 @@
   "id": 303862807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.877789,36.061011,-95.877789,36.061011",
     "geom:latitude":36.061011,
     "geom:longitude":-95.877789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8707 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303862807,
-    "wof:lastmodified":1449000628,
+    "wof:lastmodified":1466766872,
     "wof:name":"Foley's",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.877789,36.061011,-95.877789,36.061011],
-  "geometry": {"coordinates":[-95.877789,36.061011],"type":"Point"}
+  "bbox": [
+    -95.877789,
+    36.061011,
+    -95.877789,
+    36.061011
+],
+  "geometry": {"coordinates":[-95.87778900000001,36.061011],"type":"Point"}
 }

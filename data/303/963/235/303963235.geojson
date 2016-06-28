@@ -2,13 +2,14 @@
   "id": 303963235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.633403,36.288774,-95.633403,36.288774",
     "geom:latitude":36.288774,
     "geom:longitude":-95.633403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 S Hwy 66",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303963235,
-    "wof:lastmodified":1448998354,
+    "wof:lastmodified":1466767102,
     "wof:name":"Shape Xpress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-95.633403,36.288774,-95.633403,36.288774],
+  "bbox": [
+    -95.633403,
+    36.288774,
+    -95.633403,
+    36.288774
+],
   "geometry": {"coordinates":[-95.633403,36.288774],"type":"Point"}
 }

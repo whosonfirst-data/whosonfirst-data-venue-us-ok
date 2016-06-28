@@ -2,13 +2,14 @@
   "id": 320622063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.795402,36.160692,-95.795402,36.160692",
     "geom:latitude":36.160692,
     "geom:longitude":-95.795402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16015 E Admiral Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320622063,
-    "wof:lastmodified":1449014292,
+    "wof:lastmodified":1466766216,
     "wof:name":"Adesa Tulsa",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.795402,36.160692,-95.795402,36.160692],
+  "bbox": [
+    -95.795402,
+    36.160692,
+    -95.795402,
+    36.160692
+],
   "geometry": {"coordinates":[-95.795402,36.160692],"type":"Point"}
 }

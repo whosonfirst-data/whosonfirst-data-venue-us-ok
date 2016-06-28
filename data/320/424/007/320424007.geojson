@@ -2,13 +2,14 @@
   "id": 320424007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.309688,34.919833,-95.309688,34.919833",
     "geom:latitude":34.919833,
     "geom:longitude":-95.309688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Central Ave",
     "sg:city":"Wilburton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320424007,
-    "wof:lastmodified":1449014728,
+    "wof:lastmodified":1466765965,
     "wof:name":"Krebs Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-95.309688,34.919833,-95.309688,34.919833],
-  "geometry": {"coordinates":[-95.309688,34.919833],"type":"Point"}
+  "bbox": [
+    -95.309688,
+    34.919833,
+    -95.309688,
+    34.919833
+],
+  "geometry": {"coordinates":[-95.30968799999999,34.919833],"type":"Point"}
 }

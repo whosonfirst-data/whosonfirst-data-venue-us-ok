@@ -2,13 +2,14 @@
   "id": 320276161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.143921,35.291542,-97.143921,35.291542",
     "geom:latitude":35.291542,
     "geom:longitude":-97.143921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Bond Rd",
     "sg:city":"Newalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320276161,
-    "wof:lastmodified":1449011394,
+    "wof:lastmodified":1466764934,
     "wof:name":"Graham Computer",
     "wof:parent_id":85830865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.143921,35.291542,-97.143921,35.291542],
-  "geometry": {"coordinates":[-97.143921,35.291542],"type":"Point"}
+  "bbox": [
+    -97.143921,
+    35.291542,
+    -97.143921,
+    35.291542
+],
+  "geometry": {"coordinates":[-97.14392100000001,35.291542],"type":"Point"}
 }

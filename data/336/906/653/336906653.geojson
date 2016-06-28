@@ -2,13 +2,14 @@
   "id": 336906653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.343005,34.661681,-99.343005,34.661681",
     "geom:latitude":34.661681,
     "geom:longitude":-99.343005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 N Canary Ln",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336906653,
-    "wof:lastmodified":1448997352,
+    "wof:lastmodified":1466765144,
     "wof:name":"Dennis B Vernon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-99.343005,34.661681,-99.343005,34.661681],
-  "geometry": {"coordinates":[-99.343005,34.661681],"type":"Point"}
+  "bbox": [
+    -99.343005,
+    34.661681,
+    -99.343005,
+    34.661681
+],
+  "geometry": {"coordinates":[-99.34300500000001,34.661681],"type":"Point"}
 }

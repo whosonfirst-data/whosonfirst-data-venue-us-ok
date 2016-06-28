@@ -2,13 +2,14 @@
   "id": 354221873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990829,36.152588,-95.990829,36.152588",
     "geom:latitude":36.152588,
     "geom:longitude":-95.990829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 S Main St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354221873,
-    "wof:lastmodified":1449066661,
+    "wof:lastmodified":1466764055,
     "wof:name":"Castle-Rock Petroleum Inc",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "exploration"
     ]
 },
-  "bbox": [-95.990829,36.152588,-95.990829,36.152588],
-  "geometry": {"coordinates":[-95.990829,36.152588],"type":"Point"}
+  "bbox": [
+    -95.990829,
+    36.152588,
+    -95.990829,
+    36.152588
+],
+  "geometry": {"coordinates":[-95.99082900000001,36.152588],"type":"Point"}
 }

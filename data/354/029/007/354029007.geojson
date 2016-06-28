@@ -2,13 +2,14 @@
   "id": 354029007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.499426,35.605763,-97.499426,35.605763",
     "geom:latitude":35.605763,
     "geom:longitude":-97.499426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13241 Broadway Exn",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354029007,
-    "wof:lastmodified":1449066644,
+    "wof:lastmodified":1466764194,
     "wof:name":"Bob Howard Nissan",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.499426,35.605763,-97.499426,35.605763],
+  "bbox": [
+    -97.499426,
+    35.605763,
+    -97.499426,
+    35.605763
+],
   "geometry": {"coordinates":[-97.499426,35.605763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220192201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.020368,36.151399,-96.020368,36.151399",
     "geom:latitude":36.151399,
     "geom:longitude":-96.020368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 S 25th West Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220192201,
-    "wof:lastmodified":1449074621,
+    "wof:lastmodified":1466762421,
     "wof:name":"Lubricants Usa",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "lubricating"
     ]
 },
-  "bbox": [-96.020368,36.151399,-96.020368,36.151399],
+  "bbox": [
+    -96.020368,
+    36.151399,
+    -96.020368,
+    36.151399
+],
   "geometry": {"coordinates":[-96.020368,36.151399],"type":"Point"}
 }

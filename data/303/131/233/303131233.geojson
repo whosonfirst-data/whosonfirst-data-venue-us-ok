@@ -2,13 +2,14 @@
   "id": 303131233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.923533,35.327353,-96.923533,35.327353",
     "geom:latitude":35.327353,
     "geom:longitude":-96.923533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 E Main St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303131233,
-    "wof:lastmodified":1448998854,
+    "wof:lastmodified":1466763742,
     "wof:name":"Downtown Barbery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.923533,35.327353,-96.923533,35.327353],
-  "geometry": {"coordinates":[-96.923533,35.327353],"type":"Point"}
+  "bbox": [
+    -96.923533,
+    35.327353,
+    -96.923533,
+    35.327353
+],
+  "geometry": {"coordinates":[-96.92353300000001,35.327353],"type":"Point"}
 }

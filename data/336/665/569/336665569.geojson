@@ -2,13 +2,14 @@
   "id": 336665569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.982599,36.144767,-95.982599,36.144767",
     "geom:latitude":36.144767,
     "geom:longitude":-95.982599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 S Detroit Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336665569,
-    "wof:lastmodified":1448997277,
+    "wof:lastmodified":1466763189,
     "wof:name":"Studio Two Recording",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.982599,36.144767,-95.982599,36.144767],
-  "geometry": {"coordinates":[-95.982599,36.144767],"type":"Point"}
+  "bbox": [
+    -95.982599,
+    36.144767,
+    -95.982599,
+    36.144767
+],
+  "geometry": {"coordinates":[-95.98259899999999,36.144767],"type":"Point"}
 }

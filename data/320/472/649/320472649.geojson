@@ -2,13 +2,14 @@
   "id": 320472649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.426465,35.878109,-97.426465,35.878109",
     "geom:latitude":35.878109,
     "geom:longitude":-97.426465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Oklahoma Ave",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320472649,
-    "wof:lastmodified":1449011539,
+    "wof:lastmodified":1466766005,
     "wof:name":"Above The Rest",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-97.426465,35.878109,-97.426465,35.878109],
-  "geometry": {"coordinates":[-97.426465,35.878109],"type":"Point"}
+  "bbox": [
+    -97.426465,
+    35.878109,
+    -97.426465,
+    35.878109
+],
+  "geometry": {"coordinates":[-97.42646499999999,35.878109],"type":"Point"}
 }

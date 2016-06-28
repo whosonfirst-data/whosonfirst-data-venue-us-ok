@@ -2,13 +2,14 @@
   "id": 303446441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.412484,34.634915,-98.412484,34.634915",
     "geom:latitude":34.634915,
     "geom:longitude":-98.412484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1418 NW Logan Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303446441,
-    "wof:lastmodified":1449000357,
+    "wof:lastmodified":1466765661,
     "wof:name":"Jeanne Weatherly",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.412484,34.634915,-98.412484,34.634915],
-  "geometry": {"coordinates":[-98.412484,34.634915],"type":"Point"}
+  "bbox": [
+    -98.412484,
+    34.634915,
+    -98.412484,
+    34.634915
+],
+  "geometry": {"coordinates":[-98.41248400000001,34.634915],"type":"Point"}
 }

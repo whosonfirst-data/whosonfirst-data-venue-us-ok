@@ -2,13 +2,14 @@
   "id": 320124175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.557926,35.427797,-97.557926,35.427797",
     "geom:latitude":35.427797,
     "geom:longitude":-97.557926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2515 SW Grand Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320124175,
-    "wof:lastmodified":1449014677,
+    "wof:lastmodified":1466764157,
     "wof:name":"Rockwood Baptist Chrh",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.557926,35.427797,-97.557926,35.427797],
-  "geometry": {"coordinates":[-97.557926,35.427797],"type":"Point"}
+  "bbox": [
+    -97.557926,
+    35.427797,
+    -97.557926,
+    35.427797
+],
+  "geometry": {"coordinates":[-97.55792599999999,35.427797],"type":"Point"}
 }

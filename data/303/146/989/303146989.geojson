@@ -2,13 +2,14 @@
   "id": 303146989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.416734,34.612387,-98.416734,34.612387",
     "geom:latitude":34.612387,
     "geom:longitude":-98.416734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 NW 19th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303146989,
-    "wof:lastmodified":1448999133,
+    "wof:lastmodified":1466763994,
     "wof:name":"Fite & Stabler & Company Inc",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.416734,34.612387,-98.416734,34.612387],
-  "geometry": {"coordinates":[-98.416734,34.612387],"type":"Point"}
+  "bbox": [
+    -98.416734,
+    34.612387,
+    -98.416734,
+    34.612387
+],
+  "geometry": {"coordinates":[-98.41673400000001,34.612387],"type":"Point"}
 }

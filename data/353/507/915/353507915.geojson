@@ -2,13 +2,14 @@
   "id": 353507915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904337,36.094224,-95.904337,36.094224",
     "geom:latitude":36.094224,
     "geom:longitude":-95.904337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4823 S Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353507915,
-    "wof:lastmodified":1449019579,
+    "wof:lastmodified":1466763238,
     "wof:name":"David L Thomas DDS",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-95.904337,36.094224,-95.904337,36.094224],
+  "bbox": [
+    -95.904337,
+    36.094224,
+    -95.904337,
+    36.094224
+],
   "geometry": {"coordinates":[-95.904337,36.094224],"type":"Point"}
 }

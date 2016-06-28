@@ -2,13 +2,14 @@
   "id": 320542127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.783161,36.064881,-95.783161,36.064881",
     "geom:latitude":36.064881,
     "geom:longitude":-95.783161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 E Madison St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320542127,
-    "wof:lastmodified":1449014135,
+    "wof:lastmodified":1466766154,
     "wof:name":"Kenwood Hills Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "operates"
     ]
 },
-  "bbox": [-95.783161,36.064881,-95.783161,36.064881],
-  "geometry": {"coordinates":[-95.783161,36.064881],"type":"Point"}
+  "bbox": [
+    -95.783161,
+    36.064881,
+    -95.783161,
+    36.064881
+],
+  "geometry": {"coordinates":[-95.78316100000001,36.064881],"type":"Point"}
 }

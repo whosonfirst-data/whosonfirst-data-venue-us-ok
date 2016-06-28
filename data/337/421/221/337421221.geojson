@@ -2,13 +2,14 @@
   "id": 337421221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.345531,35.399969,-97.345531,35.399969",
     "geom:latitude":35.399969,
     "geom:longitude":-97.345531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 Saddleback Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337421221,
-    "wof:lastmodified":1449027467,
+    "wof:lastmodified":1466764068,
     "wof:name":"Collins Tire Co",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tire"
     ]
 },
-  "bbox": [-97.345531,35.399969,-97.345531,35.399969],
-  "geometry": {"coordinates":[-97.345531,35.399969],"type":"Point"}
+  "bbox": [
+    -97.345531,
+    35.399969,
+    -97.345531,
+    35.399969
+],
+  "geometry": {"coordinates":[-97.34553099999999,35.399969],"type":"Point"}
 }

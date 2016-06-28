@@ -2,13 +2,14 @@
   "id": 303834415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.370825,35.426163,-97.370825,35.426163",
     "geom:latitude":35.426163,
     "geom:longitude":-97.370825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 S Douglas Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303834415,
-    "wof:lastmodified":1448998348,
+    "wof:lastmodified":1466766800,
     "wof:name":"Ample Storage",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-97.370825,35.426163,-97.370825,35.426163],
+  "bbox": [
+    -97.370825,
+    35.426163,
+    -97.370825,
+    35.426163
+],
   "geometry": {"coordinates":[-97.370825,35.426163],"type":"Point"}
 }

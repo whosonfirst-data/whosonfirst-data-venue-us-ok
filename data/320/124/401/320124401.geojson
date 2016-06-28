@@ -2,13 +2,14 @@
   "id": 320124401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.098112,36.70399,-97.098112,36.70399",
     "geom:latitude":36.70399,
     "geom:longitude":-97.098112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 W Grand Ave",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320124401,
-    "wof:lastmodified":1449014678,
+    "wof:lastmodified":1466764159,
     "wof:name":"First Church of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.098112,36.70399,-97.098112,36.70399],
+  "bbox": [
+    -97.098112,
+    36.70399,
+    -97.098112,
+    36.70399
+],
   "geometry": {"coordinates":[-97.098112,36.70399],"type":"Point"}
 }

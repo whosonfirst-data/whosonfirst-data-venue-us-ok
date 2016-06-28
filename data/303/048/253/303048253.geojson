@@ -2,13 +2,14 @@
   "id": 303048253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.963823,36.688493,-94.963823,36.688493",
     "geom:latitude":36.688493,
     "geom:longitude":-94.963823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 S Maple Ave",
     "sg:city":"Afton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303048253,
-    "wof:lastmodified":1448998969,
+    "wof:lastmodified":1466762394,
     "wof:name":"Village Terrace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.963823,36.688493,-94.963823,36.688493],
+  "bbox": [
+    -94.963823,
+    36.688493,
+    -94.963823,
+    36.688493
+],
   "geometry": {"coordinates":[-94.963823,36.688493],"type":"Point"}
 }

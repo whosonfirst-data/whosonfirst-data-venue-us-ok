@@ -2,13 +2,14 @@
   "id": 304085749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.908254,36.094956,-95.908254,36.094956",
     "geom:latitude":36.094956,
     "geom:longitude":-95.908254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5916 E 47th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304085749,
-    "wof:lastmodified":1449043706,
+    "wof:lastmodified":1466763333,
     "wof:name":"Phillips Plumbing",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.908254,36.094956,-95.908254,36.094956],
+  "bbox": [
+    -95.908254,
+    36.094956,
+    -95.908254,
+    36.094956
+],
   "geometry": {"coordinates":[-95.908254,36.094956],"type":"Point"}
 }

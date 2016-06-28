@@ -2,13 +2,14 @@
   "id": 336774565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.353633,35.667577,-97.353633,35.667577",
     "geom:latitude":35.667577,
     "geom:longitude":-97.353633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2316 N Post Rd",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336774565,
-    "wof:lastmodified":1448997373,
+    "wof:lastmodified":1466764535,
     "wof:name":"Little Foxes",
     "wof:parent_id":85829129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.353633,35.667577,-97.353633,35.667577],
+  "bbox": [
+    -97.353633,
+    35.667577,
+    -97.353633,
+    35.667577
+],
   "geometry": {"coordinates":[-97.353633,35.667577],"type":"Point"}
 }

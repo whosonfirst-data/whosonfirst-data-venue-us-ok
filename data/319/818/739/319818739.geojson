@@ -2,13 +2,14 @@
   "id": 319818739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.455947,35.185174,-97.455947,35.185174",
     "geom:latitude":35.185174,
     "geom:longitude":-97.455947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3004 Walnut Rd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319818739,
-    "wof:lastmodified":1449024461,
+    "wof:lastmodified":1466762875,
     "wof:name":"Kenneth Fuchs",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "musician"
     ]
 },
-  "bbox": [-97.455947,35.185174,-97.455947,35.185174],
-  "geometry": {"coordinates":[-97.455947,35.185174],"type":"Point"}
+  "bbox": [
+    -97.455947,
+    35.185174,
+    -97.455947,
+    35.185174
+],
+  "geometry": {"coordinates":[-97.45594699999999,35.185174],"type":"Point"}
 }

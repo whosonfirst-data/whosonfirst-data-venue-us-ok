@@ -2,13 +2,14 @@
   "id": 320833477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.093169,36.144365,-97.093169,36.144365",
     "geom:latitude":36.144365,
     "geom:longitude":-97.093169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 Dobi Ln",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320833477,
-    "wof:lastmodified":1449011728,
+    "wof:lastmodified":1466766992,
     "wof:name":"Barnes Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-97.093169,36.144365,-97.093169,36.144365],
+  "bbox": [
+    -97.093169,
+    36.144365,
+    -97.093169,
+    36.144365
+],
   "geometry": {"coordinates":[-97.093169,36.144365],"type":"Point"}
 }

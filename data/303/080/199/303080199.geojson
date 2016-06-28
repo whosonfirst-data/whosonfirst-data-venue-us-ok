@@ -2,13 +2,14 @@
   "id": 303080199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.082418,36.702515,-97.082418,36.702515",
     "geom:latitude":36.702515,
     "geom:longitude":-97.082418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 E Central Ave",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303080199,
-    "wof:lastmodified":1449000498,
+    "wof:lastmodified":1466762907,
     "wof:name":"Western Shamrock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-97.082418,36.702515,-97.082418,36.702515],
+  "bbox": [
+    -97.082418,
+    36.702515,
+    -97.082418,
+    36.702515
+],
   "geometry": {"coordinates":[-97.082418,36.702515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303664919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.866295,36.083529,-95.866295,36.083529",
     "geom:latitude":36.083529,
     "geom:longitude":-95.866295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9704 E 55th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303664919,
-    "wof:lastmodified":1448999023,
+    "wof:lastmodified":1466766538,
     "wof:name":"Scott's Service Ctr",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radio"
     ]
 },
-  "bbox": [-95.866295,36.083529,-95.866295,36.083529],
-  "geometry": {"coordinates":[-95.866295,36.083529],"type":"Point"}
+  "bbox": [
+    -95.866295,
+    36.083529,
+    -95.866295,
+    36.083529
+],
+  "geometry": {"coordinates":[-95.86629499999999,36.083529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320764101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.88659,35.949439,-95.88659,35.949439",
     "geom:latitude":35.949439,
     "geom:longitude":-95.88659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14602 S Memorial Dr",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320764101,
-    "wof:lastmodified":1449014785,
+    "wof:lastmodified":1466766738,
     "wof:name":"Aaron Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-95.88659,35.949439,-95.88659,35.949439],
+  "bbox": [
+    -95.88659,
+    35.949439,
+    -95.88659,
+    35.949439
+],
   "geometry": {"coordinates":[-95.88659,35.949439],"type":"Point"}
 }

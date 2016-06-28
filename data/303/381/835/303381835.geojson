@@ -2,13 +2,14 @@
   "id": 303381835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.561718,35.517936,-97.561718,35.517936",
     "geom:latitude":35.517936,
     "geom:longitude":-97.561718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4617 N Miller Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303381835,
-    "wof:lastmodified":1448998318,
+    "wof:lastmodified":1466765235,
     "wof:name":"Northwest Guidance Ctr",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-97.561718,35.517936,-97.561718,35.517936],
+  "bbox": [
+    -97.561718,
+    35.517936,
+    -97.561718,
+    35.517936
+],
   "geometry": {"coordinates":[-97.561718,35.517936],"type":"Point"}
 }

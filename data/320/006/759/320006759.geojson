@@ -2,13 +2,14 @@
   "id": 320006759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.4779,35.227117,-97.4779,35.227117",
     "geom:latitude":35.227117,
     "geom:longitude":-97.4779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 24th Ave NW",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320006759,
-    "wof:lastmodified":1449014242,
+    "wof:lastmodified":1466762375,
     "wof:name":"Norman Eye Institute",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.4779,35.227117,-97.4779,35.227117],
-  "geometry": {"coordinates":[-97.4779,35.227117],"type":"Point"}
+  "bbox": [
+    -97.4779,
+    35.227117,
+    -97.4779,
+    35.227117
+],
+  "geometry": {"coordinates":[-97.47790000000001,35.227117],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320030297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.060459,36.126732,-97.060459,36.126732",
     "geom:latitude":36.126732,
     "geom:longitude":-97.060459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 N Husband St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320030297,
-    "wof:lastmodified":1449012650,
+    "wof:lastmodified":1466762735,
     "wof:name":"Stillwater Property Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "rental"
     ]
 },
-  "bbox": [-97.060459,36.126732,-97.060459,36.126732],
-  "geometry": {"coordinates":[-97.060459,36.126732],"type":"Point"}
+  "bbox": [
+    -97.060459,
+    36.126732,
+    -97.060459,
+    36.126732
+],
+  "geometry": {"coordinates":[-97.06045899999999,36.126732],"type":"Point"}
 }

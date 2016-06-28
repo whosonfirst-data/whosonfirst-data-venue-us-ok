@@ -2,13 +2,14 @@
   "id": 320495635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.037286,36.190049,-96.037286,36.190049",
     "geom:latitude":36.190049,
     "geom:longitude":-96.037286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2608 N 41st W Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320495635,
-    "wof:lastmodified":1449012902,
+    "wof:lastmodified":1466766054,
     "wof:name":"Barrett Plumbing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.037286,36.190049,-96.037286,36.190049],
-  "geometry": {"coordinates":[-96.037286,36.190049],"type":"Point"}
+  "bbox": [
+    -96.037286,
+    36.190049,
+    -96.037286,
+    36.190049
+],
+  "geometry": {"coordinates":[-96.03728599999999,36.190049],"type":"Point"}
 }

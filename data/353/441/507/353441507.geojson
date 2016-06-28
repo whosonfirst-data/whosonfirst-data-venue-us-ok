@@ -2,13 +2,14 @@
   "id": 353441507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.815695,36.0278,-95.815695,36.0278",
     "geom:latitude":36.0278,
     "geom:longitude":-95.815695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2205 W Boston St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353441507,
-    "wof:lastmodified":1449018456,
+    "wof:lastmodified":1466762659,
     "wof:name":"ABC",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.815695,36.0278,-95.815695,36.0278],
-  "geometry": {"coordinates":[-95.815695,36.0278],"type":"Point"}
+  "bbox": [
+    -95.815695,
+    36.0278,
+    -95.815695,
+    36.0278
+],
+  "geometry": {"coordinates":[-95.81569500000001,36.0278],"type":"Point"}
 }

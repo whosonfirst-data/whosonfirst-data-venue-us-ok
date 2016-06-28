@@ -2,13 +2,14 @@
   "id": 304000311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.481612,36.680803,-101.481612,36.680803",
     "geom:latitude":36.680803,
     "geom:longitude":-101.481612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N Main St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304000311,
-    "wof:lastmodified":1449043647,
+    "wof:lastmodified":1466762834,
     "wof:name":"Foss Affordable Cars & Trucks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-101.481612,36.680803,-101.481612,36.680803],
+  "bbox": [
+    -101.481612,
+    36.680803,
+    -101.481612,
+    36.680803
+],
   "geometry": {"coordinates":[-101.481612,36.680803],"type":"Point"}
 }

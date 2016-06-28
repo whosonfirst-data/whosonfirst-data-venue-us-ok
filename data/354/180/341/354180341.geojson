@@ -2,13 +2,14 @@
   "id": 354180341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.94043,36.140484,-95.94043,36.140484",
     "geom:latitude":36.140484,
     "geom:longitude":-95.94043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3236 E 15th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354180341,
-    "wof:lastmodified":1449066018,
+    "wof:lastmodified":1466763810,
     "wof:name":"Collins' Quality Printing",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "typesetting"
     ]
 },
-  "bbox": [-95.94043,36.140484,-95.94043,36.140484],
-  "geometry": {"coordinates":[-95.94043,36.140484],"type":"Point"}
+  "bbox": [
+    -95.94043,
+    36.140484,
+    -95.94043,
+    36.140484
+],
+  "geometry": {"coordinates":[-95.94043000000001,36.140484],"type":"Point"}
 }

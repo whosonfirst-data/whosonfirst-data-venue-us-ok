@@ -2,13 +2,14 @@
   "id": 320821147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.63452,35.435153,-97.63452,35.435153",
     "geom:latitude":35.435153,
     "geom:longitude":-97.63452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 SW 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320821147,
-    "wof:lastmodified":1449013299,
+    "wof:lastmodified":1466766882,
     "wof:name":"Stevens Trucking Co",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "hauling"
     ]
 },
-  "bbox": [-97.63452,35.435153,-97.63452,35.435153],
-  "geometry": {"coordinates":[-97.63452,35.435153],"type":"Point"}
+  "bbox": [
+    -97.63452,
+    35.435153,
+    -97.63452,
+    35.435153
+],
+  "geometry": {"coordinates":[-97.63451999999999,35.435153],"type":"Point"}
 }

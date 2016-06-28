@@ -2,13 +2,14 @@
   "id": 319861679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.512653,35.377305,-97.512653,35.377305",
     "geom:latitude":35.377305,
     "geom:longitude":-97.512653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8807 S Santa Fe Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319861679,
-    "wof:lastmodified":1449024878,
+    "wof:lastmodified":1466763281,
     "wof:name":"Lighthouse Home Care Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-97.512653,35.377305,-97.512653,35.377305],
+  "bbox": [
+    -97.512653,
+    35.377305,
+    -97.512653,
+    35.377305
+],
   "geometry": {"coordinates":[-97.512653,35.377305],"type":"Point"}
 }

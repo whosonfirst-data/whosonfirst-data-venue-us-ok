@@ -2,13 +2,14 @@
   "id": 303994901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.404862,34.604703,-98.404862,34.604703",
     "geom:latitude":34.604703,
     "geom:longitude":-98.404862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 SW 11th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303994901,
-    "wof:lastmodified":1448998236,
+    "wof:lastmodified":1466767081,
     "wof:name":"Standley Systems",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-98.404862,34.604703,-98.404862,34.604703],
-  "geometry": {"coordinates":[-98.404862,34.604703],"type":"Point"}
+  "bbox": [
+    -98.404862,
+    34.604703,
+    -98.404862,
+    34.604703
+],
+  "geometry": {"coordinates":[-98.40486199999999,34.604703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319988999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.649096,35.471487,-97.649096,35.471487",
     "geom:latitude":35.471487,
     "geom:longitude":-97.649096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7712 Melrose Ln",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319988999,
-    "wof:lastmodified":1449024339,
+    "wof:lastmodified":1466762530,
     "wof:name":"W R Western Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.649096,35.471487,-97.649096,35.471487],
+  "bbox": [
+    -97.649096,
+    35.471487,
+    -97.649096,
+    35.471487
+],
   "geometry": {"coordinates":[-97.649096,35.471487],"type":"Point"}
 }

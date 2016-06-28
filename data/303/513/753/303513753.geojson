@@ -2,13 +2,14 @@
   "id": 303513753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.714418,35.512111,-97.714418,35.512111",
     "geom:latitude":35.512111,
     "geom:longitude":-97.714418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10801 State Hwy 66",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303513753,
-    "wof:lastmodified":1448999736,
+    "wof:lastmodified":1466765908,
     "wof:name":"Coast To Coast Services",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.714418,35.512111,-97.714418,35.512111],
-  "geometry": {"coordinates":[-97.714418,35.512111],"type":"Point"}
+  "bbox": [
+    -97.714418,
+    35.512111,
+    -97.714418,
+    35.512111
+],
+  "geometry": {"coordinates":[-97.71441799999999,35.512111],"type":"Point"}
 }

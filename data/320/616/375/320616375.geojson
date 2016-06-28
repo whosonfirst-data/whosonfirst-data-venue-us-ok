@@ -2,13 +2,14 @@
   "id": 320616375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.447481,35.709573,-97.447481,35.709573",
     "geom:latitude":35.709573,
     "geom:longitude":-97.447481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Summit Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320616375,
-    "wof:lastmodified":1449013997,
+    "wof:lastmodified":1466766321,
     "wof:name":"Beth Interior",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-97.447481,35.709573,-97.447481,35.709573],
+  "bbox": [
+    -97.447481,
+    35.709573,
+    -97.447481,
+    35.709573
+],
   "geometry": {"coordinates":[-97.447481,35.709573],"type":"Point"}
 }

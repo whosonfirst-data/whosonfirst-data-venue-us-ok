@@ -2,13 +2,14 @@
   "id": 320060899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.095075,35.025867,-99.095075,35.025867",
     "geom:latitude":35.025867,
     "geom:longitude":-99.095075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 W 3rd St",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320060899,
-    "wof:lastmodified":1449014625,
+    "wof:lastmodified":1466763193,
     "wof:name":"Jumpers Custom Saddlery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-99.095075,35.025867,-99.095075,35.025867],
-  "geometry": {"coordinates":[-99.095075,35.025867],"type":"Point"}
+  "bbox": [
+    -99.095075,
+    35.025867,
+    -99.095075,
+    35.025867
+],
+  "geometry": {"coordinates":[-99.09507499999999,35.025867],"type":"Point"}
 }

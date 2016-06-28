@@ -2,13 +2,14 @@
   "id": 320026281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.024248,36.11604,-97.024248,36.11604",
     "geom:latitude":36.11604,
     "geom:longitude":-97.024248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 E 6th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320026281,
-    "wof:lastmodified":1449013462,
+    "wof:lastmodified":1466762675,
     "wof:name":"Audio Innovations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "speaker"
     ]
 },
-  "bbox": [-97.024248,36.11604,-97.024248,36.11604],
+  "bbox": [
+    -97.024248,
+    36.11604,
+    -97.024248,
+    36.11604
+],
   "geometry": {"coordinates":[-97.024248,36.11604],"type":"Point"}
 }

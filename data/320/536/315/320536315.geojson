@@ -2,13 +2,14 @@
   "id": 320536315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.619059,36.31725,-95.619059,36.31725",
     "geom:latitude":36.31725,
     "geom:longitude":-95.619059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 W 6th St",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320536315,
-    "wof:lastmodified":1449013487,
+    "wof:lastmodified":1466766222,
     "wof:name":"Bethel AME",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.619059,36.31725,-95.619059,36.31725],
-  "geometry": {"coordinates":[-95.619059,36.31725],"type":"Point"}
+  "bbox": [
+    -95.619059,
+    36.31725,
+    -95.619059,
+    36.31725
+],
+  "geometry": {"coordinates":[-95.61905899999999,36.31725],"type":"Point"}
 }

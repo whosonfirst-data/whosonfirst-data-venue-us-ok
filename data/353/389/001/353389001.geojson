@@ -2,13 +2,14 @@
   "id": 353389001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.34246,36.187032,-95.34246,36.187032",
     "geom:latitude":36.187032,
     "geom:longitude":-95.34246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Chouteau Ave",
     "sg:city":"Chouteau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353389001,
-    "wof:lastmodified":1449020306,
+    "wof:lastmodified":1466762378,
     "wof:name":"Nettie Ann's Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-95.34246,36.187032,-95.34246,36.187032],
+  "bbox": [
+    -95.34246,
+    36.187032,
+    -95.34246,
+    36.187032
+],
   "geometry": {"coordinates":[-95.34246,36.187032],"type":"Point"}
 }

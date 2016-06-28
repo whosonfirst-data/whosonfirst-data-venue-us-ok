@@ -2,13 +2,14 @@
   "id": 304012907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.440126,35.726349,-97.440126,35.726349",
     "geom:latitude":35.726349,
     "geom:longitude":-97.440126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3142 Waterloo Cir",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304012907,
-    "wof:lastmodified":1449044102,
+    "wof:lastmodified":1466762889,
     "wof:name":"Edmond Seamless Gutter",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gutter"
     ]
 },
-  "bbox": [-97.440126,35.726349,-97.440126,35.726349],
-  "geometry": {"coordinates":[-97.440126,35.726349],"type":"Point"}
+  "bbox": [
+    -97.440126,
+    35.726349,
+    -97.440126,
+    35.726349
+],
+  "geometry": {"coordinates":[-97.44012600000001,35.726349],"type":"Point"}
 }

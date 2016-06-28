@@ -2,13 +2,14 @@
   "id": 320005225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.445242,36.52857,-97.445242,36.52857",
     "geom:latitude":36.52857,
     "geom:longitude":-97.445242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 S Broadway St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320005225,
-    "wof:lastmodified":1449014660,
+    "wof:lastmodified":1466762351,
     "wof:name":"City Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-97.445242,36.52857,-97.445242,36.52857],
-  "geometry": {"coordinates":[-97.445242,36.52857],"type":"Point"}
+  "bbox": [
+    -97.445242,
+    36.52857,
+    -97.445242,
+    36.52857
+],
+  "geometry": {"coordinates":[-97.44524199999999,36.52857],"type":"Point"}
 }

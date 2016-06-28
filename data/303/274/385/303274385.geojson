@@ -2,13 +2,14 @@
   "id": 303274385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.895175,36.42715,-97.895175,36.42715",
     "geom:latitude":36.42715,
     "geom:longitude":-97.895175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 W Oxford Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303274385,
-    "wof:lastmodified":1448998417,
+    "wof:lastmodified":1466764941,
     "wof:name":"Grace Bible Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.895175,36.42715,-97.895175,36.42715],
-  "geometry": {"coordinates":[-97.895175,36.42715],"type":"Point"}
+  "bbox": [
+    -97.895175,
+    36.42715,
+    -97.895175,
+    36.42715
+],
+  "geometry": {"coordinates":[-97.89517499999999,36.42715],"type":"Point"}
 }

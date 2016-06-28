@@ -2,13 +2,14 @@
   "id": 220180557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.957772,36.159836,-95.957772,36.159836",
     "geom:latitude":36.159836,
     "geom:longitude":-95.957772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2419 E Admiral Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":220180557,
-    "wof:lastmodified":1449074089,
+    "wof:lastmodified":1466762361,
     "wof:name":"Contempory Christian Center",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "denomination"
     ]
 },
-  "bbox": [-95.957772,36.159836,-95.957772,36.159836],
-  "geometry": {"coordinates":[-95.957772,36.159836],"type":"Point"}
+  "bbox": [
+    -95.957772,
+    36.159836,
+    -95.957772,
+    36.159836
+],
+  "geometry": {"coordinates":[-95.95777200000001,36.159836],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320077549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507439,35.381387,-97.507439,35.381387",
     "geom:latitude":35.381387,
     "geom:longitude":-97.507439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8416 Bellmon Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320077549,
-    "wof:lastmodified":1449011849,
+    "wof:lastmodified":1466763440,
     "wof:name":"Agui Trucking Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.507439,35.381387,-97.507439,35.381387],
-  "geometry": {"coordinates":[-97.507439,35.381387],"type":"Point"}
+  "bbox": [
+    -97.507439,
+    35.381387,
+    -97.507439,
+    35.381387
+],
+  "geometry": {"coordinates":[-97.50743900000001,35.381387],"type":"Point"}
 }

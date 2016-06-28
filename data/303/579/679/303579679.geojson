@@ -2,13 +2,14 @@
   "id": 303579679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.527018,35.472231,-97.527018,35.472231",
     "geom:latitude":35.472231,
     "geom:longitude":-97.527018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 NW 4th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303579679,
-    "wof:lastmodified":1448998895,
+    "wof:lastmodified":1466766145,
     "wof:name":"Angela Smith Attorney At Law",
     "wof:parent_id":85871701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.527018,35.472231,-97.527018,35.472231],
+  "bbox": [
+    -97.527018,
+    35.472231,
+    -97.527018,
+    35.472231
+],
   "geometry": {"coordinates":[-97.527018,35.472231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303338735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.868306,35.711073,-96.868306,35.711073",
     "geom:latitude":35.711073,
     "geom:longitude":-96.868306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Annakay Dr",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303338735,
-    "wof:lastmodified":1448998964,
+    "wof:lastmodified":1466765120,
     "wof:name":"Imperial Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.868306,35.711073,-96.868306,35.711073],
+  "bbox": [
+    -96.868306,
+    35.711073,
+    -96.868306,
+    35.711073
+],
   "geometry": {"coordinates":[-96.868306,35.711073],"type":"Point"}
 }

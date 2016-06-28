@@ -2,13 +2,14 @@
   "id": 353673795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.743107,34.92751,-95.743107,34.92751",
     "geom:latitude":34.92751,
     "geom:longitude":-95.743107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1734 E Carl Albert Pkwy",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353673795,
-    "wof:lastmodified":1449019255,
+    "wof:lastmodified":1466764663,
     "wof:name":"Stage",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.743107,34.92751,-95.743107,34.92751],
-  "geometry": {"coordinates":[-95.743107,34.92751],"type":"Point"}
+  "bbox": [
+    -95.743107,
+    34.92751,
+    -95.743107,
+    34.92751
+],
+  "geometry": {"coordinates":[-95.74310699999999,34.92751],"type":"Point"}
 }

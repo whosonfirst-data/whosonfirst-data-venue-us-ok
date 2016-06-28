@@ -2,13 +2,14 @@
   "id": 336885537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.945422,36.052525,-95.945422,36.052525",
     "geom:latitude":36.052525,
     "geom:longitude":-95.945422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2964 E 76th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336885537,
-    "wof:lastmodified":1448997524,
+    "wof:lastmodified":1466765146,
     "wof:name":"B A Burditt",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-95.945422,36.052525,-95.945422,36.052525],
-  "geometry": {"coordinates":[-95.945422,36.052525],"type":"Point"}
+  "bbox": [
+    -95.945422,
+    36.052525,
+    -95.945422,
+    36.052525
+],
+  "geometry": {"coordinates":[-95.94542199999999,36.052525],"type":"Point"}
 }

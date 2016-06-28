@@ -2,13 +2,14 @@
   "id": 303887191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.826704,33.893191,-94.826704,33.893191",
     "geom:latitude":33.893191,
     "geom:longitude":-94.826704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Central Ave",
     "sg:city":"Idabel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303887191,
-    "wof:lastmodified":1449000083,
+    "wof:lastmodified":1466766932,
     "wof:name":"Southeast Times",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-94.826704,33.893191,-94.826704,33.893191],
-  "geometry": {"coordinates":[-94.826704,33.893191],"type":"Point"}
+  "bbox": [
+    -94.826704,
+    33.893191,
+    -94.826704,
+    33.893191
+],
+  "geometry": {"coordinates":[-94.82670400000001,33.893191],"type":"Point"}
 }

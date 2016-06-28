@@ -2,13 +2,14 @@
   "id": 303132665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.754741,35.395843,-97.754741,35.395843",
     "geom:latitude":35.395843,
     "geom:longitude":-97.754741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1336 Whippoorwill Way",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303132665,
-    "wof:lastmodified":1448999314,
+    "wof:lastmodified":1466763764,
     "wof:name":"Dennis Burt Photo",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-97.754741,35.395843,-97.754741,35.395843],
+  "bbox": [
+    -97.754741,
+    35.395843,
+    -97.754741,
+    35.395843
+],
   "geometry": {"coordinates":[-97.754741,35.395843],"type":"Point"}
 }

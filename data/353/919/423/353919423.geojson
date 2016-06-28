@@ -2,13 +2,14 @@
   "id": 353919423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.637245,35.297903,-99.637245,35.297903",
     "geom:latitude":35.297903,
     "geom:longitude":-99.637245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N 3rd St",
     "sg:city":"Sayre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353919423,
-    "wof:lastmodified":1449020183,
+    "wof:lastmodified":1466765804,
     "wof:name":"Don Gulledge Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-99.637245,35.297903,-99.637245,35.297903],
-  "geometry": {"coordinates":[-99.637245,35.297903],"type":"Point"}
+  "bbox": [
+    -99.637245,
+    35.297903,
+    -99.637245,
+    35.297903
+],
+  "geometry": {"coordinates":[-99.63724499999999,35.297903],"type":"Point"}
 }

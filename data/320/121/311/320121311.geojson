@@ -2,13 +2,14 @@
   "id": 320121311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750359,35.507936,-97.750359,35.507936",
     "geom:latitude":35.507936,
     "geom:longitude":-97.750359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 W Main St",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320121311,
-    "wof:lastmodified":1449014145,
+    "wof:lastmodified":1466764111,
     "wof:name":"The Arrangement",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-97.750359,35.507936,-97.750359,35.507936],
+  "bbox": [
+    -97.750359,
+    35.507936,
+    -97.750359,
+    35.507936
+],
   "geometry": {"coordinates":[-97.750359,35.507936],"type":"Point"}
 }

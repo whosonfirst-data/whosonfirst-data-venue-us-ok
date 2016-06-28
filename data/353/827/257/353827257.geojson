@@ -2,13 +2,14 @@
   "id": 353827257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530215,35.409161,-97.530215,35.409161",
     "geom:latitude":35.409161,
     "geom:longitude":-97.530215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5512 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353827257,
-    "wof:lastmodified":1449019168,
+    "wof:lastmodified":1466765443,
     "wof:name":"Southwstern Convalescent Manor",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-97.530215,35.409161,-97.530215,35.409161],
+  "bbox": [
+    -97.530215,
+    35.409161,
+    -97.530215,
+    35.409161
+],
   "geometry": {"coordinates":[-97.530215,35.409161],"type":"Point"}
 }

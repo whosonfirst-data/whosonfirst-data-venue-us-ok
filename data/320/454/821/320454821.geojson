@@ -2,13 +2,14 @@
   "id": 320454821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.084409,36.060296,-95.084409,36.060296",
     "geom:latitude":36.060296,
     "geom:longitude":-95.084409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11324 W 660 Rd",
     "sg:city":"Hulbert",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320454821,
-    "wof:lastmodified":1449014611,
+    "wof:lastmodified":1466765961,
     "wof:name":"Draperies By Sarah",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.084409,36.060296,-95.084409,36.060296],
-  "geometry": {"coordinates":[-95.084409,36.060296],"type":"Point"}
+  "bbox": [
+    -95.084409,
+    36.060296,
+    -95.084409,
+    36.060296
+],
+  "geometry": {"coordinates":[-95.08440899999999,36.060296],"type":"Point"}
 }

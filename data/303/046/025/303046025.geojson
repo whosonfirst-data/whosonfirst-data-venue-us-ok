@@ -2,13 +2,14 @@
   "id": 303046025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.543198,35.471038,-97.543198,35.471038",
     "geom:latitude":35.471038,
     "geom:longitude":-97.543198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 NW 3rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303046025,
-    "wof:lastmodified":1448999477,
+    "wof:lastmodified":1466762356,
     "wof:name":"Printers Bindery Inc",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "binding"
     ]
 },
-  "bbox": [-97.543198,35.471038,-97.543198,35.471038],
+  "bbox": [
+    -97.543198,
+    35.471038,
+    -97.543198,
+    35.471038
+],
   "geometry": {"coordinates":[-97.543198,35.471038],"type":"Point"}
 }

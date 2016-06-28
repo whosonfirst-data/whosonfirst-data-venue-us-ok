@@ -2,13 +2,14 @@
   "id": 303463087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.60398,34.886505,-94.60398,34.886505",
     "geom:latitude":34.886505,
     "geom:longitude":-94.60398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 US Hwy 59 Scn",
     "sg:city":"Heavener",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303463087,
-    "wof:lastmodified":1448999816,
+    "wof:lastmodified":1466765703,
     "wof:name":"Southern Belle Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-94.60398,34.886505,-94.60398,34.886505],
-  "geometry": {"coordinates":[-94.60398,34.886505],"type":"Point"}
+  "bbox": [
+    -94.60398,
+    34.886505,
+    -94.60398,
+    34.886505
+],
+  "geometry": {"coordinates":[-94.60398000000001,34.886505],"type":"Point"}
 }

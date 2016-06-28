@@ -2,13 +2,14 @@
   "id": 303606083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.706625,36.470604,-95.706625,36.470604",
     "geom:latitude":36.470604,
     "geom:longitude":-95.706625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9740 S 4100 Rd",
     "sg:city":"Oologah",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303606083,
-    "wof:lastmodified":1448998498,
+    "wof:lastmodified":1466766119,
     "wof:name":"Tomco Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.706625,36.470604,-95.706625,36.470604],
+  "bbox": [
+    -95.706625,
+    36.470604,
+    -95.706625,
+    36.470604
+],
   "geometry": {"coordinates":[-95.706625,36.470604],"type":"Point"}
 }

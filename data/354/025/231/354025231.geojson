@@ -2,13 +2,14 @@
   "id": 354025231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.730118,35.494518,-97.730118,35.494518",
     "geom:latitude":35.494518,
     "geom:longitude":-97.730118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1175 S Ranchwood Blvd",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354025231,
-    "wof:lastmodified":1449067374,
+    "wof:lastmodified":1466763100,
     "wof:name":"Red Rock Behavioral Health Svc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-97.730118,35.494518,-97.730118,35.494518],
+  "bbox": [
+    -97.730118,
+    35.494518,
+    -97.730118,
+    35.494518
+],
   "geometry": {"coordinates":[-97.730118,35.494518],"type":"Point"}
 }

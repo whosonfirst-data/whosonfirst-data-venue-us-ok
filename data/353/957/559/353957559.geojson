@@ -2,13 +2,14 @@
   "id": 353957559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.01561,36.088642,-96.01561,36.088642",
     "geom:latitude":36.088642,
     "geom:longitude":-96.01561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 W Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353957559,
-    "wof:lastmodified":1449020438,
+    "wof:lastmodified":1466765858,
     "wof:name":"Tulsa Auto Factory",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-96.01561,36.088642,-96.01561,36.088642],
+  "bbox": [
+    -96.01561,
+    36.088642,
+    -96.01561,
+    36.088642
+],
   "geometry": {"coordinates":[-96.01561,36.088642],"type":"Point"}
 }

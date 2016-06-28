@@ -2,13 +2,14 @@
   "id": 220192417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.839104,36.153702,-95.839104,36.153702",
     "geom:latitude":36.153702,
     "geom:longitude":-95.839104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12358 E Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220192417,
-    "wof:lastmodified":1449074619,
+    "wof:lastmodified":1466762424,
     "wof:name":"Central Electric of Tulsa",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-95.839104,36.153702,-95.839104,36.153702],
-  "geometry": {"coordinates":[-95.839104,36.153702],"type":"Point"}
+  "bbox": [
+    -95.839104,
+    36.153702,
+    -95.839104,
+    36.153702
+],
+  "geometry": {"coordinates":[-95.83910400000001,36.153702],"type":"Point"}
 }

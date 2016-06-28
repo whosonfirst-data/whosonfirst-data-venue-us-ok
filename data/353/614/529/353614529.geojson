@@ -2,13 +2,14 @@
   "id": 353614529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976512,35.616407,-95.976512,35.616407",
     "geom:latitude":35.616407,
     "geom:longitude":-95.976512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 S Alabama Ave",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353614529,
-    "wof:lastmodified":1449020886,
+    "wof:lastmodified":1466764355,
     "wof:name":"American Legion Aux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.976512,35.616407,-95.976512,35.616407],
+  "bbox": [
+    -95.976512,
+    35.616407,
+    -95.976512,
+    35.616407
+],
   "geometry": {"coordinates":[-95.976512,35.616407],"type":"Point"}
 }

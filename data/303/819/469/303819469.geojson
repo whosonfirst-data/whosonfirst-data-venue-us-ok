@@ -2,13 +2,14 @@
   "id": 303819469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.601907,34.890335,-94.601907,34.890335",
     "geom:latitude":34.890335,
     "geom:longitude":-94.601907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Main St",
     "sg:city":"Heavener",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303819469,
-    "wof:lastmodified":1448998695,
+    "wof:lastmodified":1466766761,
     "wof:name":"Heavener Pawn & Gun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-94.601907,34.890335,-94.601907,34.890335],
+  "bbox": [
+    -94.601907,
+    34.890335,
+    -94.601907,
+    34.890335
+],
   "geometry": {"coordinates":[-94.601907,34.890335],"type":"Point"}
 }

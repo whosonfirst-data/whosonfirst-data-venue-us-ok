@@ -2,13 +2,14 @@
   "id": 320509349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.080059,36.143173,-96.080059,36.143173",
     "geom:latitude":36.143173,
     "geom:longitude":-96.080059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7902 Charles Page Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320509349,
-    "wof:lastmodified":1449011414,
+    "wof:lastmodified":1466766077,
     "wof:name":"Bargain Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.080059,36.143173,-96.080059,36.143173],
-  "geometry": {"coordinates":[-96.080059,36.143173],"type":"Point"}
+  "bbox": [
+    -96.080059,
+    36.143173,
+    -96.080059,
+    36.143173
+],
+  "geometry": {"coordinates":[-96.08005900000001,36.143173],"type":"Point"}
 }

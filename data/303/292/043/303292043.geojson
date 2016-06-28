@@ -2,13 +2,14 @@
   "id": 303292043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.879066,36.585513,-98.879066,36.585513",
     "geom:latitude":36.585513,
     "geom:longitude":-98.879066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Cecil St",
     "sg:city":"Waynoka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303292043,
-    "wof:lastmodified":1448998323,
+    "wof:lastmodified":1466764914,
     "wof:name":"Utility Authorization",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "city"
     ]
 },
-  "bbox": [-98.879066,36.585513,-98.879066,36.585513],
-  "geometry": {"coordinates":[-98.879066,36.585513],"type":"Point"}
+  "bbox": [
+    -98.879066,
+    36.585513,
+    -98.879066,
+    36.585513
+],
+  "geometry": {"coordinates":[-98.87906599999999,36.585513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353719331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.887655,35.969933,-95.887655,35.969933",
     "geom:latitude":35.969933,
     "geom:longitude":-95.887655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7910 E 134th St S",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353719331,
-    "wof:lastmodified":1449018582,
+    "wof:lastmodified":1466765065,
     "wof:name":"Brown Child Development Center",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "youth"
     ]
 },
-  "bbox": [-95.887655,35.969933,-95.887655,35.969933],
+  "bbox": [
+    -95.887655,
+    35.969933,
+    -95.887655,
+    35.969933
+],
   "geometry": {"coordinates":[-95.887655,35.969933],"type":"Point"}
 }

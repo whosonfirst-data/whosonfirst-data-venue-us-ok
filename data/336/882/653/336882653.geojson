@@ -2,13 +2,14 @@
   "id": 336882653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.855098,35.608627,-95.855098,35.608627",
     "geom:latitude":35.608627,
     "geom:longitude":-95.855098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 S 6th St",
     "sg:city":"Morris",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336882653,
-    "wof:lastmodified":1448997132,
+    "wof:lastmodified":1466765234,
     "wof:name":"Kces",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.855098,35.608627,-95.855098,35.608627],
+  "bbox": [
+    -95.855098,
+    35.608627,
+    -95.855098,
+    35.608627
+],
   "geometry": {"coordinates":[-95.855098,35.608627],"type":"Point"}
 }

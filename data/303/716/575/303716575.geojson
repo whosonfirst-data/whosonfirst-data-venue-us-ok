@@ -2,13 +2,14 @@
   "id": 303716575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.509252,35.377295,-97.509252,35.377295",
     "geom:latitude":35.377295,
     "geom:longitude":-97.509252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 SE 89th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303716575,
-    "wof:lastmodified":1448998464,
+    "wof:lastmodified":1466766509,
     "wof:name":"Windchester Run Apartments",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.509252,35.377295,-97.509252,35.377295],
+  "bbox": [
+    -97.509252,
+    35.377295,
+    -97.509252,
+    35.377295
+],
   "geometry": {"coordinates":[-97.509252,35.377295],"type":"Point"}
 }

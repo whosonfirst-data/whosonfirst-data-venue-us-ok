@@ -2,13 +2,14 @@
   "id": 320844801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.483722,35.406272,-97.483722,35.406272",
     "geom:latitude":35.406272,
     "geom:longitude":-97.483722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6021 Camille Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320844801,
-    "wof:lastmodified":1449012852,
+    "wof:lastmodified":1466767008,
     "wof:name":"Century Pick-Up Parts",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "us"
     ]
 },
-  "bbox": [-97.483722,35.406272,-97.483722,35.406272],
+  "bbox": [
+    -97.483722,
+    35.406272,
+    -97.483722,
+    35.406272
+],
   "geometry": {"coordinates":[-97.483722,35.406272],"type":"Point"}
 }

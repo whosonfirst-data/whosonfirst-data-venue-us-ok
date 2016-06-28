@@ -2,13 +2,14 @@
   "id": 303512849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.99102,36.734522,-95.99102,36.734522",
     "geom:latitude":36.734522,
     "geom:longitude":-95.99102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1586 S Rogers Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303512849,
-    "wof:lastmodified":1448999896,
+    "wof:lastmodified":1466765901,
     "wof:name":"Fugett Welding Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-95.99102,36.734522,-95.99102,36.734522],
-  "geometry": {"coordinates":[-95.99102,36.734522],"type":"Point"}
+  "bbox": [
+    -95.99102,
+    36.734522,
+    -95.99102,
+    36.734522
+],
+  "geometry": {"coordinates":[-95.99102000000001,36.734522],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303245123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.323002,35.740507,-95.323002,35.740507",
     "geom:latitude":35.740507,
     "geom:longitude":-95.323002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3413 Chandler Rd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303245123,
-    "wof:lastmodified":1449000485,
+    "wof:lastmodified":1466764595,
     "wof:name":"American General Finance Corp",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-95.323002,35.740507,-95.323002,35.740507],
+  "bbox": [
+    -95.323002,
+    35.740507,
+    -95.323002,
+    35.740507
+],
   "geometry": {"coordinates":[-95.323002,35.740507],"type":"Point"}
 }

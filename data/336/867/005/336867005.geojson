@@ -2,13 +2,14 @@
   "id": 336867005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886278,36.047785,-95.886278,36.047785",
     "geom:latitude":36.047785,
     "geom:longitude":-95.886278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8068 S Memorial Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336867005,
-    "wof:lastmodified":1448997417,
+    "wof:lastmodified":1466764912,
     "wof:name":"LA Mode Cleaners",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-95.886278,36.047785,-95.886278,36.047785],
+  "bbox": [
+    -95.886278,
+    36.047785,
+    -95.886278,
+    36.047785
+],
   "geometry": {"coordinates":[-95.886278,36.047785],"type":"Point"}
 }

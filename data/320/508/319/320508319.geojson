@@ -2,13 +2,14 @@
   "id": 320508319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.969433,36.161815,-95.969433,36.161815",
     "geom:latitude":36.161815,
     "geom:longitude":-95.969433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 N Trenton Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320508319,
-    "wof:lastmodified":1449013352,
+    "wof:lastmodified":1466766174,
     "wof:name":"Tulsa Brokerage Co",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-95.969433,36.161815,-95.969433,36.161815],
+  "bbox": [
+    -95.969433,
+    36.161815,
+    -95.969433,
+    36.161815
+],
   "geometry": {"coordinates":[-95.969433,36.161815],"type":"Point"}
 }

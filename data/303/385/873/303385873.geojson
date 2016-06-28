@@ -2,13 +2,14 @@
   "id": 303385873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.948593,36.06613,-95.948593,36.06613",
     "geom:latitude":36.06613,
     "geom:longitude":-95.948593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6633 Timberlane Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303385873,
-    "wof:lastmodified":1448999571,
+    "wof:lastmodified":1466765364,
     "wof:name":"Donald Weinkauf",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-95.948593,36.06613,-95.948593,36.06613],
+  "bbox": [
+    -95.948593,
+    36.06613,
+    -95.948593,
+    36.06613
+],
   "geometry": {"coordinates":[-95.948593,36.06613],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287207861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.880609,35.699202,-96.880609,35.699202",
     "geom:latitude":35.699202,
     "geom:longitude":-96.880609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Manvel Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":287207861,
-    "wof:lastmodified":1449001304,
+    "wof:lastmodified":1466764042,
     "wof:name":"Sullivan's Tire Sales & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "tire"
     ]
 },
-  "bbox": [-96.880609,35.699202,-96.880609,35.699202],
-  "geometry": {"coordinates":[-96.880609,35.699202],"type":"Point"}
+  "bbox": [
+    -96.880609,
+    35.699202,
+    -96.880609,
+    35.699202
+],
+  "geometry": {"coordinates":[-96.88060900000001,35.699202],"type":"Point"}
 }

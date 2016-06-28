@@ -2,13 +2,14 @@
   "id": 303118343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.155896,34.645054,-97.155896,34.645054",
     "geom:latitude":34.645054,
     "geom:longitude":-97.155896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 E Robert S Kerr Blvd",
     "sg:city":"Wynnewood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303118343,
-    "wof:lastmodified":1449000097,
+    "wof:lastmodified":1466764208,
     "wof:name":"Winnewood Package Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.155896,34.645054,-97.155896,34.645054],
+  "bbox": [
+    -97.155896,
+    34.645054,
+    -97.155896,
+    34.645054
+],
   "geometry": {"coordinates":[-97.155896,34.645054],"type":"Point"}
 }

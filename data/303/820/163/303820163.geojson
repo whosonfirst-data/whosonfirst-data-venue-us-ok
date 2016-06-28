@@ -2,13 +2,14 @@
   "id": 303820163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.744718,36.101465,-96.744718,36.101465",
     "geom:latitude":36.101465,
     "geom:longitude":-96.744718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21619 E 19th St",
     "sg:city":"Yale",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303820163,
-    "wof:lastmodified":1448999385,
+    "wof:lastmodified":1466766828,
     "wof:name":"Country Gardens Farm Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.744718,36.101465,-96.744718,36.101465],
-  "geometry": {"coordinates":[-96.744718,36.101465],"type":"Point"}
+  "bbox": [
+    -96.744718,
+    36.101465,
+    -96.744718,
+    36.101465
+],
+  "geometry": {"coordinates":[-96.74471800000001,36.101465],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220164769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.841361,36.290563,-95.841361,36.290563",
     "geom:latitude":36.290563,
     "geom:longitude":-95.841361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9046 N 121st East Ave",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":220164769,
-    "wof:lastmodified":1449074126,
+    "wof:lastmodified":1466762306,
     "wof:name":"U.S. Cellular",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "cellular"
     ]
 },
-  "bbox": [-95.841361,36.290563,-95.841361,36.290563],
-  "geometry": {"coordinates":[-95.841361,36.290563],"type":"Point"}
+  "bbox": [
+    -95.841361,
+    36.290563,
+    -95.841361,
+    36.290563
+],
+  "geometry": {"coordinates":[-95.84136100000001,36.290563],"type":"Point"}
 }

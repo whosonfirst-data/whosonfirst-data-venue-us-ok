@@ -2,13 +2,14 @@
   "id": 303421953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.15206,36.104754,-96.15206,36.104754",
     "geom:latitude":36.104754,
     "geom:longitude":-96.15206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14111 W 41st St",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303421953,
-    "wof:lastmodified":1448999671,
+    "wof:lastmodified":1466765434,
     "wof:name":"All Safe Mini Storage",
     "wof:parent_id":85843055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-96.15206,36.104754,-96.15206,36.104754],
-  "geometry": {"coordinates":[-96.15206,36.104754],"type":"Point"}
+  "bbox": [
+    -96.15206,
+    36.104754,
+    -96.15206,
+    36.104754
+],
+  "geometry": {"coordinates":[-96.15206000000001,36.104754],"type":"Point"}
 }

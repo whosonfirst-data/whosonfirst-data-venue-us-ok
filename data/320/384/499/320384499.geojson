@@ -2,13 +2,14 @@
   "id": 320384499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.459341,35.396596,-97.459341,35.396596",
     "geom:latitude":35.396596,
     "geom:longitude":-97.459341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7000 S Bryant Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320384499,
-    "wof:lastmodified":1449011714,
+    "wof:lastmodified":1466765502,
     "wof:name":"Precision Metal Forming Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rack"
     ]
 },
-  "bbox": [-97.459341,35.396596,-97.459341,35.396596],
-  "geometry": {"coordinates":[-97.459341,35.396596],"type":"Point"}
+  "bbox": [
+    -97.459341,
+    35.396596,
+    -97.459341,
+    35.396596
+],
+  "geometry": {"coordinates":[-97.45934099999999,35.396596],"type":"Point"}
 }

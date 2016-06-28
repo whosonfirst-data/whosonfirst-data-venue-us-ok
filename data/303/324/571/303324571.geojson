@@ -2,13 +2,14 @@
   "id": 303324571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.31439,36.307416,-95.31439,36.307416",
     "geom:latitude":36.307416,
     "geom:longitude":-95.31439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 N Rowe St",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303324571,
-    "wof:lastmodified":1448999550,
+    "wof:lastmodified":1466765044,
     "wof:name":"Water Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "swimming"
     ]
 },
-  "bbox": [-95.31439,36.307416,-95.31439,36.307416],
+  "bbox": [
+    -95.31439,
+    36.307416,
+    -95.31439,
+    36.307416
+],
   "geometry": {"coordinates":[-95.31439,36.307416],"type":"Point"}
 }

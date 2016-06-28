@@ -2,13 +2,14 @@
   "id": 303737455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.480904,34.608984,-98.480904,34.608984",
     "geom:latitude":34.608984,
     "geom:longitude":-98.480904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7205 W Gore Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303737455,
-    "wof:lastmodified":1448998663,
+    "wof:lastmodified":1466766567,
     "wof:name":"Pregnancy Resource Ctr",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-98.480904,34.608984,-98.480904,34.608984],
+  "bbox": [
+    -98.480904,
+    34.608984,
+    -98.480904,
+    34.608984
+],
   "geometry": {"coordinates":[-98.480904,34.608984],"type":"Point"}
 }

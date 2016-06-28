@@ -2,13 +2,14 @@
   "id": 303797929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.95216,36.140615,-95.95216,36.140615",
     "geom:latitude":36.140615,
     "geom:longitude":-95.95216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2629 E 15th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303797929,
-    "wof:lastmodified":1449000326,
+    "wof:lastmodified":1466766728,
     "wof:name":"Oz Land",
     "wof:parent_id":85872495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "greeting"
     ]
 },
-  "bbox": [-95.95216,36.140615,-95.95216,36.140615],
-  "geometry": {"coordinates":[-95.95216,36.140615],"type":"Point"}
+  "bbox": [
+    -95.95216,
+    36.140615,
+    -95.95216,
+    36.140615
+],
+  "geometry": {"coordinates":[-95.95216000000001,36.140615],"type":"Point"}
 }

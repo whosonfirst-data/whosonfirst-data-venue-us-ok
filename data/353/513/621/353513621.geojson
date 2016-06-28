@@ -2,13 +2,14 @@
   "id": 353513621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.390965,35.837627,-96.390965,35.837627",
     "geom:latitude":35.837627,
     "geom:longitude":-96.390965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 N Main St",
     "sg:city":"Bristow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353513621,
-    "wof:lastmodified":1449019932,
+    "wof:lastmodified":1466763329,
     "wof:name":"Hillcrest Medical Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.390965,35.837627,-96.390965,35.837627],
-  "geometry": {"coordinates":[-96.390965,35.837627],"type":"Point"}
+  "bbox": [
+    -96.390965,
+    35.837627,
+    -96.390965,
+    35.837627
+],
+  "geometry": {"coordinates":[-96.39096499999999,35.837627],"type":"Point"}
 }

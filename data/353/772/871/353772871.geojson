@@ -2,13 +2,14 @@
   "id": 353772871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.048616,36.727312,-97.048616,36.727312",
     "geom:latitude":36.727312,
     "geom:longitude":-97.048616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2608 Mockingbird Dr",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353772871,
-    "wof:lastmodified":1449019403,
+    "wof:lastmodified":1466765212,
     "wof:name":"American Chemical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.048616,36.727312,-97.048616,36.727312],
+  "bbox": [
+    -97.048616,
+    36.727312,
+    -97.048616,
+    36.727312
+],
   "geometry": {"coordinates":[-97.048616,36.727312],"type":"Point"}
 }

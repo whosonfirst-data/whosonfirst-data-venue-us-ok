@@ -2,13 +2,14 @@
   "id": 320412821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.98763,36.154956,-95.98763,36.154956",
     "geom:latitude":36.154956,
     "geom:longitude":-95.98763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 S Detroit Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320412821,
-    "wof:lastmodified":1449012021,
+    "wof:lastmodified":1466765767,
     "wof:name":"Ellsworth Motor Freight Lines",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.98763,36.154956,-95.98763,36.154956],
+  "bbox": [
+    -95.98763,
+    36.154956,
+    -95.98763,
+    36.154956
+],
   "geometry": {"coordinates":[-95.98763,36.154956],"type":"Point"}
 }

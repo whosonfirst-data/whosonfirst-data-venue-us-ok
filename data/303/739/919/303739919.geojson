@@ -2,13 +2,14 @@
   "id": 303739919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.967126,34.501622,-97.967126,34.501622",
     "geom:latitude":34.501622,
     "geom:longitude":-97.967126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S 15th St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303739919,
-    "wof:lastmodified":1448999152,
+    "wof:lastmodified":1466766461,
     "wof:name":"Hamilton Appraisal Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-97.967126,34.501622,-97.967126,34.501622],
-  "geometry": {"coordinates":[-97.967126,34.501622],"type":"Point"}
+  "bbox": [
+    -97.967126,
+    34.501622,
+    -97.967126,
+    34.501622
+],
+  "geometry": {"coordinates":[-97.96712599999999,34.501622],"type":"Point"}
 }

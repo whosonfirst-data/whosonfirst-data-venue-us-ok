@@ -2,13 +2,14 @@
   "id": 303543817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.24746,35.161642,-97.24746,35.161642",
     "geom:latitude":35.161642,
     "geom:longitude":-97.24746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4713 132nd Ave SE",
     "sg:city":"Noble",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303543817,
-    "wof:lastmodified":1448998592,
+    "wof:lastmodified":1466766032,
     "wof:name":"Metro Audits",
     "wof:parent_id":85830865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audit"
     ]
 },
-  "bbox": [-97.24746,35.161642,-97.24746,35.161642],
+  "bbox": [
+    -97.24746,
+    35.161642,
+    -97.24746,
+    35.161642
+],
   "geometry": {"coordinates":[-97.24746,35.161642],"type":"Point"}
 }

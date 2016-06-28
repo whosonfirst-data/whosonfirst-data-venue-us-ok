@@ -2,13 +2,14 @@
   "id": 303040315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.457943,35.632381,-97.457943,35.632381",
     "geom:latitude":35.632381,
     "geom:longitude":-97.457943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2029 Bent Twig Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303040315,
-    "wof:lastmodified":1449000497,
+    "wof:lastmodified":1466764169,
     "wof:name":"Goodman Energy LLC",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "system"
     ]
 },
-  "bbox": [-97.457943,35.632381,-97.457943,35.632381],
+  "bbox": [
+    -97.457943,
+    35.632381,
+    -97.457943,
+    35.632381
+],
   "geometry": {"coordinates":[-97.457943,35.632381],"type":"Point"}
 }

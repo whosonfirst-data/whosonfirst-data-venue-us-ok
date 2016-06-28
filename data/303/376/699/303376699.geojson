@@ -2,13 +2,14 @@
   "id": 303376699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.010812,36.365609,-96.010812,36.365609",
     "geom:latitude":36.365609,
     "geom:longitude":-96.010812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W 5th St",
     "sg:city":"Skiatook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303376699,
-    "wof:lastmodified":1448998951,
+    "wof:lastmodified":1466765431,
     "wof:name":"Advanced Flood Restoration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "damage"
     ]
 },
-  "bbox": [-96.010812,36.365609,-96.010812,36.365609],
+  "bbox": [
+    -96.010812,
+    36.365609,
+    -96.010812,
+    36.365609
+],
   "geometry": {"coordinates":[-96.010812,36.365609],"type":"Point"}
 }

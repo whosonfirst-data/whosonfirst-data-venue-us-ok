@@ -2,13 +2,14 @@
   "id": 303643079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.424253,35.068565,-97.424253,35.068565",
     "geom:latitude":35.068565,
     "geom:longitude":-97.424253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24993 State Hwy 74",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303643079,
-    "wof:lastmodified":1449000241,
+    "wof:lastmodified":1466766335,
     "wof:name":"Thomas Seed Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "seed"
     ]
 },
-  "bbox": [-97.424253,35.068565,-97.424253,35.068565],
-  "geometry": {"coordinates":[-97.424253,35.068565],"type":"Point"}
+  "bbox": [
+    -97.424253,
+    35.068565,
+    -97.424253,
+    35.068565
+],
+  "geometry": {"coordinates":[-97.42425299999999,35.068565],"type":"Point"}
 }

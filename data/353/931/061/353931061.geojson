@@ -2,13 +2,14 @@
   "id": 353931061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760329,35.50168,-97.760329,35.50168",
     "geom:latitude":35.50168,
     "geom:longitude":-97.760329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Garth Brooks Blvd",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353931061,
-    "wof:lastmodified":1449020577,
+    "wof:lastmodified":1466765760,
     "wof:name":"City Bites Subs",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.760329,35.50168,-97.760329,35.50168],
+  "bbox": [
+    -97.760329,
+    35.50168,
+    -97.760329,
+    35.50168
+],
   "geometry": {"coordinates":[-97.760329,35.50168],"type":"Point"}
 }

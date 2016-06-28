@@ -2,13 +2,14 @@
   "id": 320441401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.754559,34.937677,-95.754559,34.937677",
     "geom:latitude":34.937677,
     "geom:longitude":-95.754559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 N 9th St",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320441401,
-    "wof:lastmodified":1449011535,
+    "wof:lastmodified":1466765917,
     "wof:name":"Stipe Pool",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.754559,34.937677,-95.754559,34.937677],
+  "bbox": [
+    -95.754559,
+    34.937677,
+    -95.754559,
+    34.937677
+],
   "geometry": {"coordinates":[-95.754559,34.937677],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353634631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.058405,36.112459,-97.058405,36.112459",
     "geom:latitude":36.112459,
     "geom:longitude":-97.058405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E 9th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353634631,
-    "wof:lastmodified":1449019483,
+    "wof:lastmodified":1466764556,
     "wof:name":"Antique Mall Of Stillwater",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.058405,36.112459,-97.058405,36.112459],
-  "geometry": {"coordinates":[-97.058405,36.112459],"type":"Point"}
+  "bbox": [
+    -97.058405,
+    36.112459,
+    -97.058405,
+    36.112459
+],
+  "geometry": {"coordinates":[-97.05840499999999,36.112459],"type":"Point"}
 }

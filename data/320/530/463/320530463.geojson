@@ -2,13 +2,14 @@
   "id": 320530463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.63495,36.286311,-95.63495,36.286311",
     "geom:latitude":36.286311,
     "geom:longitude":-95.63495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2026 S Hwy 66",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320530463,
-    "wof:lastmodified":1449013250,
+    "wof:lastmodified":1466766125,
     "wof:name":"Staffing Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-95.63495,36.286311,-95.63495,36.286311],
+  "bbox": [
+    -95.63495,
+    36.286311,
+    -95.63495,
+    36.286311
+],
   "geometry": {"coordinates":[-95.63495,36.286311],"type":"Point"}
 }

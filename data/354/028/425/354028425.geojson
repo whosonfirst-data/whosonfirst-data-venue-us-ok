@@ -2,13 +2,14 @@
   "id": 354028425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.76587,34.931161,-95.76587,34.931161",
     "geom:latitude":34.931161,
     "geom:longitude":-95.76587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E Choctaw Ave",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354028425,
-    "wof:lastmodified":1449066861,
+    "wof:lastmodified":1466763125,
     "wof:name":"McAlester Monument Co Inc",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.76587,34.931161,-95.76587,34.931161],
-  "geometry": {"coordinates":[-95.76587,34.931161],"type":"Point"}
+  "bbox": [
+    -95.76587,
+    34.931161,
+    -95.76587,
+    34.931161
+],
+  "geometry": {"coordinates":[-95.76587000000001,34.931161],"type":"Point"}
 }

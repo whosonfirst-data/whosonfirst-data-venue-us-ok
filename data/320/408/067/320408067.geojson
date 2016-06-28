@@ -2,13 +2,14 @@
   "id": 320408067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.018525,35.318616,-97.018525,35.318616",
     "geom:latitude":35.318616,
     "geom:longitude":-97.018525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17000 Bethel Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320408067,
-    "wof:lastmodified":1449011707,
+    "wof:lastmodified":1466765864,
     "wof:name":"Dakatos Stop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.018525,35.318616,-97.018525,35.318616],
+  "bbox": [
+    -97.018525,
+    35.318616,
+    -97.018525,
+    35.318616
+],
   "geometry": {"coordinates":[-97.018525,35.318616],"type":"Point"}
 }

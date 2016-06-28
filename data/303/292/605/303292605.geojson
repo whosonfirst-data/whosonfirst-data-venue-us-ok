@@ -2,13 +2,14 @@
   "id": 303292605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.112383,35.97825,-96.112383,35.97825",
     "geom:latitude":35.97825,
     "geom:longitude":-96.112383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 E Wells Blvd",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303292605,
-    "wof:lastmodified":1448998324,
+    "wof:lastmodified":1466764921,
     "wof:name":"South Heights Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.112383,35.97825,-96.112383,35.97825],
-  "geometry": {"coordinates":[-96.112383,35.97825],"type":"Point"}
+  "bbox": [
+    -96.112383,
+    35.97825,
+    -96.112383,
+    35.97825
+],
+  "geometry": {"coordinates":[-96.11238299999999,35.97825],"type":"Point"}
 }

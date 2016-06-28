@@ -2,13 +2,14 @@
   "id": 320649231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.546183,35.453576,-97.546183,35.453576",
     "geom:latitude":35.453576,
     "geom:longitude":-97.546183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Exchange Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320649231,
-    "wof:lastmodified":1449013819,
+    "wof:lastmodified":1466766392,
     "wof:name":"Exchange Avenue Foot Clinic",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.546183,35.453576,-97.546183,35.453576],
+  "bbox": [
+    -97.546183,
+    35.453576,
+    -97.546183,
+    35.453576
+],
   "geometry": {"coordinates":[-97.546183,35.453576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304047119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.448961,35.218468,-97.448961,35.218468",
     "geom:latitude":35.218468,
     "geom:longitude":-97.448961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 W Main St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304047119,
-    "wof:lastmodified":1449043987,
+    "wof:lastmodified":1466763088,
     "wof:name":"Derma Logic Center",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.448961,35.218468,-97.448961,35.218468],
+  "bbox": [
+    -97.448961,
+    35.218468,
+    -97.448961,
+    35.218468
+],
   "geometry": {"coordinates":[-97.448961,35.218468],"type":"Point"}
 }

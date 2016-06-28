@@ -2,13 +2,14 @@
   "id": 303412885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.515962,34.623382,-98.515962,34.623382",
     "geom:latitude":34.623382,
     "geom:longitude":-98.515962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9912 NW Cache Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303412885,
-    "wof:lastmodified":1448998614,
+    "wof:lastmodified":1466765573,
     "wof:name":"American Investigations",
     "wof:parent_id":85815375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-98.515962,34.623382,-98.515962,34.623382],
+  "bbox": [
+    -98.515962,
+    34.623382,
+    -98.515962,
+    34.623382
+],
   "geometry": {"coordinates":[-98.515962,34.623382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303409003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.661609,35.537216,-97.661609,35.537216",
     "geom:latitude":35.537216,
     "geom:longitude":-97.661609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8308 NW 64th Ter",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303409003,
-    "wof:lastmodified":1448999122,
+    "wof:lastmodified":1466765346,
     "wof:name":"Ivy Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-97.661609,35.537216,-97.661609,35.537216],
+  "bbox": [
+    -97.661609,
+    35.537216,
+    -97.661609,
+    35.537216
+],
   "geometry": {"coordinates":[-97.661609,35.537216],"type":"Point"}
 }

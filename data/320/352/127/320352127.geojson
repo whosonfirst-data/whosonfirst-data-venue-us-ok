@@ -2,13 +2,14 @@
   "id": 320352127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.5045,34.889829,-99.5045,34.889829",
     "geom:latitude":34.889829,
     "geom:longitude":-99.5045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Duffer Dr",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320352127,
-    "wof:lastmodified":1449013550,
+    "wof:lastmodified":1466765489,
     "wof:name":"Jos Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-99.5045,34.889829,-99.5045,34.889829],
-  "geometry": {"coordinates":[-99.5045,34.889829],"type":"Point"}
+  "bbox": [
+    -99.5045,
+    34.889829,
+    -99.5045,
+    34.889829
+],
+  "geometry": {"coordinates":[-99.50449999999999,34.889829],"type":"Point"}
 }

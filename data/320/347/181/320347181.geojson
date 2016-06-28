@@ -2,13 +2,14 @@
   "id": 320347181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.476936,35.370719,-97.476936,35.370719",
     "geom:latitude":35.370719,
     "geom:longitude":-97.476936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9500 S Eastern Ave",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320347181,
-    "wof:lastmodified":1449013069,
+    "wof:lastmodified":1466765447,
     "wof:name":"Precision Woodworks",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-97.476936,35.370719,-97.476936,35.370719],
-  "geometry": {"coordinates":[-97.476936,35.370719],"type":"Point"}
+  "bbox": [
+    -97.476936,
+    35.370719,
+    -97.476936,
+    35.370719
+],
+  "geometry": {"coordinates":[-97.47693599999999,35.370719],"type":"Point"}
 }

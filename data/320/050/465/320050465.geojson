@@ -2,13 +2,14 @@
   "id": 320050465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.92107,34.681794,-99.92107,34.681794",
     "geom:latitude":34.681794,
     "geom:longitude":-99.92107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Broadway St",
     "sg:city":"Hollis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320050465,
-    "wof:lastmodified":1449013321,
+    "wof:lastmodified":1466763036,
     "wof:name":"Hollis Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.92107,34.681794,-99.92107,34.681794],
+  "bbox": [
+    -99.92107,
+    34.681794,
+    -99.92107,
+    34.681794
+],
   "geometry": {"coordinates":[-99.92107,34.681794],"type":"Point"}
 }

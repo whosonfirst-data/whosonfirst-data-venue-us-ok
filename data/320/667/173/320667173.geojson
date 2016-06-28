@@ -2,13 +2,14 @@
   "id": 320667173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48679,34.618179,-98.48679,34.618179",
     "geom:latitude":34.618179,
     "geom:longitude":-98.48679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7602 NW Micklegate Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320667173,
-    "wof:lastmodified":1449013711,
+    "wof:lastmodified":1466766440,
     "wof:name":"Anesthesia Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "mfg"
     ]
 },
-  "bbox": [-98.48679,34.618179,-98.48679,34.618179],
+  "bbox": [
+    -98.48679,
+    34.618179,
+    -98.48679,
+    34.618179
+],
   "geometry": {"coordinates":[-98.48679,34.618179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336722251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.810961,33.880963,-94.810961,33.880963",
     "geom:latitude":33.880963,
     "geom:longitude":-94.810961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Lincoln Rd",
     "sg:city":"Idabel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336722251,
-    "wof:lastmodified":1448997304,
+    "wof:lastmodified":1466764060,
     "wof:name":"Idabel Iron & Metal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "center"
     ]
 },
-  "bbox": [-94.810961,33.880963,-94.810961,33.880963],
-  "geometry": {"coordinates":[-94.810961,33.880963],"type":"Point"}
+  "bbox": [
+    -94.810961,
+    33.880963,
+    -94.810961,
+    33.880963
+],
+  "geometry": {"coordinates":[-94.81096100000001,33.880963],"type":"Point"}
 }

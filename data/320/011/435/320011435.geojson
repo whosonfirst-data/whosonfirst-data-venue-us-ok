@@ -2,13 +2,14 @@
   "id": 320011435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517119,35.366129,-97.517119,35.366129",
     "geom:latitude":35.366129,
     "geom:longitude":-97.517119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 SW 99th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320011435,
-    "wof:lastmodified":1449014288,
+    "wof:lastmodified":1466762450,
     "wof:name":"Cental Climate Control",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.517119,35.366129,-97.517119,35.366129],
-  "geometry": {"coordinates":[-97.517119,35.366129],"type":"Point"}
+  "bbox": [
+    -97.517119,
+    35.366129,
+    -97.517119,
+    35.366129
+],
+  "geometry": {"coordinates":[-97.51711899999999,35.366129],"type":"Point"}
 }

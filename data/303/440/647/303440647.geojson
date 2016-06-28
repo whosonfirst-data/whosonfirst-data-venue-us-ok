@@ -2,13 +2,14 @@
   "id": 303440647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.388618,35.090406,-96.388618,35.090406",
     "geom:latitude":35.090406,
     "geom:longitude":-96.388618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 N Oliphant St",
     "sg:city":"Holdenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303440647,
-    "wof:lastmodified":1448998985,
+    "wof:lastmodified":1466765628,
     "wof:name":"John's Oilfield Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [-96.388618,35.090406,-96.388618,35.090406],
-  "geometry": {"coordinates":[-96.388618,35.090406],"type":"Point"}
+  "bbox": [
+    -96.388618,
+    35.090406,
+    -96.388618,
+    35.090406
+],
+  "geometry": {"coordinates":[-96.38861799999999,35.090406],"type":"Point"}
 }

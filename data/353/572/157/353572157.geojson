@@ -2,13 +2,14 @@
   "id": 353572157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.559416,35.388768,-97.559416,35.388768",
     "geom:latitude":35.388768,
     "geom:longitude":-97.559416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7805 S Linn Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353572157,
-    "wof:lastmodified":1449019850,
+    "wof:lastmodified":1466764248,
     "wof:name":"Max Showalter",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.559416,35.388768,-97.559416,35.388768],
+  "bbox": [
+    -97.559416,
+    35.388768,
+    -97.559416,
+    35.388768
+],
   "geometry": {"coordinates":[-97.559416,35.388768],"type":"Point"}
 }

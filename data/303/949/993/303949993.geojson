@@ -2,13 +2,14 @@
   "id": 303949993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.147049,34.17449,-97.147049,34.17449",
     "geom:latitude":34.17449,
     "geom:longitude":-97.147049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 W Broadway St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303949993,
-    "wof:lastmodified":1448999635,
+    "wof:lastmodified":1466767031,
     "wof:name":"Somerville Chiropractic Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.147049,34.17449,-97.147049,34.17449],
+  "bbox": [
+    -97.147049,
+    34.17449,
+    -97.147049,
+    34.17449
+],
   "geometry": {"coordinates":[-97.147049,34.17449],"type":"Point"}
 }

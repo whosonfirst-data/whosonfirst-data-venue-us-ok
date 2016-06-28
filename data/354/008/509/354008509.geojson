@@ -2,13 +2,14 @@
   "id": 354008509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940392,36.166176,-95.940392,36.166176",
     "geom:latitude":36.166176,
     "geom:longitude":-95.940392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3232 E Independence St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354008509,
-    "wof:lastmodified":1449066444,
+    "wof:lastmodified":1466762983,
     "wof:name":"Kelly Apartments",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.940392,36.166176,-95.940392,36.166176],
+  "bbox": [
+    -95.940392,
+    36.166176,
+    -95.940392,
+    36.166176
+],
   "geometry": {"coordinates":[-95.940392,36.166176],"type":"Point"}
 }

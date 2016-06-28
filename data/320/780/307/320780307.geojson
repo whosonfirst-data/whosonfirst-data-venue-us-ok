@@ -2,13 +2,14 @@
   "id": 320780307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.680257,34.771283,-96.680257,34.771283",
     "geom:latitude":34.771283,
     "geom:longitude":-96.680257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W 14th St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320780307,
-    "wof:lastmodified":1449014043,
+    "wof:lastmodified":1466766637,
     "wof:name":"Ada Title & Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "escrow"
     ]
 },
-  "bbox": [-96.680257,34.771283,-96.680257,34.771283],
+  "bbox": [
+    -96.680257,
+    34.771283,
+    -96.680257,
+    34.771283
+],
   "geometry": {"coordinates":[-96.680257,34.771283],"type":"Point"}
 }

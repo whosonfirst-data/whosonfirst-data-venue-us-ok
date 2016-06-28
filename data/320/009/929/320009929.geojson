@@ -2,13 +2,14 @@
   "id": 320009929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.881459,36.104363,-95.881459,36.104363",
     "geom:latitude":36.104363,
     "geom:longitude":-95.881459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8548 E 41st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320009929,
-    "wof:lastmodified":1449014893,
+    "wof:lastmodified":1466762429,
     "wof:name":"American Ice Machines",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [-95.881459,36.104363,-95.881459,36.104363],
-  "geometry": {"coordinates":[-95.881459,36.104363],"type":"Point"}
+  "bbox": [
+    -95.881459,
+    36.104363,
+    -95.881459,
+    36.104363
+],
+  "geometry": {"coordinates":[-95.88145900000001,36.104363],"type":"Point"}
 }

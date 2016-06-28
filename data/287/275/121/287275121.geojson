@@ -2,13 +2,14 @@
   "id": 287275121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.769492,34.933451,-95.769492,34.933451",
     "geom:latitude":34.933451,
     "geom:longitude":-95.769492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 State Hwy 1",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287275121,
-    "wof:lastmodified":1449000936,
+    "wof:lastmodified":1466763066,
     "wof:name":"Eastwood Apartments",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.769492,34.933451,-95.769492,34.933451],
+  "bbox": [
+    -95.769492,
+    34.933451,
+    -95.769492,
+    34.933451
+],
   "geometry": {"coordinates":[-95.769492,34.933451],"type":"Point"}
 }

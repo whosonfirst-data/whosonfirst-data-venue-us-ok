@@ -2,13 +2,14 @@
   "id": 320812495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.768771,35.058011,-95.768771,35.058011",
     "geom:latitude":35.058011,
     "geom:longitude":-95.768771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4011 Shady Grove Rd",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320812495,
-    "wof:lastmodified":1449011361,
+    "wof:lastmodified":1466766870,
     "wof:name":"William Barringer",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-95.768771,35.058011,-95.768771,35.058011],
+  "bbox": [
+    -95.768771,
+    35.058011,
+    -95.768771,
+    35.058011
+],
   "geometry": {"coordinates":[-95.768771,35.058011],"type":"Point"}
 }

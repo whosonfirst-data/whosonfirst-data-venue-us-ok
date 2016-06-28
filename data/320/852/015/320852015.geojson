@@ -2,13 +2,14 @@
   "id": 320852015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.962854,36.75051,-95.962854,36.75051",
     "geom:latitude":36.75051,
     "geom:longitude":-95.962854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 S Comanche Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320852015,
-    "wof:lastmodified":1449014335,
+    "wof:lastmodified":1466766899,
     "wof:name":"El Burrito Azteca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.962854,36.75051,-95.962854,36.75051],
-  "geometry": {"coordinates":[-95.962854,36.75051],"type":"Point"}
+  "bbox": [
+    -95.962854,
+    36.75051,
+    -95.962854,
+    36.75051
+],
+  "geometry": {"coordinates":[-95.96285399999999,36.75051],"type":"Point"}
 }

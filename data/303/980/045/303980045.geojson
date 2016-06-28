@@ -2,13 +2,14 @@
   "id": 303980045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.593903,35.494958,-97.593903,35.494958",
     "geom:latitude":35.494958,
     "geom:longitude":-97.593903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 N Utah Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303980045,
-    "wof:lastmodified":1448998284,
+    "wof:lastmodified":1466767115,
     "wof:name":"Prism Place",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "for"
     ]
 },
-  "bbox": [-97.593903,35.494958,-97.593903,35.494958],
+  "bbox": [
+    -97.593903,
+    35.494958,
+    -97.593903,
+    35.494958
+],
   "geometry": {"coordinates":[-97.593903,35.494958],"type":"Point"}
 }

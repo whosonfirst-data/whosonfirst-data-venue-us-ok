@@ -2,13 +2,14 @@
   "id": 320806057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.030883,35.870786,-95.030883,35.870786",
     "geom:latitude":35.870786,
     "geom:longitude":-95.030883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15403 W 790 Rd",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320806057,
-    "wof:lastmodified":1449011251,
+    "wof:lastmodified":1466766846,
     "wof:name":"Total Exposure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.030883,35.870786,-95.030883,35.870786],
+  "bbox": [
+    -95.030883,
+    35.870786,
+    -95.030883,
+    35.870786
+],
   "geometry": {"coordinates":[-95.030883,35.870786],"type":"Point"}
 }

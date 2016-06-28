@@ -2,13 +2,14 @@
   "id": 287306745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.077802,36.117636,-97.077802,36.117636",
     "geom:latitude":36.117636,
     "geom:longitude":-97.077802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 W 4th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287306745,
-    "wof:lastmodified":1449001547,
+    "wof:lastmodified":1466763515,
     "wof:name":"Tower Park Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.077802,36.117636,-97.077802,36.117636],
-  "geometry": {"coordinates":[-97.077802,36.117636],"type":"Point"}
+  "bbox": [
+    -97.077802,
+    36.117636,
+    -97.077802,
+    36.117636
+],
+  "geometry": {"coordinates":[-97.07780200000001,36.117636],"type":"Point"}
 }

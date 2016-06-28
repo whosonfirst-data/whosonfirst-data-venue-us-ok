@@ -2,13 +2,14 @@
   "id": 303942165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.767218,34.931667,-95.767218,34.931667",
     "geom:latitude":34.931667,
     "geom:longitude":-95.767218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E Choctaw Ave",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303942165,
-    "wof:lastmodified":1448999235,
+    "wof:lastmodified":1466767022,
     "wof:name":"Wynn Associates",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "association"
     ]
 },
-  "bbox": [-95.767218,34.931667,-95.767218,34.931667],
+  "bbox": [
+    -95.767218,
+    34.931667,
+    -95.767218,
+    34.931667
+],
   "geometry": {"coordinates":[-95.767218,34.931667],"type":"Point"}
 }

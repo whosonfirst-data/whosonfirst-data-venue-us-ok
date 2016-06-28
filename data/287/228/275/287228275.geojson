@@ -2,13 +2,14 @@
   "id": 287228275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.011573,36.09246,-96.011573,36.09246",
     "geom:latitude":36.09246,
     "geom:longitude":-96.011573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4743 S Union Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287228275,
-    "wof:lastmodified":1449000931,
+    "wof:lastmodified":1466762346,
     "wof:name":"Paradise Donuts",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "doughnut"
     ]
 },
-  "bbox": [-96.011573,36.09246,-96.011573,36.09246],
+  "bbox": [
+    -96.011573,
+    36.09246,
+    -96.011573,
+    36.09246
+],
   "geometry": {"coordinates":[-96.011573,36.09246],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220144111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.75599,36.318143,-99.75599,36.318143",
     "geom:latitude":36.318143,
     "geom:longitude":-99.75599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 N Main St",
     "sg:city":"Gage",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220144111,
-    "wof:lastmodified":1449074640,
+    "wof:lastmodified":1466763880,
     "wof:name":"USPS - United States Post Office - Gage Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shipping"
     ]
 },
-  "bbox": [-99.75599,36.318143,-99.75599,36.318143],
+  "bbox": [
+    -99.75599,
+    36.318143,
+    -99.75599,
+    36.318143
+],
   "geometry": {"coordinates":[-99.75599,36.318143],"type":"Point"}
 }

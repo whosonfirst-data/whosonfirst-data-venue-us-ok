@@ -2,13 +2,14 @@
   "id": 320172393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.926746,36.227721,-96.926746,36.227721",
     "geom:latitude":36.227721,
     "geom:longitude":-96.926746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Main St",
     "sg:city":"Glencoe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320172393,
-    "wof:lastmodified":1449012771,
+    "wof:lastmodified":1466764399,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.926746,36.227721,-96.926746,36.227721],
-  "geometry": {"coordinates":[-96.926746,36.227721],"type":"Point"}
+  "bbox": [
+    -96.926746,
+    36.227721,
+    -96.926746,
+    36.227721
+],
+  "geometry": {"coordinates":[-96.92674599999999,36.227721],"type":"Point"}
 }

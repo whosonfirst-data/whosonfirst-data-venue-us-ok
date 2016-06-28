@@ -2,13 +2,14 @@
   "id": 303250417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.721595,35.502365,-97.721595,35.502365",
     "geom:latitude":35.502365,
     "geom:longitude":-97.721595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 Heather Ter",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303250417,
-    "wof:lastmodified":1448999516,
+    "wof:lastmodified":1466764717,
     "wof:name":"Mind-Body-Spirits",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alternative"
     ]
 },
-  "bbox": [-97.721595,35.502365,-97.721595,35.502365],
-  "geometry": {"coordinates":[-97.721595,35.502365],"type":"Point"}
+  "bbox": [
+    -97.721595,
+    35.502365,
+    -97.721595,
+    35.502365
+],
+  "geometry": {"coordinates":[-97.72159499999999,35.502365],"type":"Point"}
 }

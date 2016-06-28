@@ -2,13 +2,14 @@
   "id": 320454643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.469125,35.574051,-97.469125,35.574051",
     "geom:latitude":35.574051,
     "geom:longitude":-97.469125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10400 N Hassett Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320454643,
-    "wof:lastmodified":1449014612,
+    "wof:lastmodified":1466765959,
     "wof:name":"William H Brogden PC",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.469125,35.574051,-97.469125,35.574051],
-  "geometry": {"coordinates":[-97.469125,35.574051],"type":"Point"}
+  "bbox": [
+    -97.469125,
+    35.574051,
+    -97.469125,
+    35.574051
+],
+  "geometry": {"coordinates":[-97.46912500000001,35.574051],"type":"Point"}
 }

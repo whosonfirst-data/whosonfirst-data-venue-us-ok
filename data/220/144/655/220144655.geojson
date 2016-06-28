@@ -2,13 +2,14 @@
   "id": 220144655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.881445,35.997656,-95.881445,35.997656",
     "geom:latitude":35.997656,
     "geom:longitude":-95.881445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11445 S 85th East Ave",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220144655,
-    "wof:lastmodified":1449074637,
+    "wof:lastmodified":1466763944,
     "wof:name":"Baker Small Animal Clinic P C",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hospital"
     ]
 },
-  "bbox": [-95.881445,35.997656,-95.881445,35.997656],
+  "bbox": [
+    -95.881445,
+    35.997656,
+    -95.881445,
+    35.997656
+],
   "geometry": {"coordinates":[-95.881445,35.997656],"type":"Point"}
 }

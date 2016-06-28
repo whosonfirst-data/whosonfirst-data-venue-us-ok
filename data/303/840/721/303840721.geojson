@@ -2,13 +2,14 @@
   "id": 303840721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.714455,35.532609,-98.714455,35.532609",
     "geom:latitude":35.532609,
     "geom:longitude":-98.714455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 N 5th St",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303840721,
-    "wof:lastmodified":1449000012,
+    "wof:lastmodified":1466766728,
     "wof:name":"Night Owl Tax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-98.714455,35.532609,-98.714455,35.532609],
+  "bbox": [
+    -98.714455,
+    35.532609,
+    -98.714455,
+    35.532609
+],
   "geometry": {"coordinates":[-98.714455,35.532609],"type":"Point"}
 }

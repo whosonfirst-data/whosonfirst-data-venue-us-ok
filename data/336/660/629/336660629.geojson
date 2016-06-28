@@ -2,13 +2,14 @@
   "id": 336660629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.043552,36.029907,-96.043552,36.029907",
     "geom:latitude":36.029907,
     "geom:longitude":-96.043552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9234 S 46th W Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336660629,
-    "wof:lastmodified":1448997907,
+    "wof:lastmodified":1466763115,
     "wof:name":"Eaglemount Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.043552,36.029907,-96.043552,36.029907],
-  "geometry": {"coordinates":[-96.043552,36.029907],"type":"Point"}
+  "bbox": [
+    -96.043552,
+    36.029907,
+    -96.043552,
+    36.029907
+],
+  "geometry": {"coordinates":[-96.04355200000001,36.029907],"type":"Point"}
 }

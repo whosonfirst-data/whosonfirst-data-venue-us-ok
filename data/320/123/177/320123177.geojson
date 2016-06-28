@@ -2,13 +2,14 @@
   "id": 320123177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.885134,36.880159,-94.885134,36.880159",
     "geom:latitude":36.880159,
     "geom:longitude":-94.885134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 G St NW",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320123177,
-    "wof:lastmodified":1449012382,
+    "wof:lastmodified":1466764140,
     "wof:name":"Wilson Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.885134,36.880159,-94.885134,36.880159],
-  "geometry": {"coordinates":[-94.885134,36.880159],"type":"Point"}
+  "bbox": [
+    -94.885134,
+    36.880159,
+    -94.885134,
+    36.880159
+],
+  "geometry": {"coordinates":[-94.88513399999999,36.880159],"type":"Point"}
 }

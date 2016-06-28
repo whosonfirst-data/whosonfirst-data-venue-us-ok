@@ -2,13 +2,14 @@
   "id": 303185683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.431558,36.439055,-99.431558,36.439055",
     "geom:latitude":36.439055,
     "geom:longitude":-99.431558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 NW Hwy 270",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303185683,
-    "wof:lastmodified":1448998519,
+    "wof:lastmodified":1466764359,
     "wof:name":"Branding Iron Restaurant",
     "wof:parent_id":85821373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-99.431558,36.439055,-99.431558,36.439055],
+  "bbox": [
+    -99.431558,
+    36.439055,
+    -99.431558,
+    36.439055
+],
   "geometry": {"coordinates":[-99.431558,36.439055],"type":"Point"}
 }

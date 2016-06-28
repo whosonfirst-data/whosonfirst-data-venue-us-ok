@@ -2,13 +2,14 @@
   "id": 303609395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.140156,34.934584,-98.140156,34.934584",
     "geom:latitude":34.934584,
     "geom:longitude":-98.140156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 N Main St",
     "sg:city":"Cement",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303609395,
-    "wof:lastmodified":1448999029,
+    "wof:lastmodified":1466766229,
     "wof:name":"Head To Toe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.140156,34.934584,-98.140156,34.934584],
+  "bbox": [
+    -98.140156,
+    34.934584,
+    -98.140156,
+    34.934584
+],
   "geometry": {"coordinates":[-98.140156,34.934584],"type":"Point"}
 }

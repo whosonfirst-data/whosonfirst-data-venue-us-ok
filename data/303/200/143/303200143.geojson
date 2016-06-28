@@ -2,13 +2,14 @@
   "id": 303200143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.963654,34.509971,-96.963654,34.509971",
     "geom:latitude":34.509971,
     "geom:longitude":-96.963654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 E 3rd St",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303200143,
-    "wof:lastmodified":1448999098,
+    "wof:lastmodified":1466764434,
     "wof:name":"Tucker Tire & Wheel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.963654,34.509971,-96.963654,34.509971],
-  "geometry": {"coordinates":[-96.963654,34.509971],"type":"Point"}
+  "bbox": [
+    -96.963654,
+    34.509971,
+    -96.963654,
+    34.509971
+],
+  "geometry": {"coordinates":[-96.96365400000001,34.509971],"type":"Point"}
 }

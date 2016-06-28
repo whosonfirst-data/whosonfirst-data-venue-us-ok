@@ -2,13 +2,14 @@
   "id": 303130005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.52862,35.539656,-97.52862,35.539656",
     "geom:latitude":35.539656,
     "geom:longitude":-97.52862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6709 N Olie Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303130005,
-    "wof:lastmodified":1448998958,
+    "wof:lastmodified":1466763720,
     "wof:name":"Sooner Well Log Service Inc",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photocopying"
     ]
 },
-  "bbox": [-97.52862,35.539656,-97.52862,35.539656],
+  "bbox": [
+    -97.52862,
+    35.539656,
+    -97.52862,
+    35.539656
+],
   "geometry": {"coordinates":[-97.52862,35.539656],"type":"Point"}
 }

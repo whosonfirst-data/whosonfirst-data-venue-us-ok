@@ -2,13 +2,14 @@
   "id": 303956373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.454041,35.420717,-97.454041,35.420717",
     "geom:latitude":35.420717,
     "geom:longitude":-97.454041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 SE 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303956373,
-    "wof:lastmodified":1448998533,
+    "wof:lastmodified":1466767037,
     "wof:name":"Queen's Beauty Supply",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.454041,35.420717,-97.454041,35.420717],
+  "bbox": [
+    -97.454041,
+    35.420717,
+    -97.454041,
+    35.420717
+],
   "geometry": {"coordinates":[-97.454041,35.420717],"type":"Point"}
 }

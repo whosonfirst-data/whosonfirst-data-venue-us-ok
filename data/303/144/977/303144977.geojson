@@ -2,13 +2,14 @@
   "id": 303144977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.407646,36.434981,-99.407646,36.434981",
     "geom:latitude":36.434981,
     "geom:longitude":-99.407646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 S Main Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303144977,
-    "wof:lastmodified":1448999910,
+    "wof:lastmodified":1466763961,
     "wof:name":"Stricker Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-99.407646,36.434981,-99.407646,36.434981],
+  "bbox": [
+    -99.407646,
+    36.434981,
+    -99.407646,
+    36.434981
+],
   "geometry": {"coordinates":[-99.407646,36.434981],"type":"Point"}
 }

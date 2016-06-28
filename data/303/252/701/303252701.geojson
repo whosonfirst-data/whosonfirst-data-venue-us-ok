@@ -2,13 +2,14 @@
   "id": 303252701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.017994,35.799531,-97.017994,35.799531",
     "geom:latitude":35.799531,
     "geom:longitude":-97.017994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 US Hwy 177",
     "sg:city":"Asher",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303252701,
-    "wof:lastmodified":1448998440,
+    "wof:lastmodified":1466764636,
     "wof:name":"Asher Mobile Home Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.017994,35.799531,-97.017994,35.799531],
+  "bbox": [
+    -97.017994,
+    35.799531,
+    -97.017994,
+    35.799531
+],
   "geometry": {"coordinates":[-97.017994,35.799531],"type":"Point"}
 }

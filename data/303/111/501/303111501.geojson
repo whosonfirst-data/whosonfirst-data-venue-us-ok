@@ -2,13 +2,14 @@
   "id": 303111501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.43729,35.449781,-97.43729,35.449781",
     "geom:latitude":35.449781,
     "geom:longitude":-97.43729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4505 SE 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303111501,
-    "wof:lastmodified":1449000649,
+    "wof:lastmodified":1466763417,
     "wof:name":"Community Center",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "community"
     ]
 },
-  "bbox": [-97.43729,35.449781,-97.43729,35.449781],
+  "bbox": [
+    -97.43729,
+    35.449781,
+    -97.43729,
+    35.449781
+],
   "geometry": {"coordinates":[-97.43729,35.449781],"type":"Point"}
 }

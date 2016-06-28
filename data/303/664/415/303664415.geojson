@@ -2,13 +2,14 @@
   "id": 303664415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.607453,35.535024,-97.607453,35.535024",
     "geom:latitude":35.535024,
     "geom:longitude":-97.607453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4716 NW 62nd Ter",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303664415,
-    "wof:lastmodified":1448999023,
+    "wof:lastmodified":1466766531,
     "wof:name":"Carekeepers",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.607453,35.535024,-97.607453,35.535024],
-  "geometry": {"coordinates":[-97.607453,35.535024],"type":"Point"}
+  "bbox": [
+    -97.607453,
+    35.535024,
+    -97.607453,
+    35.535024
+],
+  "geometry": {"coordinates":[-97.60745300000001,35.535024],"type":"Point"}
 }

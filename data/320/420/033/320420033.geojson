@@ -2,13 +2,14 @@
   "id": 320420033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.988382,36.137933,-95.988382,36.137933",
     "geom:latitude":36.137933,
     "geom:longitude":-95.988382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 S Boulder Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320420033,
-    "wof:lastmodified":1449013042,
+    "wof:lastmodified":1466765803,
     "wof:name":"Langdon Publishing",
     "wof:parent_id":85872487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-95.988382,36.137933,-95.988382,36.137933],
+  "bbox": [
+    -95.988382,
+    36.137933,
+    -95.988382,
+    36.137933
+],
   "geometry": {"coordinates":[-95.988382,36.137933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353504201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.073754,36.7165,-97.073754,36.7165",
     "geom:latitude":36.7165,
     "geom:longitude":-97.073754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Hillside Ave",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353504201,
-    "wof:lastmodified":1449018690,
+    "wof:lastmodified":1466763180,
     "wof:name":"Sprague Lawn & Tree Trimming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-97.073754,36.7165,-97.073754,36.7165],
-  "geometry": {"coordinates":[-97.073754,36.7165],"type":"Point"}
+  "bbox": [
+    -97.073754,
+    36.7165,
+    -97.073754,
+    36.7165
+],
+  "geometry": {"coordinates":[-97.07375399999999,36.7165],"type":"Point"}
 }

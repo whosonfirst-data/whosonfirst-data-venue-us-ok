@@ -2,13 +2,14 @@
   "id": 320509451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.381144,34.608734,-98.381144,34.608734",
     "geom:latitude":34.608734,
     "geom:longitude":-98.381144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 E Gore Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320509451,
-    "wof:lastmodified":1449011414,
+    "wof:lastmodified":1466766078,
     "wof:name":"Oklahoma Highway Patrol",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-98.381144,34.608734,-98.381144,34.608734],
-  "geometry": {"coordinates":[-98.381144,34.608734],"type":"Point"}
+  "bbox": [
+    -98.381144,
+    34.608734,
+    -98.381144,
+    34.608734
+],
+  "geometry": {"coordinates":[-98.38114400000001,34.608734],"type":"Point"}
 }

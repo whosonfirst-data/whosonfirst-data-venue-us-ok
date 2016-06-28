@@ -2,13 +2,14 @@
   "id": 303430673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.908837,33.983594,-96.908837,33.983594",
     "geom:latitude":33.983594,
     "geom:longitude":-96.908837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"442 State Hwy 32",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303430673,
-    "wof:lastmodified":1448999677,
+    "wof:lastmodified":1466765577,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.908837,33.983594,-96.908837,33.983594],
-  "geometry": {"coordinates":[-96.908837,33.983594],"type":"Point"}
+  "bbox": [
+    -96.908837,
+    33.983594,
+    -96.908837,
+    33.983594
+],
+  "geometry": {"coordinates":[-96.90883700000001,33.983594],"type":"Point"}
 }

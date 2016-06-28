@@ -2,13 +2,14 @@
   "id": 303725701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.897159,36.178335,-95.897159,36.178335",
     "geom:latitude":36.178335,
     "geom:longitude":-95.897159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1623 N 71st East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303725701,
-    "wof:lastmodified":1448998705,
+    "wof:lastmodified":1466766536,
     "wof:name":"Integris Metals Inc",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "warehouse"
     ]
 },
-  "bbox": [-95.897159,36.178335,-95.897159,36.178335],
+  "bbox": [
+    -95.897159,
+    36.178335,
+    -95.897159,
+    36.178335
+],
   "geometry": {"coordinates":[-95.897159,36.178335],"type":"Point"}
 }

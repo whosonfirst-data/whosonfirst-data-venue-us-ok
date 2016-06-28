@@ -2,13 +2,14 @@
   "id": 304073155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.389899,33.976942,-96.389899,33.976942",
     "geom:latitude":33.976942,
     "geom:longitude":-96.389899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 S 9th Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304073155,
-    "wof:lastmodified":1449043632,
+    "wof:lastmodified":1466763235,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-96.389899,33.976942,-96.389899,33.976942],
+  "bbox": [
+    -96.389899,
+    33.976942,
+    -96.389899,
+    33.976942
+],
   "geometry": {"coordinates":[-96.389899,33.976942],"type":"Point"}
 }

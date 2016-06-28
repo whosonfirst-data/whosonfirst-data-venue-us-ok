@@ -2,13 +2,14 @@
   "id": 303621485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935799,36.750561,-95.935799,36.750561",
     "geom:latitude":36.750561,
     "geom:longitude":-95.935799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3703 E Frank Phillips Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303621485,
-    "wof:lastmodified":1449000275,
+    "wof:lastmodified":1466766372,
     "wof:name":"Bartlesville Cellular",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "telephone"
     ]
 },
-  "bbox": [-95.935799,36.750561,-95.935799,36.750561],
+  "bbox": [
+    -95.935799,
+    36.750561,
+    -95.935799,
+    36.750561
+],
   "geometry": {"coordinates":[-95.935799,36.750561],"type":"Point"}
 }

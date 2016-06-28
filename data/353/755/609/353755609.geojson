@@ -2,13 +2,14 @@
   "id": 353755609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.884125,36.307408,-95.884125,36.307408",
     "geom:latitude":36.307408,
     "geom:longitude":-95.884125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8500 E 106th St N",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353755609,
-    "wof:lastmodified":1449018990,
+    "wof:lastmodified":1466765239,
     "wof:name":"Carl Worley",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-95.884125,36.307408,-95.884125,36.307408],
+  "bbox": [
+    -95.884125,
+    36.307408,
+    -95.884125,
+    36.307408
+],
   "geometry": {"coordinates":[-95.884125,36.307408],"type":"Point"}
 }

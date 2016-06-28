@@ -2,13 +2,14 @@
   "id": 304014173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.970835,34.510754,-97.970835,34.510754",
     "geom:latitude":34.510754,
     "geom:longitude":-97.970835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 W Pine Ave",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304014173,
-    "wof:lastmodified":1449043844,
+    "wof:lastmodified":1466762886,
     "wof:name":"KXCA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-97.970835,34.510754,-97.970835,34.510754],
-  "geometry": {"coordinates":[-97.970835,34.510754],"type":"Point"}
+  "bbox": [
+    -97.970835,
+    34.510754,
+    -97.970835,
+    34.510754
+],
+  "geometry": {"coordinates":[-97.97083499999999,34.510754],"type":"Point"}
 }

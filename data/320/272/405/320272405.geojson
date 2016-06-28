@@ -2,13 +2,14 @@
   "id": 320272405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.901761,36.859134,-94.901761,36.859134",
     "geom:latitude":36.859134,
     "geom:longitude":-94.901761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54420 E 110 Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320272405,
-    "wof:lastmodified":1449014708,
+    "wof:lastmodified":1466765028,
     "wof:name":"M & M Custom Butchering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "prepared"
     ]
 },
-  "bbox": [-94.901761,36.859134,-94.901761,36.859134],
-  "geometry": {"coordinates":[-94.901761,36.859134],"type":"Point"}
+  "bbox": [
+    -94.901761,
+    36.859134,
+    -94.901761,
+    36.859134
+],
+  "geometry": {"coordinates":[-94.90176099999999,36.859134],"type":"Point"}
 }

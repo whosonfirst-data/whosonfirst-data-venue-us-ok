@@ -2,13 +2,14 @@
   "id": 303522145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.428734,35.478748,-97.428734,35.478748",
     "geom:latitude":35.478748,
     "geom:longitude":-97.428734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 NE 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303522145,
-    "wof:lastmodified":1448999285,
+    "wof:lastmodified":1466765935,
     "wof:name":"Star Fuel Ctr Transport Local",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.428734,35.478748,-97.428734,35.478748],
-  "geometry": {"coordinates":[-97.428734,35.478748],"type":"Point"}
+  "bbox": [
+    -97.428734,
+    35.478748,
+    -97.428734,
+    35.478748
+],
+  "geometry": {"coordinates":[-97.42873400000001,35.478748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303632747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.483781,35.147823,-96.483781,35.147823",
     "geom:latitude":35.147823,
     "geom:longitude":-96.483781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Oakhurst Rd",
     "sg:city":"Wewoka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303632747,
-    "wof:lastmodified":1448999678,
+    "wof:lastmodified":1466766310,
     "wof:name":"A & B Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-96.483781,35.147823,-96.483781,35.147823],
-  "geometry": {"coordinates":[-96.483781,35.147823],"type":"Point"}
+  "bbox": [
+    -96.483781,
+    35.147823,
+    -96.483781,
+    35.147823
+],
+  "geometry": {"coordinates":[-96.48378099999999,35.147823],"type":"Point"}
 }

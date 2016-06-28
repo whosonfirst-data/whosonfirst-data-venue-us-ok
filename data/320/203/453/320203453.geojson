@@ -2,13 +2,14 @@
   "id": 320203453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.0591,36.122256,-97.0591,36.122256",
     "geom:latitude":36.122256,
     "geom:longitude":-97.0591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W Elm Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320203453,
-    "wof:lastmodified":1449012912,
+    "wof:lastmodified":1466764619,
     "wof:name":"Bradley Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-97.0591,36.122256,-97.0591,36.122256],
+  "bbox": [
+    -97.0591,
+    36.122256,
+    -97.0591,
+    36.122256
+],
   "geometry": {"coordinates":[-97.0591,36.122256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287292833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.051647,36.145616,-97.051647,36.145616",
     "geom:latitude":36.145616,
     "geom:longitude":-97.051647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 N Perkins Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287292833,
-    "wof:lastmodified":1449000722,
+    "wof:lastmodified":1466763320,
     "wof:name":"Greg Swenson Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.051647,36.145616,-97.051647,36.145616],
+  "bbox": [
+    -97.051647,
+    36.145616,
+    -97.051647,
+    36.145616
+],
   "geometry": {"coordinates":[-97.051647,36.145616],"type":"Point"}
 }

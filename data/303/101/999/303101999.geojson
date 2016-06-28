@@ -2,13 +2,14 @@
   "id": 303101999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.947303,35.698505,-94.947303,35.698505",
     "geom:latitude":35.698505,
     "geom:longitude":-94.947303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20114 W 915 Rd",
     "sg:city":"Cookson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303101999,
-    "wof:lastmodified":1448999410,
+    "wof:lastmodified":1466763266,
     "wof:name":"Sixshooter Resort & Marina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cabin"
     ]
 },
-  "bbox": [-94.947303,35.698505,-94.947303,35.698505],
-  "geometry": {"coordinates":[-94.947303,35.698505],"type":"Point"}
+  "bbox": [
+    -94.947303,
+    35.698505,
+    -94.947303,
+    35.698505
+],
+  "geometry": {"coordinates":[-94.94730300000001,35.698505],"type":"Point"}
 }

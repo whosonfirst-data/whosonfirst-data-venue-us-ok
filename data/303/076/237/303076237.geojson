@@ -2,13 +2,14 @@
   "id": 303076237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.489191,35.580027,-97.489191,35.580027",
     "geom:latitude":35.580027,
     "geom:longitude":-97.489191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 E Hefner Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303076237,
-    "wof:lastmodified":1449000038,
+    "wof:lastmodified":1466762845,
     "wof:name":"Trinity Episcopal School Inc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "private"
     ]
 },
-  "bbox": [-97.489191,35.580027,-97.489191,35.580027],
-  "geometry": {"coordinates":[-97.489191,35.580027],"type":"Point"}
+  "bbox": [
+    -97.489191,
+    35.580027,
+    -97.489191,
+    35.580027
+],
+  "geometry": {"coordinates":[-97.48919100000001,35.580027],"type":"Point"}
 }

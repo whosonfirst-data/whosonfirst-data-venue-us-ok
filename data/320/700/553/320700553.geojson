@@ -2,13 +2,14 @@
   "id": 320700553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.854112,36.128684,-95.854112,36.128684",
     "geom:latitude":36.128684,
     "geom:longitude":-95.854112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10921 E 25th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320700553,
-    "wof:lastmodified":1449014631,
+    "wof:lastmodified":1466766627,
     "wof:name":"Novalco",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.854112,36.128684,-95.854112,36.128684],
+  "bbox": [
+    -95.854112,
+    36.128684,
+    -95.854112,
+    36.128684
+],
   "geometry": {"coordinates":[-95.854112,36.128684],"type":"Point"}
 }

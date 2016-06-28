@@ -2,13 +2,14 @@
   "id": 353888231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.501448,35.491481,-97.501448,35.491481",
     "geom:latitude":35.491481,
     "geom:longitude":-97.501448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 N Lincoln Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353888231,
-    "wof:lastmodified":1449019860,
+    "wof:lastmodified":1466765638,
     "wof:name":"State Museum Of History",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.501448,35.491481,-97.501448,35.491481],
+  "bbox": [
+    -97.501448,
+    35.491481,
+    -97.501448,
+    35.491481
+],
   "geometry": {"coordinates":[-97.501448,35.491481],"type":"Point"}
 }

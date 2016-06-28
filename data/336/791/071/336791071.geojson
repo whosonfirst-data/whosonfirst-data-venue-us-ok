@@ -2,13 +2,14 @@
   "id": 336791071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.309544,34.356967,-98.309544,34.356967",
     "geom:latitude":34.356967,
     "geom:longitude":-98.309544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 W California Ave",
     "sg:city":"Walters",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336791071,
-    "wof:lastmodified":1448997786,
+    "wof:lastmodified":1466764492,
     "wof:name":"Walters Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.309544,34.356967,-98.309544,34.356967],
+  "bbox": [
+    -98.309544,
+    34.356967,
+    -98.309544,
+    34.356967
+],
   "geometry": {"coordinates":[-98.309544,34.356967],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303650915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.629185,35.822887,-94.629185,35.822887",
     "geom:latitude":35.822887,
     "geom:longitude":-94.629185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 N 4th St",
     "sg:city":"Stilwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303650915,
-    "wof:lastmodified":1448999613,
+    "wof:lastmodified":1466766258,
     "wof:name":"Stilwell Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-94.629185,35.822887,-94.629185,35.822887],
-  "geometry": {"coordinates":[-94.629185,35.822887],"type":"Point"}
+  "bbox": [
+    -94.629185,
+    35.822887,
+    -94.629185,
+    35.822887
+],
+  "geometry": {"coordinates":[-94.62918500000001,35.822887],"type":"Point"}
 }

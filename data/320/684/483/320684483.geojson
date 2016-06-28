@@ -2,13 +2,14 @@
   "id": 320684483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.010028,36.090546,-96.010028,36.090546",
     "geom:latitude":36.090546,
     "geom:longitude":-96.010028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4981 S Tacoma Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320684483,
-    "wof:lastmodified":1449012188,
+    "wof:lastmodified":1466766506,
     "wof:name":"Western Neighbors Inc",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "human"
     ]
 },
-  "bbox": [-96.010028,36.090546,-96.010028,36.090546],
-  "geometry": {"coordinates":[-96.010028,36.090546],"type":"Point"}
+  "bbox": [
+    -96.010028,
+    36.090546,
+    -96.010028,
+    36.090546
+],
+  "geometry": {"coordinates":[-96.01002800000001,36.090546],"type":"Point"}
 }

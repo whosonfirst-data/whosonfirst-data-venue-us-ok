@@ -2,13 +2,14 @@
   "id": 353687147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.969355,36.02051,-95.969355,36.02051",
     "geom:latitude":36.02051,
     "geom:longitude":-95.969355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 W Beaver St",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353687147,
-    "wof:lastmodified":1449018984,
+    "wof:lastmodified":1466764833,
     "wof:name":"Beaver Street Southern Baptist",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.969355,36.02051,-95.969355,36.02051],
-  "geometry": {"coordinates":[-95.969355,36.02051],"type":"Point"}
+  "bbox": [
+    -95.969355,
+    36.02051,
+    -95.969355,
+    36.02051
+],
+  "geometry": {"coordinates":[-95.96935499999999,36.02051],"type":"Point"}
 }

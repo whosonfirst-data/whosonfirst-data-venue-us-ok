@@ -2,13 +2,14 @@
   "id": 353382461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.974299,36.090176,-95.974299,36.090176",
     "geom:latitude":36.090176,
     "geom:longitude":-95.974299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1381 E Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353382461,
-    "wof:lastmodified":1449018947,
+    "wof:lastmodified":1466762345,
     "wof:name":"Ken Sykes Investigations",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-95.974299,36.090176,-95.974299,36.090176],
+  "bbox": [
+    -95.974299,
+    36.090176,
+    -95.974299,
+    36.090176
+],
   "geometry": {"coordinates":[-95.974299,36.090176],"type":"Point"}
 }

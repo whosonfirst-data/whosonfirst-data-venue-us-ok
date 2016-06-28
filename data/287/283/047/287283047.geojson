@@ -2,13 +2,14 @@
   "id": 287283047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.53181,35.522417,-97.53181,35.522417",
     "geom:latitude":35.522417,
     "geom:longitude":-97.53181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 NW 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287283047,
-    "wof:lastmodified":1449000908,
+    "wof:lastmodified":1466763177,
     "wof:name":"Oklahoma Psychological",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "program"
     ]
 },
-  "bbox": [-97.53181,35.522417,-97.53181,35.522417],
-  "geometry": {"coordinates":[-97.53181,35.522417],"type":"Point"}
+  "bbox": [
+    -97.53181,
+    35.522417,
+    -97.53181,
+    35.522417
+],
+  "geometry": {"coordinates":[-97.53180999999999,35.522417],"type":"Point"}
 }

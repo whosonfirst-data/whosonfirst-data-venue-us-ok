@@ -2,13 +2,14 @@
   "id": 303715379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967356,36.177117,-95.967356,36.177117",
     "geom:latitude":36.177117,
     "geom:longitude":-95.967356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1641 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303715379,
-    "wof:lastmodified":1449000074,
+    "wof:lastmodified":1466766607,
     "wof:name":"Universal Roofing",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.967356,36.177117,-95.967356,36.177117],
+  "bbox": [
+    -95.967356,
+    36.177117,
+    -95.967356,
+    36.177117
+],
   "geometry": {"coordinates":[-95.967356,36.177117],"type":"Point"}
 }

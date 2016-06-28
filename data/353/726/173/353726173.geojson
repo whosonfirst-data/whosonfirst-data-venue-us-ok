@@ -2,13 +2,14 @@
   "id": 353726173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.4904,35.685332,-97.4904,35.685332",
     "geom:latitude":35.685332,
     "geom:longitude":-97.4904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 Longmeadow Ln",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353726173,
-    "wof:lastmodified":1449019987,
+    "wof:lastmodified":1466764866,
     "wof:name":"Remedial Reading Resource",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.4904,35.685332,-97.4904,35.685332],
-  "geometry": {"coordinates":[-97.4904,35.685332],"type":"Point"}
+  "bbox": [
+    -97.4904,
+    35.685332,
+    -97.4904,
+    35.685332
+],
+  "geometry": {"coordinates":[-97.49039999999999,35.685332],"type":"Point"}
 }

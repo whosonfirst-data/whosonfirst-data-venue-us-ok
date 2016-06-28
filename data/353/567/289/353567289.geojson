@@ -2,13 +2,14 @@
   "id": 353567289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549053,35.565692,-97.549053,35.565692",
     "geom:latitude":35.565692,
     "geom:longitude":-97.549053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 W Britton Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":353567289,
-    "wof:lastmodified":1449020817,
+    "wof:lastmodified":1466764131,
     "wof:name":"Country Leisure Mfg",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "tub"
     ]
 },
-  "bbox": [-97.549053,35.565692,-97.549053,35.565692],
+  "bbox": [
+    -97.549053,
+    35.565692,
+    -97.549053,
+    35.565692
+],
   "geometry": {"coordinates":[-97.549053,35.565692],"type":"Point"}
 }

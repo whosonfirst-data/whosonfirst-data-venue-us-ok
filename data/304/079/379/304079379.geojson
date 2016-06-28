@@ -2,13 +2,14 @@
   "id": 304079379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.383146,35.628803,-99.383146,35.628803",
     "geom:latitude":35.628803,
     "geom:longitude":-99.383146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Broadway",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304079379,
-    "wof:lastmodified":1449044065,
+    "wof:lastmodified":1466763283,
     "wof:name":"Upper Washita Conservation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.383146,35.628803,-99.383146,35.628803],
+  "bbox": [
+    -99.383146,
+    35.628803,
+    -99.383146,
+    35.628803
+],
   "geometry": {"coordinates":[-99.383146,35.628803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320241041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.83405,36.104588,-95.83405,36.104588",
     "geom:latitude":36.104588,
     "geom:longitude":-95.83405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12787 E 41st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320241041,
-    "wof:lastmodified":1449014866,
+    "wof:lastmodified":1466764905,
     "wof:name":"American Digital",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scanning"
     ]
 },
-  "bbox": [-95.83405,36.104588,-95.83405,36.104588],
+  "bbox": [
+    -95.83405,
+    36.104588,
+    -95.83405,
+    36.104588
+],
   "geometry": {"coordinates":[-95.83405,36.104588],"type":"Point"}
 }

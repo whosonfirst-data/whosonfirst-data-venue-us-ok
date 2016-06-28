@@ -2,13 +2,14 @@
   "id": 320659439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.944307,34.497906,-97.944307,34.497906",
     "geom:latitude":34.497906,
     "geom:longitude":-97.944307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 E Elm Ave",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320659439,
-    "wof:lastmodified":1449011639,
+    "wof:lastmodified":1466766556,
     "wof:name":"Elm Terrace Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "management"
     ]
 },
-  "bbox": [-97.944307,34.497906,-97.944307,34.497906],
-  "geometry": {"coordinates":[-97.944307,34.497906],"type":"Point"}
+  "bbox": [
+    -97.944307,
+    34.497906,
+    -97.944307,
+    34.497906
+],
+  "geometry": {"coordinates":[-97.94430699999999,34.497906],"type":"Point"}
 }

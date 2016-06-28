@@ -2,13 +2,14 @@
   "id": 320820517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.036991,36.100323,-96.036991,36.100323",
     "geom:latitude":36.100323,
     "geom:longitude":-96.036991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3702 W 43th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320820517,
-    "wof:lastmodified":1449013188,
+    "wof:lastmodified":1466766886,
     "wof:name":"Christian Home Educators",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-96.036991,36.100323,-96.036991,36.100323],
+  "bbox": [
+    -96.036991,
+    36.100323,
+    -96.036991,
+    36.100323
+],
   "geometry": {"coordinates":[-96.036991,36.100323],"type":"Point"}
 }

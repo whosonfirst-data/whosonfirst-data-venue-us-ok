@@ -2,13 +2,14 @@
   "id": 353918797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.969785,34.508227,-96.969785,34.508227",
     "geom:latitude":34.508227,
     "geom:longitude":-96.969785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 W 2nd St",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353918797,
-    "wof:lastmodified":1449019975,
+    "wof:lastmodified":1466765807,
     "wof:name":"Jones Fob F",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.969785,34.508227,-96.969785,34.508227],
+  "bbox": [
+    -96.969785,
+    34.508227,
+    -96.969785,
+    34.508227
+],
   "geometry": {"coordinates":[-96.969785,34.508227],"type":"Point"}
 }

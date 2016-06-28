@@ -2,13 +2,14 @@
   "id": 303442741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.984795,36.136029,-95.984795,36.136029",
     "geom:latitude":36.136029,
     "geom:longitude":-95.984795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 E 18th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303442741,
-    "wof:lastmodified":1448999191,
+    "wof:lastmodified":1466765640,
     "wof:name":"118 Martini Lounge",
     "wof:parent_id":85872487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.984795,36.136029,-95.984795,36.136029],
-  "geometry": {"coordinates":[-95.984795,36.136029],"type":"Point"}
+  "bbox": [
+    -95.984795,
+    36.136029,
+    -95.984795,
+    36.136029
+],
+  "geometry": {"coordinates":[-95.98479500000001,36.136029],"type":"Point"}
 }

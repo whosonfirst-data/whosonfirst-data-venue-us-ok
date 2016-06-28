@@ -2,13 +2,14 @@
   "id": 320033523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.581366,35.587215,-97.581366,35.587215",
     "geom:latitude":35.587215,
     "geom:longitude":-97.581366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11419 Springhollow Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320033523,
-    "wof:lastmodified":1449012027,
+    "wof:lastmodified":1466762784,
     "wof:name":"4 Trips Travel Agency",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-97.581366,35.587215,-97.581366,35.587215],
+  "bbox": [
+    -97.581366,
+    35.587215,
+    -97.581366,
+    35.587215
+],
   "geometry": {"coordinates":[-97.581366,35.587215],"type":"Point"}
 }

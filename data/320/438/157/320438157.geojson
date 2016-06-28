@@ -2,13 +2,14 @@
   "id": 320438157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.488537,36.701093,-101.488537,36.701093",
     "geom:latitude":36.701093,
     "geom:longitude":-101.488537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 NW 21st St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320438157,
-    "wof:lastmodified":1449012539,
+    "wof:lastmodified":1466765916,
     "wof:name":"Popcorn Patch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.488537,36.701093,-101.488537,36.701093],
-  "geometry": {"coordinates":[-101.488537,36.701093],"type":"Point"}
+  "bbox": [
+    -101.488537,
+    36.701093,
+    -101.488537,
+    36.701093
+],
+  "geometry": {"coordinates":[-101.48853699999999,36.701093],"type":"Point"}
 }

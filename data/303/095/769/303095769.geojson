@@ -2,13 +2,14 @@
   "id": 303095769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.266125,35.381859,-97.266125,35.381859",
     "geom:latitude":35.381859,
     "geom:longitude":-97.266125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8412 Treeline Dr",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303095769,
-    "wof:lastmodified":1448999362,
+    "wof:lastmodified":1466763169,
     "wof:name":"Essential Computing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.266125,35.381859,-97.266125,35.381859],
+  "bbox": [
+    -97.266125,
+    35.381859,
+    -97.266125,
+    35.381859
+],
   "geometry": {"coordinates":[-97.266125,35.381859],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303985479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.807026,36.054315,-95.807026,36.054315",
     "geom:latitude":36.054315,
     "geom:longitude":-95.807026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 W Detroit St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303985479,
-    "wof:lastmodified":1448999333,
+    "wof:lastmodified":1466767119,
     "wof:name":"Broken Arrow City Purchasing",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-95.807026,36.054315,-95.807026,36.054315],
-  "geometry": {"coordinates":[-95.807026,36.054315],"type":"Point"}
+  "bbox": [
+    -95.807026,
+    36.054315,
+    -95.807026,
+    36.054315
+],
+  "geometry": {"coordinates":[-95.80702599999999,36.054315],"type":"Point"}
 }

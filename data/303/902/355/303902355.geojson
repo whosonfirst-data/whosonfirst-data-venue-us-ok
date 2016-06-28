@@ -2,13 +2,14 @@
   "id": 303902355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.226922,34.736365,-97.226922,34.736365",
     "geom:latitude":34.736365,
     "geom:longitude":-97.226922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 W Grant Ave",
     "sg:city":"Pauls Valley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303902355,
-    "wof:lastmodified":1448999929,
+    "wof:lastmodified":1466766865,
     "wof:name":"Pauls Valley Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.226922,34.736365,-97.226922,34.736365],
+  "bbox": [
+    -97.226922,
+    34.736365,
+    -97.226922,
+    34.736365
+],
   "geometry": {"coordinates":[-97.226922,34.736365],"type":"Point"}
 }

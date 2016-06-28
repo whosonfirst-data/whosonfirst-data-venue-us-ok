@@ -2,13 +2,14 @@
   "id": 303955663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.755919,34.929884,-95.755919,34.929884",
     "geom:latitude":34.929884,
     "geom:longitude":-95.755919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 E Carl Albert Pkwy",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303955663,
-    "wof:lastmodified":1448999815,
+    "wof:lastmodified":1466767043,
     "wof:name":"Payless Shoe Source",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.755919,34.929884,-95.755919,34.929884],
-  "geometry": {"coordinates":[-95.755919,34.929884],"type":"Point"}
+  "bbox": [
+    -95.755919,
+    34.929884,
+    -95.755919,
+    34.929884
+],
+  "geometry": {"coordinates":[-95.75591900000001,34.929884],"type":"Point"}
 }

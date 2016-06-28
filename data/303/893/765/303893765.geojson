@@ -2,13 +2,14 @@
   "id": 303893765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.45469,35.696205,-97.45469,35.696205",
     "geom:latitude":35.696205,
     "geom:longitude":-97.45469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Beaver Cir",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303893765,
-    "wof:lastmodified":1449000104,
+    "wof:lastmodified":1466766952,
     "wof:name":"Strategic Insights",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-97.45469,35.696205,-97.45469,35.696205],
+  "bbox": [
+    -97.45469,
+    35.696205,
+    -97.45469,
+    35.696205
+],
   "geometry": {"coordinates":[-97.45469,35.696205],"type":"Point"}
 }

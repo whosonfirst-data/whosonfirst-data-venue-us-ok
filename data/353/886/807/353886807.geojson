@@ -2,13 +2,14 @@
   "id": 353886807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.038104,36.135377,-97.038104,36.135377",
     "geom:latitude":36.135377,
     "geom:longitude":-97.038104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 N Skyline St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353886807,
-    "wof:lastmodified":1449019670,
+    "wof:lastmodified":1466765739,
     "wof:name":"Duncan Sylvia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.038104,36.135377,-97.038104,36.135377],
+  "bbox": [
+    -97.038104,
+    36.135377,
+    -97.038104,
+    36.135377
+],
   "geometry": {"coordinates":[-97.038104,36.135377],"type":"Point"}
 }

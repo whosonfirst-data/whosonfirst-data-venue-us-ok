@@ -2,13 +2,14 @@
   "id": 303123009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.362719,34.60885,-98.362719,34.60885",
     "geom:latitude":34.60885,
     "geom:longitude":-98.362719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 E Gore Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303123009,
-    "wof:lastmodified":1448998849,
+    "wof:lastmodified":1466763607,
     "wof:name":"Fort Sill Federal Credit Union",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-98.362719,34.60885,-98.362719,34.60885],
+  "bbox": [
+    -98.362719,
+    34.60885,
+    -98.362719,
+    34.60885
+],
   "geometry": {"coordinates":[-98.362719,34.60885],"type":"Point"}
 }

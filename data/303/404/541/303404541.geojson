@@ -2,13 +2,14 @@
   "id": 303404541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990779,36.139184,-95.990779,36.139184",
     "geom:latitude":36.139184,
     "geom:longitude":-95.990779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 S Carson Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303404541,
-    "wof:lastmodified":1448999742,
+    "wof:lastmodified":1466765527,
     "wof:name":"Bob Mc Cormack Studios",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "photographer"
     ]
 },
-  "bbox": [-95.990779,36.139184,-95.990779,36.139184],
+  "bbox": [
+    -95.990779,
+    36.139184,
+    -95.990779,
+    36.139184
+],
   "geometry": {"coordinates":[-95.990779,36.139184],"type":"Point"}
 }

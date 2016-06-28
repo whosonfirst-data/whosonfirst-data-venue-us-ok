@@ -2,13 +2,14 @@
   "id": 354118631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.162301,35.888983,-95.162301,35.888983",
     "geom:latitude":35.888983,
     "geom:longitude":-95.162301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19981 S 410 Rd",
     "sg:city":"Hulbert",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354118631,
-    "wof:lastmodified":1449067317,
+    "wof:lastmodified":1466763582,
     "wof:name":"Perry Truck & Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-95.162301,35.888983,-95.162301,35.888983],
+  "bbox": [
+    -95.162301,
+    35.888983,
+    -95.162301,
+    35.888983
+],
   "geometry": {"coordinates":[-95.162301,35.888983],"type":"Point"}
 }

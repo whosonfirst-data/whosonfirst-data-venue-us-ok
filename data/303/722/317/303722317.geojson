@@ -2,13 +2,14 @@
   "id": 303722317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.455009,35.65265,-97.455009,35.65265",
     "geom:latitude":35.65265,
     "geom:longitude":-97.455009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 E 2nd St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303722317,
-    "wof:lastmodified":1448998976,
+    "wof:lastmodified":1466766525,
     "wof:name":"Jimmy Johns Gourmet Sandwiches",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.455009,35.65265,-97.455009,35.65265],
+  "bbox": [
+    -97.455009,
+    35.65265,
+    -97.455009,
+    35.65265
+],
   "geometry": {"coordinates":[-97.455009,35.65265],"type":"Point"}
 }

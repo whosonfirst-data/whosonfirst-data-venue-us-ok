@@ -2,13 +2,14 @@
   "id": 303615885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.91198,35.370203,-96.91198,35.370203",
     "geom:latitude":35.370203,
     "geom:longitude":-96.91198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 N Harrison Ave",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303615885,
-    "wof:lastmodified":1448998889,
+    "wof:lastmodified":1466766249,
     "wof:name":"Best Friends Pet Clinic",
     "wof:parent_id":85827517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-96.91198,35.370203,-96.91198,35.370203],
+  "bbox": [
+    -96.91198,
+    35.370203,
+    -96.91198,
+    35.370203
+],
   "geometry": {"coordinates":[-96.91198,35.370203],"type":"Point"}
 }

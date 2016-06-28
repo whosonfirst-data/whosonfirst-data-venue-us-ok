@@ -2,13 +2,14 @@
   "id": 336936107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517121,35.484714,-97.517121,35.484714",
     "geom:latitude":35.484714,
     "geom:longitude":-97.517121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 NW 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336936107,
-    "wof:lastmodified":1448997293,
+    "wof:lastmodified":1466765384,
     "wof:name":"St Luke's United Methodist Chr",
     "wof:parent_id":85871669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.517121,35.484714,-97.517121,35.484714],
+  "bbox": [
+    -97.517121,
+    35.484714,
+    -97.517121,
+    35.484714
+],
   "geometry": {"coordinates":[-97.517121,35.484714],"type":"Point"}
 }

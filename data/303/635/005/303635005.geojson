@@ -2,13 +2,14 @@
   "id": 303635005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.554543,35.435099,-97.554543,35.435099",
     "geom:latitude":35.435099,
     "geom:longitude":-97.554543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2304 SW 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303635005,
-    "wof:lastmodified":1448999180,
+    "wof:lastmodified":1466766195,
     "wof:name":"Cars Plus",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.554543,35.435099,-97.554543,35.435099],
+  "bbox": [
+    -97.554543,
+    35.435099,
+    -97.554543,
+    35.435099
+],
   "geometry": {"coordinates":[-97.554543,35.435099],"type":"Point"}
 }

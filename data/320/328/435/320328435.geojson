@@ -2,13 +2,14 @@
   "id": 320328435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.985964,36.151864,-95.985964,36.151864",
     "geom:latitude":36.151864,
     "geom:longitude":-95.985964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 S Detroit Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320328435,
-    "wof:lastmodified":1449013456,
+    "wof:lastmodified":1466765350,
     "wof:name":"Michael E Kolker Office",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.985964,36.151864,-95.985964,36.151864],
+  "bbox": [
+    -95.985964,
+    36.151864,
+    -95.985964,
+    36.151864
+],
   "geometry": {"coordinates":[-95.985964,36.151864],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320216241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.911965,35.347249,-96.911965,35.347249",
     "geom:latitude":35.347249,
     "geom:longitude":-96.911965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 E Independence St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320216241,
-    "wof:lastmodified":1449014540,
+    "wof:lastmodified":1466764565,
     "wof:name":"Oneok Gas Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.911965,35.347249,-96.911965,35.347249],
+  "bbox": [
+    -96.911965,
+    35.347249,
+    -96.911965,
+    35.347249
+],
   "geometry": {"coordinates":[-96.911965,35.347249],"type":"Point"}
 }

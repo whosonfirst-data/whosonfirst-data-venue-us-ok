@@ -2,13 +2,14 @@
   "id": 319847959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.481052,35.656624,-97.481052,35.656624",
     "geom:latitude":35.656624,
     "geom:longitude":-97.481052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Broadway",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":319847959,
-    "wof:lastmodified":1449024356,
+    "wof:lastmodified":1466763129,
     "wof:name":"Candle Pantry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.481052,35.656624,-97.481052,35.656624],
-  "geometry": {"coordinates":[-97.481052,35.656624],"type":"Point"}
+  "bbox": [
+    -97.481052,
+    35.656624,
+    -97.481052,
+    35.656624
+],
+  "geometry": {"coordinates":[-97.48105200000001,35.656624],"type":"Point"}
 }

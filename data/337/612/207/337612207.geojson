@@ -2,13 +2,14 @@
   "id": 337612207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940312,36.146561,-95.940312,36.146561",
     "geom:latitude":36.146561,
     "geom:longitude":-95.940312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1145 S Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337612207,
-    "wof:lastmodified":1449027300,
+    "wof:lastmodified":1466763283,
     "wof:name":"Pioneer Cleaners & Laundry",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-95.940312,36.146561,-95.940312,36.146561],
-  "geometry": {"coordinates":[-95.940312,36.146561],"type":"Point"}
+  "bbox": [
+    -95.940312,
+    36.146561,
+    -95.940312,
+    36.146561
+],
+  "geometry": {"coordinates":[-95.94031200000001,36.146561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320146961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.429589,36.534169,-95.429589,36.534169",
     "geom:latitude":36.534169,
     "geom:longitude":-95.429589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Walnut St",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320146961,
-    "wof:lastmodified":1449012813,
+    "wof:lastmodified":1466764380,
     "wof:name":"Chelsea Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-95.429589,36.534169,-95.429589,36.534169],
-  "geometry": {"coordinates":[-95.429589,36.534169],"type":"Point"}
+  "bbox": [
+    -95.429589,
+    36.534169,
+    -95.429589,
+    36.534169
+],
+  "geometry": {"coordinates":[-95.42958900000001,36.534169],"type":"Point"}
 }

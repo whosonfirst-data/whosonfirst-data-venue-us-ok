@@ -2,13 +2,14 @@
   "id": 354168353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.407375,35.713034,-97.407375,35.713034",
     "geom:latitude":35.713034,
     "geom:longitude":-97.407375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6011 N Air Depot Blvd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354168353,
-    "wof:lastmodified":1449066824,
+    "wof:lastmodified":1466763763,
     "wof:name":"Hillbrook Farms",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "devices"
     ]
 },
-  "bbox": [-97.407375,35.713034,-97.407375,35.713034],
+  "bbox": [
+    -97.407375,
+    35.713034,
+    -97.407375,
+    35.713034
+],
   "geometry": {"coordinates":[-97.407375,35.713034],"type":"Point"}
 }

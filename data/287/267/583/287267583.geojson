@@ -2,13 +2,14 @@
   "id": 287267583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.279593,35.254846,-97.279593,35.254846",
     "geom:latitude":35.254846,
     "geom:longitude":-97.279593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10920 S Timberline Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":287267583,
-    "wof:lastmodified":1449001504,
+    "wof:lastmodified":1466762948,
     "wof:name":"Timberline Trucking Inc",
     "wof:parent_id":85814357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.279593,35.254846,-97.279593,35.254846],
-  "geometry": {"coordinates":[-97.279593,35.254846],"type":"Point"}
+  "bbox": [
+    -97.279593,
+    35.254846,
+    -97.279593,
+    35.254846
+],
+  "geometry": {"coordinates":[-97.27959300000001,35.254846],"type":"Point"}
 }

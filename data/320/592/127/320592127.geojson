@@ -2,13 +2,14 @@
   "id": 320592127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.067182,36.735161,-97.067182,36.735161",
     "geom:latitude":36.735161,
     "geom:longitude":-97.067182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 N 14th St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320592127,
-    "wof:lastmodified":1449013406,
+    "wof:lastmodified":1466766375,
     "wof:name":"Home National Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.067182,36.735161,-97.067182,36.735161],
+  "bbox": [
+    -97.067182,
+    36.735161,
+    -97.067182,
+    36.735161
+],
   "geometry": {"coordinates":[-97.067182,36.735161],"type":"Point"}
 }

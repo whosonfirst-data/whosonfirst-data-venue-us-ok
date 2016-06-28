@@ -2,13 +2,14 @@
   "id": 303067185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.422255,34.588927,-98.422255,34.588927",
     "geom:latitude":34.588927,
     "geom:longitude":-98.422255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1803 SW Sheridan Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303067185,
-    "wof:lastmodified":1448998277,
+    "wof:lastmodified":1466762698,
     "wof:name":"T Mac Transmissions & Auto",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-98.422255,34.588927,-98.422255,34.588927],
-  "geometry": {"coordinates":[-98.422255,34.588927],"type":"Point"}
+  "bbox": [
+    -98.422255,
+    34.588927,
+    -98.422255,
+    34.588927
+],
+  "geometry": {"coordinates":[-98.42225500000001,34.588927],"type":"Point"}
 }

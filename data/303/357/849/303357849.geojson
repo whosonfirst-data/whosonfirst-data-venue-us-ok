@@ -2,13 +2,14 @@
   "id": 303357849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.516234,35.461102,-97.516234,35.461102",
     "geom:latitude":35.461102,
     "geom:longitude":-97.516234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Robinson Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303357849,
-    "wof:lastmodified":1449000266,
+    "wof:lastmodified":1466765222,
     "wof:name":"North Used Cars",
     "wof:parent_id":85871685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.516234,35.461102,-97.516234,35.461102],
+  "bbox": [
+    -97.516234,
+    35.461102,
+    -97.516234,
+    35.461102
+],
   "geometry": {"coordinates":[-97.516234,35.461102],"type":"Point"}
 }

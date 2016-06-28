@@ -2,13 +2,14 @@
   "id": 320333735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.355055,35.75147,-95.355055,35.75147",
     "geom:latitude":35.75147,
     "geom:longitude":-95.355055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Houston St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320333735,
-    "wof:lastmodified":1449014702,
+    "wof:lastmodified":1466765378,
     "wof:name":"Big Vinyl Works",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "banner"
     ]
 },
-  "bbox": [-95.355055,35.75147,-95.355055,35.75147],
-  "geometry": {"coordinates":[-95.355055,35.75147],"type":"Point"}
+  "bbox": [
+    -95.355055,
+    35.75147,
+    -95.355055,
+    35.75147
+],
+  "geometry": {"coordinates":[-95.35505499999999,35.75147],"type":"Point"}
 }

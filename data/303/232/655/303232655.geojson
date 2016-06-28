@@ -2,13 +2,14 @@
   "id": 303232655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.418984,35.415,-97.418984,35.415",
     "geom:latitude":35.415,
     "geom:longitude":-97.418984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 Tinker Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303232655,
-    "wof:lastmodified":1448998904,
+    "wof:lastmodified":1466764611,
     "wof:name":"King's Limousine",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-97.418984,35.415,-97.418984,35.415],
-  "geometry": {"coordinates":[-97.418984,35.415],"type":"Point"}
+  "bbox": [
+    -97.418984,
+    35.415,
+    -97.418984,
+    35.415
+],
+  "geometry": {"coordinates":[-97.41898399999999,35.415],"type":"Point"}
 }

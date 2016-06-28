@@ -2,13 +2,14 @@
   "id": 303060785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.600077,35.251884,-97.600077,35.251884",
     "geom:latitude":35.251884,
     "geom:longitude":-97.600077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 N Main St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303060785,
-    "wof:lastmodified":1449000341,
+    "wof:lastmodified":1466762594,
     "wof:name":"Jones & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.600077,35.251884,-97.600077,35.251884],
+  "bbox": [
+    -97.600077,
+    35.251884,
+    -97.600077,
+    35.251884
+],
   "geometry": {"coordinates":[-97.600077,35.251884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354151495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.97356,36.74815,-95.97356,36.74815",
     "geom:latitude":36.74815,
     "geom:longitude":-95.97356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 E 5th St",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354151495,
-    "wof:lastmodified":1449065944,
+    "wof:lastmodified":1466763700,
     "wof:name":"Maico Hearing Aid Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "hearing"
     ]
 },
-  "bbox": [-95.97356,36.74815,-95.97356,36.74815],
-  "geometry": {"coordinates":[-95.97356,36.74815],"type":"Point"}
+  "bbox": [
+    -95.97356,
+    36.74815,
+    -95.97356,
+    36.74815
+],
+  "geometry": {"coordinates":[-95.97356000000001,36.74815],"type":"Point"}
 }

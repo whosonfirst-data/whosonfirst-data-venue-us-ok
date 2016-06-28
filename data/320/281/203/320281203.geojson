@@ -2,13 +2,14 @@
   "id": 320281203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.400065,35.844042,-98.400065,35.844042",
     "geom:latitude":35.844042,
     "geom:longitude":-98.400065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Ranch Dr",
     "sg:city":"Watonga",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320281203,
-    "wof:lastmodified":1449014405,
+    "wof:lastmodified":1466765062,
     "wof:name":"Reed & Reed Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.400065,35.844042,-98.400065,35.844042],
+  "bbox": [
+    -98.400065,
+    35.844042,
+    -98.400065,
+    35.844042
+],
   "geometry": {"coordinates":[-98.400065,35.844042],"type":"Point"}
 }

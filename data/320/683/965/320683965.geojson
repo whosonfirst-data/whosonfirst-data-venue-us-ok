@@ -2,13 +2,14 @@
   "id": 320683965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.407584,35.406153,-99.407584,35.406153",
     "geom:latitude":35.406153,
     "geom:longitude":-99.407584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 S Adams Ave",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320683965,
-    "wof:lastmodified":1449012655,
+    "wof:lastmodified":1466766509,
     "wof:name":"Bill Merwin Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-99.407584,35.406153,-99.407584,35.406153],
+  "bbox": [
+    -99.407584,
+    35.406153,
+    -99.407584,
+    35.406153
+],
   "geometry": {"coordinates":[-99.407584,35.406153],"type":"Point"}
 }

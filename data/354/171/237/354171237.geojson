@@ -2,13 +2,14 @@
   "id": 354171237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.970804,35.913377,-94.970804,35.913377",
     "geom:latitude":35.913377,
     "geom:longitude":-94.970804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Delaware St",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354171237,
-    "wof:lastmodified":1449067672,
+    "wof:lastmodified":1466763772,
     "wof:name":"Kelly Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-94.970804,35.913377,-94.970804,35.913377],
+  "bbox": [
+    -94.970804,
+    35.913377,
+    -94.970804,
+    35.913377
+],
   "geometry": {"coordinates":[-94.970804,35.913377],"type":"Point"}
 }

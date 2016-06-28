@@ -2,13 +2,14 @@
   "id": 303601163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.39185,35.449595,-97.39185,35.449595",
     "geom:latitude":35.449595,
     "geom:longitude":-97.39185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 N Key Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303601163,
-    "wof:lastmodified":1448999216,
+    "wof:lastmodified":1466766312,
     "wof:name":"Multimedia Cablevision",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-97.39185,35.449595,-97.39185,35.449595],
-  "geometry": {"coordinates":[-97.39185,35.449595],"type":"Point"}
+  "bbox": [
+    -97.39185,
+    35.449595,
+    -97.39185,
+    35.449595
+],
+  "geometry": {"coordinates":[-97.39185000000001,35.449595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303740461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.522643,35.480004,-97.522643,35.480004",
     "geom:latitude":35.480004,
     "geom:longitude":-97.522643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Classen Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303740461,
-    "wof:lastmodified":1448999226,
+    "wof:lastmodified":1466766670,
     "wof:name":"John P Caporal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.522643,35.480004,-97.522643,35.480004],
+  "bbox": [
+    -97.522643,
+    35.480004,
+    -97.522643,
+    35.480004
+],
   "geometry": {"coordinates":[-97.522643,35.480004],"type":"Point"}
 }

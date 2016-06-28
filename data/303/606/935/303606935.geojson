@@ -2,13 +2,14 @@
   "id": 303606935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.44566,35.435326,-97.44566,35.435326",
     "geom:latitude":35.435326,
     "geom:longitude":-97.44566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3907 SE 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303606935,
-    "wof:lastmodified":1448998498,
+    "wof:lastmodified":1466766219,
     "wof:name":"Warrant Wizards Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-97.44566,35.435326,-97.44566,35.435326],
+  "bbox": [
+    -97.44566,
+    35.435326,
+    -97.44566,
+    35.435326
+],
   "geometry": {"coordinates":[-97.44566,35.435326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303307545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.443581,35.609113,-97.443581,35.609113",
     "geom:latitude":35.609113,
     "geom:longitude":-97.443581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4140 E Memorial Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303307545,
-    "wof:lastmodified":1448998743,
+    "wof:lastmodified":1466764994,
     "wof:name":"Michael J Carl",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.443581,35.609113,-97.443581,35.609113],
-  "geometry": {"coordinates":[-97.443581,35.609113],"type":"Point"}
+  "bbox": [
+    -97.443581,
+    35.609113,
+    -97.443581,
+    35.609113
+],
+  "geometry": {"coordinates":[-97.44358099999999,35.609113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304035461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.874433,36.414523,-97.874433,36.414523",
     "geom:latitude":36.414523,
     "geom:longitude":-97.874433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 N Kennedy St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304035461,
-    "wof:lastmodified":1449044036,
+    "wof:lastmodified":1466763010,
     "wof:name":"Lewis Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.874433,36.414523,-97.874433,36.414523],
+  "bbox": [
+    -97.874433,
+    36.414523,
+    -97.874433,
+    36.414523
+],
   "geometry": {"coordinates":[-97.874433,36.414523],"type":"Point"}
 }

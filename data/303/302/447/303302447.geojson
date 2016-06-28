@@ -2,13 +2,14 @@
   "id": 303302447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.878355,36.400553,-97.878355,36.400553",
     "geom:latitude":36.400553,
     "geom:longitude":-97.878355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 N Grand Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303302447,
-    "wof:lastmodified":1448998943,
+    "wof:lastmodified":1466764960,
     "wof:name":"Ream Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.878355,36.400553,-97.878355,36.400553],
+  "bbox": [
+    -97.878355,
+    36.400553,
+    -97.878355,
+    36.400553
+],
   "geometry": {"coordinates":[-97.878355,36.400553],"type":"Point"}
 }

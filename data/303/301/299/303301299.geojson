@@ -2,13 +2,14 @@
   "id": 303301299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.014827,36.170585,-96.014827,36.170585",
     "geom:latitude":36.170585,
     "geom:longitude":-96.014827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1136 N Xenophon Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303301299,
-    "wof:lastmodified":1448998735,
+    "wof:lastmodified":1466764956,
     "wof:name":"Harold Engel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.014827,36.170585,-96.014827,36.170585],
+  "bbox": [
+    -96.014827,
+    36.170585,
+    -96.014827,
+    36.170585
+],
   "geometry": {"coordinates":[-96.014827,36.170585],"type":"Point"}
 }

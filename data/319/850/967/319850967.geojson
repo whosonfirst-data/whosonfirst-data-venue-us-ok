@@ -2,13 +2,14 @@
   "id": 319850967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.685336,34.763885,-96.685336,34.763885",
     "geom:latitude":34.763885,
     "geom:longitude":-96.685336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 S Johnston Ave",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319850967,
-    "wof:lastmodified":1449024538,
+    "wof:lastmodified":1466763157,
     "wof:name":"Ada Fire Protection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.685336,34.763885,-96.685336,34.763885],
-  "geometry": {"coordinates":[-96.685336,34.763885],"type":"Point"}
+  "bbox": [
+    -96.685336,
+    34.763885,
+    -96.685336,
+    34.763885
+],
+  "geometry": {"coordinates":[-96.68533600000001,34.763885],"type":"Point"}
 }

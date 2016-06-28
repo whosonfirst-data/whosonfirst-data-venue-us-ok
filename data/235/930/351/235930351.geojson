@@ -2,13 +2,14 @@
   "id": 235930351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.828201,36.131199,-95.828201,36.131199",
     "geom:latitude":36.131199,
     "geom:longitude":-95.828201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4104 S 130th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":235930351,
-    "wof:lastmodified":1449008364,
+    "wof:lastmodified":1466762376,
     "wof:name":"Observation Point Apartments",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.828201,36.131199,-95.828201,36.131199],
-  "geometry": {"coordinates":[-95.828201,36.131199],"type":"Point"}
+  "bbox": [
+    -95.828201,
+    36.131199,
+    -95.828201,
+    36.131199
+],
+  "geometry": {"coordinates":[-95.82820100000001,36.131199],"type":"Point"}
 }

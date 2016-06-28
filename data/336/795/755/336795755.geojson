@@ -2,13 +2,14 @@
   "id": 336795755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.404786,34.634786,-98.404786,34.634786",
     "geom:latitude":34.634786,
     "geom:longitude":-98.404786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2526 NW Fort Sill Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336795755,
-    "wof:lastmodified":1448997577,
+    "wof:lastmodified":1466764745,
     "wof:name":"Hangout",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.404786,34.634786,-98.404786,34.634786],
+  "bbox": [
+    -98.404786,
+    34.634786,
+    -98.404786,
+    34.634786
+],
   "geometry": {"coordinates":[-98.404786,34.634786],"type":"Point"}
 }

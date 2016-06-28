@@ -2,13 +2,14 @@
   "id": 303827681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.466872,35.673549,-97.466872,35.673549",
     "geom:latitude":35.673549,
     "geom:longitude":-97.466872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 Olde Bridge Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303827681,
-    "wof:lastmodified":1448998995,
+    "wof:lastmodified":1466766644,
     "wof:name":"Rose Group Resources",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.466872,35.673549,-97.466872,35.673549],
+  "bbox": [
+    -97.466872,
+    35.673549,
+    -97.466872,
+    35.673549
+],
   "geometry": {"coordinates":[-97.466872,35.673549],"type":"Point"}
 }

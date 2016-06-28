@@ -2,13 +2,14 @@
   "id": 303125939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.589945,35.435144,-97.589945,35.435144",
     "geom:latitude":35.435144,
     "geom:longitude":-97.589945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3902 SW 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303125939,
-    "wof:lastmodified":1449000480,
+    "wof:lastmodified":1466763658,
     "wof:name":"Unifirst",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.589945,35.435144,-97.589945,35.435144],
+  "bbox": [
+    -97.589945,
+    35.435144,
+    -97.589945,
+    35.435144
+],
   "geometry": {"coordinates":[-97.589945,35.435144],"type":"Point"}
 }

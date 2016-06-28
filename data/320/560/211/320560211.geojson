@@ -2,13 +2,14 @@
   "id": 320560211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.851037,36.079214,-95.851037,36.079214",
     "geom:latitude":36.079214,
     "geom:longitude":-95.851037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5604 S Garnett Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320560211,
-    "wof:lastmodified":1449014087,
+    "wof:lastmodified":1466766202,
     "wof:name":"Locke Wholesales Htg & Coolg",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.851037,36.079214,-95.851037,36.079214],
-  "geometry": {"coordinates":[-95.851037,36.079214],"type":"Point"}
+  "bbox": [
+    -95.851037,
+    36.079214,
+    -95.851037,
+    36.079214
+],
+  "geometry": {"coordinates":[-95.85103700000001,36.079214],"type":"Point"}
 }

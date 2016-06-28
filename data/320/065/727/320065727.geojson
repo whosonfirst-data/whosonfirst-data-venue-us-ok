@@ -2,13 +2,14 @@
   "id": 320065727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.879792,36.073133,-95.879792,36.073133",
     "geom:latitude":36.073133,
     "geom:longitude":-95.879792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6112 S 87th E Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320065727,
-    "wof:lastmodified":1449014921,
+    "wof:lastmodified":1466763263,
     "wof:name":"Springs",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.879792,36.073133,-95.879792,36.073133],
-  "geometry": {"coordinates":[-95.879792,36.073133],"type":"Point"}
+  "bbox": [
+    -95.879792,
+    36.073133,
+    -95.879792,
+    36.073133
+],
+  "geometry": {"coordinates":[-95.87979199999999,36.073133],"type":"Point"}
 }

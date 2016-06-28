@@ -2,13 +2,14 @@
   "id": 287262287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.474585,36.690801,-101.474585,36.690801",
     "geom:latitude":36.690801,
     "geom:longitude":-101.474585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 N East St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287262287,
-    "wof:lastmodified":1449001211,
+    "wof:lastmodified":1466762869,
     "wof:name":"Reed Family Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-101.474585,36.690801,-101.474585,36.690801],
+  "bbox": [
+    -101.474585,
+    36.690801,
+    -101.474585,
+    36.690801
+],
   "geometry": {"coordinates":[-101.474585,36.690801],"type":"Point"}
 }

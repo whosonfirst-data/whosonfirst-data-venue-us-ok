@@ -2,13 +2,14 @@
   "id": 336775589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.39042,34.612587,-98.39042,34.612587",
     "geom:latitude":34.612587,
     "geom:longitude":-98.39042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 NW Columbia Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336775589,
-    "wof:lastmodified":1448997731,
+    "wof:lastmodified":1466764547,
     "wof:name":"Robbies Bath & Beauty Supply",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-98.39042,34.612587,-98.39042,34.612587],
-  "geometry": {"coordinates":[-98.39042,34.612587],"type":"Point"}
+  "bbox": [
+    -98.39042,
+    34.612587,
+    -98.39042,
+    34.612587
+],
+  "geometry": {"coordinates":[-98.39042000000001,34.612587],"type":"Point"}
 }

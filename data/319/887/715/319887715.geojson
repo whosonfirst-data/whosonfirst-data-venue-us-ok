@@ -2,13 +2,14 @@
   "id": 319887715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.986471,36.160614,-95.986471,36.160614",
     "geom:latitude":36.160614,
     "geom:longitude":-95.986471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Greenwood Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":319887715,
-    "wof:lastmodified":1449024725,
+    "wof:lastmodified":1466763459,
     "wof:name":"Asset Financial Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "financial"
     ]
 },
-  "bbox": [-95.986471,36.160614,-95.986471,36.160614],
-  "geometry": {"coordinates":[-95.986471,36.160614],"type":"Point"}
+  "bbox": [
+    -95.986471,
+    36.160614,
+    -95.986471,
+    36.160614
+],
+  "geometry": {"coordinates":[-95.98647099999999,36.160614],"type":"Point"}
 }

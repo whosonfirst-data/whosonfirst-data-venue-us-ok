@@ -2,13 +2,14 @@
   "id": 336703427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.093525,34.00357,-95.093525,34.00357",
     "geom:latitude":34.00357,
     "geom:longitude":-95.093525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Dalton Ave",
     "sg:city":"Valliant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336703427,
-    "wof:lastmodified":1448997272,
+    "wof:lastmodified":1466763775,
     "wof:name":"Valliant City Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-95.093525,34.00357,-95.093525,34.00357],
+  "bbox": [
+    -95.093525,
+    34.00357,
+    -95.093525,
+    34.00357
+],
   "geometry": {"coordinates":[-95.093525,34.00357],"type":"Point"}
 }

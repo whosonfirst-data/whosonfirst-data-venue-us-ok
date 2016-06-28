@@ -2,13 +2,14 @@
   "id": 354220085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.491717,35.157604,-96.491717,35.157604",
     "geom:latitude":35.157604,
     "geom:longitude":-96.491717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 W 2nd St",
     "sg:city":"Wewoka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354220085,
-    "wof:lastmodified":1449067612,
+    "wof:lastmodified":1466764038,
     "wof:name":"Seminole Nation Reach Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.491717,35.157604,-96.491717,35.157604],
-  "geometry": {"coordinates":[-96.491717,35.157604],"type":"Point"}
+  "bbox": [
+    -96.491717,
+    35.157604,
+    -96.491717,
+    35.157604
+],
+  "geometry": {"coordinates":[-96.49171699999999,35.157604],"type":"Point"}
 }

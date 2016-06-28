@@ -2,13 +2,14 @@
   "id": 353726913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.387357,34.594231,-98.387357,34.594231",
     "geom:latitude":34.594231,
     "geom:longitude":-98.387357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 SW Lee Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353726913,
-    "wof:lastmodified":1449019987,
+    "wof:lastmodified":1466764877,
     "wof:name":"Motor Vehicle Tag Agency",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-98.387357,34.594231,-98.387357,34.594231],
-  "geometry": {"coordinates":[-98.387357,34.594231],"type":"Point"}
+  "bbox": [
+    -98.387357,
+    34.594231,
+    -98.387357,
+    34.594231
+],
+  "geometry": {"coordinates":[-98.38735699999999,34.594231],"type":"Point"}
 }

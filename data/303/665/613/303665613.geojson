@@ -2,13 +2,14 @@
   "id": 303665613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.478869,35.628527,-97.478869,35.628527",
     "geom:latitude":35.628527,
     "geom:longitude":-97.478869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Burton Pl",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303665613,
-    "wof:lastmodified":1448998864,
+    "wof:lastmodified":1466766325,
     "wof:name":"AJS Bankruptcy & Docu",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-97.478869,35.628527,-97.478869,35.628527],
+  "bbox": [
+    -97.478869,
+    35.628527,
+    -97.478869,
+    35.628527
+],
   "geometry": {"coordinates":[-97.478869,35.628527],"type":"Point"}
 }

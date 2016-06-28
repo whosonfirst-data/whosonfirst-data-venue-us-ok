@@ -2,13 +2,14 @@
   "id": 287133343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.066859,36.115706,-97.066859,36.115706",
     "geom:latitude":36.115706,
     "geom:longitude":-97.066859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 W 6th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":287133343,
-    "wof:lastmodified":1449001408,
+    "wof:lastmodified":1466763611,
     "wof:name":"Shakeys Frozen Custard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "cream"
     ]
 },
-  "bbox": [-97.066859,36.115706,-97.066859,36.115706],
-  "geometry": {"coordinates":[-97.066859,36.115706],"type":"Point"}
+  "bbox": [
+    -97.066859,
+    36.115706,
+    -97.066859,
+    36.115706
+],
+  "geometry": {"coordinates":[-97.06685899999999,36.115706],"type":"Point"}
 }

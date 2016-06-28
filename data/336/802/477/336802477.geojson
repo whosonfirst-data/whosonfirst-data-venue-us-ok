@@ -2,13 +2,14 @@
   "id": 336802477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.474647,36.697319,-101.474647,36.697319",
     "geom:latitude":36.697319,
     "geom:longitude":-101.474647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1933 N East St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336802477,
-    "wof:lastmodified":1448997828,
+    "wof:lastmodified":1466764678,
     "wof:name":"Canadian Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-101.474647,36.697319,-101.474647,36.697319],
+  "bbox": [
+    -101.474647,
+    36.697319,
+    -101.474647,
+    36.697319
+],
   "geometry": {"coordinates":[-101.474647,36.697319],"type":"Point"}
 }

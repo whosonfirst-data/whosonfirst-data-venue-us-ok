@@ -2,13 +2,14 @@
   "id": 303377755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975652,36.090924,-95.975652,36.090924",
     "geom:latitude":36.090924,
     "geom:longitude":-95.975652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4951 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303377755,
-    "wof:lastmodified":1448999036,
+    "wof:lastmodified":1466765316,
     "wof:name":"Hair Of Bellaire",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.975652,36.090924,-95.975652,36.090924],
+  "bbox": [
+    -95.975652,
+    36.090924,
+    -95.975652,
+    36.090924
+],
   "geometry": {"coordinates":[-95.975652,36.090924],"type":"Point"}
 }

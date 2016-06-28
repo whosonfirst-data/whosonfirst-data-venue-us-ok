@@ -2,13 +2,14 @@
   "id": 303858721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.910755,36.014072,-95.910755,36.014072",
     "geom:latitude":36.014072,
     "geom:longitude":-95.910755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5828 E 103rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303858721,
-    "wof:lastmodified":1448998363,
+    "wof:lastmodified":1466766781,
     "wof:name":"PCI",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.910755,36.014072,-95.910755,36.014072],
-  "geometry": {"coordinates":[-95.910755,36.014072],"type":"Point"}
+  "bbox": [
+    -95.910755,
+    36.014072,
+    -95.910755,
+    36.014072
+],
+  "geometry": {"coordinates":[-95.91075499999999,36.014072],"type":"Point"}
 }

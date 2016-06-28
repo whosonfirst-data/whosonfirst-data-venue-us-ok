@@ -2,13 +2,14 @@
   "id": 220193299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.854868,36.159467,-95.854868,36.159467",
     "geom:latitude":36.159467,
     "geom:longitude":-95.854868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S 109th East Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -77,10 +78,11 @@
         }
     ],
     "wof:id":220193299,
-    "wof:lastmodified":1449074168,
+    "wof:lastmodified":1466762443,
     "wof:name":"Matlock Security Services",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -103,6 +105,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.854868,36.159467,-95.854868,36.159467],
+  "bbox": [
+    -95.854868,
+    36.159467,
+    -95.854868,
+    36.159467
+],
   "geometry": {"coordinates":[-95.854868,36.159467],"type":"Point"}
 }

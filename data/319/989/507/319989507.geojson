@@ -2,13 +2,14 @@
   "id": 319989507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.613717,35.42831,-97.613717,35.42831",
     "geom:latitude":35.42831,
     "geom:longitude":-97.613717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3355 S Purdue Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319989507,
-    "wof:lastmodified":1449024659,
+    "wof:lastmodified":1466762537,
     "wof:name":"Regional Food Bank",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-97.613717,35.42831,-97.613717,35.42831],
-  "geometry": {"coordinates":[-97.613717,35.42831],"type":"Point"}
+  "bbox": [
+    -97.613717,
+    35.42831,
+    -97.613717,
+    35.42831
+],
+  "geometry": {"coordinates":[-97.61371699999999,35.42831],"type":"Point"}
 }

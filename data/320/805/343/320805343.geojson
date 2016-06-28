@@ -2,13 +2,14 @@
   "id": 320805343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.464256,35.203974,-97.464256,35.203974",
     "geom:latitude":35.203974,
     "geom:longitude":-97.464256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 W Lindsey St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320805343,
-    "wof:lastmodified":1449012518,
+    "wof:lastmodified":1466766842,
     "wof:name":"Ole Johns Liquor Store",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-97.464256,35.203974,-97.464256,35.203974],
-  "geometry": {"coordinates":[-97.464256,35.203974],"type":"Point"}
+  "bbox": [
+    -97.464256,
+    35.203974,
+    -97.464256,
+    35.203974
+],
+  "geometry": {"coordinates":[-97.46425600000001,35.203974],"type":"Point"}
 }

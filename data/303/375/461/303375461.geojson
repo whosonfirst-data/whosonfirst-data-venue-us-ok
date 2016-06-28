@@ -2,13 +2,14 @@
   "id": 303375461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.798159,35.979374,-95.798159,35.979374",
     "geom:latitude":35.979374,
     "geom:longitude":-95.798159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Briarwood Cir",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303375461,
-    "wof:lastmodified":1448998203,
+    "wof:lastmodified":1466765311,
     "wof:name":"Eastside Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plumber"
     ]
 },
-  "bbox": [-95.798159,35.979374,-95.798159,35.979374],
+  "bbox": [
+    -95.798159,
+    35.979374,
+    -95.798159,
+    35.979374
+],
   "geometry": {"coordinates":[-95.798159,35.979374],"type":"Point"}
 }

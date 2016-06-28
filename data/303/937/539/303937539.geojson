@@ -2,13 +2,14 @@
   "id": 303937539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.998933,36.367338,-95.998933,36.367338",
     "geom:latitude":36.367338,
     "geom:longitude":-95.998933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S Broadway St",
     "sg:city":"Skiatook",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303937539,
-    "wof:lastmodified":1448998580,
+    "wof:lastmodified":1466767021,
     "wof:name":"Skiatook Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-95.998933,36.367338,-95.998933,36.367338],
-  "geometry": {"coordinates":[-95.998933,36.367338],"type":"Point"}
+  "bbox": [
+    -95.998933,
+    36.367338,
+    -95.998933,
+    36.367338
+],
+  "geometry": {"coordinates":[-95.99893299999999,36.367338],"type":"Point"}
 }

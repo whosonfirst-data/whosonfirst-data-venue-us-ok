@@ -2,13 +2,14 @@
   "id": 303592601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.538648,35.420808,-97.538648,35.420808",
     "geom:latitude":35.420808,
     "geom:longitude":-97.538648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 SW 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303592601,
-    "wof:lastmodified":1448999523,
+    "wof:lastmodified":1466766175,
     "wof:name":"Happily Ever After Childcare",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.538648,35.420808,-97.538648,35.420808],
-  "geometry": {"coordinates":[-97.538648,35.420808],"type":"Point"}
+  "bbox": [
+    -97.538648,
+    35.420808,
+    -97.538648,
+    35.420808
+],
+  "geometry": {"coordinates":[-97.53864799999999,35.420808],"type":"Point"}
 }

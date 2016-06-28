@@ -2,13 +2,14 @@
   "id": 287277341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.899602,36.753206,-95.899602,36.753206",
     "geom:latitude":36.753206,
     "geom:longitude":-95.899602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Lee Dr",
     "sg:city":"Drumright",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287277341,
-    "wof:lastmodified":1449000762,
+    "wof:lastmodified":1466763092,
     "wof:name":"Oklaham Amblatory Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.899602,36.753206,-95.899602,36.753206],
+  "bbox": [
+    -95.899602,
+    36.753206,
+    -95.899602,
+    36.753206
+],
   "geometry": {"coordinates":[-95.899602,36.753206],"type":"Point"}
 }

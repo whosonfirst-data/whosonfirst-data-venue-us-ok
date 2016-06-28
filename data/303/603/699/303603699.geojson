@@ -2,13 +2,14 @@
   "id": 303603699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.961869,35.676027,-95.961869,35.676027",
     "geom:latitude":35.676027,
     "geom:longitude":-95.961869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12450 N 230 Rd",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303603699,
-    "wof:lastmodified":1449000183,
+    "wof:lastmodified":1466766317,
     "wof:name":"Bill Byars Okmulgee Trailer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trailer"
     ]
 },
-  "bbox": [-95.961869,35.676027,-95.961869,35.676027],
-  "geometry": {"coordinates":[-95.961869,35.676027],"type":"Point"}
+  "bbox": [
+    -95.961869,
+    35.676027,
+    -95.961869,
+    35.676027
+],
+  "geometry": {"coordinates":[-95.96186899999999,35.676027],"type":"Point"}
 }

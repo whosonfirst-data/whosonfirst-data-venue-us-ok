@@ -2,13 +2,14 @@
   "id": 303611765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.984356,36.029976,-95.984356,36.029976",
     "geom:latitude":36.029976,
     "geom:longitude":-95.984356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"926 N Juniper St",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303611765,
-    "wof:lastmodified":1449000046,
+    "wof:lastmodified":1466766245,
     "wof:name":"M S Miscellaneous",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-95.984356,36.029976,-95.984356,36.029976],
-  "geometry": {"coordinates":[-95.984356,36.029976],"type":"Point"}
+  "bbox": [
+    -95.984356,
+    36.029976,
+    -95.984356,
+    36.029976
+],
+  "geometry": {"coordinates":[-95.98435600000001,36.029976],"type":"Point"}
 }

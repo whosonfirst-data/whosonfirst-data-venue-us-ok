@@ -2,13 +2,14 @@
   "id": 303195185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.629302,35.582869,-97.629302,35.582869",
     "geom:latitude":35.582869,
     "geom:longitude":-97.629302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6405 Beaver Creek Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303195185,
-    "wof:lastmodified":1448999724,
+    "wof:lastmodified":1466764280,
     "wof:name":"Territories Oil",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "lease"
     ]
 },
-  "bbox": [-97.629302,35.582869,-97.629302,35.582869],
+  "bbox": [
+    -97.629302,
+    35.582869,
+    -97.629302,
+    35.582869
+],
   "geometry": {"coordinates":[-97.629302,35.582869],"type":"Point"}
 }

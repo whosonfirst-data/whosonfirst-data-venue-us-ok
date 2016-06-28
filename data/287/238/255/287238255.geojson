@@ -2,13 +2,14 @@
   "id": 287238255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.665439,35.750239,-96.665439,35.750239",
     "geom:latitude":35.750239,
     "geom:longitude":-96.665439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 W 4th St",
     "sg:city":"Stroud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287238255,
-    "wof:lastmodified":1449001002,
+    "wof:lastmodified":1466762516,
     "wof:name":"Peggy's New Look",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.665439,35.750239,-96.665439,35.750239],
-  "geometry": {"coordinates":[-96.665439,35.750239],"type":"Point"}
+  "bbox": [
+    -96.665439,
+    35.750239,
+    -96.665439,
+    35.750239
+],
+  "geometry": {"coordinates":[-96.66543900000001,35.750239],"type":"Point"}
 }

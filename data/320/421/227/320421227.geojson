@@ -2,13 +2,14 @@
   "id": 320421227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.482093,36.686769,-101.482093,36.686769",
     "geom:latitude":36.686769,
     "geom:longitude":-101.482093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 NW 9th St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320421227,
-    "wof:lastmodified":1449013630,
+    "wof:lastmodified":1466765734,
     "wof:name":"Rip's Building & Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-101.482093,36.686769,-101.482093,36.686769],
-  "geometry": {"coordinates":[-101.482093,36.686769],"type":"Point"}
+  "bbox": [
+    -101.482093,
+    36.686769,
+    -101.482093,
+    36.686769
+],
+  "geometry": {"coordinates":[-101.48209300000001,36.686769],"type":"Point"}
 }

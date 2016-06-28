@@ -2,13 +2,14 @@
   "id": 320620611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.141013,34.512806,-99.141013,34.512806",
     "geom:latitude":34.512806,
     "geom:longitude":-99.141013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Broadway Ave",
     "sg:city":"Tipton",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320620611,
-    "wof:lastmodified":1449014642,
+    "wof:lastmodified":1466766409,
     "wof:name":"Tipton Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-99.141013,34.512806,-99.141013,34.512806],
+  "bbox": [
+    -99.141013,
+    34.512806,
+    -99.141013,
+    34.512806
+],
   "geometry": {"coordinates":[-99.141013,34.512806],"type":"Point"}
 }

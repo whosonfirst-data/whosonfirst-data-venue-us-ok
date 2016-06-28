@@ -2,13 +2,14 @@
   "id": 303067925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.409443,35.464051,-97.409443,35.464051",
     "geom:latitude":35.464051,
     "geom:longitude":-97.409443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6838 E Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303067925,
-    "wof:lastmodified":1448998277,
+    "wof:lastmodified":1466762709,
     "wof:name":"J's Hallmark Shop",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.409443,35.464051,-97.409443,35.464051],
+  "bbox": [
+    -97.409443,
+    35.464051,
+    -97.409443,
+    35.464051
+],
   "geometry": {"coordinates":[-97.409443,35.464051],"type":"Point"}
 }

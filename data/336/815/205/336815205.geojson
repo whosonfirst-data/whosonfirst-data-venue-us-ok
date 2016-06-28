@@ -2,13 +2,14 @@
   "id": 336815205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.947336,36.031913,-95.947336,36.031913",
     "geom:latitude":36.031913,
     "geom:longitude":-95.947336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2921 E 91st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336815205,
-    "wof:lastmodified":1448997478,
+    "wof:lastmodified":1466764840,
     "wof:name":"Feline Spc Vterinary Hospitals",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinary"
     ]
 },
-  "bbox": [-95.947336,36.031913,-95.947336,36.031913],
-  "geometry": {"coordinates":[-95.947336,36.031913],"type":"Point"}
+  "bbox": [
+    -95.947336,
+    36.031913,
+    -95.947336,
+    36.031913
+],
+  "geometry": {"coordinates":[-95.94733600000001,36.031913],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303591875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.393267,35.465067,-97.393267,35.465067",
     "geom:latitude":35.465067,
     "geom:longitude":-97.393267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Parklawn Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303591875,
-    "wof:lastmodified":1448999430,
+    "wof:lastmodified":1466766167,
     "wof:name":"J A Young Anesthesia Assoc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurse"
     ]
 },
-  "bbox": [-97.393267,35.465067,-97.393267,35.465067],
-  "geometry": {"coordinates":[-97.393267,35.465067],"type":"Point"}
+  "bbox": [
+    -97.393267,
+    35.465067,
+    -97.393267,
+    35.465067
+],
+  "geometry": {"coordinates":[-97.39326699999999,35.465067],"type":"Point"}
 }

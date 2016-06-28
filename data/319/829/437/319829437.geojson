@@ -2,13 +2,14 @@
   "id": 319829437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.359602,35.008428,-97.359602,35.008428",
     "geom:latitude":35.008428,
     "geom:longitude":-97.359602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"426 S Canadian Ave",
     "sg:city":"Purcell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319829437,
-    "wof:lastmodified":1449024836,
+    "wof:lastmodified":1466762944,
     "wof:name":"Wadley Ambulance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-97.359602,35.008428,-97.359602,35.008428],
+  "bbox": [
+    -97.359602,
+    35.008428,
+    -97.359602,
+    35.008428
+],
   "geometry": {"coordinates":[-97.359602,35.008428],"type":"Point"}
 }

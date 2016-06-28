@@ -2,13 +2,14 @@
   "id": 303486915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.058614,36.108986,-97.058614,36.108986",
     "geom:latitude":36.108986,
     "geom:longitude":-97.058614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 S Main St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303486915,
-    "wof:lastmodified":1448999485,
+    "wof:lastmodified":1466765798,
     "wof:name":"Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-97.058614,36.108986,-97.058614,36.108986],
-  "geometry": {"coordinates":[-97.058614,36.108986],"type":"Point"}
+  "bbox": [
+    -97.058614,
+    36.108986,
+    -97.058614,
+    36.108986
+],
+  "geometry": {"coordinates":[-97.05861400000001,36.108986],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320353711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534241,35.507768,-97.534241,35.507768",
     "geom:latitude":35.507768,
     "geom:longitude":-97.534241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320353711,
-    "wof:lastmodified":1449012335,
+    "wof:lastmodified":1466765401,
     "wof:name":"Jerry Portis",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.534241,35.507768,-97.534241,35.507768],
-  "geometry": {"coordinates":[-97.534241,35.507768],"type":"Point"}
+  "bbox": [
+    -97.534241,
+    35.507768,
+    -97.534241,
+    35.507768
+],
+  "geometry": {"coordinates":[-97.53424099999999,35.507768],"type":"Point"}
 }

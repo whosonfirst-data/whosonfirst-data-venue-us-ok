@@ -2,13 +2,14 @@
   "id": 353543531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.956389,36.77159,-95.956389,36.77159",
     "geom:latitude":36.77159,
     "geom:longitude":-95.956389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16380 State Hwy 123",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353543531,
-    "wof:lastmodified":1449018752,
+    "wof:lastmodified":1466763752,
     "wof:name":"Synergy Gas Bartlesville 1141",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "gas"
     ]
 },
-  "bbox": [-95.956389,36.77159,-95.956389,36.77159],
+  "bbox": [
+    -95.956389,
+    36.77159,
+    -95.956389,
+    36.77159
+],
   "geometry": {"coordinates":[-95.956389,36.77159],"type":"Point"}
 }

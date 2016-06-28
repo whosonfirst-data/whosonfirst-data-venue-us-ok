@@ -2,13 +2,14 @@
   "id": 303345973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.382475,35.725347,-97.382475,35.725347",
     "geom:latitude":35.725347,
     "geom:longitude":-97.382475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3133 E Waterloo Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303345973,
-    "wof:lastmodified":1449000372,
+    "wof:lastmodified":1466765246,
     "wof:name":"Environment First Inc",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "waste"
     ]
 },
-  "bbox": [-97.382475,35.725347,-97.382475,35.725347],
+  "bbox": [
+    -97.382475,
+    35.725347,
+    -97.382475,
+    35.725347
+],
   "geometry": {"coordinates":[-97.382475,35.725347],"type":"Point"}
 }

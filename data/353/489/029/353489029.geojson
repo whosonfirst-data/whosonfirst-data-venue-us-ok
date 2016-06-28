@@ -2,13 +2,14 @@
   "id": 353489029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.544465,35.377209,-97.544465,35.377209",
     "geom:latitude":35.377209,
     "geom:longitude":-97.544465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 SW 89th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353489029,
-    "wof:lastmodified":1449019658,
+    "wof:lastmodified":1466762966,
     "wof:name":"John C Roach Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-97.544465,35.377209,-97.544465,35.377209],
+  "bbox": [
+    -97.544465,
+    35.377209,
+    -97.544465,
+    35.377209
+],
   "geometry": {"coordinates":[-97.544465,35.377209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319953635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.864201,36.292558,-95.864201,36.292558",
     "geom:latitude":36.292558,
     "geom:longitude":-95.864201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10002 E 95th St N",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319953635,
-    "wof:lastmodified":1449024612,
+    "wof:lastmodified":1466764041,
     "wof:name":"Larry Trimble CPA",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.864201,36.292558,-95.864201,36.292558],
-  "geometry": {"coordinates":[-95.864201,36.292558],"type":"Point"}
+  "bbox": [
+    -95.864201,
+    36.292558,
+    -95.864201,
+    36.292558
+],
+  "geometry": {"coordinates":[-95.86420099999999,36.292558],"type":"Point"}
 }

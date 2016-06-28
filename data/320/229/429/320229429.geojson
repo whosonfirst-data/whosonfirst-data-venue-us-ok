@@ -2,13 +2,14 @@
   "id": 320229429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886642,35.945725,-95.886642,35.945725",
     "geom:latitude":35.945725,
     "geom:longitude":-95.886642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15000 S Memorial Dr",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320229429,
-    "wof:lastmodified":1449014215,
+    "wof:lastmodified":1466764651,
     "wof:name":"Bixby Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-95.886642,35.945725,-95.886642,35.945725],
-  "geometry": {"coordinates":[-95.886642,35.945725],"type":"Point"}
+  "bbox": [
+    -95.886642,
+    35.945725,
+    -95.886642,
+    35.945725
+],
+  "geometry": {"coordinates":[-95.88664199999999,35.945725],"type":"Point"}
 }

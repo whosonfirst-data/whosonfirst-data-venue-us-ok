@@ -2,13 +2,14 @@
   "id": 354218213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.878355,36.015965,-95.878355,36.015965",
     "geom:latitude":36.015965,
     "geom:longitude":-95.878355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8765 E 102nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354218213,
-    "wof:lastmodified":1449067046,
+    "wof:lastmodified":1466764025,
     "wof:name":"Wright Industries",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.878355,36.015965,-95.878355,36.015965],
+  "bbox": [
+    -95.878355,
+    36.015965,
+    -95.878355,
+    36.015965
+],
   "geometry": {"coordinates":[-95.878355,36.015965],"type":"Point"}
 }

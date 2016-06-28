@@ -2,13 +2,14 @@
   "id": 303228529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.06989,35.98581,-96.06989,35.98581",
     "geom:latitude":35.98581,
     "geom:longitude":-96.06989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12251 Heywood Hill Rd",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303228529,
-    "wof:lastmodified":1448998880,
+    "wof:lastmodified":1466764589,
     "wof:name":"Oil & Gas Exploration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "exploration"
     ]
 },
-  "bbox": [-96.06989,35.98581,-96.06989,35.98581],
+  "bbox": [
+    -96.06989,
+    35.98581,
+    -96.06989,
+    35.98581
+],
   "geometry": {"coordinates":[-96.06989,35.98581],"type":"Point"}
 }

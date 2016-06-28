@@ -2,13 +2,14 @@
   "id": 303953003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.627856,35.817833,-94.627856,35.817833",
     "geom:latitude":35.817833,
     "geom:longitude":-94.627856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 N 2nd St",
     "sg:city":"Stilwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303953003,
-    "wof:lastmodified":1448999805,
+    "wof:lastmodified":1466767099,
     "wof:name":"Headquarters Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-94.627856,35.817833,-94.627856,35.817833],
-  "geometry": {"coordinates":[-94.627856,35.817833],"type":"Point"}
+  "bbox": [
+    -94.627856,
+    35.817833,
+    -94.627856,
+    35.817833
+],
+  "geometry": {"coordinates":[-94.62785599999999,35.817833],"type":"Point"}
 }

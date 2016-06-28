@@ -2,13 +2,14 @@
   "id": 320066989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.528262,35.491271,-97.528262,35.491271",
     "geom:latitude":35.491271,
     "geom:longitude":-97.528262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 NW 21st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320066989,
-    "wof:lastmodified":1449012353,
+    "wof:lastmodified":1466763280,
     "wof:name":"United Healthcare",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.528262,35.491271,-97.528262,35.491271],
+  "bbox": [
+    -97.528262,
+    35.491271,
+    -97.528262,
+    35.491271
+],
   "geometry": {"coordinates":[-97.528262,35.491271],"type":"Point"}
 }

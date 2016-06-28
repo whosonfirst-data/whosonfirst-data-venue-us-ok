@@ -2,13 +2,14 @@
   "id": 303591815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.852211,36.109073,-95.852211,36.109073",
     "geom:latitude":36.109073,
     "geom:longitude":-95.852211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11045 E 37th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303591815,
-    "wof:lastmodified":1448999428,
+    "wof:lastmodified":1466766167,
     "wof:name":"Fine Floor Finish",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.852211,36.109073,-95.852211,36.109073],
+  "bbox": [
+    -95.852211,
+    36.109073,
+    -95.852211,
+    36.109073
+],
   "geometry": {"coordinates":[-95.852211,36.109073],"type":"Point"}
 }

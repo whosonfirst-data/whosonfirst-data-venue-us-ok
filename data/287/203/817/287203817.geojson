@@ -2,13 +2,14 @@
   "id": 287203817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.488828,35.628202,-97.488828,35.628202",
     "geom:latitude":35.628202,
     "geom:longitude":-97.488828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Centennial Blvd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287203817,
-    "wof:lastmodified":1449001052,
+    "wof:lastmodified":1466764006,
     "wof:name":"APN Healthcare",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "linen"
     ]
 },
-  "bbox": [-97.488828,35.628202,-97.488828,35.628202],
+  "bbox": [
+    -97.488828,
+    35.628202,
+    -97.488828,
+    35.628202
+],
   "geometry": {"coordinates":[-97.488828,35.628202],"type":"Point"}
 }

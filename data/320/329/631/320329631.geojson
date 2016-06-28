@@ -2,13 +2,14 @@
   "id": 320329631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.054919,36.12343,-97.054919,36.12343",
     "geom:latitude":36.12343,
     "geom:longitude":-97.054919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 E Virginia Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320329631,
-    "wof:lastmodified":1449012296,
+    "wof:lastmodified":1466765481,
     "wof:name":"Biospec Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instrument"
     ]
 },
-  "bbox": [-97.054919,36.12343,-97.054919,36.12343],
+  "bbox": [
+    -97.054919,
+    36.12343,
+    -97.054919,
+    36.12343
+],
   "geometry": {"coordinates":[-97.054919,36.12343],"type":"Point"}
 }

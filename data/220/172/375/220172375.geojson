@@ -2,13 +2,14 @@
   "id": 220172375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967117,36.145359,-95.967117,36.145359",
     "geom:latitude":36.145359,
     "geom:longitude":-95.967117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1265 S Utica Ave Suite 300",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -84,10 +85,11 @@
         }
     ],
     "wof:id":220172375,
-    "wof:lastmodified":1449074361,
+    "wof:lastmodified":1466762323,
     "wof:name":"OKLAHOMA HEART INSTITUTE",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -106,6 +108,11 @@
         "physical"
     ]
 },
-  "bbox": [-95.967117,36.145359,-95.967117,36.145359],
+  "bbox": [
+    -95.967117,
+    36.145359,
+    -95.967117,
+    36.145359
+],
   "geometry": {"coordinates":[-95.967117,36.145359],"type":"Point"}
 }

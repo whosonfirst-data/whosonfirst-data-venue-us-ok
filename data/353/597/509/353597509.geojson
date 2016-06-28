@@ -2,13 +2,14 @@
   "id": 353597509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.856308,36.174146,-95.856308,36.174146",
     "geom:latitude":36.174146,
     "geom:longitude":-95.856308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10822 E Newton Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353597509,
-    "wof:lastmodified":1449020740,
+    "wof:lastmodified":1466764460,
     "wof:name":"Mighty Bilt",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.856308,36.174146,-95.856308,36.174146],
+  "bbox": [
+    -95.856308,
+    36.174146,
+    -95.856308,
+    36.174146
+],
   "geometry": {"coordinates":[-95.856308,36.174146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303876683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.978777,34.523689,-97.978777,34.523689",
     "geom:latitude":34.523689,
     "geom:longitude":-97.978777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Brookwood Ave",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303876683,
-    "wof:lastmodified":1448998607,
+    "wof:lastmodified":1466766919,
     "wof:name":"Charles W Dickerson MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medical"
     ]
 },
-  "bbox": [-97.978777,34.523689,-97.978777,34.523689],
-  "geometry": {"coordinates":[-97.978777,34.523689],"type":"Point"}
+  "bbox": [
+    -97.978777,
+    34.523689,
+    -97.978777,
+    34.523689
+],
+  "geometry": {"coordinates":[-97.97877699999999,34.523689],"type":"Point"}
 }

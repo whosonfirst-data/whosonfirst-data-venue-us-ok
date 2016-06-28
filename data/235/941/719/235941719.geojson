@@ -2,13 +2,14 @@
   "id": 235941719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.836667,36.118814,-95.836667,36.118814",
     "geom:latitude":36.118814,
     "geom:longitude":-95.836667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12644 E 31st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235941719,
-    "wof:lastmodified":1449008450,
+    "wof:lastmodified":1466762483,
     "wof:name":"Supermercado Don Quijote",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.836667,36.118814,-95.836667,36.118814],
-  "geometry": {"coordinates":[-95.836667,36.118814],"type":"Point"}
+  "bbox": [
+    -95.836667,
+    36.118814,
+    -95.836667,
+    36.118814
+],
+  "geometry": {"coordinates":[-95.83666700000001,36.118814],"type":"Point"}
 }

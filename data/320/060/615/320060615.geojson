@@ -2,13 +2,14 @@
   "id": 320060615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.944287,36.405403,-97.944287,36.405403",
     "geom:latitude":36.405403,
     "geom:longitude":-97.944287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6102 W Chestnut Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320060615,
-    "wof:lastmodified":1449014622,
+    "wof:lastmodified":1466763189,
     "wof:name":"Pheasant Run Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.944287,36.405403,-97.944287,36.405403],
+  "bbox": [
+    -97.944287,
+    36.405403,
+    -97.944287,
+    36.405403
+],
   "geometry": {"coordinates":[-97.944287,36.405403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319890419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.34122,35.261777,-97.34122,35.261777",
     "geom:latitude":35.261777,
     "geom:longitude":-97.34122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6675 E Tecumseh Rd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319890419,
-    "wof:lastmodified":1449024272,
+    "wof:lastmodified":1466763469,
     "wof:name":"Kear Construction",
     "wof:parent_id":85814357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "street"
     ]
 },
-  "bbox": [-97.34122,35.261777,-97.34122,35.261777],
-  "geometry": {"coordinates":[-97.34122,35.261777],"type":"Point"}
+  "bbox": [
+    -97.34122,
+    35.261777,
+    -97.34122,
+    35.261777
+],
+  "geometry": {"coordinates":[-97.34122000000001,35.261777],"type":"Point"}
 }

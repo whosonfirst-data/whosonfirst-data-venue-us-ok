@@ -2,13 +2,14 @@
   "id": 320070313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.068986,34.174283,-97.068986,34.174283",
     "geom:latitude":34.174283,
     "geom:longitude":-97.068986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Beaumont Dr",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320070313,
-    "wof:lastmodified":1449013082,
+    "wof:lastmodified":1466763327,
     "wof:name":"Troy Krasser Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.068986,34.174283,-97.068986,34.174283],
+  "bbox": [
+    -97.068986,
+    34.174283,
+    -97.068986,
+    34.174283
+],
   "geometry": {"coordinates":[-97.068986,34.174283],"type":"Point"}
 }

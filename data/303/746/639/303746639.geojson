@@ -2,13 +2,14 @@
   "id": 303746639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.545533,35.467853,-97.545533,35.467853",
     "geom:latitude":35.467853,
     "geom:longitude":-97.545533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 W Main St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303746639,
-    "wof:lastmodified":1448998096,
+    "wof:lastmodified":1466766496,
     "wof:name":"Don's J & J Garage Inc",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.545533,35.467853,-97.545533,35.467853],
-  "geometry": {"coordinates":[-97.545533,35.467853],"type":"Point"}
+  "bbox": [
+    -97.545533,
+    35.467853,
+    -97.545533,
+    35.467853
+],
+  "geometry": {"coordinates":[-97.54553300000001,35.467853],"type":"Point"}
 }

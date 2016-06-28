@@ -2,13 +2,14 @@
   "id": 220173025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.96711,36.139172,-95.96711,36.139172",
     "geom:latitude":36.139172,
     "geom:longitude":-95.96711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 S Utica Ave Ste 278",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220173025,
-    "wof:lastmodified":1449074196,
+    "wof:lastmodified":1466764180,
     "wof:name":"Hmk Properties",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-95.96711,36.139172,-95.96711,36.139172],
-  "geometry": {"coordinates":[-95.96711,36.139172],"type":"Point"}
+  "bbox": [
+    -95.96711,
+    36.139172,
+    -95.96711,
+    36.139172
+],
+  "geometry": {"coordinates":[-95.96711000000001,36.139172],"type":"Point"}
 }

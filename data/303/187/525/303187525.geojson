@@ -2,13 +2,14 @@
   "id": 303187525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.362592,35.759019,-95.362592,35.759019",
     "geom:latitude":35.759019,
     "geom:longitude":-95.362592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 N Main St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303187525,
-    "wof:lastmodified":1448998482,
+    "wof:lastmodified":1466764354,
     "wof:name":"Standard Supply",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.362592,35.759019,-95.362592,35.759019],
-  "geometry": {"coordinates":[-95.362592,35.759019],"type":"Point"}
+  "bbox": [
+    -95.362592,
+    35.759019,
+    -95.362592,
+    35.759019
+],
+  "geometry": {"coordinates":[-95.36259200000001,35.759019],"type":"Point"}
 }

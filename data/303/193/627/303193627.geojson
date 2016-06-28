@@ -2,13 +2,14 @@
   "id": 303193627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.97061,35.621173,-95.97061,35.621173",
     "geom:latitude":35.621173,
     "geom:longitude":-95.97061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 S Central Ave",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303193627,
-    "wof:lastmodified":1448998514,
+    "wof:lastmodified":1466764269,
     "wof:name":"Ra Kirkpatrick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dentist"
     ]
 },
-  "bbox": [-95.97061,35.621173,-95.97061,35.621173],
-  "geometry": {"coordinates":[-95.97061,35.621173],"type":"Point"}
+  "bbox": [
+    -95.97061,
+    35.621173,
+    -95.97061,
+    35.621173
+],
+  "geometry": {"coordinates":[-95.97060999999999,35.621173],"type":"Point"}
 }

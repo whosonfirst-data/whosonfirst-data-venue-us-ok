@@ -2,13 +2,14 @@
   "id": 303262683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.884099,36.271178,-95.884099,36.271178",
     "geom:latitude":36.271178,
     "geom:longitude":-95.884099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 N Memorial Dr",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303262683,
-    "wof:lastmodified":1448999633,
+    "wof:lastmodified":1466764774,
     "wof:name":"Alpha Wrecker Svc",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-95.884099,36.271178,-95.884099,36.271178],
-  "geometry": {"coordinates":[-95.884099,36.271178],"type":"Point"}
+  "bbox": [
+    -95.884099,
+    36.271178,
+    -95.884099,
+    36.271178
+],
+  "geometry": {"coordinates":[-95.88409900000001,36.271178],"type":"Point"}
 }

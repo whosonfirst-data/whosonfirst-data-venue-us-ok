@@ -2,13 +2,14 @@
   "id": 303992067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.411583,35.471789,-97.411583,35.471789",
     "geom:latitude":35.471789,
     "geom:longitude":-97.411583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 W Silver Meadow Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303992067,
-    "wof:lastmodified":1448999271,
+    "wof:lastmodified":1466767072,
     "wof:name":"Dean's Sweeping & Striping Svc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-97.411583,35.471789,-97.411583,35.471789],
-  "geometry": {"coordinates":[-97.411583,35.471789],"type":"Point"}
+  "bbox": [
+    -97.411583,
+    35.471789,
+    -97.411583,
+    35.471789
+],
+  "geometry": {"coordinates":[-97.41158299999999,35.471789],"type":"Point"}
 }

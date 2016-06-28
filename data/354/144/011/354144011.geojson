@@ -2,13 +2,14 @@
   "id": 354144011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.724772,35.457544,-97.724772,35.457544",
     "geom:latitude":35.457544,
     "geom:longitude":-97.724772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"869 S Mustang Rd",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354144011,
-    "wof:lastmodified":1449067213,
+    "wof:lastmodified":1466764217,
     "wof:name":"Stonehill Homes",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-97.724772,35.457544,-97.724772,35.457544],
+  "bbox": [
+    -97.724772,
+    35.457544,
+    -97.724772,
+    35.457544
+],
   "geometry": {"coordinates":[-97.724772,35.457544],"type":"Point"}
 }

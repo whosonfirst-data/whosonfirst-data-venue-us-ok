@@ -2,13 +2,14 @@
   "id": 220162215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.846886,36.286736,-95.846886,36.286736",
     "geom:latitude":36.286736,
     "geom:longitude":-95.846886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9010 N 121st East Ave",
     "sg:city":"Owasso",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220162215,
-    "wof:lastmodified":1449074750,
+    "wof:lastmodified":1466762300,
     "wof:name":"T-Mobile",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.846886,36.286736,-95.846886,36.286736],
+  "bbox": [
+    -95.846886,
+    36.286736,
+    -95.846886,
+    36.286736
+],
   "geometry": {"coordinates":[-95.846886,36.286736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304023955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.027116,36.10176,-96.027116,36.10176",
     "geom:latitude":36.10176,
     "geom:longitude":-96.027116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4237 Southwest Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304023955,
-    "wof:lastmodified":1449044107,
+    "wof:lastmodified":1466762945,
     "wof:name":"Med X Drug 4",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-96.027116,36.10176,-96.027116,36.10176],
-  "geometry": {"coordinates":[-96.027116,36.10176],"type":"Point"}
+  "bbox": [
+    -96.027116,
+    36.10176,
+    -96.027116,
+    36.10176
+],
+  "geometry": {"coordinates":[-96.02711600000001,36.10176],"type":"Point"}
 }

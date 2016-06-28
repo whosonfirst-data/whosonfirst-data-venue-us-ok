@@ -2,13 +2,14 @@
   "id": 353740391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.595018,35.478857,-97.595018,35.478857",
     "geom:latitude":35.478857,
     "geom:longitude":-97.595018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4220 NW 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353740391,
-    "wof:lastmodified":1449019422,
+    "wof:lastmodified":1466764965,
     "wof:name":"Monterrey Courtyard Apartments",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.595018,35.478857,-97.595018,35.478857],
+  "bbox": [
+    -97.595018,
+    35.478857,
+    -97.595018,
+    35.478857
+],
   "geometry": {"coordinates":[-97.595018,35.478857],"type":"Point"}
 }

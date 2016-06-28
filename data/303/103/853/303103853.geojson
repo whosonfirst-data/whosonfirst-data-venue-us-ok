@@ -2,13 +2,14 @@
   "id": 303103853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.673412,36.797609,-98.673412,36.797609",
     "geom:latitude":36.797609,
     "geom:longitude":-98.673412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Oklahoma Blvd",
     "sg:city":"Alva",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303103853,
-    "wof:lastmodified":1448999647,
+    "wof:lastmodified":1466763298,
     "wof:name":"Chopsticks Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-98.673412,36.797609,-98.673412,36.797609],
+  "bbox": [
+    -98.673412,
+    36.797609,
+    -98.673412,
+    36.797609
+],
   "geometry": {"coordinates":[-98.673412,36.797609],"type":"Point"}
 }

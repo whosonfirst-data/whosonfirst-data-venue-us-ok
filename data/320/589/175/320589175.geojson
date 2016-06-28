@@ -2,13 +2,14 @@
   "id": 320589175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.296325,35.726056,-95.296325,35.726056",
     "geom:latitude":35.726056,
     "geom:longitude":-95.296325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5006 E Hancock Rd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320589175,
-    "wof:lastmodified":1449013257,
+    "wof:lastmodified":1466766261,
     "wof:name":"Pollution Control Plant",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-95.296325,35.726056,-95.296325,35.726056],
+  "bbox": [
+    -95.296325,
+    35.726056,
+    -95.296325,
+    35.726056
+],
   "geometry": {"coordinates":[-95.296325,35.726056],"type":"Point"}
 }

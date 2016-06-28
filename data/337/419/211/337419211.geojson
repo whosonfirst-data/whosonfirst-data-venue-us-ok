@@ -2,13 +2,14 @@
   "id": 337419211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.402234,35.407393,-99.402234,35.407393",
     "geom:latitude":35.407393,
     "geom:longitude":-99.402234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E 7th St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337419211,
-    "wof:lastmodified":1449027722,
+    "wof:lastmodified":1466764043,
     "wof:name":"Progressive Ag Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cotton"
     ]
 },
-  "bbox": [-99.402234,35.407393,-99.402234,35.407393],
-  "geometry": {"coordinates":[-99.402234,35.407393],"type":"Point"}
+  "bbox": [
+    -99.402234,
+    35.407393,
+    -99.402234,
+    35.407393
+],
+  "geometry": {"coordinates":[-99.40223400000001,35.407393],"type":"Point"}
 }

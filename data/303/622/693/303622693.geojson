@@ -2,13 +2,14 @@
   "id": 303622693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.476611,35.659096,-97.476611,35.659096",
     "geom:latitude":35.659096,
     "geom:longitude":-97.476611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E Ayers St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":303622693,
-    "wof:lastmodified":1449000117,
+    "wof:lastmodified":1466766258,
     "wof:name":"About Insurance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.476611,35.659096,-97.476611,35.659096],
-  "geometry": {"coordinates":[-97.476611,35.659096],"type":"Point"}
+  "bbox": [
+    -97.476611,
+    35.659096,
+    -97.476611,
+    35.659096
+],
+  "geometry": {"coordinates":[-97.47661100000001,35.659096],"type":"Point"}
 }

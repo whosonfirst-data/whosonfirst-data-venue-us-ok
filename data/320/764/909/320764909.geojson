@@ -2,13 +2,14 @@
   "id": 320764909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.441638,35.48793,-97.441638,35.48793",
     "geom:latitude":35.48793,
     "geom:longitude":-97.441638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4125 NE 16th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320764909,
-    "wof:lastmodified":1449014785,
+    "wof:lastmodified":1466766748,
     "wof:name":"Collins Community A M E Church",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.441638,35.48793,-97.441638,35.48793],
+  "bbox": [
+    -97.441638,
+    35.48793,
+    -97.441638,
+    35.48793
+],
   "geometry": {"coordinates":[-97.441638,35.48793],"type":"Point"}
 }

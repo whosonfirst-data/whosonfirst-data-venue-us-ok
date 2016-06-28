@@ -2,13 +2,14 @@
   "id": 320624923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480178,35.439032,-97.480178,35.439032",
     "geom:latitude":35.439032,
     "geom:longitude":-97.480178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 SE 25th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320624923,
-    "wof:lastmodified":1449013839,
+    "wof:lastmodified":1466766421,
     "wof:name":"Mr Hoseco",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hose"
     ]
 },
-  "bbox": [-97.480178,35.439032,-97.480178,35.439032],
+  "bbox": [
+    -97.480178,
+    35.439032,
+    -97.480178,
+    35.439032
+],
   "geometry": {"coordinates":[-97.480178,35.439032],"type":"Point"}
 }

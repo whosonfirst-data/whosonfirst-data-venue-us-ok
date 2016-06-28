@@ -2,13 +2,14 @@
   "id": 353800879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.659602,35.594621,-97.659602,35.594621",
     "geom:latitude":35.594621,
     "geom:longitude":-97.659602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8120 NW 122nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353800879,
-    "wof:lastmodified":1449018458,
+    "wof:lastmodified":1466765240,
     "wof:name":"Storytime Child Care",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.659602,35.594621,-97.659602,35.594621],
-  "geometry": {"coordinates":[-97.659602,35.594621],"type":"Point"}
+  "bbox": [
+    -97.659602,
+    35.594621,
+    -97.659602,
+    35.594621
+],
+  "geometry": {"coordinates":[-97.65960200000001,35.594621],"type":"Point"}
 }

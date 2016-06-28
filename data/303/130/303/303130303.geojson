@@ -2,13 +2,14 @@
   "id": 303130303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.088282,35.080593,-98.088282,35.080593",
     "geom:latitude":35.080593,
     "geom:longitude":-98.088282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 S Main St",
     "sg:city":"Verden",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303130303,
-    "wof:lastmodified":1448998956,
+    "wof:lastmodified":1466763726,
     "wof:name":"Verden Senior Nutrition Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "citizen"
     ]
 },
-  "bbox": [-98.088282,35.080593,-98.088282,35.080593],
-  "geometry": {"coordinates":[-98.088282,35.080593],"type":"Point"}
+  "bbox": [
+    -98.088282,
+    35.080593,
+    -98.088282,
+    35.080593
+],
+  "geometry": {"coordinates":[-98.08828200000001,35.080593],"type":"Point"}
 }

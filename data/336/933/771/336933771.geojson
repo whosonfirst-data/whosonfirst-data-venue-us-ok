@@ -2,13 +2,14 @@
   "id": 336933771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.857813,36.076664,-95.857813,36.076664",
     "geom:latitude":36.076664,
     "geom:longitude":-95.857813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5676 S 107th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336933771,
-    "wof:lastmodified":1448997169,
+    "wof:lastmodified":1466765395,
     "wof:name":"Tulsa Landscape Inc",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.857813,36.076664,-95.857813,36.076664],
-  "geometry": {"coordinates":[-95.857813,36.076664],"type":"Point"}
+  "bbox": [
+    -95.857813,
+    36.076664,
+    -95.857813,
+    36.076664
+],
+  "geometry": {"coordinates":[-95.85781299999999,36.076664],"type":"Point"}
 }

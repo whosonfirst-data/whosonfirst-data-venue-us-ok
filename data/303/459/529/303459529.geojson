@@ -2,13 +2,14 @@
   "id": 303459529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733727,35.585523,-97.733727,35.585523",
     "geom:latitude":35.585523,
     "geom:longitude":-97.733727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11716 Hackney Ln",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303459529,
-    "wof:lastmodified":1448999114,
+    "wof:lastmodified":1466765552,
     "wof:name":"Kmh Enterprises",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.733727,35.585523,-97.733727,35.585523],
+  "bbox": [
+    -97.733727,
+    35.585523,
+    -97.733727,
+    35.585523
+],
   "geometry": {"coordinates":[-97.733727,35.585523],"type":"Point"}
 }

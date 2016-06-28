@@ -2,13 +2,14 @@
   "id": 303491811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.542815,35.491067,-97.542815,35.491067",
     "geom:latitude":35.491067,
     "geom:longitude":-97.542815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2102 N Indiana Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303491811,
-    "wof:lastmodified":1448998074,
+    "wof:lastmodified":1466765735,
     "wof:name":"Foster Distributing",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.542815,35.491067,-97.542815,35.491067],
+  "bbox": [
+    -97.542815,
+    35.491067,
+    -97.542815,
+    35.491067
+],
   "geometry": {"coordinates":[-97.542815,35.491067],"type":"Point"}
 }

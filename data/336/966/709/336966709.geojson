@@ -2,13 +2,14 @@
   "id": 336966709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975648,36.102656,-95.975648,36.102656",
     "geom:latitude":36.102656,
     "geom:longitude":-95.975648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4125 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336966709,
-    "wof:lastmodified":1448996925,
+    "wof:lastmodified":1466765558,
     "wof:name":"Silver Dollar Jewelry",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-95.975648,36.102656,-95.975648,36.102656],
-  "geometry": {"coordinates":[-95.975648,36.102656],"type":"Point"}
+  "bbox": [
+    -95.975648,
+    36.102656,
+    -95.975648,
+    36.102656
+],
+  "geometry": {"coordinates":[-95.97564800000001,36.102656],"type":"Point"}
 }

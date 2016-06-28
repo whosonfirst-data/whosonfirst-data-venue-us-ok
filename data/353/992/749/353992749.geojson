@@ -2,13 +2,14 @@
   "id": 353992749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.58672,35.511157,-97.58672,35.511157",
     "geom:latitude":35.511157,
     "geom:longitude":-97.58672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3810 NW 39th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353992749,
-    "wof:lastmodified":1449019459,
+    "wof:lastmodified":1466765868,
     "wof:name":"39th Street Emporium",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-97.58672,35.511157,-97.58672,35.511157],
+  "bbox": [
+    -97.58672,
+    35.511157,
+    -97.58672,
+    35.511157
+],
   "geometry": {"coordinates":[-97.58672,35.511157],"type":"Point"}
 }

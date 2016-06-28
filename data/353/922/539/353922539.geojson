@@ -2,13 +2,14 @@
   "id": 353922539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.568782,35.399215,-97.568782,35.399215",
     "geom:latitude":35.399215,
     "geom:longitude":-97.568782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3032 SW 64th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353922539,
-    "wof:lastmodified":1449018493,
+    "wof:lastmodified":1466765609,
     "wof:name":"Powell Consulting",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-97.568782,35.399215,-97.568782,35.399215],
+  "bbox": [
+    -97.568782,
+    35.399215,
+    -97.568782,
+    35.399215
+],
   "geometry": {"coordinates":[-97.568782,35.399215],"type":"Point"}
 }

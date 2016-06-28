@@ -2,13 +2,14 @@
   "id": 320776157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531658,35.522409,-97.531658,35.522409",
     "geom:latitude":35.522409,
     "geom:longitude":-97.531658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 NW 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320776157,
-    "wof:lastmodified":1449012071,
+    "wof:lastmodified":1466766777,
     "wof:name":"Maverick Energy Inc",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "lease"
     ]
 },
-  "bbox": [-97.531658,35.522409,-97.531658,35.522409],
-  "geometry": {"coordinates":[-97.531658,35.522409],"type":"Point"}
+  "bbox": [
+    -97.531658,
+    35.522409,
+    -97.531658,
+    35.522409
+],
+  "geometry": {"coordinates":[-97.53165799999999,35.522409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320660005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.051364,36.079831,-97.051364,36.079831",
     "geom:latitude":36.079831,
     "geom:longitude":-97.051364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 S Perkins Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320660005,
-    "wof:lastmodified":1449014577,
+    "wof:lastmodified":1466766351,
     "wof:name":"Colts Model LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.051364,36.079831,-97.051364,36.079831],
-  "geometry": {"coordinates":[-97.051364,36.079831],"type":"Point"}
+  "bbox": [
+    -97.051364,
+    36.079831,
+    -97.051364,
+    36.079831
+],
+  "geometry": {"coordinates":[-97.05136400000001,36.079831],"type":"Point"}
 }

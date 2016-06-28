@@ -2,13 +2,14 @@
   "id": 320799145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.393678,35.747301,-95.393678,35.747301",
     "geom:latitude":35.747301,
     "geom:longitude":-95.393678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 S 24th St W",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320799145,
-    "wof:lastmodified":1449014986,
+    "wof:lastmodified":1466766837,
     "wof:name":"Muskogee Children's Ctr",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.393678,35.747301,-95.393678,35.747301],
-  "geometry": {"coordinates":[-95.393678,35.747301],"type":"Point"}
+  "bbox": [
+    -95.393678,
+    35.747301,
+    -95.393678,
+    35.747301
+],
+  "geometry": {"coordinates":[-95.39367799999999,35.747301],"type":"Point"}
 }

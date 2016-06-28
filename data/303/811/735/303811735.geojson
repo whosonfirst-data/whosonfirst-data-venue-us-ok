@@ -2,13 +2,14 @@
   "id": 303811735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.472986,35.673278,-97.472986,35.673278",
     "geom:latitude":35.673278,
     "geom:longitude":-97.472986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Ridge Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303811735,
-    "wof:lastmodified":1448999296,
+    "wof:lastmodified":1466766745,
     "wof:name":"Den Cut of Oklahoma Inc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.472986,35.673278,-97.472986,35.673278],
-  "geometry": {"coordinates":[-97.472986,35.673278],"type":"Point"}
+  "bbox": [
+    -97.472986,
+    35.673278,
+    -97.472986,
+    35.673278
+],
+  "geometry": {"coordinates":[-97.47298600000001,35.673278],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287236703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.619091,35.547288,-97.619091,35.547288",
     "geom:latitude":35.547288,
     "geom:longitude":-97.619091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7313 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287236703,
-    "wof:lastmodified":1449000751,
+    "wof:lastmodified":1466762488,
     "wof:name":"William L Carruth DDS",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-97.619091,35.547288,-97.619091,35.547288],
+  "bbox": [
+    -97.619091,
+    35.547288,
+    -97.619091,
+    35.547288
+],
   "geometry": {"coordinates":[-97.619091,35.547288],"type":"Point"}
 }

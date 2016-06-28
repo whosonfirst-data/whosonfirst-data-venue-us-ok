@@ -2,13 +2,14 @@
   "id": 336930869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.146384,34.205089,-97.146384,34.205089",
     "geom:latitude":34.205089,
     "geom:longitude":-97.146384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 N Meadow Dr",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336930869,
-    "wof:lastmodified":1448997288,
+    "wof:lastmodified":1466765366,
     "wof:name":"H B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.146384,34.205089,-97.146384,34.205089],
+  "bbox": [
+    -97.146384,
+    34.205089,
+    -97.146384,
+    34.205089
+],
   "geometry": {"coordinates":[-97.146384,34.205089],"type":"Point"}
 }

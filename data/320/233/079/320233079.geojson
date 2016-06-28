@@ -2,13 +2,14 @@
   "id": 320233079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.944708,36.125022,-95.944708,36.125022",
     "geom:latitude":36.125022,
     "geom:longitude":-95.944708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 E 26th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320233079,
-    "wof:lastmodified":1449015030,
+    "wof:lastmodified":1466764763,
     "wof:name":"Charles Sign Co",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.944708,36.125022,-95.944708,36.125022],
-  "geometry": {"coordinates":[-95.944708,36.125022],"type":"Point"}
+  "bbox": [
+    -95.944708,
+    36.125022,
+    -95.944708,
+    36.125022
+],
+  "geometry": {"coordinates":[-95.94470800000001,36.125022],"type":"Point"}
 }

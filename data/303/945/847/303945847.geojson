@@ -2,13 +2,14 @@
   "id": 303945847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.932786,36.750499,-95.932786,36.750499",
     "geom:latitude":36.750499,
     "geom:longitude":-95.932786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3925 E Frank Phillips Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303945847,
-    "wof:lastmodified":1448998325,
+    "wof:lastmodified":1466767038,
     "wof:name":"Cizzors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.932786,36.750499,-95.932786,36.750499],
-  "geometry": {"coordinates":[-95.932786,36.750499],"type":"Point"}
+  "bbox": [
+    -95.932786,
+    36.750499,
+    -95.932786,
+    36.750499
+],
+  "geometry": {"coordinates":[-95.93278599999999,36.750499],"type":"Point"}
 }

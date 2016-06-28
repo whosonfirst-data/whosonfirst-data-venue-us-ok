@@ -2,13 +2,14 @@
   "id": 303972369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.474601,36.668893,-101.474601,36.668893",
     "geom:latitude":36.668893,
     "geom:longitude":-101.474601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 S East St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303972369,
-    "wof:lastmodified":1448999346,
+    "wof:lastmodified":1466767107,
     "wof:name":"Midwest Machine & Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-101.474601,36.668893,-101.474601,36.668893],
-  "geometry": {"coordinates":[-101.474601,36.668893],"type":"Point"}
+  "bbox": [
+    -101.474601,
+    36.668893,
+    -101.474601,
+    36.668893
+],
+  "geometry": {"coordinates":[-101.47460100000001,36.668893],"type":"Point"}
 }

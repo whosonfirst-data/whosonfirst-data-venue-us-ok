@@ -2,13 +2,14 @@
   "id": 303197055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547869,35.392437,-97.547869,35.392437",
     "geom:latitude":35.392437,
     "geom:longitude":-97.547869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7300 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303197055,
-    "wof:lastmodified":1449000257,
+    "wof:lastmodified":1466764305,
     "wof:name":"Union Bank",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.547869,35.392437,-97.547869,35.392437],
-  "geometry": {"coordinates":[-97.547869,35.392437],"type":"Point"}
+  "bbox": [
+    -97.547869,
+    35.392437,
+    -97.547869,
+    35.392437
+],
+  "geometry": {"coordinates":[-97.54786900000001,35.392437],"type":"Point"}
 }

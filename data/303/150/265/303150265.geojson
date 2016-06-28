@@ -2,13 +2,14 @@
   "id": 303150265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.618905,35.483963,-97.618905,35.483963",
     "geom:latitude":35.483963,
     "geom:longitude":-97.618905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303150265,
-    "wof:lastmodified":1448998148,
+    "wof:lastmodified":1466764047,
     "wof:name":"Metro Motor Co Of Okc",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.618905,35.483963,-97.618905,35.483963],
+  "bbox": [
+    -97.618905,
+    35.483963,
+    -97.618905,
+    35.483963
+],
   "geometry": {"coordinates":[-97.618905,35.483963],"type":"Point"}
 }

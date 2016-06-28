@@ -2,13 +2,14 @@
   "id": 303923449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.101406,34.506457,-97.101406,34.506457",
     "geom:latitude":34.506457,
     "geom:longitude":-97.101406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Greer Dr",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303923449,
-    "wof:lastmodified":1449000485,
+    "wof:lastmodified":1466767086,
     "wof:name":"Davis Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.101406,34.506457,-97.101406,34.506457],
+  "bbox": [
+    -97.101406,
+    34.506457,
+    -97.101406,
+    34.506457
+],
   "geometry": {"coordinates":[-97.101406,34.506457],"type":"Point"}
 }

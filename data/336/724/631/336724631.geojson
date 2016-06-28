@@ -2,13 +2,14 @@
   "id": 336724631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967083,36.146756,-95.967083,36.146756",
     "geom:latitude":36.146756,
     "geom:longitude":-95.967083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1145 S Utica Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336724631,
-    "wof:lastmodified":1448997974,
+    "wof:lastmodified":1466764096,
     "wof:name":"Utica Park Clinic West Tulsa",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.967083,36.146756,-95.967083,36.146756],
+  "bbox": [
+    -95.967083,
+    36.146756,
+    -95.967083,
+    36.146756
+],
   "geometry": {"coordinates":[-95.967083,36.146756],"type":"Point"}
 }

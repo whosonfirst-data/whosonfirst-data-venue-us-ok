@@ -2,13 +2,14 @@
   "id": 303600931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.528427,35.537771,-97.528427,35.537771",
     "geom:latitude":35.537771,
     "geom:longitude":-97.528427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6516 N Olie Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303600931,
-    "wof:lastmodified":1448998345,
+    "wof:lastmodified":1466766198,
     "wof:name":"ACS Medical LLC",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "respiratory"
     ]
 },
-  "bbox": [-97.528427,35.537771,-97.528427,35.537771],
-  "geometry": {"coordinates":[-97.528427,35.537771],"type":"Point"}
+  "bbox": [
+    -97.528427,
+    35.537771,
+    -97.528427,
+    35.537771
+],
+  "geometry": {"coordinates":[-97.52842699999999,35.537771],"type":"Point"}
 }

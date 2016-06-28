@@ -2,13 +2,14 @@
   "id": 336750119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.477945,35.745356,-97.477945,35.745356",
     "geom:latitude":35.745356,
     "geom:longitude":-97.477945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Sherwood Ln",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336750119,
-    "wof:lastmodified":1448997593,
+    "wof:lastmodified":1466764279,
     "wof:name":"Abbott Laboratories",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.477945,35.745356,-97.477945,35.745356],
-  "geometry": {"coordinates":[-97.477945,35.745356],"type":"Point"}
+  "bbox": [
+    -97.477945,
+    35.745356,
+    -97.477945,
+    35.745356
+],
+  "geometry": {"coordinates":[-97.47794500000001,35.745356],"type":"Point"}
 }

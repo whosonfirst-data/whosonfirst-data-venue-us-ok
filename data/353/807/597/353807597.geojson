@@ -2,13 +2,14 @@
   "id": 353807597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976073,36.157623,-95.976073,36.157623",
     "geom:latitude":36.157623,
     "geom:longitude":-95.976073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1232 E 2nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353807597,
-    "wof:lastmodified":1449018917,
+    "wof:lastmodified":1466765357,
     "wof:name":"Perez Distributing Co",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-95.976073,36.157623,-95.976073,36.157623],
+  "bbox": [
+    -95.976073,
+    36.157623,
+    -95.976073,
+    36.157623
+],
   "geometry": {"coordinates":[-95.976073,36.157623],"type":"Point"}
 }

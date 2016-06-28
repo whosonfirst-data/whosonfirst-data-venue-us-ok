@@ -2,13 +2,14 @@
   "id": 287122687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.760787,34.956303,-95.760787,34.956303",
     "geom:latitude":34.956303,
     "geom:longitude":-95.760787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 N Main St",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287122687,
-    "wof:lastmodified":1449001176,
+    "wof:lastmodified":1466763572,
     "wof:name":"Mc Alester North Fire Station",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-95.760787,34.956303,-95.760787,34.956303],
-  "geometry": {"coordinates":[-95.760787,34.956303],"type":"Point"}
+  "bbox": [
+    -95.760787,
+    34.956303,
+    -95.760787,
+    34.956303
+],
+  "geometry": {"coordinates":[-95.76078699999999,34.956303],"type":"Point"}
 }

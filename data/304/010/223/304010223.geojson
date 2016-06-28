@@ -2,13 +2,14 @@
   "id": 304010223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.126959,34.385818,-96.126959,34.385818",
     "geom:latitude":34.385818,
     "geom:longitude":-96.126959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 E Court St",
     "sg:city":"Atoka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304010223,
-    "wof:lastmodified":1449043954,
+    "wof:lastmodified":1466762869,
     "wof:name":"Whittington Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.126959,34.385818,-96.126959,34.385818],
+  "bbox": [
+    -96.126959,
+    34.385818,
+    -96.126959,
+    34.385818
+],
   "geometry": {"coordinates":[-96.126959,34.385818],"type":"Point"}
 }

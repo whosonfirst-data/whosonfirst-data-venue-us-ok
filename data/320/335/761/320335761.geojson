@@ -2,13 +2,14 @@
   "id": 320335761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.855942,36.886347,-94.855942,36.886347",
     "geom:latitude":36.886347,
     "geom:longitude":-94.855942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 Lincoln Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320335761,
-    "wof:lastmodified":1449013733,
+    "wof:lastmodified":1466765379,
     "wof:name":"Jim Hill Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.855942,36.886347,-94.855942,36.886347],
+  "bbox": [
+    -94.855942,
+    36.886347,
+    -94.855942,
+    36.886347
+],
   "geometry": {"coordinates":[-94.855942,36.886347],"type":"Point"}
 }

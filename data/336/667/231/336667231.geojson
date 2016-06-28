@@ -2,13 +2,14 @@
   "id": 336667231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565666,35.503115,-97.565666,35.503115",
     "geom:latitude":35.503115,
     "geom:longitude":-97.565666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336667231,
-    "wof:lastmodified":1448997634,
+    "wof:lastmodified":1466763213,
     "wof:name":"Ancient Herb",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.565666,35.503115,-97.565666,35.503115],
-  "geometry": {"coordinates":[-97.565666,35.503115],"type":"Point"}
+  "bbox": [
+    -97.565666,
+    35.503115,
+    -97.565666,
+    35.503115
+],
+  "geometry": {"coordinates":[-97.56566599999999,35.503115],"type":"Point"}
 }

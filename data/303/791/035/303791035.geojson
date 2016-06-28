@@ -2,13 +2,14 @@
   "id": 303791035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.961344,36.112574,-95.961344,36.112574",
     "geom:latitude":36.112574,
     "geom:longitude":-95.961344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3463 S Zunis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303791035,
-    "wof:lastmodified":1448999996,
+    "wof:lastmodified":1466766711,
     "wof:name":"Chapple & Assoc",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-95.961344,36.112574,-95.961344,36.112574],
+  "bbox": [
+    -95.961344,
+    36.112574,
+    -95.961344,
+    36.112574
+],
   "geometry": {"coordinates":[-95.961344,36.112574],"type":"Point"}
 }

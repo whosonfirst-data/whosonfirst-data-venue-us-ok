@@ -2,13 +2,14 @@
   "id": 303996063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.544392,35.377209,-97.544392,35.377209",
     "geom:latitude":35.377209,
     "geom:longitude":-97.544392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 SW 89th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303996063,
-    "wof:lastmodified":1448998764,
+    "wof:lastmodified":1466767124,
     "wof:name":"Greenbriar Veterinary Hospital",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "animal"
     ]
 },
-  "bbox": [-97.544392,35.377209,-97.544392,35.377209],
+  "bbox": [
+    -97.544392,
+    35.377209,
+    -97.544392,
+    35.377209
+],
   "geometry": {"coordinates":[-97.544392,35.377209],"type":"Point"}
 }

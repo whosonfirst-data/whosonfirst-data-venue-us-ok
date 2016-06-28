@@ -2,13 +2,14 @@
   "id": 320118547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.83317,36.093878,-95.83317,36.093878",
     "geom:latitude":36.093878,
     "geom:longitude":-95.83317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 S 129th E Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320118547,
-    "wof:lastmodified":1449014252,
+    "wof:lastmodified":1466764065,
     "wof:name":"First Data Financial Services",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "collection"
     ]
 },
-  "bbox": [-95.83317,36.093878,-95.83317,36.093878],
+  "bbox": [
+    -95.83317,
+    36.093878,
+    -95.83317,
+    36.093878
+],
   "geometry": {"coordinates":[-95.83317,36.093878],"type":"Point"}
 }

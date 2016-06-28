@@ -2,13 +2,14 @@
   "id": 320418121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.670335,35.171217,-94.670335,35.171217",
     "geom:latitude":35.171217,
     "geom:longitude":-94.670335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Missouri Ave",
     "sg:city":"Panama",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320418121,
-    "wof:lastmodified":1449014159,
+    "wof:lastmodified":1466765788,
     "wof:name":"Panama Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.670335,35.171217,-94.670335,35.171217],
-  "geometry": {"coordinates":[-94.670335,35.171217],"type":"Point"}
+  "bbox": [
+    -94.670335,
+    35.171217,
+    -94.670335,
+    35.171217
+],
+  "geometry": {"coordinates":[-94.67033499999999,35.171217],"type":"Point"}
 }

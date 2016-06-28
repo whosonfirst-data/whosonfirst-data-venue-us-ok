@@ -2,13 +2,14 @@
   "id": 320199869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.998632,36.753986,-95.998632,36.753986",
     "geom:latitude":36.753986,
     "geom:longitude":-95.998632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 N Sunset Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320199869,
-    "wof:lastmodified":1449011628,
+    "wof:lastmodified":1466764463,
     "wof:name":"Sunset Lawn Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.998632,36.753986,-95.998632,36.753986],
+  "bbox": [
+    -95.998632,
+    36.753986,
+    -95.998632,
+    36.753986
+],
   "geometry": {"coordinates":[-95.998632,36.753986],"type":"Point"}
 }

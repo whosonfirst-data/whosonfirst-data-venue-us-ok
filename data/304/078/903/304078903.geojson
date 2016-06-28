@@ -2,13 +2,14 @@
   "id": 304078903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.455816,34.609025,-98.455816,34.609025",
     "geom:latitude":34.609025,
     "geom:longitude":-98.455816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4645 W Gore Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304078903,
-    "wof:lastmodified":1449044075,
+    "wof:lastmodified":1466763286,
     "wof:name":"Medaccount",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.455816,34.609025,-98.455816,34.609025],
+  "bbox": [
+    -98.455816,
+    34.609025,
+    -98.455816,
+    34.609025
+],
   "geometry": {"coordinates":[-98.455816,34.609025],"type":"Point"}
 }

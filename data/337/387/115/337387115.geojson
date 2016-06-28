@@ -2,13 +2,14 @@
   "id": 337387115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530188,35.393293,-97.530188,35.393293",
     "geom:latitude":35.393293,
     "geom:longitude":-97.530188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7435 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337387115,
-    "wof:lastmodified":1449027635,
+    "wof:lastmodified":1466763881,
     "wof:name":"Taste Of China",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.530188,35.393293,-97.530188,35.393293],
+  "bbox": [
+    -97.530188,
+    35.393293,
+    -97.530188,
+    35.393293
+],
   "geometry": {"coordinates":[-97.530188,35.393293],"type":"Point"}
 }

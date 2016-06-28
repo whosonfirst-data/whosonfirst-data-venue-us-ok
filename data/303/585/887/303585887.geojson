@@ -2,13 +2,14 @@
   "id": 303585887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.873486,36.064898,-95.873486,36.064898",
     "geom:latitude":36.064898,
     "geom:longitude":-95.873486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9206 E 68th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303585887,
-    "wof:lastmodified":1448999745,
+    "wof:lastmodified":1466766048,
     "wof:name":"Rocky Top",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.873486,36.064898,-95.873486,36.064898],
+  "bbox": [
+    -95.873486,
+    36.064898,
+    -95.873486,
+    36.064898
+],
   "geometry": {"coordinates":[-95.873486,36.064898],"type":"Point"}
 }

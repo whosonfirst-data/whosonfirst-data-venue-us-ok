@@ -2,13 +2,14 @@
   "id": 303953687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.157562,35.756311,-96.157562,35.756311",
     "geom:latitude":35.756311,
     "geom:longitude":-96.157562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6775 N 120 Rd",
     "sg:city":"Beggs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303953687,
-    "wof:lastmodified":1448999803,
+    "wof:lastmodified":1466767041,
     "wof:name":"Dbg Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.157562,35.756311,-96.157562,35.756311],
+  "bbox": [
+    -96.157562,
+    35.756311,
+    -96.157562,
+    35.756311
+],
   "geometry": {"coordinates":[-96.157562,35.756311],"type":"Point"}
 }

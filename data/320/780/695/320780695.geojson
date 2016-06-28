@@ -2,13 +2,14 @@
   "id": 320780695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.76031,35.49681,-97.76031,35.49681",
     "geom:latitude":35.49681,
     "geom:longitude":-97.76031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1256 Garth Brooks Blvd",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320780695,
-    "wof:lastmodified":1449014043,
+    "wof:lastmodified":1466766645,
     "wof:name":"Shell",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-97.76031,35.49681,-97.76031,35.49681],
+  "bbox": [
+    -97.76031,
+    35.49681,
+    -97.76031,
+    35.49681
+],
   "geometry": {"coordinates":[-97.76031,35.49681],"type":"Point"}
 }

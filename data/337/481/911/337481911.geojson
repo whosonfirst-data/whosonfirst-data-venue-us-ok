@@ -2,13 +2,14 @@
   "id": 337481911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.956846,36.159758,-95.956846,36.159758",
     "geom:latitude":36.159758,
     "geom:longitude":-95.956846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2448 E Admiral Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337481911,
-    "wof:lastmodified":1449027637,
+    "wof:lastmodified":1466762553,
     "wof:name":"Xavier Medical Clinic",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-95.956846,36.159758,-95.956846,36.159758],
+  "bbox": [
+    -95.956846,
+    36.159758,
+    -95.956846,
+    36.159758
+],
   "geometry": {"coordinates":[-95.956846,36.159758],"type":"Point"}
 }

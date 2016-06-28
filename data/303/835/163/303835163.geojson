@@ -2,13 +2,14 @@
   "id": 303835163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.961272,36.046464,-95.961272,36.046464",
     "geom:latitude":36.046464,
     "geom:longitude":-95.961272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2019 E 81st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303835163,
-    "wof:lastmodified":1448998468,
+    "wof:lastmodified":1466766798,
     "wof:name":"Mc Donald's",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.961272,36.046464,-95.961272,36.046464],
-  "geometry": {"coordinates":[-95.961272,36.046464],"type":"Point"}
+  "bbox": [
+    -95.961272,
+    36.046464,
+    -95.961272,
+    36.046464
+],
+  "geometry": {"coordinates":[-95.96127199999999,36.046464],"type":"Point"}
 }

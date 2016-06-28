@@ -2,13 +2,14 @@
   "id": 320148437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517391,35.496143,-97.517391,35.496143",
     "geom:latitude":35.496143,
     "geom:longitude":-97.517391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2619 N Harvey Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320148437,
-    "wof:lastmodified":1449014388,
+    "wof:lastmodified":1466764387,
     "wof:name":"Parkview Place Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-97.517391,35.496143,-97.517391,35.496143],
+  "bbox": [
+    -97.517391,
+    35.496143,
+    -97.517391,
+    35.496143
+],
   "geometry": {"coordinates":[-97.517391,35.496143],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303331899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.85267,36.104558,-95.85267,36.104558",
     "geom:latitude":36.104558,
     "geom:longitude":-95.85267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11115 E 41st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303331899,
-    "wof:lastmodified":1448999607,
+    "wof:lastmodified":1466764980,
     "wof:name":"Fox Cleaners",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-95.85267,36.104558,-95.85267,36.104558],
+  "bbox": [
+    -95.85267,
+    36.104558,
+    -95.85267,
+    36.104558
+],
   "geometry": {"coordinates":[-95.85267,36.104558],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320365731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.62036,34.230194,-95.62036,34.230194",
     "geom:latitude":34.230194,
     "geom:longitude":-95.62036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 SE 2nd St",
     "sg:city":"Antlers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320365731,
-    "wof:lastmodified":1449011858,
+    "wof:lastmodified":1466765474,
     "wof:name":"Ansley Pulpwood Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pulpwood"
     ]
 },
-  "bbox": [-95.62036,34.230194,-95.62036,34.230194],
-  "geometry": {"coordinates":[-95.62036,34.230194],"type":"Point"}
+  "bbox": [
+    -95.62036,
+    34.230194,
+    -95.62036,
+    34.230194
+],
+  "geometry": {"coordinates":[-95.62036000000001,34.230194],"type":"Point"}
 }

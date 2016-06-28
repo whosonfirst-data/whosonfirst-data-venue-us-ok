@@ -2,13 +2,14 @@
   "id": 319944785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534321,35.518544,-97.534321,35.518544",
     "geom:latitude":35.518544,
     "geom:longitude":-97.534321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4615 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":319944785,
-    "wof:lastmodified":1449024474,
+    "wof:lastmodified":1466763994,
     "wof:name":"Acme Dog & Cat Hospital",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.534321,35.518544,-97.534321,35.518544],
-  "geometry": {"coordinates":[-97.534321,35.518544],"type":"Point"}
+  "bbox": [
+    -97.534321,
+    35.518544,
+    -97.534321,
+    35.518544
+],
+  "geometry": {"coordinates":[-97.53432100000001,35.518544],"type":"Point"}
 }

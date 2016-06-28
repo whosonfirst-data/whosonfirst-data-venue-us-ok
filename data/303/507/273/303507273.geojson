@@ -2,13 +2,14 @@
   "id": 303507273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.666075,35.131799,-97.666075,35.131799",
     "geom:latitude":35.131799,
     "geom:longitude":-97.666075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 US Hwy 62",
     "sg:city":"Blanchard",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303507273,
-    "wof:lastmodified":1448999376,
+    "wof:lastmodified":1466765870,
     "wof:name":"Toot N Tellum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.666075,35.131799,-97.666075,35.131799],
-  "geometry": {"coordinates":[-97.666075,35.131799],"type":"Point"}
+  "bbox": [
+    -97.666075,
+    35.131799,
+    -97.666075,
+    35.131799
+],
+  "geometry": {"coordinates":[-97.66607500000001,35.131799],"type":"Point"}
 }

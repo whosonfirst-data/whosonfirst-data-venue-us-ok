@@ -2,13 +2,14 @@
   "id": 220195785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.004499,36.064455,-96.004499,36.064455",
     "geom:latitude":36.064455,
     "geom:longitude":-96.004499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6901 S Olympia Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":220195785,
-    "wof:lastmodified":1449074589,
+    "wof:lastmodified":1466762468,
     "wof:name":"Tulsa Spine & Specialty Hospital",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.004499,36.064455,-96.004499,36.064455],
+  "bbox": [
+    -96.004499,
+    36.064455,
+    -96.004499,
+    36.064455
+],
   "geometry": {"coordinates":[-96.004499,36.064455],"type":"Point"}
 }

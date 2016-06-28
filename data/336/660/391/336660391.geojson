@@ -2,13 +2,14 @@
   "id": 336660391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.481325,35.44493,-97.481325,35.44493",
     "geom:latitude":35.44493,
     "geom:longitude":-97.481325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 S Missouri Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336660391,
-    "wof:lastmodified":1448997907,
+    "wof:lastmodified":1466763111,
     "wof:name":"Canary Wellhead Equipment Inc",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valve"
     ]
 },
-  "bbox": [-97.481325,35.44493,-97.481325,35.44493],
+  "bbox": [
+    -97.481325,
+    35.44493,
+    -97.481325,
+    35.44493
+],
   "geometry": {"coordinates":[-97.481325,35.44493],"type":"Point"}
 }

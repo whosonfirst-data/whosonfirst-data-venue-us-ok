@@ -2,13 +2,14 @@
   "id": 320083269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.968214,34.492684,-97.968214,34.492684",
     "geom:latitude":34.492684,
     "geom:longitude":-97.968214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1503 W Bois D Arc Ave",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320083269,
-    "wof:lastmodified":1449013029,
+    "wof:lastmodified":1466763525,
     "wof:name":"Accurate Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.968214,34.492684,-97.968214,34.492684],
+  "bbox": [
+    -97.968214,
+    34.492684,
+    -97.968214,
+    34.492684
+],
   "geometry": {"coordinates":[-97.968214,34.492684],"type":"Point"}
 }

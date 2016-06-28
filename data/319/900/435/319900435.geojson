@@ -2,13 +2,14 @@
   "id": 319900435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.401603,34.817842,-97.401603,34.817842",
     "geom:latitude":34.817842,
     "geom:longitude":-97.401603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Main St",
     "sg:city":"Dibble",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":319900435,
-    "wof:lastmodified":1449024432,
+    "wof:lastmodified":1466763520,
     "wof:name":"Dibble Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.401603,34.817842,-97.401603,34.817842],
-  "geometry": {"coordinates":[-97.401603,34.817842],"type":"Point"}
+  "bbox": [
+    -97.401603,
+    34.817842,
+    -97.401603,
+    34.817842
+],
+  "geometry": {"coordinates":[-97.40160299999999,34.817842],"type":"Point"}
 }

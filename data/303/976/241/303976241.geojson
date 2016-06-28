@@ -2,13 +2,14 @@
   "id": 303976241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.87418,36.93503,-94.87418,36.93503",
     "geom:latitude":36.93503,
     "geom:longitude":-94.87418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N River St",
     "sg:city":"Commerce",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303976241,
-    "wof:lastmodified":1448999132,
+    "wof:lastmodified":1466766993,
     "wof:name":"Dumas Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-94.87418,36.93503,-94.87418,36.93503],
+  "bbox": [
+    -94.87418,
+    36.93503,
+    -94.87418,
+    36.93503
+],
   "geometry": {"coordinates":[-94.87418,36.93503],"type":"Point"}
 }

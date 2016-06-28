@@ -2,13 +2,14 @@
   "id": 336964571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.3954,35.565585,-97.3954,35.565585",
     "geom:latitude":35.565585,
     "geom:longitude":-97.3954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 E Britton Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336964571,
-    "wof:lastmodified":1448997756,
+    "wof:lastmodified":1466765533,
     "wof:name":"Old World Tile & Marble",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.3954,35.565585,-97.3954,35.565585],
+  "bbox": [
+    -97.3954,
+    35.565585,
+    -97.3954,
+    35.565585
+],
   "geometry": {"coordinates":[-97.3954,35.565585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303074709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.688398,35.490573,-96.688398,35.490573",
     "geom:latitude":35.490573,
     "geom:longitude":-96.688398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Pastusek Ave",
     "sg:city":"Prague",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303074709,
-    "wof:lastmodified":1448999440,
+    "wof:lastmodified":1466762819,
     "wof:name":"Brightnet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-96.688398,35.490573,-96.688398,35.490573],
-  "geometry": {"coordinates":[-96.688398,35.490573],"type":"Point"}
+  "bbox": [
+    -96.688398,
+    35.490573,
+    -96.688398,
+    35.490573
+],
+  "geometry": {"coordinates":[-96.68839800000001,35.490573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354173423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.11499,35.251191,-95.11499,35.251191",
     "geom:latitude":35.251191,
     "geom:longitude":-95.11499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 SE 10th St",
     "sg:city":"Stigler",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354173423,
-    "wof:lastmodified":1449066255,
+    "wof:lastmodified":1466763783,
     "wof:name":"Rosco's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-95.11499,35.251191,-95.11499,35.251191],
-  "geometry": {"coordinates":[-95.11499,35.251191],"type":"Point"}
+  "bbox": [
+    -95.11499,
+    35.251191,
+    -95.11499,
+    35.251191
+],
+  "geometry": {"coordinates":[-95.11499000000001,35.251191],"type":"Point"}
 }

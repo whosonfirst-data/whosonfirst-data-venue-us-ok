@@ -2,13 +2,14 @@
   "id": 320813393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.953671,36.142562,-95.953671,36.142562",
     "geom:latitude":36.142562,
     "geom:longitude":-95.953671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1343 S Birmingham Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320813393,
-    "wof:lastmodified":1449012225,
+    "wof:lastmodified":1466766785,
     "wof:name":"Bob Healey",
     "wof:parent_id":85872495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-95.953671,36.142562,-95.953671,36.142562],
+  "bbox": [
+    -95.953671,
+    36.142562,
+    -95.953671,
+    36.142562
+],
   "geometry": {"coordinates":[-95.953671,36.142562],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353756219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.471573,35.68129,-97.471573,35.68129",
     "geom:latitude":35.68129,
     "geom:longitude":-97.471573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Thorn Briar Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353756219,
-    "wof:lastmodified":1449019803,
+    "wof:lastmodified":1466765130,
     "wof:name":"R C Gravel Inc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "crime"
     ]
 },
-  "bbox": [-97.471573,35.68129,-97.471573,35.68129],
-  "geometry": {"coordinates":[-97.471573,35.68129],"type":"Point"}
+  "bbox": [
+    -97.471573,
+    35.68129,
+    -97.471573,
+    35.68129
+],
+  "geometry": {"coordinates":[-97.47157300000001,35.68129],"type":"Point"}
 }

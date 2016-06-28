@@ -2,13 +2,14 @@
   "id": 353775791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.001547,34.162619,-98.001547,34.162619",
     "geom:latitude":34.162619,
     "geom:longitude":-98.001547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 S Main St",
     "sg:city":"Waurika",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353775791,
-    "wof:lastmodified":1449020139,
+    "wof:lastmodified":1466765112,
     "wof:name":"Shelton Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-98.001547,34.162619,-98.001547,34.162619],
+  "bbox": [
+    -98.001547,
+    34.162619,
+    -98.001547,
+    34.162619
+],
   "geometry": {"coordinates":[-98.001547,34.162619],"type":"Point"}
 }

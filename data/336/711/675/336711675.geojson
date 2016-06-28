@@ -2,13 +2,14 @@
   "id": 336711675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.739325,35.493308,-97.739325,35.493308",
     "geom:latitude":35.493308,
     "geom:longitude":-97.739325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E Vandament Ave",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336711675,
-    "wof:lastmodified":1448997834,
+    "wof:lastmodified":1466763900,
     "wof:name":"Web Link Shopper",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.739325,35.493308,-97.739325,35.493308],
-  "geometry": {"coordinates":[-97.739325,35.493308],"type":"Point"}
+  "bbox": [
+    -97.739325,
+    35.493308,
+    -97.739325,
+    35.493308
+],
+  "geometry": {"coordinates":[-97.73932499999999,35.493308],"type":"Point"}
 }

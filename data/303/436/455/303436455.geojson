@@ -2,13 +2,14 @@
   "id": 303436455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.855337,36.183272,-95.855337,36.183272",
     "geom:latitude":36.183272,
     "geom:longitude":-95.855337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10604 E Ute St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303436455,
-    "wof:lastmodified":1449000332,
+    "wof:lastmodified":1466765500,
     "wof:name":"Refractory Tstg & Insptn Inc",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "as"
     ]
 },
-  "bbox": [-95.855337,36.183272,-95.855337,36.183272],
-  "geometry": {"coordinates":[-95.855337,36.183272],"type":"Point"}
+  "bbox": [
+    -95.855337,
+    36.183272,
+    -95.855337,
+    36.183272
+],
+  "geometry": {"coordinates":[-95.85533700000001,36.183272],"type":"Point"}
 }

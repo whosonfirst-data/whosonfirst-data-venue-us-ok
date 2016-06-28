@@ -2,13 +2,14 @@
   "id": 303255169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.908415,35.888056,-95.908415,35.888056",
     "geom:latitude":35.888056,
     "geom:longitude":-95.908415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18726 S Sheridan Rd",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303255169,
-    "wof:lastmodified":1448999233,
+    "wof:lastmodified":1466764734,
     "wof:name":"Liberty Hts Frwill Bptst Chrch",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.908415,35.888056,-95.908415,35.888056],
-  "geometry": {"coordinates":[-95.908415,35.888056],"type":"Point"}
+  "bbox": [
+    -95.908415,
+    35.888056,
+    -95.908415,
+    35.888056
+],
+  "geometry": {"coordinates":[-95.90841500000001,35.888056],"type":"Point"}
 }

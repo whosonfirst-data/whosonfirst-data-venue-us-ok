@@ -2,13 +2,14 @@
   "id": 303718713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.453089,35.633724,-97.453089,35.633724",
     "geom:latitude":35.633724,
     "geom:longitude":-97.453089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1928 Singingwood Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303718713,
-    "wof:lastmodified":1448998642,
+    "wof:lastmodified":1466766522,
     "wof:name":"Landmark Center Inc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-97.453089,35.633724,-97.453089,35.633724],
-  "geometry": {"coordinates":[-97.453089,35.633724],"type":"Point"}
+  "bbox": [
+    -97.453089,
+    35.633724,
+    -97.453089,
+    35.633724
+],
+  "geometry": {"coordinates":[-97.45308900000001,35.633724],"type":"Point"}
 }

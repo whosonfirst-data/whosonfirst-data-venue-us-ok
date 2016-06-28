@@ -2,13 +2,14 @@
   "id": 320372467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.87372,35.93552,-94.87372,35.93552",
     "geom:latitude":35.93552,
     "geom:longitude":-94.87372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23883 E 742 Rd",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320372467,
-    "wof:lastmodified":1449013515,
+    "wof:lastmodified":1466765582,
     "wof:name":"Johnson Brothers Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-94.87372,35.93552,-94.87372,35.93552],
-  "geometry": {"coordinates":[-94.87372,35.93552],"type":"Point"}
+  "bbox": [
+    -94.87372,
+    35.93552,
+    -94.87372,
+    35.93552
+],
+  "geometry": {"coordinates":[-94.87372000000001,35.93552],"type":"Point"}
 }

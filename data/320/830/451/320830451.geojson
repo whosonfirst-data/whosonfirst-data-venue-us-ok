@@ -2,13 +2,14 @@
   "id": 320830451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.444577,35.645158,-97.444577,35.645158",
     "geom:latitude":35.645158,
     "geom:longitude":-97.444577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 Woodbury Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320830451,
-    "wof:lastmodified":1449012048,
+    "wof:lastmodified":1466766913,
     "wof:name":"Neighborhood Pool Svc Inc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-97.444577,35.645158,-97.444577,35.645158],
+  "bbox": [
+    -97.444577,
+    35.645158,
+    -97.444577,
+    35.645158
+],
   "geometry": {"coordinates":[-97.444577,35.645158],"type":"Point"}
 }

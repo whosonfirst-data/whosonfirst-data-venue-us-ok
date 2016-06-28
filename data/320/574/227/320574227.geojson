@@ -2,13 +2,14 @@
   "id": 320574227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.560989,36.375195,-95.560989,36.375195",
     "geom:latitude":36.375195,
     "geom:longitude":-95.560989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16411 S 4180 Rd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320574227,
-    "wof:lastmodified":1449011235,
+    "wof:lastmodified":1466766228,
     "wof:name":"Sequoyah Junior High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.560989,36.375195,-95.560989,36.375195],
-  "geometry": {"coordinates":[-95.560989,36.375195],"type":"Point"}
+  "bbox": [
+    -95.560989,
+    36.375195,
+    -95.560989,
+    36.375195
+],
+  "geometry": {"coordinates":[-95.56098900000001,36.375195],"type":"Point"}
 }

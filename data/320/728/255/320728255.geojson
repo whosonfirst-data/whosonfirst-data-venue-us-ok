@@ -2,13 +2,14 @@
   "id": 320728255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886594,36.091431,-95.886594,36.091431",
     "geom:latitude":36.091431,
     "geom:longitude":-95.886594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7902 E 50th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320728255,
-    "wof:lastmodified":1449012132,
+    "wof:lastmodified":1466766536,
     "wof:name":"Mr Victor",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.886594,36.091431,-95.886594,36.091431],
+  "bbox": [
+    -95.886594,
+    36.091431,
+    -95.886594,
+    36.091431
+],
   "geometry": {"coordinates":[-95.886594,36.091431],"type":"Point"}
 }

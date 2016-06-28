@@ -2,13 +2,14 @@
   "id": 320848577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.989588,36.152828,-95.989588,36.152828",
     "geom:latitude":36.152828,
     "geom:longitude":-95.989588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 E 4th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320848577,
-    "wof:lastmodified":1449011782,
+    "wof:lastmodified":1466766962,
     "wof:name":"Paul Law Firm",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-95.989588,36.152828,-95.989588,36.152828],
+  "bbox": [
+    -95.989588,
+    36.152828,
+    -95.989588,
+    36.152828
+],
   "geometry": {"coordinates":[-95.989588,36.152828],"type":"Point"}
 }

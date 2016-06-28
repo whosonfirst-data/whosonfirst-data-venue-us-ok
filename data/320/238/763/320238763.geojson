@@ -2,13 +2,14 @@
   "id": 320238763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.925306,36.012227,-95.925306,36.012227",
     "geom:latitude":36.012227,
     "geom:longitude":-95.925306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4516 E 105th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320238763,
-    "wof:lastmodified":1449012684,
+    "wof:lastmodified":1466764696,
     "wof:name":"Motorcycles International Ltd",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.925306,36.012227,-95.925306,36.012227],
-  "geometry": {"coordinates":[-95.925306,36.012227],"type":"Point"}
+  "bbox": [
+    -95.925306,
+    36.012227,
+    -95.925306,
+    36.012227
+],
+  "geometry": {"coordinates":[-95.92530600000001,36.012227],"type":"Point"}
 }

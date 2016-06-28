@@ -2,13 +2,14 @@
   "id": 320815619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.486589,35.428995,-97.486589,35.428995",
     "geom:latitude":35.428995,
     "geom:longitude":-97.486589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3604 S I- 35 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320815619,
-    "wof:lastmodified":1449013070,
+    "wof:lastmodified":1466766882,
     "wof:name":"I-35 Imports",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-97.486589,35.428995,-97.486589,35.428995],
+  "bbox": [
+    -97.486589,
+    35.428995,
+    -97.486589,
+    35.428995
+],
   "geometry": {"coordinates":[-97.486589,35.428995],"type":"Point"}
 }

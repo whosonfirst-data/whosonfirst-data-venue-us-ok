@@ -2,13 +2,14 @@
   "id": 320508969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.793912,36.154784,-95.793912,36.154784",
     "geom:latitude":36.154784,
     "geom:longitude":-95.793912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 S 163rd East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320508969,
-    "wof:lastmodified":1449013351,
+    "wof:lastmodified":1466766081,
     "wof:name":"Iron Mountain Information MGT",
     "wof:parent_id":85831775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-95.793912,36.154784,-95.793912,36.154784],
-  "geometry": {"coordinates":[-95.793912,36.154784],"type":"Point"}
+  "bbox": [
+    -95.793912,
+    36.154784,
+    -95.793912,
+    36.154784
+],
+  "geometry": {"coordinates":[-95.79391200000001,36.154784],"type":"Point"}
 }

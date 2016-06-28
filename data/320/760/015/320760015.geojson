@@ -2,13 +2,14 @@
   "id": 320760015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.404641,34.595939,-98.404641,34.595939",
     "geom:latitude":34.595939,
     "geom:longitude":-98.404641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 SW 11th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320760015,
-    "wof:lastmodified":1449014821,
+    "wof:lastmodified":1466766808,
     "wof:name":"Twister Auto Sales",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-98.404641,34.595939,-98.404641,34.595939],
+  "bbox": [
+    -98.404641,
+    34.595939,
+    -98.404641,
+    34.595939
+],
   "geometry": {"coordinates":[-98.404641,34.595939],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303937025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.462415,36.286841,-98.462415,36.286841",
     "geom:latitude":36.286841,
     "geom:longitude":-98.462415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Woodcreek Dr",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303937025,
-    "wof:lastmodified":1448998580,
+    "wof:lastmodified":1466767095,
     "wof:name":"Woodcreek Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.462415,36.286841,-98.462415,36.286841],
-  "geometry": {"coordinates":[-98.462415,36.286841],"type":"Point"}
+  "bbox": [
+    -98.462415,
+    36.286841,
+    -98.462415,
+    36.286841
+],
+  "geometry": {"coordinates":[-98.46241499999999,36.286841],"type":"Point"}
 }

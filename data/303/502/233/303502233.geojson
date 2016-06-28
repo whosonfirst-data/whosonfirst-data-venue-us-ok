@@ -2,13 +2,14 @@
   "id": 303502233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.286784,36.287329,-97.286784,36.287329",
     "geom:latitude":36.287329,
     "geom:longitude":-97.286784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 Delaware St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303502233,
-    "wof:lastmodified":1448999242,
+    "wof:lastmodified":1466765833,
     "wof:name":"Georgia's Fine Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-97.286784,36.287329,-97.286784,36.287329],
+  "bbox": [
+    -97.286784,
+    36.287329,
+    -97.286784,
+    36.287329
+],
   "geometry": {"coordinates":[-97.286784,36.287329],"type":"Point"}
 }

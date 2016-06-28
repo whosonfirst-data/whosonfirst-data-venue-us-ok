@@ -2,13 +2,14 @@
   "id": 320415605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.397129,35.624397,-95.397129,35.624397",
     "geom:latitude":35.624397,
     "geom:longitude":-95.397129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2908 W 93rd St S",
     "sg:city":"Oktaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320415605,
-    "wof:lastmodified":1449013951,
+    "wof:lastmodified":1466765885,
     "wof:name":"Ross Welding",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-95.397129,35.624397,-95.397129,35.624397],
-  "geometry": {"coordinates":[-95.397129,35.624397],"type":"Point"}
+  "bbox": [
+    -95.397129,
+    35.624397,
+    -95.397129,
+    35.624397
+],
+  "geometry": {"coordinates":[-95.39712900000001,35.624397],"type":"Point"}
 }

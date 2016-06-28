@@ -2,13 +2,14 @@
   "id": 303660029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.912537,36.181529,-95.912537,36.181529",
     "geom:latitude":36.181529,
     "geom:longitude":-95.912537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5504 E Tecumseh St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303660029,
-    "wof:lastmodified":1449000315,
+    "wof:lastmodified":1466766285,
     "wof:name":"Hurt's Auto Repair",
     "wof:parent_id":85813737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.912537,36.181529,-95.912537,36.181529],
+  "bbox": [
+    -95.912537,
+    36.181529,
+    -95.912537,
+    36.181529
+],
   "geometry": {"coordinates":[-95.912537,36.181529],"type":"Point"}
 }

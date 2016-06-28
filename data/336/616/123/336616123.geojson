@@ -2,13 +2,14 @@
   "id": 336616123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.997074,35.510085,-98.997074,35.510085",
     "geom:latitude":35.510085,
     "geom:longitude":-98.997074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 S 30th St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336616123,
-    "wof:lastmodified":1448997719,
+    "wof:lastmodified":1466762427,
     "wof:name":"Kumar I MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-98.997074,35.510085,-98.997074,35.510085],
+  "bbox": [
+    -98.997074,
+    35.510085,
+    -98.997074,
+    35.510085
+],
   "geometry": {"coordinates":[-98.997074,35.510085],"type":"Point"}
 }

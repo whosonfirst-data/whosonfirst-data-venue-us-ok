@@ -2,13 +2,14 @@
   "id": 319865605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.443529,35.211204,-97.443529,35.211204",
     "geom:latitude":35.211204,
     "geom:longitude":-97.443529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 W Boyd St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319865605,
-    "wof:lastmodified":1449024690,
+    "wof:lastmodified":1466763321,
     "wof:name":"New York Pizza & Pasta",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.443529,35.211204,-97.443529,35.211204],
+  "bbox": [
+    -97.443529,
+    35.211204,
+    -97.443529,
+    35.211204
+],
   "geometry": {"coordinates":[-97.443529,35.211204],"type":"Point"}
 }

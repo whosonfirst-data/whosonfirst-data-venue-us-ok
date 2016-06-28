@@ -2,13 +2,14 @@
   "id": 336844681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.150591,34.201974,-97.150591,34.201974",
     "geom:latitude":34.201974,
     "geom:longitude":-97.150591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Prairie Valley Rd",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336844681,
-    "wof:lastmodified":1448997404,
+    "wof:lastmodified":1466764898,
     "wof:name":"Large Animal Veterinary Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.150591,34.201974,-97.150591,34.201974],
-  "geometry": {"coordinates":[-97.150591,34.201974],"type":"Point"}
+  "bbox": [
+    -97.150591,
+    34.201974,
+    -97.150591,
+    34.201974
+],
+  "geometry": {"coordinates":[-97.15059100000001,34.201974],"type":"Point"}
 }

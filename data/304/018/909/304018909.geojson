@@ -2,13 +2,14 @@
   "id": 304018909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.888899,35.950414,-95.888899,35.950414",
     "geom:latitude":35.950414,
     "geom:longitude":-95.888899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14700 S Grant St",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304018909,
-    "wof:lastmodified":1449043870,
+    "wof:lastmodified":1466762919,
     "wof:name":"American Foundry Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.888899,35.950414,-95.888899,35.950414],
-  "geometry": {"coordinates":[-95.888899,35.950414],"type":"Point"}
+  "bbox": [
+    -95.888899,
+    35.950414,
+    -95.888899,
+    35.950414
+],
+  "geometry": {"coordinates":[-95.88889899999999,35.950414],"type":"Point"}
 }

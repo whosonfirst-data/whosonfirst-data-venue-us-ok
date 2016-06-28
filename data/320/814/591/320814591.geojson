@@ -2,13 +2,14 @@
   "id": 320814591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.31809,35.790843,-97.31809,35.790843",
     "geom:latitude":35.790843,
     "geom:longitude":-97.31809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8500 S Anderson Rd",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320814591,
-    "wof:lastmodified":1449011943,
+    "wof:lastmodified":1466766881,
     "wof:name":"Curt's Welding",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.31809,35.790843,-97.31809,35.790843],
+  "bbox": [
+    -97.31809,
+    35.790843,
+    -97.31809,
+    35.790843
+],
   "geometry": {"coordinates":[-97.31809,35.790843],"type":"Point"}
 }

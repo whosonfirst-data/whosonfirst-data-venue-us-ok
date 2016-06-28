@@ -2,13 +2,14 @@
   "id": 320503573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.061642,35.999222,-96.061642,35.999222",
     "geom:latitude":35.999222,
     "geom:longitude":-96.061642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Hickory Hill Rd",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320503573,
-    "wof:lastmodified":1449014983,
+    "wof:lastmodified":1466765987,
     "wof:name":"Meeko Heat & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "conditioning"
     ]
 },
-  "bbox": [-96.061642,35.999222,-96.061642,35.999222],
-  "geometry": {"coordinates":[-96.061642,35.999222],"type":"Point"}
+  "bbox": [
+    -96.061642,
+    35.999222,
+    -96.061642,
+    35.999222
+],
+  "geometry": {"coordinates":[-96.06164200000001,35.999222],"type":"Point"}
 }

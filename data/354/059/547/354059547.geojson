@@ -2,13 +2,14 @@
   "id": 354059547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.40051,35.564224,-97.40051,35.564224",
     "geom:latitude":35.564224,
     "geom:longitude":-97.40051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8701 Acre View Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354059547,
-    "wof:lastmodified":1449066370,
+    "wof:lastmodified":1466763347,
     "wof:name":"O K Scapes",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.40051,35.564224,-97.40051,35.564224],
+  "bbox": [
+    -97.40051,
+    35.564224,
+    -97.40051,
+    35.564224
+],
   "geometry": {"coordinates":[-97.40051,35.564224],"type":"Point"}
 }

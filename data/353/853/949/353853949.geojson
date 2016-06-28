@@ -2,13 +2,14 @@
   "id": 353853949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.384383,35.493156,-97.384383,35.493156",
     "geom:latitude":35.493156,
     "geom:longitude":-97.384383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8205 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353853949,
-    "wof:lastmodified":1449019286,
+    "wof:lastmodified":1466765532,
     "wof:name":"Firefighters Chimney Sweeps",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fireplace"
     ]
 },
-  "bbox": [-97.384383,35.493156,-97.384383,35.493156],
+  "bbox": [
+    -97.384383,
+    35.493156,
+    -97.384383,
+    35.493156
+],
   "geometry": {"coordinates":[-97.384383,35.493156],"type":"Point"}
 }

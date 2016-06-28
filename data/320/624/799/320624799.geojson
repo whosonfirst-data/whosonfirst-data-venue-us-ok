@@ -2,13 +2,14 @@
   "id": 320624799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.519562,35.670591,-97.519562,35.670591",
     "geom:latitude":35.670591,
     "geom:longitude":-97.519562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Stafford Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320624799,
-    "wof:lastmodified":1449013840,
+    "wof:lastmodified":1466766349,
     "wof:name":"R&R Distributors LLC",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.519562,35.670591,-97.519562,35.670591],
-  "geometry": {"coordinates":[-97.519562,35.670591],"type":"Point"}
+  "bbox": [
+    -97.519562,
+    35.670591,
+    -97.519562,
+    35.670591
+],
+  "geometry": {"coordinates":[-97.51956199999999,35.670591],"type":"Point"}
 }

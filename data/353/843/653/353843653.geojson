@@ -2,13 +2,14 @@
   "id": 353843653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.43626,35.098083,-98.43626,35.098083",
     "geom:latitude":35.098083,
     "geom:longitude":-98.43626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Hazlett St",
     "sg:city":"Fort Cobb",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353843653,
-    "wof:lastmodified":1449018478,
+    "wof:lastmodified":1466765403,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.43626,35.098083,-98.43626,35.098083],
+  "bbox": [
+    -98.43626,
+    35.098083,
+    -98.43626,
+    35.098083
+],
   "geometry": {"coordinates":[-98.43626,35.098083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320602395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.752035,34.959853,-96.752035,34.959853",
     "geom:latitude":34.959853,
     "geom:longitude":-96.752035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Main St",
     "sg:city":"Konawa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320602395,
-    "wof:lastmodified":1449013013,
+    "wof:lastmodified":1466766288,
     "wof:name":"OLG Propane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gas"
     ]
 },
-  "bbox": [-96.752035,34.959853,-96.752035,34.959853],
-  "geometry": {"coordinates":[-96.752035,34.959853],"type":"Point"}
+  "bbox": [
+    -96.752035,
+    34.959853,
+    -96.752035,
+    34.959853
+],
+  "geometry": {"coordinates":[-96.75203500000001,34.959853],"type":"Point"}
 }

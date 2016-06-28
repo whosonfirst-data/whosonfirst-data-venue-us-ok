@@ -2,13 +2,14 @@
   "id": 220175813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.947555,36.089809,-95.947555,36.089809",
     "geom:latitude":36.089809,
     "geom:longitude":-95.947555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2840 E 51st St Ste 210",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220175813,
-    "wof:lastmodified":1449074611,
+    "wof:lastmodified":1466762349,
     "wof:name":"Loren V Miller Md",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.947555,36.089809,-95.947555,36.089809],
-  "geometry": {"coordinates":[-95.947555,36.089809],"type":"Point"}
+  "bbox": [
+    -95.947555,
+    36.089809,
+    -95.947555,
+    36.089809
+],
+  "geometry": {"coordinates":[-95.94755499999999,36.089809],"type":"Point"}
 }

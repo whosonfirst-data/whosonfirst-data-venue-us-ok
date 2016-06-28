@@ -2,13 +2,14 @@
   "id": 303282311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.594484,35.507798,-97.594484,35.507798",
     "geom:latitude":35.507798,
     "geom:longitude":-97.594484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 NW 36th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303282311,
-    "wof:lastmodified":1448999650,
+    "wof:lastmodified":1466764871,
     "wof:name":"T C R Imaging Products",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "copying"
     ]
 },
-  "bbox": [-97.594484,35.507798,-97.594484,35.507798],
-  "geometry": {"coordinates":[-97.594484,35.507798],"type":"Point"}
+  "bbox": [
+    -97.594484,
+    35.507798,
+    -97.594484,
+    35.507798
+],
+  "geometry": {"coordinates":[-97.59448399999999,35.507798],"type":"Point"}
 }

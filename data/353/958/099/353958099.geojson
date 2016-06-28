@@ -2,13 +2,14 @@
   "id": 353958099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.06005,36.112282,-97.06005,36.112282",
     "geom:latitude":36.112282,
     "geom:longitude":-97.06005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 W 9th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353958099,
-    "wof:lastmodified":1449020263,
+    "wof:lastmodified":1466765850,
     "wof:name":"Stillwater News Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-97.06005,36.112282,-97.06005,36.112282],
+  "bbox": [
+    -97.06005,
+    36.112282,
+    -97.06005,
+    36.112282
+],
   "geometry": {"coordinates":[-97.06005,36.112282],"type":"Point"}
 }

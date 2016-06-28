@@ -2,13 +2,14 @@
   "id": 303623347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.608178,35.511266,-97.608178,35.511266",
     "geom:latitude":35.511266,
     "geom:longitude":-97.608178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4727 NW 39th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303623347,
-    "wof:lastmodified":1448999833,
+    "wof:lastmodified":1466766157,
     "wof:name":"Primo Auto Sales",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.608178,35.511266,-97.608178,35.511266],
+  "bbox": [
+    -97.608178,
+    35.511266,
+    -97.608178,
+    35.511266
+],
   "geometry": {"coordinates":[-97.608178,35.511266],"type":"Point"}
 }

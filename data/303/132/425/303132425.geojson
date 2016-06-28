@@ -2,13 +2,14 @@
   "id": 303132425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.923597,36.06737,-95.923597,36.06737",
     "geom:latitude":36.06737,
     "geom:longitude":-95.923597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4606 E 67th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303132425,
-    "wof:lastmodified":1448999314,
+    "wof:lastmodified":1466763761,
     "wof:name":"Warn Clinic",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-95.923597,36.06737,-95.923597,36.06737],
+  "bbox": [
+    -95.923597,
+    36.06737,
+    -95.923597,
+    36.06737
+],
   "geometry": {"coordinates":[-95.923597,36.06737],"type":"Point"}
 }

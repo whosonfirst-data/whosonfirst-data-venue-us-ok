@@ -2,13 +2,14 @@
   "id": 303309377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.121551,33.937544,-97.121551,33.937544",
     "geom:latitude":33.937544,
     "geom:longitude":-97.121551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 W Main St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303309377,
-    "wof:lastmodified":1448998657,
+    "wof:lastmodified":1466764900,
     "wof:name":"First Baptist Church-Marietta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.121551,33.937544,-97.121551,33.937544],
+  "bbox": [
+    -97.121551,
+    33.937544,
+    -97.121551,
+    33.937544
+],
   "geometry": {"coordinates":[-97.121551,33.937544],"type":"Point"}
 }

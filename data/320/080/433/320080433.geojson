@@ -2,13 +2,14 @@
   "id": 320080433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.502795,34.873766,-99.502795,34.873766",
     "geom:latitude":34.873766,
     "geom:longitude":-99.502795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 N Louis Tittle Ave",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320080433,
-    "wof:lastmodified":1449014861,
+    "wof:lastmodified":1466763482,
     "wof:name":"Dons Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-99.502795,34.873766,-99.502795,34.873766],
-  "geometry": {"coordinates":[-99.502795,34.873766],"type":"Point"}
+  "bbox": [
+    -99.502795,
+    34.873766,
+    -99.502795,
+    34.873766
+],
+  "geometry": {"coordinates":[-99.50279500000001,34.873766],"type":"Point"}
 }

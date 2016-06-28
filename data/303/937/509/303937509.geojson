@@ -2,13 +2,14 @@
   "id": 303937509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.522928,35.514668,-97.522928,35.514668",
     "geom:latitude":35.514668,
     "geom:longitude":-97.522928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 NW 42nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303937509,
-    "wof:lastmodified":1448998576,
+    "wof:lastmodified":1466767020,
     "wof:name":"Industrial Hygiene Specialty",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-97.522928,35.514668,-97.522928,35.514668],
-  "geometry": {"coordinates":[-97.522928,35.514668],"type":"Point"}
+  "bbox": [
+    -97.522928,
+    35.514668,
+    -97.522928,
+    35.514668
+],
+  "geometry": {"coordinates":[-97.52292799999999,35.514668],"type":"Point"}
 }

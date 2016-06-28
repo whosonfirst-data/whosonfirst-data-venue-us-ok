@@ -2,13 +2,14 @@
   "id": 336628725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.969156,36.247516,-95.969156,36.247516",
     "geom:latitude":36.247516,
     "geom:longitude":-95.969156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6315 N Trenton Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336628725,
-    "wof:lastmodified":1448997825,
+    "wof:lastmodified":1466762637,
     "wof:name":"Tom Gill Tree Svc",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-95.969156,36.247516,-95.969156,36.247516],
+  "bbox": [
+    -95.969156,
+    36.247516,
+    -95.969156,
+    36.247516
+],
   "geometry": {"coordinates":[-95.969156,36.247516],"type":"Point"}
 }

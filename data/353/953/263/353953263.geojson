@@ -2,13 +2,14 @@
   "id": 353953263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.509831,34.013336,-95.509831,34.013336",
     "geom:latitude":34.013336,
     "geom:longitude":-95.509831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 E Bluff St",
     "sg:city":"Hugo",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":353953263,
-    "wof:lastmodified":1449019999,
+    "wof:lastmodified":1466765835,
     "wof:name":"Oliver Septic Tank Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-95.509831,34.013336,-95.509831,34.013336],
-  "geometry": {"coordinates":[-95.509831,34.013336],"type":"Point"}
+  "bbox": [
+    -95.509831,
+    34.013336,
+    -95.509831,
+    34.013336
+],
+  "geometry": {"coordinates":[-95.50983100000001,34.013336],"type":"Point"}
 }

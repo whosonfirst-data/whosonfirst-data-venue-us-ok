@@ -2,13 +2,14 @@
   "id": 354070549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.656155,35.576805,-97.656155,35.576805",
     "geom:latitude":35.576805,
     "geom:longitude":-97.656155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10800 N Council Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354070549,
-    "wof:lastmodified":1449066740,
+    "wof:lastmodified":1466763395,
     "wof:name":"Council Place Apartments",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "complex"
     ]
 },
-  "bbox": [-97.656155,35.576805,-97.656155,35.576805],
+  "bbox": [
+    -97.656155,
+    35.576805,
+    -97.656155,
+    35.576805
+],
   "geometry": {"coordinates":[-97.656155,35.576805],"type":"Point"}
 }

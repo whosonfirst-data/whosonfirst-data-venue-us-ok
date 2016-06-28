@@ -2,13 +2,14 @@
   "id": 303532501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.927473,35.253423,-96.927473,35.253423",
     "geom:latitude":35.253423,
     "geom:longitude":-96.927473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 E Highland St",
     "sg:city":"Tecumseh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303532501,
-    "wof:lastmodified":1448998940,
+    "wof:lastmodified":1466766064,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.927473,35.253423,-96.927473,35.253423],
-  "geometry": {"coordinates":[-96.927473,35.253423],"type":"Point"}
+  "bbox": [
+    -96.927473,
+    35.253423,
+    -96.927473,
+    35.253423
+],
+  "geometry": {"coordinates":[-96.92747300000001,35.253423],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320663703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.725355,36.062681,-95.725355,36.062681",
     "geom:latitude":36.062681,
     "geom:longitude":-95.725355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 N 52nd St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320663703,
-    "wof:lastmodified":1449014003,
+    "wof:lastmodified":1466766572,
     "wof:name":"Software Resources Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-95.725355,36.062681,-95.725355,36.062681],
-  "geometry": {"coordinates":[-95.725355,36.062681],"type":"Point"}
+  "bbox": [
+    -95.725355,
+    36.062681,
+    -95.725355,
+    36.062681
+],
+  "geometry": {"coordinates":[-95.72535499999999,36.062681],"type":"Point"}
 }

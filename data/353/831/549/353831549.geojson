@@ -2,13 +2,14 @@
   "id": 353831549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.590734,36.318585,-95.590734,36.318585",
     "geom:latitude":36.318585,
     "geom:longitude":-95.590734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 E Comet Pl",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353831549,
-    "wof:lastmodified":1449019765,
+    "wof:lastmodified":1466765341,
     "wof:name":"Mac Tool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.590734,36.318585,-95.590734,36.318585],
+  "bbox": [
+    -95.590734,
+    36.318585,
+    -95.590734,
+    36.318585
+],
   "geometry": {"coordinates":[-95.590734,36.318585],"type":"Point"}
 }

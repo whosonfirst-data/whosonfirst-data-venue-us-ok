@@ -2,13 +2,14 @@
   "id": 303718337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.48709,35.439003,-97.48709,35.439003",
     "geom:latitude":35.439003,
     "geom:longitude":-97.48709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1328 SE 25th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303718337,
-    "wof:lastmodified":1448998642,
+    "wof:lastmodified":1466766517,
     "wof:name":"Johnston Fishing Jars",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-97.48709,35.439003,-97.48709,35.439003],
-  "geometry": {"coordinates":[-97.48709,35.439003],"type":"Point"}
+  "bbox": [
+    -97.48709,
+    35.439003,
+    -97.48709,
+    35.439003
+],
+  "geometry": {"coordinates":[-97.48708999999999,35.439003],"type":"Point"}
 }

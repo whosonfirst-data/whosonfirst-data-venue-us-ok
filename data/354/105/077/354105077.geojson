@@ -2,13 +2,14 @@
   "id": 354105077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.660227,36.798627,-98.660227,36.798627",
     "geom:latitude":36.798627,
     "geom:longitude":-98.660227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"908 2nd St",
     "sg:city":"Alva",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354105077,
-    "wof:lastmodified":1449066564,
+    "wof:lastmodified":1466763522,
     "wof:name":"Jack Exploration Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "exploration"
     ]
 },
-  "bbox": [-98.660227,36.798627,-98.660227,36.798627],
-  "geometry": {"coordinates":[-98.660227,36.798627],"type":"Point"}
+  "bbox": [
+    -98.660227,
+    36.798627,
+    -98.660227,
+    36.798627
+],
+  "geometry": {"coordinates":[-98.66022700000001,36.798627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320352929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.622852,35.557702,-97.622852,35.557702",
     "geom:latitude":35.557702,
     "geom:longitude":-97.622852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5901 Tiffany Cir",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320352929,
-    "wof:lastmodified":1449013547,
+    "wof:lastmodified":1466765392,
     "wof:name":"W Mike Ashford Properties",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dwelling"
     ]
 },
-  "bbox": [-97.622852,35.557702,-97.622852,35.557702],
-  "geometry": {"coordinates":[-97.622852,35.557702],"type":"Point"}
+  "bbox": [
+    -97.622852,
+    35.557702,
+    -97.622852,
+    35.557702
+],
+  "geometry": {"coordinates":[-97.62285199999999,35.557702],"type":"Point"}
 }

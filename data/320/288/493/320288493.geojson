@@ -2,13 +2,14 @@
   "id": 320288493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.546889,35.511376,-97.546889,35.511376",
     "geom:latitude":35.511376,
     "geom:longitude":-97.546889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 NW 39th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320288493,
-    "wof:lastmodified":1449011634,
+    "wof:lastmodified":1466765103,
     "wof:name":"A Mc",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.546889,35.511376,-97.546889,35.511376],
-  "geometry": {"coordinates":[-97.546889,35.511376],"type":"Point"}
+  "bbox": [
+    -97.546889,
+    35.511376,
+    -97.546889,
+    35.511376
+],
+  "geometry": {"coordinates":[-97.54688899999999,35.511376],"type":"Point"}
 }

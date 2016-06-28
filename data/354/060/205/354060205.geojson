@@ -2,13 +2,14 @@
   "id": 354060205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494676,35.640729,-97.494676,35.640729",
     "geom:latitude":35.640729,
     "geom:longitude":-97.494676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 Irish Ln",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354060205,
-    "wof:lastmodified":1449067509,
+    "wof:lastmodified":1466763341,
     "wof:name":"Procon LLC",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-97.494676,35.640729,-97.494676,35.640729],
+  "bbox": [
+    -97.494676,
+    35.640729,
+    -97.494676,
+    35.640729
+],
   "geometry": {"coordinates":[-97.494676,35.640729],"type":"Point"}
 }

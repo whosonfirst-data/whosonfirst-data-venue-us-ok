@@ -2,13 +2,14 @@
   "id": 303672191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.884611,36.146085,-95.884611,36.146085",
     "geom:latitude":36.146085,
     "geom:longitude":-95.884611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8120 E 12th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303672191,
-    "wof:lastmodified":1448998275,
+    "wof:lastmodified":1466766564,
     "wof:name":"Four Seasons Contracting Inc",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.884611,36.146085,-95.884611,36.146085],
-  "geometry": {"coordinates":[-95.884611,36.146085],"type":"Point"}
+  "bbox": [
+    -95.884611,
+    36.146085,
+    -95.884611,
+    36.146085
+],
+  "geometry": {"coordinates":[-95.88461100000001,36.146085],"type":"Point"}
 }

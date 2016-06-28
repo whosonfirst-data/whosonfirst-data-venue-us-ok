@@ -2,13 +2,14 @@
   "id": 336890427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.311209,35.425059,-97.311209,35.425059",
     "geom:latitude":35.425059,
     "geom:longitude":-97.311209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4108 S Timberline Rd",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336890427,
-    "wof:lastmodified":1448997189,
+    "wof:lastmodified":1466765171,
     "wof:name":"Bethany Floral Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.311209,35.425059,-97.311209,35.425059],
-  "geometry": {"coordinates":[-97.311209,35.425059],"type":"Point"}
+  "bbox": [
+    -97.311209,
+    35.425059,
+    -97.311209,
+    35.425059
+],
+  "geometry": {"coordinates":[-97.31120900000001,35.425059],"type":"Point"}
 }

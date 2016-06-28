@@ -2,13 +2,14 @@
   "id": 320128895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.636752,35.522229,-97.636752,35.522229",
     "geom:latitude":35.522229,
     "geom:longitude":-97.636752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5017 N Rockwell Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320128895,
-    "wof:lastmodified":1449012726,
+    "wof:lastmodified":1466764391,
     "wof:name":"Cleaner Concept",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-97.636752,35.522229,-97.636752,35.522229],
+  "bbox": [
+    -97.636752,
+    35.522229,
+    -97.636752,
+    35.522229
+],
   "geometry": {"coordinates":[-97.636752,35.522229],"type":"Point"}
 }

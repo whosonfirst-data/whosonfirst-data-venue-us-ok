@@ -2,13 +2,14 @@
   "id": 353812283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.295499,35.666871,-97.295499,35.666871",
     "geom:latitude":35.666871,
     "geom:longitude":-97.295499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13380 NE 192nd St",
     "sg:city":"Arcadia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353812283,
-    "wof:lastmodified":1449018316,
+    "wof:lastmodified":1466765277,
     "wof:name":"Aquascape Pools",
     "wof:parent_id":85829129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.295499,35.666871,-97.295499,35.666871],
-  "geometry": {"coordinates":[-97.295499,35.666871],"type":"Point"}
+  "bbox": [
+    -97.295499,
+    35.666871,
+    -97.295499,
+    35.666871
+],
+  "geometry": {"coordinates":[-97.29549900000001,35.666871],"type":"Point"}
 }

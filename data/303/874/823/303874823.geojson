@@ -2,13 +2,14 @@
   "id": 303874823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.121937,34.509389,-97.121937,34.509389",
     "geom:latitude":34.509389,
     "geom:longitude":-97.121937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 N 3rd St",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303874823,
-    "wof:lastmodified":1449000409,
+    "wof:lastmodified":1466766910,
     "wof:name":"Tire Doctor Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-97.121937,34.509389,-97.121937,34.509389],
+  "bbox": [
+    -97.121937,
+    34.509389,
+    -97.121937,
+    34.509389
+],
   "geometry": {"coordinates":[-97.121937,34.509389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336685735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.578161,35.531423,-97.578161,35.531423",
     "geom:latitude":35.531423,
     "geom:longitude":-97.578161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3366 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336685735,
-    "wof:lastmodified":1448997972,
+    "wof:lastmodified":1466763500,
     "wof:name":"Edith Stein Foundation",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "philanthropic"
     ]
 },
-  "bbox": [-97.578161,35.531423,-97.578161,35.531423],
-  "geometry": {"coordinates":[-97.578161,35.531423],"type":"Point"}
+  "bbox": [
+    -97.578161,
+    35.531423,
+    -97.578161,
+    35.531423
+],
+  "geometry": {"coordinates":[-97.57816099999999,35.531423],"type":"Point"}
 }

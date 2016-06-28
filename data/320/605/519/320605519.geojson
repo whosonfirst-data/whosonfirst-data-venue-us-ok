@@ -2,13 +2,14 @@
   "id": 320605519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.943716,36.733469,-95.943716,36.733469",
     "geom:latitude":36.733469,
     "geom:longitude":-95.943716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1428 Oakdale Dr",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320605519,
-    "wof:lastmodified":1449013081,
+    "wof:lastmodified":1466766293,
     "wof:name":"Alfredo's Restaurante Mexicano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.943716,36.733469,-95.943716,36.733469],
-  "geometry": {"coordinates":[-95.943716,36.733469],"type":"Point"}
+  "bbox": [
+    -95.943716,
+    36.733469,
+    -95.943716,
+    36.733469
+],
+  "geometry": {"coordinates":[-95.94371599999999,36.733469],"type":"Point"}
 }

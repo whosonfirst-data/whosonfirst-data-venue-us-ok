@@ -2,13 +2,14 @@
   "id": 337640435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.949373,34.522743,-97.949373,34.522743",
     "geom:latitude":34.522743,
     "geom:longitude":-97.949373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 N 5th St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337640435,
-    "wof:lastmodified":1449027293,
+    "wof:lastmodified":1466763434,
     "wof:name":"Crystal Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electronics"
     ]
 },
-  "bbox": [-97.949373,34.522743,-97.949373,34.522743],
-  "geometry": {"coordinates":[-97.949373,34.522743],"type":"Point"}
+  "bbox": [
+    -97.949373,
+    34.522743,
+    -97.949373,
+    34.522743
+],
+  "geometry": {"coordinates":[-97.94937299999999,34.522743],"type":"Point"}
 }

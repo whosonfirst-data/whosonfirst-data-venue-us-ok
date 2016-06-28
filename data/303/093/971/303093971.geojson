@@ -2,13 +2,14 @@
   "id": 303093971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.772663,34.930253,-95.772663,34.930253",
     "geom:latitude":34.930253,
     "geom:longitude":-95.772663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S A St",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303093971,
-    "wof:lastmodified":1448998121,
+    "wof:lastmodified":1466763137,
     "wof:name":"Kelley Used Cars & Salvage",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-95.772663,34.930253,-95.772663,34.930253],
-  "geometry": {"coordinates":[-95.772663,34.930253],"type":"Point"}
+  "bbox": [
+    -95.772663,
+    34.930253,
+    -95.772663,
+    34.930253
+],
+  "geometry": {"coordinates":[-95.77266299999999,34.930253],"type":"Point"}
 }

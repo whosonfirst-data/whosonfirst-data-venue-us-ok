@@ -2,13 +2,14 @@
   "id": 320531433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.833643,36.118853,-95.833643,36.118853",
     "geom:latitude":36.118853,
     "geom:longitude":-95.833643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12638 E 31st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320531433,
-    "wof:lastmodified":1449012147,
+    "wof:lastmodified":1466766123,
     "wof:name":"Pancho Restaurant",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "eating"
     ]
 },
-  "bbox": [-95.833643,36.118853,-95.833643,36.118853],
+  "bbox": [
+    -95.833643,
+    36.118853,
+    -95.833643,
+    36.118853
+],
   "geometry": {"coordinates":[-95.833643,36.118853],"type":"Point"}
 }

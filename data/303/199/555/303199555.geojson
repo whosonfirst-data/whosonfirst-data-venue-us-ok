@@ -2,13 +2,14 @@
   "id": 303199555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.625291,35.528581,-97.625291,35.528581",
     "geom:latitude":35.528581,
     "geom:longitude":-97.625291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6012 NW 57th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303199555,
-    "wof:lastmodified":1448998374,
+    "wof:lastmodified":1466764438,
     "wof:name":"Keffer Sharp Photography",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-97.625291,35.528581,-97.625291,35.528581],
+  "bbox": [
+    -97.625291,
+    35.528581,
+    -97.625291,
+    35.528581
+],
   "geometry": {"coordinates":[-97.625291,35.528581],"type":"Point"}
 }

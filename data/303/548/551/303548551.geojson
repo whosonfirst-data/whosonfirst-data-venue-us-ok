@@ -2,13 +2,14 @@
   "id": 303548551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.561578,35.594618,-97.561578,35.594618",
     "geom:latitude":35.594618,
     "geom:longitude":-97.561578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2526 NW 122nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303548551,
-    "wof:lastmodified":1448999808,
+    "wof:lastmodified":1466766043,
     "wof:name":"North Side Christian Church",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.561578,35.594618,-97.561578,35.594618],
+  "bbox": [
+    -97.561578,
+    35.594618,
+    -97.561578,
+    35.594618
+],
   "geometry": {"coordinates":[-97.561578,35.594618],"type":"Point"}
 }

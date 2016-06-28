@@ -2,13 +2,14 @@
   "id": 303537125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.92965,35.522565,-97.92965,35.522565",
     "geom:latitude":35.522565,
     "geom:longitude":-97.92965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1875 E Elm St",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303537125,
-    "wof:lastmodified":1448998713,
+    "wof:lastmodified":1466765987,
     "wof:name":"Ross Transportation",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bus"
     ]
 },
-  "bbox": [-97.92965,35.522565,-97.92965,35.522565],
+  "bbox": [
+    -97.92965,
+    35.522565,
+    -97.92965,
+    35.522565
+],
   "geometry": {"coordinates":[-97.92965,35.522565],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303870293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.353097,36.746738,-98.353097,36.746738",
     "geom:latitude":36.746738,
     "geom:longitude":-98.353097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 S Massachusetts Ave",
     "sg:city":"Cherokee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303870293,
-    "wof:lastmodified":1448998754,
+    "wof:lastmodified":1466766899,
     "wof:name":"Holderby Farm Equipment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.353097,36.746738,-98.353097,36.746738],
-  "geometry": {"coordinates":[-98.353097,36.746738],"type":"Point"}
+  "bbox": [
+    -98.353097,
+    36.746738,
+    -98.353097,
+    36.746738
+],
+  "geometry": {"coordinates":[-98.35309700000001,36.746738],"type":"Point"}
 }

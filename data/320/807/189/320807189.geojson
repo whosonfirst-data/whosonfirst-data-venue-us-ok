@@ -2,13 +2,14 @@
   "id": 320807189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.877887,36.27095,-99.877887,36.27095",
     "geom:latitude":36.27095,
     "geom:longitude":-99.877887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 Santa Fe St",
     "sg:city":"Shattuck",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320807189,
-    "wof:lastmodified":1449012223,
+    "wof:lastmodified":1466766861,
     "wof:name":"Shattuck Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "swimming"
     ]
 },
-  "bbox": [-99.877887,36.27095,-99.877887,36.27095],
+  "bbox": [
+    -99.877887,
+    36.27095,
+    -99.877887,
+    36.27095
+],
   "geometry": {"coordinates":[-99.877887,36.27095],"type":"Point"}
 }

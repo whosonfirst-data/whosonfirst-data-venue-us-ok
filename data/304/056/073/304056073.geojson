@@ -2,13 +2,14 @@
   "id": 304056073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534951,35.544785,-97.534951,35.544785",
     "geom:latitude":35.544785,
     "geom:longitude":-97.534951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6634 Avondale Dr",
     "sg:city":"Nichols Hills",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":304056073,
-    "wof:lastmodified":1449043717,
+    "wof:lastmodified":1466763141,
     "wof:name":"Vickie Stewart Interiors",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-97.534951,35.544785,-97.534951,35.544785],
-  "geometry": {"coordinates":[-97.534951,35.544785],"type":"Point"}
+  "bbox": [
+    -97.534951,
+    35.544785,
+    -97.534951,
+    35.544785
+],
+  "geometry": {"coordinates":[-97.53495100000001,35.544785],"type":"Point"}
 }

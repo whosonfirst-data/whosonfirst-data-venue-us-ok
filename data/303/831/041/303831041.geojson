@@ -2,13 +2,14 @@
   "id": 303831041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.505452,35.641452,-97.505452,35.641452",
     "geom:latitude":35.641452,
     "geom:longitude":-97.505452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 del Norte Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303831041,
-    "wof:lastmodified":1448999558,
+    "wof:lastmodified":1466766668,
     "wof:name":"Jcr Cultural Resources",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveying"
     ]
 },
-  "bbox": [-97.505452,35.641452,-97.505452,35.641452],
-  "geometry": {"coordinates":[-97.505452,35.641452],"type":"Point"}
+  "bbox": [
+    -97.505452,
+    35.641452,
+    -97.505452,
+    35.641452
+],
+  "geometry": {"coordinates":[-97.50545200000001,35.641452],"type":"Point"}
 }

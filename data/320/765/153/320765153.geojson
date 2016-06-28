@@ -2,13 +2,14 @@
   "id": 320765153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.217936,34.536629,-96.217936,34.536629",
     "geom:latitude":34.536629,
     "geom:longitude":-96.217936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 S Michigan St",
     "sg:city":"Coalgate",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320765153,
-    "wof:lastmodified":1449013418,
+    "wof:lastmodified":1466766614,
     "wof:name":"Country Charm Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-96.217936,34.536629,-96.217936,34.536629],
-  "geometry": {"coordinates":[-96.217936,34.536629],"type":"Point"}
+  "bbox": [
+    -96.217936,
+    34.536629,
+    -96.217936,
+    34.536629
+],
+  "geometry": {"coordinates":[-96.21793599999999,34.536629],"type":"Point"}
 }

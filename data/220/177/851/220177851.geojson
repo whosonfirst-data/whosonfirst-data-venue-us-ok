@@ -2,13 +2,14 @@
   "id": 220177851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.037498,36.081795,-96.037498,36.081795",
     "geom:latitude":36.081795,
     "geom:longitude":-96.037498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4012 W 56th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":220177851,
-    "wof:lastmodified":1449074876,
+    "wof:lastmodified":1466762351,
     "wof:name":"South Haven Manor",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-96.037498,36.081795,-96.037498,36.081795],
+  "bbox": [
+    -96.037498,
+    36.081795,
+    -96.037498,
+    36.081795
+],
   "geometry": {"coordinates":[-96.037498,36.081795],"type":"Point"}
 }

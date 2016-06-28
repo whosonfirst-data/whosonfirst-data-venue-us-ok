@@ -2,13 +2,14 @@
   "id": 354225001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.970892,36.140692,-95.970892,36.140692",
     "geom:latitude":36.140692,
     "geom:longitude":-95.970892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 E 15th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354225001,
-    "wof:lastmodified":1449066436,
+    "wof:lastmodified":1466764237,
     "wof:name":"Spot Not Car Wash Inc",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-95.970892,36.140692,-95.970892,36.140692],
-  "geometry": {"coordinates":[-95.970892,36.140692],"type":"Point"}
+  "bbox": [
+    -95.970892,
+    36.140692,
+    -95.970892,
+    36.140692
+],
+  "geometry": {"coordinates":[-95.97089200000001,36.140692],"type":"Point"}
 }

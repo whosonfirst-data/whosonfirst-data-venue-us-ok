@@ -2,13 +2,14 @@
   "id": 320480969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.583514,35.528463,-97.583514,35.528463",
     "geom:latitude":35.528463,
     "geom:longitude":-97.583514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5701 N Portland Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320480969,
-    "wof:lastmodified":1449012490,
+    "wof:lastmodified":1466766096,
     "wof:name":"Brewer Kathryn & David Mc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-97.583514,35.528463,-97.583514,35.528463],
-  "geometry": {"coordinates":[-97.583514,35.528463],"type":"Point"}
+  "bbox": [
+    -97.583514,
+    35.528463,
+    -97.583514,
+    35.528463
+],
+  "geometry": {"coordinates":[-97.58351399999999,35.528463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336671833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.801779,36.029213,-95.801779,36.029213",
     "geom:latitude":36.029213,
     "geom:longitude":-95.801779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 W Atlanta Ct",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336671833,
-    "wof:lastmodified":1448997197,
+    "wof:lastmodified":1466763280,
     "wof:name":"Paul King",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-95.801779,36.029213,-95.801779,36.029213],
+  "bbox": [
+    -95.801779,
+    36.029213,
+    -95.801779,
+    36.029213
+],
   "geometry": {"coordinates":[-95.801779,36.029213],"type":"Point"}
 }

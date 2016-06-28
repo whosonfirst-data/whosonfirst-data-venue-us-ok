@@ -2,13 +2,14 @@
   "id": 320767951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.870146,36.149067,-95.870146,36.149067",
     "geom:latitude":36.149067,
     "geom:longitude":-95.870146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9529 E 10th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320767951,
-    "wof:lastmodified":1449012325,
+    "wof:lastmodified":1466766823,
     "wof:name":"Tim Wooten",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.870146,36.149067,-95.870146,36.149067],
-  "geometry": {"coordinates":[-95.870146,36.149067],"type":"Point"}
+  "bbox": [
+    -95.870146,
+    36.149067,
+    -95.870146,
+    36.149067
+],
+  "geometry": {"coordinates":[-95.87014600000001,36.149067],"type":"Point"}
 }

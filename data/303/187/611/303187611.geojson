@@ -2,13 +2,14 @@
   "id": 303187611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.495788,35.345714,-97.495788,35.345714",
     "geom:latitude":35.345714,
     "geom:longitude":-97.495788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 N Moore Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303187611,
-    "wof:lastmodified":1448998483,
+    "wof:lastmodified":1466764355,
     "wof:name":"Harry Bears",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.495788,35.345714,-97.495788,35.345714],
+  "bbox": [
+    -97.495788,
+    35.345714,
+    -97.495788,
+    35.345714
+],
   "geometry": {"coordinates":[-97.495788,35.345714],"type":"Point"}
 }

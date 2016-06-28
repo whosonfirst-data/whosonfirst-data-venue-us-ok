@@ -2,13 +2,14 @@
   "id": 353735995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.373849,35.750505,-95.373849,35.750505",
     "geom:latitude":35.750505,
     "geom:longitude":-95.373849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N 5th St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353735995,
-    "wof:lastmodified":1449020715,
+    "wof:lastmodified":1466765052,
     "wof:name":"Honorable Michael Burrage",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.373849,35.750505,-95.373849,35.750505],
-  "geometry": {"coordinates":[-95.373849,35.750505],"type":"Point"}
+  "bbox": [
+    -95.373849,
+    35.750505,
+    -95.373849,
+    35.750505
+],
+  "geometry": {"coordinates":[-95.37384900000001,35.750505],"type":"Point"}
 }

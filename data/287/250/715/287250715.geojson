@@ -2,13 +2,14 @@
   "id": 287250715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.802403,35.459845,-94.802403,35.459845",
     "geom:latitude":35.459845,
     "geom:longitude":-94.802403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 W Cherokee Ave",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287250715,
-    "wof:lastmodified":1449001184,
+    "wof:lastmodified":1466762701,
     "wof:name":"Hilite Zone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.802403,35.459845,-94.802403,35.459845],
+  "bbox": [
+    -94.802403,
+    35.459845,
+    -94.802403,
+    35.459845
+],
   "geometry": {"coordinates":[-94.802403,35.459845],"type":"Point"}
 }

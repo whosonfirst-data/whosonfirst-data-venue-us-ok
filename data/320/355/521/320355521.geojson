@@ -2,13 +2,14 @@
   "id": 320355521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.544012,35.493479,-97.544012,35.493479",
     "geom:latitude":35.493479,
     "geom:longitude":-97.544012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2407 N Kentucky Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320355521,
-    "wof:lastmodified":1449012303,
+    "wof:lastmodified":1466765416,
     "wof:name":"Baptist Collegiate Ministeries",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.544012,35.493479,-97.544012,35.493479],
+  "bbox": [
+    -97.544012,
+    35.493479,
+    -97.544012,
+    35.493479
+],
   "geometry": {"coordinates":[-97.544012,35.493479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353722029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.617668,36.312004,-95.617668,36.312004",
     "geom:latitude":36.312004,
     "geom:longitude":-95.617668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S J M Davis Blvd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353722029,
-    "wof:lastmodified":1449019146,
+    "wof:lastmodified":1466764968,
     "wof:name":"R & S Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-95.617668,36.312004,-95.617668,36.312004],
-  "geometry": {"coordinates":[-95.617668,36.312004],"type":"Point"}
+  "bbox": [
+    -95.617668,
+    36.312004,
+    -95.617668,
+    36.312004
+],
+  "geometry": {"coordinates":[-95.61766799999999,36.312004],"type":"Point"}
 }

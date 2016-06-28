@@ -2,13 +2,14 @@
   "id": 354156275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.401019,35.453346,-97.401019,35.453346",
     "geom:latitude":35.453346,
     "geom:longitude":-97.401019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1621 Maple Dr",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354156275,
-    "wof:lastmodified":1449066268,
+    "wof:lastmodified":1466763718,
     "wof:name":"Midwest City-Del City Schools",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.401019,35.453346,-97.401019,35.453346],
-  "geometry": {"coordinates":[-97.401019,35.453346],"type":"Point"}
+  "bbox": [
+    -97.401019,
+    35.453346,
+    -97.401019,
+    35.453346
+],
+  "geometry": {"coordinates":[-97.40101900000001,35.453346],"type":"Point"}
 }

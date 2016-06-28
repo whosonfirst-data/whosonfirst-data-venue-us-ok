@@ -2,13 +2,14 @@
   "id": 353562945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.010817,34.380152,-99.010817,34.380152",
     "geom:latitude":34.380152,
     "geom:longitude":-99.010817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 S 15th St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353562945,
-    "wof:lastmodified":1449019608,
+    "wof:lastmodified":1466764065,
     "wof:name":"O K Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-99.010817,34.380152,-99.010817,34.380152],
+  "bbox": [
+    -99.010817,
+    34.380152,
+    -99.010817,
+    34.380152
+],
   "geometry": {"coordinates":[-99.010817,34.380152],"type":"Point"}
 }

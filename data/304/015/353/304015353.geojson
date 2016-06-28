@@ -2,13 +2,14 @@
   "id": 304015353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.802338,36.086462,-95.802338,36.086462",
     "geom:latitude":36.086462,
     "geom:longitude":-95.802338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 N Battle Creek Dr",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304015353,
-    "wof:lastmodified":1449043699,
+    "wof:lastmodified":1466762892,
     "wof:name":"Prospector Properties Inc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.802338,36.086462,-95.802338,36.086462],
-  "geometry": {"coordinates":[-95.802338,36.086462],"type":"Point"}
+  "bbox": [
+    -95.802338,
+    36.086462,
+    -95.802338,
+    36.086462
+],
+  "geometry": {"coordinates":[-95.80233800000001,36.086462],"type":"Point"}
 }

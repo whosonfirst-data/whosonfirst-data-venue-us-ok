@@ -2,13 +2,14 @@
   "id": 303270627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.170451,34.642792,-97.170451,34.642792",
     "geom:latitude":34.642792,
     "geom:longitude":-97.170451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Dean A McGee Ave",
     "sg:city":"Wynnewood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303270627,
-    "wof:lastmodified":1448998552,
+    "wof:lastmodified":1466764809,
     "wof:name":"Cotton Gin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.170451,34.642792,-97.170451,34.642792],
+  "bbox": [
+    -97.170451,
+    34.642792,
+    -97.170451,
+    34.642792
+],
   "geometry": {"coordinates":[-97.170451,34.642792],"type":"Point"}
 }

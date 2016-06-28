@@ -2,13 +2,14 @@
   "id": 320198843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.543178,35.391712,-97.543178,35.391712",
     "geom:latitude":35.391712,
     "geom:longitude":-97.543178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1145 SW 74th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320198843,
-    "wof:lastmodified":1449012629,
+    "wof:lastmodified":1466764599,
     "wof:name":"Healthsouth Medical Imaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-97.543178,35.391712,-97.543178,35.391712],
+  "bbox": [
+    -97.543178,
+    35.391712,
+    -97.543178,
+    35.391712
+],
   "geometry": {"coordinates":[-97.543178,35.391712],"type":"Point"}
 }

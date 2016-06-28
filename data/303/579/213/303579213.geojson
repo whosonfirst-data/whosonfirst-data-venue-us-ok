@@ -2,13 +2,14 @@
   "id": 303579213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.92973,35.375572,-96.92973,35.375572",
     "geom:latitude":35.375572,
     "geom:longitude":-96.92973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4409 N Kickapoo St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303579213,
-    "wof:lastmodified":1448998892,
+    "wof:lastmodified":1466766226,
     "wof:name":"Subway Sandwiches & Salads",
     "wof:parent_id":85827517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.92973,35.375572,-96.92973,35.375572],
-  "geometry": {"coordinates":[-96.92973,35.375572],"type":"Point"}
+  "bbox": [
+    -96.92973,
+    35.375572,
+    -96.92973,
+    35.375572
+],
+  "geometry": {"coordinates":[-96.92973000000001,35.375572],"type":"Point"}
 }

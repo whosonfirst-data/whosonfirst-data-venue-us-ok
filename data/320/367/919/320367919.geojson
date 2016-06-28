@@ -2,13 +2,14 @@
   "id": 320367919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.400314,35.474048,-97.400314,35.474048",
     "geom:latitude":35.474048,
     "geom:longitude":-97.400314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3404 Shadybrook Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320367919,
-    "wof:lastmodified":1449013465,
+    "wof:lastmodified":1466765577,
     "wof:name":"Binton Paint Wallpaper",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.400314,35.474048,-97.400314,35.474048],
-  "geometry": {"coordinates":[-97.400314,35.474048],"type":"Point"}
+  "bbox": [
+    -97.400314,
+    35.474048,
+    -97.400314,
+    35.474048
+],
+  "geometry": {"coordinates":[-97.40031399999999,35.474048],"type":"Point"}
 }

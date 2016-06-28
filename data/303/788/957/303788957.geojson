@@ -2,13 +2,14 @@
   "id": 303788957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976356,36.089285,-95.976356,36.089285",
     "geom:latitude":36.089285,
     "geom:longitude":-95.976356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 E Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303788957,
-    "wof:lastmodified":1448999381,
+    "wof:lastmodified":1466766710,
     "wof:name":"Tulsa Integrity Motors",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.976356,36.089285,-95.976356,36.089285],
+  "bbox": [
+    -95.976356,
+    36.089285,
+    -95.976356,
+    36.089285
+],
   "geometry": {"coordinates":[-95.976356,36.089285],"type":"Point"}
 }

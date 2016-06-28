@@ -2,13 +2,14 @@
   "id": 320373173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.058607,36.12395,-97.058607,36.12395",
     "geom:latitude":36.12395,
     "geom:longitude":-97.058607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 N Main St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320373173,
-    "wof:lastmodified":1449013189,
+    "wof:lastmodified":1466765587,
     "wof:name":"Strickland Baseball Complex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-97.058607,36.12395,-97.058607,36.12395],
-  "geometry": {"coordinates":[-97.058607,36.12395],"type":"Point"}
+  "bbox": [
+    -97.058607,
+    36.12395,
+    -97.058607,
+    36.12395
+],
+  "geometry": {"coordinates":[-97.05860699999999,36.12395],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320382899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.059491,36.168144,-97.059491,36.168144",
     "geom:latitude":36.168144,
     "geom:longitude":-97.059491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4419 N Parkview Ct",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320382899,
-    "wof:lastmodified":1449012253,
+    "wof:lastmodified":1466765614,
     "wof:name":"Stillwater Private Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "patrol"
     ]
 },
-  "bbox": [-97.059491,36.168144,-97.059491,36.168144],
-  "geometry": {"coordinates":[-97.059491,36.168144],"type":"Point"}
+  "bbox": [
+    -97.059491,
+    36.168144,
+    -97.059491,
+    36.168144
+],
+  "geometry": {"coordinates":[-97.05949099999999,36.168144],"type":"Point"}
 }

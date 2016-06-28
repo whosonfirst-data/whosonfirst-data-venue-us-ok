@@ -2,13 +2,14 @@
   "id": 336789461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.594547,35.532148,-97.594547,35.532148",
     "geom:latitude":35.532148,
     "geom:longitude":-97.594547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 NW 60th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336789461,
-    "wof:lastmodified":1448997437,
+    "wof:lastmodified":1466764621,
     "wof:name":"Rdd Trucking LLC",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.594547,35.532148,-97.594547,35.532148],
-  "geometry": {"coordinates":[-97.594547,35.532148],"type":"Point"}
+  "bbox": [
+    -97.594547,
+    35.532148,
+    -97.594547,
+    35.532148
+],
+  "geometry": {"coordinates":[-97.59454700000001,35.532148],"type":"Point"}
 }

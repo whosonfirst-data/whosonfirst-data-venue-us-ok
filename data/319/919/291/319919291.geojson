@@ -2,13 +2,14 @@
   "id": 319919291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.355302,35.47677,-98.355302,35.47677",
     "geom:latitude":35.47677,
     "geom:longitude":-98.355302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 N Broadway Ave",
     "sg:city":"Hinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319919291,
-    "wof:lastmodified":1449024693,
+    "wof:lastmodified":1466763821,
     "wof:name":"Park View Hospital Home Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-98.355302,35.47677,-98.355302,35.47677],
-  "geometry": {"coordinates":[-98.355302,35.47677],"type":"Point"}
+  "bbox": [
+    -98.355302,
+    35.47677,
+    -98.355302,
+    35.47677
+],
+  "geometry": {"coordinates":[-98.35530199999999,35.47677],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354037223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.459281,35.455567,-97.459281,35.455567",
     "geom:latitude":35.455567,
     "geom:longitude":-97.459281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 S Bryant Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354037223,
-    "wof:lastmodified":1449067686,
+    "wof:lastmodified":1466763189,
     "wof:name":"J & P Transport",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.459281,35.455567,-97.459281,35.455567],
+  "bbox": [
+    -97.459281,
+    35.455567,
+    -97.459281,
+    35.455567
+],
   "geometry": {"coordinates":[-97.459281,35.455567],"type":"Point"}
 }

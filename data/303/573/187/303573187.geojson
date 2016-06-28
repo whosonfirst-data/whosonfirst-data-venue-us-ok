@@ -2,13 +2,14 @@
   "id": 303573187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549329,35.564578,-97.549329,35.564578",
     "geom:latitude":35.564578,
     "geom:longitude":-97.549329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9233 N Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303573187,
-    "wof:lastmodified":1448999923,
+    "wof:lastmodified":1466766116,
     "wof:name":"Goldworks Fine Jewelry",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-97.549329,35.564578,-97.549329,35.564578],
+  "bbox": [
+    -97.549329,
+    35.564578,
+    -97.549329,
+    35.564578
+],
   "geometry": {"coordinates":[-97.549329,35.564578],"type":"Point"}
 }

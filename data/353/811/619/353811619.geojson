@@ -2,13 +2,14 @@
   "id": 353811619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975785,36.108336,-95.975785,36.108336",
     "geom:latitude":36.108336,
     "geom:longitude":-95.975785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3750 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353811619,
-    "wof:lastmodified":1449019497,
+    "wof:lastmodified":1466765269,
     "wof:name":"Riverbrook Animal Hospital Inc",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-95.975785,36.108336,-95.975785,36.108336],
+  "bbox": [
+    -95.975785,
+    36.108336,
+    -95.975785,
+    36.108336
+],
   "geometry": {"coordinates":[-95.975785,36.108336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303283063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.44181,35.509415,-97.44181,35.509415",
     "geom:latitude":35.509415,
     "geom:longitude":-97.44181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3905 N Coltrane Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303283063,
-    "wof:lastmodified":1448998838,
+    "wof:lastmodified":1466764780,
     "wof:name":"Anu Attitude",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.44181,35.509415,-97.44181,35.509415],
+  "bbox": [
+    -97.44181,
+    35.509415,
+    -97.44181,
+    35.509415
+],
   "geometry": {"coordinates":[-97.44181,35.509415],"type":"Point"}
 }

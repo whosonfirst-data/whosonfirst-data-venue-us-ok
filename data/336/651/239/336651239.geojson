@@ -2,13 +2,14 @@
   "id": 336651239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.014494,34.404146,-99.014494,34.404146",
     "geom:latitude":34.404146,
     "geom:longitude":-99.014494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 N 12th St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336651239,
-    "wof:lastmodified":1448997158,
+    "wof:lastmodified":1466762971,
     "wof:name":"Donald K Keeter DDS Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-99.014494,34.404146,-99.014494,34.404146],
+  "bbox": [
+    -99.014494,
+    34.404146,
+    -99.014494,
+    34.404146
+],
   "geometry": {"coordinates":[-99.014494,34.404146],"type":"Point"}
 }

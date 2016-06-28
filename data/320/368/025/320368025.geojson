@@ -2,13 +2,14 @@
   "id": 320368025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750521,35.507476,-97.750521,35.507476",
     "geom:latitude":35.507476,
     "geom:longitude":-97.750521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 S 5th St",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320368025,
-    "wof:lastmodified":1449012121,
+    "wof:lastmodified":1466765570,
     "wof:name":"Mullen Plumbing Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.750521,35.507476,-97.750521,35.507476],
-  "geometry": {"coordinates":[-97.750521,35.507476],"type":"Point"}
+  "bbox": [
+    -97.750521,
+    35.507476,
+    -97.750521,
+    35.507476
+],
+  "geometry": {"coordinates":[-97.75052100000001,35.507476],"type":"Point"}
 }

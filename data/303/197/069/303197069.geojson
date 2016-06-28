@@ -2,13 +2,14 @@
   "id": 303197069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.83088,36.983399,-94.83088,36.983399",
     "geom:latitude":36.983399,
     "geom:longitude":-94.83088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Connell Ave",
     "sg:city":"Picher",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303197069,
-    "wof:lastmodified":1449000258,
+    "wof:lastmodified":1466764306,
     "wof:name":"First State Bank Of Picher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.83088,36.983399,-94.83088,36.983399],
-  "geometry": {"coordinates":[-94.83088,36.983399],"type":"Point"}
+  "bbox": [
+    -94.83088,
+    36.983399,
+    -94.83088,
+    36.983399
+],
+  "geometry": {"coordinates":[-94.83087999999999,36.983399],"type":"Point"}
 }

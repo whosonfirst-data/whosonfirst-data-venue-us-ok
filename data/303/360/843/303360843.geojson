@@ -2,13 +2,14 @@
   "id": 303360843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.747594,36.184301,-95.747594,36.184301",
     "geom:latitude":36.184301,
     "geom:longitude":-95.747594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 S Cherokee St",
     "sg:city":"Catoosa",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":303360843,
-    "wof:lastmodified":1449000001,
+    "wof:lastmodified":1466765132,
     "wof:name":"Helen Paul Learning Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.747594,36.184301,-95.747594,36.184301],
-  "geometry": {"coordinates":[-95.747594,36.184301],"type":"Point"}
+  "bbox": [
+    -95.747594,
+    36.184301,
+    -95.747594,
+    36.184301
+],
+  "geometry": {"coordinates":[-95.74759400000001,36.184301],"type":"Point"}
 }

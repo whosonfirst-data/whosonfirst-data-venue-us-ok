@@ -2,13 +2,14 @@
   "id": 320105193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.800052,36.177145,-95.800052,36.177145",
     "geom:latitude":36.177145,
     "geom:longitude":-95.800052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15855 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320105193,
-    "wof:lastmodified":1449012703,
+    "wof:lastmodified":1466763843,
     "wof:name":"Fleet Service Of Tulsa Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-95.800052,36.177145,-95.800052,36.177145],
-  "geometry": {"coordinates":[-95.800052,36.177145],"type":"Point"}
+  "bbox": [
+    -95.800052,
+    36.177145,
+    -95.800052,
+    36.177145
+],
+  "geometry": {"coordinates":[-95.80005199999999,36.177145],"type":"Point"}
 }

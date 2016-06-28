@@ -2,13 +2,14 @@
   "id": 353936237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.596691,35.319444,-97.596691,35.319444",
     "geom:latitude":35.319444,
     "geom:longitude":-97.596691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4232 SW 149th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353936237,
-    "wof:lastmodified":1449019107,
+    "wof:lastmodified":1466765682,
     "wof:name":"One Wild Hair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "barber"
     ]
 },
-  "bbox": [-97.596691,35.319444,-97.596691,35.319444],
-  "geometry": {"coordinates":[-97.596691,35.319444],"type":"Point"}
+  "bbox": [
+    -97.596691,
+    35.319444,
+    -97.596691,
+    35.319444
+],
+  "geometry": {"coordinates":[-97.59669100000001,35.319444],"type":"Point"}
 }

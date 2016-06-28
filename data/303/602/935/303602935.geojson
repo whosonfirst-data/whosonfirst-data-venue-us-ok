@@ -2,13 +2,14 @@
   "id": 303602935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.405651,36.063592,-97.405651,36.063592",
     "geom:latitude":36.063592,
     "geom:longitude":-97.405651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 S Lewis St",
     "sg:city":"Mulhall",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303602935,
-    "wof:lastmodified":1448999266,
+    "wof:lastmodified":1466766095,
     "wof:name":"Mulhall Orlando Elementary",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.405651,36.063592,-97.405651,36.063592],
-  "geometry": {"coordinates":[-97.405651,36.063592],"type":"Point"}
+  "bbox": [
+    -97.405651,
+    36.063592,
+    -97.405651,
+    36.063592
+],
+  "geometry": {"coordinates":[-97.40565100000001,36.063592],"type":"Point"}
 }

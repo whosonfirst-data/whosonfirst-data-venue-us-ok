@@ -2,13 +2,14 @@
   "id": 303168565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.050897,35.987557,-97.050897,35.987557",
     "geom:latitude":35.987557,
     "geom:longitude":-97.050897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11414 S Perkins Rd",
     "sg:city":"Perkins",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303168565,
-    "wof:lastmodified":1448999399,
+    "wof:lastmodified":1466764285,
     "wof:name":"Masters Toymaker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "furniture"
     ]
 },
-  "bbox": [-97.050897,35.987557,-97.050897,35.987557],
-  "geometry": {"coordinates":[-97.050897,35.987557],"type":"Point"}
+  "bbox": [
+    -97.050897,
+    35.987557,
+    -97.050897,
+    35.987557
+],
+  "geometry": {"coordinates":[-97.05089700000001,35.987557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303108173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.970309,36.08168,-95.970309,36.08168",
     "geom:latitude":36.08168,
     "geom:longitude":-95.970309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5636 S Rockford Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303108173,
-    "wof:lastmodified":1448998160,
+    "wof:lastmodified":1466763367,
     "wof:name":"Hibbs Construction",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-95.970309,36.08168,-95.970309,36.08168],
+  "bbox": [
+    -95.970309,
+    36.08168,
+    -95.970309,
+    36.08168
+],
   "geometry": {"coordinates":[-95.970309,36.08168],"type":"Point"}
 }

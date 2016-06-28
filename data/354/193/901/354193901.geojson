@@ -2,13 +2,14 @@
   "id": 354193901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.489545,35.524743,-97.489545,35.524743",
     "geom:latitude":35.524743,
     "geom:longitude":-97.489545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 NE 53rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354193901,
-    "wof:lastmodified":1449066213,
+    "wof:lastmodified":1466763877,
     "wof:name":"White Wilford C Auction & Rlty",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-97.489545,35.524743,-97.489545,35.524743],
-  "geometry": {"coordinates":[-97.489545,35.524743],"type":"Point"}
+  "bbox": [
+    -97.489545,
+    35.524743,
+    -97.489545,
+    35.524743
+],
+  "geometry": {"coordinates":[-97.48954500000001,35.524743],"type":"Point"}
 }

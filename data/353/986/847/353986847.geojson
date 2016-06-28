@@ -2,13 +2,14 @@
   "id": 353986847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.337418,36.665718,-96.337418,36.665718",
     "geom:latitude":36.665718,
     "geom:longitude":-96.337418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Leahy Ave",
     "sg:city":"Pawhuska",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353986847,
-    "wof:lastmodified":1449020328,
+    "wof:lastmodified":1466765830,
     "wof:name":"Gemini Medical Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-96.337418,36.665718,-96.337418,36.665718],
+  "bbox": [
+    -96.337418,
+    36.665718,
+    -96.337418,
+    36.665718
+],
   "geometry": {"coordinates":[-96.337418,36.665718],"type":"Point"}
 }

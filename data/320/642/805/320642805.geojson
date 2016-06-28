@@ -2,13 +2,14 @@
   "id": 320642805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.564993,35.549654,-97.564993,35.549654",
     "geom:latitude":35.549654,
     "geom:longitude":-97.564993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2641 Somerset Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320642805,
-    "wof:lastmodified":1449011470,
+    "wof:lastmodified":1466766245,
     "wof:name":"Exchange Grocery",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "operates"
     ]
 },
-  "bbox": [-97.564993,35.549654,-97.564993,35.549654],
+  "bbox": [
+    -97.564993,
+    35.549654,
+    -97.564993,
+    35.549654
+],
   "geometry": {"coordinates":[-97.564993,35.549654],"type":"Point"}
 }

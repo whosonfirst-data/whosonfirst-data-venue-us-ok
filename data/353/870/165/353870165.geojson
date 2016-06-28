@@ -2,13 +2,14 @@
   "id": 353870165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.053954,35.305566,-97.053954,35.305566",
     "geom:latitude":35.305566,
     "geom:longitude":-97.053954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17900 State Hwy 102",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353870165,
-    "wof:lastmodified":1449018938,
+    "wof:lastmodified":1466765566,
     "wof:name":"Willis Quick Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.053954,35.305566,-97.053954,35.305566],
+  "bbox": [
+    -97.053954,
+    35.305566,
+    -97.053954,
+    35.305566
+],
   "geometry": {"coordinates":[-97.053954,35.305566],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303840463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.371892,35.750108,-95.371892,35.750108",
     "geom:latitude":35.750108,
     "geom:longitude":-95.371892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 N 4th St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303840463,
-    "wof:lastmodified":1449000011,
+    "wof:lastmodified":1466766725,
     "wof:name":"Stephen J Scherer",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-95.371892,35.750108,-95.371892,35.750108],
+  "bbox": [
+    -95.371892,
+    35.750108,
+    -95.371892,
+    35.750108
+],
   "geometry": {"coordinates":[-95.371892,35.750108],"type":"Point"}
 }

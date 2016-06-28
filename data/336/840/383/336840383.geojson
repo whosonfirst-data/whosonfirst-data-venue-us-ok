@@ -2,13 +2,14 @@
   "id": 336840383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.464183,36.313999,-96.464183,36.313999",
     "geom:latitude":36.313999,
     "geom:longitude":-96.464183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 N Broadway St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336840383,
-    "wof:lastmodified":1448997791,
+    "wof:lastmodified":1466764871,
     "wof:name":"Black's Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.464183,36.313999,-96.464183,36.313999],
-  "geometry": {"coordinates":[-96.464183,36.313999],"type":"Point"}
+  "bbox": [
+    -96.464183,
+    36.313999,
+    -96.464183,
+    36.313999
+],
+  "geometry": {"coordinates":[-96.46418300000001,36.313999],"type":"Point"}
 }

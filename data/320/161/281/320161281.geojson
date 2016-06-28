@@ -2,13 +2,14 @@
   "id": 320161281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.475066,35.500302,-97.475066,35.500302",
     "geom:latitude":35.500302,
     "geom:longitude":-97.475066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2044 NE 30th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320161281,
-    "wof:lastmodified":1449012746,
+    "wof:lastmodified":1466764315,
     "wof:name":"Peaceful Upholstery",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-97.475066,35.500302,-97.475066,35.500302],
+  "bbox": [
+    -97.475066,
+    35.500302,
+    -97.475066,
+    35.500302
+],
   "geometry": {"coordinates":[-97.475066,35.500302],"type":"Point"}
 }

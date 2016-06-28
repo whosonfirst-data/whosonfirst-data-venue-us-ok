@@ -2,13 +2,14 @@
   "id": 304008299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.099329,34.901166,-96.099329,34.901166",
     "geom:latitude":34.901166,
     "geom:longitude":-96.099329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"627 Roosevelt Ave",
     "sg:city":"Stuart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304008299,
-    "wof:lastmodified":1449043738,
+    "wof:lastmodified":1466762854,
     "wof:name":"Rural Water Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-96.099329,34.901166,-96.099329,34.901166],
+  "bbox": [
+    -96.099329,
+    34.901166,
+    -96.099329,
+    34.901166
+],
   "geometry": {"coordinates":[-96.099329,34.901166],"type":"Point"}
 }

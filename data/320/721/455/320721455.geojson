@@ -2,13 +2,14 @@
   "id": 320721455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.866363,36.43632,-97.866363,36.43632",
     "geom:latitude":36.43632,
     "geom:longitude":-97.866363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Redwood",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320721455,
-    "wof:lastmodified":1449014958,
+    "wof:lastmodified":1466766596,
     "wof:name":"Clerk of Courts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-97.866363,36.43632,-97.866363,36.43632],
-  "geometry": {"coordinates":[-97.866363,36.43632],"type":"Point"}
+  "bbox": [
+    -97.866363,
+    36.43632,
+    -97.866363,
+    36.43632
+],
+  "geometry": {"coordinates":[-97.86636300000001,36.43632],"type":"Point"}
 }

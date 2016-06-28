@@ -2,13 +2,14 @@
   "id": 320531493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503028,35.644825,-97.503028,35.644825",
     "geom:latitude":35.644825,
     "geom:longitude":-97.503028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Val Genes Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320531493,
-    "wof:lastmodified":1449012148,
+    "wof:lastmodified":1466766124,
     "wof:name":"Final Touch",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-97.503028,35.644825,-97.503028,35.644825],
+  "bbox": [
+    -97.503028,
+    35.644825,
+    -97.503028,
+    35.644825
+],
   "geometry": {"coordinates":[-97.503028,35.644825],"type":"Point"}
 }

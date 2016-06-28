@@ -2,13 +2,14 @@
   "id": 320472109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.046968,36.116019,-97.046968,36.116019",
     "geom:latitude":36.116019,
     "geom:longitude":-97.046968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 E 6th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320472109,
-    "wof:lastmodified":1449011537,
+    "wof:lastmodified":1466766000,
     "wof:name":"Charles C Frank Home Cnstr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "builder"
     ]
 },
-  "bbox": [-97.046968,36.116019,-97.046968,36.116019],
-  "geometry": {"coordinates":[-97.046968,36.116019],"type":"Point"}
+  "bbox": [
+    -97.046968,
+    36.116019,
+    -97.046968,
+    36.116019
+],
+  "geometry": {"coordinates":[-97.04696800000001,36.116019],"type":"Point"}
 }

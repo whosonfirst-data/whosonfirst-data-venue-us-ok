@@ -2,13 +2,14 @@
   "id": 304053973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.783876,35.827922,-95.783876,35.827922",
     "geom:latitude":35.827922,
     "geom:longitude":-95.783876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1350 N 330 Rd",
     "sg:city":"Haskell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":304053973,
-    "wof:lastmodified":1449043670,
+    "wof:lastmodified":1466763137,
     "wof:name":"Lowell Hobbs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-95.783876,35.827922,-95.783876,35.827922],
-  "geometry": {"coordinates":[-95.783876,35.827922],"type":"Point"}
+  "bbox": [
+    -95.783876,
+    35.827922,
+    -95.783876,
+    35.827922
+],
+  "geometry": {"coordinates":[-95.78387600000001,35.827922],"type":"Point"}
 }

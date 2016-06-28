@@ -2,13 +2,14 @@
   "id": 320013021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.288189,36.284835,-97.288189,36.284835",
     "geom:latitude":36.284835,
     "geom:longitude":-97.288189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N 7th St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320013021,
-    "wof:lastmodified":1449013802,
+    "wof:lastmodified":1466762473,
     "wof:name":"YMCA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-97.288189,36.284835,-97.288189,36.284835],
+  "bbox": [
+    -97.288189,
+    36.284835,
+    -97.288189,
+    36.284835
+],
   "geometry": {"coordinates":[-97.288189,36.284835],"type":"Point"}
 }

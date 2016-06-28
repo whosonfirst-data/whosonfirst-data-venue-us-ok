@@ -2,13 +2,14 @@
   "id": 353829169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.781894,35.973087,-95.781894,35.973087",
     "geom:latitude":35.973087,
     "geom:longitude":-95.781894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Kingsport St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353829169,
-    "wof:lastmodified":1449020626,
+    "wof:lastmodified":1466765335,
     "wof:name":"Bg Softfactory Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "software"
     ]
 },
-  "bbox": [-95.781894,35.973087,-95.781894,35.973087],
-  "geometry": {"coordinates":[-95.781894,35.973087],"type":"Point"}
+  "bbox": [
+    -95.781894,
+    35.973087,
+    -95.781894,
+    35.973087
+],
+  "geometry": {"coordinates":[-95.78189399999999,35.973087],"type":"Point"}
 }

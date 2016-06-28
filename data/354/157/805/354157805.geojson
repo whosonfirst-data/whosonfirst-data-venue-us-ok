@@ -2,13 +2,14 @@
   "id": 354157805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.959347,36.140527,-95.959347,36.140527",
     "geom:latitude":36.140527,
     "geom:longitude":-95.959347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 E 15th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354157805,
-    "wof:lastmodified":1449067418,
+    "wof:lastmodified":1466763728,
     "wof:name":"German American Society-Tulsa",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-95.959347,36.140527,-95.959347,36.140527],
-  "geometry": {"coordinates":[-95.959347,36.140527],"type":"Point"}
+  "bbox": [
+    -95.959347,
+    36.140527,
+    -95.959347,
+    36.140527
+],
+  "geometry": {"coordinates":[-95.95934699999999,36.140527],"type":"Point"}
 }

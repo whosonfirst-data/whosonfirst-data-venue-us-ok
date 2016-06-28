@@ -2,13 +2,14 @@
   "id": 303712453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.869289,36.02154,-95.869289,36.02154",
     "geom:latitude":36.02154,
     "geom:longitude":-95.869289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9510 E 98th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303712453,
-    "wof:lastmodified":1448999167,
+    "wof:lastmodified":1466766509,
     "wof:name":"Shelton Hershey Chocolate",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-95.869289,36.02154,-95.869289,36.02154],
-  "geometry": {"coordinates":[-95.869289,36.02154],"type":"Point"}
+  "bbox": [
+    -95.869289,
+    36.02154,
+    -95.869289,
+    36.02154
+],
+  "geometry": {"coordinates":[-95.86928899999999,36.02154],"type":"Point"}
 }

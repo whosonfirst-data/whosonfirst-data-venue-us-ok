@@ -2,13 +2,14 @@
   "id": 354085529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.948039,35.621359,-95.948039,35.621359",
     "geom:latitude":35.621359,
     "geom:longitude":-95.948039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1619 E 8th St",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354085529,
-    "wof:lastmodified":1449066337,
+    "wof:lastmodified":1466763456,
     "wof:name":"Sue Marolf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-95.948039,35.621359,-95.948039,35.621359],
-  "geometry": {"coordinates":[-95.948039,35.621359],"type":"Point"}
+  "bbox": [
+    -95.948039,
+    35.621359,
+    -95.948039,
+    35.621359
+],
+  "geometry": {"coordinates":[-95.94803899999999,35.621359],"type":"Point"}
 }

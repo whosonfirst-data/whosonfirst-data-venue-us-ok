@@ -2,13 +2,14 @@
   "id": 287143683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.93544,36.81577,-95.93544,36.81577",
     "geom:latitude":36.81577,
     "geom:longitude":-95.93544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13372 US Hwy 75",
     "sg:city":"Dewey",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":287143683,
-    "wof:lastmodified":1449001414,
+    "wof:lastmodified":1466763655,
     "wof:name":"Dewey Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-95.93544,36.81577,-95.93544,36.81577],
+  "bbox": [
+    -95.93544,
+    36.81577,
+    -95.93544,
+    36.81577
+],
   "geometry": {"coordinates":[-95.93544,36.81577],"type":"Point"}
 }

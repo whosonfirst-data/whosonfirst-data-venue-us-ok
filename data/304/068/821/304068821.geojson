@@ -2,13 +2,14 @@
   "id": 304068821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.059719,36.152586,-96.059719,36.152586",
     "geom:latitude":36.152586,
     "geom:longitude":-96.059719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5706 W 1st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":304068821,
-    "wof:lastmodified":1449043874,
+    "wof:lastmodified":1466763219,
     "wof:name":"S & F Machine and Mfg Co",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "oilfield"
     ]
 },
-  "bbox": [-96.059719,36.152586,-96.059719,36.152586],
+  "bbox": [
+    -96.059719,
+    36.152586,
+    -96.059719,
+    36.152586
+],
   "geometry": {"coordinates":[-96.059719,36.152586],"type":"Point"}
 }

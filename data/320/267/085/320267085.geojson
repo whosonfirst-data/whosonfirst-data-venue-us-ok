@@ -2,13 +2,14 @@
   "id": 320267085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.340256,35.697501,-95.340256,35.697501",
     "geom:latitude":35.697501,
     "geom:longitude":-95.340256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4131 S York St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320267085,
-    "wof:lastmodified":1449014626,
+    "wof:lastmodified":1466764991,
     "wof:name":"Custom Interiors",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "blind"
     ]
 },
-  "bbox": [-95.340256,35.697501,-95.340256,35.697501],
+  "bbox": [
+    -95.340256,
+    35.697501,
+    -95.340256,
+    35.697501
+],
   "geometry": {"coordinates":[-95.340256,35.697501],"type":"Point"}
 }

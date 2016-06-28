@@ -2,13 +2,14 @@
   "id": 320187327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.754996,34.980049,-95.754996,34.980049",
     "geom:latitude":34.980049,
     "geom:longitude":-95.754996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 Lakeview Rd",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320187327,
-    "wof:lastmodified":1449011808,
+    "wof:lastmodified":1466764438,
     "wof:name":"Tony's Refrigeration Svc",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.754996,34.980049,-95.754996,34.980049],
-  "geometry": {"coordinates":[-95.754996,34.980049],"type":"Point"}
+  "bbox": [
+    -95.754996,
+    34.980049,
+    -95.754996,
+    34.980049
+],
+  "geometry": {"coordinates":[-95.75499600000001,34.980049],"type":"Point"}
 }

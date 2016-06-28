@@ -2,13 +2,14 @@
   "id": 303647331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886499,35.920305,-95.886499,35.920305",
     "geom:latitude":35.920305,
     "geom:longitude":-95.886499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17015 S Memorial Dr",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303647331,
-    "wof:lastmodified":1448999278,
+    "wof:lastmodified":1466766359,
     "wof:name":"Saints Peter & Paul Coptic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.886499,35.920305,-95.886499,35.920305],
+  "bbox": [
+    -95.886499,
+    35.920305,
+    -95.886499,
+    35.920305
+],
   "geometry": {"coordinates":[-95.886499,35.920305],"type":"Point"}
 }

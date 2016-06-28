@@ -2,13 +2,14 @@
   "id": 319835049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.596617,35.494801,-97.596617,35.494801",
     "geom:latitude":35.494801,
     "geom:longitude":-97.596617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2416 N Geraldine Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":319835049,
-    "wof:lastmodified":1449024208,
+    "wof:lastmodified":1466763000,
     "wof:name":"J & J Drug Screening Division",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "screening"
     ]
 },
-  "bbox": [-97.596617,35.494801,-97.596617,35.494801],
-  "geometry": {"coordinates":[-97.596617,35.494801],"type":"Point"}
+  "bbox": [
+    -97.596617,
+    35.494801,
+    -97.596617,
+    35.494801
+],
+  "geometry": {"coordinates":[-97.59661699999999,35.494801],"type":"Point"}
 }

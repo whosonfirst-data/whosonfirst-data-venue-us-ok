@@ -2,13 +2,14 @@
   "id": 303412233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.541343,36.394431,-95.541343,36.394431",
     "geom:latitude":36.394431,
     "geom:longitude":-95.541343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16191 E 430 Rd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303412233,
-    "wof:lastmodified":1448998616,
+    "wof:lastmodified":1466765484,
     "wof:name":"Shrum's Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-95.541343,36.394431,-95.541343,36.394431],
+  "bbox": [
+    -95.541343,
+    36.394431,
+    -95.541343,
+    36.394431
+],
   "geometry": {"coordinates":[-95.541343,36.394431],"type":"Point"}
 }

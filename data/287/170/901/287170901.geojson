@@ -2,13 +2,14 @@
   "id": 287170901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.506791,34.875938,-99.506791,34.875938",
     "geom:latitude":34.875938,
     "geom:longitude":-99.506791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 W Filmore St",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287170901,
-    "wof:lastmodified":1449000728,
+    "wof:lastmodified":1466763798,
     "wof:name":"Mangum Cemetery Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-99.506791,34.875938,-99.506791,34.875938],
-  "geometry": {"coordinates":[-99.506791,34.875938],"type":"Point"}
+  "bbox": [
+    -99.506791,
+    34.875938,
+    -99.506791,
+    34.875938
+],
+  "geometry": {"coordinates":[-99.50679100000001,34.875938],"type":"Point"}
 }

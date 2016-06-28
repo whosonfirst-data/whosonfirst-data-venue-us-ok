@@ -2,13 +2,14 @@
   "id": 304056851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.802789,36.339195,-96.802789,36.339195",
     "geom:latitude":36.339195,
     "geom:longitude":-96.802789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Illinois St",
     "sg:city":"Pawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304056851,
-    "wof:lastmodified":1449043720,
+    "wof:lastmodified":1466763152,
     "wof:name":"Thomas Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-96.802789,36.339195,-96.802789,36.339195],
+  "bbox": [
+    -96.802789,
+    36.339195,
+    -96.802789,
+    36.339195
+],
   "geometry": {"coordinates":[-96.802789,36.339195],"type":"Point"}
 }

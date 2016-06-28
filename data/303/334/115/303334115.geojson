@@ -2,13 +2,14 @@
   "id": 303334115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.159138,35.491667,-97.159138,35.491667",
     "geom:latitude":35.491667,
     "geom:longitude":-97.159138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2183 County Rd",
     "sg:city":"Verden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303334115,
-    "wof:lastmodified":1448998828,
+    "wof:lastmodified":1466764992,
     "wof:name":"Verden Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-97.159138,35.491667,-97.159138,35.491667],
+  "bbox": [
+    -97.159138,
+    35.491667,
+    -97.159138,
+    35.491667
+],
   "geometry": {"coordinates":[-97.159138,35.491667],"type":"Point"}
 }

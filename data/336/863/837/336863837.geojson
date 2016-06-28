@@ -2,13 +2,14 @@
   "id": 336863837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.525247,35.433178,-97.525247,35.433178",
     "geom:latitude":35.433178,
     "geom:longitude":-97.525247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"636 SW 31st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336863837,
-    "wof:lastmodified":1448997672,
+    "wof:lastmodified":1466765099,
     "wof:name":"National Business Group",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.525247,35.433178,-97.525247,35.433178],
-  "geometry": {"coordinates":[-97.525247,35.433178],"type":"Point"}
+  "bbox": [
+    -97.525247,
+    35.433178,
+    -97.525247,
+    35.433178
+],
+  "geometry": {"coordinates":[-97.52524699999999,35.433178],"type":"Point"}
 }

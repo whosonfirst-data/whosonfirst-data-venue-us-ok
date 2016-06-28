@@ -2,13 +2,14 @@
   "id": 336764127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.599838,36.699175,-95.599838,36.699175",
     "geom:latitude":36.699175,
     "geom:longitude":-95.599838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Vinita Rd",
     "sg:city":"Nowata",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336764127,
-    "wof:lastmodified":1448997954,
+    "wof:lastmodified":1466764373,
     "wof:name":"Starks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.599838,36.699175,-95.599838,36.699175],
-  "geometry": {"coordinates":[-95.599838,36.699175],"type":"Point"}
+  "bbox": [
+    -95.599838,
+    36.699175,
+    -95.599838,
+    36.699175
+],
+  "geometry": {"coordinates":[-95.59983800000001,36.699175],"type":"Point"}
 }

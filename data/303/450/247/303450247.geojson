@@ -2,13 +2,14 @@
   "id": 303450247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.340406,35.728476,-95.340406,35.728476",
     "geom:latitude":35.728476,
     "geom:longitude":-95.340406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 S York St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303450247,
-    "wof:lastmodified":1449000185,
+    "wof:lastmodified":1466765656,
     "wof:name":"Oklahoma Connect Inc",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "provider"
     ]
 },
-  "bbox": [-95.340406,35.728476,-95.340406,35.728476],
+  "bbox": [
+    -95.340406,
+    35.728476,
+    -95.340406,
+    35.728476
+],
   "geometry": {"coordinates":[-95.340406,35.728476],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303067157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975603,36.115848,-95.975603,36.115848",
     "geom:latitude":36.115848,
     "geom:longitude":-95.975603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3237 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303067157,
-    "wof:lastmodified":1448998278,
+    "wof:lastmodified":1466762697,
     "wof:name":"Bank Of Oklahoma",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.975603,36.115848,-95.975603,36.115848],
-  "geometry": {"coordinates":[-95.975603,36.115848],"type":"Point"}
+  "bbox": [
+    -95.975603,
+    36.115848,
+    -95.975603,
+    36.115848
+],
+  "geometry": {"coordinates":[-95.97560300000001,36.115848],"type":"Point"}
 }

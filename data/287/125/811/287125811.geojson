@@ -2,13 +2,14 @@
   "id": 287125811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.518402,35.610645,-97.518402,35.610645",
     "geom:latitude":35.610645,
     "geom:longitude":-97.518402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13911 N Harvey Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":287125811,
-    "wof:lastmodified":1449001556,
+    "wof:lastmodified":1466764212,
     "wof:name":"Pace Butler Management",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.518402,35.610645,-97.518402,35.610645],
-  "geometry": {"coordinates":[-97.518402,35.610645],"type":"Point"}
+  "bbox": [
+    -97.518402,
+    35.610645,
+    -97.518402,
+    35.610645
+],
+  "geometry": {"coordinates":[-97.51840199999999,35.610645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303056751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.817189,36.074162,-95.817189,36.074162",
     "geom:latitude":36.074162,
     "geom:longitude":-95.817189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2213 N Beech Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303056751,
-    "wof:lastmodified":1448998813,
+    "wof:lastmodified":1466762531,
     "wof:name":"Eagle Aircraft Supply",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.817189,36.074162,-95.817189,36.074162],
+  "bbox": [
+    -95.817189,
+    36.074162,
+    -95.817189,
+    36.074162
+],
   "geometry": {"coordinates":[-95.817189,36.074162],"type":"Point"}
 }

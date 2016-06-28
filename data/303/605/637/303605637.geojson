@@ -2,13 +2,14 @@
   "id": 303605637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.150799,36.642587,-95.150799,36.642587",
     "geom:latitude":36.642587,
     "geom:longitude":-95.150799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"339 N Vann St",
     "sg:city":"Vinita",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303605637,
-    "wof:lastmodified":1448999307,
+    "wof:lastmodified":1466766114,
     "wof:name":"Fritz Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-95.150799,36.642587,-95.150799,36.642587],
-  "geometry": {"coordinates":[-95.150799,36.642587],"type":"Point"}
+  "bbox": [
+    -95.150799,
+    36.642587,
+    -95.150799,
+    36.642587
+],
+  "geometry": {"coordinates":[-95.15079900000001,36.642587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354119311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.88666,36.0608,-95.88666,36.0608",
     "geom:latitude":36.0608,
     "geom:longitude":-95.88666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7828 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354119311,
-    "wof:lastmodified":1449067174,
+    "wof:lastmodified":1466763579,
     "wof:name":"Tippins Rest & Pie Pantry",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.88666,36.0608,-95.88666,36.0608],
-  "geometry": {"coordinates":[-95.88666,36.0608],"type":"Point"}
+  "bbox": [
+    -95.88666,
+    36.0608,
+    -95.88666,
+    36.0608
+],
+  "geometry": {"coordinates":[-95.88666000000001,36.0608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303417217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547769,35.477748,-97.547769,35.477748",
     "geom:latitude":35.477748,
     "geom:longitude":-97.547769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 N Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303417217,
-    "wof:lastmodified":1448999120,
+    "wof:lastmodified":1466765607,
     "wof:name":"Anchor Paint Co-Oklahoma City",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-97.547769,35.477748,-97.547769,35.477748],
+  "bbox": [
+    -97.547769,
+    35.477748,
+    -97.547769,
+    35.477748
+],
   "geometry": {"coordinates":[-97.547769,35.477748],"type":"Point"}
 }

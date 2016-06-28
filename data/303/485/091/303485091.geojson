@@ -2,13 +2,14 @@
   "id": 303485091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.762197,35.507946,-97.762197,35.507946",
     "geom:latitude":35.507946,
     "geom:longitude":-97.762197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W Main St",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303485091,
-    "wof:lastmodified":1448999609,
+    "wof:lastmodified":1466765786,
     "wof:name":"Yukon Wholesales Autos",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.762197,35.507946,-97.762197,35.507946],
+  "bbox": [
+    -97.762197,
+    35.507946,
+    -97.762197,
+    35.507946
+],
   "geometry": {"coordinates":[-97.762197,35.507946],"type":"Point"}
 }

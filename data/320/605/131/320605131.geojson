@@ -2,13 +2,14 @@
   "id": 320605131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.750898,34.928499,-95.750898,34.928499",
     "geom:latitude":34.928499,
     "geom:longitude":-95.750898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1339 E Carl Albert Pkwy",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320605131,
-    "wof:lastmodified":1449013079,
+    "wof:lastmodified":1466766287,
     "wof:name":"Phoenix Communications",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-95.750898,34.928499,-95.750898,34.928499],
-  "geometry": {"coordinates":[-95.750898,34.928499],"type":"Point"}
+  "bbox": [
+    -95.750898,
+    34.928499,
+    -95.750898,
+    34.928499
+],
+  "geometry": {"coordinates":[-95.75089800000001,34.928499],"type":"Point"}
 }

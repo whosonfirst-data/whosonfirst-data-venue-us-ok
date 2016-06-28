@@ -2,13 +2,14 @@
   "id": 320601383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.814319,36.076881,-95.814319,36.076881",
     "geom:latitude":36.076881,
     "geom:longitude":-95.814319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2133 W Concord Cir",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320601383,
-    "wof:lastmodified":1449012920,
+    "wof:lastmodified":1466766287,
     "wof:name":"Parker Services",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-95.814319,36.076881,-95.814319,36.076881],
+  "bbox": [
+    -95.814319,
+    36.076881,
+    -95.814319,
+    36.076881
+],
   "geometry": {"coordinates":[-95.814319,36.076881],"type":"Point"}
 }

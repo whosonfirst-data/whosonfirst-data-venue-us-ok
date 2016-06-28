@@ -2,13 +2,14 @@
   "id": 320440493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.852826,36.081861,-95.852826,36.081861",
     "geom:latitude":36.081861,
     "geom:longitude":-95.852826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11111 E 56th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320440493,
-    "wof:lastmodified":1449012595,
+    "wof:lastmodified":1466765920,
     "wof:name":"Turf Care",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-95.852826,36.081861,-95.852826,36.081861],
-  "geometry": {"coordinates":[-95.852826,36.081861],"type":"Point"}
+  "bbox": [
+    -95.852826,
+    36.081861,
+    -95.852826,
+    36.081861
+],
+  "geometry": {"coordinates":[-95.85282599999999,36.081861],"type":"Point"}
 }

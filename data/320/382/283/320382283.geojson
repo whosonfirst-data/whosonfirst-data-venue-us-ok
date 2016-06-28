@@ -2,13 +2,14 @@
   "id": 320382283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935809,36.040304,-95.935809,36.040304",
     "geom:latitude":36.040304,
     "geom:longitude":-95.935809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3730 E 85th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320382283,
-    "wof:lastmodified":1449012251,
+    "wof:lastmodified":1466765604,
     "wof:name":"K & M Publishers Inc",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "publishing"
     ]
 },
-  "bbox": [-95.935809,36.040304,-95.935809,36.040304],
-  "geometry": {"coordinates":[-95.935809,36.040304],"type":"Point"}
+  "bbox": [
+    -95.935809,
+    36.040304,
+    -95.935809,
+    36.040304
+],
+  "geometry": {"coordinates":[-95.93580900000001,36.040304],"type":"Point"}
 }

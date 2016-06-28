@@ -2,13 +2,14 @@
   "id": 320542741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.881801,35.700448,-96.881801,35.700448",
     "geom:latitude":35.700448,
     "geom:longitude":-96.881801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W 10th St",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320542741,
-    "wof:lastmodified":1449014129,
+    "wof:lastmodified":1466766056,
     "wof:name":"Uptown Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.881801,35.700448,-96.881801,35.700448],
+  "bbox": [
+    -96.881801,
+    35.700448,
+    -96.881801,
+    35.700448
+],
   "geometry": {"coordinates":[-96.881801,35.700448],"type":"Point"}
 }

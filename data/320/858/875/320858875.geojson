@@ -2,13 +2,14 @@
   "id": 320858875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.906332,36.185325,-95.906332,36.185325",
     "geom:latitude":36.185325,
     "geom:longitude":-95.906332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2316 N Norwood Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320858875,
-    "wof:lastmodified":1449011607,
+    "wof:lastmodified":1466766989,
     "wof:name":"Hamilton Middle School",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "middle"
     ]
 },
-  "bbox": [-95.906332,36.185325,-95.906332,36.185325],
-  "geometry": {"coordinates":[-95.906332,36.185325],"type":"Point"}
+  "bbox": [
+    -95.906332,
+    36.185325,
+    -95.906332,
+    36.185325
+],
+  "geometry": {"coordinates":[-95.90633200000001,36.185325],"type":"Point"}
 }

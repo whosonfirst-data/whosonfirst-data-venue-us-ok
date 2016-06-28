@@ -2,13 +2,14 @@
   "id": 353851643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517003,35.504591,-97.517003,35.504591",
     "geom:latitude":35.504591,
     "geom:longitude":-97.517003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 NW 34th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353851643,
-    "wof:lastmodified":1449019923,
+    "wof:lastmodified":1466765447,
     "wof:name":"Hinton Inc",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.517003,35.504591,-97.517003,35.504591],
+  "bbox": [
+    -97.517003,
+    35.504591,
+    -97.517003,
+    35.504591
+],
   "geometry": {"coordinates":[-97.517003,35.504591],"type":"Point"}
 }

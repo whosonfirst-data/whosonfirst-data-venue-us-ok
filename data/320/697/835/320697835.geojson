@@ -2,13 +2,14 @@
   "id": 320697835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.628239,35.539508,-97.628239,35.539508",
     "geom:latitude":35.539508,
     "geom:longitude":-97.628239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6420 N College Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320697835,
-    "wof:lastmodified":1449013614,
+    "wof:lastmodified":1466766544,
     "wof:name":"Economy Lock",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.628239,35.539508,-97.628239,35.539508],
-  "geometry": {"coordinates":[-97.628239,35.539508],"type":"Point"}
+  "bbox": [
+    -97.628239,
+    35.539508,
+    -97.628239,
+    35.539508
+],
+  "geometry": {"coordinates":[-97.62823899999999,35.539508],"type":"Point"}
 }

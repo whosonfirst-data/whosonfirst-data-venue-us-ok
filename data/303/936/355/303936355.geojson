@@ -2,13 +2,14 @@
   "id": 303936355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.973477,36.379923,-95.973477,36.379923",
     "geom:latitude":36.379923,
     "geom:longitude":-95.973477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15300 N Peoria Ave",
     "sg:city":"Skiatook",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303936355,
-    "wof:lastmodified":1448998930,
+    "wof:lastmodified":1466767019,
     "wof:name":"Mattison Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.973477,36.379923,-95.973477,36.379923],
+  "bbox": [
+    -95.973477,
+    36.379923,
+    -95.973477,
+    36.379923
+],
   "geometry": {"coordinates":[-95.973477,36.379923],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287234453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.583438,35.544081,-97.583438,35.544081",
     "geom:latitude":35.544081,
     "geom:longitude":-97.583438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 NW 70th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287234453,
-    "wof:lastmodified":1449001542,
+    "wof:lastmodified":1466762450,
     "wof:name":"Corporate Caterers",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.583438,35.544081,-97.583438,35.544081],
+  "bbox": [
+    -97.583438,
+    35.544081,
+    -97.583438,
+    35.544081
+],
   "geometry": {"coordinates":[-97.583438,35.544081],"type":"Point"}
 }

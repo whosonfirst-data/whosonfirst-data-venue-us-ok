@@ -2,13 +2,14 @@
   "id": 220135645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.485601,35.651745,-97.485601,35.651745",
     "geom:latitude":35.651745,
     "geom:longitude":-97.485601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"346 S Santa Fe Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[],
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":220135645,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466762811,
     "wof:name":"Stars & Stripes Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.485601,35.651745,-97.485601,35.651745],
+  "bbox": [
+    -97.485601,
+    35.651745,
+    -97.485601,
+    35.651745
+],
   "geometry": {"coordinates":[-97.485601,35.651745],"type":"Point"}
 }

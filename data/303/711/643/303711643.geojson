@@ -2,13 +2,14 @@
   "id": 303711643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.443087,35.449805,-97.443087,35.449805",
     "geom:latitude":35.449805,
     "geom:longitude":-97.443087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3945 SE 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303711643,
-    "wof:lastmodified":1449000117,
+    "wof:lastmodified":1466766512,
     "wof:name":"Sales Advantage",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-97.443087,35.449805,-97.443087,35.449805],
-  "geometry": {"coordinates":[-97.443087,35.449805],"type":"Point"}
+  "bbox": [
+    -97.443087,
+    35.449805,
+    -97.443087,
+    35.449805
+],
+  "geometry": {"coordinates":[-97.44308700000001,35.449805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319949215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.583326,35.427503,-97.583326,35.427503",
     "geom:latitude":35.427503,
     "geom:longitude":-97.583326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 S Portland Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319949215,
-    "wof:lastmodified":1449024577,
+    "wof:lastmodified":1466764011,
     "wof:name":"Portland Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.583326,35.427503,-97.583326,35.427503],
+  "bbox": [
+    -97.583326,
+    35.427503,
+    -97.583326,
+    35.427503
+],
   "geometry": {"coordinates":[-97.583326,35.427503],"type":"Point"}
 }

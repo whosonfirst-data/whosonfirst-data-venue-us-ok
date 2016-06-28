@@ -2,13 +2,14 @@
   "id": 287285325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.4768,35.489701,-97.4768,35.489701",
     "geom:latitude":35.489701,
     "geom:longitude":-97.4768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2119 N Eastern Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287285325,
-    "wof:lastmodified":1449000695,
+    "wof:lastmodified":1466763211,
     "wof:name":"Schwartz Investigations",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-97.4768,35.489701,-97.4768,35.489701],
+  "bbox": [
+    -97.4768,
+    35.489701,
+    -97.4768,
+    35.489701
+],
   "geometry": {"coordinates":[-97.4768,35.489701],"type":"Point"}
 }

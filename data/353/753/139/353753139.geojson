@@ -2,13 +2,14 @@
   "id": 353753139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517247,35.567679,-97.517247,35.567679",
     "geom:latitude":35.567679,
     "geom:longitude":-97.517247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 NW 95th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353753139,
-    "wof:lastmodified":1449018548,
+    "wof:lastmodified":1466765003,
     "wof:name":"Phoenix Hardwood & Plywood",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hardwood"
     ]
 },
-  "bbox": [-97.517247,35.567679,-97.517247,35.567679],
+  "bbox": [
+    -97.517247,
+    35.567679,
+    -97.517247,
+    35.567679
+],
   "geometry": {"coordinates":[-97.517247,35.567679],"type":"Point"}
 }

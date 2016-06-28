@@ -2,13 +2,14 @@
   "id": 303325917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.384809,35.463582,-97.384809,35.463582",
     "geom:latitude":35.463582,
     "geom:longitude":-97.384809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"829 E Carroll Ln",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303325917,
-    "wof:lastmodified":1448999080,
+    "wof:lastmodified":1466765054,
     "wof:name":"Doulas Association-Central",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "midwife"
     ]
 },
-  "bbox": [-97.384809,35.463582,-97.384809,35.463582],
+  "bbox": [
+    -97.384809,
+    35.463582,
+    -97.384809,
+    35.463582
+],
   "geometry": {"coordinates":[-97.384809,35.463582],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303685297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.887459,36.397778,-97.887459,36.397778",
     "geom:latitude":36.397778,
     "geom:longitude":-97.887459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 W Randolph Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303685297,
-    "wof:lastmodified":1449000508,
+    "wof:lastmodified":1466766449,
     "wof:name":"Posey Office Buildings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parks"
     ]
 },
-  "bbox": [-97.887459,36.397778,-97.887459,36.397778],
-  "geometry": {"coordinates":[-97.887459,36.397778],"type":"Point"}
+  "bbox": [
+    -97.887459,
+    36.397778,
+    -97.887459,
+    36.397778
+],
+  "geometry": {"coordinates":[-97.88745900000001,36.397778],"type":"Point"}
 }

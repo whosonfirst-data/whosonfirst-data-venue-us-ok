@@ -2,13 +2,14 @@
   "id": 236392943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.783296,36.509908,-101.783296,36.509908",
     "geom:latitude":36.509908,
     "geom:longitude":-101.783296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 N 2nd St",
     "sg:city":"Texhoma",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236392943,
-    "wof:lastmodified":1449004455,
+    "wof:lastmodified":1466762700,
     "wof:name":"Bolin's Pit Bar B Q",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbecue"
     ]
 },
-  "bbox": [-101.783296,36.509908,-101.783296,36.509908],
-  "geometry": {"coordinates":[-101.783296,36.509908],"type":"Point"}
+  "bbox": [
+    -101.783296,
+    36.509908,
+    -101.783296,
+    36.509908
+],
+  "geometry": {"coordinates":[-101.78329600000001,36.509908],"type":"Point"}
 }

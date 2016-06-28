@@ -2,13 +2,14 @@
   "id": 353912903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.601189,35.486271,-97.601189,35.486271",
     "geom:latitude":35.486271,
     "geom:longitude":-97.601189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 N Meridian Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353912903,
-    "wof:lastmodified":1449019520,
+    "wof:lastmodified":1466765717,
     "wof:name":"St Johns Methodist Child Care",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.601189,35.486271,-97.601189,35.486271],
-  "geometry": {"coordinates":[-97.601189,35.486271],"type":"Point"}
+  "bbox": [
+    -97.601189,
+    35.486271,
+    -97.601189,
+    35.486271
+],
+  "geometry": {"coordinates":[-97.60118900000001,35.486271],"type":"Point"}
 }

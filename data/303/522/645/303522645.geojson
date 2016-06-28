@@ -2,13 +2,14 @@
   "id": 303522645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.598656,35.522245,-97.598656,35.522245",
     "geom:latitude":35.522245,
     "geom:longitude":-97.598656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4430 NW 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303522645,
-    "wof:lastmodified":1448999283,
+    "wof:lastmodified":1466766034,
     "wof:name":"Gillispie & Ogilbee",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-97.598656,35.522245,-97.598656,35.522245],
-  "geometry": {"coordinates":[-97.598656,35.522245],"type":"Point"}
+  "bbox": [
+    -97.598656,
+    35.522245,
+    -97.598656,
+    35.522245
+],
+  "geometry": {"coordinates":[-97.59865600000001,35.522245],"type":"Point"}
 }

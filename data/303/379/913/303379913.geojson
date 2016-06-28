@@ -2,13 +2,14 @@
   "id": 303379913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.363569,35.945439,-95.363569,35.945439",
     "geom:latitude":35.945439,
     "geom:longitude":-95.363569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 SE 13th St",
     "sg:city":"Wagoner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303379913,
-    "wof:lastmodified":1448999544,
+    "wof:lastmodified":1466765322,
     "wof:name":"Katys Style Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.363569,35.945439,-95.363569,35.945439],
+  "bbox": [
+    -95.363569,
+    35.945439,
+    -95.363569,
+    35.945439
+],
   "geometry": {"coordinates":[-95.363569,35.945439],"type":"Point"}
 }

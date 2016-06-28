@@ -2,13 +2,14 @@
   "id": 220190311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.971043,36.159627,-95.971043,36.159627",
     "geom:latitude":36.159627,
     "geom:longitude":-95.971043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 E Admiral Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220190311,
-    "wof:lastmodified":1449074837,
+    "wof:lastmodified":1466762415,
     "wof:name":"Hotel Furniture Sales",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-95.971043,36.159627,-95.971043,36.159627],
-  "geometry": {"coordinates":[-95.971043,36.159627],"type":"Point"}
+  "bbox": [
+    -95.971043,
+    36.159627,
+    -95.971043,
+    36.159627
+],
+  "geometry": {"coordinates":[-95.97104299999999,36.159627],"type":"Point"}
 }

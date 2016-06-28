@@ -2,13 +2,14 @@
   "id": 303131611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.993633,34.520862,-96.993633,34.520862",
     "geom:latitude":34.520862,
     "geom:longitude":-96.993633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2345 Industrial Rd",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303131611,
-    "wof:lastmodified":1448998854,
+    "wof:lastmodified":1466763747,
     "wof:name":"Elite Gymnastics Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gymnastic"
     ]
 },
-  "bbox": [-96.993633,34.520862,-96.993633,34.520862],
+  "bbox": [
+    -96.993633,
+    34.520862,
+    -96.993633,
+    34.520862
+],
   "geometry": {"coordinates":[-96.993633,34.520862],"type":"Point"}
 }

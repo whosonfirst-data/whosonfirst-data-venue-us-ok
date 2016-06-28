@@ -2,13 +2,14 @@
   "id": 320773751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.399748,35.415327,-99.399748,35.415327",
     "geom:latitude":35.415327,
     "geom:longitude":-99.399748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 N Van Buren Ave",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320773751,
-    "wof:lastmodified":1449011721,
+    "wof:lastmodified":1466766831,
     "wof:name":"Teddy's Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-99.399748,35.415327,-99.399748,35.415327],
+  "bbox": [
+    -99.399748,
+    35.415327,
+    -99.399748,
+    35.415327
+],
   "geometry": {"coordinates":[-99.399748,35.415327],"type":"Point"}
 }

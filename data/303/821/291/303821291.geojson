@@ -2,13 +2,14 @@
   "id": 303821291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.629084,35.557971,-97.629084,35.557971",
     "geom:latitude":35.557971,
     "geom:longitude":-97.629084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 NW 85th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303821291,
-    "wof:lastmodified":1448999448,
+    "wof:lastmodified":1466766766,
     "wof:name":"Diane L Paquette Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.629084,35.557971,-97.629084,35.557971],
-  "geometry": {"coordinates":[-97.629084,35.557971],"type":"Point"}
+  "bbox": [
+    -97.629084,
+    35.557971,
+    -97.629084,
+    35.557971
+],
+  "geometry": {"coordinates":[-97.62908400000001,35.557971],"type":"Point"}
 }

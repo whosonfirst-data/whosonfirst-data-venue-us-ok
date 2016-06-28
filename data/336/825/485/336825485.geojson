@@ -2,13 +2,14 @@
   "id": 336825485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.422694,35.449622,-97.422694,35.449622",
     "geom:latitude":35.449622,
     "geom:longitude":-97.422694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 SE 15th St",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336825485,
-    "wof:lastmodified":1448996953,
+    "wof:lastmodified":1466764797,
     "wof:name":"American Check Cashers",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "check"
     ]
 },
-  "bbox": [-97.422694,35.449622,-97.422694,35.449622],
-  "geometry": {"coordinates":[-97.422694,35.449622],"type":"Point"}
+  "bbox": [
+    -97.422694,
+    35.449622,
+    -97.422694,
+    35.449622
+],
+  "geometry": {"coordinates":[-97.42269400000001,35.449622],"type":"Point"}
 }

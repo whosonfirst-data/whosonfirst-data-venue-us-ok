@@ -2,13 +2,14 @@
   "id": 319941807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.911543,33.982737,-96.911543,33.982737",
     "geom:latitude":33.982737,
     "geom:longitude":-96.911543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"437 Main St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319941807,
-    "wof:lastmodified":1449024557,
+    "wof:lastmodified":1466763973,
     "wof:name":"Cowboy Way Mike Bean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-96.911543,33.982737,-96.911543,33.982737],
-  "geometry": {"coordinates":[-96.911543,33.982737],"type":"Point"}
+  "bbox": [
+    -96.911543,
+    33.982737,
+    -96.911543,
+    33.982737
+],
+  "geometry": {"coordinates":[-96.91154299999999,33.982737],"type":"Point"}
 }

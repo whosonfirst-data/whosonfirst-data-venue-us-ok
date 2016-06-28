@@ -2,13 +2,14 @@
   "id": 354043869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.939613,36.074746,-94.939613,36.074746",
     "geom:latitude":36.074746,
     "geom:longitude":-94.939613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7365 State Hwy 82A",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354043869,
-    "wof:lastmodified":1449067231,
+    "wof:lastmodified":1466763245,
     "wof:name":"Million Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-94.939613,36.074746,-94.939613,36.074746],
-  "geometry": {"coordinates":[-94.939613,36.074746],"type":"Point"}
+  "bbox": [
+    -94.939613,
+    36.074746,
+    -94.939613,
+    36.074746
+],
+  "geometry": {"coordinates":[-94.93961299999999,36.074746],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303312561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.769588,34.931649,-95.769588,34.931649",
     "geom:latitude":34.931649,
     "geom:longitude":-95.769588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 S Main St",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303312561,
-    "wof:lastmodified":1448999354,
+    "wof:lastmodified":1466765020,
     "wof:name":"Humphrey Heat & Air",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.769588,34.931649,-95.769588,34.931649],
+  "bbox": [
+    -95.769588,
+    34.931649,
+    -95.769588,
+    34.931649
+],
   "geometry": {"coordinates":[-95.769588,34.931649],"type":"Point"}
 }

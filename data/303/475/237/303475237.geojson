@@ -2,13 +2,14 @@
   "id": 303475237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.72199,35.52673,-98.72199,35.52673",
     "geom:latitude":35.52673,
     "geom:longitude":-98.72199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 W Main St",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303475237,
-    "wof:lastmodified":1448999134,
+    "wof:lastmodified":1466765745,
     "wof:name":"Citadel Computer Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.72199,35.52673,-98.72199,35.52673],
-  "geometry": {"coordinates":[-98.72199,35.52673],"type":"Point"}
+  "bbox": [
+    -98.72199,
+    35.52673,
+    -98.72199,
+    35.52673
+],
+  "geometry": {"coordinates":[-98.72199000000001,35.52673],"type":"Point"}
 }

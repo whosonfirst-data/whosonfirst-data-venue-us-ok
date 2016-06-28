@@ -2,13 +2,14 @@
   "id": 320709345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.989055,36.151892,-95.989055,36.151892",
     "geom:latitude":36.151892,
     "geom:longitude":-95.989055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 S Boston Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320709345,
-    "wof:lastmodified":1449012010,
+    "wof:lastmodified":1466766650,
     "wof:name":"Baytide Petroleum Inc",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "producer"
     ]
 },
-  "bbox": [-95.989055,36.151892,-95.989055,36.151892],
-  "geometry": {"coordinates":[-95.989055,36.151892],"type":"Point"}
+  "bbox": [
+    -95.989055,
+    36.151892,
+    -95.989055,
+    36.151892
+],
+  "geometry": {"coordinates":[-95.98905499999999,36.151892],"type":"Point"}
 }

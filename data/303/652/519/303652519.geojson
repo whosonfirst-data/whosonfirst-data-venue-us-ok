@@ -2,13 +2,14 @@
   "id": 303652519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.636555,35.507998,-97.636555,35.507998",
     "geom:latitude":35.507998,
     "geom:longitude":-97.636555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3818 N Rockwell Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303652519,
-    "wof:lastmodified":1448999695,
+    "wof:lastmodified":1466766281,
     "wof:name":"Bethany Foot Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.636555,35.507998,-97.636555,35.507998],
+  "bbox": [
+    -97.636555,
+    35.507998,
+    -97.636555,
+    35.507998
+],
   "geometry": {"coordinates":[-97.636555,35.507998],"type":"Point"}
 }

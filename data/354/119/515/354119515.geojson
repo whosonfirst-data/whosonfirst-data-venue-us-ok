@@ -2,13 +2,14 @@
   "id": 354119515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.597793,34.627646,-98.597793,34.627646",
     "geom:latitude":34.627646,
     "geom:longitude":-98.597793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Wildflower Cir",
     "sg:city":"Cache",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354119515,
-    "wof:lastmodified":1449067174,
+    "wof:lastmodified":1466763583,
     "wof:name":"Horace W Smith",
     "wof:parent_id":85815375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.597793,34.627646,-98.597793,34.627646],
+  "bbox": [
+    -98.597793,
+    34.627646,
+    -98.597793,
+    34.627646
+],
   "geometry": {"coordinates":[-98.597793,34.627646],"type":"Point"}
 }

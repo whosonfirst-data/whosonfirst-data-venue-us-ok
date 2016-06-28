@@ -2,13 +2,14 @@
   "id": 320289751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.662125,35.506016,-97.662125,35.506016",
     "geom:latitude":35.506016,
     "geom:longitude":-97.662125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8320 NW 34th Ter",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320289751,
-    "wof:lastmodified":1449014354,
+    "wof:lastmodified":1466765111,
     "wof:name":"RACE Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.662125,35.506016,-97.662125,35.506016],
+  "bbox": [
+    -97.662125,
+    35.506016,
+    -97.662125,
+    35.506016
+],
   "geometry": {"coordinates":[-97.662125,35.506016],"type":"Point"}
 }

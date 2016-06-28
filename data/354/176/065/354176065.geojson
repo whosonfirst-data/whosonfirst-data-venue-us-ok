@@ -2,13 +2,14 @@
   "id": 354176065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.817636,36.044253,-95.817636,36.044253",
     "geom:latitude":36.044253,
     "geom:longitude":-95.817636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2321 W Knoxville St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354176065,
-    "wof:lastmodified":1449067087,
+    "wof:lastmodified":1466763791,
     "wof:name":"Warepig",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-95.817636,36.044253,-95.817636,36.044253],
-  "geometry": {"coordinates":[-95.817636,36.044253],"type":"Point"}
+  "bbox": [
+    -95.817636,
+    36.044253,
+    -95.817636,
+    36.044253
+],
+  "geometry": {"coordinates":[-95.81763599999999,36.044253],"type":"Point"}
 }

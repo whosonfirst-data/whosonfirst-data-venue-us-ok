@@ -2,13 +2,14 @@
   "id": 354061217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.532006,35.565466,-97.532006,35.565466",
     "geom:latitude":35.565466,
     "geom:longitude":-97.532006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 W Britton Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354061217,
-    "wof:lastmodified":1449067192,
+    "wof:lastmodified":1466763346,
     "wof:name":"Gale Kimball MD",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physician"
     ]
 },
-  "bbox": [-97.532006,35.565466,-97.532006,35.565466],
+  "bbox": [
+    -97.532006,
+    35.565466,
+    -97.532006,
+    35.565466
+],
   "geometry": {"coordinates":[-97.532006,35.565466],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287237469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.476639,35.342846,-97.476639,35.342846",
     "geom:latitude":35.342846,
     "geom:longitude":-97.476639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"829 NE 4th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":287237469,
-    "wof:lastmodified":1449000692,
+    "wof:lastmodified":1466762503,
     "wof:name":"Sharp Cleaners",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "drycleaning"
     ]
 },
-  "bbox": [-97.476639,35.342846,-97.476639,35.342846],
-  "geometry": {"coordinates":[-97.476639,35.342846],"type":"Point"}
+  "bbox": [
+    -97.476639,
+    35.342846,
+    -97.476639,
+    35.342846
+],
+  "geometry": {"coordinates":[-97.47663900000001,35.342846],"type":"Point"}
 }

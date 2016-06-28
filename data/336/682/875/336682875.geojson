@@ -2,13 +2,14 @@
   "id": 336682875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.119355,36.108193,-96.119355,36.108193",
     "geom:latitude":36.108193,
     "geom:longitude":-96.119355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 W 38th St",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336682875,
-    "wof:lastmodified":1448997130,
+    "wof:lastmodified":1466763459,
     "wof:name":"Church Of Christ 38th Street",
     "wof:parent_id":85843055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.119355,36.108193,-96.119355,36.108193],
+  "bbox": [
+    -96.119355,
+    36.108193,
+    -96.119355,
+    36.108193
+],
   "geometry": {"coordinates":[-96.119355,36.108193],"type":"Point"}
 }

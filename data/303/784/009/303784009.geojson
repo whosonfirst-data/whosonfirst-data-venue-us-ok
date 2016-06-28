@@ -2,13 +2,14 @@
   "id": 303784009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.65153,35.493308,-97.65153,35.493308",
     "geom:latitude":35.493308,
     "geom:longitude":-97.65153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7801 NW 23rd St",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303784009,
-    "wof:lastmodified":1448999750,
+    "wof:lastmodified":1466766698,
     "wof:name":"Custom Monograms & Lettering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lithographic"
     ]
 },
-  "bbox": [-97.65153,35.493308,-97.65153,35.493308],
-  "geometry": {"coordinates":[-97.65153,35.493308],"type":"Point"}
+  "bbox": [
+    -97.65153,
+    35.493308,
+    -97.65153,
+    35.493308
+],
+  "geometry": {"coordinates":[-97.65152999999999,35.493308],"type":"Point"}
 }

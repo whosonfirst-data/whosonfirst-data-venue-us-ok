@@ -2,13 +2,14 @@
   "id": 220179479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.790115,36.158164,-95.790115,36.158164",
     "geom:latitude":36.158164,
     "geom:longitude":-95.790115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 South 168th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":220179479,
-    "wof:lastmodified":1449074790,
+    "wof:lastmodified":1466762349,
     "wof:name":"Detrick Company",
     "wof:parent_id":85831775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.790115,36.158164,-95.790115,36.158164],
+  "bbox": [
+    -95.790115,
+    36.158164,
+    -95.790115,
+    36.158164
+],
   "geometry": {"coordinates":[-95.790115,36.158164],"type":"Point"}
 }

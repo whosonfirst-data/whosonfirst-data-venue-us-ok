@@ -2,13 +2,14 @@
   "id": 336710561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.953779,35.535008,-97.953779,35.535008",
     "geom:latitude":35.535008,
     "geom:longitude":-97.953779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Bickford Ave",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336710561,
-    "wof:lastmodified":1448996993,
+    "wof:lastmodified":1466763884,
     "wof:name":"H & S Surveying Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-97.953779,35.535008,-97.953779,35.535008],
+  "bbox": [
+    -97.953779,
+    35.535008,
+    -97.953779,
+    35.535008
+],
   "geometry": {"coordinates":[-97.953779,35.535008],"type":"Point"}
 }

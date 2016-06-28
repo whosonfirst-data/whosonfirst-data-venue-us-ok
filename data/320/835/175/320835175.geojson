@@ -2,13 +2,14 @@
   "id": 320835175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.21519,34.736729,-97.21519,34.736729",
     "geom:latitude":34.736729,
     "geom:longitude":-97.21519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 S Chickasaw St",
     "sg:city":"Pauls Valley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320835175,
-    "wof:lastmodified":1449011790,
+    "wof:lastmodified":1466766815,
     "wof:name":"Pauls Valley Glass & Mirror Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-97.21519,34.736729,-97.21519,34.736729],
-  "geometry": {"coordinates":[-97.21519,34.736729],"type":"Point"}
+  "bbox": [
+    -97.21519,
+    34.736729,
+    -97.21519,
+    34.736729
+],
+  "geometry": {"coordinates":[-97.21519000000001,34.736729],"type":"Point"}
 }

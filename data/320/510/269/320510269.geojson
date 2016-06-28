@@ -2,13 +2,14 @@
   "id": 320510269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.616284,35.548151,-97.616284,35.548151",
     "geom:latitude":35.548151,
     "geom:longitude":-97.616284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5816 NW Expy",
     "sg:city":"Warr Acres",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320510269,
-    "wof:lastmodified":1449013501,
+    "wof:lastmodified":1466766077,
     "wof:name":"Imperial Cleaners",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-97.616284,35.548151,-97.616284,35.548151],
-  "geometry": {"coordinates":[-97.616284,35.548151],"type":"Point"}
+  "bbox": [
+    -97.616284,
+    35.548151,
+    -97.616284,
+    35.548151
+],
+  "geometry": {"coordinates":[-97.61628399999999,35.548151],"type":"Point"}
 }

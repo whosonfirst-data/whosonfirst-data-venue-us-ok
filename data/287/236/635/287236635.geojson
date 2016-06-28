@@ -2,13 +2,14 @@
   "id": 287236635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886558,36.144692,-95.886558,36.144692",
     "geom:latitude":36.144692,
     "geom:longitude":-95.886558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 S Memorial Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287236635,
-    "wof:lastmodified":1449000750,
+    "wof:lastmodified":1466762487,
     "wof:name":"Eastside Emporium",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.886558,36.144692,-95.886558,36.144692],
-  "geometry": {"coordinates":[-95.886558,36.144692],"type":"Point"}
+  "bbox": [
+    -95.886558,
+    36.144692,
+    -95.886558,
+    36.144692
+],
+  "geometry": {"coordinates":[-95.88655799999999,36.144692],"type":"Point"}
 }

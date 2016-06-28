@@ -2,13 +2,14 @@
   "id": 320767971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.615863,35.547921,-97.615863,35.547921",
     "geom:latitude":35.547921,
     "geom:longitude":-97.615863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5830 NW Expy",
     "sg:city":"Warr Acres",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320767971,
-    "wof:lastmodified":1449012327,
+    "wof:lastmodified":1466766757,
     "wof:name":"Polestar Software",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-97.615863,35.547921,-97.615863,35.547921],
+  "bbox": [
+    -97.615863,
+    35.547921,
+    -97.615863,
+    35.547921
+],
   "geometry": {"coordinates":[-97.615863,35.547921],"type":"Point"}
 }

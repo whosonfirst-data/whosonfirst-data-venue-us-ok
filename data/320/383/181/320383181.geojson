@@ -2,13 +2,14 @@
   "id": 320383181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.421593,34.594496,-98.421593,34.594496",
     "geom:latitude":34.594496,
     "geom:longitude":-98.421593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2130 SW Lee Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320383181,
-    "wof:lastmodified":1449012843,
+    "wof:lastmodified":1466765604,
     "wof:name":"Sue's Beauty Salon",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "perfume"
     ]
 },
-  "bbox": [-98.421593,34.594496,-98.421593,34.594496],
+  "bbox": [
+    -98.421593,
+    34.594496,
+    -98.421593,
+    34.594496
+],
   "geometry": {"coordinates":[-98.421593,34.594496],"type":"Point"}
 }

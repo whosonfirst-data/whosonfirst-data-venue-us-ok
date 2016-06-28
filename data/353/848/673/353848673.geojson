@@ -2,13 +2,14 @@
   "id": 353848673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.660832,35.46543,-97.660832,35.46543",
     "geom:latitude":35.46543,
     "geom:longitude":-97.660832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 N Falcon Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353848673,
-    "wof:lastmodified":1449018607,
+    "wof:lastmodified":1466765441,
     "wof:name":"Thompson Diesel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-97.660832,35.46543,-97.660832,35.46543],
+  "bbox": [
+    -97.660832,
+    35.46543,
+    -97.660832,
+    35.46543
+],
   "geometry": {"coordinates":[-97.660832,35.46543],"type":"Point"}
 }

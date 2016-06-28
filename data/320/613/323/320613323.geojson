@@ -2,13 +2,14 @@
   "id": 320613323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.672745,35.572673,-97.672745,35.572673",
     "geom:latitude":35.572673,
     "geom:longitude":-97.672745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8400 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320613323,
-    "wof:lastmodified":1449012993,
+    "wof:lastmodified":1466766309,
     "wof:name":"Modern Hair Salon",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.672745,35.572673,-97.672745,35.572673],
-  "geometry": {"coordinates":[-97.672745,35.572673],"type":"Point"}
+  "bbox": [
+    -97.672745,
+    35.572673,
+    -97.672745,
+    35.572673
+],
+  "geometry": {"coordinates":[-97.67274500000001,35.572673],"type":"Point"}
 }

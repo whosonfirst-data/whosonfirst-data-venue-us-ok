@@ -2,13 +2,14 @@
   "id": 320097765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.360953,35.013681,-97.360953,35.013681",
     "geom:latitude":35.013681,
     "geom:longitude":-97.360953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 W Washington St",
     "sg:city":"Purcell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320097765,
-    "wof:lastmodified":1449012740,
+    "wof:lastmodified":1466763734,
     "wof:name":"Railhead Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.360953,35.013681,-97.360953,35.013681],
-  "geometry": {"coordinates":[-97.360953,35.013681],"type":"Point"}
+  "bbox": [
+    -97.360953,
+    35.013681,
+    -97.360953,
+    35.013681
+],
+  "geometry": {"coordinates":[-97.36095299999999,35.013681],"type":"Point"}
 }

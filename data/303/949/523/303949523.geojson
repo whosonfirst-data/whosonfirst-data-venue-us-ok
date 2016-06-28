@@ -2,13 +2,14 @@
   "id": 303949523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530035,35.388394,-97.530035,35.388394",
     "geom:latitude":35.388394,
     "geom:longitude":-97.530035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7876 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303949523,
-    "wof:lastmodified":1448999635,
+    "wof:lastmodified":1466767029,
     "wof:name":"Salon Sensation",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.530035,35.388394,-97.530035,35.388394],
+  "bbox": [
+    -97.530035,
+    35.388394,
+    -97.530035,
+    35.388394
+],
   "geometry": {"coordinates":[-97.530035,35.388394],"type":"Point"}
 }

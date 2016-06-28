@@ -2,13 +2,14 @@
   "id": 303630333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.617287,34.231629,-95.617287,34.231629",
     "geom:latitude":34.231629,
     "geom:longitude":-95.617287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 E Main St",
     "sg:city":"Antlers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303630333,
-    "wof:lastmodified":1448998993,
+    "wof:lastmodified":1466766302,
     "wof:name":"Vision Source Of Antlers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.617287,34.231629,-95.617287,34.231629],
+  "bbox": [
+    -95.617287,
+    34.231629,
+    -95.617287,
+    34.231629
+],
   "geometry": {"coordinates":[-95.617287,34.231629],"type":"Point"}
 }

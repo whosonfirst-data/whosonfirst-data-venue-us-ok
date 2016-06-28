@@ -2,13 +2,14 @@
   "id": 287217191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.81525,36.058745,-95.81525,36.058745",
     "geom:latitude":36.058745,
     "geom:longitude":-95.81525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"751 N Aspen Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287217191,
-    "wof:lastmodified":1449001535,
+    "wof:lastmodified":1466764097,
     "wof:name":"Wells Fargo Mortgage",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-95.81525,36.058745,-95.81525,36.058745],
-  "geometry": {"coordinates":[-95.81525,36.058745],"type":"Point"}
+  "bbox": [
+    -95.81525,
+    36.058745,
+    -95.81525,
+    36.058745
+],
+  "geometry": {"coordinates":[-95.81525000000001,36.058745],"type":"Point"}
 }

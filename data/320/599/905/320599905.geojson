@@ -2,13 +2,14 @@
   "id": 320599905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.66913,35.59259,-97.66913,35.59259",
     "geom:latitude":35.59259,
     "geom:longitude":-97.66913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12000 Skyway Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320599905,
-    "wof:lastmodified":1449012988,
+    "wof:lastmodified":1466766281,
     "wof:name":"Into Tin Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.66913,35.59259,-97.66913,35.59259],
+  "bbox": [
+    -97.66913,
+    35.59259,
+    -97.66913,
+    35.59259
+],
   "geometry": {"coordinates":[-97.66913,35.59259],"type":"Point"}
 }

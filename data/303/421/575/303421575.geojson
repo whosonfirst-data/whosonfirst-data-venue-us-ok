@@ -2,13 +2,14 @@
   "id": 303421575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.343082,34.607275,-98.343082,34.607275",
     "geom:latitude":34.607275,
     "geom:longitude":-98.343082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 SE Berkshire Way",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303421575,
-    "wof:lastmodified":1448999670,
+    "wof:lastmodified":1466765514,
     "wof:name":"National Sojourners Inc",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "membership"
     ]
 },
-  "bbox": [-98.343082,34.607275,-98.343082,34.607275],
+  "bbox": [
+    -98.343082,
+    34.607275,
+    -98.343082,
+    34.607275
+],
   "geometry": {"coordinates":[-98.343082,34.607275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320513237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.408952,36.437173,-99.408952,36.437173",
     "geom:latitude":36.437173,
     "geom:longitude":-99.408952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2306 Santa Fe Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320513237,
-    "wof:lastmodified":1449013741,
+    "wof:lastmodified":1466766085,
     "wof:name":"Bible Missionary Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-99.408952,36.437173,-99.408952,36.437173],
+  "bbox": [
+    -99.408952,
+    36.437173,
+    -99.408952,
+    36.437173
+],
   "geometry": {"coordinates":[-99.408952,36.437173],"type":"Point"}
 }

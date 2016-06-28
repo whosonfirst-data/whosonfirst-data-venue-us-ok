@@ -2,13 +2,14 @@
   "id": 320757665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565489,35.627054,-97.565489,35.627054",
     "geom:latitude":35.627054,
     "geom:longitude":-97.565489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15504 Arbuckle Hts",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320757665,
-    "wof:lastmodified":1449013367,
+    "wof:lastmodified":1466766699,
     "wof:name":"One Source Data Sys Inc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.565489,35.627054,-97.565489,35.627054],
+  "bbox": [
+    -97.565489,
+    35.627054,
+    -97.565489,
+    35.627054
+],
   "geometry": {"coordinates":[-97.565489,35.627054],"type":"Point"}
 }

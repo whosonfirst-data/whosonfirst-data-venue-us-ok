@@ -2,13 +2,14 @@
   "id": 303246451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.885066,36.060823,-95.885066,36.060823",
     "geom:latitude":36.060823,
     "geom:longitude":-95.885066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8210 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303246451,
-    "wof:lastmodified":1448998287,
+    "wof:lastmodified":1466764606,
     "wof:name":"Pittman Radiographics Services",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "x"
     ]
 },
-  "bbox": [-95.885066,36.060823,-95.885066,36.060823],
-  "geometry": {"coordinates":[-95.885066,36.060823],"type":"Point"}
+  "bbox": [
+    -95.885066,
+    36.060823,
+    -95.885066,
+    36.060823
+],
+  "geometry": {"coordinates":[-95.88506599999999,36.060823],"type":"Point"}
 }

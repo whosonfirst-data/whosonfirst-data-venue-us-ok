@@ -2,13 +2,14 @@
   "id": 303923761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.648413,35.748903,-96.648413,35.748903",
     "geom:latitude":35.748903,
     "geom:longitude":-96.648413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 E Main St",
     "sg:city":"Stroud",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303923761,
-    "wof:lastmodified":1449000484,
+    "wof:lastmodified":1466767086,
     "wof:name":"Quality Home Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.648413,35.748903,-96.648413,35.748903],
-  "geometry": {"coordinates":[-96.648413,35.748903],"type":"Point"}
+  "bbox": [
+    -96.648413,
+    35.748903,
+    -96.648413,
+    35.748903
+],
+  "geometry": {"coordinates":[-96.64841300000001,35.748903],"type":"Point"}
 }

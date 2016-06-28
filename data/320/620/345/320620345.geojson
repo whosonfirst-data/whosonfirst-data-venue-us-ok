@@ -2,13 +2,14 @@
   "id": 320620345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.468279,35.642348,-97.468279,35.642348",
     "geom:latitude":35.642348,
     "geom:longitude":-97.468279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 E 11th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320620345,
-    "wof:lastmodified":1449014642,
+    "wof:lastmodified":1466766324,
     "wof:name":"Campfire Appraisals Inc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.468279,35.642348,-97.468279,35.642348],
+  "bbox": [
+    -97.468279,
+    35.642348,
+    -97.468279,
+    35.642348
+],
   "geometry": {"coordinates":[-97.468279,35.642348],"type":"Point"}
 }

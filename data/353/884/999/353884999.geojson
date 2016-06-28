@@ -2,13 +2,14 @@
   "id": 353884999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.63342,34.781485,-96.63342,34.781485",
     "geom:latitude":34.781485,
     "geom:longitude":-96.63342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3115 Arlington St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353884999,
-    "wof:lastmodified":1449020338,
+    "wof:lastmodified":1466765509,
     "wof:name":"Chickasaw Nation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-96.63342,34.781485,-96.63342,34.781485],
+  "bbox": [
+    -96.63342,
+    34.781485,
+    -96.63342,
+    34.781485
+],
   "geometry": {"coordinates":[-96.63342,34.781485],"type":"Point"}
 }

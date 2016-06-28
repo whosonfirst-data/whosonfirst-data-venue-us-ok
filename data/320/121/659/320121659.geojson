@@ -2,13 +2,14 @@
   "id": 320121659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.827244,36.028651,-95.827244,36.028651",
     "geom:latitude":36.028651,
     "geom:longitude":-95.827244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 W Atlanta Ct",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320121659,
-    "wof:lastmodified":1449014144,
+    "wof:lastmodified":1466764115,
     "wof:name":"Jet Video",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-95.827244,36.028651,-95.827244,36.028651],
-  "geometry": {"coordinates":[-95.827244,36.028651],"type":"Point"}
+  "bbox": [
+    -95.827244,
+    36.028651,
+    -95.827244,
+    36.028651
+],
+  "geometry": {"coordinates":[-95.82724399999999,36.028651],"type":"Point"}
 }

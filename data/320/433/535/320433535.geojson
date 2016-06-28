@@ -2,13 +2,14 @@
   "id": 320433535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.461478,34.59428,-98.461478,34.59428",
     "geom:latitude":34.59428,
     "geom:longitude":-98.461478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5402 SW Lee Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320433535,
-    "wof:lastmodified":1449011675,
+    "wof:lastmodified":1466765783,
     "wof:name":"Alan Aycock",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-98.461478,34.59428,-98.461478,34.59428],
+  "bbox": [
+    -98.461478,
+    34.59428,
+    -98.461478,
+    34.59428
+],
   "geometry": {"coordinates":[-98.461478,34.59428],"type":"Point"}
 }

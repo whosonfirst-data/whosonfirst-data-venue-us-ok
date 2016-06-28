@@ -2,13 +2,14 @@
   "id": 320850779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.409006,35.667959,-95.409006,35.667959",
     "geom:latitude":35.667959,
     "geom:longitude":-95.409006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 W Davis Field Rd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320850779,
-    "wof:lastmodified":1449013423,
+    "wof:lastmodified":1466766882,
     "wof:name":"B J Mustangs",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-95.409006,35.667959,-95.409006,35.667959],
-  "geometry": {"coordinates":[-95.409006,35.667959],"type":"Point"}
+  "bbox": [
+    -95.409006,
+    35.667959,
+    -95.409006,
+    35.667959
+],
+  "geometry": {"coordinates":[-95.40900600000001,35.667959],"type":"Point"}
 }

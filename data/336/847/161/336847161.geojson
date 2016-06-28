@@ -2,13 +2,14 @@
   "id": 336847161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.434851,34.613764,-98.434851,34.613764",
     "geom:latitude":34.613764,
     "geom:longitude":-98.434851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 NW Ridgeview Way",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336847161,
-    "wof:lastmodified":1448997324,
+    "wof:lastmodified":1466764919,
     "wof:name":"Howard Dallas Construction Co",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.434851,34.613764,-98.434851,34.613764],
-  "geometry": {"coordinates":[-98.434851,34.613764],"type":"Point"}
+  "bbox": [
+    -98.434851,
+    34.613764,
+    -98.434851,
+    34.613764
+],
+  "geometry": {"coordinates":[-98.43485099999999,34.613764],"type":"Point"}
 }

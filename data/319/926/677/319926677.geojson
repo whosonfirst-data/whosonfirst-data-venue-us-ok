@@ -2,13 +2,14 @@
   "id": 319926677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.317894,35.392672,-97.317894,35.392672",
     "geom:latitude":35.392672,
     "geom:longitude":-97.317894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7105 S Anderson Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319926677,
-    "wof:lastmodified":1449024342,
+    "wof:lastmodified":1466763875,
     "wof:name":"Oklahoma County Highway Dept",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.317894,35.392672,-97.317894,35.392672],
+  "bbox": [
+    -97.317894,
+    35.392672,
+    -97.317894,
+    35.392672
+],
   "geometry": {"coordinates":[-97.317894,35.392672],"type":"Point"}
 }

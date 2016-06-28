@@ -2,13 +2,14 @@
   "id": 353919549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.618851,35.476319,-97.618851,35.476319",
     "geom:latitude":35.476319,
     "geom:longitude":-97.618851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353919549,
-    "wof:lastmodified":1449020183,
+    "wof:lastmodified":1466765804,
     "wof:name":"Panelite Inc",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "truck"
     ]
 },
-  "bbox": [-97.618851,35.476319,-97.618851,35.476319],
-  "geometry": {"coordinates":[-97.618851,35.476319],"type":"Point"}
+  "bbox": [
+    -97.618851,
+    35.476319,
+    -97.618851,
+    35.476319
+],
+  "geometry": {"coordinates":[-97.61885100000001,35.476319],"type":"Point"}
 }

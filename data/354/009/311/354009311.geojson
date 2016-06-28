@@ -2,13 +2,14 @@
   "id": 354009311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.666921,35.276549,-97.666921,35.276549",
     "geom:latitude":35.276549,
     "geom:longitude":-97.666921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3833 NW 24th St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354009311,
-    "wof:lastmodified":1449067650,
+    "wof:lastmodified":1466762989,
     "wof:name":"Beasley Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-97.666921,35.276549,-97.666921,35.276549],
+  "bbox": [
+    -97.666921,
+    35.276549,
+    -97.666921,
+    35.276549
+],
   "geometry": {"coordinates":[-97.666921,35.276549],"type":"Point"}
 }

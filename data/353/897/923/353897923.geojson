@@ -2,13 +2,14 @@
   "id": 353897923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.815171,36.018863,-95.815171,36.018863",
     "geom:latitude":36.018863,
     "geom:longitude":-95.815171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 S Aspen Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353897923,
-    "wof:lastmodified":1449020415,
+    "wof:lastmodified":1466765777,
     "wof:name":"Spot Free Car Wash",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-95.815171,36.018863,-95.815171,36.018863],
-  "geometry": {"coordinates":[-95.815171,36.018863],"type":"Point"}
+  "bbox": [
+    -95.815171,
+    36.018863,
+    -95.815171,
+    36.018863
+],
+  "geometry": {"coordinates":[-95.81517100000001,36.018863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354202979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.058648,36.111181,-97.058648,36.111181",
     "geom:latitude":36.111181,
     "geom:longitude":-97.058648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 S Main St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354202979,
-    "wof:lastmodified":1449067444,
+    "wof:lastmodified":1466763937,
     "wof:name":"Dragon's Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.058648,36.111181,-97.058648,36.111181],
-  "geometry": {"coordinates":[-97.058648,36.111181],"type":"Point"}
+  "bbox": [
+    -97.058648,
+    36.111181,
+    -97.058648,
+    36.111181
+],
+  "geometry": {"coordinates":[-97.05864800000001,36.111181],"type":"Point"}
 }

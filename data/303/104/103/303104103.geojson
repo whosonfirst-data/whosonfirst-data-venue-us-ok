@@ -2,13 +2,14 @@
   "id": 303104103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.974469,35.724579,-97.974469,35.724579",
     "geom:latitude":35.724579,
     "geom:longitude":-97.974469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Colorado Ave",
     "sg:city":"Okarche",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303104103,
-    "wof:lastmodified":1448999126,
+    "wof:lastmodified":1466763302,
     "wof:name":"Willy's Welding",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.974469,35.724579,-97.974469,35.724579],
+  "bbox": [
+    -97.974469,
+    35.724579,
+    -97.974469,
+    35.724579
+],
   "geometry": {"coordinates":[-97.974469,35.724579],"type":"Point"}
 }

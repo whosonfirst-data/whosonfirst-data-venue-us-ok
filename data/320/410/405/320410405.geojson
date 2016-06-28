@@ -2,13 +2,14 @@
   "id": 320410405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.878731,36.880005,-94.878731,36.880005",
     "geom:latitude":36.880005,
     "geom:longitude":-94.878731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 A St NW",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320410405,
-    "wof:lastmodified":1449011311,
+    "wof:lastmodified":1466765867,
     "wof:name":"M & M Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-94.878731,36.880005,-94.878731,36.880005],
+  "bbox": [
+    -94.878731,
+    36.880005,
+    -94.878731,
+    36.880005
+],
   "geometry": {"coordinates":[-94.878731,36.880005],"type":"Point"}
 }

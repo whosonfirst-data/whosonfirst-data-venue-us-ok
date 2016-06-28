@@ -2,13 +2,14 @@
   "id": 303946521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.827301,36.999206,-95.827301,36.999206",
     "geom:latitude":36.999206,
     "geom:longitude":-95.827301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401551 W 100 Rd",
     "sg:city":"Wann",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303946521,
-    "wof:lastmodified":1449000274,
+    "wof:lastmodified":1466767033,
     "wof:name":"Finney Drilling Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "oil"
     ]
 },
-  "bbox": [-95.827301,36.999206,-95.827301,36.999206],
-  "geometry": {"coordinates":[-95.827301,36.999206],"type":"Point"}
+  "bbox": [
+    -95.827301,
+    36.999206,
+    -95.827301,
+    36.999206
+],
+  "geometry": {"coordinates":[-95.82730100000001,36.999206],"type":"Point"}
 }

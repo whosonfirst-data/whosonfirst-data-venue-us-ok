@@ -2,13 +2,14 @@
   "id": 320200529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.051558,36.060376,-96.051558,36.060376",
     "geom:latitude":36.060376,
     "geom:longitude":-96.051558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5414 Oak Forest Ln",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320200529,
-    "wof:lastmodified":1449012761,
+    "wof:lastmodified":1466764608,
     "wof:name":"Bankers Life",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.051558,36.060376,-96.051558,36.060376],
+  "bbox": [
+    -96.051558,
+    36.060376,
+    -96.051558,
+    36.060376
+],
   "geometry": {"coordinates":[-96.051558,36.060376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303673969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.818406,36.136554,-95.818406,36.136554",
     "geom:latitude":36.136554,
     "geom:longitude":-95.818406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14133 E 19th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303673969,
-    "wof:lastmodified":1448999065,
+    "wof:lastmodified":1466766569,
     "wof:name":"MRE Racing",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-95.818406,36.136554,-95.818406,36.136554],
+  "bbox": [
+    -95.818406,
+    36.136554,
+    -95.818406,
+    36.136554
+],
   "geometry": {"coordinates":[-95.818406,36.136554],"type":"Point"}
 }

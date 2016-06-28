@@ -2,13 +2,14 @@
   "id": 303807551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.961036,35.79424,-94.961036,35.79424",
     "geom:latitude":35.79424,
     "geom:longitude":-94.961036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26246 State Hwy 82",
     "sg:city":"Park Hill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303807551,
-    "wof:lastmodified":1448998738,
+    "wof:lastmodified":1466766736,
     "wof:name":"Subway Sandwiches & Salads",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.961036,35.79424,-94.961036,35.79424],
-  "geometry": {"coordinates":[-94.961036,35.79424],"type":"Point"}
+  "bbox": [
+    -94.961036,
+    35.79424,
+    -94.961036,
+    35.79424
+],
+  "geometry": {"coordinates":[-94.96103599999999,35.79424],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303231865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.884802,36.099523,-95.884802,36.099523",
     "geom:latitude":36.099523,
     "geom:longitude":-95.884802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8531 E 44th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303231865,
-    "wof:lastmodified":1448999369,
+    "wof:lastmodified":1466764462,
     "wof:name":"AFGD Inc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "fabricating"
     ]
 },
-  "bbox": [-95.884802,36.099523,-95.884802,36.099523],
-  "geometry": {"coordinates":[-95.884802,36.099523],"type":"Point"}
+  "bbox": [
+    -95.884802,
+    36.099523,
+    -95.884802,
+    36.099523
+],
+  "geometry": {"coordinates":[-95.88480199999999,36.099523],"type":"Point"}
 }

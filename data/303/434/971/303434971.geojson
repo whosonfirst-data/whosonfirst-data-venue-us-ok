@@ -2,13 +2,14 @@
   "id": 303434971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.404756,34.629672,-98.404756,34.629672",
     "geom:latitude":34.629672,
     "geom:longitude":-98.404756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 NW Fort Sill Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303434971,
-    "wof:lastmodified":1448998644,
+    "wof:lastmodified":1466765602,
     "wof:name":"LA Sill Mini Storage Complex",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-98.404756,34.629672,-98.404756,34.629672],
-  "geometry": {"coordinates":[-98.404756,34.629672],"type":"Point"}
+  "bbox": [
+    -98.404756,
+    34.629672,
+    -98.404756,
+    34.629672
+],
+  "geometry": {"coordinates":[-98.40475600000001,34.629672],"type":"Point"}
 }

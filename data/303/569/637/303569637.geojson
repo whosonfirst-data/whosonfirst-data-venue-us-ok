@@ -2,13 +2,14 @@
   "id": 303569637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503188,35.498641,-97.503188,35.498641",
     "geom:latitude":35.498641,
     "geom:longitude":-97.503188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 N Lincoln Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303569637,
-    "wof:lastmodified":1449000465,
+    "wof:lastmodified":1466766111,
     "wof:name":"Mitchell York Consulting Group",
     "wof:parent_id":85871695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "it"
     ]
 },
-  "bbox": [-97.503188,35.498641,-97.503188,35.498641],
-  "geometry": {"coordinates":[-97.503188,35.498641],"type":"Point"}
+  "bbox": [
+    -97.503188,
+    35.498641,
+    -97.503188,
+    35.498641
+],
+  "geometry": {"coordinates":[-97.50318799999999,35.498641],"type":"Point"}
 }

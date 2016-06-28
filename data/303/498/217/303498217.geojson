@@ -2,13 +2,14 @@
   "id": 303498217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.337877,34.649702,-99.337877,34.649702",
     "geom:latitude":34.649702,
     "geom:longitude":-99.337877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 N Willard St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303498217,
-    "wof:lastmodified":1448999972,
+    "wof:lastmodified":1466765831,
     "wof:name":"Pearce Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.337877,34.649702,-99.337877,34.649702],
-  "geometry": {"coordinates":[-99.337877,34.649702],"type":"Point"}
+  "bbox": [
+    -99.337877,
+    34.649702,
+    -99.337877,
+    34.649702
+],
+  "geometry": {"coordinates":[-99.33787700000001,34.649702],"type":"Point"}
 }

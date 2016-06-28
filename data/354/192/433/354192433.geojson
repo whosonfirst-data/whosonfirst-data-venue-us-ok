@@ -2,13 +2,14 @@
   "id": 354192433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.767528,36.018448,-96.767528,36.018448",
     "geom:latitude":36.018448,
     "geom:longitude":-96.767528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 N Little Ave",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354192433,
-    "wof:lastmodified":1449067162,
+    "wof:lastmodified":1466763865,
     "wof:name":"Fairlawn Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-96.767528,36.018448,-96.767528,36.018448],
+  "bbox": [
+    -96.767528,
+    36.018448,
+    -96.767528,
+    36.018448
+],
   "geometry": {"coordinates":[-96.767528,36.018448],"type":"Point"}
 }

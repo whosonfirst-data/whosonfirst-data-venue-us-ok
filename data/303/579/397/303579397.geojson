@@ -2,13 +2,14 @@
   "id": 303579397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.623549,36.376031,-99.623549,36.376031",
     "geom:latitude":36.376031,
     "geom:longitude":-99.623549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S Main St",
     "sg:city":"Fargo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303579397,
-    "wof:lastmodified":1448998895,
+    "wof:lastmodified":1466766142,
     "wof:name":"Johnston & Crain Cpas PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-99.623549,36.376031,-99.623549,36.376031],
+  "bbox": [
+    -99.623549,
+    36.376031,
+    -99.623549,
+    36.376031
+],
   "geometry": {"coordinates":[-99.623549,36.376031],"type":"Point"}
 }

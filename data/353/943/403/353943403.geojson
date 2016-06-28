@@ -2,13 +2,14 @@
   "id": 353943403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480704,35.645647,-97.480704,35.645647",
     "geom:latitude":35.645647,
     "geom:longitude":-97.480704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 E 9th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353943403,
-    "wof:lastmodified":1449018939,
+    "wof:lastmodified":1466765925,
     "wof:name":"A Bloom Above The Rest",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.480704,35.645647,-97.480704,35.645647],
+  "bbox": [
+    -97.480704,
+    35.645647,
+    -97.480704,
+    35.645647
+],
   "geometry": {"coordinates":[-97.480704,35.645647],"type":"Point"}
 }

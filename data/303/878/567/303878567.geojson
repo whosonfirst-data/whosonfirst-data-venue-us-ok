@@ -2,13 +2,14 @@
   "id": 303878567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530055,35.380529,-97.530055,35.380529",
     "geom:latitude":35.380529,
     "geom:longitude":-97.530055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8894 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303878567,
-    "wof:lastmodified":1448999401,
+    "wof:lastmodified":1466766991,
     "wof:name":"Discount Glass Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "replacement"
     ]
 },
-  "bbox": [-97.530055,35.380529,-97.530055,35.380529],
+  "bbox": [
+    -97.530055,
+    35.380529,
+    -97.530055,
+    35.380529
+],
   "geometry": {"coordinates":[-97.530055,35.380529],"type":"Point"}
 }

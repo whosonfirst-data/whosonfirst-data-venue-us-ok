@@ -2,13 +2,14 @@
   "id": 353580391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.099513,35.958709,-95.099513,35.958709",
     "geom:latitude":35.958709,
     "geom:longitude":-95.099513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11042 W Shady Grove Rd",
     "sg:city":"Hulbert",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353580391,
-    "wof:lastmodified":1449019960,
+    "wof:lastmodified":1466764421,
     "wof:name":"Shady Grove School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.099513,35.958709,-95.099513,35.958709],
+  "bbox": [
+    -95.099513,
+    35.958709,
+    -95.099513,
+    35.958709
+],
   "geometry": {"coordinates":[-95.099513,35.958709],"type":"Point"}
 }

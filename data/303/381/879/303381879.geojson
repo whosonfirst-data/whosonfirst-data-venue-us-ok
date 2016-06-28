@@ -2,13 +2,14 @@
   "id": 303381879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.370053,35.276206,-97.370053,35.276206",
     "geom:latitude":35.276206,
     "geom:longitude":-97.370053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 E Franklin Rd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303381879,
-    "wof:lastmodified":1448998318,
+    "wof:lastmodified":1466765336,
     "wof:name":"Pleasant Hill Freewill Baptist",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.370053,35.276206,-97.370053,35.276206],
+  "bbox": [
+    -97.370053,
+    35.276206,
+    -97.370053,
+    35.276206
+],
   "geometry": {"coordinates":[-97.370053,35.276206],"type":"Point"}
 }

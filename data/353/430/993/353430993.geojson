@@ -2,13 +2,14 @@
   "id": 353430993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.540344,35.556996,-97.540344,35.556996",
     "geom:latitude":35.556996,
     "geom:longitude":-97.540344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8320 Waverly Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353430993,
-    "wof:lastmodified":1449019870,
+    "wof:lastmodified":1466762604,
     "wof:name":"D Richard Ishmael MD PC",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physician"
     ]
 },
-  "bbox": [-97.540344,35.556996,-97.540344,35.556996],
+  "bbox": [
+    -97.540344,
+    35.556996,
+    -97.540344,
+    35.556996
+],
   "geometry": {"coordinates":[-97.540344,35.556996],"type":"Point"}
 }

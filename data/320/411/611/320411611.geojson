@@ -2,13 +2,14 @@
   "id": 320411611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.085107,34.950915,-95.085107,34.950915",
     "geom:latitude":34.950915,
     "geom:longitude":-95.085107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 NW Market St",
     "sg:city":"Red Oak",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320411611,
-    "wof:lastmodified":1449011429,
+    "wof:lastmodified":1466765763,
     "wof:name":"In Red Oak Drive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.085107,34.950915,-95.085107,34.950915],
-  "geometry": {"coordinates":[-95.085107,34.950915],"type":"Point"}
+  "bbox": [
+    -95.085107,
+    34.950915,
+    -95.085107,
+    34.950915
+],
+  "geometry": {"coordinates":[-95.08510699999999,34.950915],"type":"Point"}
 }

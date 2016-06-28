@@ -2,13 +2,14 @@
   "id": 303905383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.90132,34.681758,-99.90132,34.681758",
     "geom:latitude":34.681758,
     "geom:longitude":-99.90132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 E Broadway St",
     "sg:city":"Hollis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303905383,
-    "wof:lastmodified":1448999073,
+    "wof:lastmodified":1466767053,
     "wof:name":"Loving's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-99.90132,34.681758,-99.90132,34.681758],
+  "bbox": [
+    -99.90132,
+    34.681758,
+    -99.90132,
+    34.681758
+],
   "geometry": {"coordinates":[-99.90132,34.681758],"type":"Point"}
 }

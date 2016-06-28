@@ -2,13 +2,14 @@
   "id": 303290693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.487861,35.485821,-97.487861,35.485821",
     "geom:latitude":35.485821,
     "geom:longitude":-97.487861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 N Kate Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303290693,
-    "wof:lastmodified":1448999169,
+    "wof:lastmodified":1466764921,
     "wof:name":"Restoration World Outreach Ctr",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.487861,35.485821,-97.487861,35.485821],
+  "bbox": [
+    -97.487861,
+    35.485821,
+    -97.487861,
+    35.485821
+],
   "geometry": {"coordinates":[-97.487861,35.485821],"type":"Point"}
 }

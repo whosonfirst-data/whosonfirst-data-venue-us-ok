@@ -2,13 +2,14 @@
   "id": 303341603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.406123,34.605275,-98.406123,34.605275",
     "geom:latitude":34.605275,
     "geom:longitude":-98.406123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 SW C Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303341603,
-    "wof:lastmodified":1449000460,
+    "wof:lastmodified":1466765020,
     "wof:name":"Southwest Aids Ntwrk Fundation",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-98.406123,34.605275,-98.406123,34.605275],
-  "geometry": {"coordinates":[-98.406123,34.605275],"type":"Point"}
+  "bbox": [
+    -98.406123,
+    34.605275,
+    -98.406123,
+    34.605275
+],
+  "geometry": {"coordinates":[-98.40612299999999,34.605275],"type":"Point"}
 }

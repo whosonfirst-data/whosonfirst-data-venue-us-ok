@@ -2,13 +2,14 @@
   "id": 336613749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.081209,36.723846,-97.081209,36.723846",
     "geom:latitude":36.723846,
     "geom:longitude":-97.081209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 N 3rd St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336613749,
-    "wof:lastmodified":1448997451,
+    "wof:lastmodified":1466762389,
     "wof:name":"Rainmaker Sprinkler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-97.081209,36.723846,-97.081209,36.723846],
+  "bbox": [
+    -97.081209,
+    36.723846,
+    -97.081209,
+    36.723846
+],
   "geometry": {"coordinates":[-97.081209,36.723846],"type":"Point"}
 }

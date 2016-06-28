@@ -2,13 +2,14 @@
   "id": 303334071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.872313,36.218777,-95.872313,36.218777",
     "geom:latitude":36.218777,
     "geom:longitude":-95.872313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9311 E 44th St N",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303334071,
-    "wof:lastmodified":1448998829,
+    "wof:lastmodified":1466765095,
     "wof:name":"Tulsa Aircraft Engines",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "aircraft"
     ]
 },
-  "bbox": [-95.872313,36.218777,-95.872313,36.218777],
-  "geometry": {"coordinates":[-95.872313,36.218777],"type":"Point"}
+  "bbox": [
+    -95.872313,
+    36.218777,
+    -95.872313,
+    36.218777
+],
+  "geometry": {"coordinates":[-95.87231300000001,36.218777],"type":"Point"}
 }

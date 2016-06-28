@@ -2,13 +2,14 @@
   "id": 303313375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.752609,36.17706,-95.752609,36.17706",
     "geom:latitude":36.17706,
     "geom:longitude":-95.752609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19967 E Pine St",
     "sg:city":"Catoosa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303313375,
-    "wof:lastmodified":1448998190,
+    "wof:lastmodified":1466765015,
     "wof:name":"Splash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.752609,36.17706,-95.752609,36.17706],
-  "geometry": {"coordinates":[-95.752609,36.17706],"type":"Point"}
+  "bbox": [
+    -95.752609,
+    36.17706,
+    -95.752609,
+    36.17706
+],
+  "geometry": {"coordinates":[-95.75260900000001,36.17706],"type":"Point"}
 }

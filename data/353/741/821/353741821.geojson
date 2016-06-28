@@ -2,13 +2,14 @@
   "id": 353741821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.51487,34.010942,-95.51487,34.010942",
     "geom:latitude":34.010942,
     "geom:longitude":-95.51487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Jackson St",
     "sg:city":"Hugo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353741821,
-    "wof:lastmodified":1449018382,
+    "wof:lastmodified":1466764974,
     "wof:name":"Secure Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "storage"
     ]
 },
-  "bbox": [-95.51487,34.010942,-95.51487,34.010942],
+  "bbox": [
+    -95.51487,
+    34.010942,
+    -95.51487,
+    34.010942
+],
   "geometry": {"coordinates":[-95.51487,34.010942],"type":"Point"}
 }

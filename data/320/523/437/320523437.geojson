@@ -2,13 +2,14 @@
   "id": 320523437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.36651,35.00788,-97.36651,35.00788",
     "geom:latitude":35.00788,
     "geom:longitude":-97.36651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 S Green Ave",
     "sg:city":"Purcell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320523437,
-    "wof:lastmodified":1449013413,
+    "wof:lastmodified":1466766106,
     "wof:name":"Varsity Quick Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.36651,35.00788,-97.36651,35.00788],
-  "geometry": {"coordinates":[-97.36651,35.00788],"type":"Point"}
+  "bbox": [
+    -97.36651,
+    35.00788,
+    -97.36651,
+    35.00788
+],
+  "geometry": {"coordinates":[-97.36651000000001,35.00788],"type":"Point"}
 }

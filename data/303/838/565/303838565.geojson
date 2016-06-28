@@ -2,13 +2,14 @@
   "id": 303838565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.161703,35.487908,-97.161703,35.487908",
     "geom:latitude":35.487908,
     "geom:longitude":-97.161703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20870 Main St",
     "sg:city":"Harrah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303838565,
-    "wof:lastmodified":1448998417,
+    "wof:lastmodified":1466766697,
     "wof:name":"My Way Meat Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-97.161703,35.487908,-97.161703,35.487908],
+  "bbox": [
+    -97.161703,
+    35.487908,
+    -97.161703,
+    35.487908
+],
   "geometry": {"coordinates":[-97.161703,35.487908],"type":"Point"}
 }

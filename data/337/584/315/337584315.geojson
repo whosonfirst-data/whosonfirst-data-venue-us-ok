@@ -2,13 +2,14 @@
   "id": 337584315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.353254,35.42262,-97.353254,35.42262",
     "geom:latitude":35.42262,
     "geom:longitude":-97.353254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4317 S Post Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337584315,
-    "wof:lastmodified":1449027029,
+    "wof:lastmodified":1466763119,
     "wof:name":"B & S Lawn Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mower"
     ]
 },
-  "bbox": [-97.353254,35.42262,-97.353254,35.42262],
-  "geometry": {"coordinates":[-97.353254,35.42262],"type":"Point"}
+  "bbox": [
+    -97.353254,
+    35.42262,
+    -97.353254,
+    35.42262
+],
+  "geometry": {"coordinates":[-97.35325400000001,35.42262],"type":"Point"}
 }

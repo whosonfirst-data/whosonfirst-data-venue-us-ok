@@ -2,13 +2,14 @@
   "id": 320561335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.377901,35.711383,-95.377901,35.711383",
     "geom:latitude":35.711383,
     "geom:longitude":-95.377901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 S Cherokee St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320561335,
-    "wof:lastmodified":1449013911,
+    "wof:lastmodified":1466766095,
     "wof:name":"Prowler Trucking Inc",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.377901,35.711383,-95.377901,35.711383],
-  "geometry": {"coordinates":[-95.377901,35.711383],"type":"Point"}
+  "bbox": [
+    -95.377901,
+    35.711383,
+    -95.377901,
+    35.711383
+],
+  "geometry": {"coordinates":[-95.37790099999999,35.711383],"type":"Point"}
 }

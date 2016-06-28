@@ -2,13 +2,14 @@
   "id": 354039275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.769242,36.157994,-95.769242,36.157994",
     "geom:latitude":36.157994,
     "geom:longitude":-95.769242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18589 E 3rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354039275,
-    "wof:lastmodified":1449067450,
+    "wof:lastmodified":1466763207,
     "wof:name":"Cape",
     "wof:parent_id":85831775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.769242,36.157994,-95.769242,36.157994],
-  "geometry": {"coordinates":[-95.769242,36.157994],"type":"Point"}
+  "bbox": [
+    -95.769242,
+    36.157994,
+    -95.769242,
+    36.157994
+],
+  "geometry": {"coordinates":[-95.76924200000001,36.157994],"type":"Point"}
 }

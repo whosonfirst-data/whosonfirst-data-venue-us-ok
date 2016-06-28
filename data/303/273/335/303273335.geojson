@@ -2,13 +2,14 @@
   "id": 303273335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.47031,35.25902,-97.47031,35.25902",
     "geom:latitude":35.25902,
     "geom:longitude":-97.47031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Atchison Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303273335,
-    "wof:lastmodified":1448999388,
+    "wof:lastmodified":1466764742,
     "wof:name":"Mr C's",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.47031,35.25902,-97.47031,35.25902],
+  "bbox": [
+    -97.47031,
+    35.25902,
+    -97.47031,
+    35.25902
+],
   "geometry": {"coordinates":[-97.47031,35.25902],"type":"Point"}
 }

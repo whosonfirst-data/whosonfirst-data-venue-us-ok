@@ -2,13 +2,14 @@
   "id": 303177091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745586,35.393888,-97.745586,35.393888",
     "geom:latitude":35.393888,
     "geom:longitude":-97.745586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 W Windsor Way",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303177091,
-    "wof:lastmodified":1449000563,
+    "wof:lastmodified":1466764310,
     "wof:name":"Portland America",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-97.745586,35.393888,-97.745586,35.393888],
+  "bbox": [
+    -97.745586,
+    35.393888,
+    -97.745586,
+    35.393888
+],
   "geometry": {"coordinates":[-97.745586,35.393888],"type":"Point"}
 }

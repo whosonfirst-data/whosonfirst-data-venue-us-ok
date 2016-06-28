@@ -2,13 +2,14 @@
   "id": 303351249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.53028,35.426133,-97.53028,35.426133",
     "geom:latitude":35.426133,
     "geom:longitude":-97.53028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3723 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303351249,
-    "wof:lastmodified":1449000193,
+    "wof:lastmodified":1466765060,
     "wof:name":"China Queen",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.53028,35.426133,-97.53028,35.426133],
+  "bbox": [
+    -97.53028,
+    35.426133,
+    -97.53028,
+    35.426133
+],
   "geometry": {"coordinates":[-97.53028,35.426133],"type":"Point"}
 }

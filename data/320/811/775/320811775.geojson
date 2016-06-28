@@ -2,13 +2,14 @@
   "id": 320811775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.25953,35.26528,-97.25953,35.26528",
     "geom:latitude":35.26528,
     "geom:longitude":-97.25953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 Indian Point Cir W",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320811775,
-    "wof:lastmodified":1449013060,
+    "wof:lastmodified":1466766966,
     "wof:name":"Interstate Truck & Trailer",
     "wof:parent_id":85814357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-97.25953,35.26528,-97.25953,35.26528],
+  "bbox": [
+    -97.25953,
+    35.26528,
+    -97.25953,
+    35.26528
+],
   "geometry": {"coordinates":[-97.25953,35.26528],"type":"Point"}
 }

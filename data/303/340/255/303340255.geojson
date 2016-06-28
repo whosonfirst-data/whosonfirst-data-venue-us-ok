@@ -2,13 +2,14 @@
   "id": 303340255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.318648,36.300164,-95.318648,36.300164",
     "geom:latitude":36.300164,
     "geom:longitude":-95.318648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Park Ave",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303340255,
-    "wof:lastmodified":1449000005,
+    "wof:lastmodified":1466765231,
     "wof:name":"Villager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.318648,36.300164,-95.318648,36.300164],
+  "bbox": [
+    -95.318648,
+    36.300164,
+    -95.318648,
+    36.300164
+],
   "geometry": {"coordinates":[-95.318648,36.300164],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303329143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.091648,36.710832,-97.091648,36.710832",
     "geom:latitude":36.710832,
     "geom:longitude":-97.091648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"742 N Palm St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303329143,
-    "wof:lastmodified":1448998793,
+    "wof:lastmodified":1466765063,
     "wof:name":"Precision Roofing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.091648,36.710832,-97.091648,36.710832],
-  "geometry": {"coordinates":[-97.091648,36.710832],"type":"Point"}
+  "bbox": [
+    -97.091648,
+    36.710832,
+    -97.091648,
+    36.710832
+],
+  "geometry": {"coordinates":[-97.09164800000001,36.710832],"type":"Point"}
 }

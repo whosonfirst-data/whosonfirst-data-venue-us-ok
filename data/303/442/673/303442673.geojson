@@ -2,13 +2,14 @@
   "id": 303442673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745475,35.480793,-97.745475,35.480793",
     "geom:latitude":35.480793,
     "geom:longitude":-97.745475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Vail Ct",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303442673,
-    "wof:lastmodified":1448999192,
+    "wof:lastmodified":1466765638,
     "wof:name":"Wilson Jack",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.745475,35.480793,-97.745475,35.480793],
+  "bbox": [
+    -97.745475,
+    35.480793,
+    -97.745475,
+    35.480793
+],
   "geometry": {"coordinates":[-97.745475,35.480793],"type":"Point"}
 }

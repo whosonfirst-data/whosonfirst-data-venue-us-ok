@@ -2,13 +2,14 @@
   "id": 320057097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.764966,34.922699,-95.764966,34.922699",
     "geom:latitude":34.922699,
     "geom:longitude":-95.764966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 S 6th St",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320057097,
-    "wof:lastmodified":1449013107,
+    "wof:lastmodified":1466763138,
     "wof:name":"Watch N Listen",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-95.764966,34.922699,-95.764966,34.922699],
+  "bbox": [
+    -95.764966,
+    34.922699,
+    -95.764966,
+    34.922699
+],
   "geometry": {"coordinates":[-95.764966,34.922699],"type":"Point"}
 }

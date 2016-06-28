@@ -2,13 +2,14 @@
   "id": 320686301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.516149,35.738615,-97.516149,35.738615",
     "geom:latitude":35.738615,
     "geom:longitude":-97.516149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8104 Magnolia",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320686301,
-    "wof:lastmodified":1449014056,
+    "wof:lastmodified":1466766513,
     "wof:name":"Signature Event",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-97.516149,35.738615,-97.516149,35.738615],
+  "bbox": [
+    -97.516149,
+    35.738615,
+    -97.516149,
+    35.738615
+],
   "geometry": {"coordinates":[-97.516149,35.738615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336682559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.353658,35.679625,-97.353658,35.679625",
     "geom:latitude":35.679625,
     "geom:longitude":-97.353658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 N Post Rd",
     "sg:city":"Arcadia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336682559,
-    "wof:lastmodified":1448997130,
+    "wof:lastmodified":1466763452,
     "wof:name":"Bridwell Farm",
     "wof:parent_id":85829129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-97.353658,35.679625,-97.353658,35.679625],
+  "bbox": [
+    -97.353658,
+    35.679625,
+    -97.353658,
+    35.679625
+],
   "geometry": {"coordinates":[-97.353658,35.679625],"type":"Point"}
 }

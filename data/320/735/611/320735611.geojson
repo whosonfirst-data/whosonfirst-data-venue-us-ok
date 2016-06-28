@@ -2,13 +2,14 @@
   "id": 320735611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.473503,36.681877,-101.473503,36.681877",
     "geom:latitude":36.681877,
     "geom:longitude":-101.473503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 NE 4th St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320735611,
-    "wof:lastmodified":1449014883,
+    "wof:lastmodified":1466766636,
     "wof:name":"MJV Metals Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "warehouse"
     ]
 },
-  "bbox": [-101.473503,36.681877,-101.473503,36.681877],
-  "geometry": {"coordinates":[-101.473503,36.681877],"type":"Point"}
+  "bbox": [
+    -101.473503,
+    36.681877,
+    -101.473503,
+    36.681877
+],
+  "geometry": {"coordinates":[-101.47350299999999,36.681877],"type":"Point"}
 }

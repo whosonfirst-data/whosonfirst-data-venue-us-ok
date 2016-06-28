@@ -2,13 +2,14 @@
   "id": 287203579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.091861,36.717101,-97.091861,36.717101",
     "geom:latitude":36.717101,
     "geom:longitude":-97.091861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1713 Bradbary Ln",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287203579,
-    "wof:lastmodified":1449001052,
+    "wof:lastmodified":1466764003,
     "wof:name":"North Central Answering Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "answering"
     ]
 },
-  "bbox": [-97.091861,36.717101,-97.091861,36.717101],
-  "geometry": {"coordinates":[-97.091861,36.717101],"type":"Point"}
+  "bbox": [
+    -97.091861,
+    36.717101,
+    -97.091861,
+    36.717101
+],
+  "geometry": {"coordinates":[-97.09186099999999,36.717101],"type":"Point"}
 }

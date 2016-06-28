@@ -2,13 +2,14 @@
   "id": 303833563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.578432,35.550957,-98.578432,35.550957",
     "geom:latitude":35.550957,
     "geom:longitude":-98.578432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Arapaho Ave",
     "sg:city":"Hydro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303833563,
-    "wof:lastmodified":1448998430,
+    "wof:lastmodified":1466766902,
     "wof:name":"Crossroads Ministries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "religious"
     ]
 },
-  "bbox": [-98.578432,35.550957,-98.578432,35.550957],
-  "geometry": {"coordinates":[-98.578432,35.550957],"type":"Point"}
+  "bbox": [
+    -98.578432,
+    35.550957,
+    -98.578432,
+    35.550957
+],
+  "geometry": {"coordinates":[-98.57843200000001,35.550957],"type":"Point"}
 }

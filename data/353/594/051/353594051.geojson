@@ -2,13 +2,14 @@
   "id": 353594051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.786131,36.175223,-95.786131,36.175223",
     "geom:latitude":36.175223,
     "geom:longitude":-95.786131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 N 169th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353594051,
-    "wof:lastmodified":1449018626,
+    "wof:lastmodified":1466764233,
     "wof:name":"Catoosa Wrecker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-95.786131,36.175223,-95.786131,36.175223],
+  "bbox": [
+    -95.786131,
+    36.175223,
+    -95.786131,
+    36.175223
+],
   "geometry": {"coordinates":[-95.786131,36.175223],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319946797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.060711,36.488009,-96.060711,36.488009",
     "geom:latitude":36.488009,
     "geom:longitude":-96.060711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Broadway Ave",
     "sg:city":"Avant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319946797,
-    "wof:lastmodified":1449024799,
+    "wof:lastmodified":1466764002,
     "wof:name":"Avant Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.060711,36.488009,-96.060711,36.488009],
+  "bbox": [
+    -96.060711,
+    36.488009,
+    -96.060711,
+    36.488009
+],
   "geometry": {"coordinates":[-96.060711,36.488009],"type":"Point"}
 }

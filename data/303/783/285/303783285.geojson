@@ -2,13 +2,14 @@
   "id": 303783285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.941469,36.150791,-95.941469,36.150791",
     "geom:latitude":36.150791,
     "geom:longitude":-95.941469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3123 E 7th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303783285,
-    "wof:lastmodified":1448998196,
+    "wof:lastmodified":1466766700,
     "wof:name":"PI Kappa Alpha",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.941469,36.150791,-95.941469,36.150791],
+  "bbox": [
+    -95.941469,
+    36.150791,
+    -95.941469,
+    36.150791
+],
   "geometry": {"coordinates":[-95.941469,36.150791],"type":"Point"}
 }

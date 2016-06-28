@@ -2,13 +2,14 @@
   "id": 353561281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.993758,36.024639,-95.993758,36.024639",
     "geom:latitude":36.024639,
     "geom:longitude":-95.993758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 W Main St",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353561281,
-    "wof:lastmodified":1449020059,
+    "wof:lastmodified":1466764037,
     "wof:name":"Git N Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.993758,36.024639,-95.993758,36.024639],
+  "bbox": [
+    -95.993758,
+    36.024639,
+    -95.993758,
+    36.024639
+],
   "geometry": {"coordinates":[-95.993758,36.024639],"type":"Point"}
 }

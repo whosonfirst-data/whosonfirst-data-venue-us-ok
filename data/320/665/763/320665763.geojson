@@ -2,13 +2,14 @@
   "id": 320665763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.720816,35.494888,-97.720816,35.494888",
     "geom:latitude":35.494888,
     "geom:longitude":-97.720816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1145 Cambridge Dr",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320665763,
-    "wof:lastmodified":1449012411,
+    "wof:lastmodified":1466766454,
     "wof:name":"Larry Russell Homes",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.720816,35.494888,-97.720816,35.494888],
+  "bbox": [
+    -97.720816,
+    35.494888,
+    -97.720816,
+    35.494888
+],
   "geometry": {"coordinates":[-97.720816,35.494888],"type":"Point"}
 }

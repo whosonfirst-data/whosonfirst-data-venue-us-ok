@@ -2,13 +2,14 @@
   "id": 320343223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.08528,36.726547,-97.08528,36.726547",
     "geom:latitude":36.726547,
     "geom:longitude":-97.08528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 N Union St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320343223,
-    "wof:lastmodified":1449013913,
+    "wof:lastmodified":1466765314,
     "wof:name":"Terry Toon Autos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.08528,36.726547,-97.08528,36.726547],
+  "bbox": [
+    -97.08528,
+    36.726547,
+    -97.08528,
+    36.726547
+],
   "geometry": {"coordinates":[-97.08528,36.726547],"type":"Point"}
 }

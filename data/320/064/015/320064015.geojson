@@ -2,13 +2,14 @@
   "id": 320064015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.375225,35.711217,-95.375225,35.711217",
     "geom:latitude":35.711217,
     "geom:longitude":-95.375225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 E Peak Blvd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320064015,
-    "wof:lastmodified":1449012587,
+    "wof:lastmodified":1466763236,
     "wof:name":"Hilldale Elementary School",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.375225,35.711217,-95.375225,35.711217],
+  "bbox": [
+    -95.375225,
+    35.711217,
+    -95.375225,
+    35.711217
+],
   "geometry": {"coordinates":[-95.375225,35.711217],"type":"Point"}
 }

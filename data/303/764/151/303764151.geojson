@@ -2,13 +2,14 @@
   "id": 303764151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.411752,35.85472,-98.411752,35.85472",
     "geom:latitude":35.85472,
     "geom:longitude":-98.411752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 N Weigle Ave",
     "sg:city":"Watonga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303764151,
-    "wof:lastmodified":1449000450,
+    "wof:lastmodified":1466766779,
     "wof:name":"Ester Sweeper Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-98.411752,35.85472,-98.411752,35.85472],
-  "geometry": {"coordinates":[-98.411752,35.85472],"type":"Point"}
+  "bbox": [
+    -98.411752,
+    35.85472,
+    -98.411752,
+    35.85472
+],
+  "geometry": {"coordinates":[-98.41175200000001,35.85472],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336816611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.526724,35.377236,-97.526724,35.377236",
     "geom:latitude":35.377236,
     "geom:longitude":-97.526724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 SW 89th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336816611,
-    "wof:lastmodified":1448997565,
+    "wof:lastmodified":1466764755,
     "wof:name":"Brian Lepley Do",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-97.526724,35.377236,-97.526724,35.377236],
+  "bbox": [
+    -97.526724,
+    35.377236,
+    -97.526724,
+    35.377236
+],
   "geometry": {"coordinates":[-97.526724,35.377236],"type":"Point"}
 }

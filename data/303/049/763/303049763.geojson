@@ -2,13 +2,14 @@
   "id": 303049763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565744,35.486192,-97.565744,35.486192",
     "geom:latitude":35.486192,
     "geom:longitude":-97.565744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1771 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303049763,
-    "wof:lastmodified":1448999329,
+    "wof:lastmodified":1466762417,
     "wof:name":"Okie Express",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.565744,35.486192,-97.565744,35.486192],
+  "bbox": [
+    -97.565744,
+    35.486192,
+    -97.565744,
+    35.486192
+],
   "geometry": {"coordinates":[-97.565744,35.486192],"type":"Point"}
 }

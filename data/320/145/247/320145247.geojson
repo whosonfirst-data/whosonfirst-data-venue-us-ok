@@ -2,13 +2,14 @@
   "id": 320145247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.440505,36.43045,-99.440505,36.43045",
     "geom:latitude":36.43045,
     "geom:longitude":-99.440505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Industrial Rd",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320145247,
-    "wof:lastmodified":1449012404,
+    "wof:lastmodified":1466764375,
     "wof:name":"Modena & Modena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.440505,36.43045,-99.440505,36.43045],
+  "bbox": [
+    -99.440505,
+    36.43045,
+    -99.440505,
+    36.43045
+],
   "geometry": {"coordinates":[-99.440505,36.43045],"type":"Point"}
 }

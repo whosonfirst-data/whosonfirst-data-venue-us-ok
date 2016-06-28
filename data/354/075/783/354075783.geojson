@@ -2,13 +2,14 @@
   "id": 354075783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.485769,35.348716,-97.485769,35.348716",
     "geom:latitude":35.348716,
     "geom:longitude":-97.485769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 NE 12th St",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354075783,
-    "wof:lastmodified":1449066863,
+    "wof:lastmodified":1466763415,
     "wof:name":"Harry's Auto Repair",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-97.485769,35.348716,-97.485769,35.348716],
+  "bbox": [
+    -97.485769,
+    35.348716,
+    -97.485769,
+    35.348716
+],
   "geometry": {"coordinates":[-97.485769,35.348716],"type":"Point"}
 }

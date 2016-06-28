@@ -2,13 +2,14 @@
   "id": 303649055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.417629,35.443661,-97.417629,35.443661",
     "geom:latitude":35.443661,
     "geom:longitude":-97.417629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5905 Trosper Rd",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303649055,
-    "wof:lastmodified":1448999782,
+    "wof:lastmodified":1466766235,
     "wof:name":"Midwest City Chamber-Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-97.417629,35.443661,-97.417629,35.443661],
-  "geometry": {"coordinates":[-97.417629,35.443661],"type":"Point"}
+  "bbox": [
+    -97.417629,
+    35.443661,
+    -97.417629,
+    35.443661
+],
+  "geometry": {"coordinates":[-97.41762900000001,35.443661],"type":"Point"}
 }

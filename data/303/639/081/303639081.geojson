@@ -2,13 +2,14 @@
   "id": 303639081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.335331,34.637608,-99.335331,34.637608",
     "geom:latitude":34.637608,
     "geom:longitude":-99.335331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 S Hudson St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303639081,
-    "wof:lastmodified":1449000556,
+    "wof:lastmodified":1466766323,
     "wof:name":"Fortune Cookie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-99.335331,34.637608,-99.335331,34.637608],
+  "bbox": [
+    -99.335331,
+    34.637608,
+    -99.335331,
+    34.637608
+],
   "geometry": {"coordinates":[-99.335331,34.637608],"type":"Point"}
 }

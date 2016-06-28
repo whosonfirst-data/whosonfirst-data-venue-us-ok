@@ -2,13 +2,14 @@
   "id": 353922995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.391968,34.606381,-98.391968,34.606381",
     "geom:latitude":34.606381,
     "geom:longitude":-98.391968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 SW 3rd St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353922995,
-    "wof:lastmodified":1449018493,
+    "wof:lastmodified":1466765614,
     "wof:name":"Lawton Constitution",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-98.391968,34.606381,-98.391968,34.606381],
-  "geometry": {"coordinates":[-98.391968,34.606381],"type":"Point"}
+  "bbox": [
+    -98.391968,
+    34.606381,
+    -98.391968,
+    34.606381
+],
+  "geometry": {"coordinates":[-98.39196800000001,34.606381],"type":"Point"}
 }

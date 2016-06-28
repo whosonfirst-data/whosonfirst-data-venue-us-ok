@@ -2,13 +2,14 @@
   "id": 320519735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.164873,35.490588,-97.164873,35.490588",
     "geom:latitude":35.490588,
     "geom:longitude":-97.164873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1930 Church Ave",
     "sg:city":"Harrah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320519735,
-    "wof:lastmodified":1449014714,
+    "wof:lastmodified":1466766099,
     "wof:name":"Harrah Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.164873,35.490588,-97.164873,35.490588],
+  "bbox": [
+    -97.164873,
+    35.490588,
+    -97.164873,
+    35.490588
+],
   "geometry": {"coordinates":[-97.164873,35.490588],"type":"Point"}
 }

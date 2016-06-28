@@ -2,13 +2,14 @@
   "id": 319999745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.53866,35.467942,-97.53866,35.467942",
     "geom:latitude":35.467942,
     "geom:longitude":-97.53866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1429 W Main St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319999745,
-    "wof:lastmodified":1449024795,
+    "wof:lastmodified":1466762701,
     "wof:name":"American Bndry Flfillment Svcs",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"
     ]
 },
-  "bbox": [-97.53866,35.467942,-97.53866,35.467942],
-  "geometry": {"coordinates":[-97.53866,35.467942],"type":"Point"}
+  "bbox": [
+    -97.53866,
+    35.467942,
+    -97.53866,
+    35.467942
+],
+  "geometry": {"coordinates":[-97.53865999999999,35.467942],"type":"Point"}
 }

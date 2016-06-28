@@ -2,13 +2,14 @@
   "id": 320277099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.343783,35.406319,-97.343783,35.406319",
     "geom:latitude":35.406319,
     "geom:longitude":-97.343783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10551 SE 59th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320277099,
-    "wof:lastmodified":1449011668,
+    "wof:lastmodified":1466765053,
     "wof:name":"Barnes Elementary School",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.343783,35.406319,-97.343783,35.406319],
+  "bbox": [
+    -97.343783,
+    35.406319,
+    -97.343783,
+    35.406319
+],
   "geometry": {"coordinates":[-97.343783,35.406319],"type":"Point"}
 }

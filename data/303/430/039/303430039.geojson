@@ -2,13 +2,14 @@
   "id": 303430039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.973384,36.143398,-95.973384,36.143398",
     "geom:latitude":36.143398,
     "geom:longitude":-95.973384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 S Quincy Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303430039,
-    "wof:lastmodified":1448999677,
+    "wof:lastmodified":1466765713,
     "wof:name":"Tulsa Indian Baptist Church",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.973384,36.143398,-95.973384,36.143398],
+  "bbox": [
+    -95.973384,
+    36.143398,
+    -95.973384,
+    36.143398
+],
   "geometry": {"coordinates":[-95.973384,36.143398],"type":"Point"}
 }

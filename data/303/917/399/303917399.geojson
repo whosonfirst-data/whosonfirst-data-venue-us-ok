@@ -2,13 +2,14 @@
   "id": 303917399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.499239,35.237815,-97.499239,35.237815",
     "geom:latitude":35.237815,
     "geom:longitude":-97.499239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3833 Waverly Ct",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303917399,
-    "wof:lastmodified":1449000240,
+    "wof:lastmodified":1466766999,
     "wof:name":"Norman Youth Soccer Assn",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "membership"
     ]
 },
-  "bbox": [-97.499239,35.237815,-97.499239,35.237815],
+  "bbox": [
+    -97.499239,
+    35.237815,
+    -97.499239,
+    35.237815
+],
   "geometry": {"coordinates":[-97.499239,35.237815],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320090061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.962465,35.047709,-97.962465,35.047709",
     "geom:latitude":35.047709,
     "geom:longitude":-97.962465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 W Iowa Ave",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320090061,
-    "wof:lastmodified":1449014206,
+    "wof:lastmodified":1466763619,
     "wof:name":"Oklahoma Cardiovascular Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.962465,35.047709,-97.962465,35.047709],
-  "geometry": {"coordinates":[-97.962465,35.047709],"type":"Point"}
+  "bbox": [
+    -97.962465,
+    35.047709,
+    -97.962465,
+    35.047709
+],
+  "geometry": {"coordinates":[-97.96246499999999,35.047709],"type":"Point"}
 }

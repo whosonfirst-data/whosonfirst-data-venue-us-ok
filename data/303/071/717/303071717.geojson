@@ -2,13 +2,14 @@
   "id": 303071717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.03536,36.16203,-96.03536,36.16203",
     "geom:latitude":36.16203,
     "geom:longitude":-96.03536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 N 39th W Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303071717,
-    "wof:lastmodified":1448999656,
+    "wof:lastmodified":1466762771,
     "wof:name":"West Edison Plaza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.03536,36.16203,-96.03536,36.16203],
+  "bbox": [
+    -96.03536,
+    36.16203,
+    -96.03536,
+    36.16203
+],
   "geometry": {"coordinates":[-96.03536,36.16203],"type":"Point"}
 }

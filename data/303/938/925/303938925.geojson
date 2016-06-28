@@ -2,13 +2,14 @@
   "id": 303938925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.86736,36.097736,-95.86736,36.097736",
     "geom:latitude":36.097736,
     "geom:longitude":-95.86736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9918 E 45th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303938925,
-    "wof:lastmodified":1448999940,
+    "wof:lastmodified":1466767018,
     "wof:name":"First Paint & Supply",
     "wof:parent_id":85802911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-95.86736,36.097736,-95.86736,36.097736],
-  "geometry": {"coordinates":[-95.86736,36.097736],"type":"Point"}
+  "bbox": [
+    -95.86736,
+    36.097736,
+    -95.86736,
+    36.097736
+],
+  "geometry": {"coordinates":[-95.86736000000001,36.097736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303065391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.379791,35.478631,-97.379791,35.478631",
     "geom:latitude":35.478631,
     "geom:longitude":-97.379791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8421 NE 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303065391,
-    "wof:lastmodified":1449000537,
+    "wof:lastmodified":1466762673,
     "wof:name":"Mount Calvary Baptist Church",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.379791,35.478631,-97.379791,35.478631],
+  "bbox": [
+    -97.379791,
+    35.478631,
+    -97.379791,
+    35.478631
+],
   "geometry": {"coordinates":[-97.379791,35.478631],"type":"Point"}
 }

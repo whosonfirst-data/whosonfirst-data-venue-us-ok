@@ -2,13 +2,14 @@
   "id": 303535015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.538895,35.61838,-97.538895,35.61838",
     "geom:latitude":35.61838,
     "geom:longitude":-97.538895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14509 Lisa Ln",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303535015,
-    "wof:lastmodified":1448998559,
+    "wof:lastmodified":1466765978,
     "wof:name":"Js Const",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.538895,35.61838,-97.538895,35.61838],
+  "bbox": [
+    -97.538895,
+    35.61838,
+    -97.538895,
+    35.61838
+],
   "geometry": {"coordinates":[-97.538895,35.61838],"type":"Point"}
 }

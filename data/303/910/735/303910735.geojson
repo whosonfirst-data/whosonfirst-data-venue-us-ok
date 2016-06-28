@@ -2,13 +2,14 @@
   "id": 303910735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.314618,34.918126,-97.314618,34.918126",
     "geom:latitude":34.918126,
     "geom:longitude":-97.314618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Shannon St",
     "sg:city":"Wayne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303910735,
-    "wof:lastmodified":1448999141,
+    "wof:lastmodified":1466766990,
     "wof:name":"Wayne City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-97.314618,34.918126,-97.314618,34.918126],
+  "bbox": [
+    -97.314618,
+    34.918126,
+    -97.314618,
+    34.918126
+],
   "geometry": {"coordinates":[-97.314618,34.918126],"type":"Point"}
 }

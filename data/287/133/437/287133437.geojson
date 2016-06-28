@@ -2,13 +2,14 @@
   "id": 287133437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.482254,35.652112,-97.482254,35.652112",
     "geom:latitude":35.652112,
     "geom:longitude":-97.482254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 W 3rd St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":287133437,
-    "wof:lastmodified":1449001407,
+    "wof:lastmodified":1466763612,
     "wof:name":"Oklahoma Diesel Power",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-97.482254,35.652112,-97.482254,35.652112],
+  "bbox": [
+    -97.482254,
+    35.652112,
+    -97.482254,
+    35.652112
+],
   "geometry": {"coordinates":[-97.482254,35.652112],"type":"Point"}
 }

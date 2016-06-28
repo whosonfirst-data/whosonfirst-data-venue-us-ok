@@ -2,13 +2,14 @@
   "id": 303890089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.907012,35.924884,-95.907012,35.924884",
     "geom:latitude":35.924884,
     "geom:longitude":-95.907012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6321 E 164th St S",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303890089,
-    "wof:lastmodified":1448998648,
+    "wof:lastmodified":1466766930,
     "wof:name":"Radbus",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-95.907012,35.924884,-95.907012,35.924884],
-  "geometry": {"coordinates":[-95.907012,35.924884],"type":"Point"}
+  "bbox": [
+    -95.907012,
+    35.924884,
+    -95.907012,
+    35.924884
+],
+  "geometry": {"coordinates":[-95.90701199999999,35.924884],"type":"Point"}
 }

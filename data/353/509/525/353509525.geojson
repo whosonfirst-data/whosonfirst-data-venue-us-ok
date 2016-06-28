@@ -2,13 +2,14 @@
   "id": 353509525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.496107,35.877399,-97.496107,35.877399",
     "geom:latitude":35.877399,
     "geom:longitude":-97.496107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5818 Cimarron Manor",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353509525,
-    "wof:lastmodified":1449018344,
+    "wof:lastmodified":1466763267,
     "wof:name":"D & S Locators Inc",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "parts"
     ]
 },
-  "bbox": [-97.496107,35.877399,-97.496107,35.877399],
-  "geometry": {"coordinates":[-97.496107,35.877399],"type":"Point"}
+  "bbox": [
+    -97.496107,
+    35.877399,
+    -97.496107,
+    35.877399
+],
+  "geometry": {"coordinates":[-97.49610699999999,35.877399],"type":"Point"}
 }

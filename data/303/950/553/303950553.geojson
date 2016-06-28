@@ -2,13 +2,14 @@
   "id": 303950553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.364601,35.01002,-97.364601,35.01002",
     "geom:latitude":35.01002,
     "geom:longitude":-97.364601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Lester Ln",
     "sg:city":"Purcell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303950553,
-    "wof:lastmodified":1448999069,
+    "wof:lastmodified":1466767040,
     "wof:name":"Purcell Vision Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.364601,35.01002,-97.364601,35.01002],
-  "geometry": {"coordinates":[-97.364601,35.01002],"type":"Point"}
+  "bbox": [
+    -97.364601,
+    35.01002,
+    -97.364601,
+    35.01002
+],
+  "geometry": {"coordinates":[-97.36460099999999,35.01002],"type":"Point"}
 }

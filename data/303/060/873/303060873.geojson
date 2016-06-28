@@ -2,13 +2,14 @@
   "id": 303060873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.497405,35.682109,-97.497405,35.682109",
     "geom:latitude":35.682109,
     "geom:longitude":-97.497405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1271 W Covell Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303060873,
-    "wof:lastmodified":1449000340,
+    "wof:lastmodified":1466762596,
     "wof:name":"Cheyenne Middle School",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.497405,35.682109,-97.497405,35.682109],
+  "bbox": [
+    -97.497405,
+    35.682109,
+    -97.497405,
+    35.682109
+],
   "geometry": {"coordinates":[-97.497405,35.682109],"type":"Point"}
 }

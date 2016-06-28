@@ -2,13 +2,14 @@
   "id": 336888291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.953136,36.191684,-95.953136,36.191684",
     "geom:latitude":36.191684,
     "geom:longitude":-95.953136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 E Apache St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336888291,
-    "wof:lastmodified":1448997607,
+    "wof:lastmodified":1466765255,
     "wof:name":"Sandy's Maintenance Inc",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-95.953136,36.191684,-95.953136,36.191684],
+  "bbox": [
+    -95.953136,
+    36.191684,
+    -95.953136,
+    36.191684
+],
   "geometry": {"coordinates":[-95.953136,36.191684],"type":"Point"}
 }

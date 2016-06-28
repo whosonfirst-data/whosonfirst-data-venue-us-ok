@@ -2,13 +2,14 @@
   "id": 304008819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.53617,35.410168,-97.53617,35.410168",
     "geom:latitude":35.410168,
     "geom:longitude":-97.53617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1141 SW 55th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304008819,
-    "wof:lastmodified":1449043739,
+    "wof:lastmodified":1466762863,
     "wof:name":"Billie Hardin",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logistics"
     ]
 },
-  "bbox": [-97.53617,35.410168,-97.53617,35.410168],
+  "bbox": [
+    -97.53617,
+    35.410168,
+    -97.53617,
+    35.410168
+],
   "geometry": {"coordinates":[-97.53617,35.410168],"type":"Point"}
 }

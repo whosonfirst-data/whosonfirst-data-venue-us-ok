@@ -2,13 +2,14 @@
   "id": 303172067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.621401,34.226085,-95.621401,34.226085",
     "geom:latitude":34.226085,
     "geom:longitude":-95.621401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 SW C St",
     "sg:city":"Antlers",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303172067,
-    "wof:lastmodified":1448999102,
+    "wof:lastmodified":1466764300,
     "wof:name":"Antlers Paint & Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-95.621401,34.226085,-95.621401,34.226085],
-  "geometry": {"coordinates":[-95.621401,34.226085],"type":"Point"}
+  "bbox": [
+    -95.621401,
+    34.226085,
+    -95.621401,
+    34.226085
+],
+  "geometry": {"coordinates":[-95.62140100000001,34.226085],"type":"Point"}
 }

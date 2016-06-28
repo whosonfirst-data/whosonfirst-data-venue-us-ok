@@ -2,13 +2,14 @@
   "id": 354100459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.414161,35.421984,-99.414161,35.421984",
     "geom:latitude":35.421984,
     "geom:longitude":-99.414161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 W Country Club Blvd",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354100459,
-    "wof:lastmodified":1449067215,
+    "wof:lastmodified":1466763510,
     "wof:name":"Box B Horse Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-99.414161,35.421984,-99.414161,35.421984],
-  "geometry": {"coordinates":[-99.414161,35.421984],"type":"Point"}
+  "bbox": [
+    -99.414161,
+    35.421984,
+    -99.414161,
+    35.421984
+],
+  "geometry": {"coordinates":[-99.41416099999999,35.421984],"type":"Point"}
 }

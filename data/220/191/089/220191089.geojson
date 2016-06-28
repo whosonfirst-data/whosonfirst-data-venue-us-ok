@@ -2,13 +2,14 @@
   "id": 220191089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.038254,36.15529,-96.038254,36.15529",
     "geom:latitude":36.15529,
     "geom:longitude":-96.038254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 S 41st West Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220191089,
-    "wof:lastmodified":1449074520,
+    "wof:lastmodified":1466762414,
     "wof:name":"Christchurch Inc.",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.038254,36.15529,-96.038254,36.15529],
-  "geometry": {"coordinates":[-96.038254,36.15529],"type":"Point"}
+  "bbox": [
+    -96.038254,
+    36.15529,
+    -96.038254,
+    36.15529
+],
+  "geometry": {"coordinates":[-96.03825399999999,36.15529],"type":"Point"}
 }

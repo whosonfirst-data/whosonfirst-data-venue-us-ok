@@ -2,13 +2,14 @@
   "id": 336802639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.441372,35.370999,-97.441372,35.370999",
     "geom:latitude":35.370999,
     "geom:longitude":-97.441372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9125 S Sunnylane Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336802639,
-    "wof:lastmodified":1448997832,
+    "wof:lastmodified":1466764681,
     "wof:name":"Hesters Safety Tie",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.441372,35.370999,-97.441372,35.370999],
+  "bbox": [
+    -97.441372,
+    35.370999,
+    -97.441372,
+    35.370999
+],
   "geometry": {"coordinates":[-97.441372,35.370999],"type":"Point"}
 }

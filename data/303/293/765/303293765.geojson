@@ -2,13 +2,14 @@
   "id": 303293765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.52983,35.525038,-97.52983,35.525038",
     "geom:latitude":35.525038,
     "geom:longitude":-97.52983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5219 N Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303293765,
-    "wof:lastmodified":1448998595,
+    "wof:lastmodified":1466765026,
     "wof:name":"Antique Avenue Market",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-97.52983,35.525038,-97.52983,35.525038],
+  "bbox": [
+    -97.52983,
+    35.525038,
+    -97.52983,
+    35.525038
+],
   "geometry": {"coordinates":[-97.52983,35.525038],"type":"Point"}
 }

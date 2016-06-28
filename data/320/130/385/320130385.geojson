@@ -2,13 +2,14 @@
   "id": 320130385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.460096,35.218433,-97.460096,35.218433",
     "geom:latitude":35.218433,
     "geom:longitude":-97.460096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 W Main St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320130385,
-    "wof:lastmodified":1449012559,
+    "wof:lastmodified":1466764271,
     "wof:name":"John Farris",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-97.460096,35.218433,-97.460096,35.218433],
-  "geometry": {"coordinates":[-97.460096,35.218433],"type":"Point"}
+  "bbox": [
+    -97.460096,
+    35.218433,
+    -97.460096,
+    35.218433
+],
+  "geometry": {"coordinates":[-97.46009599999999,35.218433],"type":"Point"}
 }

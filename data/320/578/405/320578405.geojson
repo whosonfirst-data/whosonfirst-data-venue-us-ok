@@ -2,13 +2,14 @@
   "id": 320578405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.47177,35.740973,-97.47177,35.740973",
     "geom:latitude":35.740973,
     "geom:longitude":-97.47177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Dripping Springs Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320578405,
-    "wof:lastmodified":1449012205,
+    "wof:lastmodified":1466766152,
     "wof:name":"PM Marky McCoy",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "health"
     ]
 },
-  "bbox": [-97.47177,35.740973,-97.47177,35.740973],
-  "geometry": {"coordinates":[-97.47177,35.740973],"type":"Point"}
+  "bbox": [
+    -97.47177,
+    35.740973,
+    -97.47177,
+    35.740973
+],
+  "geometry": {"coordinates":[-97.47177000000001,35.740973],"type":"Point"}
 }

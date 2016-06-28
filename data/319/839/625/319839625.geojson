@@ -2,13 +2,14 @@
   "id": 319839625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.43425,35.230038,-97.43425,35.230038",
     "geom:latitude":35.230038,
     "geom:longitude":-97.43425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 N Cockrel Ave",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319839625,
-    "wof:lastmodified":1449024570,
+    "wof:lastmodified":1466763046,
     "wof:name":"Alligator Sales & Service Inc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.43425,35.230038,-97.43425,35.230038],
-  "geometry": {"coordinates":[-97.43425,35.230038],"type":"Point"}
+  "bbox": [
+    -97.43425,
+    35.230038,
+    -97.43425,
+    35.230038
+],
+  "geometry": {"coordinates":[-97.43425000000001,35.230038],"type":"Point"}
 }

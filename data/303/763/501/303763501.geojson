@@ -2,13 +2,14 @@
   "id": 303763501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.351751,35.476309,-98.351751,35.476309",
     "geom:latitude":35.476309,
     "geom:longitude":-98.351751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N Stanley Ave",
     "sg:city":"Hinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303763501,
-    "wof:lastmodified":1449000559,
+    "wof:lastmodified":1466766643,
     "wof:name":"Shirleys Traditions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.351751,35.476309,-98.351751,35.476309],
-  "geometry": {"coordinates":[-98.351751,35.476309],"type":"Point"}
+  "bbox": [
+    -98.351751,
+    35.476309,
+    -98.351751,
+    35.476309
+],
+  "geometry": {"coordinates":[-98.35175099999999,35.476309],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320644015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.988531,36.138084,-95.988531,36.138084",
     "geom:latitude":36.138084,
     "geom:longitude":-95.988531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 S Boulder Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320644015,
-    "wof:lastmodified":1449013393,
+    "wof:lastmodified":1466766260,
     "wof:name":"Tulsa Opera Inc",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "company"
     ]
 },
-  "bbox": [-95.988531,36.138084,-95.988531,36.138084],
-  "geometry": {"coordinates":[-95.988531,36.138084],"type":"Point"}
+  "bbox": [
+    -95.988531,
+    36.138084,
+    -95.988531,
+    36.138084
+],
+  "geometry": {"coordinates":[-95.98853099999999,36.138084],"type":"Point"}
 }

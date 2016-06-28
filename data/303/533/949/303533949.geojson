@@ -2,13 +2,14 @@
   "id": 303533949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.624806,36.307495,-95.624806,36.307495",
     "geom:latitude":36.307495,
     "geom:longitude":-95.624806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Archer Dr",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303533949,
-    "wof:lastmodified":1448998085,
+    "wof:lastmodified":1466765985,
     "wof:name":"Pat's Drive-In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.624806,36.307495,-95.624806,36.307495],
-  "geometry": {"coordinates":[-95.624806,36.307495],"type":"Point"}
+  "bbox": [
+    -95.624806,
+    36.307495,
+    -95.624806,
+    36.307495
+],
+  "geometry": {"coordinates":[-95.62480600000001,36.307495],"type":"Point"}
 }

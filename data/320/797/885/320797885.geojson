@@ -2,13 +2,14 @@
   "id": 320797885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.51739,35.540421,-97.51739,35.540421",
     "geom:latitude":35.540421,
     "geom:longitude":-97.51739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 NW 67th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320797885,
-    "wof:lastmodified":1449014592,
+    "wof:lastmodified":1466766836,
     "wof:name":"B & G Chemicals & Equipment Co",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.51739,35.540421,-97.51739,35.540421],
-  "geometry": {"coordinates":[-97.51739,35.540421],"type":"Point"}
+  "bbox": [
+    -97.51739,
+    35.540421,
+    -97.51739,
+    35.540421
+],
+  "geometry": {"coordinates":[-97.51739000000001,35.540421],"type":"Point"}
 }

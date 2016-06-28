@@ -2,13 +2,14 @@
   "id": 320287909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.388312,35.159141,-97.388312,35.159141",
     "geom:latitude":35.159141,
     "geom:longitude":-97.388312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 N 8th St",
     "sg:city":"Noble",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320287909,
-    "wof:lastmodified":1449011473,
+    "wof:lastmodified":1466765101,
     "wof:name":"Noble Health Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rest"
     ]
 },
-  "bbox": [-97.388312,35.159141,-97.388312,35.159141],
+  "bbox": [
+    -97.388312,
+    35.159141,
+    -97.388312,
+    35.159141
+],
   "geometry": {"coordinates":[-97.388312,35.159141],"type":"Point"}
 }

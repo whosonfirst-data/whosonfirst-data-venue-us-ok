@@ -2,13 +2,14 @@
   "id": 303755233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.337215,36.660675,-96.337215,36.660675",
     "geom:latitude":36.660675,
     "geom:longitude":-96.337215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E 4th St",
     "sg:city":"Pawhuska",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303755233,
-    "wof:lastmodified":1448998803,
+    "wof:lastmodified":1466766550,
     "wof:name":"Trace Well Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "well"
     ]
 },
-  "bbox": [-96.337215,36.660675,-96.337215,36.660675],
+  "bbox": [
+    -96.337215,
+    36.660675,
+    -96.337215,
+    36.660675
+],
   "geometry": {"coordinates":[-96.337215,36.660675],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220150293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.736148,36.190272,-95.736148,36.190272",
     "geom:latitude":36.190272,
     "geom:longitude":-95.736148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 N Highway 66",
     "sg:city":"Catoosa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220150293,
-    "wof:lastmodified":1449074074,
+    "wof:lastmodified":1466762279,
     "wof:name":"La Mansion Mexican Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-95.736148,36.190272,-95.736148,36.190272],
+  "bbox": [
+    -95.736148,
+    36.190272,
+    -95.736148,
+    36.190272
+],
   "geometry": {"coordinates":[-95.736148,36.190272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353867141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.306474,34.922049,-95.306474,34.922049",
     "geom:latitude":34.922049,
     "geom:longitude":-95.306474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 E Caddo Ave",
     "sg:city":"Wilburton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353867141,
-    "wof:lastmodified":1449019353,
+    "wof:lastmodified":1466765698,
     "wof:name":"Wilburton Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "storage"
     ]
 },
-  "bbox": [-95.306474,34.922049,-95.306474,34.922049],
-  "geometry": {"coordinates":[-95.306474,34.922049],"type":"Point"}
+  "bbox": [
+    -95.306474,
+    34.922049,
+    -95.306474,
+    34.922049
+],
+  "geometry": {"coordinates":[-95.30647399999999,34.922049],"type":"Point"}
 }

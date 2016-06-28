@@ -2,13 +2,14 @@
   "id": 320770843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.54322,36.383631,-95.54322,36.383631",
     "geom:latitude":36.383631,
     "geom:longitude":-95.54322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15601 S 4190 Rd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320770843,
-    "wof:lastmodified":1449015034,
+    "wof:lastmodified":1466766756,
     "wof:name":"John's Refuse Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "collection"
     ]
 },
-  "bbox": [-95.54322,36.383631,-95.54322,36.383631],
-  "geometry": {"coordinates":[-95.54322,36.383631],"type":"Point"}
+  "bbox": [
+    -95.54322,
+    36.383631,
+    -95.54322,
+    36.383631
+],
+  "geometry": {"coordinates":[-95.54322000000001,36.383631],"type":"Point"}
 }

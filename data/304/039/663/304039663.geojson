@@ -2,13 +2,14 @@
   "id": 304039663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.789693,36.049325,-95.789693,36.049325",
     "geom:latitude":36.049325,
     "geom:longitude":-95.789693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E el Paso St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304039663,
-    "wof:lastmodified":1449044089,
+    "wof:lastmodified":1466763043,
     "wof:name":"Back Yard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-95.789693,36.049325,-95.789693,36.049325],
+  "bbox": [
+    -95.789693,
+    36.049325,
+    -95.789693,
+    36.049325
+],
   "geometry": {"coordinates":[-95.789693,36.049325],"type":"Point"}
 }

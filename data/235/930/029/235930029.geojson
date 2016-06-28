@@ -2,13 +2,14 @@
   "id": 235930029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.819401,36.133415,-95.819401,36.133415",
     "geom:latitude":36.133415,
     "geom:longitude":-95.819401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14002 E 21st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":235930029,
-    "wof:lastmodified":1449008364,
+    "wof:lastmodified":1466762371,
     "wof:name":"Bona Kaffe",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "espresso"
     ]
 },
-  "bbox": [-95.819401,36.133415,-95.819401,36.133415],
+  "bbox": [
+    -95.819401,
+    36.133415,
+    -95.819401,
+    36.133415
+],
   "geometry": {"coordinates":[-95.819401,36.133415],"type":"Point"}
 }

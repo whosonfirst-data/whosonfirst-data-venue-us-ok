@@ -2,13 +2,14 @@
   "id": 353660223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.930524,36.530152,-95.930524,36.530152",
     "geom:latitude":36.530152,
     "geom:longitude":-95.930524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Keeler St",
     "sg:city":"Ramona",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353660223,
-    "wof:lastmodified":1449020537,
+    "wof:lastmodified":1466764587,
     "wof:name":"Custom Cruises of Tulsa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-95.930524,36.530152,-95.930524,36.530152],
-  "geometry": {"coordinates":[-95.930524,36.530152],"type":"Point"}
+  "bbox": [
+    -95.930524,
+    36.530152,
+    -95.930524,
+    36.530152
+],
+  "geometry": {"coordinates":[-95.93052400000001,36.530152],"type":"Point"}
 }

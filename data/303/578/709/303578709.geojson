@@ -2,13 +2,14 @@
   "id": 303578709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.673483,35.557189,-97.673483,35.557189",
     "geom:latitude":35.557189,
     "geom:longitude":-97.673483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8517 Curtis Ter",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303578709,
-    "wof:lastmodified":1448998728,
+    "wof:lastmodified":1466766143,
     "wof:name":"Mike Milligan",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.673483,35.557189,-97.673483,35.557189],
+  "bbox": [
+    -97.673483,
+    35.557189,
+    -97.673483,
+    35.557189
+],
   "geometry": {"coordinates":[-97.673483,35.557189],"type":"Point"}
 }

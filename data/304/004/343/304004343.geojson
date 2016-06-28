@@ -2,13 +2,14 @@
   "id": 304004343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.837725,36.040161,-95.837725,36.040161",
     "geom:latitude":36.040161,
     "geom:longitude":-95.837725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 S Umbrella Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304004343,
-    "wof:lastmodified":1449043778,
+    "wof:lastmodified":1466762839,
     "wof:name":"Marcy Moore",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.837725,36.040161,-95.837725,36.040161],
-  "geometry": {"coordinates":[-95.837725,36.040161],"type":"Point"}
+  "bbox": [
+    -95.837725,
+    36.040161,
+    -95.837725,
+    36.040161
+],
+  "geometry": {"coordinates":[-95.83772500000001,36.040161],"type":"Point"}
 }

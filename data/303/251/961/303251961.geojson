@@ -2,13 +2,14 @@
   "id": 303251961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.689576,35.483213,-96.689576,35.483213",
     "geom:latitude":35.483213,
     "geom:longitude":-96.689576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Babek St",
     "sg:city":"Prague",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303251961,
-    "wof:lastmodified":1448998165,
+    "wof:lastmodified":1466764723,
     "wof:name":"Prague Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-96.689576,35.483213,-96.689576,35.483213],
+  "bbox": [
+    -96.689576,
+    35.483213,
+    -96.689576,
+    35.483213
+],
   "geometry": {"coordinates":[-96.689576,35.483213],"type":"Point"}
 }

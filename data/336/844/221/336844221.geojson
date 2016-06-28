@@ -2,13 +2,14 @@
   "id": 336844221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.463956,36.308863,-96.463956,36.308863",
     "geom:latitude":36.308863,
     "geom:longitude":-96.463956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Broadway St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336844221,
-    "wof:lastmodified":1448997403,
+    "wof:lastmodified":1466764790,
     "wof:name":"Classic Country Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-96.463956,36.308863,-96.463956,36.308863],
+  "bbox": [
+    -96.463956,
+    36.308863,
+    -96.463956,
+    36.308863
+],
   "geometry": {"coordinates":[-96.463956,36.308863],"type":"Point"}
 }

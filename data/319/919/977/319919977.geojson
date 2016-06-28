@@ -2,13 +2,14 @@
   "id": 319919977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.42557,34.631159,-98.42557,34.631159",
     "geom:latitude":34.631159,
     "geom:longitude":-98.42557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 NW Lincoln Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319919977,
-    "wof:lastmodified":1449024696,
+    "wof:lastmodified":1466763832,
     "wof:name":"Teresa Boyd",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.42557,34.631159,-98.42557,34.631159],
-  "geometry": {"coordinates":[-98.42557,34.631159],"type":"Point"}
+  "bbox": [
+    -98.42557,
+    34.631159,
+    -98.42557,
+    34.631159
+],
+  "geometry": {"coordinates":[-98.42556999999999,34.631159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303236671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.529603,35.48247,-97.529603,35.48247",
     "geom:latitude":35.48247,
     "geom:longitude":-97.529603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 NW 13th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303236671,
-    "wof:lastmodified":1448998380,
+    "wof:lastmodified":1466764508,
     "wof:name":"Jay R Bond",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.529603,35.48247,-97.529603,35.48247],
-  "geometry": {"coordinates":[-97.529603,35.48247],"type":"Point"}
+  "bbox": [
+    -97.529603,
+    35.48247,
+    -97.529603,
+    35.48247
+],
+  "geometry": {"coordinates":[-97.52960299999999,35.48247],"type":"Point"}
 }

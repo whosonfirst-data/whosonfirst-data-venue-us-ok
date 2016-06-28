@@ -2,13 +2,14 @@
   "id": 320600423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.54771,35.51823,-97.54771,35.51823",
     "geom:latitude":35.51823,
     "geom:longitude":-97.54771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4511 N Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320600423,
-    "wof:lastmodified":1449011576,
+    "wof:lastmodified":1466766171,
     "wof:name":"Allstate Painting & Pressure",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-97.54771,35.51823,-97.54771,35.51823],
+  "bbox": [
+    -97.54771,
+    35.51823,
+    -97.54771,
+    35.51823
+],
   "geometry": {"coordinates":[-97.54771,35.51823],"type":"Point"}
 }

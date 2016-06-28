@@ -2,13 +2,14 @@
   "id": 303932347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.802979,36.17706,-95.802979,36.17706",
     "geom:latitude":36.17706,
     "geom:longitude":-95.802979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15500 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303932347,
-    "wof:lastmodified":1448999025,
+    "wof:lastmodified":1466767095,
     "wof:name":"Airmark Surfacing Tools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.802979,36.17706,-95.802979,36.17706],
-  "geometry": {"coordinates":[-95.802979,36.17706],"type":"Point"}
+  "bbox": [
+    -95.802979,
+    36.17706,
+    -95.802979,
+    36.17706
+],
+  "geometry": {"coordinates":[-95.80297899999999,36.17706],"type":"Point"}
 }

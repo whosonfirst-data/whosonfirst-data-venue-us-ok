@@ -2,13 +2,14 @@
   "id": 303788229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.810457,36.054261,-95.810457,36.054261",
     "geom:latitude":36.054261,
     "geom:longitude":-95.810457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 W Detroit St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303788229,
-    "wof:lastmodified":1448999382,
+    "wof:lastmodified":1466766706,
     "wof:name":"Penny Sheet Metal",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.810457,36.054261,-95.810457,36.054261],
+  "bbox": [
+    -95.810457,
+    36.054261,
+    -95.810457,
+    36.054261
+],
   "geometry": {"coordinates":[-95.810457,36.054261],"type":"Point"}
 }

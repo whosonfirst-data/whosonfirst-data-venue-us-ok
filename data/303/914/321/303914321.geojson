@@ -2,13 +2,14 @@
   "id": 303914321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.441217,36.539183,-95.441217,36.539183",
     "geom:latitude":36.539183,
     "geom:longitude":-95.441217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 W 6th St",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303914321,
-    "wof:lastmodified":1448999051,
+    "wof:lastmodified":1466766995,
     "wof:name":"Chelsea Boat & Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-95.441217,36.539183,-95.441217,36.539183],
-  "geometry": {"coordinates":[-95.441217,36.539183],"type":"Point"}
+  "bbox": [
+    -95.441217,
+    36.539183,
+    -95.441217,
+    36.539183
+],
+  "geometry": {"coordinates":[-95.44121699999999,36.539183],"type":"Point"}
 }

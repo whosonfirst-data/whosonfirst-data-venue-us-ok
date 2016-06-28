@@ -2,13 +2,14 @@
   "id": 320414757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.632431,36.319444,-95.632431,36.319444",
     "geom:latitude":36.319444,
     "geom:longitude":-95.632431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 W Will Rogers Blvd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320414757,
-    "wof:lastmodified":1449013003,
+    "wof:lastmodified":1466765685,
     "wof:name":"Will Rogers Memorial Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.632431,36.319444,-95.632431,36.319444],
+  "bbox": [
+    -95.632431,
+    36.319444,
+    -95.632431,
+    36.319444
+],
   "geometry": {"coordinates":[-95.632431,36.319444],"type":"Point"}
 }

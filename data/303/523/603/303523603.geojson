@@ -2,13 +2,14 @@
   "id": 303523603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.974875,35.522474,-97.974875,35.522474",
     "geom:latitude":35.522474,
     "geom:longitude":-97.974875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 W Elm St",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303523603,
-    "wof:lastmodified":1448999532,
+    "wof:lastmodified":1466765940,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.974875,35.522474,-97.974875,35.522474],
+  "bbox": [
+    -97.974875,
+    35.522474,
+    -97.974875,
+    35.522474
+],
   "geometry": {"coordinates":[-97.974875,35.522474],"type":"Point"}
 }

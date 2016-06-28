@@ -2,13 +2,14 @@
   "id": 303626969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.415214,34.594259,-98.415214,34.594259",
     "geom:latitude":34.594259,
     "geom:longitude":-98.415214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1714 SW Lee Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303626969,
-    "wof:lastmodified":1449000567,
+    "wof:lastmodified":1466766290,
     "wof:name":"Willies Auto Sales & Rentals",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "passenger"
     ]
 },
-  "bbox": [-98.415214,34.594259,-98.415214,34.594259],
-  "geometry": {"coordinates":[-98.415214,34.594259],"type":"Point"}
+  "bbox": [
+    -98.415214,
+    34.594259,
+    -98.415214,
+    34.594259
+],
+  "geometry": {"coordinates":[-98.41521400000001,34.594259],"type":"Point"}
 }

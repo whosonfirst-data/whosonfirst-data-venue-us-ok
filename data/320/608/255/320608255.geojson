@@ -2,13 +2,14 @@
   "id": 320608255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.890166,36.434546,-97.890166,36.434546",
     "geom:latitude":36.434546,
     "geom:longitude":-97.890166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 W Purdue Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320608255,
-    "wof:lastmodified":1449012856,
+    "wof:lastmodified":1466766395,
     "wof:name":"L & L Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.890166,36.434546,-97.890166,36.434546],
-  "geometry": {"coordinates":[-97.890166,36.434546],"type":"Point"}
+  "bbox": [
+    -97.890166,
+    36.434546,
+    -97.890166,
+    36.434546
+],
+  "geometry": {"coordinates":[-97.89016599999999,36.434546],"type":"Point"}
 }

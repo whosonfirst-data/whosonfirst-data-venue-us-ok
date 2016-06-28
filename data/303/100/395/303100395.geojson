@@ -2,13 +2,14 @@
   "id": 303100395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.519588,35.466483,-97.519588,35.466483",
     "geom:latitude":35.466483,
     "geom:longitude":-97.519588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Sheridan Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303100395,
-    "wof:lastmodified":1448999931,
+    "wof:lastmodified":1466763243,
     "wof:name":"Republic Parking System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-97.519588,35.466483,-97.519588,35.466483],
+  "bbox": [
+    -97.519588,
+    35.466483,
+    -97.519588,
+    35.466483
+],
   "geometry": {"coordinates":[-97.519588,35.466483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336766715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.540635,35.618446,-97.540635,35.618446",
     "geom:latitude":35.618446,
     "geom:longitude":-97.540635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14501 Lamplight Ln",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336766715,
-    "wof:lastmodified":1448996908,
+    "wof:lastmodified":1466764405,
     "wof:name":"Guiding Light Enterprises LLC",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [-97.540635,35.618446,-97.540635,35.618446],
-  "geometry": {"coordinates":[-97.540635,35.618446],"type":"Point"}
+  "bbox": [
+    -97.540635,
+    35.618446,
+    -97.540635,
+    35.618446
+],
+  "geometry": {"coordinates":[-97.54063499999999,35.618446],"type":"Point"}
 }

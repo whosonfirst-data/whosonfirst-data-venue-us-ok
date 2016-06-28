@@ -2,13 +2,14 @@
   "id": 353984547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.123585,36.107698,-97.123585,36.107698",
     "geom:latitude":36.107698,
     "geom:longitude":-97.123585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4812 Country Club Ct",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353984547,
-    "wof:lastmodified":1449019702,
+    "wof:lastmodified":1466765928,
     "wof:name":"Hair Port",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.123585,36.107698,-97.123585,36.107698],
-  "geometry": {"coordinates":[-97.123585,36.107698],"type":"Point"}
+  "bbox": [
+    -97.123585,
+    36.107698,
+    -97.123585,
+    36.107698
+],
+  "geometry": {"coordinates":[-97.12358500000001,36.107698],"type":"Point"}
 }

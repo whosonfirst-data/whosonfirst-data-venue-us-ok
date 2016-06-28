@@ -2,13 +2,14 @@
   "id": 336800723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.891136,36.031794,-95.891136,36.031794",
     "geom:latitude":36.031794,
     "geom:longitude":-95.891136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7316 E 91st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336800723,
-    "wof:lastmodified":1448997013,
+    "wof:lastmodified":1466764671,
     "wof:name":"Tulsa Surgical Arts",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.891136,36.031794,-95.891136,36.031794],
+  "bbox": [
+    -95.891136,
+    36.031794,
+    -95.891136,
+    36.031794
+],
   "geometry": {"coordinates":[-95.891136,36.031794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320401639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.522871,35.499417,-97.522871,35.499417",
     "geom:latitude":35.499417,
     "geom:longitude":-97.522871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2927 Paseo St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":320401639,
-    "wof:lastmodified":1449014423,
+    "wof:lastmodified":1466765616,
     "wof:name":"Robison & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-97.522871,35.499417,-97.522871,35.499417],
-  "geometry": {"coordinates":[-97.522871,35.499417],"type":"Point"}
+  "bbox": [
+    -97.522871,
+    35.499417,
+    -97.522871,
+    35.499417
+],
+  "geometry": {"coordinates":[-97.52287099999999,35.499417],"type":"Point"}
 }

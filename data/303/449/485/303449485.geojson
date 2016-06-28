@@ -2,13 +2,14 @@
   "id": 303449485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.777413,35.550141,-97.777413,35.550141",
     "geom:latitude":35.550141,
     "geom:longitude":-97.777413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7801 N Frisco Rd",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303449485,
-    "wof:lastmodified":1449000387,
+    "wof:lastmodified":1466765657,
     "wof:name":"Twin Pine Boarding Stables",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-97.777413,35.550141,-97.777413,35.550141],
+  "bbox": [
+    -97.777413,
+    35.550141,
+    -97.777413,
+    35.550141
+],
   "geometry": {"coordinates":[-97.777413,35.550141],"type":"Point"}
 }

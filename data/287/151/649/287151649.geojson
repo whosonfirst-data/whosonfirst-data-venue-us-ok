@@ -2,13 +2,14 @@
   "id": 287151649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534348,35.442539,-97.534348,35.442539",
     "geom:latitude":35.442539,
     "geom:longitude":-97.534348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 SW 22nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287151649,
-    "wof:lastmodified":1449000671,
+    "wof:lastmodified":1466763686,
     "wof:name":"State Wide Electric Inc",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.534348,35.442539,-97.534348,35.442539],
-  "geometry": {"coordinates":[-97.534348,35.442539],"type":"Point"}
+  "bbox": [
+    -97.534348,
+    35.442539,
+    -97.534348,
+    35.442539
+],
+  "geometry": {"coordinates":[-97.53434799999999,35.442539],"type":"Point"}
 }

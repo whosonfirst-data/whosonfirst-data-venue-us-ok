@@ -2,13 +2,14 @@
   "id": 320489979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.752051,35.506719,-97.752051,35.506719",
     "geom:latitude":35.506719,
     "geom:longitude":-97.752051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Elm Ave",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320489979,
-    "wof:lastmodified":1449013310,
+    "wof:lastmodified":1466765949,
     "wof:name":"Yukon Chamber Of Commerce",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commerce"
     ]
 },
-  "bbox": [-97.752051,35.506719,-97.752051,35.506719],
-  "geometry": {"coordinates":[-97.752051,35.506719],"type":"Point"}
+  "bbox": [
+    -97.752051,
+    35.506719,
+    -97.752051,
+    35.506719
+],
+  "geometry": {"coordinates":[-97.75205099999999,35.506719],"type":"Point"}
 }

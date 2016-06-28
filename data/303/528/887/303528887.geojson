@@ -2,13 +2,14 @@
   "id": 303528887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.431277,34.623352,-98.431277,34.623352",
     "geom:latitude":34.623352,
     "geom:longitude":-98.431277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3132 NW Cache Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303528887,
-    "wof:lastmodified":1448998767,
+    "wof:lastmodified":1466765962,
     "wof:name":"Cells-U-More",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-98.431277,34.623352,-98.431277,34.623352],
-  "geometry": {"coordinates":[-98.431277,34.623352],"type":"Point"}
+  "bbox": [
+    -98.431277,
+    34.623352,
+    -98.431277,
+    34.623352
+],
+  "geometry": {"coordinates":[-98.43127699999999,34.623352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235937023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.949234,36.020341,-95.949234,36.020341",
     "geom:latitude":36.020341,
     "geom:longitude":-95.949234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9936 Riverside Pkwy",
     "sg:city":"Tulsa",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235937023,
-    "wof:lastmodified":1449008325,
+    "wof:lastmodified":1466762428,
     "wof:name":"Tulsa Hair Company",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.949234,36.020341,-95.949234,36.020341],
+  "bbox": [
+    -95.949234,
+    36.020341,
+    -95.949234,
+    36.020341
+],
   "geometry": {"coordinates":[-95.949234,36.020341],"type":"Point"}
 }

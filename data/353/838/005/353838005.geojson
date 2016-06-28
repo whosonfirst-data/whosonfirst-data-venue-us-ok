@@ -2,13 +2,14 @@
   "id": 353838005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.954743,34.782711,-97.954743,34.782711",
     "geom:latitude":34.782711,
     "geom:longitude":-97.954743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Blakeley Ave",
     "sg:city":"Rush Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353838005,
-    "wof:lastmodified":1449018560,
+    "wof:lastmodified":1466765567,
     "wof:name":"Merrick Petfoods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.954743,34.782711,-97.954743,34.782711],
-  "geometry": {"coordinates":[-97.954743,34.782711],"type":"Point"}
+  "bbox": [
+    -97.954743,
+    34.782711,
+    -97.954743,
+    34.782711
+],
+  "geometry": {"coordinates":[-97.95474299999999,34.782711],"type":"Point"}
 }

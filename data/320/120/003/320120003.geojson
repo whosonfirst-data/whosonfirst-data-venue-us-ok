@@ -2,13 +2,14 @@
   "id": 320120003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.09651,35.994068,-96.09651,35.994068",
     "geom:latitude":35.994068,
     "geom:longitude":-96.09651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 S Adams St",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320120003,
-    "wof:lastmodified":1449014441,
+    "wof:lastmodified":1466764089,
     "wof:name":"Ovations Dance Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-96.09651,35.994068,-96.09651,35.994068],
-  "geometry": {"coordinates":[-96.09651,35.994068],"type":"Point"}
+  "bbox": [
+    -96.09651,
+    35.994068,
+    -96.09651,
+    35.994068
+],
+  "geometry": {"coordinates":[-96.09650999999999,35.994068],"type":"Point"}
 }

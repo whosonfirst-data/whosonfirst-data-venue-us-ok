@@ -2,13 +2,14 @@
   "id": 320746741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.602643,34.834435,-97.602643,34.834435",
     "geom:latitude":34.834435,
     "geom:longitude":-97.602643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 S Main St",
     "sg:city":"Lindsay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320746741,
-    "wof:lastmodified":1449011225,
+    "wof:lastmodified":1466766683,
     "wof:name":"New Heights Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.602643,34.834435,-97.602643,34.834435],
+  "bbox": [
+    -97.602643,
+    34.834435,
+    -97.602643,
+    34.834435
+],
   "geometry": {"coordinates":[-97.602643,34.834435],"type":"Point"}
 }

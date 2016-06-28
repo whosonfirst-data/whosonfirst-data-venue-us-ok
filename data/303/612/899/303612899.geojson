@@ -2,13 +2,14 @@
   "id": 303612899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.942949,36.181944,-95.942949,36.181944",
     "geom:latitude":36.181944,
     "geom:longitude":-95.942949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 E Tecumseh St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303612899,
-    "wof:lastmodified":1448999201,
+    "wof:lastmodified":1466766248,
     "wof:name":"New Birth Tabernacle",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.942949,36.181944,-95.942949,36.181944],
+  "bbox": [
+    -95.942949,
+    36.181944,
+    -95.942949,
+    36.181944
+],
   "geometry": {"coordinates":[-95.942949,36.181944],"type":"Point"}
 }

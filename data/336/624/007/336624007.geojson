@@ -2,13 +2,14 @@
   "id": 336624007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.52675,35.533984,-97.52675,35.533984",
     "geom:latitude":35.533984,
     "geom:longitude":-97.52675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336624007,
-    "wof:lastmodified":1448997666,
+    "wof:lastmodified":1466762560,
     "wof:name":"Rooney Family Management LLC",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.52675,35.533984,-97.52675,35.533984],
-  "geometry": {"coordinates":[-97.52675,35.533984],"type":"Point"}
+  "bbox": [
+    -97.52675,
+    35.533984,
+    -97.52675,
+    35.533984
+],
+  "geometry": {"coordinates":[-97.52675000000001,35.533984],"type":"Point"}
 }

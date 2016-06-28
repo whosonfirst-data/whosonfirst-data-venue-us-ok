@@ -2,13 +2,14 @@
   "id": 303217017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.882986,36.096551,-95.882986,36.096551",
     "geom:latitude":36.096551,
     "geom:longitude":-95.882986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4747 S 83rd East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303217017,
-    "wof:lastmodified":1449000418,
+    "wof:lastmodified":1466764528,
     "wof:name":"Gardner Denver Pump Div",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pumping"
     ]
 },
-  "bbox": [-95.882986,36.096551,-95.882986,36.096551],
+  "bbox": [
+    -95.882986,
+    36.096551,
+    -95.882986,
+    36.096551
+],
   "geometry": {"coordinates":[-95.882986,36.096551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303475301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530031,35.390166,-97.530031,35.390166",
     "geom:latitude":35.390166,
     "geom:longitude":-97.530031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7700 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303475301,
-    "wof:lastmodified":1448999134,
+    "wof:lastmodified":1466765746,
     "wof:name":"Walter E Suttle",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.530031,35.390166,-97.530031,35.390166],
-  "geometry": {"coordinates":[-97.530031,35.390166],"type":"Point"}
+  "bbox": [
+    -97.530031,
+    35.390166,
+    -97.530031,
+    35.390166
+],
+  "geometry": {"coordinates":[-97.53003099999999,35.390166],"type":"Point"}
 }

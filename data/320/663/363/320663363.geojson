@@ -2,13 +2,14 @@
   "id": 320663363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.374215,35.956498,-95.374215,35.956498",
     "geom:latitude":35.956498,
     "geom:longitude":-95.374215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 SE 3rd St",
     "sg:city":"Wagoner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320663363,
-    "wof:lastmodified":1449014004,
+    "wof:lastmodified":1466766435,
     "wof:name":"Wagoner City Inventory Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-95.374215,35.956498,-95.374215,35.956498],
-  "geometry": {"coordinates":[-95.374215,35.956498],"type":"Point"}
+  "bbox": [
+    -95.374215,
+    35.956498,
+    -95.374215,
+    35.956498
+],
+  "geometry": {"coordinates":[-95.37421500000001,35.956498],"type":"Point"}
 }

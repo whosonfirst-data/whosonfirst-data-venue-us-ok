@@ -2,13 +2,14 @@
   "id": 303407591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.685501,35.594984,-97.685501,35.594984",
     "geom:latitude":35.594984,
     "geom:longitude":-97.685501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9425 NW 122nd St",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303407591,
-    "wof:lastmodified":1448999478,
+    "wof:lastmodified":1466765533,
     "wof:name":"Heidi Boggs",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.685501,35.594984,-97.685501,35.594984],
+  "bbox": [
+    -97.685501,
+    35.594984,
+    -97.685501,
+    35.594984
+],
   "geometry": {"coordinates":[-97.685501,35.594984],"type":"Point"}
 }

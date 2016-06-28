@@ -2,13 +2,14 @@
   "id": 320130039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749732,35.493382,-97.749732,35.493382",
     "geom:latitude":35.493382,
     "geom:longitude":-97.749732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 W Vandament Ave",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320130039,
-    "wof:lastmodified":1449012559,
+    "wof:lastmodified":1466764190,
     "wof:name":"Yukon Chiropractic Clinic",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-97.749732,35.493382,-97.749732,35.493382],
-  "geometry": {"coordinates":[-97.749732,35.493382],"type":"Point"}
+  "bbox": [
+    -97.749732,
+    35.493382,
+    -97.749732,
+    35.493382
+],
+  "geometry": {"coordinates":[-97.74973199999999,35.493382],"type":"Point"}
 }

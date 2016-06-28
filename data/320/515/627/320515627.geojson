@@ -2,13 +2,14 @@
   "id": 320515627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.638321,35.564679,-97.638321,35.564679",
     "geom:latitude":35.564679,
     "geom:longitude":-97.638321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9212 N Rockwell Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320515627,
-    "wof:lastmodified":1449012132,
+    "wof:lastmodified":1466766091,
     "wof:name":"Smith & Assoc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-97.638321,35.564679,-97.638321,35.564679],
+  "bbox": [
+    -97.638321,
+    35.564679,
+    -97.638321,
+    35.564679
+],
   "geometry": {"coordinates":[-97.638321,35.564679],"type":"Point"}
 }

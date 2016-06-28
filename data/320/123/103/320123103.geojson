@@ -2,13 +2,14 @@
   "id": 320123103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.97939,36.101128,-95.97939,36.101128",
     "geom:latitude":36.101128,
     "geom:longitude":-95.97939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4224 S Madison Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320123103,
-    "wof:lastmodified":1449012382,
+    "wof:lastmodified":1466764139,
     "wof:name":"Victorias Private Collection",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.97939,36.101128,-95.97939,36.101128],
+  "bbox": [
+    -95.97939,
+    36.101128,
+    -95.97939,
+    36.101128
+],
   "geometry": {"coordinates":[-95.97939,36.101128],"type":"Point"}
 }

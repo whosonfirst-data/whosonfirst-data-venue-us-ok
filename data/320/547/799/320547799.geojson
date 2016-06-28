@@ -2,13 +2,14 @@
   "id": 320547799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.456888,36.524816,-95.456888,36.524816",
     "geom:latitude":36.524816,
     "geom:longitude":-95.456888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20555 E 340 Rd",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320547799,
-    "wof:lastmodified":1449011625,
+    "wof:lastmodified":1466766178,
     "wof:name":"Phillips Plant Farm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-95.456888,36.524816,-95.456888,36.524816],
-  "geometry": {"coordinates":[-95.456888,36.524816],"type":"Point"}
+  "bbox": [
+    -95.456888,
+    36.524816,
+    -95.456888,
+    36.524816
+],
+  "geometry": {"coordinates":[-95.45688800000001,36.524816],"type":"Point"}
 }

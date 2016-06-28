@@ -2,13 +2,14 @@
   "id": 304066803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479804,36.269974,-98.479804,36.269974",
     "geom:latitude":36.269974,
     "geom:longitude":-98.479804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N Main St",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304066803,
-    "wof:lastmodified":1449043733,
+    "wof:lastmodified":1466763210,
     "wof:name":"Artistic Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-98.479804,36.269974,-98.479804,36.269974],
+  "bbox": [
+    -98.479804,
+    36.269974,
+    -98.479804,
+    36.269974
+],
   "geometry": {"coordinates":[-98.479804,36.269974],"type":"Point"}
 }

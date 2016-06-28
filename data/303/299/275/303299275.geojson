@@ -2,13 +2,14 @@
   "id": 303299275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.481642,36.682974,-101.481642,36.682974",
     "geom:latitude":36.682974,
     "geom:longitude":-101.481642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 N Main St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303299275,
-    "wof:lastmodified":1448998732,
+    "wof:lastmodified":1466764938,
     "wof:name":"Video-Mex Almedia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "tape"
     ]
 },
-  "bbox": [-101.481642,36.682974,-101.481642,36.682974],
-  "geometry": {"coordinates":[-101.481642,36.682974],"type":"Point"}
+  "bbox": [
+    -101.481642,
+    36.682974,
+    -101.481642,
+    36.682974
+],
+  "geometry": {"coordinates":[-101.48164199999999,36.682974],"type":"Point"}
 }

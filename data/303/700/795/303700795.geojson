@@ -2,13 +2,14 @@
   "id": 303700795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.376857,33.993123,-96.376857,33.993123",
     "geom:latitude":33.993123,
     "geom:longitude":-96.376857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 N 2nd Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303700795,
-    "wof:lastmodified":1449000353,
+    "wof:lastmodified":1466766491,
     "wof:name":"Hollow Tree",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.376857,33.993123,-96.376857,33.993123],
+  "bbox": [
+    -96.376857,
+    33.993123,
+    -96.376857,
+    33.993123
+],
   "geometry": {"coordinates":[-96.376857,33.993123],"type":"Point"}
 }

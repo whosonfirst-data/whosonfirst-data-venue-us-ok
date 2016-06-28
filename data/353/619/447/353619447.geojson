@@ -2,13 +2,14 @@
   "id": 353619447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.88657,36.137353,-95.88657,36.137353",
     "geom:latitude":36.137353,
     "geom:longitude":-95.88657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 S Memorial Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353619447,
-    "wof:lastmodified":1449018701,
+    "wof:lastmodified":1466764393,
     "wof:name":"Miscelaneas Petra",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-95.88657,36.137353,-95.88657,36.137353],
-  "geometry": {"coordinates":[-95.88657,36.137353],"type":"Point"}
+  "bbox": [
+    -95.88657,
+    36.137353,
+    -95.88657,
+    36.137353
+],
+  "geometry": {"coordinates":[-95.88657000000001,36.137353],"type":"Point"}
 }

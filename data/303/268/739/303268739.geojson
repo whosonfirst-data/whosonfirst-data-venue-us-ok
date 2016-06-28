@@ -2,13 +2,14 @@
   "id": 303268739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.884104,36.361945,-95.884104,36.361945",
     "geom:latitude":36.361945,
     "geom:longitude":-95.884104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14595 N Memorial Dr",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303268739,
-    "wof:lastmodified":1448999514,
+    "wof:lastmodified":1466764800,
     "wof:name":"J R's Small Engine Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mower"
     ]
 },
-  "bbox": [-95.884104,36.361945,-95.884104,36.361945],
-  "geometry": {"coordinates":[-95.884104,36.361945],"type":"Point"}
+  "bbox": [
+    -95.884104,
+    36.361945,
+    -95.884104,
+    36.361945
+],
+  "geometry": {"coordinates":[-95.88410399999999,36.361945],"type":"Point"}
 }

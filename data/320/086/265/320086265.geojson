@@ -2,13 +2,14 @@
   "id": 320086265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.553386,35.507635,-97.553386,35.507635",
     "geom:latitude":35.507635,
     "geom:longitude":-97.553386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2348 NW 36th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320086265,
-    "wof:lastmodified":1449013774,
+    "wof:lastmodified":1466763555,
     "wof:name":"Spiritualist Church",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.553386,35.507635,-97.553386,35.507635],
+  "bbox": [
+    -97.553386,
+    35.507635,
+    -97.553386,
+    35.507635
+],
   "geometry": {"coordinates":[-97.553386,35.507635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303039431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.009373,36.113745,-96.009373,36.113745",
     "geom:latitude":36.113745,
     "geom:longitude":-96.009373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3343 Southwest Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303039431,
-    "wof:lastmodified":1449000259,
+    "wof:lastmodified":1466764168,
     "wof:name":"Boyd Plumbing Co",
     "wof:parent_id":85821015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.009373,36.113745,-96.009373,36.113745],
+  "bbox": [
+    -96.009373,
+    36.113745,
+    -96.009373,
+    36.113745
+],
   "geometry": {"coordinates":[-96.009373,36.113745],"type":"Point"}
 }

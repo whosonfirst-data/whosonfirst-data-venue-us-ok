@@ -2,13 +2,14 @@
   "id": 303869969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.477829,35.227039,-97.477829,35.227039",
     "geom:latitude":35.227039,
     "geom:longitude":-97.477829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 24th Ave NW",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303869969,
-    "wof:lastmodified":1449000370,
+    "wof:lastmodified":1466766903,
     "wof:name":"Norman Regional Hospital Urgnt",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-97.477829,35.227039,-97.477829,35.227039],
+  "bbox": [
+    -97.477829,
+    35.227039,
+    -97.477829,
+    35.227039
+],
   "geometry": {"coordinates":[-97.477829,35.227039],"type":"Point"}
 }

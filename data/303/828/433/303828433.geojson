@@ -2,13 +2,14 @@
   "id": 303828433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.865226,36.096654,-95.865226,36.096654",
     "geom:latitude":36.096654,
     "geom:longitude":-95.865226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9726 E 46th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303828433,
-    "wof:lastmodified":1448999356,
+    "wof:lastmodified":1466766652,
     "wof:name":"Integrated Tower Systems",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-95.865226,36.096654,-95.865226,36.096654],
-  "geometry": {"coordinates":[-95.865226,36.096654],"type":"Point"}
+  "bbox": [
+    -95.865226,
+    36.096654,
+    -95.865226,
+    36.096654
+],
+  "geometry": {"coordinates":[-95.86522600000001,36.096654],"type":"Point"}
 }

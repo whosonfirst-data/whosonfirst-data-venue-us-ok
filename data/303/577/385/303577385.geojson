@@ -2,13 +2,14 @@
   "id": 303577385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.184338,35.494096,-98.184338,35.494096",
     "geom:latitude":35.494096,
     "geom:longitude":-98.184338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4205 S Cedar Rd",
     "sg:city":"Calumet",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303577385,
-    "wof:lastmodified":1449000641,
+    "wof:lastmodified":1466766027,
     "wof:name":"Red Rock Cemetery Assoc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-98.184338,35.494096,-98.184338,35.494096],
+  "bbox": [
+    -98.184338,
+    35.494096,
+    -98.184338,
+    35.494096
+],
   "geometry": {"coordinates":[-98.184338,35.494096],"type":"Point"}
 }

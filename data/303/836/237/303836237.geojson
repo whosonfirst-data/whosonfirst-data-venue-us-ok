@@ -2,13 +2,14 @@
   "id": 303836237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.943445,35.534965,-97.943445,35.534965",
     "geom:latitude":35.534965,
     "geom:longitude":-97.943445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 E Rogers St",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303836237,
-    "wof:lastmodified":1448999731,
+    "wof:lastmodified":1466766799,
     "wof:name":"Fair Food",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.943445,35.534965,-97.943445,35.534965],
+  "bbox": [
+    -97.943445,
+    35.534965,
+    -97.943445,
+    35.534965
+],
   "geometry": {"coordinates":[-97.943445,35.534965],"type":"Point"}
 }

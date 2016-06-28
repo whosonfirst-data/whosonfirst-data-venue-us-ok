@@ -2,13 +2,14 @@
   "id": 303488229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.96632,35.533239,-97.96632,35.533239",
     "geom:latitude":35.533239,
     "geom:longitude":-97.96632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 W Woodson St",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303488229,
-    "wof:lastmodified":1449000505,
+    "wof:lastmodified":1466765800,
     "wof:name":"Torres Plastering",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.96632,35.533239,-97.96632,35.533239],
+  "bbox": [
+    -97.96632,
+    35.533239,
+    -97.96632,
+    35.533239
+],
   "geometry": {"coordinates":[-97.96632,35.533239],"type":"Point"}
 }

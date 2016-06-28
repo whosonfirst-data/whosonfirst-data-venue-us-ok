@@ -2,13 +2,14 @@
   "id": 320552135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.41283,35.844334,-98.41283,35.844334",
     "geom:latitude":35.844334,
     "geom:longitude":-98.41283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E Main St",
     "sg:city":"Watonga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320552135,
-    "wof:lastmodified":1449012821,
+    "wof:lastmodified":1466766189,
     "wof:name":"Stephenson & Webber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-98.41283,35.844334,-98.41283,35.844334],
+  "bbox": [
+    -98.41283,
+    35.844334,
+    -98.41283,
+    35.844334
+],
   "geometry": {"coordinates":[-98.41283,35.844334],"type":"Point"}
 }

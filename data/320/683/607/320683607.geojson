@@ -2,13 +2,14 @@
   "id": 320683607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.628824,35.603058,-97.628824,35.603058",
     "geom:latitude":35.603058,
     "geom:longitude":-97.628824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6457 Masons Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320683607,
-    "wof:lastmodified":1449012652,
+    "wof:lastmodified":1466766605,
     "wof:name":"Stanford Court",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.628824,35.603058,-97.628824,35.603058],
-  "geometry": {"coordinates":[-97.628824,35.603058],"type":"Point"}
+  "bbox": [
+    -97.628824,
+    35.603058,
+    -97.628824,
+    35.603058
+],
+  "geometry": {"coordinates":[-97.62882399999999,35.603058],"type":"Point"}
 }

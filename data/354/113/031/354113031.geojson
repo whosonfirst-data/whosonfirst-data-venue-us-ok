@@ -2,13 +2,14 @@
   "id": 354113031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.4008,34.002224,-96.4008,34.002224",
     "geom:latitude":34.002224,
     "geom:longitude":-96.4008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Bryan Dr",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354113031,
-    "wof:lastmodified":1449067522,
+    "wof:lastmodified":1466763553,
     "wof:name":"Heartland Home & Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-96.4008,34.002224,-96.4008,34.002224],
+  "bbox": [
+    -96.4008,
+    34.002224,
+    -96.4008,
+    34.002224
+],
   "geometry": {"coordinates":[-96.4008,34.002224],"type":"Point"}
 }

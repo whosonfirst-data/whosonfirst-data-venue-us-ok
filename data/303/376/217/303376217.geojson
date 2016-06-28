@@ -2,13 +2,14 @@
   "id": 303376217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.619054,35.502349,-97.619054,35.502349",
     "geom:latitude":35.502349,
     "geom:longitude":-97.619054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303376217,
-    "wof:lastmodified":1448998952,
+    "wof:lastmodified":1466765426,
     "wof:name":"Hogue Automotive Svc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.619054,35.502349,-97.619054,35.502349],
-  "geometry": {"coordinates":[-97.619054,35.502349],"type":"Point"}
+  "bbox": [
+    -97.619054,
+    35.502349,
+    -97.619054,
+    35.502349
+],
+  "geometry": {"coordinates":[-97.61905400000001,35.502349],"type":"Point"}
 }

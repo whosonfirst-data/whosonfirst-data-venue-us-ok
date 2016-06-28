@@ -2,13 +2,14 @@
   "id": 303599033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.646475,35.575799,-97.646475,35.575799",
     "geom:latitude":35.575799,
     "geom:longitude":-97.646475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7504 NW 103rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303599033,
-    "wof:lastmodified":1448999255,
+    "wof:lastmodified":1466766088,
     "wof:name":"Ulmer S King",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.646475,35.575799,-97.646475,35.575799],
+  "bbox": [
+    -97.646475,
+    35.575799,
+    -97.646475,
+    35.575799
+],
   "geometry": {"coordinates":[-97.646475,35.575799],"type":"Point"}
 }

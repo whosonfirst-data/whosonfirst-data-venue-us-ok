@@ -2,13 +2,14 @@
   "id": 303516437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.852265,36.173316,-95.852265,36.173316",
     "geom:latitude":36.173316,
     "geom:longitude":-95.852265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10816 E Newton St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303516437,
-    "wof:lastmodified":1448998585,
+    "wof:lastmodified":1466766015,
     "wof:name":"Associated Electric & Gate",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gates"
     ]
 },
-  "bbox": [-95.852265,36.173316,-95.852265,36.173316],
+  "bbox": [
+    -95.852265,
+    36.173316,
+    -95.852265,
+    36.173316
+],
   "geometry": {"coordinates":[-95.852265,36.173316],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287296271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.163439,35.489345,-97.163439,35.489345",
     "geom:latitude":35.489345,
     "geom:longitude":-97.163439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20782 North St",
     "sg:city":"Harrah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287296271,
-    "wof:lastmodified":1449001393,
+    "wof:lastmodified":1466763372,
     "wof:name":"Paul's Window Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-97.163439,35.489345,-97.163439,35.489345],
+  "bbox": [
+    -97.163439,
+    35.489345,
+    -97.163439,
+    35.489345
+],
   "geometry": {"coordinates":[-97.163439,35.489345],"type":"Point"}
 }

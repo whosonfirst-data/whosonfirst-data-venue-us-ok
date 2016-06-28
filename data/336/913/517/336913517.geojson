@@ -2,13 +2,14 @@
   "id": 336913517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547821,35.468932,-97.547821,35.468932",
     "geom:latitude":35.468932,
     "geom:longitude":-97.547821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 NW 1st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336913517,
-    "wof:lastmodified":1448997367,
+    "wof:lastmodified":1466765274,
     "wof:name":"Prism Color Press",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-97.547821,35.468932,-97.547821,35.468932],
+  "bbox": [
+    -97.547821,
+    35.468932,
+    -97.547821,
+    35.468932
+],
   "geometry": {"coordinates":[-97.547821,35.468932],"type":"Point"}
 }

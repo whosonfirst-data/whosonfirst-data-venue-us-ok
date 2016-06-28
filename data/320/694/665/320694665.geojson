@@ -2,13 +2,14 @@
   "id": 320694665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.411825,34.624199,-98.411825,34.624199",
     "geom:latitude":34.624199,
     "geom:longitude":-98.411825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 NW 15th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320694665,
-    "wof:lastmodified":1449012307,
+    "wof:lastmodified":1466766615,
     "wof:name":"USA 6X6",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cover"
     ]
 },
-  "bbox": [-98.411825,34.624199,-98.411825,34.624199],
-  "geometry": {"coordinates":[-98.411825,34.624199],"type":"Point"}
+  "bbox": [
+    -98.411825,
+    34.624199,
+    -98.411825,
+    34.624199
+],
+  "geometry": {"coordinates":[-98.41182499999999,34.624199],"type":"Point"}
 }

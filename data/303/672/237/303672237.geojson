@@ -2,13 +2,14 @@
   "id": 303672237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.109772,36.058976,-96.109772,36.058976",
     "geom:latitude":36.058976,
     "geom:longitude":-96.109772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7233 Cottonwood Rd",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303672237,
-    "wof:lastmodified":1448998274,
+    "wof:lastmodified":1466766427,
     "wof:name":"R & M Pipeline Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.109772,36.058976,-96.109772,36.058976],
-  "geometry": {"coordinates":[-96.109772,36.058976],"type":"Point"}
+  "bbox": [
+    -96.109772,
+    36.058976,
+    -96.109772,
+    36.058976
+],
+  "geometry": {"coordinates":[-96.10977200000001,36.058976],"type":"Point"}
 }

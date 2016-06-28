@@ -2,13 +2,14 @@
   "id": 353574667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.096039,35.02135,-99.096039,35.02135",
     "geom:latitude":35.02135,
     "geom:longitude":-99.096039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"627 S Broadway Ave",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353574667,
-    "wof:lastmodified":1449018239,
+    "wof:lastmodified":1466764254,
     "wof:name":"Agrimach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.096039,35.02135,-99.096039,35.02135],
+  "bbox": [
+    -99.096039,
+    35.02135,
+    -99.096039,
+    35.02135
+],
   "geometry": {"coordinates":[-99.096039,35.02135],"type":"Point"}
 }

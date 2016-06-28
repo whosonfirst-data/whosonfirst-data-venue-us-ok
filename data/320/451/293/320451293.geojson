@@ -2,13 +2,14 @@
   "id": 320451293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.761378,36.010552,-95.761378,36.010552",
     "geom:latitude":36.010552,
     "geom:longitude":-95.761378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19307 E 105th St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320451293,
-    "wof:lastmodified":1449012880,
+    "wof:lastmodified":1466765841,
     "wof:name":"Harmony House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.761378,36.010552,-95.761378,36.010552],
-  "geometry": {"coordinates":[-95.761378,36.010552],"type":"Point"}
+  "bbox": [
+    -95.761378,
+    36.010552,
+    -95.761378,
+    36.010552
+],
+  "geometry": {"coordinates":[-95.76137799999999,36.010552],"type":"Point"}
 }

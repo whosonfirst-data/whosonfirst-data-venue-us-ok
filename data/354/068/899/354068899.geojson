@@ -2,13 +2,14 @@
   "id": 354068899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.017974,36.089802,-96.017974,36.089802",
     "geom:latitude":36.089802,
     "geom:longitude":-96.017974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 W 51st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354068899,
-    "wof:lastmodified":1449066805,
+    "wof:lastmodified":1466763387,
     "wof:name":"Fire Station 26",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-96.017974,36.089802,-96.017974,36.089802],
+  "bbox": [
+    -96.017974,
+    36.089802,
+    -96.017974,
+    36.089802
+],
   "geometry": {"coordinates":[-96.017974,36.089802],"type":"Point"}
 }

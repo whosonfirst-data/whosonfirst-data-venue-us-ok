@@ -2,13 +2,14 @@
   "id": 337546753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.527253,35.470485,-97.527253,35.470485",
     "geom:latitude":35.470485,
     "geom:longitude":-97.527253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Robert S Kerr Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337546753,
-    "wof:lastmodified":1449026932,
+    "wof:lastmodified":1466762921,
     "wof:name":"Freedom Bail Bond Info Ctr",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-97.527253,35.470485,-97.527253,35.470485],
+  "bbox": [
+    -97.527253,
+    35.470485,
+    -97.527253,
+    35.470485
+],
   "geometry": {"coordinates":[-97.527253,35.470485],"type":"Point"}
 }

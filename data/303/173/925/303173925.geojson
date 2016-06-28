@@ -2,13 +2,14 @@
   "id": 303173925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.620764,35.593695,-97.620764,35.593695",
     "geom:latitude":35.593695,
     "geom:longitude":-97.620764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12211 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303173925,
-    "wof:lastmodified":1448998586,
+    "wof:lastmodified":1466764314,
     "wof:name":"Bliss Salon",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.620764,35.593695,-97.620764,35.593695],
-  "geometry": {"coordinates":[-97.620764,35.593695],"type":"Point"}
+  "bbox": [
+    -97.620764,
+    35.593695,
+    -97.620764,
+    35.593695
+],
+  "geometry": {"coordinates":[-97.62076399999999,35.593695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220179139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.999492,36.12627,-95.999492,36.12627",
     "geom:latitude":36.12627,
     "geom:longitude":-95.999492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2445 S Jackson Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220179139,
-    "wof:lastmodified":1449074789,
+    "wof:lastmodified":1466762343,
     "wof:name":"City Of Tulsa Clean Sweep",
     "wof:parent_id":85872487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chimney"
     ]
 },
-  "bbox": [-95.999492,36.12627,-95.999492,36.12627],
+  "bbox": [
+    -95.999492,
+    36.12627,
+    -95.999492,
+    36.12627
+],
   "geometry": {"coordinates":[-95.999492,36.12627],"type":"Point"}
 }

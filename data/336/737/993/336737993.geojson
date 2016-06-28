@@ -2,13 +2,14 @@
   "id": 336737993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.509059,35.43524,-97.509059,35.43524",
     "geom:latitude":35.43524,
     "geom:longitude":-97.509059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 SE 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336737993,
-    "wof:lastmodified":1448997192,
+    "wof:lastmodified":1466764331,
     "wof:name":"J & R Sales",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.509059,35.43524,-97.509059,35.43524],
-  "geometry": {"coordinates":[-97.509059,35.43524],"type":"Point"}
+  "bbox": [
+    -97.509059,
+    35.43524,
+    -97.509059,
+    35.43524
+],
+  "geometry": {"coordinates":[-97.50905899999999,35.43524],"type":"Point"}
 }

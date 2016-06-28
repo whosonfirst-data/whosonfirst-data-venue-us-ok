@@ -2,13 +2,14 @@
   "id": 320560701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967138,36.151458,-95.967138,36.151458",
     "geom:latitude":36.151458,
     "geom:longitude":-95.967138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1738 E 7th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320560701,
-    "wof:lastmodified":1449014088,
+    "wof:lastmodified":1466766207,
     "wof:name":"Electricians Joint Apprntcshp",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-95.967138,36.151458,-95.967138,36.151458],
-  "geometry": {"coordinates":[-95.967138,36.151458],"type":"Point"}
+  "bbox": [
+    -95.967138,
+    36.151458,
+    -95.967138,
+    36.151458
+],
+  "geometry": {"coordinates":[-95.96713800000001,36.151458],"type":"Point"}
 }

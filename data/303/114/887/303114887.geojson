@@ -2,13 +2,14 @@
   "id": 303114887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.675312,34.775659,-96.675312,34.775659",
     "geom:latitude":34.775659,
     "geom:longitude":-96.675312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 E 10th St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303114887,
-    "wof:lastmodified":1448999138,
+    "wof:lastmodified":1466763472,
     "wof:name":"Cave",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "comic"
     ]
 },
-  "bbox": [-96.675312,34.775659,-96.675312,34.775659],
-  "geometry": {"coordinates":[-96.675312,34.775659],"type":"Point"}
+  "bbox": [
+    -96.675312,
+    34.775659,
+    -96.675312,
+    34.775659
+],
+  "geometry": {"coordinates":[-96.67531200000001,34.775659],"type":"Point"}
 }

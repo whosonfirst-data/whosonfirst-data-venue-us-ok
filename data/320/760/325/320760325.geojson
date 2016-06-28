@@ -2,13 +2,14 @@
   "id": 320760325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.95719,36.140443,-95.95719,36.140443",
     "geom:latitude":36.140443,
     "geom:longitude":-95.95719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 E 15th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320760325,
-    "wof:lastmodified":1449014821,
+    "wof:lastmodified":1466766695,
     "wof:name":"Bill & Ruths",
     "wof:parent_id":85872495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.95719,36.140443,-95.95719,36.140443],
+  "bbox": [
+    -95.95719,
+    36.140443,
+    -95.95719,
+    36.140443
+],
   "geometry": {"coordinates":[-95.95719,36.140443],"type":"Point"}
 }

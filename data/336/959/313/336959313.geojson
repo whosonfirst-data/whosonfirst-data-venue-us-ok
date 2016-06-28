@@ -2,13 +2,14 @@
   "id": 336959313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406399,35.490286,-97.406399,35.490286",
     "geom:latitude":35.490286,
     "geom:longitude":-97.406399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2315 N Air Depot Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336959313,
-    "wof:lastmodified":1448997909,
+    "wof:lastmodified":1466765416,
     "wof:name":"Dish Doctor",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-97.406399,35.490286,-97.406399,35.490286],
-  "geometry": {"coordinates":[-97.406399,35.490286],"type":"Point"}
+  "bbox": [
+    -97.406399,
+    35.490286,
+    -97.406399,
+    35.490286
+],
+  "geometry": {"coordinates":[-97.40639899999999,35.490286],"type":"Point"}
 }

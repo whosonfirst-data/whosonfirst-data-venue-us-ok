@@ -2,13 +2,14 @@
   "id": 303271691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.544852,35.435287,-97.544852,35.435287",
     "geom:latitude":35.435287,
     "geom:longitude":-97.544852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 SW 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303271691,
-    "wof:lastmodified":1448999401,
+    "wof:lastmodified":1466764815,
     "wof:name":"Car Depot",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.544852,35.435287,-97.544852,35.435287],
-  "geometry": {"coordinates":[-97.544852,35.435287],"type":"Point"}
+  "bbox": [
+    -97.544852,
+    35.435287,
+    -97.544852,
+    35.435287
+],
+  "geometry": {"coordinates":[-97.54485200000001,35.435287],"type":"Point"}
 }

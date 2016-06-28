@@ -2,13 +2,14 @@
   "id": 303936601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.933089,35.842278,-97.933089,35.842278",
     "geom:latitude":35.842278,
     "geom:longitude":-97.933089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Will Rogers Dr",
     "sg:city":"Kingfisher",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303936601,
-    "wof:lastmodified":1448998930,
+    "wof:lastmodified":1466767023,
     "wof:name":"Style Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.933089,35.842278,-97.933089,35.842278],
+  "bbox": [
+    -97.933089,
+    35.842278,
+    -97.933089,
+    35.842278
+],
   "geometry": {"coordinates":[-97.933089,35.842278],"type":"Point"}
 }

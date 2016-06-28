@@ -2,13 +2,14 @@
   "id": 220186931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.781601,36.176899,-95.781601,36.176899",
     "geom:latitude":36.176899,
     "geom:longitude":-95.781601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17520 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":220186931,
-    "wof:lastmodified":1449074666,
+    "wof:lastmodified":1466762388,
     "wof:name":"Robert's Alignment and Car Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.781601,36.176899,-95.781601,36.176899],
-  "geometry": {"coordinates":[-95.781601,36.176899],"type":"Point"}
+  "bbox": [
+    -95.781601,
+    36.176899,
+    -95.781601,
+    36.176899
+],
+  "geometry": {"coordinates":[-95.78160099999999,36.176899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336753571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.370476,35.449739,-97.370476,35.449739",
     "geom:latitude":35.449739,
     "geom:longitude":-97.370476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9225 SE 15th St",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336753571,
-    "wof:lastmodified":1448997056,
+    "wof:lastmodified":1466764311,
     "wof:name":"Midwest City Church of God",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.370476,35.449739,-97.370476,35.449739],
+  "bbox": [
+    -97.370476,
+    35.449739,
+    -97.370476,
+    35.449739
+],
   "geometry": {"coordinates":[-97.370476,35.449739],"type":"Point"}
 }

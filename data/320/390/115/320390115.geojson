@@ -2,13 +2,14 @@
   "id": 320390115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.224926,36.865111,-101.224926,36.865111",
     "geom:latitude":36.865111,
     "geom:longitude":-101.224926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Memorial St",
     "sg:city":"Hooker",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320390115,
-    "wof:lastmodified":1449015004,
+    "wof:lastmodified":1466765763,
     "wof:name":"First Christian Chr Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-101.224926,36.865111,-101.224926,36.865111],
+  "bbox": [
+    -101.224926,
+    36.865111,
+    -101.224926,
+    36.865111
+],
   "geometry": {"coordinates":[-101.224926,36.865111],"type":"Point"}
 }

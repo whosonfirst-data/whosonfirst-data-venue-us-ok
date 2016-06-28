@@ -2,13 +2,14 @@
   "id": 320432741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.327361,34.637812,-99.327361,34.637812",
     "geom:latitude":34.637812,
     "geom:longitude":-99.327361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E Broadway St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320432741,
-    "wof:lastmodified":1449011190,
+    "wof:lastmodified":1466765887,
     "wof:name":"United Super Markets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-99.327361,34.637812,-99.327361,34.637812],
+  "bbox": [
+    -99.327361,
+    34.637812,
+    -99.327361,
+    34.637812
+],
   "geometry": {"coordinates":[-99.327361,34.637812],"type":"Point"}
 }

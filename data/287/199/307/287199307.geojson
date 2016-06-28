@@ -2,13 +2,14 @@
   "id": 287199307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.051352,36.121675,-97.051352,36.121675",
     "geom:latitude":36.121675,
     "geom:longitude":-97.051352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 S Perkins Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287199307,
-    "wof:lastmodified":1449000743,
+    "wof:lastmodified":1466763981,
     "wof:name":"Hands On Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-97.051352,36.121675,-97.051352,36.121675],
-  "geometry": {"coordinates":[-97.051352,36.121675],"type":"Point"}
+  "bbox": [
+    -97.051352,
+    36.121675,
+    -97.051352,
+    36.121675
+],
+  "geometry": {"coordinates":[-97.05135199999999,36.121675],"type":"Point"}
 }

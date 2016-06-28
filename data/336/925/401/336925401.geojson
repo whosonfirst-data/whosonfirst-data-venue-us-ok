@@ -2,13 +2,14 @@
   "id": 336925401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.924554,35.327435,-96.924554,35.327435",
     "geom:latitude":35.327435,
     "geom:longitude":-96.924554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 W Main St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336925401,
-    "wof:lastmodified":1448996931,
+    "wof:lastmodified":1466765218,
     "wof:name":"Weedman Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.924554,35.327435,-96.924554,35.327435],
+  "bbox": [
+    -96.924554,
+    35.327435,
+    -96.924554,
+    35.327435
+],
   "geometry": {"coordinates":[-96.924554,35.327435],"type":"Point"}
 }

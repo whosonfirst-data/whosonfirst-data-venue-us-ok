@@ -2,13 +2,14 @@
   "id": 235937841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.872093,36.083645,-95.872093,36.083645",
     "geom:latitude":36.083645,
     "geom:longitude":-95.872093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9402 E 55th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":235937841,
-    "wof:lastmodified":1449008323,
+    "wof:lastmodified":1466762447,
     "wof:name":"Business Courier Services",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "courier"
     ]
 },
-  "bbox": [-95.872093,36.083645,-95.872093,36.083645],
-  "geometry": {"coordinates":[-95.872093,36.083645],"type":"Point"}
+  "bbox": [
+    -95.872093,
+    36.083645,
+    -95.872093,
+    36.083645
+],
+  "geometry": {"coordinates":[-95.87209300000001,36.083645],"type":"Point"}
 }

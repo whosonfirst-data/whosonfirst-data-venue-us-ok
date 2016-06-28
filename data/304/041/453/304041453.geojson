@@ -2,13 +2,14 @@
   "id": 304041453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.781458,34.947328,-95.781458,34.947328",
     "geom:latitude":34.947328,
     "geom:longitude":-95.781458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 N West St",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304041453,
-    "wof:lastmodified":1449043767,
+    "wof:lastmodified":1466763051,
     "wof:name":"Mc Alester Public Works",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-95.781458,34.947328,-95.781458,34.947328],
+  "bbox": [
+    -95.781458,
+    34.947328,
+    -95.781458,
+    34.947328
+],
   "geometry": {"coordinates":[-95.781458,34.947328],"type":"Point"}
 }

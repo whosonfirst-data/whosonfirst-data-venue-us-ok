@@ -2,13 +2,14 @@
   "id": 319960111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.930086,36.896279,-95.930086,36.896279",
     "geom:latitude":36.896279,
     "geom:longitude":-95.930086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Willard Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":319960111,
-    "wof:lastmodified":1449024643,
+    "wof:lastmodified":1466764078,
     "wof:name":"School of Educational Studies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "academic"
     ]
 },
-  "bbox": [-95.930086,36.896279,-95.930086,36.896279],
+  "bbox": [
+    -95.930086,
+    36.896279,
+    -95.930086,
+    36.896279
+],
   "geometry": {"coordinates":[-95.930086,36.896279],"type":"Point"}
 }

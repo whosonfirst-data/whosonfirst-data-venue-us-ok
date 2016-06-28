@@ -2,13 +2,14 @@
   "id": 337487313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.485423,34.616571,-98.485423,34.616571",
     "geom:latitude":34.616571,
     "geom:longitude":-98.485423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7616 NW Chesley Dr",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":337487313,
-    "wof:lastmodified":1449027209,
+    "wof:lastmodified":1466762580,
     "wof:name":"Hamilton Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.485423,34.616571,-98.485423,34.616571],
+  "bbox": [
+    -98.485423,
+    34.616571,
+    -98.485423,
+    34.616571
+],
   "geometry": {"coordinates":[-98.485423,34.616571],"type":"Point"}
 }

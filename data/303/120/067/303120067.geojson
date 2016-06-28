@@ -2,13 +2,14 @@
   "id": 303120067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.883125,35.941579,-95.883125,35.941579",
     "geom:latitude":35.941579,
     "geom:longitude":-95.883125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 N Armstrong St",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303120067,
-    "wof:lastmodified":1449000209,
+    "wof:lastmodified":1466763556,
     "wof:name":"Just My Style Salon & Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.883125,35.941579,-95.883125,35.941579],
-  "geometry": {"coordinates":[-95.883125,35.941579],"type":"Point"}
+  "bbox": [
+    -95.883125,
+    35.941579,
+    -95.883125,
+    35.941579
+],
+  "geometry": {"coordinates":[-95.88312500000001,35.941579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303362219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.941587,36.034601,-95.941587,36.034601",
     "geom:latitude":36.034601,
     "geom:longitude":-95.941587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3135 E 89th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303362219,
-    "wof:lastmodified":1448999700,
+    "wof:lastmodified":1466765338,
     "wof:name":"Newport Steel",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-95.941587,36.034601,-95.941587,36.034601],
+  "bbox": [
+    -95.941587,
+    36.034601,
+    -95.941587,
+    36.034601
+],
   "geometry": {"coordinates":[-95.941587,36.034601],"type":"Point"}
 }

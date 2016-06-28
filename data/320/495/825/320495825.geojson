@@ -2,13 +2,14 @@
   "id": 320495825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.591725,35.542723,-97.591725,35.542723",
     "geom:latitude":35.542723,
     "geom:longitude":-97.591725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7008 N Spinnaker Ln",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320495825,
-    "wof:lastmodified":1449012901,
+    "wof:lastmodified":1466766055,
     "wof:name":"Coding Assoc Consu",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-97.591725,35.542723,-97.591725,35.542723],
+  "bbox": [
+    -97.591725,
+    35.542723,
+    -97.591725,
+    35.542723
+],
   "geometry": {"coordinates":[-97.591725,35.542723],"type":"Point"}
 }

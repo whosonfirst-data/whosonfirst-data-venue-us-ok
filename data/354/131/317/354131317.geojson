@@ -2,13 +2,14 @@
   "id": 354131317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.333902,34.654895,-99.333902,34.654895",
     "geom:latitude":34.654895,
     "geom:longitude":-99.333902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 N Main St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354131317,
-    "wof:lastmodified":1449066419,
+    "wof:lastmodified":1466763623,
     "wof:name":"United Supermarkets-Oklahoma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-99.333902,34.654895,-99.333902,34.654895],
-  "geometry": {"coordinates":[-99.333902,34.654895],"type":"Point"}
+  "bbox": [
+    -99.333902,
+    34.654895,
+    -99.333902,
+    34.654895
+],
+  "geometry": {"coordinates":[-99.33390199999999,34.654895],"type":"Point"}
 }

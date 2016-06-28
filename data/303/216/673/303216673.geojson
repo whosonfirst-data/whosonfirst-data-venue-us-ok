@@ -2,13 +2,14 @@
   "id": 303216673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.769873,35.29079,-97.769873,35.29079",
     "geom:latitude":35.29079,
     "geom:longitude":-97.769873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 State Hwy 37",
     "sg:city":"Tuttle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303216673,
-    "wof:lastmodified":1449000289,
+    "wof:lastmodified":1466764537,
     "wof:name":"Highway 37 Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-97.769873,35.29079,-97.769873,35.29079],
+  "bbox": [
+    -97.769873,
+    35.29079,
+    -97.769873,
+    35.29079
+],
   "geometry": {"coordinates":[-97.769873,35.29079],"type":"Point"}
 }

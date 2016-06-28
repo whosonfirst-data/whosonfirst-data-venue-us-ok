@@ -2,13 +2,14 @@
   "id": 303418655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.408588,34.619789,-98.408588,34.619789",
     "geom:latitude":34.619789,
     "geom:longitude":-98.408588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 NW Park View Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303418655,
-    "wof:lastmodified":1449000037,
+    "wof:lastmodified":1466765412,
     "wof:name":"Edna A Free Inter Vivos T",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-98.408588,34.619789,-98.408588,34.619789],
-  "geometry": {"coordinates":[-98.408588,34.619789],"type":"Point"}
+  "bbox": [
+    -98.408588,
+    34.619789,
+    -98.408588,
+    34.619789
+],
+  "geometry": {"coordinates":[-98.40858799999999,34.619789],"type":"Point"}
 }

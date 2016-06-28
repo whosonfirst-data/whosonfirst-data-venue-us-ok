@@ -2,13 +2,14 @@
   "id": 303612629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.527225,35.55251,-97.527225,35.55251",
     "geom:latitude":35.55251,
     "geom:longitude":-97.527225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8125 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303612629,
-    "wof:lastmodified":1448999200,
+    "wof:lastmodified":1466766244,
     "wof:name":"Britvil Community Food Pantry",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-97.527225,35.55251,-97.527225,35.55251],
+  "bbox": [
+    -97.527225,
+    35.55251,
+    -97.527225,
+    35.55251
+],
   "geometry": {"coordinates":[-97.527225,35.55251],"type":"Point"}
 }

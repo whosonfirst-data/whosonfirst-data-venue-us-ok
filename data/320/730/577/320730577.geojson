@@ -2,13 +2,14 @@
   "id": 320730577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.43894,35.219454,-97.43894,35.219454",
     "geom:latitude":35.219454,
     "geom:longitude":-97.43894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 S Crawford Ave",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320730577,
-    "wof:lastmodified":1449014371,
+    "wof:lastmodified":1466766769,
     "wof:name":"Open House Ok",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.43894,35.219454,-97.43894,35.219454],
+  "bbox": [
+    -97.43894,
+    35.219454,
+    -97.43894,
+    35.219454
+],
   "geometry": {"coordinates":[-97.43894,35.219454],"type":"Point"}
 }

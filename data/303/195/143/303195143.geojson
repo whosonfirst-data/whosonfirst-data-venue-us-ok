@@ -2,13 +2,14 @@
   "id": 303195143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.887421,36.118996,-95.887421,36.118996",
     "geom:latitude":36.118996,
     "geom:longitude":-95.887421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8035 E 31st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303195143,
-    "wof:lastmodified":1448999726,
+    "wof:lastmodified":1466764279,
     "wof:name":"Cavender's Western Outfitters",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boot"
     ]
 },
-  "bbox": [-95.887421,36.118996,-95.887421,36.118996],
+  "bbox": [
+    -95.887421,
+    36.118996,
+    -95.887421,
+    36.118996
+],
   "geometry": {"coordinates":[-95.887421,36.118996],"type":"Point"}
 }

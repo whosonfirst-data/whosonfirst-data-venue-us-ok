@@ -2,13 +2,14 @@
   "id": 287245293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.374012,34.002492,-96.374012,34.002492",
     "geom:latitude":34.002492,
     "geom:longitude":-96.374012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 N 2nd Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287245293,
-    "wof:lastmodified":1449001557,
+    "wof:lastmodified":1466762620,
     "wof:name":"University Heights Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.374012,34.002492,-96.374012,34.002492],
-  "geometry": {"coordinates":[-96.374012,34.002492],"type":"Point"}
+  "bbox": [
+    -96.374012,
+    34.002492,
+    -96.374012,
+    34.002492
+],
+  "geometry": {"coordinates":[-96.37401199999999,34.002492],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354228941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480759,35.64663,-97.480759,35.64663",
     "geom:latitude":35.64663,
     "geom:longitude":-97.480759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Littler Pl",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":354228941,
-    "wof:lastmodified":1449066441,
+    "wof:lastmodified":1466764107,
     "wof:name":"Savage Doc Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "artist"
     ]
 },
-  "bbox": [-97.480759,35.64663,-97.480759,35.64663],
-  "geometry": {"coordinates":[-97.480759,35.64663],"type":"Point"}
+  "bbox": [
+    -97.480759,
+    35.64663,
+    -97.480759,
+    35.64663
+],
+  "geometry": {"coordinates":[-97.48075900000001,35.64663],"type":"Point"}
 }

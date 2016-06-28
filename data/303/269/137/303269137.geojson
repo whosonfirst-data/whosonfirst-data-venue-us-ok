@@ -2,13 +2,14 @@
   "id": 303269137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.790285,35.459967,-94.790285,35.459967",
     "geom:latitude":35.459967,
     "geom:longitude":-94.790285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Elm St",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303269137,
-    "wof:lastmodified":1448999655,
+    "wof:lastmodified":1466764715,
     "wof:name":"Anchor Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-94.790285,35.459967,-94.790285,35.459967],
+  "bbox": [
+    -94.790285,
+    35.459967,
+    -94.790285,
+    35.459967
+],
   "geometry": {"coordinates":[-94.790285,35.459967],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303952541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.518082,35.433444,-97.518082,35.433444",
     "geom:latitude":35.433444,
     "geom:longitude":-97.518082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3120 S Harvey Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303952541,
-    "wof:lastmodified":1448999876,
+    "wof:lastmodified":1466767042,
     "wof:name":"Capitol Hill Church Of God",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.518082,35.433444,-97.518082,35.433444],
-  "geometry": {"coordinates":[-97.518082,35.433444],"type":"Point"}
+  "bbox": [
+    -97.518082,
+    35.433444,
+    -97.518082,
+    35.433444
+],
+  "geometry": {"coordinates":[-97.51808200000001,35.433444],"type":"Point"}
 }

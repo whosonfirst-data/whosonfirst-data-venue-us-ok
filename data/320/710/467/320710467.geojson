@@ -2,13 +2,14 @@
   "id": 320710467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.478845,35.229518,-97.478845,35.229518",
     "geom:latitude":35.229518,
     "geom:longitude":-97.478845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 Palmer Cir",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320710467,
-    "wof:lastmodified":1449011480,
+    "wof:lastmodified":1466766446,
     "wof:name":"Westport Family Medicine",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.478845,35.229518,-97.478845,35.229518],
-  "geometry": {"coordinates":[-97.478845,35.229518],"type":"Point"}
+  "bbox": [
+    -97.478845,
+    35.229518,
+    -97.478845,
+    35.229518
+],
+  "geometry": {"coordinates":[-97.47884500000001,35.229518],"type":"Point"}
 }

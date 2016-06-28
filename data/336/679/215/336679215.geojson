@@ -2,13 +2,14 @@
   "id": 336679215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800785,36.330957,-96.800785,36.330957",
     "geom:latitude":36.330957,
     "geom:longitude":-96.800785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Boulder St",
     "sg:city":"Pawnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336679215,
-    "wof:lastmodified":1448997624,
+    "wof:lastmodified":1466763398,
     "wof:name":"Pawnee Specialty Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.800785,36.330957,-96.800785,36.330957],
+  "bbox": [
+    -96.800785,
+    36.330957,
+    -96.800785,
+    36.330957
+],
   "geometry": {"coordinates":[-96.800785,36.330957],"type":"Point"}
 }

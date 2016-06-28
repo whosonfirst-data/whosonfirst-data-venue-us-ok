@@ -2,13 +2,14 @@
   "id": 220167201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.101023,35.99337,-96.101023,35.99337",
     "geom:latitude":35.99337,
     "geom:longitude":-96.101023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 E Bryan Ave",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":220167201,
-    "wof:lastmodified":1449074454,
+    "wof:lastmodified":1466762309,
     "wof:name":"St John Sapulpa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "surgery"
     ]
 },
-  "bbox": [-96.101023,35.99337,-96.101023,35.99337],
+  "bbox": [
+    -96.101023,
+    35.99337,
+    -96.101023,
+    35.99337
+],
   "geometry": {"coordinates":[-96.101023,35.99337],"type":"Point"}
 }

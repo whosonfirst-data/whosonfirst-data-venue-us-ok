@@ -2,13 +2,14 @@
   "id": 337607139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.132319,34.378414,-96.132319,34.378414",
     "geom:latitude":34.378414,
     "geom:longitude":-96.132319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 US Hwy 69",
     "sg:city":"Stringtown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337607139,
-    "wof:lastmodified":1449027041,
+    "wof:lastmodified":1466763255,
     "wof:name":"Noel's Food Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-96.132319,34.378414,-96.132319,34.378414],
+  "bbox": [
+    -96.132319,
+    34.378414,
+    -96.132319,
+    34.378414
+],
   "geometry": {"coordinates":[-96.132319,34.378414],"type":"Point"}
 }

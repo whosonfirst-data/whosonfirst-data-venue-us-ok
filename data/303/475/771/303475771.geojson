@@ -2,13 +2,14 @@
   "id": 303475771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.934785,35.053529,-97.934785,35.053529",
     "geom:latitude":35.053529,
     "geom:longitude":-97.934785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 W Pennsylvania Ave",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303475771,
-    "wof:lastmodified":1448999136,
+    "wof:lastmodified":1466765752,
     "wof:name":"Grady County Work Release Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-97.934785,35.053529,-97.934785,35.053529],
-  "geometry": {"coordinates":[-97.934785,35.053529],"type":"Point"}
+  "bbox": [
+    -97.934785,
+    35.053529,
+    -97.934785,
+    35.053529
+],
+  "geometry": {"coordinates":[-97.93478500000001,35.053529],"type":"Point"}
 }

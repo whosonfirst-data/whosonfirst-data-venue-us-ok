@@ -2,13 +2,14 @@
   "id": 320127519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.626646,34.624637,-98.626646,34.624637",
     "geom:latitude":34.624637,
     "geom:longitude":-98.626646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W G Ave",
     "sg:city":"Cache",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320127519,
-    "wof:lastmodified":1449014659,
+    "wof:lastmodified":1466764254,
     "wof:name":"Methodist Church First United",
     "wof:parent_id":85815375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.626646,34.624637,-98.626646,34.624637],
-  "geometry": {"coordinates":[-98.626646,34.624637],"type":"Point"}
+  "bbox": [
+    -98.626646,
+    34.624637,
+    -98.626646,
+    34.624637
+],
+  "geometry": {"coordinates":[-98.62664599999999,34.624637],"type":"Point"}
 }

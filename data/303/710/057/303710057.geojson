@@ -2,13 +2,14 @@
   "id": 303710057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.478434,35.725318,-97.478434,35.725318",
     "geom:latitude":35.725318,
     "geom:longitude":-97.478434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6805 N Broadway",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303710057,
-    "wof:lastmodified":1448998268,
+    "wof:lastmodified":1466766501,
     "wof:name":"Liquor Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-97.478434,35.725318,-97.478434,35.725318],
-  "geometry": {"coordinates":[-97.478434,35.725318],"type":"Point"}
+  "bbox": [
+    -97.478434,
+    35.725318,
+    -97.478434,
+    35.725318
+],
+  "geometry": {"coordinates":[-97.47843399999999,35.725318],"type":"Point"}
 }

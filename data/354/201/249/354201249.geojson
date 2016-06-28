@@ -2,13 +2,14 @@
   "id": 354201249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.514135,35.668004,-97.514135,35.668004",
     "geom:latitude":35.668004,
     "geom:longitude":-97.514135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1333 N Santa Fe Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354201249,
-    "wof:lastmodified":1449067436,
+    "wof:lastmodified":1466763924,
     "wof:name":"Tower Dental",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-97.514135,35.668004,-97.514135,35.668004],
+  "bbox": [
+    -97.514135,
+    35.668004,
+    -97.514135,
+    35.668004
+],
   "geometry": {"coordinates":[-97.514135,35.668004],"type":"Point"}
 }

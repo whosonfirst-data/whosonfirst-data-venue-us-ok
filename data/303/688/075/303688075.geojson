@@ -2,13 +2,14 @@
   "id": 303688075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.564731,34.846363,-95.564731,34.846363",
     "geom:latitude":34.846363,
     "geom:longitude":-95.564731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Lehigh Ave",
     "sg:city":"Hartshorne",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303688075,
-    "wof:lastmodified":1448999030,
+    "wof:lastmodified":1466766574,
     "wof:name":"Hartshorne The Rogers Clinic",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-95.564731,34.846363,-95.564731,34.846363],
-  "geometry": {"coordinates":[-95.564731,34.846363],"type":"Point"}
+  "bbox": [
+    -95.564731,
+    34.846363,
+    -95.564731,
+    34.846363
+],
+  "geometry": {"coordinates":[-95.56473099999999,34.846363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287252911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.360289,35.216223,-97.360289,35.216223",
     "geom:latitude":35.216223,
     "geom:longitude":-97.360289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5620 Cardinal Ln",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287252911,
-    "wof:lastmodified":1449000776,
+    "wof:lastmodified":1466762733,
     "wof:name":"Tommy Burkhart",
     "wof:parent_id":85814357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-97.360289,35.216223,-97.360289,35.216223],
-  "geometry": {"coordinates":[-97.360289,35.216223],"type":"Point"}
+  "bbox": [
+    -97.360289,
+    35.216223,
+    -97.360289,
+    35.216223
+],
+  "geometry": {"coordinates":[-97.36028899999999,35.216223],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319822309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.304651,35.431464,-96.304651,35.431464",
     "geom:latitude":35.431464,
     "geom:longitude":-96.304651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 W Broadway St",
     "sg:city":"Okemah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319822309,
-    "wof:lastmodified":1449024859,
+    "wof:lastmodified":1466762891,
     "wof:name":"Bruno Mexican Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.304651,35.431464,-96.304651,35.431464],
-  "geometry": {"coordinates":[-96.304651,35.431464],"type":"Point"}
+  "bbox": [
+    -96.304651,
+    35.431464,
+    -96.304651,
+    35.431464
+],
+  "geometry": {"coordinates":[-96.30465100000001,35.431464],"type":"Point"}
 }

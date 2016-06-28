@@ -2,13 +2,14 @@
   "id": 353746797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.61889,35.520649,-97.61889,35.520649",
     "geom:latitude":35.520649,
     "geom:longitude":-97.61889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4850 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353746797,
-    "wof:lastmodified":1449018236,
+    "wof:lastmodified":1466765091,
     "wof:name":"Aquarium Concepts",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-97.61889,35.520649,-97.61889,35.520649],
-  "geometry": {"coordinates":[-97.61889,35.520649],"type":"Point"}
+  "bbox": [
+    -97.61889,
+    35.520649,
+    -97.61889,
+    35.520649
+],
+  "geometry": {"coordinates":[-97.61888999999999,35.520649],"type":"Point"}
 }

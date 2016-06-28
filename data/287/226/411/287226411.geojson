@@ -2,13 +2,14 @@
   "id": 287226411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.610639,35.522383,-97.610639,35.522383",
     "geom:latitude":35.522383,
     "geom:longitude":-97.610639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5503 NW 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287226411,
-    "wof:lastmodified":1449001323,
+    "wof:lastmodified":1466762314,
     "wof:name":"Sooner Audio Visual Serv",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electrical"
     ]
 },
-  "bbox": [-97.610639,35.522383,-97.610639,35.522383],
-  "geometry": {"coordinates":[-97.610639,35.522383],"type":"Point"}
+  "bbox": [
+    -97.610639,
+    35.522383,
+    -97.610639,
+    35.522383
+],
+  "geometry": {"coordinates":[-97.61063900000001,35.522383],"type":"Point"}
 }

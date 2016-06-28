@@ -2,13 +2,14 @@
   "id": 303497851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.638337,35.470303,-97.638337,35.470303",
     "geom:latitude":35.470303,
     "geom:longitude":-97.638337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7133 NW 3rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303497851,
-    "wof:lastmodified":1449000530,
+    "wof:lastmodified":1466765830,
     "wof:name":"Audiometric Instruments Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audiometer"
     ]
 },
-  "bbox": [-97.638337,35.470303,-97.638337,35.470303],
-  "geometry": {"coordinates":[-97.638337,35.470303],"type":"Point"}
+  "bbox": [
+    -97.638337,
+    35.470303,
+    -97.638337,
+    35.470303
+],
+  "geometry": {"coordinates":[-97.63833700000001,35.470303],"type":"Point"}
 }

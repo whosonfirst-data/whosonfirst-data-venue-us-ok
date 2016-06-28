@@ -2,13 +2,14 @@
   "id": 320482115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.359845,35.500237,-97.359845,35.500237",
     "geom:latitude":35.500237,
     "geom:longitude":-97.359845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2411 N Trosper Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320482115,
-    "wof:lastmodified":1449012597,
+    "wof:lastmodified":1466766012,
     "wof:name":"Patton Auto Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.359845,35.500237,-97.359845,35.500237],
-  "geometry": {"coordinates":[-97.359845,35.500237],"type":"Point"}
+  "bbox": [
+    -97.359845,
+    35.500237,
+    -97.359845,
+    35.500237
+],
+  "geometry": {"coordinates":[-97.35984500000001,35.500237],"type":"Point"}
 }

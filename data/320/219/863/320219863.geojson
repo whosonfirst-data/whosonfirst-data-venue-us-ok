@@ -2,13 +2,14 @@
   "id": 320219863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.404774,34.632266,-98.404774,34.632266",
     "geom:latitude":34.632266,
     "geom:longitude":-98.404774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2312 NW Fort Sill Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320219863,
-    "wof:lastmodified":1449014810,
+    "wof:lastmodified":1466764684,
     "wof:name":"A&W Restaurant",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-98.404774,34.632266,-98.404774,34.632266],
+  "bbox": [
+    -98.404774,
+    34.632266,
+    -98.404774,
+    34.632266
+],
   "geometry": {"coordinates":[-98.404774,34.632266],"type":"Point"}
 }

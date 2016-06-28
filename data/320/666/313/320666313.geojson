@@ -2,13 +2,14 @@
   "id": 320666313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.685948,35.485181,-96.685948,35.485181",
     "geom:latitude":35.485181,
     "geom:longitude":-96.685948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 Jim Thorpe Blvd",
     "sg:city":"Prague",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320666313,
-    "wof:lastmodified":1449012646,
+    "wof:lastmodified":1466766442,
     "wof:name":"Downtown Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.685948,35.485181,-96.685948,35.485181],
+  "bbox": [
+    -96.685948,
+    35.485181,
+    -96.685948,
+    35.485181
+],
   "geometry": {"coordinates":[-96.685948,35.485181],"type":"Point"}
 }

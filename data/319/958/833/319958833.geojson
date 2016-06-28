@@ -2,13 +2,14 @@
   "id": 319958833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.424083,35.543585,-97.424083,35.543585",
     "geom:latitude":35.543585,
     "geom:longitude":-97.424083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6710 N Sooner Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319958833,
-    "wof:lastmodified":1449024715,
+    "wof:lastmodified":1466764074,
     "wof:name":"United Baptist Church",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.424083,35.543585,-97.424083,35.543585],
+  "bbox": [
+    -97.424083,
+    35.543585,
+    -97.424083,
+    35.543585
+],
   "geometry": {"coordinates":[-97.424083,35.543585],"type":"Point"}
 }

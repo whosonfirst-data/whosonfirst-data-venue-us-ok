@@ -2,13 +2,14 @@
   "id": 303188033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534872,35.669847,-97.534872,35.669847",
     "geom:latitude":35.669847,
     "geom:longitude":-97.534872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 NW 194th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303188033,
-    "wof:lastmodified":1448999330,
+    "wof:lastmodified":1466764364,
     "wof:name":"Jean Hailey",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-97.534872,35.669847,-97.534872,35.669847],
-  "geometry": {"coordinates":[-97.534872,35.669847],"type":"Point"}
+  "bbox": [
+    -97.534872,
+    35.669847,
+    -97.534872,
+    35.669847
+],
+  "geometry": {"coordinates":[-97.53487199999999,35.669847],"type":"Point"}
 }

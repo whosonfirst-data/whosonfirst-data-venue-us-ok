@@ -2,13 +2,14 @@
   "id": 353803569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.93484,35.842714,-97.93484,35.842714",
     "geom:latitude":35.842714,
     "geom:longitude":-97.93484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Mockingbird",
     "sg:city":"Kingfisher",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353803569,
-    "wof:lastmodified":1449020831,
+    "wof:lastmodified":1466765246,
     "wof:name":"Stinson Painting & Constr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.93484,35.842714,-97.93484,35.842714],
-  "geometry": {"coordinates":[-97.93484,35.842714],"type":"Point"}
+  "bbox": [
+    -97.93484,
+    35.842714,
+    -97.93484,
+    35.842714
+],
+  "geometry": {"coordinates":[-97.93483999999999,35.842714],"type":"Point"}
 }

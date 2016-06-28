@@ -2,13 +2,14 @@
   "id": 220182811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.917999,36.157683,-95.917999,36.157683",
     "geom:latitude":36.157683,
     "geom:longitude":-95.917999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 S Darlington Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220182811,
-    "wof:lastmodified":1449074563,
+    "wof:lastmodified":1466762368,
     "wof:name":"Shepherd Plumbing",
     "wof:parent_id":85813737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-95.917999,36.157683,-95.917999,36.157683],
-  "geometry": {"coordinates":[-95.917999,36.157683],"type":"Point"}
+  "bbox": [
+    -95.917999,
+    36.157683,
+    -95.917999,
+    36.157683
+],
+  "geometry": {"coordinates":[-95.91799899999999,36.157683],"type":"Point"}
 }

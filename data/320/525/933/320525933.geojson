@@ -2,13 +2,14 @@
   "id": 320525933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.776618,36.471303,-95.776618,36.471303",
     "geom:latitude":36.471303,
     "geom:longitude":-95.776618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9720 S 4060 Rd",
     "sg:city":"Talala",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320525933,
-    "wof:lastmodified":1449014187,
+    "wof:lastmodified":1466766213,
     "wof:name":"Brown Angus Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-95.776618,36.471303,-95.776618,36.471303],
+  "bbox": [
+    -95.776618,
+    36.471303,
+    -95.776618,
+    36.471303
+],
   "geometry": {"coordinates":[-95.776618,36.471303],"type":"Point"}
 }

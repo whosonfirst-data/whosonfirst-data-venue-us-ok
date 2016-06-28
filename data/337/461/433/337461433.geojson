@@ -2,13 +2,14 @@
   "id": 337461433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.422442,34.627657,-98.422442,34.627657",
     "geom:latitude":34.627657,
     "geom:longitude":-98.422442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1806 NW Sheridan Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337461433,
-    "wof:lastmodified":1449027235,
+    "wof:lastmodified":1466762433,
     "wof:name":"Myers Dental Laboratory",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-98.422442,34.627657,-98.422442,34.627657],
+  "bbox": [
+    -98.422442,
+    34.627657,
+    -98.422442,
+    34.627657
+],
   "geometry": {"coordinates":[-98.422442,34.627657],"type":"Point"}
 }

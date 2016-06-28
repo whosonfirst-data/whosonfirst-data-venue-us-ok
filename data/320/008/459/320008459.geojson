@@ -2,13 +2,14 @@
   "id": 320008459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.495705,35.518278,-97.495705,35.518278",
     "geom:latitude":35.518278,
     "geom:longitude":-97.495705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4608 N Thompson Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320008459,
-    "wof:lastmodified":1449012442,
+    "wof:lastmodified":1466762400,
     "wof:name":"C Mims & Associates",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-97.495705,35.518278,-97.495705,35.518278],
+  "bbox": [
+    -97.495705,
+    35.518278,
+    -97.495705,
+    35.518278
+],
   "geometry": {"coordinates":[-97.495705,35.518278],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353518337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.917797,36.431026,-97.917797,36.431026",
     "geom:latitude":36.431026,
     "geom:longitude":-97.917797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 Edgewater Dr",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353518337,
-    "wof:lastmodified":1449019697,
+    "wof:lastmodified":1466763395,
     "wof:name":"Walton Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-97.917797,36.431026,-97.917797,36.431026],
-  "geometry": {"coordinates":[-97.917797,36.431026],"type":"Point"}
+  "bbox": [
+    -97.917797,
+    36.431026,
+    -97.917797,
+    36.431026
+],
+  "geometry": {"coordinates":[-97.91779699999999,36.431026],"type":"Point"}
 }

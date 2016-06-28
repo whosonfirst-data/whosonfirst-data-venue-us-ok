@@ -2,13 +2,14 @@
   "id": 304085423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760068,35.539761,-97.760068,35.539761",
     "geom:latitude":35.539761,
     "geom:longitude":-97.760068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 N 11th St",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304085423,
-    "wof:lastmodified":1449043706,
+    "wof:lastmodified":1466763328,
     "wof:name":"Express Genetics LLC",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-97.760068,35.539761,-97.760068,35.539761],
+  "bbox": [
+    -97.760068,
+    35.539761,
+    -97.760068,
+    35.539761
+],
   "geometry": {"coordinates":[-97.760068,35.539761],"type":"Point"}
 }

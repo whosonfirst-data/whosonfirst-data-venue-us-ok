@@ -2,13 +2,14 @@
   "id": 320195591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.422419,34.59768,-98.422419,34.59768",
     "geom:latitude":34.59768,
     "geom:longitude":-98.422419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 SW Sheridan Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320195591,
-    "wof:lastmodified":1449013723,
+    "wof:lastmodified":1466764671,
     "wof:name":"MTS Performance Solutions",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.422419,34.59768,-98.422419,34.59768],
+  "bbox": [
+    -98.422419,
+    34.59768,
+    -98.422419,
+    34.59768
+],
   "geometry": {"coordinates":[-98.422419,34.59768],"type":"Point"}
 }

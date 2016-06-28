@@ -2,13 +2,14 @@
   "id": 303286389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.49341,35.151008,-96.49341,35.151008",
     "geom:latitude":35.151008,
     "geom:longitude":-96.49341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 S Mekusukey Ave",
     "sg:city":"Wewoka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303286389,
-    "wof:lastmodified":1448998755,
+    "wof:lastmodified":1466764903,
     "wof:name":"Johnson's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.49341,35.151008,-96.49341,35.151008],
+  "bbox": [
+    -96.49341,
+    35.151008,
+    -96.49341,
+    35.151008
+],
   "geometry": {"coordinates":[-96.49341,35.151008],"type":"Point"}
 }

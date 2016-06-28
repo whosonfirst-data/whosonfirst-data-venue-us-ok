@@ -2,13 +2,14 @@
   "id": 303259865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.671319,35.464383,-97.671319,35.464383",
     "geom:latitude":35.464383,
     "geom:longitude":-97.671319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9201 W Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303259865,
-    "wof:lastmodified":1448998669,
+    "wof:lastmodified":1466764673,
     "wof:name":"Terry's Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-97.671319,35.464383,-97.671319,35.464383],
+  "bbox": [
+    -97.671319,
+    35.464383,
+    -97.671319,
+    35.464383
+],
   "geometry": {"coordinates":[-97.671319,35.464383],"type":"Point"}
 }

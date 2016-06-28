@@ -2,13 +2,14 @@
   "id": 353865649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.361713,35.730554,-95.361713,35.730554",
     "geom:latitude":35.730554,
     "geom:longitude":-95.361713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Mc Cloud St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353865649,
-    "wof:lastmodified":1449020182,
+    "wof:lastmodified":1466765556,
     "wof:name":"Bolin Roofing Company",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-95.361713,35.730554,-95.361713,35.730554],
-  "geometry": {"coordinates":[-95.361713,35.730554],"type":"Point"}
+  "bbox": [
+    -95.361713,
+    35.730554,
+    -95.361713,
+    35.730554
+],
+  "geometry": {"coordinates":[-95.36171299999999,35.730554],"type":"Point"}
 }

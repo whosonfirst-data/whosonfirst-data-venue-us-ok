@@ -2,13 +2,14 @@
   "id": 303994317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.035926,36.090014,-96.035926,36.090014",
     "geom:latitude":36.090014,
     "geom:longitude":-96.035926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 W 51st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303994317,
-    "wof:lastmodified":1448998236,
+    "wof:lastmodified":1466767080,
     "wof:name":"Service Vending Co",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.035926,36.090014,-96.035926,36.090014],
+  "bbox": [
+    -96.035926,
+    36.090014,
+    -96.035926,
+    36.090014
+],
   "geometry": {"coordinates":[-96.035926,36.090014],"type":"Point"}
 }

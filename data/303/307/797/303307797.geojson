@@ -2,13 +2,14 @@
   "id": 303307797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.460249,34.594281,-98.460249,34.594281",
     "geom:latitude":34.594281,
     "geom:longitude":-98.460249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5604 SW Lee Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303307797,
-    "wof:lastmodified":1448998745,
+    "wof:lastmodified":1466764995,
     "wof:name":"Wichita Mountain Neurosurgery",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-98.460249,34.594281,-98.460249,34.594281],
+  "bbox": [
+    -98.460249,
+    34.594281,
+    -98.460249,
+    34.594281
+],
   "geometry": {"coordinates":[-98.460249,34.594281],"type":"Point"}
 }

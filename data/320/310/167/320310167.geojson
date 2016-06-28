@@ -2,13 +2,14 @@
   "id": 320310167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.646298,34.629751,-98.646298,34.629751",
     "geom:latitude":34.629751,
     "geom:longitude":-98.646298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 W Rock Creek Dr",
     "sg:city":"Cache",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320310167,
-    "wof:lastmodified":1449013553,
+    "wof:lastmodified":1466765090,
     "wof:name":"Sue Seymour",
     "wof:parent_id":85815375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.646298,34.629751,-98.646298,34.629751],
+  "bbox": [
+    -98.646298,
+    34.629751,
+    -98.646298,
+    34.629751
+],
   "geometry": {"coordinates":[-98.646298,34.629751],"type":"Point"}
 }

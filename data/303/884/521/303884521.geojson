@@ -2,13 +2,14 @@
   "id": 303884521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.921053,36.089917,-95.921053,36.089917",
     "geom:latitude":36.089917,
     "geom:longitude":-95.921053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5015 E 51st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303884521,
-    "wof:lastmodified":1449000093,
+    "wof:lastmodified":1466766930,
     "wof:name":"Amazon Laundry",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.921053,36.089917,-95.921053,36.089917],
+  "bbox": [
+    -95.921053,
+    36.089917,
+    -95.921053,
+    36.089917
+],
   "geometry": {"coordinates":[-95.921053,36.089917],"type":"Point"}
 }

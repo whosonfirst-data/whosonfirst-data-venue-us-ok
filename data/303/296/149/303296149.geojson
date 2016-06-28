@@ -2,13 +2,14 @@
   "id": 303296149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.283118,36.785084,-97.283118,36.785084",
     "geom:latitude":36.785084,
     "geom:longitude":-97.283118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1849 S Main St",
     "sg:city":"Blackwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303296149,
-    "wof:lastmodified":1449000111,
+    "wof:lastmodified":1466764933,
     "wof:name":"Owen & Son Dirt Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.283118,36.785084,-97.283118,36.785084],
+  "bbox": [
+    -97.283118,
+    36.785084,
+    -97.283118,
+    36.785084
+],
   "geometry": {"coordinates":[-97.283118,36.785084],"type":"Point"}
 }

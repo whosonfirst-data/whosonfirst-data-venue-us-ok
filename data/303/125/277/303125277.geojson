@@ -2,13 +2,14 @@
   "id": 303125277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.950713,36.171178,-95.950713,36.171178",
     "geom:latitude":36.171178,
     "geom:longitude":-95.950713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2921 Dawson Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303125277,
-    "wof:lastmodified":1449000479,
+    "wof:lastmodified":1466763646,
     "wof:name":"Old Dominion Freight Line",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.950713,36.171178,-95.950713,36.171178],
-  "geometry": {"coordinates":[-95.950713,36.171178],"type":"Point"}
+  "bbox": [
+    -95.950713,
+    36.171178,
+    -95.950713,
+    36.171178
+],
+  "geometry": {"coordinates":[-95.95071299999999,36.171178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320269373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547017,35.467747,-97.547017,35.467747",
     "geom:latitude":35.467747,
     "geom:longitude":-97.547017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1840 W Main St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320269373,
-    "wof:lastmodified":1449013598,
+    "wof:lastmodified":1466764904,
     "wof:name":"Beel Oil Co",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-97.547017,35.467747,-97.547017,35.467747],
+  "bbox": [
+    -97.547017,
+    35.467747,
+    -97.547017,
+    35.467747
+],
   "geometry": {"coordinates":[-97.547017,35.467747],"type":"Point"}
 }

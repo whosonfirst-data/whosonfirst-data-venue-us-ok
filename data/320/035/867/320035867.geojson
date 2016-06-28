@@ -2,13 +2,14 @@
   "id": 320035867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.519722,35.439343,-97.519722,35.439343",
     "geom:latitude":35.439343,
     "geom:longitude":-97.519722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 SW 25th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320035867,
-    "wof:lastmodified":1449014249,
+    "wof:lastmodified":1466762820,
     "wof:name":"ORO Development Corp",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "human"
     ]
 },
-  "bbox": [-97.519722,35.439343,-97.519722,35.439343],
+  "bbox": [
+    -97.519722,
+    35.439343,
+    -97.519722,
+    35.439343
+],
   "geometry": {"coordinates":[-97.519722,35.439343],"type":"Point"}
 }

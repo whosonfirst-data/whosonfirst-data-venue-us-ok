@@ -2,13 +2,14 @@
   "id": 303953257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.65052,35.949922,-95.65052,35.949922",
     "geom:latitude":35.949922,
     "geom:longitude":-95.65052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Cypress St",
     "sg:city":"Coweta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303953257,
-    "wof:lastmodified":1448999804,
+    "wof:lastmodified":1466767035,
     "wof:name":"Cypress Laundry Mat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-95.65052,35.949922,-95.65052,35.949922],
+  "bbox": [
+    -95.65052,
+    35.949922,
+    -95.65052,
+    35.949922
+],
   "geometry": {"coordinates":[-95.65052,35.949922],"type":"Point"}
 }

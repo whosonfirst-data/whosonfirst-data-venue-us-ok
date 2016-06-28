@@ -2,13 +2,14 @@
   "id": 336859345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.63402,35.533398,-97.63402,35.533398",
     "geom:latitude":35.533398,
     "geom:longitude":-97.63402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6909 NW 60th St",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336859345,
-    "wof:lastmodified":1448997701,
+    "wof:lastmodified":1466765077,
     "wof:name":"Derrick Baker",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guard"
     ]
 },
-  "bbox": [-97.63402,35.533398,-97.63402,35.533398],
-  "geometry": {"coordinates":[-97.63402,35.533398],"type":"Point"}
+  "bbox": [
+    -97.63402,
+    35.533398,
+    -97.63402,
+    35.533398
+],
+  "geometry": {"coordinates":[-97.63402000000001,35.533398],"type":"Point"}
 }

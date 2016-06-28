@@ -2,13 +2,14 @@
   "id": 320141761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.300276,35.566645,-97.300276,35.566645",
     "geom:latitude":35.566645,
     "geom:longitude":-97.300276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9413 N Hiwassee Rd",
     "sg:city":"Jones",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320141761,
-    "wof:lastmodified":1449012579,
+    "wof:lastmodified":1466764353,
     "wof:name":"Larry's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.300276,35.566645,-97.300276,35.566645],
+  "bbox": [
+    -97.300276,
+    35.566645,
+    -97.300276,
+    35.566645
+],
   "geometry": {"coordinates":[-97.300276,35.566645],"type":"Point"}
 }

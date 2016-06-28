@@ -2,13 +2,14 @@
   "id": 336953901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.970853,34.496827,-97.970853,34.496827",
     "geom:latitude":34.496827,
     "geom:longitude":-97.970853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 S Industrial Ave",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336953901,
-    "wof:lastmodified":1448997668,
+    "wof:lastmodified":1466765347,
     "wof:name":"Steve's Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.970853,34.496827,-97.970853,34.496827],
-  "geometry": {"coordinates":[-97.970853,34.496827],"type":"Point"}
+  "bbox": [
+    -97.970853,
+    34.496827,
+    -97.970853,
+    34.496827
+],
+  "geometry": {"coordinates":[-97.97085300000001,34.496827],"type":"Point"}
 }

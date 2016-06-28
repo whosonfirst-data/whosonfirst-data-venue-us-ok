@@ -2,13 +2,14 @@
   "id": 303436721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.884164,36.321942,-95.884164,36.321942",
     "geom:latitude":36.321942,
     "geom:longitude":-95.884164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11231 N Memorial Dr",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303436721,
-    "wof:lastmodified":1449000332,
+    "wof:lastmodified":1466765503,
     "wof:name":"Camcast Corp",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "nonferrous"
     ]
 },
-  "bbox": [-95.884164,36.321942,-95.884164,36.321942],
+  "bbox": [
+    -95.884164,
+    36.321942,
+    -95.884164,
+    36.321942
+],
   "geometry": {"coordinates":[-95.884164,36.321942],"type":"Point"}
 }

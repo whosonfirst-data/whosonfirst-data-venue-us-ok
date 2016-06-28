@@ -2,13 +2,14 @@
   "id": 354134103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.404744,34.619051,-98.404744,34.619051",
     "geom:latitude":34.619051,
     "geom:longitude":-98.404744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 NW Fort Sill Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354134103,
-    "wof:lastmodified":1449067578,
+    "wof:lastmodified":1466763634,
     "wof:name":"US Post Office",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.404744,34.619051,-98.404744,34.619051],
-  "geometry": {"coordinates":[-98.404744,34.619051],"type":"Point"}
+  "bbox": [
+    -98.404744,
+    34.619051,
+    -98.404744,
+    34.619051
+],
+  "geometry": {"coordinates":[-98.40474399999999,34.619051],"type":"Point"}
 }

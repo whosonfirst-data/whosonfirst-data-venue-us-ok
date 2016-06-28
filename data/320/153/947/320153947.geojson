@@ -2,13 +2,14 @@
   "id": 320153947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.682496,34.784969,-96.682496,34.784969",
     "geom:latitude":34.784969,
     "geom:longitude":-96.682496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 N Stockton St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320153947,
-    "wof:lastmodified":1449013845,
+    "wof:lastmodified":1466764408,
     "wof:name":"Housing Authority City Of Ada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-96.682496,34.784969,-96.682496,34.784969],
+  "bbox": [
+    -96.682496,
+    34.784969,
+    -96.682496,
+    34.784969
+],
   "geometry": {"coordinates":[-96.682496,34.784969],"type":"Point"}
 }

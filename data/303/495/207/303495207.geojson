@@ -2,13 +2,14 @@
   "id": 303495207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.749869,34.902146,-95.749869,34.902146",
     "geom:latitude":34.902146,
     "geom:longitude":-95.749869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 S George Nigh Expy",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303495207,
-    "wof:lastmodified":1448999198,
+    "wof:lastmodified":1466765818,
     "wof:name":"Community Of Christ Church",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.749869,34.902146,-95.749869,34.902146],
+  "bbox": [
+    -95.749869,
+    34.902146,
+    -95.749869,
+    34.902146
+],
   "geometry": {"coordinates":[-95.749869,34.902146],"type":"Point"}
 }

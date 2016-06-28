@@ -2,13 +2,14 @@
   "id": 319897877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.539848,35.353972,-97.539848,35.353972",
     "geom:latitude":35.353972,
     "geom:longitude":-97.539848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 SW 114th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319897877,
-    "wof:lastmodified":1449024763,
+    "wof:lastmodified":1466763513,
     "wof:name":"Greenbriar Kingsride Homeowner",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.539848,35.353972,-97.539848,35.353972],
-  "geometry": {"coordinates":[-97.539848,35.353972],"type":"Point"}
+  "bbox": [
+    -97.539848,
+    35.353972,
+    -97.539848,
+    35.353972
+],
+  "geometry": {"coordinates":[-97.53984800000001,35.353972],"type":"Point"}
 }

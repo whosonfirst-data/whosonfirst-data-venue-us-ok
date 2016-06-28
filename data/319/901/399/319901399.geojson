@@ -2,13 +2,14 @@
   "id": 319901399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.098262,36.005636,-96.098262,36.005636",
     "geom:latitude":36.005636,
     "geom:longitude":-96.098262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 E Jones Ave",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319901399,
-    "wof:lastmodified":1449024413,
+    "wof:lastmodified":1466763525,
     "wof:name":"Monkey Ink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-96.098262,36.005636,-96.098262,36.005636],
-  "geometry": {"coordinates":[-96.098262,36.005636],"type":"Point"}
+  "bbox": [
+    -96.098262,
+    36.005636,
+    -96.098262,
+    36.005636
+],
+  "geometry": {"coordinates":[-96.09826200000001,36.005636],"type":"Point"}
 }

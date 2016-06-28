@@ -2,13 +2,14 @@
   "id": 220158673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.46399,36.310921,-96.46399,36.310921",
     "geom:latitude":36.310921,
     "geom:longitude":-96.46399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N Broadway St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -85,10 +86,11 @@
         }
     ],
     "wof:id":220158673,
-    "wof:lastmodified":1449074591,
+    "wof:lastmodified":1466762296,
     "wof:name":"Blackburn Ace Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -104,6 +106,11 @@
         "store"
     ]
 },
-  "bbox": [-96.46399,36.310921,-96.46399,36.310921],
+  "bbox": [
+    -96.46399,
+    36.310921,
+    -96.46399,
+    36.310921
+],
   "geometry": {"coordinates":[-96.46399,36.310921],"type":"Point"}
 }

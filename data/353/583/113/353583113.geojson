@@ -2,13 +2,14 @@
   "id": 353583113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.581576,35.594055,-97.581576,35.594055",
     "geom:latitude":35.594055,
     "geom:longitude":-97.581576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 Twelve Oaks Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353583113,
-    "wof:lastmodified":1449020284,
+    "wof:lastmodified":1466764296,
     "wof:name":"Tom Taylor Construction Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.581576,35.594055,-97.581576,35.594055],
+  "bbox": [
+    -97.581576,
+    35.594055,
+    -97.581576,
+    35.594055
+],
   "geometry": {"coordinates":[-97.581576,35.594055],"type":"Point"}
 }

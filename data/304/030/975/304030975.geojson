@@ -2,13 +2,14 @@
   "id": 304030975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.959833,36.156515,-95.959833,36.156515",
     "geom:latitude":36.156515,
     "geom:longitude":-95.959833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 E 3rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304030975,
-    "wof:lastmodified":1449043783,
+    "wof:lastmodified":1466762989,
     "wof:name":"Bronco Auto Sales",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.959833,36.156515,-95.959833,36.156515],
+  "bbox": [
+    -95.959833,
+    36.156515,
+    -95.959833,
+    36.156515
+],
   "geometry": {"coordinates":[-95.959833,36.156515],"type":"Point"}
 }

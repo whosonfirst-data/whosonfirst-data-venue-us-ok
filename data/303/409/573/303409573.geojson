@@ -2,13 +2,14 @@
   "id": 303409573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.937139,36.066255,-95.937139,36.066255",
     "geom:latitude":36.066255,
     "geom:longitude":-95.937139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6659 S Jamestown Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303409573,
-    "wof:lastmodified":1448999122,
+    "wof:lastmodified":1466765352,
     "wof:name":"Fluid Flow Engineering Co",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-95.937139,36.066255,-95.937139,36.066255],
+  "bbox": [
+    -95.937139,
+    36.066255,
+    -95.937139,
+    36.066255
+],
   "geometry": {"coordinates":[-95.937139,36.066255],"type":"Point"}
 }

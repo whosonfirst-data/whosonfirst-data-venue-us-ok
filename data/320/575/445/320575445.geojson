@@ -2,13 +2,14 @@
   "id": 320575445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.643301,35.580154,-97.643301,35.580154",
     "geom:latitude":35.580154,
     "geom:longitude":-97.643301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7109 W Hefner Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320575445,
-    "wof:lastmodified":1449012342,
+    "wof:lastmodified":1466766350,
     "wof:name":"AMPM Doctors Urgent Clinic",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-97.643301,35.580154,-97.643301,35.580154],
-  "geometry": {"coordinates":[-97.643301,35.580154],"type":"Point"}
+  "bbox": [
+    -97.643301,
+    35.580154,
+    -97.643301,
+    35.580154
+],
+  "geometry": {"coordinates":[-97.64330099999999,35.580154],"type":"Point"}
 }

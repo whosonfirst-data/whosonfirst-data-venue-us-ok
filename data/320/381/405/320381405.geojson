@@ -2,13 +2,14 @@
   "id": 320381405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.764491,34.946632,-95.764491,34.946632",
     "geom:latitude":34.946632,
     "geom:longitude":-95.764491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 N Main St",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320381405,
-    "wof:lastmodified":1449011552,
+    "wof:lastmodified":1466765606,
     "wof:name":"Kiamichi Automotive Warehouse",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-95.764491,34.946632,-95.764491,34.946632],
-  "geometry": {"coordinates":[-95.764491,34.946632],"type":"Point"}
+  "bbox": [
+    -95.764491,
+    34.946632,
+    -95.764491,
+    34.946632
+],
+  "geometry": {"coordinates":[-95.76449100000001,34.946632],"type":"Point"}
 }

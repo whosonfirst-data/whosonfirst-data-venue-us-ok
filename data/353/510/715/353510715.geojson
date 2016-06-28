@@ -2,13 +2,14 @@
   "id": 353510715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.881839,35.918866,-95.881839,35.918866",
     "geom:latitude":35.918866,
     "geom:longitude":-95.881839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8320 E 169th St S",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353510715,
-    "wof:lastmodified":1449019817,
+    "wof:lastmodified":1466763285,
     "wof:name":"R P M Data",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.881839,35.918866,-95.881839,35.918866],
+  "bbox": [
+    -95.881839,
+    35.918866,
+    -95.881839,
+    35.918866
+],
   "geometry": {"coordinates":[-95.881839,35.918866],"type":"Point"}
 }

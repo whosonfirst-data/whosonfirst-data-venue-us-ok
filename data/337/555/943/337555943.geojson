@@ -2,13 +2,14 @@
   "id": 337555943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904631,36.138846,-95.904631,36.138846",
     "geom:latitude":36.138846,
     "geom:longitude":-95.904631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 S Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":337555943,
-    "wof:lastmodified":1449027630,
+    "wof:lastmodified":1466762968,
     "wof:name":"Big Wheel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "cover"
     ]
 },
-  "bbox": [-95.904631,36.138846,-95.904631,36.138846],
-  "geometry": {"coordinates":[-95.904631,36.138846],"type":"Point"}
+  "bbox": [
+    -95.904631,
+    36.138846,
+    -95.904631,
+    36.138846
+],
+  "geometry": {"coordinates":[-95.90463099999999,36.138846],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320648371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.888247,36.160777,-95.888247,36.160777",
     "geom:latitude":36.160777,
     "geom:longitude":-95.888247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7813 E Admiral Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320648371,
-    "wof:lastmodified":1449012277,
+    "wof:lastmodified":1466766383,
     "wof:name":"Galaxy Distributing Co",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vending"
     ]
 },
-  "bbox": [-95.888247,36.160777,-95.888247,36.160777],
-  "geometry": {"coordinates":[-95.888247,36.160777],"type":"Point"}
+  "bbox": [
+    -95.888247,
+    36.160777,
+    -95.888247,
+    36.160777
+],
+  "geometry": {"coordinates":[-95.88824700000001,36.160777],"type":"Point"}
 }

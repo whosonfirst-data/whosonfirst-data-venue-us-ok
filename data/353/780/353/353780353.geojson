@@ -2,13 +2,14 @@
   "id": 353780353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.905042,36.148011,-95.905042,36.148011",
     "geom:latitude":36.148011,
     "geom:longitude":-95.905042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6449 E 11th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353780353,
-    "wof:lastmodified":1449020159,
+    "wof:lastmodified":1466765116,
     "wof:name":"Green Country Autoplex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.905042,36.148011,-95.905042,36.148011],
-  "geometry": {"coordinates":[-95.905042,36.148011],"type":"Point"}
+  "bbox": [
+    -95.905042,
+    36.148011,
+    -95.905042,
+    36.148011
+],
+  "geometry": {"coordinates":[-95.90504199999999,36.148011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320330545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.855086,36.266038,-95.855086,36.266038",
     "geom:latitude":36.266038,
     "geom:longitude":-95.855086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Broadway St",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320330545,
-    "wof:lastmodified":1449013125,
+    "wof:lastmodified":1466765367,
     "wof:name":"Job Analysis Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-95.855086,36.266038,-95.855086,36.266038],
+  "bbox": [
+    -95.855086,
+    36.266038,
+    -95.855086,
+    36.266038
+],
   "geometry": {"coordinates":[-95.855086,36.266038],"type":"Point"}
 }

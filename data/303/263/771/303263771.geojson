@@ -2,13 +2,14 @@
   "id": 303263771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.453559,36.430629,-95.453559,36.430629",
     "geom:latitude":36.430629,
     "geom:longitude":-95.453559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12504 S 4240 Rd",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303263771,
-    "wof:lastmodified":1449000493,
+    "wof:lastmodified":1466764780,
     "wof:name":"Tri-State Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "floor"
     ]
 },
-  "bbox": [-95.453559,36.430629,-95.453559,36.430629],
+  "bbox": [
+    -95.453559,
+    36.430629,
+    -95.453559,
+    36.430629
+],
   "geometry": {"coordinates":[-95.453559,36.430629],"type":"Point"}
 }

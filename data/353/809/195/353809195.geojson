@@ -2,13 +2,14 @@
   "id": 353809195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.088187,35.083134,-98.088187,35.083134",
     "geom:latitude":35.083134,
     "geom:longitude":-98.088187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Main St",
     "sg:city":"Verden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353809195,
-    "wof:lastmodified":1449020369,
+    "wof:lastmodified":1466765362,
     "wof:name":"United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.088187,35.083134,-98.088187,35.083134],
+  "bbox": [
+    -98.088187,
+    35.083134,
+    -98.088187,
+    35.083134
+],
   "geometry": {"coordinates":[-98.088187,35.083134],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353937091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886437,36.100222,-95.886437,36.100222",
     "geom:latitude":36.100222,
     "geom:longitude":-95.886437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4343 S Memorial Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353937091,
-    "wof:lastmodified":1449018733,
+    "wof:lastmodified":1466765692,
     "wof:name":"GSI",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.886437,36.100222,-95.886437,36.100222],
+  "bbox": [
+    -95.886437,
+    36.100222,
+    -95.886437,
+    36.100222
+],
   "geometry": {"coordinates":[-95.886437,36.100222],"type":"Point"}
 }

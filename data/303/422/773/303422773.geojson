@@ -2,13 +2,14 @@
   "id": 303422773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.142627,35.932603,-95.142627,35.932603",
     "geom:latitude":35.932603,
     "geom:longitude":-95.142627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 S Elm St",
     "sg:city":"Hulbert",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303422773,
-    "wof:lastmodified":1448998289,
+    "wof:lastmodified":1466765444,
     "wof:name":"Turneys Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.142627,35.932603,-95.142627,35.932603],
+  "bbox": [
+    -95.142627,
+    35.932603,
+    -95.142627,
+    35.932603
+],
   "geometry": {"coordinates":[-95.142627,35.932603],"type":"Point"}
 }

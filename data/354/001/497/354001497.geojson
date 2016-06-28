@@ -2,13 +2,14 @@
   "id": 354001497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.614258,35.454424,-97.614258,35.454424",
     "geom:latitude":35.454424,
     "geom:longitude":-97.614258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 SW 11th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354001497,
-    "wof:lastmodified":1449066312,
+    "wof:lastmodified":1466762919,
     "wof:name":"TLW Inc",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "polish"
     ]
 },
-  "bbox": [-97.614258,35.454424,-97.614258,35.454424],
-  "geometry": {"coordinates":[-97.614258,35.454424],"type":"Point"}
+  "bbox": [
+    -97.614258,
+    35.454424,
+    -97.614258,
+    35.454424
+],
+  "geometry": {"coordinates":[-97.61425800000001,35.454424],"type":"Point"}
 }

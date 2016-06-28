@@ -2,13 +2,14 @@
   "id": 304007415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.487622,35.477996,-97.487622,35.477996",
     "geom:latitude":35.477996,
     "geom:longitude":-97.487622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 NE 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304007415,
-    "wof:lastmodified":1449044061,
+    "wof:lastmodified":1466762857,
     "wof:name":"Special Health Services",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "health"
     ]
 },
-  "bbox": [-97.487622,35.477996,-97.487622,35.477996],
+  "bbox": [
+    -97.487622,
+    35.477996,
+    -97.487622,
+    35.477996
+],
   "geometry": {"coordinates":[-97.487622,35.477996],"type":"Point"}
 }

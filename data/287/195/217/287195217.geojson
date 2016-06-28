@@ -2,13 +2,14 @@
   "id": 287195217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.191155,35.493117,-97.191155,35.493117",
     "geom:latitude":35.493117,
     "geom:longitude":-97.191155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19001 NE 23rd St",
     "sg:city":"Harrah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287195217,
-    "wof:lastmodified":1449001273,
+    "wof:lastmodified":1466763948,
     "wof:name":"Circle Z",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.191155,35.493117,-97.191155,35.493117],
-  "geometry": {"coordinates":[-97.191155,35.493117],"type":"Point"}
+  "bbox": [
+    -97.191155,
+    35.493117,
+    -97.191155,
+    35.493117
+],
+  "geometry": {"coordinates":[-97.19115499999999,35.493117],"type":"Point"}
 }

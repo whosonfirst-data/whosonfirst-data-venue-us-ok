@@ -2,13 +2,14 @@
   "id": 353853293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.387965,33.993679,-96.387965,33.993679",
     "geom:latitude":33.993679,
     "geom:longitude":-96.387965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 W Main St",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353853293,
-    "wof:lastmodified":1449019286,
+    "wof:lastmodified":1466765456,
     "wof:name":"Superwash Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.387965,33.993679,-96.387965,33.993679],
-  "geometry": {"coordinates":[-96.387965,33.993679],"type":"Point"}
+  "bbox": [
+    -96.387965,
+    33.993679,
+    -96.387965,
+    33.993679
+],
+  "geometry": {"coordinates":[-96.38796499999999,33.993679],"type":"Point"}
 }

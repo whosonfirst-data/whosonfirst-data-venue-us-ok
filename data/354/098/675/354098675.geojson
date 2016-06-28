@@ -2,13 +2,14 @@
   "id": 354098675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.65112,35.498211,-97.65112,35.498211",
     "geom:latitude":35.498211,
     "geom:longitude":-97.65112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7824 NW 28th Ter",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354098675,
-    "wof:lastmodified":1449067495,
+    "wof:lastmodified":1466763501,
     "wof:name":"Charles Pence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "air"
     ]
 },
-  "bbox": [-97.65112,35.498211,-97.65112,35.498211],
-  "geometry": {"coordinates":[-97.65112,35.498211],"type":"Point"}
+  "bbox": [
+    -97.65112,
+    35.498211,
+    -97.65112,
+    35.498211
+],
+  "geometry": {"coordinates":[-97.65112000000001,35.498211],"type":"Point"}
 }

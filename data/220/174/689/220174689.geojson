@@ -2,13 +2,14 @@
   "id": 220174689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.957963,36.089324,-95.957963,36.089324",
     "geom:latitude":36.089324,
     "geom:longitude":-95.957963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5121 S Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220174689,
-    "wof:lastmodified":1449074138,
+    "wof:lastmodified":1466762335,
     "wof:name":"Dr Frank's Gym",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.957963,36.089324,-95.957963,36.089324],
-  "geometry": {"coordinates":[-95.957963,36.089324],"type":"Point"}
+  "bbox": [
+    -95.957963,
+    36.089324,
+    -95.957963,
+    36.089324
+],
+  "geometry": {"coordinates":[-95.95796300000001,36.089324],"type":"Point"}
 }

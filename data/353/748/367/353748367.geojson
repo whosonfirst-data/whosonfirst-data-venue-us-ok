@@ -2,13 +2,14 @@
   "id": 353748367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.650089,35.568712,-97.650089,35.568712",
     "geom:latitude":35.568712,
     "geom:longitude":-97.650089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7508 Eastgate Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353748367,
-    "wof:lastmodified":1449020165,
+    "wof:lastmodified":1466765087,
     "wof:name":"Support Reality One",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.650089,35.568712,-97.650089,35.568712],
-  "geometry": {"coordinates":[-97.650089,35.568712],"type":"Point"}
+  "bbox": [
+    -97.650089,
+    35.568712,
+    -97.650089,
+    35.568712
+],
+  "geometry": {"coordinates":[-97.65008899999999,35.568712],"type":"Point"}
 }

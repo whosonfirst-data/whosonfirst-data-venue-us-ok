@@ -2,13 +2,14 @@
   "id": 304051555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.877447,36.870702,-94.877447,36.870702",
     "geom:latitude":36.870702,
     "geom:longitude":-94.877447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 S Main St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304051555,
-    "wof:lastmodified":1449043949,
+    "wof:lastmodified":1466763119,
     "wof:name":"Genes Auto Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-94.877447,36.870702,-94.877447,36.870702],
+  "bbox": [
+    -94.877447,
+    36.870702,
+    -94.877447,
+    36.870702
+],
   "geometry": {"coordinates":[-94.877447,36.870702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303225001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.079823,36.720794,-97.079823,36.720794",
     "geom:latitude":36.720794,
     "geom:longitude":-97.079823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 E Detroit Ave",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303225001,
-    "wof:lastmodified":1448998877,
+    "wof:lastmodified":1466764677,
     "wof:name":"G W Wall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-97.079823,36.720794,-97.079823,36.720794],
+  "bbox": [
+    -97.079823,
+    36.720794,
+    -97.079823,
+    36.720794
+],
   "geometry": {"coordinates":[-97.079823,36.720794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303641493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.926566,36.399803,-97.926566,36.399803",
     "geom:latitude":36.399803,
     "geom:longitude":-97.926566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4004 Village Dr",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303641493,
-    "wof:lastmodified":1448999977,
+    "wof:lastmodified":1466766332,
     "wof:name":"Seven Pines Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.926566,36.399803,-97.926566,36.399803],
-  "geometry": {"coordinates":[-97.926566,36.399803],"type":"Point"}
+  "bbox": [
+    -97.926566,
+    36.399803,
+    -97.926566,
+    36.399803
+],
+  "geometry": {"coordinates":[-97.92656599999999,36.399803],"type":"Point"}
 }

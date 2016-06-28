@@ -2,13 +2,14 @@
   "id": 336826169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733741,36.80873,-97.733741,36.80873",
     "geom:latitude":36.80873,
     "geom:longitude":-97.733741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 1st St",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336826169,
-    "wof:lastmodified":1448997715,
+    "wof:lastmodified":1466764803,
     "wof:name":"Grant County Sheriffs Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sheriff"
     ]
 },
-  "bbox": [-97.733741,36.80873,-97.733741,36.80873],
-  "geometry": {"coordinates":[-97.733741,36.80873],"type":"Point"}
+  "bbox": [
+    -97.733741,
+    36.80873,
+    -97.733741,
+    36.80873
+],
+  "geometry": {"coordinates":[-97.73374099999999,36.80873],"type":"Point"}
 }

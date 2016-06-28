@@ -2,13 +2,14 @@
   "id": 336612239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.011451,35.953858,-96.011451,35.953858",
     "geom:latitude":35.953858,
     "geom:longitude":-96.011451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14733 S Casper St",
     "sg:city":"Glenpool",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336612239,
-    "wof:lastmodified":1448997425,
+    "wof:lastmodified":1466762363,
     "wof:name":"B Line Motors",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.011451,35.953858,-96.011451,35.953858],
-  "geometry": {"coordinates":[-96.011451,35.953858],"type":"Point"}
+  "bbox": [
+    -96.011451,
+    35.953858,
+    -96.011451,
+    35.953858
+],
+  "geometry": {"coordinates":[-96.01145099999999,35.953858],"type":"Point"}
 }

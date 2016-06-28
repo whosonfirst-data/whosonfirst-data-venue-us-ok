@@ -2,13 +2,14 @@
   "id": 336880027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.945794,35.915512,-94.945794,35.915512",
     "geom:latitude":35.915512,
     "geom:longitude":-94.945794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Old River Rd",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336880027,
-    "wof:lastmodified":1448998021,
+    "wof:lastmodified":1466765109,
     "wof:name":"Webster's Drilling Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-94.945794,35.915512,-94.945794,35.915512],
-  "geometry": {"coordinates":[-94.945794,35.915512],"type":"Point"}
+  "bbox": [
+    -94.945794,
+    35.915512,
+    -94.945794,
+    35.915512
+],
+  "geometry": {"coordinates":[-94.94579400000001,35.915512],"type":"Point"}
 }

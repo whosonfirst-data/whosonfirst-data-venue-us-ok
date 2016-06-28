@@ -2,13 +2,14 @@
   "id": 320796483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.525691,35.478572,-97.525691,35.478572",
     "geom:latitude":35.478572,
     "geom:longitude":-97.525691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 N Shartel Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320796483,
-    "wof:lastmodified":1449013021,
+    "wof:lastmodified":1466766759,
     "wof:name":"Preferred Hospice Care",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "patient"
     ]
 },
-  "bbox": [-97.525691,35.478572,-97.525691,35.478572],
-  "geometry": {"coordinates":[-97.525691,35.478572],"type":"Point"}
+  "bbox": [
+    -97.525691,
+    35.478572,
+    -97.525691,
+    35.478572
+],
+  "geometry": {"coordinates":[-97.52569099999999,35.478572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303395307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.756436,36.045785,-95.756436,36.045785",
     "geom:latitude":36.045785,
     "geom:longitude":-95.756436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3008 E Indianola St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303395307,
-    "wof:lastmodified":1449000202,
+    "wof:lastmodified":1466765424,
     "wof:name":"Gentle Hands Maternity Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.756436,36.045785,-95.756436,36.045785],
-  "geometry": {"coordinates":[-95.756436,36.045785],"type":"Point"}
+  "bbox": [
+    -95.756436,
+    36.045785,
+    -95.756436,
+    36.045785
+],
+  "geometry": {"coordinates":[-95.75643599999999,36.045785],"type":"Point"}
 }

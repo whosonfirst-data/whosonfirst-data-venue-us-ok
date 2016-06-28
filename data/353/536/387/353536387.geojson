@@ -2,13 +2,14 @@
   "id": 353536387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.307161,36.307403,-95.307161,36.307403",
     "geom:latitude":36.307403,
     "geom:longitude":-95.307161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 NE 1st St",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353536387,
-    "wof:lastmodified":1449019794,
+    "wof:lastmodified":1466763653,
     "wof:name":"Womens Health Ctr Of Pryor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.307161,36.307403,-95.307161,36.307403],
-  "geometry": {"coordinates":[-95.307161,36.307403],"type":"Point"}
+  "bbox": [
+    -95.307161,
+    36.307403,
+    -95.307161,
+    36.307403
+],
+  "geometry": {"coordinates":[-95.30716099999999,36.307403],"type":"Point"}
 }

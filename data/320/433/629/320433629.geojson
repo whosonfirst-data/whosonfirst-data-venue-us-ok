@@ -2,13 +2,14 @@
   "id": 320433629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.399031,35.96139,-95.399031,35.96139",
     "geom:latitude":35.96139,
     "geom:longitude":-95.399031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 Trenton Cir",
     "sg:city":"Wagoner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320433629,
-    "wof:lastmodified":1449011679,
+    "wof:lastmodified":1466765784,
     "wof:name":"Wilsons Veterinary Hosp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-95.399031,35.96139,-95.399031,35.96139],
-  "geometry": {"coordinates":[-95.399031,35.96139],"type":"Point"}
+  "bbox": [
+    -95.399031,
+    35.96139,
+    -95.399031,
+    35.96139
+],
+  "geometry": {"coordinates":[-95.39903099999999,35.96139],"type":"Point"}
 }

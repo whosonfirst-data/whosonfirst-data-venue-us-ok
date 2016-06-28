@@ -2,13 +2,14 @@
   "id": 304025919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.987313,35.502542,-98.987313,35.502542",
     "geom:latitude":35.502542,
     "geom:longitude":-98.987313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2249 W Gary Blvd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304025919,
-    "wof:lastmodified":1449044076,
+    "wof:lastmodified":1466762954,
     "wof:name":"T C's Country Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.987313,35.502542,-98.987313,35.502542],
+  "bbox": [
+    -98.987313,
+    35.502542,
+    -98.987313,
+    35.502542
+],
   "geometry": {"coordinates":[-98.987313,35.502542],"type":"Point"}
 }

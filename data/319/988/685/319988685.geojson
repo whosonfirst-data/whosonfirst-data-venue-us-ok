@@ -2,13 +2,14 @@
   "id": 319988685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.324,34.625384,-99.324,34.625384",
     "geom:latitude":34.625384,
     "geom:longitude":-99.324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Hazel St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319988685,
-    "wof:lastmodified":1449024339,
+    "wof:lastmodified":1466762525,
     "wof:name":"Bug Master Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.324,34.625384,-99.324,34.625384],
+  "bbox": [
+    -99.324,
+    34.625384,
+    -99.324,
+    34.625384
+],
   "geometry": {"coordinates":[-99.324,34.625384],"type":"Point"}
 }

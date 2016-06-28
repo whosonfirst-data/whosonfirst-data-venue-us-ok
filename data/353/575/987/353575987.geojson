@@ -2,13 +2,14 @@
   "id": 353575987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.854918,36.157983,-95.854918,36.157983",
     "geom:latitude":36.157983,
     "geom:longitude":-95.854918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S 109th East Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353575987,
-    "wof:lastmodified":1449019012,
+    "wof:lastmodified":1466764386,
     "wof:name":"Engineering Services & Testing",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-95.854918,36.157983,-95.854918,36.157983],
+  "bbox": [
+    -95.854918,
+    36.157983,
+    -95.854918,
+    36.157983
+],
   "geometry": {"coordinates":[-95.854918,36.157983],"type":"Point"}
 }

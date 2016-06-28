@@ -2,13 +2,14 @@
   "id": 353839269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.491887,35.6649,-97.491887,35.6649",
     "geom:latitude":35.6649,
     "geom:longitude":-97.491887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Holly Hill Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353839269,
-    "wof:lastmodified":1449019810,
+    "wof:lastmodified":1466765369,
     "wof:name":"Magee S Home Impr0vement",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.491887,35.6649,-97.491887,35.6649],
-  "geometry": {"coordinates":[-97.491887,35.6649],"type":"Point"}
+  "bbox": [
+    -97.491887,
+    35.6649,
+    -97.491887,
+    35.6649
+],
+  "geometry": {"coordinates":[-97.49188700000001,35.6649],"type":"Point"}
 }

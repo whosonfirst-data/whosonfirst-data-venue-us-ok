@@ -2,13 +2,14 @@
   "id": 353672719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.92358,36.390926,-97.92358,36.390926",
     "geom:latitude":36.390926,
     "geom:longitude":-97.92358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3828 W Owen K Garriott Rd",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353672719,
-    "wof:lastmodified":1449018420,
+    "wof:lastmodified":1466764651,
     "wof:name":"Homeland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.92358,36.390926,-97.92358,36.390926],
+  "bbox": [
+    -97.92358,
+    36.390926,
+    -97.92358,
+    36.390926
+],
   "geometry": {"coordinates":[-97.92358,36.390926],"type":"Point"}
 }

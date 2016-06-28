@@ -2,13 +2,14 @@
   "id": 320135545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.330631,34.610558,-98.330631,34.610558",
     "geom:latitude":34.610558,
     "geom:longitude":-98.330631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4539 NE Bell Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320135545,
-    "wof:lastmodified":1449012709,
+    "wof:lastmodified":1466764314,
     "wof:name":"Oklahoma Design Technologies",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-98.330631,34.610558,-98.330631,34.610558],
+  "bbox": [
+    -98.330631,
+    34.610558,
+    -98.330631,
+    34.610558
+],
   "geometry": {"coordinates":[-98.330631,34.610558],"type":"Point"}
 }

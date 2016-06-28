@@ -2,13 +2,14 @@
   "id": 320838851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.411751,34.633295,-98.411751,34.633295",
     "geom:latitude":34.633295,
     "geom:longitude":-98.411751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 NW Bessie Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320838851,
-    "wof:lastmodified":1449011700,
+    "wof:lastmodified":1466766936,
     "wof:name":"Henry Pat Elementary School",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-98.411751,34.633295,-98.411751,34.633295],
+  "bbox": [
+    -98.411751,
+    34.633295,
+    -98.411751,
+    34.633295
+],
   "geometry": {"coordinates":[-98.411751,34.633295],"type":"Point"}
 }

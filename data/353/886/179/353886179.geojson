@@ -2,13 +2,14 @@
   "id": 353886179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.636586,35.477781,-97.636586,35.477781",
     "geom:latitude":35.477781,
     "geom:longitude":-97.636586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 N Rockwell Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353886179,
-    "wof:lastmodified":1449019673,
+    "wof:lastmodified":1466765636,
     "wof:name":"Eastern Winds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.636586,35.477781,-97.636586,35.477781],
-  "geometry": {"coordinates":[-97.636586,35.477781],"type":"Point"}
+  "bbox": [
+    -97.636586,
+    35.477781,
+    -97.636586,
+    35.477781
+],
+  "geometry": {"coordinates":[-97.63658599999999,35.477781],"type":"Point"}
 }

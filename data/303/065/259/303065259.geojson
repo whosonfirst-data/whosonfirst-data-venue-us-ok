@@ -2,13 +2,14 @@
   "id": 303065259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.410914,34.608684,-98.410914,34.608684",
     "geom:latitude":34.608684,
     "geom:longitude":-98.410914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 W Gore Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303065259,
-    "wof:lastmodified":1449000534,
+    "wof:lastmodified":1466762670,
     "wof:name":"Brenda Nelson",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.410914,34.608684,-98.410914,34.608684],
-  "geometry": {"coordinates":[-98.410914,34.608684],"type":"Point"}
+  "bbox": [
+    -98.410914,
+    34.608684,
+    -98.410914,
+    34.608684
+],
+  "geometry": {"coordinates":[-98.41091400000001,34.608684],"type":"Point"}
 }

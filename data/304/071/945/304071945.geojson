@@ -2,13 +2,14 @@
   "id": 304071945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.344585,35.435283,-97.344585,35.435283",
     "geom:latitude":35.435283,
     "geom:longitude":-97.344585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10928 SE 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304071945,
-    "wof:lastmodified":1449043957,
+    "wof:lastmodified":1466763238,
     "wof:name":"Midwest Community Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.344585,35.435283,-97.344585,35.435283],
+  "bbox": [
+    -97.344585,
+    35.435283,
+    -97.344585,
+    35.435283
+],
   "geometry": {"coordinates":[-97.344585,35.435283],"type":"Point"}
 }

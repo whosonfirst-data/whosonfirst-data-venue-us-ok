@@ -2,13 +2,14 @@
   "id": 354019565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.66863,35.231966,-96.66863,35.231966",
     "geom:latitude":35.231966,
     "geom:longitude":-96.66863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 N Main St",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354019565,
-    "wof:lastmodified":1449066928,
+    "wof:lastmodified":1466763063,
     "wof:name":"Bob's Bookkeeping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-96.66863,35.231966,-96.66863,35.231966],
-  "geometry": {"coordinates":[-96.66863,35.231966],"type":"Point"}
+  "bbox": [
+    -96.66863,
+    35.231966,
+    -96.66863,
+    35.231966
+],
+  "geometry": {"coordinates":[-96.66862999999999,35.231966],"type":"Point"}
 }

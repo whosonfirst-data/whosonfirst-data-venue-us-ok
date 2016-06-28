@@ -2,13 +2,14 @@
   "id": 320502929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.479114,34.232977,-97.479114,34.232977",
     "geom:latitude":34.232977,
     "geom:longitude":-97.479114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 E Main St",
     "sg:city":"Healdton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320502929,
-    "wof:lastmodified":1449012964,
+    "wof:lastmodified":1466766067,
     "wof:name":"Healdton Nursing Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-97.479114,34.232977,-97.479114,34.232977],
+  "bbox": [
+    -97.479114,
+    34.232977,
+    -97.479114,
+    34.232977
+],
   "geometry": {"coordinates":[-97.479114,34.232977],"type":"Point"}
 }

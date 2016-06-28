@@ -2,13 +2,14 @@
   "id": 320526785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.487022,35.638192,-97.487022,35.638192",
     "geom:latitude":35.638192,
     "geom:longitude":-97.487022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 W 15th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320526785,
-    "wof:lastmodified":1449012416,
+    "wof:lastmodified":1466766117,
     "wof:name":"Edmond Pick-Up Covers",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "accessory"
     ]
 },
-  "bbox": [-97.487022,35.638192,-97.487022,35.638192],
+  "bbox": [
+    -97.487022,
+    35.638192,
+    -97.487022,
+    35.638192
+],
   "geometry": {"coordinates":[-97.487022,35.638192],"type":"Point"}
 }

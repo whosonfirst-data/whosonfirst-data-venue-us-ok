@@ -2,13 +2,14 @@
   "id": 353499103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.402285,35.083502,-96.402285,35.083502",
     "geom:latitude":35.083502,
     "geom:longitude":-96.402285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Main St",
     "sg:city":"Holdenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353499103,
-    "wof:lastmodified":1449018740,
+    "wof:lastmodified":1466763100,
     "wof:name":"Kalico Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.402285,35.083502,-96.402285,35.083502],
-  "geometry": {"coordinates":[-96.402285,35.083502],"type":"Point"}
+  "bbox": [
+    -96.402285,
+    35.083502,
+    -96.402285,
+    35.083502
+],
+  "geometry": {"coordinates":[-96.40228500000001,35.083502],"type":"Point"}
 }

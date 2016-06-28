@@ -2,13 +2,14 @@
   "id": 320265863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.510183,35.519677,-97.510183,35.519677",
     "geom:latitude":35.519677,
     "geom:longitude":-97.510183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 NE 47th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320265863,
-    "wof:lastmodified":1449012549,
+    "wof:lastmodified":1466764876,
     "wof:name":"Stericycle Inc",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "removal"
     ]
 },
-  "bbox": [-97.510183,35.519677,-97.510183,35.519677],
+  "bbox": [
+    -97.510183,
+    35.519677,
+    -97.510183,
+    35.519677
+],
   "geometry": {"coordinates":[-97.510183,35.519677],"type":"Point"}
 }

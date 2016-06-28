@@ -2,13 +2,14 @@
   "id": 303624389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.894583,36.046434,-95.894583,36.046434",
     "geom:latitude":36.046434,
     "geom:longitude":-95.894583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7291 E 81st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303624389,
-    "wof:lastmodified":1448999795,
+    "wof:lastmodified":1466766275,
     "wof:name":"Central Church Of The Nazarene",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.894583,36.046434,-95.894583,36.046434],
+  "bbox": [
+    -95.894583,
+    36.046434,
+    -95.894583,
+    36.046434
+],
   "geometry": {"coordinates":[-95.894583,36.046434],"type":"Point"}
 }

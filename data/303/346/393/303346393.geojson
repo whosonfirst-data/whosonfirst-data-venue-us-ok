@@ -2,13 +2,14 @@
   "id": 303346393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.815892,36.012804,-95.815892,36.012804",
     "geom:latitude":36.012804,
     "geom:longitude":-95.815892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4013 S Beech Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303346393,
-    "wof:lastmodified":1448998102,
+    "wof:lastmodified":1466765141,
     "wof:name":"Inline Skate Park Builders",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.815892,36.012804,-95.815892,36.012804],
-  "geometry": {"coordinates":[-95.815892,36.012804],"type":"Point"}
+  "bbox": [
+    -95.815892,
+    36.012804,
+    -95.815892,
+    36.012804
+],
+  "geometry": {"coordinates":[-95.81589200000001,36.012804],"type":"Point"}
 }

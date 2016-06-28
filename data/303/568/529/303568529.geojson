@@ -2,13 +2,14 @@
   "id": 303568529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.012015,36.151816,-96.012015,36.151816",
     "geom:latitude":36.151816,
     "geom:longitude":-96.012015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Charles Page Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303568529,
-    "wof:lastmodified":1448998058,
+    "wof:lastmodified":1466766101,
     "wof:name":"Newblock Swimming Pool",
     "wof:parent_id":85872473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-96.012015,36.151816,-96.012015,36.151816],
-  "geometry": {"coordinates":[-96.012015,36.151816],"type":"Point"}
+  "bbox": [
+    -96.012015,
+    36.151816,
+    -96.012015,
+    36.151816
+],
+  "geometry": {"coordinates":[-96.01201500000001,36.151816],"type":"Point"}
 }

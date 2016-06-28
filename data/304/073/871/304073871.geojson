@@ -2,13 +2,14 @@
   "id": 304073871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.851179,36.067738,-95.851179,36.067738",
     "geom:latitude":36.067738,
     "geom:longitude":-95.851179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11204 E 67th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304073871,
-    "wof:lastmodified":1449043628,
+    "wof:lastmodified":1466763248,
     "wof:name":"Merck",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.851179,36.067738,-95.851179,36.067738],
+  "bbox": [
+    -95.851179,
+    36.067738,
+    -95.851179,
+    36.067738
+],
   "geometry": {"coordinates":[-95.851179,36.067738],"type":"Point"}
 }

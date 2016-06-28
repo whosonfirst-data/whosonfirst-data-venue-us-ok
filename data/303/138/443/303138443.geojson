@@ -2,13 +2,14 @@
   "id": 303138443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.403084,34.604126,-98.403084,34.604126",
     "geom:latitude":34.604126,
     "geom:longitude":-98.403084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 SW D Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303138443,
-    "wof:lastmodified":1448998821,
+    "wof:lastmodified":1466763854,
     "wof:name":"A G Edwards 046",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-98.403084,34.604126,-98.403084,34.604126],
-  "geometry": {"coordinates":[-98.403084,34.604126],"type":"Point"}
+  "bbox": [
+    -98.403084,
+    34.604126,
+    -98.403084,
+    34.604126
+],
+  "geometry": {"coordinates":[-98.40308400000001,34.604126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320379553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.313617,35.466596,-97.313617,35.466596",
     "geom:latitude":35.466596,
     "geom:longitude":-97.313617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 Tunbridge Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320379553,
-    "wof:lastmodified":1449013427,
+    "wof:lastmodified":1466765607,
     "wof:name":"Tunbridge Enterprises Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"
     ]
 },
-  "bbox": [-97.313617,35.466596,-97.313617,35.466596],
-  "geometry": {"coordinates":[-97.313617,35.466596],"type":"Point"}
+  "bbox": [
+    -97.313617,
+    35.466596,
+    -97.313617,
+    35.466596
+],
+  "geometry": {"coordinates":[-97.31361699999999,35.466596],"type":"Point"}
 }

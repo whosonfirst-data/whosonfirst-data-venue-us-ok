@@ -2,13 +2,14 @@
   "id": 354209291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.028155,36.116113,-97.028155,36.116113",
     "geom:latitude":36.116113,
     "geom:longitude":-97.028155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 E 6th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354209291,
-    "wof:lastmodified":1449067490,
+    "wof:lastmodified":1466763972,
     "wof:name":"Budget Transmission & Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-97.028155,36.116113,-97.028155,36.116113],
+  "bbox": [
+    -97.028155,
+    36.116113,
+    -97.028155,
+    36.116113
+],
   "geometry": {"coordinates":[-97.028155,36.116113],"type":"Point"}
 }

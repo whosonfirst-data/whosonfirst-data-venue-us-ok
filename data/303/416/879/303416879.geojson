@@ -2,13 +2,14 @@
   "id": 303416879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.881292,36.899996,-94.881292,36.899996",
     "geom:latitude":36.899996,
     "geom:longitude":-94.881292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 22nd Ave NW",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303416879,
-    "wof:lastmodified":1448999217,
+    "wof:lastmodified":1466765401,
     "wof:name":"Rustique Brick Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "brick"
     ]
 },
-  "bbox": [-94.881292,36.899996,-94.881292,36.899996],
+  "bbox": [
+    -94.881292,
+    36.899996,
+    -94.881292,
+    36.899996
+],
   "geometry": {"coordinates":[-94.881292,36.899996],"type":"Point"}
 }

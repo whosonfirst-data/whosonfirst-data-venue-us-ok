@@ -2,13 +2,14 @@
   "id": 304041651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.379776,35.507635,-97.379776,35.507635",
     "geom:latitude":35.507635,
     "geom:longitude":-97.379776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8512 NE 36th St",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304041651,
-    "wof:lastmodified":1449043766,
+    "wof:lastmodified":1466763053,
     "wof:name":"Spencer Church Of Christ",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.379776,35.507635,-97.379776,35.507635],
-  "geometry": {"coordinates":[-97.379776,35.507635],"type":"Point"}
+  "bbox": [
+    -97.379776,
+    35.507635,
+    -97.379776,
+    35.507635
+],
+  "geometry": {"coordinates":[-97.37977600000001,35.507635],"type":"Point"}
 }

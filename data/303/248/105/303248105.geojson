@@ -2,13 +2,14 @@
   "id": 303248105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.869723,36.083529,-95.869723,36.083529",
     "geom:latitude":36.083529,
     "geom:longitude":-95.869723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9520 E 55th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303248105,
-    "wof:lastmodified":1448999461,
+    "wof:lastmodified":1466764791,
     "wof:name":"A-Max Signs",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.869723,36.083529,-95.869723,36.083529],
-  "geometry": {"coordinates":[-95.869723,36.083529],"type":"Point"}
+  "bbox": [
+    -95.869723,
+    36.083529,
+    -95.869723,
+    36.083529
+],
+  "geometry": {"coordinates":[-95.86972299999999,36.083529],"type":"Point"}
 }

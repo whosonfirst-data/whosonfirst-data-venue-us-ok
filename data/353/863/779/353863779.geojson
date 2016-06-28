@@ -2,13 +2,14 @@
   "id": 353863779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.01079,34.392191,-99.01079,34.392191",
     "geom:latitude":34.392191,
     "geom:longitude":-99.01079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 N 15th St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353863779,
-    "wof:lastmodified":1449020000,
+    "wof:lastmodified":1466765559,
     "wof:name":"Frederick High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.01079,34.392191,-99.01079,34.392191],
+  "bbox": [
+    -99.01079,
+    34.392191,
+    -99.01079,
+    34.392191
+],
   "geometry": {"coordinates":[-99.01079,34.392191],"type":"Point"}
 }

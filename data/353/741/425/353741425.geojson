@@ -2,13 +2,14 @@
   "id": 353741425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.340447,35.750944,-95.340447,35.750944",
     "geom:latitude":35.750944,
     "geom:longitude":-95.340447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 N York St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353741425,
-    "wof:lastmodified":1449018381,
+    "wof:lastmodified":1466764973,
     "wof:name":"Green Country Apartments",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.340447,35.750944,-95.340447,35.750944],
+  "bbox": [
+    -95.340447,
+    35.750944,
+    -95.340447,
+    35.750944
+],
   "geometry": {"coordinates":[-95.340447,35.750944],"type":"Point"}
 }

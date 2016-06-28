@@ -2,13 +2,14 @@
   "id": 303242727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.49483,35.433529,-97.49483,35.433529",
     "geom:latitude":35.433529,
     "geom:longitude":-97.49483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3107 S High Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303242727,
-    "wof:lastmodified":1449000277,
+    "wof:lastmodified":1466764557,
     "wof:name":"De Hart Roofing & Sheet Metal",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.49483,35.433529,-97.49483,35.433529],
-  "geometry": {"coordinates":[-97.49483,35.433529],"type":"Point"}
+  "bbox": [
+    -97.49483,
+    35.433529,
+    -97.49483,
+    35.433529
+],
+  "geometry": {"coordinates":[-97.49482999999999,35.433529],"type":"Point"}
 }

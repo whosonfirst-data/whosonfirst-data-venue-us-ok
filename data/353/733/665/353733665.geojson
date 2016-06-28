@@ -2,13 +2,14 @@
   "id": 353733665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.331786,36.664879,-96.331786,36.664879",
     "geom:latitude":36.664879,
     "geom:longitude":-96.331786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 Lynn Ave",
     "sg:city":"Pawhuska",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353733665,
-    "wof:lastmodified":1449018603,
+    "wof:lastmodified":1466765030,
     "wof:name":"Jeff's Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-96.331786,36.664879,-96.331786,36.664879],
-  "geometry": {"coordinates":[-96.331786,36.664879],"type":"Point"}
+  "bbox": [
+    -96.331786,
+    36.664879,
+    -96.331786,
+    36.664879
+],
+  "geometry": {"coordinates":[-96.33178599999999,36.664879],"type":"Point"}
 }

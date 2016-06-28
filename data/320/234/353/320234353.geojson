@@ -2,13 +2,14 @@
   "id": 320234353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.753293,34.913625,-95.753293,34.913625",
     "geom:latitude":34.913625,
     "geom:longitude":-95.753293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1422 Timber Ln",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320234353,
-    "wof:lastmodified":1449014758,
+    "wof:lastmodified":1466764772,
     "wof:name":"Wadley's Ambulance Svc",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-95.753293,34.913625,-95.753293,34.913625],
+  "bbox": [
+    -95.753293,
+    34.913625,
+    -95.753293,
+    34.913625
+],
   "geometry": {"coordinates":[-95.753293,34.913625],"type":"Point"}
 }

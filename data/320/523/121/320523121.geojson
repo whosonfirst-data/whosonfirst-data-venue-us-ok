@@ -2,13 +2,14 @@
   "id": 320523121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747557,35.464325,-97.747557,35.464325",
     "geom:latitude":35.464325,
     "geom:longitude":-97.747557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12204 W Reno Ave",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320523121,
-    "wof:lastmodified":1449013414,
+    "wof:lastmodified":1466766100,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.747557,35.464325,-97.747557,35.464325],
+  "bbox": [
+    -97.747557,
+    35.464325,
+    -97.747557,
+    35.464325
+],
   "geometry": {"coordinates":[-97.747557,35.464325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336738445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549941,35.586904,-97.549941,35.586904",
     "geom:latitude":35.586904,
     "geom:longitude":-97.549941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11540 N Barnes Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336738445,
-    "wof:lastmodified":1448997718,
+    "wof:lastmodified":1466764335,
     "wof:name":"Emery Custodial Service",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-97.549941,35.586904,-97.549941,35.586904],
+  "bbox": [
+    -97.549941,
+    35.586904,
+    -97.549941,
+    35.586904
+],
   "geometry": {"coordinates":[-97.549941,35.586904],"type":"Point"}
 }

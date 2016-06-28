@@ -2,13 +2,14 @@
   "id": 320283759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48,36.26158,-98.48,36.26158",
     "geom:latitude":36.26158,
     "geom:longitude":-98.48,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 S Main St",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320283759,
-    "wof:lastmodified":1449012369,
+    "wof:lastmodified":1466765194,
     "wof:name":"Amprid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.48,36.26158,-98.48,36.26158],
+  "bbox": [
+    -98.48,
+    36.26158,
+    -98.48,
+    36.26158
+],
   "geometry": {"coordinates":[-98.48,36.26158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303776421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.320259,35.631097,-98.320259,35.631097",
     "geom:latitude":35.631097,
     "geom:longitude":-98.320259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 W Main St",
     "sg:city":"Geary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303776421,
-    "wof:lastmodified":1448998648,
+    "wof:lastmodified":1466766675,
     "wof:name":"Turner Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.320259,35.631097,-98.320259,35.631097],
-  "geometry": {"coordinates":[-98.320259,35.631097],"type":"Point"}
+  "bbox": [
+    -98.320259,
+    35.631097,
+    -98.320259,
+    35.631097
+],
+  "geometry": {"coordinates":[-98.32025899999999,35.631097],"type":"Point"}
 }

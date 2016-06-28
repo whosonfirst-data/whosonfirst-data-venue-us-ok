@@ -2,13 +2,14 @@
   "id": 303697373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.515648,35.411124,-97.515648,35.411124",
     "geom:latitude":35.411124,
     "geom:longitude":-97.515648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 SW 54th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303697373,
-    "wof:lastmodified":1448999659,
+    "wof:lastmodified":1466766477,
     "wof:name":"Candlelicious Candles",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.515648,35.411124,-97.515648,35.411124],
+  "bbox": [
+    -97.515648,
+    35.411124,
+    -97.515648,
+    35.411124
+],
   "geometry": {"coordinates":[-97.515648,35.411124],"type":"Point"}
 }

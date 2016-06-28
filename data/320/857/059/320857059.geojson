@@ -2,13 +2,14 @@
   "id": 320857059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.77957,36.065008,-95.77957,36.065008",
     "geom:latitude":36.065008,
     "geom:longitude":-95.77957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6700 S Lynn Lane Rd",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320857059,
-    "wof:lastmodified":1449013686,
+    "wof:lastmodified":1466766980,
     "wof:name":"Public Service Company Okla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.77957,36.065008,-95.77957,36.065008],
-  "geometry": {"coordinates":[-95.77957,36.065008],"type":"Point"}
+  "bbox": [
+    -95.77957,
+    36.065008,
+    -95.77957,
+    36.065008
+],
+  "geometry": {"coordinates":[-95.77957000000001,36.065008],"type":"Point"}
 }

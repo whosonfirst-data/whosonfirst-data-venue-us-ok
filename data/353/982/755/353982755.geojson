@@ -2,13 +2,14 @@
   "id": 353982755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.476585,35.659093,-97.476585,35.659093",
     "geom:latitude":35.659093,
     "geom:longitude":-97.476585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E Ayers St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":353982755,
-    "wof:lastmodified":1449018680,
+    "wof:lastmodified":1466765803,
     "wof:name":"Warner's Guitar Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.476585,35.659093,-97.476585,35.659093],
+  "bbox": [
+    -97.476585,
+    35.659093,
+    -97.476585,
+    35.659093
+],
   "geometry": {"coordinates":[-97.476585,35.659093],"type":"Point"}
 }

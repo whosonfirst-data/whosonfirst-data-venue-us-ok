@@ -2,13 +2,14 @@
   "id": 336674765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.724715,35.493527,-97.724715,35.493527",
     "geom:latitude":35.493527,
     "geom:longitude":-97.724715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 E Vandament Ave",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336674765,
-    "wof:lastmodified":1448997745,
+    "wof:lastmodified":1466763332,
     "wof:name":"Northwest Smiles",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.724715,35.493527,-97.724715,35.493527],
+  "bbox": [
+    -97.724715,
+    35.493527,
+    -97.724715,
+    35.493527
+],
   "geometry": {"coordinates":[-97.724715,35.493527],"type":"Point"}
 }

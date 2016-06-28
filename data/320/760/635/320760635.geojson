@@ -2,13 +2,14 @@
   "id": 320760635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.962311,36.158547,-95.962311,36.158547",
     "geom:latitude":36.158547,
     "geom:longitude":-95.962311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2026 E 1st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320760635,
-    "wof:lastmodified":1449014821,
+    "wof:lastmodified":1466766701,
     "wof:name":"Glory House",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "homeless"
     ]
 },
-  "bbox": [-95.962311,36.158547,-95.962311,36.158547],
+  "bbox": [
+    -95.962311,
+    36.158547,
+    -95.962311,
+    36.158547
+],
   "geometry": {"coordinates":[-95.962311,36.158547],"type":"Point"}
 }

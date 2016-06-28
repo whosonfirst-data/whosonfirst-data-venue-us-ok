@@ -2,13 +2,14 @@
   "id": 287269835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.971578,36.157685,-95.971578,36.157685",
     "geom:latitude":36.157685,
     "geom:longitude":-95.971578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 E 2nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287269835,
-    "wof:lastmodified":1449001228,
+    "wof:lastmodified":1466762984,
     "wof:name":"Antique Station",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-95.971578,36.157685,-95.971578,36.157685],
-  "geometry": {"coordinates":[-95.971578,36.157685],"type":"Point"}
+  "bbox": [
+    -95.971578,
+    36.157685,
+    -95.971578,
+    36.157685
+],
+  "geometry": {"coordinates":[-95.97157799999999,36.157685],"type":"Point"}
 }

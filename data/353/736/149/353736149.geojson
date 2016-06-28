@@ -2,13 +2,14 @@
   "id": 353736149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.172345,36.203692,-95.172345,36.203692",
     "geom:latitude":36.203692,
     "geom:longitude":-95.172345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Wyandotte St",
     "sg:city":"Locust Grove",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353736149,
-    "wof:lastmodified":1449020745,
+    "wof:lastmodified":1466765044,
     "wof:name":"Locust Grove High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.172345,36.203692,-95.172345,36.203692],
-  "geometry": {"coordinates":[-95.172345,36.203692],"type":"Point"}
+  "bbox": [
+    -95.172345,
+    36.203692,
+    -95.172345,
+    36.203692
+],
+  "geometry": {"coordinates":[-95.17234500000001,36.203692],"type":"Point"}
 }

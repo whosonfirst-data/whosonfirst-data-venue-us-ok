@@ -2,13 +2,14 @@
   "id": 303953935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.908291,35.898907,-95.908291,35.898907",
     "geom:latitude":35.898907,
     "geom:longitude":-95.908291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18506 S Sheridan Rd",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303953935,
-    "wof:lastmodified":1448999805,
+    "wof:lastmodified":1466767100,
     "wof:name":"Wagnon Heating & Air Cond",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "conditioning"
     ]
 },
-  "bbox": [-95.908291,35.898907,-95.908291,35.898907],
-  "geometry": {"coordinates":[-95.908291,35.898907],"type":"Point"}
+  "bbox": [
+    -95.908291,
+    35.898907,
+    -95.908291,
+    35.898907
+],
+  "geometry": {"coordinates":[-95.90829100000001,35.898907],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336609511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.401518,34.602954,-98.401518,34.602954",
     "geom:latitude":34.602954,
     "geom:longitude":-98.401518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 SW E Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336609511,
-    "wof:lastmodified":1448997343,
+    "wof:lastmodified":1466762316,
     "wof:name":"IOOF",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-98.401518,34.602954,-98.401518,34.602954],
+  "bbox": [
+    -98.401518,
+    34.602954,
+    -98.401518,
+    34.602954
+],
   "geometry": {"coordinates":[-98.401518,34.602954],"type":"Point"}
 }

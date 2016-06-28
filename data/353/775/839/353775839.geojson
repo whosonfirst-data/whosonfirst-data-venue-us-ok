@@ -2,13 +2,14 @@
   "id": 353775839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.88447,36.390792,-97.88447,36.390792",
     "geom:latitude":36.390792,
     "geom:longitude":-97.88447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 W Owen K Garriott Rd",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353775839,
-    "wof:lastmodified":1449020136,
+    "wof:lastmodified":1466765113,
     "wof:name":"Serenity Springs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.88447,36.390792,-97.88447,36.390792],
-  "geometry": {"coordinates":[-97.88447,36.390792],"type":"Point"}
+  "bbox": [
+    -97.88447,
+    36.390792,
+    -97.88447,
+    36.390792
+],
+  "geometry": {"coordinates":[-97.88446999999999,36.390792],"type":"Point"}
 }

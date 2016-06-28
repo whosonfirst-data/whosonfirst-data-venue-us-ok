@@ -2,13 +2,14 @@
   "id": 320626803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.486674,36.694466,-101.486674,36.694466",
     "geom:latitude":36.694466,
     "geom:longitude":-101.486674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 N James St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320626803,
-    "wof:lastmodified":1449014972,
+    "wof:lastmodified":1466766419,
     "wof:name":"Owen's Steam Way Carpet Clng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-101.486674,36.694466,-101.486674,36.694466],
-  "geometry": {"coordinates":[-101.486674,36.694466],"type":"Point"}
+  "bbox": [
+    -101.486674,
+    36.694466,
+    -101.486674,
+    36.694466
+],
+  "geometry": {"coordinates":[-101.48667399999999,36.694466],"type":"Point"}
 }

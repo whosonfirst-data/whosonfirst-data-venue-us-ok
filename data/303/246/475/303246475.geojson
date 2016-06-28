@@ -2,13 +2,14 @@
   "id": 303246475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.381205,33.994171,-96.381205,33.994171",
     "geom:latitude":33.994171,
     "geom:longitude":-96.381205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 W Beech St",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303246475,
-    "wof:lastmodified":1448998286,
+    "wof:lastmodified":1466764606,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.381205,33.994171,-96.381205,33.994171],
-  "geometry": {"coordinates":[-96.381205,33.994171],"type":"Point"}
+  "bbox": [
+    -96.381205,
+    33.994171,
+    -96.381205,
+    33.994171
+],
+  "geometry": {"coordinates":[-96.38120499999999,33.994171],"type":"Point"}
 }

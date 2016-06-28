@@ -2,13 +2,14 @@
   "id": 320168357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.402625,35.473381,-97.402625,35.473381",
     "geom:latitude":35.473381,
     "geom:longitude":-97.402625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3516 N Ridgewood Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320168357,
-    "wof:lastmodified":1449013213,
+    "wof:lastmodified":1466764364,
     "wof:name":"Donald R Bye",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-97.402625,35.473381,-97.402625,35.473381],
+  "bbox": [
+    -97.402625,
+    35.473381,
+    -97.402625,
+    35.473381
+],
   "geometry": {"coordinates":[-97.402625,35.473381],"type":"Point"}
 }

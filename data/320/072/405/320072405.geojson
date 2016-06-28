@@ -2,13 +2,14 @@
   "id": 320072405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.544448,35.379917,-97.544448,35.379917",
     "geom:latitude":35.379917,
     "geom:longitude":-97.544448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8505 S Kentucky Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320072405,
-    "wof:lastmodified":1449013231,
+    "wof:lastmodified":1466763362,
     "wof:name":"Chris Eskue",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "programming"
     ]
 },
-  "bbox": [-97.544448,35.379917,-97.544448,35.379917],
+  "bbox": [
+    -97.544448,
+    35.379917,
+    -97.544448,
+    35.379917
+],
   "geometry": {"coordinates":[-97.544448,35.379917],"type":"Point"}
 }

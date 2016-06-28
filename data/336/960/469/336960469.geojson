@@ -2,13 +2,14 @@
   "id": 336960469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.599432,35.471642,-97.599432,35.471642",
     "geom:latitude":35.471642,
     "geom:longitude":-97.599432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4325 NW 4th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336960469,
-    "wof:lastmodified":1448997704,
+    "wof:lastmodified":1466765513,
     "wof:name":"Continental Book Of Oklahoma",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-97.599432,35.471642,-97.599432,35.471642],
-  "geometry": {"coordinates":[-97.599432,35.471642],"type":"Point"}
+  "bbox": [
+    -97.599432,
+    35.471642,
+    -97.599432,
+    35.471642
+],
+  "geometry": {"coordinates":[-97.59943199999999,35.471642],"type":"Point"}
 }

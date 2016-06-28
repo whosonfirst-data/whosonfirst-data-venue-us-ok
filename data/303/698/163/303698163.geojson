@@ -2,13 +2,14 @@
   "id": 303698163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.496896,35.490016,-97.496896,35.490016",
     "geom:latitude":35.490016,
     "geom:longitude":-97.496896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 NE 20th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303698163,
-    "wof:lastmodified":1449000418,
+    "wof:lastmodified":1466766598,
     "wof:name":"Phoenix Electric",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.496896,35.490016,-97.496896,35.490016],
-  "geometry": {"coordinates":[-97.496896,35.490016],"type":"Point"}
+  "bbox": [
+    -97.496896,
+    35.490016,
+    -97.496896,
+    35.490016
+],
+  "geometry": {"coordinates":[-97.49689600000001,35.490016],"type":"Point"}
 }

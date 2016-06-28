@@ -2,13 +2,14 @@
   "id": 303834803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.903916,36.859146,-94.903916,36.859146",
     "geom:latitude":36.859146,
     "geom:longitude":-94.903916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10991 S Hwy 69",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303834803,
-    "wof:lastmodified":1448998347,
+    "wof:lastmodified":1466766805,
     "wof:name":"Wayne's One Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.903916,36.859146,-94.903916,36.859146],
+  "bbox": [
+    -94.903916,
+    36.859146,
+    -94.903916,
+    36.859146
+],
   "geometry": {"coordinates":[-94.903916,36.859146],"type":"Point"}
 }

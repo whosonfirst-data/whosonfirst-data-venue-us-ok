@@ -2,13 +2,14 @@
   "id": 320860055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.59122,35.233008,-97.59122,35.233008",
     "geom:latitude":35.233008,
     "geom:longitude":-97.59122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 SE 16th St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320860055,
-    "wof:lastmodified":1449012912,
+    "wof:lastmodified":1466766979,
     "wof:name":"Walker & Sons Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-97.59122,35.233008,-97.59122,35.233008],
-  "geometry": {"coordinates":[-97.59122,35.233008],"type":"Point"}
+  "bbox": [
+    -97.59122,
+    35.233008,
+    -97.59122,
+    35.233008
+],
+  "geometry": {"coordinates":[-97.59122000000001,35.233008],"type":"Point"}
 }

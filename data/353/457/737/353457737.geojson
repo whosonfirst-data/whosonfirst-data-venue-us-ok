@@ -2,13 +2,14 @@
   "id": 353457737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.167605,36.199363,-95.167605,36.199363",
     "geom:latitude":36.199363,
     "geom:longitude":-95.167605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Broadway St",
     "sg:city":"Locust Grove",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353457737,
-    "wof:lastmodified":1449019954,
+    "wof:lastmodified":1466762751,
     "wof:name":"Locust Grove City Jail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-95.167605,36.199363,-95.167605,36.199363],
-  "geometry": {"coordinates":[-95.167605,36.199363],"type":"Point"}
+  "bbox": [
+    -95.167605,
+    36.199363,
+    -95.167605,
+    36.199363
+],
+  "geometry": {"coordinates":[-95.16760499999999,36.199363],"type":"Point"}
 }

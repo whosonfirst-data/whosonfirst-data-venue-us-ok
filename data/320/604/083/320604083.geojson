@@ -2,13 +2,14 @@
   "id": 320604083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.893285,36.887812,-94.893285,36.887812",
     "geom:latitude":36.887812,
     "geom:longitude":-94.893285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 N St NW",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320604083,
-    "wof:lastmodified":1449014528,
+    "wof:lastmodified":1466766287,
     "wof:name":"Battery Back Up",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "battery"
     ]
 },
-  "bbox": [-94.893285,36.887812,-94.893285,36.887812],
-  "geometry": {"coordinates":[-94.893285,36.887812],"type":"Point"}
+  "bbox": [
+    -94.893285,
+    36.887812,
+    -94.893285,
+    36.887812
+],
+  "geometry": {"coordinates":[-94.89328500000001,36.887812],"type":"Point"}
 }

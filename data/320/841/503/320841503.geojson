@@ -2,13 +2,14 @@
   "id": 320841503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.932514,35.844191,-97.932514,35.844191",
     "geom:latitude":35.844191,
     "geom:longitude":-97.932514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 S Main St",
     "sg:city":"Kingfisher",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320841503,
-    "wof:lastmodified":1449012042,
+    "wof:lastmodified":1466766945,
     "wof:name":"Mach 1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.932514,35.844191,-97.932514,35.844191],
+  "bbox": [
+    -97.932514,
+    35.844191,
+    -97.932514,
+    35.844191
+],
   "geometry": {"coordinates":[-97.932514,35.844191],"type":"Point"}
 }

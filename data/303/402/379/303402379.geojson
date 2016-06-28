@@ -2,13 +2,14 @@
   "id": 303402379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.930439,36.009599,-95.930439,36.009599",
     "geom:latitude":36.009599,
     "geom:longitude":-95.930439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10621 S Quebec Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303402379,
-    "wof:lastmodified":1448998898,
+    "wof:lastmodified":1466765455,
     "wof:name":"Haack Petroleum Consultants",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "related"
     ]
 },
-  "bbox": [-95.930439,36.009599,-95.930439,36.009599],
-  "geometry": {"coordinates":[-95.930439,36.009599],"type":"Point"}
+  "bbox": [
+    -95.930439,
+    36.009599,
+    -95.930439,
+    36.009599
+],
+  "geometry": {"coordinates":[-95.93043900000001,36.009599],"type":"Point"}
 }

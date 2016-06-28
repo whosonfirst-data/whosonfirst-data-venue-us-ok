@@ -2,13 +2,14 @@
   "id": 354047583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.474121,36.688486,-101.474121,36.688486",
     "geom:latitude":36.688486,
     "geom:longitude":-101.474121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Skelly Ave",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354047583,
-    "wof:lastmodified":1449067067,
+    "wof:lastmodified":1466763270,
     "wof:name":"Louis Ramirez Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-101.474121,36.688486,-101.474121,36.688486],
+  "bbox": [
+    -101.474121,
+    36.688486,
+    -101.474121,
+    36.688486
+],
   "geometry": {"coordinates":[-101.474121,36.688486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320667989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77649,35.991192,-96.77649,35.991192",
     "geom:latitude":35.991192,
     "geom:longitude":-96.77649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Pine St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320667989,
-    "wof:lastmodified":1449013712,
+    "wof:lastmodified":1466766453,
     "wof:name":"Church Macedonia CME",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.77649,35.991192,-96.77649,35.991192],
+  "bbox": [
+    -96.77649,
+    35.991192,
+    -96.77649,
+    35.991192
+],
   "geometry": {"coordinates":[-96.77649,35.991192],"type":"Point"}
 }

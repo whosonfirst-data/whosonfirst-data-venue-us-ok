@@ -2,13 +2,14 @@
   "id": 320305315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.62063,34.231308,-95.62063,34.231308",
     "geom:latitude":34.231308,
     "geom:longitude":-95.62063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Main St",
     "sg:city":"Antlers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320305315,
-    "wof:lastmodified":1449011821,
+    "wof:lastmodified":1466765282,
     "wof:name":"Robert S Settles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-95.62063,34.231308,-95.62063,34.231308],
-  "geometry": {"coordinates":[-95.62063,34.231308],"type":"Point"}
+  "bbox": [
+    -95.62063,
+    34.231308,
+    -95.62063,
+    34.231308
+],
+  "geometry": {"coordinates":[-95.62063000000001,34.231308],"type":"Point"}
 }

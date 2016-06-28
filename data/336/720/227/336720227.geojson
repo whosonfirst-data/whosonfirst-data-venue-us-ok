@@ -2,13 +2,14 @@
   "id": 336720227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.772517,35.981132,-96.772517,35.981132",
     "geom:latitude":35.981132,
     "geom:longitude":-96.772517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E Moses St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336720227,
-    "wof:lastmodified":1448997207,
+    "wof:lastmodified":1466764029,
     "wof:name":"Safestore Storage Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-96.772517,35.981132,-96.772517,35.981132],
-  "geometry": {"coordinates":[-96.772517,35.981132],"type":"Point"}
+  "bbox": [
+    -96.772517,
+    35.981132,
+    -96.772517,
+    35.981132
+],
+  "geometry": {"coordinates":[-96.77251699999999,35.981132],"type":"Point"}
 }

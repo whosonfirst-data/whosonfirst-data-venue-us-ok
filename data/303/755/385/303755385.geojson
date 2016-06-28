@@ -2,13 +2,14 @@
   "id": 303755385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.403441,36.426945,-99.403441,36.426945",
     "geom:latitude":36.426945,
     "geom:longitude":-99.403441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 19th St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303755385,
-    "wof:lastmodified":1448998803,
+    "wof:lastmodified":1466766553,
     "wof:name":"Collection Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "collection"
     ]
 },
-  "bbox": [-99.403441,36.426945,-99.403441,36.426945],
+  "bbox": [
+    -99.403441,
+    36.426945,
+    -99.403441,
+    36.426945
+],
   "geometry": {"coordinates":[-99.403441,36.426945],"type":"Point"}
 }

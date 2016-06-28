@@ -2,13 +2,14 @@
   "id": 303867481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.794274,36.281588,-95.794274,36.281588",
     "geom:latitude":36.281588,
     "geom:longitude":-95.794274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8800 N 161st East Ave",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303867481,
-    "wof:lastmodified":1448999177,
+    "wof:lastmodified":1466766895,
     "wof:name":"McKnight & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.794274,36.281588,-95.794274,36.281588],
+  "bbox": [
+    -95.794274,
+    36.281588,
+    -95.794274,
+    36.281588
+],
   "geometry": {"coordinates":[-95.794274,36.281588],"type":"Point"}
 }

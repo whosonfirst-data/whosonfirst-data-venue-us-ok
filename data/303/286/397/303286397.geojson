@@ -2,13 +2,14 @@
   "id": 303286397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.483068,35.640254,-97.483068,35.640254",
     "geom:latitude":35.640254,
     "geom:longitude":-97.483068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1327 S Broadway",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303286397,
-    "wof:lastmodified":1448998753,
+    "wof:lastmodified":1466764903,
     "wof:name":"Audio Plus",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.483068,35.640254,-97.483068,35.640254],
+  "bbox": [
+    -97.483068,
+    35.640254,
+    -97.483068,
+    35.640254
+],
   "geometry": {"coordinates":[-97.483068,35.640254],"type":"Point"}
 }

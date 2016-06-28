@@ -2,13 +2,14 @@
   "id": 319936593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.781453,34.947344,-95.781453,34.947344",
     "geom:latitude":34.947344,
     "geom:longitude":-95.781453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 N West St",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319936593,
-    "wof:lastmodified":1449024334,
+    "wof:lastmodified":1466763935,
     "wof:name":"Pittsburg County Sheriffs Dept",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sheriff"
     ]
 },
-  "bbox": [-95.781453,34.947344,-95.781453,34.947344],
+  "bbox": [
+    -95.781453,
+    34.947344,
+    -95.781453,
+    34.947344
+],
   "geometry": {"coordinates":[-95.781453,34.947344],"type":"Point"}
 }

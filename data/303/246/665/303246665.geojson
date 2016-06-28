@@ -2,13 +2,14 @@
   "id": 303246665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.625629,36.994579,-95.625629,36.994579",
     "geom:latitude":36.994579,
     "geom:longitude":-95.625629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Cherokee St",
     "sg:city":"S Coffeyville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303246665,
-    "wof:lastmodified":1448998286,
+    "wof:lastmodified":1466764608,
     "wof:name":"General Radiator Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "radiator"
     ]
 },
-  "bbox": [-95.625629,36.994579,-95.625629,36.994579],
+  "bbox": [
+    -95.625629,
+    36.994579,
+    -95.625629,
+    36.994579
+],
   "geometry": {"coordinates":[-95.625629,36.994579],"type":"Point"}
 }

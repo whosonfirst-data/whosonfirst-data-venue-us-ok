@@ -2,13 +2,14 @@
   "id": 320373863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507892,35.495008,-97.507892,35.495008",
     "geom:latitude":35.495008,
     "geom:longitude":-97.507892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 NE 24th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320373863,
-    "wof:lastmodified":1449013192,
+    "wof:lastmodified":1466765596,
     "wof:name":"Whitehead Food Equipment",
     "wof:parent_id":85871695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-97.507892,35.495008,-97.507892,35.495008],
+  "bbox": [
+    -97.507892,
+    35.495008,
+    -97.507892,
+    35.495008
+],
   "geometry": {"coordinates":[-97.507892,35.495008],"type":"Point"}
 }

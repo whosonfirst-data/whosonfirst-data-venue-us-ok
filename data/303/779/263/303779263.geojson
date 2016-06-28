@@ -2,13 +2,14 @@
   "id": 303779263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.369147,35.697039,-95.369147,35.697039",
     "geom:latitude":35.697039,
     "geom:longitude":-95.369147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E Smith Ferry Rd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303779263,
-    "wof:lastmodified":1448998497,
+    "wof:lastmodified":1466766688,
     "wof:name":"Cobblestone Creek",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-95.369147,35.697039,-95.369147,35.697039],
+  "bbox": [
+    -95.369147,
+    35.697039,
+    -95.369147,
+    35.697039
+],
   "geometry": {"coordinates":[-95.369147,35.697039],"type":"Point"}
 }

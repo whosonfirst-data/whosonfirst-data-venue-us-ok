@@ -2,13 +2,14 @@
   "id": 304056511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.966629,34.546437,-97.966629,34.546437",
     "geom:latitude":34.546437,
     "geom:longitude":-97.966629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3602 US Hwy 81",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304056511,
-    "wof:lastmodified":1449043721,
+    "wof:lastmodified":1466763147,
     "wof:name":"Johnson's Commercial Property",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.966629,34.546437,-97.966629,34.546437],
+  "bbox": [
+    -97.966629,
+    34.546437,
+    -97.966629,
+    34.546437
+],
   "geometry": {"coordinates":[-97.966629,34.546437],"type":"Point"}
 }

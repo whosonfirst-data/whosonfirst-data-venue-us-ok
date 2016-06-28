@@ -2,13 +2,14 @@
   "id": 337484605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.412399,35.218279,-97.412399,35.218279",
     "geom:latitude":35.218279,
     "geom:longitude":-97.412399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Alameda St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337484605,
-    "wof:lastmodified":1449027692,
+    "wof:lastmodified":1466762566,
     "wof:name":"Irving Recreation Ctr",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-97.412399,35.218279,-97.412399,35.218279],
-  "geometry": {"coordinates":[-97.412399,35.218279],"type":"Point"}
+  "bbox": [
+    -97.412399,
+    35.218279,
+    -97.412399,
+    35.218279
+],
+  "geometry": {"coordinates":[-97.41239899999999,35.218279],"type":"Point"}
 }

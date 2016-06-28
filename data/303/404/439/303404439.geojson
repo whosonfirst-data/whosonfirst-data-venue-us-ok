@@ -2,13 +2,14 @@
   "id": 303404439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.93016,36.728093,-95.93016,36.728093",
     "geom:latitude":36.728093,
     "geom:longitude":-95.93016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Nowata Rd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303404439,
-    "wof:lastmodified":1448999741,
+    "wof:lastmodified":1466765454,
     "wof:name":"Memorial Park Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-95.93016,36.728093,-95.93016,36.728093],
+  "bbox": [
+    -95.93016,
+    36.728093,
+    -95.93016,
+    36.728093
+],
   "geometry": {"coordinates":[-95.93016,36.728093],"type":"Point"}
 }

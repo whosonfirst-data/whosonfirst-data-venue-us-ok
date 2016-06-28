@@ -2,13 +2,14 @@
   "id": 320430091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.334009,34.65321,-99.334009,34.65321",
     "geom:latitude":34.65321,
     "geom:longitude":-99.334009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 N Main St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":320430091,
-    "wof:lastmodified":1449013638,
+    "wof:lastmodified":1466765879,
     "wof:name":"Hair Accounting & Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.334009,34.65321,-99.334009,34.65321],
-  "geometry": {"coordinates":[-99.334009,34.65321],"type":"Point"}
+  "bbox": [
+    -99.334009,
+    34.65321,
+    -99.334009,
+    34.65321
+],
+  "geometry": {"coordinates":[-99.33400899999999,34.65321],"type":"Point"}
 }

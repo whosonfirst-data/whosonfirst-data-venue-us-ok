@@ -2,13 +2,14 @@
   "id": 287241653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.048029,36.116009,-97.048029,36.116009",
     "geom:latitude":36.116009,
     "geom:longitude":-97.048029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 E 6th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287241653,
-    "wof:lastmodified":1449001573,
+    "wof:lastmodified":1466762564,
     "wof:name":"Edwin Fair Cmnty Mntl Hlth CNT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-97.048029,36.116009,-97.048029,36.116009],
+  "bbox": [
+    -97.048029,
+    36.116009,
+    -97.048029,
+    36.116009
+],
   "geometry": {"coordinates":[-97.048029,36.116009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235935299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975777,36.072271,-95.975777,36.072271",
     "geom:latitude":36.072271,
     "geom:longitude":-95.975777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6302 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":235935299,
-    "wof:lastmodified":1449008534,
+    "wof:lastmodified":1466762413,
     "wof:name":"J T Laundry",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "coin"
     ]
 },
-  "bbox": [-95.975777,36.072271,-95.975777,36.072271],
-  "geometry": {"coordinates":[-95.975777,36.072271],"type":"Point"}
+  "bbox": [
+    -95.975777,
+    36.072271,
+    -95.975777,
+    36.072271
+],
+  "geometry": {"coordinates":[-95.97577699999999,36.072271],"type":"Point"}
 }

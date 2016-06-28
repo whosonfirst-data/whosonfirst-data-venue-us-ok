@@ -2,13 +2,14 @@
   "id": 220165523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.812527,36.282005,-95.812527,36.282005",
     "geom:latitude":36.282005,
     "geom:longitude":-95.812527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14700 E 88th Pl N",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220165523,
-    "wof:lastmodified":1449074882,
+    "wof:lastmodified":1466762311,
     "wof:name":"Preston Lakes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "finder"
     ]
 },
-  "bbox": [-95.812527,36.282005,-95.812527,36.282005],
+  "bbox": [
+    -95.812527,
+    36.282005,
+    -95.812527,
+    36.282005
+],
   "geometry": {"coordinates":[-95.812527,36.282005],"type":"Point"}
 }

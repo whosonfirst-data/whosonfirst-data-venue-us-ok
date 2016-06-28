@@ -2,13 +2,14 @@
   "id": 337625935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975536,36.153567,-95.975536,36.153567",
     "geom:latitude":36.153567,
     "geom:longitude":-95.975536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"573 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337625935,
-    "wof:lastmodified":1449027745,
+    "wof:lastmodified":1466763362,
     "wof:name":"Bud's Import Automotive",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-95.975536,36.153567,-95.975536,36.153567],
-  "geometry": {"coordinates":[-95.975536,36.153567],"type":"Point"}
+  "bbox": [
+    -95.975536,
+    36.153567,
+    -95.975536,
+    36.153567
+],
+  "geometry": {"coordinates":[-95.97553600000001,36.153567],"type":"Point"}
 }

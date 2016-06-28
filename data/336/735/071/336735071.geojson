@@ -2,13 +2,14 @@
   "id": 336735071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.749138,35.948341,-96.749138,35.948341",
     "geom:latitude":35.948341,
     "geom:longitude":-96.749138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2919 S Linwood Ave",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336735071,
-    "wof:lastmodified":1448997974,
+    "wof:lastmodified":1466764206,
     "wof:name":"BP Pipeline North America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "company"
     ]
 },
-  "bbox": [-96.749138,35.948341,-96.749138,35.948341],
+  "bbox": [
+    -96.749138,
+    35.948341,
+    -96.749138,
+    35.948341
+],
   "geometry": {"coordinates":[-96.749138,35.948341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303606061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.458154,35.392469,-97.458154,35.392469",
     "geom:latitude":35.392469,
     "geom:longitude":-97.458154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3640 E I- 240 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303606061,
-    "wof:lastmodified":1448998498,
+    "wof:lastmodified":1466766119,
     "wof:name":"Contact Electric Heat & Air",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.458154,35.392469,-97.458154,35.392469],
-  "geometry": {"coordinates":[-97.458154,35.392469],"type":"Point"}
+  "bbox": [
+    -97.458154,
+    35.392469,
+    -97.458154,
+    35.392469
+],
+  "geometry": {"coordinates":[-97.45815399999999,35.392469],"type":"Point"}
 }

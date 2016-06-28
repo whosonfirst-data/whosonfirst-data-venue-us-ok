@@ -2,13 +2,14 @@
   "id": 353825669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.485719,35.44992,-97.485719,35.44992",
     "geom:latitude":35.44992,
     "geom:longitude":-97.485719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1631 SE 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353825669,
-    "wof:lastmodified":1449018336,
+    "wof:lastmodified":1466765325,
     "wof:name":"Skyline Restaurant",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-97.485719,35.44992,-97.485719,35.44992],
+  "bbox": [
+    -97.485719,
+    35.44992,
+    -97.485719,
+    35.44992
+],
   "geometry": {"coordinates":[-97.485719,35.44992],"type":"Point"}
 }

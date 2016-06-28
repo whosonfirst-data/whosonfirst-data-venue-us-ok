@@ -2,13 +2,14 @@
   "id": 303430629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.407776,36.433543,-99.407776,36.433543",
     "geom:latitude":36.433543,
     "geom:longitude":-99.407776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 Oklahoma Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303430629,
-    "wof:lastmodified":1448999676,
+    "wof:lastmodified":1466765576,
     "wof:name":"Trego Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furnishing"
     ]
 },
-  "bbox": [-99.407776,36.433543,-99.407776,36.433543],
+  "bbox": [
+    -99.407776,
+    36.433543,
+    -99.407776,
+    36.433543
+],
   "geometry": {"coordinates":[-99.407776,36.433543],"type":"Point"}
 }

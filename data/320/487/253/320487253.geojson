@@ -2,13 +2,14 @@
   "id": 320487253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.610023,35.515873,-97.610023,35.515873",
     "geom:latitude":35.515873,
     "geom:longitude":-97.610023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4420 N Ann Arbor Ave",
     "sg:city":"Warr Acres",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320487253,
-    "wof:lastmodified":1449012496,
+    "wof:lastmodified":1466766029,
     "wof:name":"Brick Plumbing",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.610023,35.515873,-97.610023,35.515873],
+  "bbox": [
+    -97.610023,
+    35.515873,
+    -97.610023,
+    35.515873
+],
   "geometry": {"coordinates":[-97.610023,35.515873],"type":"Point"}
 }

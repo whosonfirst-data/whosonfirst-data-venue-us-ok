@@ -2,13 +2,14 @@
   "id": 337511975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.953026,34.647558,-97.953026,34.647558",
     "geom:latitude":34.647558,
     "geom:longitude":-97.953026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E Main St",
     "sg:city":"Marlow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337511975,
-    "wof:lastmodified":1449027323,
+    "wof:lastmodified":1466762713,
     "wof:name":"Barber On The Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.953026,34.647558,-97.953026,34.647558],
-  "geometry": {"coordinates":[-97.953026,34.647558],"type":"Point"}
+  "bbox": [
+    -97.953026,
+    34.647558,
+    -97.953026,
+    34.647558
+],
+  "geometry": {"coordinates":[-97.95302599999999,34.647558],"type":"Point"}
 }

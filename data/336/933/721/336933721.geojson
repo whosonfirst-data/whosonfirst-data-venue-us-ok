@@ -2,13 +2,14 @@
   "id": 336933721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.130395,34.384493,-96.130395,34.384493",
     "geom:latitude":34.384493,
     "geom:longitude":-96.130395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W 2nd St",
     "sg:city":"Atoka",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336933721,
-    "wof:lastmodified":1448997170,
+    "wof:lastmodified":1466765393,
     "wof:name":"Stacy D Slawson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-96.130395,34.384493,-96.130395,34.384493],
-  "geometry": {"coordinates":[-96.130395,34.384493],"type":"Point"}
+  "bbox": [
+    -96.130395,
+    34.384493,
+    -96.130395,
+    34.384493
+],
+  "geometry": {"coordinates":[-96.13039499999999,34.384493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304045269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.852976,36.072401,-95.852976,36.072401",
     "geom:latitude":36.072401,
     "geom:longitude":-95.852976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11123 E 63rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304045269,
-    "wof:lastmodified":1449044094,
+    "wof:lastmodified":1466763080,
     "wof:name":"Exam One World Wide Inc",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "insurance"
     ]
 },
-  "bbox": [-95.852976,36.072401,-95.852976,36.072401],
+  "bbox": [
+    -95.852976,
+    36.072401,
+    -95.852976,
+    36.072401
+],
   "geometry": {"coordinates":[-95.852976,36.072401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303112209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935148,36.73328,-95.935148,36.73328",
     "geom:latitude":36.73328,
     "geom:longitude":-95.935148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 SE Washington Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303112209,
-    "wof:lastmodified":1448999246,
+    "wof:lastmodified":1466763429,
     "wof:name":"Red Apple Sports Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "alley"
     ]
 },
-  "bbox": [-95.935148,36.73328,-95.935148,36.73328],
+  "bbox": [
+    -95.935148,
+    36.73328,
+    -95.935148,
+    36.73328
+],
   "geometry": {"coordinates":[-95.935148,36.73328],"type":"Point"}
 }

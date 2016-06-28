@@ -2,13 +2,14 @@
   "id": 320658521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494471,35.480204,-97.494471,35.480204",
     "geom:latitude":35.480204,
     "geom:longitude":-97.494471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 Stanton L Young Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320658521,
-    "wof:lastmodified":1449011185,
+    "wof:lastmodified":1466766349,
     "wof:name":"Human Services Oklahoma Dept",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "administrative"
     ]
 },
-  "bbox": [-97.494471,35.480204,-97.494471,35.480204],
+  "bbox": [
+    -97.494471,
+    35.480204,
+    -97.494471,
+    35.480204
+],
   "geometry": {"coordinates":[-97.494471,35.480204],"type":"Point"}
 }

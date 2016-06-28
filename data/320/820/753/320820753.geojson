@@ -2,13 +2,14 @@
   "id": 320820753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.431671,34.62998,-98.431671,34.62998",
     "geom:latitude":34.62998,
     "geom:longitude":-98.431671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 NW 31st St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320820753,
-    "wof:lastmodified":1449013188,
+    "wof:lastmodified":1466766890,
     "wof:name":"Larry Stewart Construction",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.431671,34.62998,-98.431671,34.62998],
-  "geometry": {"coordinates":[-98.431671,34.62998],"type":"Point"}
+  "bbox": [
+    -98.431671,
+    34.62998,
+    -98.431671,
+    34.62998
+],
+  "geometry": {"coordinates":[-98.43167099999999,34.62998],"type":"Point"}
 }

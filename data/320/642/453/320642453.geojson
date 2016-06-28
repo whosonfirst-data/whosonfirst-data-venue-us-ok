@@ -2,13 +2,14 @@
   "id": 320642453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.48501,35.493094,-97.48501,35.493094",
     "geom:latitude":35.493094,
     "geom:longitude":-97.48501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1528 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320642453,
-    "wof:lastmodified":1449011469,
+    "wof:lastmodified":1466766240,
     "wof:name":"Power",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-97.48501,35.493094,-97.48501,35.493094],
+  "bbox": [
+    -97.48501,
+    35.493094,
+    -97.48501,
+    35.493094
+],
   "geometry": {"coordinates":[-97.48501,35.493094],"type":"Point"}
 }

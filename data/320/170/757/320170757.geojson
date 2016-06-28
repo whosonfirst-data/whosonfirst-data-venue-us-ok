@@ -2,13 +2,14 @@
   "id": 320170757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.771296,34.916372,-95.771296,34.916372",
     "geom:latitude":34.916372,
     "geom:longitude":-95.771296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1522 Red Bud Ln",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320170757,
-    "wof:lastmodified":1449011586,
+    "wof:lastmodified":1466764393,
     "wof:name":"David Grantham Custom Built Hm",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-95.771296,34.916372,-95.771296,34.916372],
-  "geometry": {"coordinates":[-95.771296,34.916372],"type":"Point"}
+  "bbox": [
+    -95.771296,
+    34.916372,
+    -95.771296,
+    34.916372
+],
+  "geometry": {"coordinates":[-95.77129600000001,34.916372],"type":"Point"}
 }

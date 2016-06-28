@@ -2,13 +2,14 @@
   "id": 320583167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.65984,35.486036,-97.65984,35.486036",
     "geom:latitude":35.486036,
     "geom:longitude":-97.65984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Sunset Ln",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320583167,
-    "wof:lastmodified":1449014179,
+    "wof:lastmodified":1466766257,
     "wof:name":"Walsworth Publishing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-97.65984,35.486036,-97.65984,35.486036],
+  "bbox": [
+    -97.65984,
+    35.486036,
+    -97.65984,
+    35.486036
+],
   "geometry": {"coordinates":[-97.65984,35.486036],"type":"Point"}
 }

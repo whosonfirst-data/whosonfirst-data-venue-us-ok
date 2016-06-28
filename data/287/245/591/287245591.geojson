@@ -2,13 +2,14 @@
   "id": 287245591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530037,35.47875,-97.530037,35.47875",
     "geom:latitude":35.47875,
     "geom:longitude":-97.530037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 N Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287245591,
-    "wof:lastmodified":1449001557,
+    "wof:lastmodified":1466762625,
     "wof:name":"Buffalo's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.530037,35.47875,-97.530037,35.47875],
-  "geometry": {"coordinates":[-97.530037,35.47875],"type":"Point"}
+  "bbox": [
+    -97.530037,
+    35.47875,
+    -97.530037,
+    35.47875
+],
+  "geometry": {"coordinates":[-97.53003699999999,35.47875],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320550955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.415417,35.449568,-97.415417,35.449568",
     "geom:latitude":35.449568,
     "geom:longitude":-97.415417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6236 SE 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320550955,
-    "wof:lastmodified":1449013289,
+    "wof:lastmodified":1466766190,
     "wof:name":"Frames Plus",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "frame"
     ]
 },
-  "bbox": [-97.415417,35.449568,-97.415417,35.449568],
-  "geometry": {"coordinates":[-97.415417,35.449568],"type":"Point"}
+  "bbox": [
+    -97.415417,
+    35.449568,
+    -97.415417,
+    35.449568
+],
+  "geometry": {"coordinates":[-97.41541700000001,35.449568],"type":"Point"}
 }

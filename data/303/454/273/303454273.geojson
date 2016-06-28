@@ -2,13 +2,14 @@
   "id": 303454273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.654013,35.422211,-97.654013,35.422211",
     "geom:latitude":35.422211,
     "geom:longitude":-97.654013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 S Council Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303454273,
-    "wof:lastmodified":1449000334,
+    "wof:lastmodified":1466765526,
     "wof:name":"Western Heights School Dst 41",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "district"
     ]
 },
-  "bbox": [-97.654013,35.422211,-97.654013,35.422211],
-  "geometry": {"coordinates":[-97.654013,35.422211],"type":"Point"}
+  "bbox": [
+    -97.654013,
+    35.422211,
+    -97.654013,
+    35.422211
+],
+  "geometry": {"coordinates":[-97.65401300000001,35.422211],"type":"Point"}
 }

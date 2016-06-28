@@ -2,13 +2,14 @@
   "id": 320060029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.524626,35.493327,-97.524626,35.493327",
     "geom:latitude":35.493327,
     "geom:longitude":-97.524626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 NW 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":320060029,
-    "wof:lastmodified":1449014623,
+    "wof:lastmodified":1466763181,
     "wof:name":"Vintage Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "period"
     ]
 },
-  "bbox": [-97.524626,35.493327,-97.524626,35.493327],
+  "bbox": [
+    -97.524626,
+    35.493327,
+    -97.524626,
+    35.493327
+],
   "geometry": {"coordinates":[-97.524626,35.493327],"type":"Point"}
 }

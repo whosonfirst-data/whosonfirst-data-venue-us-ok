@@ -2,13 +2,14 @@
   "id": 287244605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747098,35.391797,-97.747098,35.391797",
     "geom:latitude":35.391797,
     "geom:longitude":-97.747098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 State Hwy 152",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287244605,
-    "wof:lastmodified":1449001021,
+    "wof:lastmodified":1466762609,
     "wof:name":"Sechrist Electric",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.747098,35.391797,-97.747098,35.391797],
-  "geometry": {"coordinates":[-97.747098,35.391797],"type":"Point"}
+  "bbox": [
+    -97.747098,
+    35.391797,
+    -97.747098,
+    35.391797
+],
+  "geometry": {"coordinates":[-97.74709799999999,35.391797],"type":"Point"}
 }

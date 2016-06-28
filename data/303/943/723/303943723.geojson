@@ -2,13 +2,14 @@
   "id": 303943723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.118422,34.504886,-97.118422,34.504886",
     "geom:latitude":34.504886,
     "geom:longitude":-97.118422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Main St",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303943723,
-    "wof:lastmodified":1448998760,
+    "wof:lastmodified":1466767028,
     "wof:name":"Water Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-97.118422,34.504886,-97.118422,34.504886],
+  "bbox": [
+    -97.118422,
+    34.504886,
+    -97.118422,
+    34.504886
+],
   "geometry": {"coordinates":[-97.118422,34.504886],"type":"Point"}
 }

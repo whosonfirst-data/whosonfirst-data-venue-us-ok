@@ -2,13 +2,14 @@
   "id": 320833091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.413159,35.844131,-98.413159,35.844131",
     "geom:latitude":35.844131,
     "geom:longitude":-98.413159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Noble Ave",
     "sg:city":"Watonga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320833091,
-    "wof:lastmodified":1449011728,
+    "wof:lastmodified":1466766916,
     "wof:name":"William K Gauer CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-98.413159,35.844131,-98.413159,35.844131],
-  "geometry": {"coordinates":[-98.413159,35.844131],"type":"Point"}
+  "bbox": [
+    -98.413159,
+    35.844131,
+    -98.413159,
+    35.844131
+],
+  "geometry": {"coordinates":[-98.41315899999999,35.844131],"type":"Point"}
 }

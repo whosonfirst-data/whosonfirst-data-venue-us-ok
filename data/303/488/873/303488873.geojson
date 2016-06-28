@@ -2,13 +2,14 @@
   "id": 303488873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.918554,36.744643,-95.918554,36.744643",
     "geom:latitude":36.744643,
     "geom:longitude":-95.918554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5120 E Frank Phillips Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303488873,
-    "wof:lastmodified":1449000503,
+    "wof:lastmodified":1466765805,
     "wof:name":"Smith Dental Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-95.918554,36.744643,-95.918554,36.744643],
+  "bbox": [
+    -95.918554,
+    36.744643,
+    -95.918554,
+    36.744643
+],
   "geometry": {"coordinates":[-95.918554,36.744643],"type":"Point"}
 }

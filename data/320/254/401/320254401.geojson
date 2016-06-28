@@ -2,13 +2,14 @@
   "id": 320254401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.93967,36.754694,-95.93967,36.754694",
     "geom:latitude":36.754694,
     "geom:longitude":-95.93967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 SE Howard Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320254401,
-    "wof:lastmodified":1449013843,
+    "wof:lastmodified":1466764784,
     "wof:name":"Jane Phillips Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.93967,36.754694,-95.93967,36.754694],
-  "geometry": {"coordinates":[-95.93967,36.754694],"type":"Point"}
+  "bbox": [
+    -95.93967,
+    36.754694,
+    -95.93967,
+    36.754694
+],
+  "geometry": {"coordinates":[-95.93967000000001,36.754694],"type":"Point"}
 }

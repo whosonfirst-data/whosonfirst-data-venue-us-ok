@@ -2,13 +2,14 @@
   "id": 304072505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935402,36.759362,-95.935402,36.759362",
     "geom:latitude":36.759362,
     "geom:longitude":-95.935402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 NE Washington Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304072505,
-    "wof:lastmodified":1449043888,
+    "wof:lastmodified":1466763238,
     "wof:name":"Angel Niche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.935402,36.759362,-95.935402,36.759362],
+  "bbox": [
+    -95.935402,
+    36.759362,
+    -95.935402,
+    36.759362
+],
   "geometry": {"coordinates":[-95.935402,36.759362],"type":"Point"}
 }

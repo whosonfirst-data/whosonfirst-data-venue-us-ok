@@ -2,13 +2,14 @@
   "id": 303710051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.894072,36.045903,-95.894072,36.045903",
     "geom:latitude":36.045903,
     "geom:longitude":-95.894072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7322 E 81st Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303710051,
-    "wof:lastmodified":1448998269,
+    "wof:lastmodified":1466766398,
     "wof:name":"KEEL Engineered Equipment",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "construction"
     ]
 },
-  "bbox": [-95.894072,36.045903,-95.894072,36.045903],
-  "geometry": {"coordinates":[-95.894072,36.045903],"type":"Point"}
+  "bbox": [
+    -95.894072,
+    36.045903,
+    -95.894072,
+    36.045903
+],
+  "geometry": {"coordinates":[-95.89407199999999,36.045903],"type":"Point"}
 }

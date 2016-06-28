@@ -2,13 +2,14 @@
   "id": 320107079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990266,36.151519,-95.990266,36.151519",
     "geom:latitude":36.151519,
     "geom:longitude":-95.990266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 S Main St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320107079,
-    "wof:lastmodified":1449011277,
+    "wof:lastmodified":1466763873,
     "wof:name":"Lou's Deli",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-95.990266,36.151519,-95.990266,36.151519],
-  "geometry": {"coordinates":[-95.990266,36.151519],"type":"Point"}
+  "bbox": [
+    -95.990266,
+    36.151519,
+    -95.990266,
+    36.151519
+],
+  "geometry": {"coordinates":[-95.99026600000001,36.151519],"type":"Point"}
 }

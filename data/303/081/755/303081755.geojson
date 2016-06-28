@@ -2,13 +2,14 @@
   "id": 303081755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.632981,36.594449,-101.632981,36.594449",
     "geom:latitude":36.594449,
     "geom:longitude":-101.632981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Main St",
     "sg:city":"Goodwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303081755,
-    "wof:lastmodified":1448998874,
+    "wof:lastmodified":1466762933,
     "wof:name":"Goodwell Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-101.632981,36.594449,-101.632981,36.594449],
+  "bbox": [
+    -101.632981,
+    36.594449,
+    -101.632981,
+    36.594449
+],
   "geometry": {"coordinates":[-101.632981,36.594449],"type":"Point"}
 }

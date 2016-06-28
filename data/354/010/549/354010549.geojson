@@ -2,13 +2,14 @@
   "id": 354010549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.241397,35.794635,-95.241397,35.794635",
     "geom:latitude":35.794635,
     "geom:longitude":-95.241397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Ross St",
     "sg:city":"Fort Gibson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354010549,
-    "wof:lastmodified":1449067007,
+    "wof:lastmodified":1466762997,
     "wof:name":"Ft Gibson Hs",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.241397,35.794635,-95.241397,35.794635],
-  "geometry": {"coordinates":[-95.241397,35.794635],"type":"Point"}
+  "bbox": [
+    -95.241397,
+    35.794635,
+    -95.241397,
+    35.794635
+],
+  "geometry": {"coordinates":[-95.24139700000001,35.794635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319881525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.478248,35.64971,-97.478248,35.64971",
     "geom:latitude":35.64971,
     "geom:longitude":-97.478248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E 5th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":319881525,
-    "wof:lastmodified":1449024544,
+    "wof:lastmodified":1466763423,
     "wof:name":"Fifth Avenue Wealth Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "financial"
     ]
 },
-  "bbox": [-97.478248,35.64971,-97.478248,35.64971],
-  "geometry": {"coordinates":[-97.478248,35.64971],"type":"Point"}
+  "bbox": [
+    -97.478248,
+    35.64971,
+    -97.478248,
+    35.64971
+],
+  "geometry": {"coordinates":[-97.47824799999999,35.64971],"type":"Point"}
 }

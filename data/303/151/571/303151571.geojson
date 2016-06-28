@@ -2,13 +2,14 @@
   "id": 303151571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.861563,36.088119,-95.861563,36.088119",
     "geom:latitude":36.088119,
     "geom:longitude":-95.861563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10008 E 52nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303151571,
-    "wof:lastmodified":1448998145,
+    "wof:lastmodified":1466764065,
     "wof:name":"Sonoco Industrial Products",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.861563,36.088119,-95.861563,36.088119],
+  "bbox": [
+    -95.861563,
+    36.088119,
+    -95.861563,
+    36.088119
+],
   "geometry": {"coordinates":[-95.861563,36.088119],"type":"Point"}
 }

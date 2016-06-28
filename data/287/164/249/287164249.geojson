@@ -2,13 +2,14 @@
   "id": 287164249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.529825,35.525255,-97.529825,35.525255",
     "geom:latitude":35.525255,
     "geom:longitude":-97.529825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5207 N Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287164249,
-    "wof:lastmodified":1449000765,
+    "wof:lastmodified":1466763735,
     "wof:name":"Western Club",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.529825,35.525255,-97.529825,35.525255],
+  "bbox": [
+    -97.529825,
+    35.525255,
+    -97.529825,
+    35.525255
+],
   "geometry": {"coordinates":[-97.529825,35.525255],"type":"Point"}
 }

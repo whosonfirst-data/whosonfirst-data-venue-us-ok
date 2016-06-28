@@ -2,13 +2,14 @@
   "id": 353376271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904648,36.196381,-95.904648,36.196381",
     "geom:latitude":36.196381,
     "geom:longitude":-95.904648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 N Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353376271,
-    "wof:lastmodified":1449019131,
+    "wof:lastmodified":1466762313,
     "wof:name":"Aircraft Components Co",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [-95.904648,36.196381,-95.904648,36.196381],
-  "geometry": {"coordinates":[-95.904648,36.196381],"type":"Point"}
+  "bbox": [
+    -95.904648,
+    36.196381,
+    -95.904648,
+    36.196381
+],
+  "geometry": {"coordinates":[-95.90464799999999,36.196381],"type":"Point"}
 }

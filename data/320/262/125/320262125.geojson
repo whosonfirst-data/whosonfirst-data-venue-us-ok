@@ -2,13 +2,14 @@
   "id": 320262125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.472491,35.324752,-97.472491,35.324752",
     "geom:latitude":35.324752,
     "geom:longitude":-97.472491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 SE 15th St",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320262125,
-    "wof:lastmodified":1449013566,
+    "wof:lastmodified":1466764839,
     "wof:name":"O K Carburetor Sales",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carburetor"
     ]
 },
-  "bbox": [-97.472491,35.324752,-97.472491,35.324752],
-  "geometry": {"coordinates":[-97.472491,35.324752],"type":"Point"}
+  "bbox": [
+    -97.472491,
+    35.324752,
+    -97.472491,
+    35.324752
+],
+  "geometry": {"coordinates":[-97.47249100000001,35.324752],"type":"Point"}
 }

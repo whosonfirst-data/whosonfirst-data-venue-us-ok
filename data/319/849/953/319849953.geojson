@@ -2,13 +2,14 @@
   "id": 319849953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.645451,35.511466,-97.645451,35.511466",
     "geom:latitude":35.511466,
     "geom:longitude":-97.645451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7704 NW 39th St",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":319849953,
-    "wof:lastmodified":1449024241,
+    "wof:lastmodified":1466763153,
     "wof:name":"Bob Rousselles Lawn Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.645451,35.511466,-97.645451,35.511466],
-  "geometry": {"coordinates":[-97.645451,35.511466],"type":"Point"}
+  "bbox": [
+    -97.645451,
+    35.511466,
+    -97.645451,
+    35.511466
+],
+  "geometry": {"coordinates":[-97.64545099999999,35.511466],"type":"Point"}
 }

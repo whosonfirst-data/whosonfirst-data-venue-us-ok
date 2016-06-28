@@ -2,13 +2,14 @@
   "id": 303502837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.958031,36.072745,-95.958031,36.072745",
     "geom:latitude":36.072745,
     "geom:longitude":-95.958031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6432 S Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303502837,
-    "wof:lastmodified":1448999240,
+    "wof:lastmodified":1466765946,
     "wof:name":"Cafe China",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.958031,36.072745,-95.958031,36.072745],
-  "geometry": {"coordinates":[-95.958031,36.072745],"type":"Point"}
+  "bbox": [
+    -95.958031,
+    36.072745,
+    -95.958031,
+    36.072745
+],
+  "geometry": {"coordinates":[-95.95803100000001,36.072745],"type":"Point"}
 }

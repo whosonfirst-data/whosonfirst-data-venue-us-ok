@@ -2,13 +2,14 @@
   "id": 303093791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.342498,35.767185,-95.342498,35.767185",
     "geom:latitude":35.767185,
     "geom:longitude":-95.342498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Ridge St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303093791,
-    "wof:lastmodified":1448998120,
+    "wof:lastmodified":1466763133,
     "wof:name":"Dancor Transit Inc",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.342498,35.767185,-95.342498,35.767185],
-  "geometry": {"coordinates":[-95.342498,35.767185],"type":"Point"}
+  "bbox": [
+    -95.342498,
+    35.767185,
+    -95.342498,
+    35.767185
+],
+  "geometry": {"coordinates":[-95.34249800000001,35.767185],"type":"Point"}
 }

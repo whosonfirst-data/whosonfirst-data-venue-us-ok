@@ -2,13 +2,14 @@
   "id": 353981465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.624441,35.554985,-97.624441,35.554985",
     "geom:latitude":35.554985,
     "geom:longitude":-97.624441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6008 Glencove Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353981465,
-    "wof:lastmodified":1449020850,
+    "wof:lastmodified":1466765916,
     "wof:name":"Red River Consulting LLC",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-97.624441,35.554985,-97.624441,35.554985],
+  "bbox": [
+    -97.624441,
+    35.554985,
+    -97.624441,
+    35.554985
+],
   "geometry": {"coordinates":[-97.624441,35.554985],"type":"Point"}
 }

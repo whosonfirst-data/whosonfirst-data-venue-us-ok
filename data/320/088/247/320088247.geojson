@@ -2,13 +2,14 @@
   "id": 320088247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.016642,36.368478,-96.016642,36.368478",
     "geom:latitude":36.368478,
     "geom:longitude":-96.016642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1355 W Rogers Blvd",
     "sg:city":"Skiatook",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320088247,
-    "wof:lastmodified":1449014139,
+    "wof:lastmodified":1466763588,
     "wof:name":"Skiatook Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-96.016642,36.368478,-96.016642,36.368478],
+  "bbox": [
+    -96.016642,
+    36.368478,
+    -96.016642,
+    36.368478
+],
   "geometry": {"coordinates":[-96.016642,36.368478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303769515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.551804,35.435112,-97.551804,35.435112",
     "geom:latitude":35.435112,
     "geom:longitude":-97.551804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2228 SW 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303769515,
-    "wof:lastmodified":1448998926,
+    "wof:lastmodified":1466766668,
     "wof:name":"Auto Best Sales & Leasing",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.551804,35.435112,-97.551804,35.435112],
+  "bbox": [
+    -97.551804,
+    35.435112,
+    -97.551804,
+    35.435112
+],
   "geometry": {"coordinates":[-97.551804,35.435112],"type":"Point"}
 }

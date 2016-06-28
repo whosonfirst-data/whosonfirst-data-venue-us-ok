@@ -2,13 +2,14 @@
   "id": 303067619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.092007,36.695435,-97.092007,36.695435",
     "geom:latitude":36.695435,
     "geom:longitude":-97.092007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 S Palm St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303067619,
-    "wof:lastmodified":1448998276,
+    "wof:lastmodified":1466762705,
     "wof:name":"Cedargate Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.092007,36.695435,-97.092007,36.695435],
+  "bbox": [
+    -97.092007,
+    36.695435,
+    -97.092007,
+    36.695435
+],
   "geometry": {"coordinates":[-97.092007,36.695435],"type":"Point"}
 }

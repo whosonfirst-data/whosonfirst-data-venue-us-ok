@@ -2,13 +2,14 @@
   "id": 320764003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.905493,35.329083,-96.905493,35.329083",
     "geom:latitude":35.329083,
     "geom:longitude":-96.905493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 E 9th St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320764003,
-    "wof:lastmodified":1449014789,
+    "wof:lastmodified":1466766817,
     "wof:name":"Gary Chesser Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.905493,35.329083,-96.905493,35.329083],
-  "geometry": {"coordinates":[-96.905493,35.329083],"type":"Point"}
+  "bbox": [
+    -96.905493,
+    35.329083,
+    -96.905493,
+    35.329083
+],
+  "geometry": {"coordinates":[-96.90549300000001,35.329083],"type":"Point"}
 }

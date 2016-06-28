@@ -2,13 +2,14 @@
   "id": 303436021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.017075,34.379011,-99.017075,34.379011",
     "geom:latitude":34.379011,
     "geom:longitude":-99.017075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1123 S Main St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303436021,
-    "wof:lastmodified":1449000331,
+    "wof:lastmodified":1466765593,
     "wof:name":"Tanglewood Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.017075,34.379011,-99.017075,34.379011],
-  "geometry": {"coordinates":[-99.017075,34.379011],"type":"Point"}
+  "bbox": [
+    -99.017075,
+    34.379011,
+    -99.017075,
+    34.379011
+],
+  "geometry": {"coordinates":[-99.01707500000001,34.379011],"type":"Point"}
 }

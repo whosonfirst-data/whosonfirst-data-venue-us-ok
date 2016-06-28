@@ -2,13 +2,14 @@
   "id": 303409659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.634091,35.50249,-97.634091,35.50249",
     "geom:latitude":35.50249,
     "geom:longitude":-97.634091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6819 NW 31st St",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303409659,
-    "wof:lastmodified":1448999122,
+    "wof:lastmodified":1466765353,
     "wof:name":"Bell Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.634091,35.50249,-97.634091,35.50249],
+  "bbox": [
+    -97.634091,
+    35.50249,
+    -97.634091,
+    35.50249
+],
   "geometry": {"coordinates":[-97.634091,35.50249],"type":"Point"}
 }

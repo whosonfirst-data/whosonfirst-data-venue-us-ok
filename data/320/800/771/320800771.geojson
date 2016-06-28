@@ -2,13 +2,14 @@
   "id": 320800771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.471443,35.215479,-97.471443,35.215479",
     "geom:latitude":35.215479,
     "geom:longitude":-97.471443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Collier Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320800771,
-    "wof:lastmodified":1449011543,
+    "wof:lastmodified":1466766844,
     "wof:name":"Classem Storage Co",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-97.471443,35.215479,-97.471443,35.215479],
-  "geometry": {"coordinates":[-97.471443,35.215479],"type":"Point"}
+  "bbox": [
+    -97.471443,
+    35.215479,
+    -97.471443,
+    35.215479
+],
+  "geometry": {"coordinates":[-97.47144299999999,35.215479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303178035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.772731,35.621446,-97.772731,35.621446",
     "geom:latitude":35.621446,
     "geom:longitude":-97.772731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13341 Stephens Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303178035,
-    "wof:lastmodified":1448999874,
+    "wof:lastmodified":1466764316,
     "wof:name":"Attic Collectibles",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-97.772731,35.621446,-97.772731,35.621446],
-  "geometry": {"coordinates":[-97.772731,35.621446],"type":"Point"}
+  "bbox": [
+    -97.772731,
+    35.621446,
+    -97.772731,
+    35.621446
+],
+  "geometry": {"coordinates":[-97.77273099999999,35.621446],"type":"Point"}
 }

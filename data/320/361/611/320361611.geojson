@@ -2,13 +2,14 @@
   "id": 320361611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.592576,34.174391,-97.592576,34.174391",
     "geom:latitude":34.174391,
     "geom:longitude":-97.592576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S 5th St",
     "sg:city":"Ringling",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320361611,
-    "wof:lastmodified":1449013977,
+    "wof:lastmodified":1466765535,
     "wof:name":"Hudson's Dx Svc Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-97.592576,34.174391,-97.592576,34.174391],
-  "geometry": {"coordinates":[-97.592576,34.174391],"type":"Point"}
+  "bbox": [
+    -97.592576,
+    34.174391,
+    -97.592576,
+    34.174391
+],
+  "geometry": {"coordinates":[-97.59257599999999,34.174391],"type":"Point"}
 }

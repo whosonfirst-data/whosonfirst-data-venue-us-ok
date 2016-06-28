@@ -2,13 +2,14 @@
   "id": 303377579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.587026,35.488327,-97.587026,35.488327",
     "geom:latitude":35.488327,
     "geom:longitude":-97.587026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3825 NW 18th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303377579,
-    "wof:lastmodified":1448999035,
+    "wof:lastmodified":1466765314,
     "wof:name":"Steven Huff",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-97.587026,35.488327,-97.587026,35.488327],
-  "geometry": {"coordinates":[-97.587026,35.488327],"type":"Point"}
+  "bbox": [
+    -97.587026,
+    35.488327,
+    -97.587026,
+    35.488327
+],
+  "geometry": {"coordinates":[-97.58702599999999,35.488327],"type":"Point"}
 }

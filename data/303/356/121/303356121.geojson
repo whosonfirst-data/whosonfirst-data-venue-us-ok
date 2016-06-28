@@ -2,13 +2,14 @@
   "id": 303356121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.519349,35.436181,-97.519349,35.436181",
     "geom:latitude":35.436181,
     "geom:longitude":-97.519349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 SW 28th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303356121,
-    "wof:lastmodified":1449000129,
+    "wof:lastmodified":1466765205,
     "wof:name":"Arrowhead Rock & Lapidary Sup",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gemstone"
     ]
 },
-  "bbox": [-97.519349,35.436181,-97.519349,35.436181],
-  "geometry": {"coordinates":[-97.519349,35.436181],"type":"Point"}
+  "bbox": [
+    -97.519349,
+    35.436181,
+    -97.519349,
+    35.436181
+],
+  "geometry": {"coordinates":[-97.51934900000001,35.436181],"type":"Point"}
 }

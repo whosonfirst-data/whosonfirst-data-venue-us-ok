@@ -2,13 +2,14 @@
   "id": 303602869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.556824,35.41973,-97.556824,35.41973",
     "geom:latitude":35.41973,
     "geom:longitude":-97.556824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 SW 45th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303602869,
-    "wof:lastmodified":1448999267,
+    "wof:lastmodified":1466766203,
     "wof:name":"Aurora Chiropractic Clinic",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.556824,35.41973,-97.556824,35.41973],
-  "geometry": {"coordinates":[-97.556824,35.41973],"type":"Point"}
+  "bbox": [
+    -97.556824,
+    35.41973,
+    -97.556824,
+    35.41973
+],
+  "geometry": {"coordinates":[-97.55682400000001,35.41973],"type":"Point"}
 }

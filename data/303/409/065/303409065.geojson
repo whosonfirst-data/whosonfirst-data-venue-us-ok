@@ -2,13 +2,14 @@
   "id": 303409065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.986275,34.505434,-96.986275,34.505434",
     "geom:latitude":34.505434,
     "geom:longitude":-96.986275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 W Wyandotte Ave",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303409065,
-    "wof:lastmodified":1448999122,
+    "wof:lastmodified":1466765472,
     "wof:name":"Orbit Aluminum Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "system"
     ]
 },
-  "bbox": [-96.986275,34.505434,-96.986275,34.505434],
-  "geometry": {"coordinates":[-96.986275,34.505434],"type":"Point"}
+  "bbox": [
+    -96.986275,
+    34.505434,
+    -96.986275,
+    34.505434
+],
+  "geometry": {"coordinates":[-96.98627500000001,34.505434],"type":"Point"}
 }

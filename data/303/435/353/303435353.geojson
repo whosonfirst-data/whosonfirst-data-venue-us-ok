@@ -2,13 +2,14 @@
   "id": 303435353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.576078,35.488933,-97.576078,35.488933",
     "geom:latitude":35.488933,
     "geom:longitude":-97.576078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3340 NW 19th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303435353,
-    "wof:lastmodified":1449000340,
+    "wof:lastmodified":1466765596,
     "wof:name":"Great Plains Design",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-97.576078,35.488933,-97.576078,35.488933],
+  "bbox": [
+    -97.576078,
+    35.488933,
+    -97.576078,
+    35.488933
+],
   "geometry": {"coordinates":[-97.576078,35.488933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320098785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.768583,36.017538,-95.768583,36.017538",
     "geom:latitude":36.017538,
     "geom:longitude":-95.768583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19223 E 101st St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320098785,
-    "wof:lastmodified":1449014570,
+    "wof:lastmodified":1466763750,
     "wof:name":"Arnold's County Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.768583,36.017538,-95.768583,36.017538],
-  "geometry": {"coordinates":[-95.768583,36.017538],"type":"Point"}
+  "bbox": [
+    -95.768583,
+    36.017538,
+    -95.768583,
+    36.017538
+],
+  "geometry": {"coordinates":[-95.76858300000001,36.017538],"type":"Point"}
 }

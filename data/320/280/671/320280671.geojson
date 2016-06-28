@@ -2,13 +2,14 @@
   "id": 320280671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.45633,35.399064,-97.45633,35.399064",
     "geom:latitude":35.399064,
     "geom:longitude":-97.45633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3336 SE 67th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320280671,
-    "wof:lastmodified":1449013098,
+    "wof:lastmodified":1466765067,
     "wof:name":"K T L V A M Radio 1220",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-97.45633,35.399064,-97.45633,35.399064],
-  "geometry": {"coordinates":[-97.45633,35.399064],"type":"Point"}
+  "bbox": [
+    -97.45633,
+    35.399064,
+    -97.45633,
+    35.399064
+],
+  "geometry": {"coordinates":[-97.45632999999999,35.399064],"type":"Point"}
 }

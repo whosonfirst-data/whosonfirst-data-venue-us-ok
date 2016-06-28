@@ -2,13 +2,14 @@
   "id": 353730379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.453664,36.543882,-95.453664,36.543882",
     "geom:latitude":36.543882,
     "geom:longitude":-95.453664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 S 4240 Rd",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353730379,
-    "wof:lastmodified":1449020417,
+    "wof:lastmodified":1466765003,
     "wof:name":"Toby Bengston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-95.453664,36.543882,-95.453664,36.543882],
+  "bbox": [
+    -95.453664,
+    36.543882,
+    -95.453664,
+    36.543882
+],
   "geometry": {"coordinates":[-95.453664,36.543882],"type":"Point"}
 }

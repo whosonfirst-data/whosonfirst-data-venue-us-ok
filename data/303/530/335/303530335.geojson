@@ -2,13 +2,14 @@
   "id": 303530335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.505438,35.513147,-97.505438,35.513147",
     "geom:latitude":35.513147,
     "geom:longitude":-97.505438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 N Stiles Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303530335,
-    "wof:lastmodified":1448999423,
+    "wof:lastmodified":1466765847,
     "wof:name":"Benchmark Construction Svc",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-97.505438,35.513147,-97.505438,35.513147],
+  "bbox": [
+    -97.505438,
+    35.513147,
+    -97.505438,
+    35.513147
+],
   "geometry": {"coordinates":[-97.505438,35.513147],"type":"Point"}
 }

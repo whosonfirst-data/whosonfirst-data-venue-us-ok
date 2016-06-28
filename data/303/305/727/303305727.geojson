@@ -2,13 +2,14 @@
   "id": 303305727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.587043,35.468498,-97.587043,35.468498",
     "geom:latitude":35.468498,
     "geom:longitude":-97.587043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4079 NW 3rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303305727,
-    "wof:lastmodified":1448998491,
+    "wof:lastmodified":1466764986,
     "wof:name":"Backyard Solutions",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "swimming"
     ]
 },
-  "bbox": [-97.587043,35.468498,-97.587043,35.468498],
-  "geometry": {"coordinates":[-97.587043,35.468498],"type":"Point"}
+  "bbox": [
+    -97.587043,
+    35.468498,
+    -97.587043,
+    35.468498
+],
+  "geometry": {"coordinates":[-97.58704299999999,35.468498],"type":"Point"}
 }

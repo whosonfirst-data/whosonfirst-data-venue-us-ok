@@ -2,13 +2,14 @@
   "id": 354081101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.452876,35.246315,-97.452876,35.246315",
     "geom:latitude":35.246315,
     "geom:longitude":-97.452876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2108 Research Park Blvd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354081101,
-    "wof:lastmodified":1449066431,
+    "wof:lastmodified":1466763434,
     "wof:name":"Jim Roberson & Associates",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "advertising"
     ]
 },
-  "bbox": [-97.452876,35.246315,-97.452876,35.246315],
+  "bbox": [
+    -97.452876,
+    35.246315,
+    -97.452876,
+    35.246315
+],
   "geometry": {"coordinates":[-97.452876,35.246315],"type":"Point"}
 }

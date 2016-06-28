@@ -2,13 +2,14 @@
   "id": 354045895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.536524,35.471052,-97.536524,35.471052",
     "geom:latitude":35.471052,
     "geom:longitude":-97.536524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 NW 3rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354045895,
-    "wof:lastmodified":1449067474,
+    "wof:lastmodified":1466763261,
     "wof:name":"Star Metal Co",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-97.536524,35.471052,-97.536524,35.471052],
+  "bbox": [
+    -97.536524,
+    35.471052,
+    -97.536524,
+    35.471052
+],
   "geometry": {"coordinates":[-97.536524,35.471052],"type":"Point"}
 }

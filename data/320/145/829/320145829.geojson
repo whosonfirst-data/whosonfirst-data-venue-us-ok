@@ -2,13 +2,14 @@
   "id": 320145829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.007071,34.394867,-99.007071,34.394867",
     "geom:latitude":34.394867,
     "geom:longitude":-99.007071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 N 18th St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320145829,
-    "wof:lastmodified":1449012407,
+    "wof:lastmodified":1466764383,
     "wof:name":"Adventure Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-99.007071,34.394867,-99.007071,34.394867],
+  "bbox": [
+    -99.007071,
+    34.394867,
+    -99.007071,
+    34.394867
+],
   "geometry": {"coordinates":[-99.007071,34.394867],"type":"Point"}
 }

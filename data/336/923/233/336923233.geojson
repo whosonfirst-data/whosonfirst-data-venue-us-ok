@@ -2,13 +2,14 @@
   "id": 336923233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.391967,34.596439,-98.391967,34.596439",
     "geom:latitude":34.596439,
     "geom:longitude":-98.391967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 SW Park Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336923233,
-    "wof:lastmodified":1448997966,
+    "wof:lastmodified":1466765416,
     "wof:name":"Park Avenue Learning Academy",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-98.391967,34.596439,-98.391967,34.596439],
-  "geometry": {"coordinates":[-98.391967,34.596439],"type":"Point"}
+  "bbox": [
+    -98.391967,
+    34.596439,
+    -98.391967,
+    34.596439
+],
+  "geometry": {"coordinates":[-98.39196699999999,34.596439],"type":"Point"}
 }

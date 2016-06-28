@@ -2,13 +2,14 @@
   "id": 320335651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.319922,36.30407,-95.319922,36.30407",
     "geom:latitude":36.30407,
     "geom:longitude":-95.319922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 S Mill St",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320335651,
-    "wof:lastmodified":1449013731,
+    "wof:lastmodified":1466765377,
     "wof:name":"Pryor City Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.319922,36.30407,-95.319922,36.30407],
-  "geometry": {"coordinates":[-95.319922,36.30407],"type":"Point"}
+  "bbox": [
+    -95.319922,
+    36.30407,
+    -95.319922,
+    36.30407
+],
+  "geometry": {"coordinates":[-95.31992200000001,36.30407],"type":"Point"}
 }

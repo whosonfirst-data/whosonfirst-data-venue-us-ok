@@ -2,13 +2,14 @@
   "id": 303369551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.422116,34.633464,-98.422116,34.633464",
     "geom:latitude":34.633464,
     "geom:longitude":-98.422116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 NW Floyd Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303369551,
-    "wof:lastmodified":1449000438,
+    "wof:lastmodified":1466765274,
     "wof:name":"Dorrell Heating & AC",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.422116,34.633464,-98.422116,34.633464],
+  "bbox": [
+    -98.422116,
+    34.633464,
+    -98.422116,
+    34.633464
+],
   "geometry": {"coordinates":[-98.422116,34.633464],"type":"Point"}
 }

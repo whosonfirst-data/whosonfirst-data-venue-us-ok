@@ -2,13 +2,14 @@
   "id": 303776781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.429239,35.223758,-97.429239,35.223758",
     "geom:latitude":35.223758,
     "geom:longitude":-97.429239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Reed Ave",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303776781,
-    "wof:lastmodified":1448998647,
+    "wof:lastmodified":1466766679,
     "wof:name":"Imagine That",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.429239,35.223758,-97.429239,35.223758],
+  "bbox": [
+    -97.429239,
+    35.223758,
+    -97.429239,
+    35.223758
+],
   "geometry": {"coordinates":[-97.429239,35.223758],"type":"Point"}
 }

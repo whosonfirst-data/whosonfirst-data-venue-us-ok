@@ -2,13 +2,14 @@
   "id": 320019773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.708323,35.948615,-95.708323,35.948615",
     "geom:latitude":35.948615,
     "geom:longitude":-95.708323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10266 Oneta Rd",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320019773,
-    "wof:lastmodified":1449013398,
+    "wof:lastmodified":1466762579,
     "wof:name":"Broken Arrow Elks Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.708323,35.948615,-95.708323,35.948615],
-  "geometry": {"coordinates":[-95.708323,35.948615],"type":"Point"}
+  "bbox": [
+    -95.708323,
+    35.948615,
+    -95.708323,
+    35.948615
+],
+  "geometry": {"coordinates":[-95.70832299999999,35.948615],"type":"Point"}
 }

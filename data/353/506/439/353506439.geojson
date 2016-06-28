@@ -2,13 +2,14 @@
   "id": 353506439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.532637,35.565545,-97.532637,35.565545",
     "geom:latitude":35.565545,
     "geom:longitude":-97.532637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W Britton Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353506439,
-    "wof:lastmodified":1449018306,
+    "wof:lastmodified":1466763213,
     "wof:name":"Britton Auto Brokers LLC",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "broker"
     ]
 },
-  "bbox": [-97.532637,35.565545,-97.532637,35.565545],
-  "geometry": {"coordinates":[-97.532637,35.565545],"type":"Point"}
+  "bbox": [
+    -97.532637,
+    35.565545,
+    -97.532637,
+    35.565545
+],
+  "geometry": {"coordinates":[-97.53263699999999,35.565545],"type":"Point"}
 }

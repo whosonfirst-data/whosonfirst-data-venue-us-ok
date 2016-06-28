@@ -2,13 +2,14 @@
   "id": 336766883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.567113,35.580575,-97.567113,35.580575",
     "geom:latitude":35.580575,
     "geom:longitude":-97.567113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10952 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336766883,
-    "wof:lastmodified":1448996908,
+    "wof:lastmodified":1466764408,
     "wof:name":"Fabric Gallery Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "notion"
     ]
 },
-  "bbox": [-97.567113,35.580575,-97.567113,35.580575],
-  "geometry": {"coordinates":[-97.567113,35.580575],"type":"Point"}
+  "bbox": [
+    -97.567113,
+    35.580575,
+    -97.567113,
+    35.580575
+],
+  "geometry": {"coordinates":[-97.56711300000001,35.580575],"type":"Point"}
 }

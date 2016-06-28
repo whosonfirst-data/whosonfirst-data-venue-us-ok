@@ -2,13 +2,14 @@
   "id": 337624385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.432946,35.406407,-97.432946,35.406407",
     "geom:latitude":35.406407,
     "geom:longitude":-97.432946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5605 Republic Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337624385,
-    "wof:lastmodified":1449027513,
+    "wof:lastmodified":1466763353,
     "wof:name":"Team Flip",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.432946,35.406407,-97.432946,35.406407],
+  "bbox": [
+    -97.432946,
+    35.406407,
+    -97.432946,
+    35.406407
+],
   "geometry": {"coordinates":[-97.432946,35.406407],"type":"Point"}
 }

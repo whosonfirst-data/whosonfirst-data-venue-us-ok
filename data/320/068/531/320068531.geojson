@@ -2,13 +2,14 @@
   "id": 320068531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.910404,35.326236,-96.910404,35.326236",
     "geom:latitude":35.326236,
     "geom:longitude":-96.910404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 S Dixon St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320068531,
-    "wof:lastmodified":1449013178,
+    "wof:lastmodified":1466763303,
     "wof:name":"Bill's Bail Bonds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-96.910404,35.326236,-96.910404,35.326236],
+  "bbox": [
+    -96.910404,
+    35.326236,
+    -96.910404,
+    35.326236
+],
   "geometry": {"coordinates":[-96.910404,35.326236],"type":"Point"}
 }

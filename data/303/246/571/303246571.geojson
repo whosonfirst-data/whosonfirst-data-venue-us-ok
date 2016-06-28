@@ -2,13 +2,14 @@
   "id": 303246571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.477181,36.687965,-101.477181,36.687965",
     "geom:latitude":36.687965,
     "geom:longitude":-101.477181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 NE 10th St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303246571,
-    "wof:lastmodified":1448998286,
+    "wof:lastmodified":1466764607,
     "wof:name":"Jerry W Houser Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.477181,36.687965,-101.477181,36.687965],
+  "bbox": [
+    -101.477181,
+    36.687965,
+    -101.477181,
+    36.687965
+],
   "geometry": {"coordinates":[-101.477181,36.687965],"type":"Point"}
 }

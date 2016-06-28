@@ -2,13 +2,14 @@
   "id": 354018603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530213,35.397495,-97.530213,35.397495",
     "geom:latitude":35.397495,
     "geom:longitude":-97.530213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6803 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354018603,
-    "wof:lastmodified":1449066776,
+    "wof:lastmodified":1466763056,
     "wof:name":"First American Hurst",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.530213,35.397495,-97.530213,35.397495],
+  "bbox": [
+    -97.530213,
+    35.397495,
+    -97.530213,
+    35.397495
+],
   "geometry": {"coordinates":[-97.530213,35.397495],"type":"Point"}
 }

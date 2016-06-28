@@ -2,13 +2,14 @@
   "id": 303227789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.511884,35.469732,-97.511884,35.469732",
     "geom:latitude":35.469732,
     "geom:longitude":-97.511884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 NE 2nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303227789,
-    "wof:lastmodified":1448998653,
+    "wof:lastmodified":1466764588,
     "wof:name":"Wave Skate Park",
     "wof:parent_id":85871671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.511884,35.469732,-97.511884,35.469732],
-  "geometry": {"coordinates":[-97.511884,35.469732],"type":"Point"}
+  "bbox": [
+    -97.511884,
+    35.469732,
+    -97.511884,
+    35.469732
+],
+  "geometry": {"coordinates":[-97.51188399999999,35.469732],"type":"Point"}
 }

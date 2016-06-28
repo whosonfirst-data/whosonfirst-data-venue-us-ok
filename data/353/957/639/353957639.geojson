@@ -2,13 +2,14 @@
   "id": 353957639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.639143,36.700081,-95.639143,36.700081",
     "geom:latitude":36.700081,
     "geom:longitude":-95.639143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 S Pine St",
     "sg:city":"Nowata",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353957639,
-    "wof:lastmodified":1449020439,
+    "wof:lastmodified":1466765860,
     "wof:name":"City Police Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-95.639143,36.700081,-95.639143,36.700081],
+  "bbox": [
+    -95.639143,
+    36.700081,
+    -95.639143,
+    36.700081
+],
   "geometry": {"coordinates":[-95.639143,36.700081],"type":"Point"}
 }

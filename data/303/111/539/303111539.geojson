@@ -2,13 +2,14 @@
   "id": 303111539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.787314,35.600635,-97.787314,35.600635",
     "geom:latitude":35.600635,
     "geom:longitude":-97.787314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12700 Natasha Way",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303111539,
-    "wof:lastmodified":1449000648,
+    "wof:lastmodified":1466763417,
     "wof:name":"Shelly Hooker CPA",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-97.787314,35.600635,-97.787314,35.600635],
-  "geometry": {"coordinates":[-97.787314,35.600635],"type":"Point"}
+  "bbox": [
+    -97.787314,
+    35.600635,
+    -97.787314,
+    35.600635
+],
+  "geometry": {"coordinates":[-97.78731399999999,35.600635],"type":"Point"}
 }

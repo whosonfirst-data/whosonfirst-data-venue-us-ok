@@ -2,13 +2,14 @@
   "id": 303684277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.094366,36.000175,-96.094366,36.000175",
     "geom:latitude":36.000175,
     "geom:longitude":-96.094366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 E Hobson Ave",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303684277,
-    "wof:lastmodified":1448998719,
+    "wof:lastmodified":1466766449,
     "wof:name":"Appliance Certified Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-96.094366,36.000175,-96.094366,36.000175],
-  "geometry": {"coordinates":[-96.094366,36.000175],"type":"Point"}
+  "bbox": [
+    -96.094366,
+    36.000175,
+    -96.094366,
+    36.000175
+],
+  "geometry": {"coordinates":[-96.09436599999999,36.000175],"type":"Point"}
 }

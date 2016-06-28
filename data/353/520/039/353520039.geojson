@@ -2,13 +2,14 @@
   "id": 353520039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.559845,35.579675,-97.559845,35.579675",
     "geom:latitude":35.579675,
     "geom:longitude":-97.559845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10833 N Utica Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353520039,
-    "wof:lastmodified":1449019097,
+    "wof:lastmodified":1466763423,
     "wof:name":"Chip Newman Appraisal Svc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-97.559845,35.579675,-97.559845,35.579675],
+  "bbox": [
+    -97.559845,
+    35.579675,
+    -97.559845,
+    35.579675
+],
   "geometry": {"coordinates":[-97.559845,35.579675],"type":"Point"}
 }

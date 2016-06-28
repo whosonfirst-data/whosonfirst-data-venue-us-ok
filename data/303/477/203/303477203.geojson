@@ -2,13 +2,14 @@
   "id": 303477203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.574419,34.767338,-98.574419,34.767338",
     "geom:latitude":34.767338,
     "geom:longitude":-98.574419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Eagle Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303477203,
-    "wof:lastmodified":1448998538,
+    "wof:lastmodified":1466765745,
     "wof:name":"Dorothy J Adams",
     "wof:parent_id":85815375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-98.574419,34.767338,-98.574419,34.767338],
-  "geometry": {"coordinates":[-98.574419,34.767338],"type":"Point"}
+  "bbox": [
+    -98.574419,
+    34.767338,
+    -98.574419,
+    34.767338
+],
+  "geometry": {"coordinates":[-98.57441900000001,34.767338],"type":"Point"}
 }

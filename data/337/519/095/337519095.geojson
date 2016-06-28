@@ -2,13 +2,14 @@
   "id": 337519095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.4118,36.4343,-99.4118,36.4343",
     "geom:latitude":36.4343,
     "geom:longitude":-99.4118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 25th St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337519095,
-    "wof:lastmodified":1449027685,
+    "wof:lastmodified":1466762753,
     "wof:name":"Woodward Mini-Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-99.4118,36.4343,-99.4118,36.4343],
+  "bbox": [
+    -99.4118,
+    36.4343,
+    -99.4118,
+    36.4343
+],
   "geometry": {"coordinates":[-99.4118,36.4343],"type":"Point"}
 }

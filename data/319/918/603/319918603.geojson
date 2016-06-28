@@ -2,13 +2,14 @@
   "id": 319918603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406125,35.445209,-97.406125,35.445209",
     "geom:latitude":35.445209,
     "geom:longitude":-97.406125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2025 S Air Depot Blvd",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319918603,
-    "wof:lastmodified":1449024605,
+    "wof:lastmodified":1466763824,
     "wof:name":"Allied Dealer Svc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.406125,35.445209,-97.406125,35.445209],
+  "bbox": [
+    -97.406125,
+    35.445209,
+    -97.406125,
+    35.445209
+],
   "geometry": {"coordinates":[-97.406125,35.445209],"type":"Point"}
 }

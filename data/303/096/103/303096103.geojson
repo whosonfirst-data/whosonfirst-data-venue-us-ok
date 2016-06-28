@@ -2,13 +2,14 @@
   "id": 303096103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.431448,35.41773,-97.431448,35.41773",
     "geom:latitude":35.41773,
     "geom:longitude":-97.431448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5008 SE 47th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303096103,
-    "wof:lastmodified":1448998908,
+    "wof:lastmodified":1466763177,
     "wof:name":"Amys Child Care",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.431448,35.41773,-97.431448,35.41773],
+  "bbox": [
+    -97.431448,
+    35.41773,
+    -97.431448,
+    35.41773
+],
   "geometry": {"coordinates":[-97.431448,35.41773],"type":"Point"}
 }

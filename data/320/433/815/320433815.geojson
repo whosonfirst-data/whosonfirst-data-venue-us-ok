@@ -2,13 +2,14 @@
   "id": 320433815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.482296,35.63335,-97.482296,35.63335",
     "geom:latitude":35.63335,
     "geom:longitude":-97.482296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 South Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320433815,
-    "wof:lastmodified":1449011677,
+    "wof:lastmodified":1466765896,
     "wof:name":"Christ Community Church",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.482296,35.63335,-97.482296,35.63335],
-  "geometry": {"coordinates":[-97.482296,35.63335],"type":"Point"}
+  "bbox": [
+    -97.482296,
+    35.63335,
+    -97.482296,
+    35.63335
+],
+  "geometry": {"coordinates":[-97.48229600000001,35.63335],"type":"Point"}
 }

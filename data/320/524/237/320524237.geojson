@@ -2,13 +2,14 @@
   "id": 320524237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.619391,35.054255,-94.619391,35.054255",
     "geom:latitude":35.054255,
     "geom:longitude":-94.619391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 N Witte St",
     "sg:city":"Poteau",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320524237,
-    "wof:lastmodified":1449011222,
+    "wof:lastmodified":1466766105,
     "wof:name":"Grace Cottage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "intervention"
     ]
 },
-  "bbox": [-94.619391,35.054255,-94.619391,35.054255],
-  "geometry": {"coordinates":[-94.619391,35.054255],"type":"Point"}
+  "bbox": [
+    -94.619391,
+    35.054255,
+    -94.619391,
+    35.054255
+],
+  "geometry": {"coordinates":[-94.61939099999999,35.054255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353910957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.08352,36.708758,-97.08352,36.708758",
     "geom:latitude":36.708758,
     "geom:longitude":-97.08352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 N 1st St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353910957,
-    "wof:lastmodified":1449019310,
+    "wof:lastmodified":1466765793,
     "wof:name":"Hospice Equipment Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "storage"
     ]
 },
-  "bbox": [-97.08352,36.708758,-97.08352,36.708758],
-  "geometry": {"coordinates":[-97.08352,36.708758],"type":"Point"}
+  "bbox": [
+    -97.08352,
+    36.708758,
+    -97.08352,
+    36.708758
+],
+  "geometry": {"coordinates":[-97.08351999999999,36.708758],"type":"Point"}
 }

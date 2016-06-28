@@ -2,13 +2,14 @@
   "id": 303248113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.497411,35.23824,-97.497411,35.23824",
     "geom:latitude":35.23824,
     "geom:longitude":-97.497411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3713 Barwick Ct",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303248113,
-    "wof:lastmodified":1448999463,
+    "wof:lastmodified":1466764703,
     "wof:name":"Hurley & Assoc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-97.497411,35.23824,-97.497411,35.23824],
+  "bbox": [
+    -97.497411,
+    35.23824,
+    -97.497411,
+    35.23824
+],
   "geometry": {"coordinates":[-97.497411,35.23824],"type":"Point"}
 }

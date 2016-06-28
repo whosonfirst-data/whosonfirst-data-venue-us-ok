@@ -2,13 +2,14 @@
   "id": 304053865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967582,36.75181,-95.967582,36.75181",
     "geom:latitude":36.75181,
     "geom:longitude":-95.967582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 S Choctaw Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304053865,
-    "wof:lastmodified":1449043670,
+    "wof:lastmodified":1466763135,
     "wof:name":"Poindexter Discount Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.967582,36.75181,-95.967582,36.75181],
-  "geometry": {"coordinates":[-95.967582,36.75181],"type":"Point"}
+  "bbox": [
+    -95.967582,
+    36.75181,
+    -95.967582,
+    36.75181
+],
+  "geometry": {"coordinates":[-95.96758199999999,36.75181],"type":"Point"}
 }

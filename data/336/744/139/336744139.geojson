@@ -2,13 +2,14 @@
   "id": 336744139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.855702,36.175977,-95.855702,36.175977",
     "geom:latitude":36.175977,
     "geom:longitude":-95.855702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1353 N 108th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336744139,
-    "wof:lastmodified":1448997322,
+    "wof:lastmodified":1466764358,
     "wof:name":"Cyclonic Valve & Mfg Inc",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "valve"
     ]
 },
-  "bbox": [-95.855702,36.175977,-95.855702,36.175977],
-  "geometry": {"coordinates":[-95.855702,36.175977],"type":"Point"}
+  "bbox": [
+    -95.855702,
+    36.175977,
+    -95.855702,
+    36.175977
+],
+  "geometry": {"coordinates":[-95.85570199999999,36.175977],"type":"Point"}
 }

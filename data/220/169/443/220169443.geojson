@@ -2,13 +2,14 @@
   "id": 220169443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.989883,36.153609,-95.989883,36.153609",
     "geom:latitude":36.153609,
     "geom:longitude":-95.989883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 S Boston Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":220169443,
-    "wof:lastmodified":1449074531,
+    "wof:lastmodified":1466762314,
     "wof:name":"Boston Avenue Management Co Inc",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-95.989883,36.153609,-95.989883,36.153609],
-  "geometry": {"coordinates":[-95.989883,36.153609],"type":"Point"}
+  "bbox": [
+    -95.989883,
+    36.153609,
+    -95.989883,
+    36.153609
+],
+  "geometry": {"coordinates":[-95.98988300000001,36.153609],"type":"Point"}
 }

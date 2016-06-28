@@ -2,13 +2,14 @@
   "id": 354104113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.129865,34.174456,-97.129865,34.174456",
     "geom:latitude":34.174456,
     "geom:longitude":-97.129865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Broadway St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354104113,
-    "wof:lastmodified":1449066626,
+    "wof:lastmodified":1466763518,
     "wof:name":"KACO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-97.129865,34.174456,-97.129865,34.174456],
+  "bbox": [
+    -97.129865,
+    34.174456,
+    -97.129865,
+    34.174456
+],
   "geometry": {"coordinates":[-97.129865,34.174456],"type":"Point"}
 }

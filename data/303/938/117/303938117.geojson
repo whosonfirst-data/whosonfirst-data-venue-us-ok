@@ -2,13 +2,14 @@
   "id": 303938117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.212257,36.860633,-101.212257,36.860633",
     "geom:latitude":36.860633,
     "geom:longitude":-101.212257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Glaydas St",
     "sg:city":"Hooker",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303938117,
-    "wof:lastmodified":1448999942,
+    "wof:lastmodified":1466767016,
     "wof:name":"Colvin-Mills Agency Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.212257,36.860633,-101.212257,36.860633],
-  "geometry": {"coordinates":[-101.212257,36.860633],"type":"Point"}
+  "bbox": [
+    -101.212257,
+    36.860633,
+    -101.212257,
+    36.860633
+],
+  "geometry": {"coordinates":[-101.21225699999999,36.860633],"type":"Point"}
 }

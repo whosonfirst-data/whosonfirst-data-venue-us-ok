@@ -2,13 +2,14 @@
   "id": 303556485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.399616,35.438586,-97.399616,35.438586",
     "geom:latitude":35.438586,
     "geom:longitude":-97.399616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E Mid-America Blvd",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303556485,
-    "wof:lastmodified":1448998718,
+    "wof:lastmodified":1466766058,
     "wof:name":"Mid-Del Youth & Family Centers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "se"
     ]
 },
-  "bbox": [-97.399616,35.438586,-97.399616,35.438586],
-  "geometry": {"coordinates":[-97.399616,35.438586],"type":"Point"}
+  "bbox": [
+    -97.399616,
+    35.438586,
+    -97.399616,
+    35.438586
+],
+  "geometry": {"coordinates":[-97.39961599999999,35.438586],"type":"Point"}
 }

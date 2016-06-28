@@ -2,13 +2,14 @@
   "id": 320331887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.31038,34.646569,-99.31038,34.646569",
     "geom:latitude":34.646569,
     "geom:longitude":-99.31038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Tyler St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320331887,
-    "wof:lastmodified":1449013522,
+    "wof:lastmodified":1466765483,
     "wof:name":"Keenum Trucking & Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-99.31038,34.646569,-99.31038,34.646569],
-  "geometry": {"coordinates":[-99.31038,34.646569],"type":"Point"}
+  "bbox": [
+    -99.31038,
+    34.646569,
+    -99.31038,
+    34.646569
+],
+  "geometry": {"coordinates":[-99.31037999999999,34.646569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303355427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.290158,36.286475,-97.290158,36.286475",
     "geom:latitude":36.286475,
     "geom:longitude":-97.290158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 N 8th St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303355427,
-    "wof:lastmodified":1448998795,
+    "wof:lastmodified":1466765087,
     "wof:name":"Corrections-Probation & Parole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-97.290158,36.286475,-97.290158,36.286475],
-  "geometry": {"coordinates":[-97.290158,36.286475],"type":"Point"}
+  "bbox": [
+    -97.290158,
+    36.286475,
+    -97.290158,
+    36.286475
+],
+  "geometry": {"coordinates":[-97.29015800000001,36.286475],"type":"Point"}
 }

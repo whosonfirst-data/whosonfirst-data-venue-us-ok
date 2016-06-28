@@ -2,13 +2,14 @@
   "id": 320307629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.397744,35.443551,-97.397744,35.443551",
     "geom:latitude":35.443551,
     "geom:longitude":-97.397744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 E Rickenbacker Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320307629,
-    "wof:lastmodified":1449012231,
+    "wof:lastmodified":1466765197,
     "wof:name":"Housefirst Baptist Mission",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.397744,35.443551,-97.397744,35.443551],
+  "bbox": [
+    -97.397744,
+    35.443551,
+    -97.397744,
+    35.443551
+],
   "geometry": {"coordinates":[-97.397744,35.443551],"type":"Point"}
 }

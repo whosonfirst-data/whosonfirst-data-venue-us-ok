@@ -2,13 +2,14 @@
   "id": 353503981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.888785,36.096569,-95.888785,36.096569",
     "geom:latitude":36.096569,
     "geom:longitude":-95.888785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7619 E 46th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353503981,
-    "wof:lastmodified":1449020801,
+    "wof:lastmodified":1466763177,
     "wof:name":"Graphic Alliance",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-95.888785,36.096569,-95.888785,36.096569],
+  "bbox": [
+    -95.888785,
+    36.096569,
+    -95.888785,
+    36.096569
+],
   "geometry": {"coordinates":[-95.888785,36.096569],"type":"Point"}
 }

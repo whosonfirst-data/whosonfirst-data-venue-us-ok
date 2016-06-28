@@ -2,13 +2,14 @@
   "id": 320192743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.044195,36.083729,-96.044195,36.083729",
     "geom:latitude":36.083729,
     "geom:longitude":-96.044195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5380 W Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320192743,
-    "wof:lastmodified":1449013907,
+    "wof:lastmodified":1466764564,
     "wof:name":"Speedway Truck Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-96.044195,36.083729,-96.044195,36.083729],
+  "bbox": [
+    -96.044195,
+    36.083729,
+    -96.044195,
+    36.083729
+],
   "geometry": {"coordinates":[-96.044195,36.083729],"type":"Point"}
 }

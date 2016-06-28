@@ -2,13 +2,14 @@
   "id": 303467219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.594184,35.502815,-97.594184,35.502815",
     "geom:latitude":35.502815,
     "geom:longitude":-97.594184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3229 N Utah Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303467219,
-    "wof:lastmodified":1449000042,
+    "wof:lastmodified":1466765607,
     "wof:name":"OKC Referrals",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "referral"
     ]
 },
-  "bbox": [-97.594184,35.502815,-97.594184,35.502815],
+  "bbox": [
+    -97.594184,
+    35.502815,
+    -97.594184,
+    35.502815
+],
   "geometry": {"coordinates":[-97.594184,35.502815],"type":"Point"}
 }

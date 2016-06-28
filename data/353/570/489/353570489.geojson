@@ -2,13 +2,14 @@
   "id": 353570489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.008338,34.387389,-99.008338,34.387389",
     "geom:latitude":34.387389,
     "geom:longitude":-99.008338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S 17th St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353570489,
-    "wof:lastmodified":1449019781,
+    "wof:lastmodified":1466764244,
     "wof:name":"Frederick Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "swimming"
     ]
 },
-  "bbox": [-99.008338,34.387389,-99.008338,34.387389],
-  "geometry": {"coordinates":[-99.008338,34.387389],"type":"Point"}
+  "bbox": [
+    -99.008338,
+    34.387389,
+    -99.008338,
+    34.387389
+],
+  "geometry": {"coordinates":[-99.00833799999999,34.387389],"type":"Point"}
 }

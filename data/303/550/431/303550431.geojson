@@ -2,13 +2,14 @@
   "id": 303550431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.36651,35.959206,-95.36651,35.959206",
     "geom:latitude":35.959206,
     "geom:longitude":-95.36651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 E Cherokee St",
     "sg:city":"Wagoner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303550431,
-    "wof:lastmodified":1448999442,
+    "wof:lastmodified":1466766150,
     "wof:name":"Juan's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.36651,35.959206,-95.36651,35.959206],
-  "geometry": {"coordinates":[-95.36651,35.959206],"type":"Point"}
+  "bbox": [
+    -95.36651,
+    35.959206,
+    -95.36651,
+    35.959206
+],
+  "geometry": {"coordinates":[-95.36651000000001,35.959206],"type":"Point"}
 }

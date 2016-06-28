@@ -2,13 +2,14 @@
   "id": 303182443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.808786,36.295874,-95.808786,36.295874",
     "geom:latitude":36.295874,
     "geom:longitude":-95.808786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14930 E 98th St N",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303182443,
-    "wof:lastmodified":1448999665,
+    "wof:lastmodified":1466764228,
     "wof:name":"Amusement Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-95.808786,36.295874,-95.808786,36.295874],
+  "bbox": [
+    -95.808786,
+    36.295874,
+    -95.808786,
+    36.295874
+],
   "geometry": {"coordinates":[-95.808786,36.295874],"type":"Point"}
 }

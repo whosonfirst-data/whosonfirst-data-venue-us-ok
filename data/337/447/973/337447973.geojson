@@ -2,13 +2,14 @@
   "id": 337447973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.314283,36.288171,-95.314283,36.288171",
     "geom:latitude":36.288171,
     "geom:longitude":-95.314283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Lindley Ln",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337447973,
-    "wof:lastmodified":1449027520,
+    "wof:lastmodified":1466762343,
     "wof:name":"Total Marine Leasing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-95.314283,36.288171,-95.314283,36.288171],
+  "bbox": [
+    -95.314283,
+    36.288171,
+    -95.314283,
+    36.288171
+],
   "geometry": {"coordinates":[-95.314283,36.288171],"type":"Point"}
 }

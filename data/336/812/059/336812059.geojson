@@ -2,13 +2,14 @@
   "id": 336812059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.98959,35.440865,-95.98959,35.440865",
     "geom:latitude":35.440865,
     "geom:longitude":-95.98959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W Trudgeon St",
     "sg:city":"Henryetta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336812059,
-    "wof:lastmodified":1448996943,
+    "wof:lastmodified":1466764639,
     "wof:name":"Bill Miller Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "x"
     ]
 },
-  "bbox": [-95.98959,35.440865,-95.98959,35.440865],
-  "geometry": {"coordinates":[-95.98959,35.440865],"type":"Point"}
+  "bbox": [
+    -95.98959,
+    35.440865,
+    -95.98959,
+    35.440865
+],
+  "geometry": {"coordinates":[-95.98959000000001,35.440865],"type":"Point"}
 }

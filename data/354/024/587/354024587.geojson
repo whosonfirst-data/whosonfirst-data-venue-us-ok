@@ -2,13 +2,14 @@
   "id": 354024587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.962462,35.871599,-96.962462,35.871599",
     "geom:latitude":35.871599,
     "geom:longitude":-96.962462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 1st St",
     "sg:city":"Tryon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354024587,
-    "wof:lastmodified":1449066734,
+    "wof:lastmodified":1466763099,
     "wof:name":"Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.962462,35.871599,-96.962462,35.871599],
+  "bbox": [
+    -96.962462,
+    35.871599,
+    -96.962462,
+    35.871599
+],
   "geometry": {"coordinates":[-96.962462,35.871599],"type":"Point"}
 }

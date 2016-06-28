@@ -2,13 +2,14 @@
   "id": 320657091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.979851,36.181179,-95.979851,36.181179",
     "geom:latitude":36.181179,
     "geom:longitude":-95.979851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1813 N Madison Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":320657091,
-    "wof:lastmodified":1449011664,
+    "wof:lastmodified":1466766413,
     "wof:name":"Mason Temple Church of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.979851,36.181179,-95.979851,36.181179],
+  "bbox": [
+    -95.979851,
+    36.181179,
+    -95.979851,
+    36.181179
+],
   "geometry": {"coordinates":[-95.979851,36.181179],"type":"Point"}
 }

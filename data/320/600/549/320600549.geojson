@@ -2,13 +2,14 @@
   "id": 320600549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.479903,35.269518,-97.479903,35.269518",
     "geom:latitude":35.269518,
     "geom:longitude":-97.479903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Venture Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320600549,
-    "wof:lastmodified":1449011576,
+    "wof:lastmodified":1466766173,
     "wof:name":"Westpoint Group Inc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "builder"
     ]
 },
-  "bbox": [-97.479903,35.269518,-97.479903,35.269518],
-  "geometry": {"coordinates":[-97.479903,35.269518],"type":"Point"}
+  "bbox": [
+    -97.479903,
+    35.269518,
+    -97.479903,
+    35.269518
+],
+  "geometry": {"coordinates":[-97.47990299999999,35.269518],"type":"Point"}
 }

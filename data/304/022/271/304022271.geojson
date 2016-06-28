@@ -2,13 +2,14 @@
   "id": 304022271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.649795,34.785351,-96.649795,34.785351",
     "geom:latitude":34.785351,
     "geom:longitude":-96.649795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 B St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304022271,
-    "wof:lastmodified":1449043749,
+    "wof:lastmodified":1466762929,
     "wof:name":"Globe Lifeline EMS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-96.649795,34.785351,-96.649795,34.785351],
+  "bbox": [
+    -96.649795,
+    34.785351,
+    -96.649795,
+    34.785351
+],
   "geometry": {"coordinates":[-96.649795,34.785351],"type":"Point"}
 }

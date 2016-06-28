@@ -2,13 +2,14 @@
   "id": 303771561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.800033,36.176995,-95.800033,36.176995",
     "geom:latitude":36.176995,
     "geom:longitude":-95.800033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15852 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303771561,
-    "wof:lastmodified":1448999448,
+    "wof:lastmodified":1466766789,
     "wof:name":"MCR Transportation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.800033,36.176995,-95.800033,36.176995],
+  "bbox": [
+    -95.800033,
+    36.176995,
+    -95.800033,
+    36.176995
+],
   "geometry": {"coordinates":[-95.800033,36.176995],"type":"Point"}
 }

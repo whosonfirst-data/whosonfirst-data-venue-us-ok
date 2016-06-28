@@ -2,13 +2,14 @@
   "id": 320271223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.495013,34.230982,-97.495013,34.230982",
     "geom:latitude":34.230982,
     "geom:longitude":-97.495013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 W Texas St",
     "sg:city":"Healdton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320271223,
-    "wof:lastmodified":1449013213,
+    "wof:lastmodified":1466765133,
     "wof:name":"Healdton Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "swimming"
     ]
 },
-  "bbox": [-97.495013,34.230982,-97.495013,34.230982],
+  "bbox": [
+    -97.495013,
+    34.230982,
+    -97.495013,
+    34.230982
+],
   "geometry": {"coordinates":[-97.495013,34.230982],"type":"Point"}
 }

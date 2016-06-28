@@ -2,13 +2,14 @@
   "id": 353575175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.612457,35.583006,-97.612457,35.583006",
     "geom:latitude":35.583006,
     "geom:longitude":-97.612457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5212 NW 111th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353575175,
-    "wof:lastmodified":1449019013,
+    "wof:lastmodified":1466764248,
     "wof:name":"Global Valve Technologies LLC",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.612457,35.583006,-97.612457,35.583006],
-  "geometry": {"coordinates":[-97.612457,35.583006],"type":"Point"}
+  "bbox": [
+    -97.612457,
+    35.583006,
+    -97.612457,
+    35.583006
+],
+  "geometry": {"coordinates":[-97.61245700000001,35.583006],"type":"Point"}
 }

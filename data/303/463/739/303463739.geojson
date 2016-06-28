@@ -2,13 +2,14 @@
   "id": 303463739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886465,36.097648,-95.886465,36.097648",
     "geom:latitude":36.097648,
     "geom:longitude":-95.886465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4717 S Memorial Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303463739,
-    "wof:lastmodified":1448999817,
+    "wof:lastmodified":1466765710,
     "wof:name":"Truecomm Paging & Cellular",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-95.886465,36.097648,-95.886465,36.097648],
+  "bbox": [
+    -95.886465,
+    36.097648,
+    -95.886465,
+    36.097648
+],
   "geometry": {"coordinates":[-95.886465,36.097648],"type":"Point"}
 }

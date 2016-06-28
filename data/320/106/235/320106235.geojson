@@ -2,13 +2,14 @@
   "id": 320106235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.509843,35.360265,-97.509843,35.360265",
     "geom:latitude":35.360265,
     "geom:longitude":-97.509843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 NW 24th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320106235,
-    "wof:lastmodified":1449011204,
+    "wof:lastmodified":1466763860,
     "wof:name":"Freeze Construction",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.509843,35.360265,-97.509843,35.360265],
+  "bbox": [
+    -97.509843,
+    35.360265,
+    -97.509843,
+    35.360265
+],
   "geometry": {"coordinates":[-97.509843,35.360265],"type":"Point"}
 }

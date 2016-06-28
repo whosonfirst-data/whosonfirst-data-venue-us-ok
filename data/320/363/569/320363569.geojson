@@ -2,13 +2,14 @@
   "id": 320363569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.615182,35.473055,-97.615182,35.473055",
     "geom:latitude":35.473055,
     "geom:longitude":-97.615182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5535 NW 5th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320363569,
-    "wof:lastmodified":1449014512,
+    "wof:lastmodified":1466765546,
     "wof:name":"Northwest Roofing Supply",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roofing"
     ]
 },
-  "bbox": [-97.615182,35.473055,-97.615182,35.473055],
+  "bbox": [
+    -97.615182,
+    35.473055,
+    -97.615182,
+    35.473055
+],
   "geometry": {"coordinates":[-97.615182,35.473055],"type":"Point"}
 }

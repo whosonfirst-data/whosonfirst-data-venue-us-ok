@@ -2,13 +2,14 @@
   "id": 354110081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479617,36.267856,-98.479617,36.267856",
     "geom:latitude":36.267856,
     "geom:longitude":-98.479617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 E Central St",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354110081,
-    "wof:lastmodified":1449066475,
+    "wof:lastmodified":1466764209,
     "wof:name":"American Legion Bldg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-98.479617,36.267856,-98.479617,36.267856],
+  "bbox": [
+    -98.479617,
+    36.267856,
+    -98.479617,
+    36.267856
+],
   "geometry": {"coordinates":[-98.479617,36.267856],"type":"Point"}
 }

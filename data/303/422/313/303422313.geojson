@@ -2,13 +2,14 @@
   "id": 303422313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.821447,36.112109,-95.821447,36.112109",
     "geom:latitude":36.112109,
     "geom:longitude":-95.821447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13904 E 36th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303422313,
-    "wof:lastmodified":1448998290,
+    "wof:lastmodified":1466765439,
     "wof:name":"Amish Bakery Jams",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "raising"
     ]
 },
-  "bbox": [-95.821447,36.112109,-95.821447,36.112109],
-  "geometry": {"coordinates":[-95.821447,36.112109],"type":"Point"}
+  "bbox": [
+    -95.821447,
+    36.112109,
+    -95.821447,
+    36.112109
+],
+  "geometry": {"coordinates":[-95.82144700000001,36.112109],"type":"Point"}
 }

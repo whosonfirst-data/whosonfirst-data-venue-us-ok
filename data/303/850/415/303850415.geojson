@@ -2,13 +2,14 @@
   "id": 303850415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.984429,36.186689,-95.984429,36.186689",
     "geom:latitude":36.186689,
     "geom:longitude":-95.984429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 N Hartford Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303850415,
-    "wof:lastmodified":1448999539,
+    "wof:lastmodified":1466766839,
     "wof:name":"A & A Carpet Cleaning",
     "wof:parent_id":85872499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-95.984429,36.186689,-95.984429,36.186689],
-  "geometry": {"coordinates":[-95.984429,36.186689],"type":"Point"}
+  "bbox": [
+    -95.984429,
+    36.186689,
+    -95.984429,
+    36.186689
+],
+  "geometry": {"coordinates":[-95.98442900000001,36.186689],"type":"Point"}
 }

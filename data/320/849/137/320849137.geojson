@@ -2,13 +2,14 @@
   "id": 320849137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.90465,36.195276,-95.90465,36.195276",
     "geom:latitude":36.195276,
     "geom:longitude":-95.90465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2806 N Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320849137,
-    "wof:lastmodified":1449011947,
+    "wof:lastmodified":1466766865,
     "wof:name":"DIVCO",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shop"
     ]
 },
-  "bbox": [-95.90465,36.195276,-95.90465,36.195276],
+  "bbox": [
+    -95.90465,
+    36.195276,
+    -95.90465,
+    36.195276
+],
   "geometry": {"coordinates":[-95.90465,36.195276],"type":"Point"}
 }

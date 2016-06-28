@@ -2,13 +2,14 @@
   "id": 353375967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.493089,35.614554,-97.493089,35.614554",
     "geom:latitude":35.614554,
     "geom:longitude":-97.493089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14205 Broadway Exn",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353375967,
-    "wof:lastmodified":1449018335,
+    "wof:lastmodified":1466762311,
     "wof:name":"Boat World",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sales"
     ]
 },
-  "bbox": [-97.493089,35.614554,-97.493089,35.614554],
+  "bbox": [
+    -97.493089,
+    35.614554,
+    -97.493089,
+    35.614554
+],
   "geometry": {"coordinates":[-97.493089,35.614554],"type":"Point"}
 }

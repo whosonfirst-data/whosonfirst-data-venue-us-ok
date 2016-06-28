@@ -2,13 +2,14 @@
   "id": 320680507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904525,36.201776,-95.904525,36.201776",
     "geom:latitude":36.201776,
     "geom:longitude":-95.904525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 N Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320680507,
-    "wof:lastmodified":1449013882,
+    "wof:lastmodified":1466766486,
     "wof:name":"Williams Co",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "producer"
     ]
 },
-  "bbox": [-95.904525,36.201776,-95.904525,36.201776],
-  "geometry": {"coordinates":[-95.904525,36.201776],"type":"Point"}
+  "bbox": [
+    -95.904525,
+    36.201776,
+    -95.904525,
+    36.201776
+],
+  "geometry": {"coordinates":[-95.90452500000001,36.201776],"type":"Point"}
 }

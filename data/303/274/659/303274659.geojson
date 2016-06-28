@@ -2,13 +2,14 @@
   "id": 303274659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.838247,36.108535,-95.838247,36.108535",
     "geom:latitude":36.108535,
     "geom:longitude":-95.838247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12212 E 38th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303274659,
-    "wof:lastmodified":1448998417,
+    "wof:lastmodified":1466764946,
     "wof:name":"Norman & Assoc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "protector"
     ]
 },
-  "bbox": [-95.838247,36.108535,-95.838247,36.108535],
+  "bbox": [
+    -95.838247,
+    36.108535,
+    -95.838247,
+    36.108535
+],
   "geometry": {"coordinates":[-95.838247,36.108535],"type":"Point"}
 }

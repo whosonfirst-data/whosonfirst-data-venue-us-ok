@@ -2,13 +2,14 @@
   "id": 303935731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.749529,36.202264,-95.749529,36.202264",
     "geom:latitude":36.202264,
     "geom:longitude":-95.749529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20302 E 33rd Pl N",
     "sg:city":"Catoosa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303935731,
-    "wof:lastmodified":1449000124,
+    "wof:lastmodified":1466766962,
     "wof:name":"Dean Bayouth Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.749529,36.202264,-95.749529,36.202264],
+  "bbox": [
+    -95.749529,
+    36.202264,
+    -95.749529,
+    36.202264
+],
   "geometry": {"coordinates":[-95.749529,36.202264],"type":"Point"}
 }

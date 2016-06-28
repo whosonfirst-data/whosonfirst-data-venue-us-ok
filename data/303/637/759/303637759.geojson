@@ -2,13 +2,14 @@
   "id": 303637759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886591,35.986613,-95.886591,35.986613",
     "geom:latitude":35.986613,
     "geom:longitude":-95.886591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12300 S Memorial Dr",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303637759,
-    "wof:lastmodified":1448998118,
+    "wof:lastmodified":1466766321,
     "wof:name":"Easton Sod Farms",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.886591,35.986613,-95.886591,35.986613],
+  "bbox": [
+    -95.886591,
+    35.986613,
+    -95.886591,
+    35.986613
+],
   "geometry": {"coordinates":[-95.886591,35.986613],"type":"Point"}
 }

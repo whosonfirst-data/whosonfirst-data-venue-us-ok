@@ -2,13 +2,14 @@
   "id": 353490357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.496096,35.617907,-97.496096,35.617907",
     "geom:latitude":35.617907,
     "geom:longitude":-97.496096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14909 N Kelly Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353490357,
-    "wof:lastmodified":1449020546,
+    "wof:lastmodified":1466762986,
     "wof:name":"Oklahoma State Bank",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.496096,35.617907,-97.496096,35.617907],
-  "geometry": {"coordinates":[-97.496096,35.617907],"type":"Point"}
+  "bbox": [
+    -97.496096,
+    35.617907,
+    -97.496096,
+    35.617907
+],
+  "geometry": {"coordinates":[-97.49609599999999,35.617907],"type":"Point"}
 }

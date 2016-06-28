@@ -2,13 +2,14 @@
   "id": 320249093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.331859,35.740532,-95.331859,35.740532",
     "geom:latitude":35.740532,
     "geom:longitude":-95.331859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Chandler Rd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320249093,
-    "wof:lastmodified":1449011440,
+    "wof:lastmodified":1466764848,
     "wof:name":"Bits-Bytes",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.331859,35.740532,-95.331859,35.740532],
-  "geometry": {"coordinates":[-95.331859,35.740532],"type":"Point"}
+  "bbox": [
+    -95.331859,
+    35.740532,
+    -95.331859,
+    35.740532
+],
+  "geometry": {"coordinates":[-95.33185899999999,35.740532],"type":"Point"}
 }

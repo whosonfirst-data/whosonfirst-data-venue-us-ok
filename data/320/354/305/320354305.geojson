@@ -2,13 +2,14 @@
   "id": 320354305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.566681,35.522004,-97.566681,35.522004",
     "geom:latitude":35.522004,
     "geom:longitude":-97.566681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2944 NW 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320354305,
-    "wof:lastmodified":1449014539,
+    "wof:lastmodified":1466765404,
     "wof:name":"Caesar Appraisal Co",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-97.566681,35.522004,-97.566681,35.522004],
+  "bbox": [
+    -97.566681,
+    35.522004,
+    -97.566681,
+    35.522004
+],
   "geometry": {"coordinates":[-97.566681,35.522004],"type":"Point"}
 }

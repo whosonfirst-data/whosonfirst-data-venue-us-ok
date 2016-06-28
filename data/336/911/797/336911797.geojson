@@ -2,13 +2,14 @@
   "id": 336911797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.665489,34.773456,-96.665489,34.773456",
     "geom:latitude":34.773456,
     "geom:longitude":-96.665489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 E 12th St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336911797,
-    "wof:lastmodified":1448997859,
+    "wof:lastmodified":1466765390,
     "wof:name":"Child Care Resource & Referral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.665489,34.773456,-96.665489,34.773456],
-  "geometry": {"coordinates":[-96.665489,34.773456],"type":"Point"}
+  "bbox": [
+    -96.665489,
+    34.773456,
+    -96.665489,
+    34.773456
+],
+  "geometry": {"coordinates":[-96.66548899999999,34.773456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320292503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.512724,34.010949,-95.512724,34.010949",
     "geom:latitude":34.010949,
     "geom:longitude":-95.512724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Jackson St",
     "sg:city":"Hugo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320292503,
-    "wof:lastmodified":1449011563,
+    "wof:lastmodified":1466765231,
     "wof:name":"SOS For Families",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "intervention"
     ]
 },
-  "bbox": [-95.512724,34.010949,-95.512724,34.010949],
-  "geometry": {"coordinates":[-95.512724,34.010949],"type":"Point"}
+  "bbox": [
+    -95.512724,
+    34.010949,
+    -95.512724,
+    34.010949
+],
+  "geometry": {"coordinates":[-95.51272400000001,34.010949],"type":"Point"}
 }

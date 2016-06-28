@@ -2,13 +2,14 @@
   "id": 336825775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.887713,36.188783,-95.887713,36.188783",
     "geom:latitude":36.188783,
     "geom:longitude":-95.887713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2139 N Cargo Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336825775,
-    "wof:lastmodified":1448996954,
+    "wof:lastmodified":1466764717,
     "wof:name":"Evergreen International",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "ground"
     ]
 },
-  "bbox": [-95.887713,36.188783,-95.887713,36.188783],
-  "geometry": {"coordinates":[-95.887713,36.188783],"type":"Point"}
+  "bbox": [
+    -95.887713,
+    36.188783,
+    -95.887713,
+    36.188783
+],
+  "geometry": {"coordinates":[-95.88771300000001,36.188783],"type":"Point"}
 }

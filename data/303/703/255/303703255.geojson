@@ -2,13 +2,14 @@
   "id": 303703255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.388725,33.997266,-96.388725,33.997266",
     "geom:latitude":33.997266,
     "geom:longitude":-96.388725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 W Cedar St",
     "sg:city":"Rufe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303703255,
-    "wof:lastmodified":1448998859,
+    "wof:lastmodified":1466766489,
     "wof:name":"B J's Lake Country & Carpet Cr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rug"
     ]
 },
-  "bbox": [-96.388725,33.997266,-96.388725,33.997266],
-  "geometry": {"coordinates":[-96.388725,33.997266],"type":"Point"}
+  "bbox": [
+    -96.388725,
+    33.997266,
+    -96.388725,
+    33.997266
+],
+  "geometry": {"coordinates":[-96.38872499999999,33.997266],"type":"Point"}
 }

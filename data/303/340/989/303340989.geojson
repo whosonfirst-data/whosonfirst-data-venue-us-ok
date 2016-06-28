@@ -2,13 +2,14 @@
   "id": 303340989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.659272,35.549002,-97.659272,35.549002",
     "geom:latitude":35.549002,
     "geom:longitude":-97.659272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7616 Sandlewood Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303340989,
-    "wof:lastmodified":1449000007,
+    "wof:lastmodified":1466765235,
     "wof:name":"Bobby R Dorough",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-97.659272,35.549002,-97.659272,35.549002],
+  "bbox": [
+    -97.659272,
+    35.549002,
+    -97.659272,
+    35.549002
+],
   "geometry": {"coordinates":[-97.659272,35.549002],"type":"Point"}
 }

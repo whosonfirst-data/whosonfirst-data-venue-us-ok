@@ -2,13 +2,14 @@
   "id": 353993443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.485087,35.652449,-97.485087,35.652449",
     "geom:latitude":35.652449,
     "geom:longitude":-97.485087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W Edmond Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":353993443,
-    "wof:lastmodified":1449019390,
+    "wof:lastmodified":1466765982,
     "wof:name":"Auto Xpress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.485087,35.652449,-97.485087,35.652449],
-  "geometry": {"coordinates":[-97.485087,35.652449],"type":"Point"}
+  "bbox": [
+    -97.485087,
+    35.652449,
+    -97.485087,
+    35.652449
+],
+  "geometry": {"coordinates":[-97.48508699999999,35.652449],"type":"Point"}
 }

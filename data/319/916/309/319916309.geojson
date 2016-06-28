@@ -2,13 +2,14 @@
   "id": 319916309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547863,35.419179,-97.547863,35.419179",
     "geom:latitude":35.419179,
     "geom:longitude":-97.547863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4640 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319916309,
-    "wof:lastmodified":1449024507,
+    "wof:lastmodified":1466763796,
     "wof:name":"Oklahoma Foundation For",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.547863,35.419179,-97.547863,35.419179],
-  "geometry": {"coordinates":[-97.547863,35.419179],"type":"Point"}
+  "bbox": [
+    -97.547863,
+    35.419179,
+    -97.547863,
+    35.419179
+],
+  "geometry": {"coordinates":[-97.54786300000001,35.419179],"type":"Point"}
 }

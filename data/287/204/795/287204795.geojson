@@ -2,13 +2,14 @@
   "id": 287204795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.645346,35.502281,-97.645346,35.502281",
     "geom:latitude":35.502281,
     "geom:longitude":-97.645346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3104 N Glade Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287204795,
-    "wof:lastmodified":1449001613,
+    "wof:lastmodified":1466764019,
     "wof:name":"Lighthouse Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.645346,35.502281,-97.645346,35.502281],
+  "bbox": [
+    -97.645346,
+    35.502281,
+    -97.645346,
+    35.502281
+],
   "geometry": {"coordinates":[-97.645346,35.502281],"type":"Point"}
 }

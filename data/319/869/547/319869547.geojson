@@ -2,13 +2,14 @@
   "id": 319869547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547632,35.348796,-97.547632,35.348796",
     "geom:latitude":35.348796,
     "geom:longitude":-97.547632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 SW 119th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319869547,
-    "wof:lastmodified":1449024821,
+    "wof:lastmodified":1466763350,
     "wof:name":"Integris Family Care South",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-97.547632,35.348796,-97.547632,35.348796],
-  "geometry": {"coordinates":[-97.547632,35.348796],"type":"Point"}
+  "bbox": [
+    -97.547632,
+    35.348796,
+    -97.547632,
+    35.348796
+],
+  "geometry": {"coordinates":[-97.54763199999999,35.348796],"type":"Point"}
 }

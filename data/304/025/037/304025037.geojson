@@ -2,13 +2,14 @@
   "id": 304025037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.772675,34.930459,-95.772675,34.930459",
     "geom:latitude":34.930459,
     "geom:longitude":-95.772675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S A St",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304025037,
-    "wof:lastmodified":1449044078,
+    "wof:lastmodified":1466764190,
     "wof:name":"Latimer County FSA",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agency"
     ]
 },
-  "bbox": [-95.772675,34.930459,-95.772675,34.930459],
-  "geometry": {"coordinates":[-95.772675,34.930459],"type":"Point"}
+  "bbox": [
+    -95.772675,
+    34.930459,
+    -95.772675,
+    34.930459
+],
+  "geometry": {"coordinates":[-95.77267500000001,34.930459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320507249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.946531,36.396808,-97.946531,36.396808",
     "geom:latitude":36.396808,
     "geom:longitude":-97.946531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5518 Arrowhead Dr",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320507249,
-    "wof:lastmodified":1449013172,
+    "wof:lastmodified":1466766074,
     "wof:name":"Allied Mechanical Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.946531,36.396808,-97.946531,36.396808],
-  "geometry": {"coordinates":[-97.946531,36.396808],"type":"Point"}
+  "bbox": [
+    -97.946531,
+    36.396808,
+    -97.946531,
+    36.396808
+],
+  "geometry": {"coordinates":[-97.94653099999999,36.396808],"type":"Point"}
 }

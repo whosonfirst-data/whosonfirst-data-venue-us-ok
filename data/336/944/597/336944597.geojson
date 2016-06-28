@@ -2,13 +2,14 @@
   "id": 336944597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.508068,35.419006,-97.508068,35.419006",
     "geom:latitude":35.419006,
     "geom:longitude":-97.508068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4625 S Shields Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336944597,
-    "wof:lastmodified":1448997495,
+    "wof:lastmodified":1466765501,
     "wof:name":"Shields Liquor Store",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.508068,35.419006,-97.508068,35.419006],
-  "geometry": {"coordinates":[-97.508068,35.419006],"type":"Point"}
+  "bbox": [
+    -97.508068,
+    35.419006,
+    -97.508068,
+    35.419006
+],
+  "geometry": {"coordinates":[-97.50806799999999,35.419006],"type":"Point"}
 }

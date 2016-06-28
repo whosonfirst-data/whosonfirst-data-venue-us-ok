@@ -2,13 +2,14 @@
   "id": 303801883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.630891,35.693661,-97.630891,35.693661",
     "geom:latitude":35.693661,
     "geom:longitude":-97.630891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7101 Heidelburg Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303801883,
-    "wof:lastmodified":1449000133,
+    "wof:lastmodified":1466766735,
     "wof:name":"R C May & Assoc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-97.630891,35.693661,-97.630891,35.693661],
-  "geometry": {"coordinates":[-97.630891,35.693661],"type":"Point"}
+  "bbox": [
+    -97.630891,
+    35.693661,
+    -97.630891,
+    35.693661
+],
+  "geometry": {"coordinates":[-97.63089100000001,35.693661],"type":"Point"}
 }

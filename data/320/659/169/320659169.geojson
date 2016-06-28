@@ -2,13 +2,14 @@
   "id": 320659169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.757012,34.931293,-95.757012,34.931293",
     "geom:latitude":34.931293,
     "geom:longitude":-95.757012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 E Washington Ave",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320659169,
-    "wof:lastmodified":1449011645,
+    "wof:lastmodified":1466766422,
     "wof:name":"Troy Cleaners",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-95.757012,34.931293,-95.757012,34.931293],
+  "bbox": [
+    -95.757012,
+    34.931293,
+    -95.757012,
+    34.931293
+],
   "geometry": {"coordinates":[-95.757012,34.931293],"type":"Point"}
 }

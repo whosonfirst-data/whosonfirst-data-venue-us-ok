@@ -2,13 +2,14 @@
   "id": 320338945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.420906,36.533285,-95.420906,36.533285",
     "geom:latitude":36.533285,
     "geom:longitude":-95.420906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 S Oak Ave",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320338945,
-    "wof:lastmodified":1449012563,
+    "wof:lastmodified":1466765276,
     "wof:name":"Victory Livestock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-95.420906,36.533285,-95.420906,36.533285],
+  "bbox": [
+    -95.420906,
+    36.533285,
+    -95.420906,
+    36.533285
+],
   "geometry": {"coordinates":[-95.420906,36.533285],"type":"Point"}
 }

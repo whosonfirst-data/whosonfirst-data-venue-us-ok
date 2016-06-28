@@ -2,13 +2,14 @@
   "id": 336724403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.961059,35.51547,-98.961059,35.51547",
     "geom:latitude":35.51547,
     "geom:longitude":-98.961059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E Gary Blvd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336724403,
-    "wof:lastmodified":1448997976,
+    "wof:lastmodified":1466764092,
     "wof:name":"Stop A Crack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-98.961059,35.51547,-98.961059,35.51547],
-  "geometry": {"coordinates":[-98.961059,35.51547],"type":"Point"}
+  "bbox": [
+    -98.961059,
+    35.51547,
+    -98.961059,
+    35.51547
+],
+  "geometry": {"coordinates":[-98.96105900000001,35.51547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304083933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.102922,36.098987,-97.102922,36.098987",
     "geom:latitude":36.098987,
     "geom:longitude":-97.102922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2123 S Copperfield St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304083933,
-    "wof:lastmodified":1449043822,
+    "wof:lastmodified":1466763319,
     "wof:name":"Cws",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "picture"
     ]
 },
-  "bbox": [-97.102922,36.098987,-97.102922,36.098987],
-  "geometry": {"coordinates":[-97.102922,36.098987],"type":"Point"}
+  "bbox": [
+    -97.102922,
+    36.098987,
+    -97.102922,
+    36.098987
+],
+  "geometry": {"coordinates":[-97.10292200000001,36.098987],"type":"Point"}
 }

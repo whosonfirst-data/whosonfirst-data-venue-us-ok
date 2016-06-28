@@ -2,13 +2,14 @@
   "id": 353877031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.850955,36.07574,-95.850955,36.07574",
     "geom:latitude":36.07574,
     "geom:longitude":-95.850955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5889 S Garnett Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353877031,
-    "wof:lastmodified":1449020041,
+    "wof:lastmodified":1466765730,
     "wof:name":"Champion Overhead Door",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-95.850955,36.07574,-95.850955,36.07574],
+  "bbox": [
+    -95.850955,
+    36.07574,
+    -95.850955,
+    36.07574
+],
   "geometry": {"coordinates":[-95.850955,36.07574],"type":"Point"}
 }

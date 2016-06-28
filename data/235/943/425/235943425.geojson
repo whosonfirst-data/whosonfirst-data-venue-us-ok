@@ -2,13 +2,14 @@
   "id": 235943425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.86866,36.100812,-95.86866,36.100812",
     "geom:latitude":36.100812,
     "geom:longitude":-95.86866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4305 S Mingo Rd Ste F",
     "sg:city":"Tulsa",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":235943425,
-    "wof:lastmodified":1449008346,
+    "wof:lastmodified":1466762524,
     "wof:name":"Glass Masters",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.86866,36.100812,-95.86866,36.100812],
-  "geometry": {"coordinates":[-95.86866,36.100812],"type":"Point"}
+  "bbox": [
+    -95.86866,
+    36.100812,
+    -95.86866,
+    36.100812
+],
+  "geometry": {"coordinates":[-95.86866000000001,36.100812],"type":"Point"}
 }

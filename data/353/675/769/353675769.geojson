@@ -2,13 +2,14 @@
   "id": 353675769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.676876,35.536594,-98.676876,35.536594",
     "geom:latitude":35.536594,
     "geom:longitude":-98.676876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3825 E Main St",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353675769,
-    "wof:lastmodified":1449019566,
+    "wof:lastmodified":1466764845,
     "wof:name":"Holiday Inn Express Weatherfrd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.676876,35.536594,-98.676876,35.536594],
-  "geometry": {"coordinates":[-98.676876,35.536594],"type":"Point"}
+  "bbox": [
+    -98.676876,
+    35.536594,
+    -98.676876,
+    35.536594
+],
+  "geometry": {"coordinates":[-98.67687599999999,35.536594],"type":"Point"}
 }

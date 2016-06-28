@@ -2,13 +2,14 @@
   "id": 354180047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935019,36.031975,-95.935019,36.031975",
     "geom:latitude":36.031975,
     "geom:longitude":-95.935019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3993 E 91st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354180047,
-    "wof:lastmodified":1449066018,
+    "wof:lastmodified":1466763808,
     "wof:name":"East Middle School",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "middle"
     ]
 },
-  "bbox": [-95.935019,36.031975,-95.935019,36.031975],
+  "bbox": [
+    -95.935019,
+    36.031975,
+    -95.935019,
+    36.031975
+],
   "geometry": {"coordinates":[-95.935019,36.031975],"type":"Point"}
 }

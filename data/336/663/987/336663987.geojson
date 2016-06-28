@@ -2,13 +2,14 @@
   "id": 336663987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.047373,35.351375,-97.047373,35.351375",
     "geom:latitude":35.351375,
     "geom:longitude":-97.047373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Ole McDonald Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":336663987,
-    "wof:lastmodified":1448997724,
+    "wof:lastmodified":1466763164,
     "wof:name":"First In Refrigeration Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-97.047373,35.351375,-97.047373,35.351375],
-  "geometry": {"coordinates":[-97.047373,35.351375],"type":"Point"}
+  "bbox": [
+    -97.047373,
+    35.351375,
+    -97.047373,
+    35.351375
+],
+  "geometry": {"coordinates":[-97.04737299999999,35.351375],"type":"Point"}
 }

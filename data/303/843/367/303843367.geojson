@@ -2,13 +2,14 @@
   "id": 303843367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.081105,36.70452,-97.081105,36.70452",
     "geom:latitude":36.70452,
     "geom:longitude":-97.081105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 N 3rd St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303843367,
-    "wof:lastmodified":1448998335,
+    "wof:lastmodified":1466766745,
     "wof:name":"Guinn's Bail Bond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-97.081105,36.70452,-97.081105,36.70452],
-  "geometry": {"coordinates":[-97.081105,36.70452],"type":"Point"}
+  "bbox": [
+    -97.081105,
+    36.70452,
+    -97.081105,
+    36.70452
+],
+  "geometry": {"coordinates":[-97.08110499999999,36.70452],"type":"Point"}
 }

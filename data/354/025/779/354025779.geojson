@@ -2,13 +2,14 @@
   "id": 354025779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.956275,34.648026,-97.956275,34.648026",
     "geom:latitude":34.648026,
     "geom:longitude":-97.956275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N 2nd St",
     "sg:city":"Marlow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354025779,
-    "wof:lastmodified":1449067375,
+    "wof:lastmodified":1466763108,
     "wof:name":"U-Stor-It Warehouses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-97.956275,34.648026,-97.956275,34.648026],
-  "geometry": {"coordinates":[-97.956275,34.648026],"type":"Point"}
+  "bbox": [
+    -97.956275,
+    34.648026,
+    -97.956275,
+    34.648026
+],
+  "geometry": {"coordinates":[-97.95627500000001,34.648026],"type":"Point"}
 }

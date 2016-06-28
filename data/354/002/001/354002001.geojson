@@ -2,13 +2,14 @@
   "id": 354002001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.948717,36.147876,-95.948717,36.147876",
     "geom:latitude":36.147876,
     "geom:longitude":-95.948717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2823 E 11th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354002001,
-    "wof:lastmodified":1449067334,
+    "wof:lastmodified":1466764190,
     "wof:name":"Carter's Drive In Cleaners",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "drycleaning"
     ]
 },
-  "bbox": [-95.948717,36.147876,-95.948717,36.147876],
+  "bbox": [
+    -95.948717,
+    36.147876,
+    -95.948717,
+    36.147876
+],
   "geometry": {"coordinates":[-95.948717,36.147876],"type":"Point"}
 }

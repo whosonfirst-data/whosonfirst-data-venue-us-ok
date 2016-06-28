@@ -2,13 +2,14 @@
   "id": 303347971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.620123,35.536907,-97.620123,35.536907",
     "geom:latitude":35.536907,
     "geom:longitude":-97.620123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6015 NW 63rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303347971,
-    "wof:lastmodified":1448999301,
+    "wof:lastmodified":1466765039,
     "wof:name":"Northwest 63 Neighborhood Lqr",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-97.620123,35.536907,-97.620123,35.536907],
-  "geometry": {"coordinates":[-97.620123,35.536907],"type":"Point"}
+  "bbox": [
+    -97.620123,
+    35.536907,
+    -97.620123,
+    35.536907
+],
+  "geometry": {"coordinates":[-97.62012300000001,35.536907],"type":"Point"}
 }

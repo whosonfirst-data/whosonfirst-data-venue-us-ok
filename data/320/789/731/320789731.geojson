@@ -2,13 +2,14 @@
   "id": 320789731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.712451,35.526025,-98.712451,35.526025",
     "geom:latitude":35.526025,
     "geom:longitude":-98.712451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Main St",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320789731,
-    "wof:lastmodified":1449012940,
+    "wof:lastmodified":1466766691,
     "wof:name":"Raven National Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-98.712451,35.526025,-98.712451,35.526025],
+  "bbox": [
+    -98.712451,
+    35.526025,
+    -98.712451,
+    35.526025
+],
   "geometry": {"coordinates":[-98.712451,35.526025],"type":"Point"}
 }

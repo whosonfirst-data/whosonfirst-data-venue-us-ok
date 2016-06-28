@@ -2,13 +2,14 @@
   "id": 303918555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.750096,35.750197,-98.750096,35.750197",
     "geom:latitude":35.750197,
     "geom:longitude":-98.750096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 N 10th St",
     "sg:city":"Thomas",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303918555,
-    "wof:lastmodified":1448999782,
+    "wof:lastmodified":1466766937,
     "wof:name":"Ricks Exploration Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.750096,35.750197,-98.750096,35.750197],
+  "bbox": [
+    -98.750096,
+    35.750197,
+    -98.750096,
+    35.750197
+],
   "geometry": {"coordinates":[-98.750096,35.750197],"type":"Point"}
 }

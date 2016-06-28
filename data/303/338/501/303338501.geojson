@@ -2,13 +2,14 @@
   "id": 303338501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503238,35.502135,-97.503238,35.502135",
     "geom:latitude":35.502135,
     "geom:longitude":-97.503238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3223 N Lincoln Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303338501,
-    "wof:lastmodified":1448998964,
+    "wof:lastmodified":1466765117,
     "wof:name":"Oklahoma Highway Safety Office",
     "wof:parent_id":85871695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "highway"
     ]
 },
-  "bbox": [-97.503238,35.502135,-97.503238,35.502135],
+  "bbox": [
+    -97.503238,
+    35.502135,
+    -97.503238,
+    35.502135
+],
   "geometry": {"coordinates":[-97.503238,35.502135],"type":"Point"}
 }

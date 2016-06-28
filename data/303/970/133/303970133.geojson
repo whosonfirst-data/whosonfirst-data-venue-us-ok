@@ -2,13 +2,14 @@
   "id": 303970133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.508915,35.472831,-97.508915,35.472831",
     "geom:latitude":35.472831,
     "geom:longitude":-97.508915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 NE 5th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303970133,
-    "wof:lastmodified":1449000523,
+    "wof:lastmodified":1466767052,
     "wof:name":"Smith Roberts Baldischwiler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-97.508915,35.472831,-97.508915,35.472831],
+  "bbox": [
+    -97.508915,
+    35.472831,
+    -97.508915,
+    35.472831
+],
   "geometry": {"coordinates":[-97.508915,35.472831],"type":"Point"}
 }

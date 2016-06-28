@@ -2,13 +2,14 @@
   "id": 320282509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.019503,36.368495,-96.019503,36.368495",
     "geom:latitude":36.368495,
     "geom:longitude":-96.019503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 W Rogers Blvd",
     "sg:city":"Skiatook",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320282509,
-    "wof:lastmodified":1449013588,
+    "wof:lastmodified":1466764970,
     "wof:name":"Skiatook Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.019503,36.368495,-96.019503,36.368495],
+  "bbox": [
+    -96.019503,
+    36.368495,
+    -96.019503,
+    36.368495
+],
   "geometry": {"coordinates":[-96.019503,36.368495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303609571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.368192,35.958417,-95.368192,35.958417",
     "geom:latitude":35.958417,
     "geom:longitude":-95.368192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 SE 1st St",
     "sg:city":"Wagoner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303609571,
-    "wof:lastmodified":1448999029,
+    "wof:lastmodified":1466766230,
     "wof:name":"Don's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-95.368192,35.958417,-95.368192,35.958417],
-  "geometry": {"coordinates":[-95.368192,35.958417],"type":"Point"}
+  "bbox": [
+    -95.368192,
+    35.958417,
+    -95.368192,
+    35.958417
+],
+  "geometry": {"coordinates":[-95.36819199999999,35.958417],"type":"Point"}
 }

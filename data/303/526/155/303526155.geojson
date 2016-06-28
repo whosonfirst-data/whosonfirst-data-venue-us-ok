@@ -2,13 +2,14 @@
   "id": 303526155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.527358,35.408393,-97.527358,35.408393",
     "geom:latitude":35.408393,
     "geom:longitude":-97.527358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5804 S Francis Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303526155,
-    "wof:lastmodified":1448998867,
+    "wof:lastmodified":1466765949,
     "wof:name":"Z Generation Inc",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-97.527358,35.408393,-97.527358,35.408393],
-  "geometry": {"coordinates":[-97.527358,35.408393],"type":"Point"}
+  "bbox": [
+    -97.527358,
+    35.408393,
+    -97.527358,
+    35.408393
+],
+  "geometry": {"coordinates":[-97.52735800000001,35.408393],"type":"Point"}
 }

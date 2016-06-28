@@ -2,13 +2,14 @@
   "id": 354176431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.87975,36.87903,-94.87975,36.87903",
     "geom:latitude":36.87903,
     "geom:longitude":-94.87975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 B St NW",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354176431,
-    "wof:lastmodified":1449067084,
+    "wof:lastmodified":1466763795,
     "wof:name":"Miami First United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.87975,36.87903,-94.87975,36.87903],
+  "bbox": [
+    -94.87975,
+    36.87903,
+    -94.87975,
+    36.87903
+],
   "geometry": {"coordinates":[-94.87975,36.87903],"type":"Point"}
 }

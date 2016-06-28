@@ -2,13 +2,14 @@
   "id": 320525005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.963514,36.117013,-95.963514,36.117013",
     "geom:latitude":36.117013,
     "geom:longitude":-95.963514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 E 32nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320525005,
-    "wof:lastmodified":1449014189,
+    "wof:lastmodified":1466766209,
     "wof:name":"Midwestern Pipeline Svc",
     "wof:parent_id":85872479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-95.963514,36.117013,-95.963514,36.117013],
+  "bbox": [
+    -95.963514,
+    36.117013,
+    -95.963514,
+    36.117013
+],
   "geometry": {"coordinates":[-95.963514,36.117013],"type":"Point"}
 }

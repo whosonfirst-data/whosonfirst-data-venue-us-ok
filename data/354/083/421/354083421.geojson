@@ -2,13 +2,14 @@
   "id": 354083421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503462,35.38117,-97.503462,35.38117",
     "geom:latitude":35.38117,
     "geom:longitude":-97.503462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8510 S Shields Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354083421,
-    "wof:lastmodified":1449066728,
+    "wof:lastmodified":1466763450,
     "wof:name":"Encore Auto Sales",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.503462,35.38117,-97.503462,35.38117],
+  "bbox": [
+    -97.503462,
+    35.38117,
+    -97.503462,
+    35.38117
+],
   "geometry": {"coordinates":[-97.503462,35.38117],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337370939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.618978,35.492117,-97.618978,35.492117",
     "geom:latitude":35.492117,
     "geom:longitude":-97.618978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337370939,
-    "wof:lastmodified":1449027386,
+    "wof:lastmodified":1466763779,
     "wof:name":"Paradise Photo Studio",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-97.618978,35.492117,-97.618978,35.492117],
+  "bbox": [
+    -97.618978,
+    35.492117,
+    -97.618978,
+    35.492117
+],
   "geometry": {"coordinates":[-97.618978,35.492117],"type":"Point"}
 }

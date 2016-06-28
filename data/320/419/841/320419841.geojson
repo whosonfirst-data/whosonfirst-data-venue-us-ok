@@ -2,13 +2,14 @@
   "id": 320419841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.44949,35.097889,-97.44949,35.097889",
     "geom:latitude":35.097889,
     "geom:longitude":-97.44949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1859 Pine Ln E",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320419841,
-    "wof:lastmodified":1449014896,
+    "wof:lastmodified":1466765723,
     "wof:name":"Acme Air Title Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "title"
     ]
 },
-  "bbox": [-97.44949,35.097889,-97.44949,35.097889],
+  "bbox": [
+    -97.44949,
+    35.097889,
+    -97.44949,
+    35.097889
+],
   "geometry": {"coordinates":[-97.44949,35.097889],"type":"Point"}
 }

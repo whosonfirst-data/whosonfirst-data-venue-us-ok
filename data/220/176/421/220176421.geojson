@@ -2,13 +2,14 @@
   "id": 220176421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.961006,36.092256,-95.961006,36.092256",
     "geom:latitude":36.092256,
     "geom:longitude":-95.961006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 E 49th St Ste 100",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220176421,
-    "wof:lastmodified":1449074584,
+    "wof:lastmodified":1466762342,
     "wof:name":"Ed/A",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mechanical"
     ]
 },
-  "bbox": [-95.961006,36.092256,-95.961006,36.092256],
+  "bbox": [
+    -95.961006,
+    36.092256,
+    -95.961006,
+    36.092256
+],
   "geometry": {"coordinates":[-95.961006,36.092256],"type":"Point"}
 }

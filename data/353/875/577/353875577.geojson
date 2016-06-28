@@ -2,13 +2,14 @@
   "id": 353875577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565739,35.546911,-97.565739,35.546911",
     "geom:latitude":35.546911,
     "geom:longitude":-97.565739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7519 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353875577,
-    "wof:lastmodified":1449020148,
+    "wof:lastmodified":1466765588,
     "wof:name":"Trina Inc",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.565739,35.546911,-97.565739,35.546911],
-  "geometry": {"coordinates":[-97.565739,35.546911],"type":"Point"}
+  "bbox": [
+    -97.565739,
+    35.546911,
+    -97.565739,
+    35.546911
+],
+  "geometry": {"coordinates":[-97.56573899999999,35.546911],"type":"Point"}
 }

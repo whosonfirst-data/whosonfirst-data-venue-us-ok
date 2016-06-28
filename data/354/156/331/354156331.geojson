@@ -2,13 +2,14 @@
   "id": 354156331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.348325,36.186809,-95.348325,36.186809",
     "geom:latitude":36.186809,
     "geom:longitude":-95.348325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S Hayden St",
     "sg:city":"Chouteau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354156331,
-    "wof:lastmodified":1449066269,
+    "wof:lastmodified":1466763719,
     "wof:name":"Chouteau United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.348325,36.186809,-95.348325,36.186809],
+  "bbox": [
+    -95.348325,
+    36.186809,
+    -95.348325,
+    36.186809
+],
   "geometry": {"coordinates":[-95.348325,36.186809],"type":"Point"}
 }

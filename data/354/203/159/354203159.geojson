@@ -2,13 +2,14 @@
   "id": 354203159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.732099,35.384087,-97.732099,35.384087",
     "geom:latitude":35.384087,
     "geom:longitude":-97.732099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 W Forster Dr",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354203159,
-    "wof:lastmodified":1449066666,
+    "wof:lastmodified":1466763936,
     "wof:name":"Mustang Mid High",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.732099,35.384087,-97.732099,35.384087],
-  "geometry": {"coordinates":[-97.732099,35.384087],"type":"Point"}
+  "bbox": [
+    -97.732099,
+    35.384087,
+    -97.732099,
+    35.384087
+],
+  "geometry": {"coordinates":[-97.73209900000001,35.384087],"type":"Point"}
 }

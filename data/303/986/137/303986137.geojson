@@ -2,13 +2,14 @@
   "id": 303986137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.501038,35.358906,-97.501038,35.358906",
     "geom:latitude":35.358906,
     "geom:longitude":-97.501038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Vermeer Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303986137,
-    "wof:lastmodified":1449000091,
+    "wof:lastmodified":1466767118,
     "wof:name":"Barcon Construction Inc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-97.501038,35.358906,-97.501038,35.358906],
-  "geometry": {"coordinates":[-97.501038,35.358906],"type":"Point"}
+  "bbox": [
+    -97.501038,
+    35.358906,
+    -97.501038,
+    35.358906
+],
+  "geometry": {"coordinates":[-97.50103799999999,35.358906],"type":"Point"}
 }

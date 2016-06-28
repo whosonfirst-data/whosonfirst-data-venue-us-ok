@@ -2,13 +2,14 @@
   "id": 320591389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.566605,35.552711,-97.566605,35.552711",
     "geom:latitude":35.552711,
     "geom:longitude":-97.566605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7928 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320591389,
-    "wof:lastmodified":1449013261,
+    "wof:lastmodified":1466766377,
     "wof:name":"7-Eleven",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.566605,35.552711,-97.566605,35.552711],
+  "bbox": [
+    -97.566605,
+    35.552711,
+    -97.566605,
+    35.552711
+],
   "geometry": {"coordinates":[-97.566605,35.552711],"type":"Point"}
 }

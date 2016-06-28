@@ -2,13 +2,14 @@
   "id": 320212625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.529745,35.435327,-97.529745,35.435327",
     "geom:latitude":35.435327,
     "geom:longitude":-97.529745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 SW 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320212625,
-    "wof:lastmodified":1449013685,
+    "wof:lastmodified":1466764533,
     "wof:name":"Car Max Auto Superstore",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.529745,35.435327,-97.529745,35.435327],
-  "geometry": {"coordinates":[-97.529745,35.435327],"type":"Point"}
+  "bbox": [
+    -97.529745,
+    35.435327,
+    -97.529745,
+    35.435327
+],
+  "geometry": {"coordinates":[-97.52974500000001,35.435327],"type":"Point"}
 }

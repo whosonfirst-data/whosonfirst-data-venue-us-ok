@@ -2,13 +2,14 @@
   "id": 353496589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.356502,35.474503,-97.356502,35.474503",
     "geom:latitude":35.474503,
     "geom:longitude":-97.356502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 N Lotus Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353496589,
-    "wof:lastmodified":1449020434,
+    "wof:lastmodified":1466763067,
     "wof:name":"Andy Moulins Heat Air",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.356502,35.474503,-97.356502,35.474503],
-  "geometry": {"coordinates":[-97.356502,35.474503],"type":"Point"}
+  "bbox": [
+    -97.356502,
+    35.474503,
+    -97.356502,
+    35.474503
+],
+  "geometry": {"coordinates":[-97.35650200000001,35.474503],"type":"Point"}
 }

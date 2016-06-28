@@ -2,13 +2,14 @@
   "id": 320547223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.413778,35.202764,-97.413778,35.202764",
     "geom:latitude":35.202764,
     "geom:longitude":-97.413778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Oakhurst Ave",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320547223,
-    "wof:lastmodified":1449011618,
+    "wof:lastmodified":1466766079,
     "wof:name":"Dutch Hollow Apartments",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.413778,35.202764,-97.413778,35.202764],
-  "geometry": {"coordinates":[-97.413778,35.202764],"type":"Point"}
+  "bbox": [
+    -97.413778,
+    35.202764,
+    -97.413778,
+    35.202764
+],
+  "geometry": {"coordinates":[-97.41377799999999,35.202764],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304086787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.324059,35.421,-97.324059,35.421",
     "geom:latitude":35.421,
     "geom:longitude":-97.324059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11401 SE 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304086787,
-    "wof:lastmodified":1449043992,
+    "wof:lastmodified":1466763337,
     "wof:name":"Lvl Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-97.324059,35.421,-97.324059,35.421],
-  "geometry": {"coordinates":[-97.324059,35.421],"type":"Point"}
+  "bbox": [
+    -97.324059,
+    35.421,
+    -97.324059,
+    35.421
+],
+  "geometry": {"coordinates":[-97.32405900000001,35.421],"type":"Point"}
 }

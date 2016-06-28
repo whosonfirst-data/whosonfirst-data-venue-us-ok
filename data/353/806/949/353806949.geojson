@@ -2,13 +2,14 @@
   "id": 353806949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.929874,35.372545,-96.929874,35.372545",
     "geom:latitude":35.372545,
     "geom:longitude":-96.929874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4016 N Kickapoo St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353806949,
-    "wof:lastmodified":1449018249,
+    "wof:lastmodified":1466765362,
     "wof:name":"Oklahoma Law Institute",
     "wof:parent_id":85827517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.929874,35.372545,-96.929874,35.372545],
+  "bbox": [
+    -96.929874,
+    35.372545,
+    -96.929874,
+    35.372545
+],
   "geometry": {"coordinates":[-96.929874,35.372545],"type":"Point"}
 }

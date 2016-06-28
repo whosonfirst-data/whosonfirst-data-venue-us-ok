@@ -2,13 +2,14 @@
   "id": 320030949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.085929,36.040643,-96.085929,36.040643",
     "geom:latitude":36.040643,
     "geom:longitude":-96.085929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8620 S Regency Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320030949,
-    "wof:lastmodified":1449012649,
+    "wof:lastmodified":1466762746,
     "wof:name":"Bil-Jac Pet Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.085929,36.040643,-96.085929,36.040643],
-  "geometry": {"coordinates":[-96.085929,36.040643],"type":"Point"}
+  "bbox": [
+    -96.085929,
+    36.040643,
+    -96.085929,
+    36.040643
+],
+  "geometry": {"coordinates":[-96.08592899999999,36.040643],"type":"Point"}
 }

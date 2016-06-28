@@ -2,13 +2,14 @@
   "id": 336682009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.059016,36.113552,-97.059016,36.113552",
     "geom:latitude":36.113552,
     "geom:longitude":-97.059016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 W 8th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336682009,
-    "wof:lastmodified":1448997133,
+    "wof:lastmodified":1466763444,
     "wof:name":"Murphy Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.059016,36.113552,-97.059016,36.113552],
+  "bbox": [
+    -97.059016,
+    36.113552,
+    -97.059016,
+    36.113552
+],
   "geometry": {"coordinates":[-97.059016,36.113552],"type":"Point"}
 }

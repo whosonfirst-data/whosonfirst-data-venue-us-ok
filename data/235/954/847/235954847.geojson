@@ -2,13 +2,14 @@
   "id": 235954847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.750679,34.934292,-95.750679,34.934292",
     "geom:latitude":34.934292,
     "geom:longitude":-95.750679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 E Clark Bass Blvd",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":235954847,
-    "wof:lastmodified":1449008559,
+    "wof:lastmodified":1466762606,
     "wof:name":"McAlester Regional Health Center Home Health Care",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "medical"
     ]
 },
-  "bbox": [-95.750679,34.934292,-95.750679,34.934292],
-  "geometry": {"coordinates":[-95.750679,34.934292],"type":"Point"}
+  "bbox": [
+    -95.750679,
+    34.934292,
+    -95.750679,
+    34.934292
+],
+  "geometry": {"coordinates":[-95.75067900000001,34.934292],"type":"Point"}
 }

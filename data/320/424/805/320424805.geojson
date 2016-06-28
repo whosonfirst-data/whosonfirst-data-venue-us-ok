@@ -2,13 +2,14 @@
   "id": 320424805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.760101,35.451748,-94.760101,35.451748",
     "geom:latitude":35.451748,
     "geom:longitude":-94.760101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2428 E Cherokee Ave",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320424805,
-    "wof:lastmodified":1449014727,
+    "wof:lastmodified":1466765859,
     "wof:name":"Taco Mayo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-94.760101,35.451748,-94.760101,35.451748],
-  "geometry": {"coordinates":[-94.760101,35.451748],"type":"Point"}
+  "bbox": [
+    -94.760101,
+    35.451748,
+    -94.760101,
+    35.451748
+],
+  "geometry": {"coordinates":[-94.76010100000001,35.451748],"type":"Point"}
 }

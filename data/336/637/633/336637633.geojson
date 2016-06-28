@@ -2,13 +2,14 @@
   "id": 336637633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.506161,34.871945,-99.506161,34.871945",
     "geom:latitude":34.871945,
     "geom:longitude":-99.506161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 S Oklahoma Ave",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336637633,
-    "wof:lastmodified":1448996921,
+    "wof:lastmodified":1466762755,
     "wof:name":"Southwest Okla Community Actn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-99.506161,34.871945,-99.506161,34.871945],
-  "geometry": {"coordinates":[-99.506161,34.871945],"type":"Point"}
+  "bbox": [
+    -99.506161,
+    34.871945,
+    -99.506161,
+    34.871945
+],
+  "geometry": {"coordinates":[-99.50616100000001,34.871945],"type":"Point"}
 }

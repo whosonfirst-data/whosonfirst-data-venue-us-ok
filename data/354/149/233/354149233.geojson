@@ -2,13 +2,14 @@
   "id": 354149233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.085195,36.721168,-97.085195,36.721168",
     "geom:latitude":36.721168,
     "geom:longitude":-97.085195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 N Union St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354149233,
-    "wof:lastmodified":1449065933,
+    "wof:lastmodified":1466763684,
     "wof:name":"Lamp Post Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-97.085195,36.721168,-97.085195,36.721168],
+  "bbox": [
+    -97.085195,
+    36.721168,
+    -97.085195,
+    36.721168
+],
   "geometry": {"coordinates":[-97.085195,36.721168],"type":"Point"}
 }

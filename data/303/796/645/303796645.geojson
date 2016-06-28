@@ -2,13 +2,14 @@
   "id": 303796645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.167513,35.375738,-97.167513,35.375738",
     "geom:latitude":35.375738,
     "geom:longitude":-97.167513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9124 Ichabod Cir",
     "sg:city":"Newalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303796645,
-    "wof:lastmodified":1448999274,
+    "wof:lastmodified":1466766814,
     "wof:name":"John Delivery",
     "wof:parent_id":85830865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.167513,35.375738,-97.167513,35.375738],
+  "bbox": [
+    -97.167513,
+    35.375738,
+    -97.167513,
+    35.375738
+],
   "geometry": {"coordinates":[-97.167513,35.375738],"type":"Point"}
 }

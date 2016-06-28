@@ -2,13 +2,14 @@
   "id": 354081011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.902753,36.395642,-97.902753,36.395642",
     "geom:latitude":36.395642,
     "geom:longitude":-97.902753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Grant St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354081011,
-    "wof:lastmodified":1449066436,
+    "wof:lastmodified":1466764203,
     "wof:name":"Windsong West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.902753,36.395642,-97.902753,36.395642],
+  "bbox": [
+    -97.902753,
+    36.395642,
+    -97.902753,
+    36.395642
+],
   "geometry": {"coordinates":[-97.902753,36.395642],"type":"Point"}
 }

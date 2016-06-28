@@ -2,13 +2,14 @@
   "id": 353999227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.012272,36.152093,-96.012272,36.152093",
     "geom:latitude":36.152093,
     "geom:longitude":-96.012272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 Charles Page Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353999227,
-    "wof:lastmodified":1449020488,
+    "wof:lastmodified":1466765996,
     "wof:name":"Urban Forestry",
     "wof:parent_id":85872473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government"
     ]
 },
-  "bbox": [-96.012272,36.152093,-96.012272,36.152093],
+  "bbox": [
+    -96.012272,
+    36.152093,
+    -96.012272,
+    36.152093
+],
   "geometry": {"coordinates":[-96.012272,36.152093],"type":"Point"}
 }

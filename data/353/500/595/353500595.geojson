@@ -2,13 +2,14 @@
   "id": 353500595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.601172,35.453429,-97.601172,35.453429",
     "geom:latitude":35.453429,
     "geom:longitude":-97.601172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1335 S Meridian Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353500595,
-    "wof:lastmodified":1449018906,
+    "wof:lastmodified":1466763124,
     "wof:name":"Part KWIK-Stop",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.601172,35.453429,-97.601172,35.453429],
-  "geometry": {"coordinates":[-97.601172,35.453429],"type":"Point"}
+  "bbox": [
+    -97.601172,
+    35.453429,
+    -97.601172,
+    35.453429
+],
+  "geometry": {"coordinates":[-97.60117200000001,35.453429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336721675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.887064,36.167505,-95.887064,36.167505",
     "geom:latitude":36.167505,
     "geom:longitude":-95.887064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7831 E Jasper St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336721675,
-    "wof:lastmodified":1448998010,
+    "wof:lastmodified":1466764052,
     "wof:name":"Butler Construction Svc",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-95.887064,36.167505,-95.887064,36.167505],
+  "bbox": [
+    -95.887064,
+    36.167505,
+    -95.887064,
+    36.167505
+],
   "geometry": {"coordinates":[-95.887064,36.167505],"type":"Point"}
 }

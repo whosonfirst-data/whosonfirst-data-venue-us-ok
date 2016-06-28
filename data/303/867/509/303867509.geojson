@@ -2,13 +2,14 @@
   "id": 303867509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.404912,35.398248,-99.404912,35.398248",
     "geom:latitude":35.398248,
     "geom:longitude":-99.404912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 S Main St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303867509,
-    "wof:lastmodified":1448999174,
+    "wof:lastmodified":1466766895,
     "wof:name":"Elk City Pools & Spas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "swimming"
     ]
 },
-  "bbox": [-99.404912,35.398248,-99.404912,35.398248],
+  "bbox": [
+    -99.404912,
+    35.398248,
+    -99.404912,
+    35.398248
+],
   "geometry": {"coordinates":[-99.404912,35.398248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303518119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.951799,35.978801,-95.951799,35.978801",
     "geom:latitude":35.978801,
     "geom:longitude":-95.951799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12777 S 14th Cir",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303518119,
-    "wof:lastmodified":1448999503,
+    "wof:lastmodified":1466765921,
     "wof:name":"Shredair Inc",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.951799,35.978801,-95.951799,35.978801],
-  "geometry": {"coordinates":[-95.951799,35.978801],"type":"Point"}
+  "bbox": [
+    -95.951799,
+    35.978801,
+    -95.951799,
+    35.978801
+],
+  "geometry": {"coordinates":[-95.95179899999999,35.978801],"type":"Point"}
 }

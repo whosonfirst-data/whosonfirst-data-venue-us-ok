@@ -2,13 +2,14 @@
   "id": 354053507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.987637,35.305425,-98.987637,35.305425",
     "geom:latitude":35.305425,
     "geom:longitude":-98.987637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1428 N Glenn L English St",
     "sg:city":"Cordell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354053507,
-    "wof:lastmodified":1449066252,
+    "wof:lastmodified":1466763312,
     "wof:name":"United Supermarkets Of Okla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-98.987637,35.305425,-98.987637,35.305425],
-  "geometry": {"coordinates":[-98.987637,35.305425],"type":"Point"}
+  "bbox": [
+    -98.987637,
+    35.305425,
+    -98.987637,
+    35.305425
+],
+  "geometry": {"coordinates":[-98.98763700000001,35.305425],"type":"Point"}
 }

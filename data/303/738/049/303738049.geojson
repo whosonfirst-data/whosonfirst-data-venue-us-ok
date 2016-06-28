@@ -2,13 +2,14 @@
   "id": 303738049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.111853,36.006811,-96.111853,36.006811",
     "geom:latitude":36.006811,
     "geom:longitude":-96.111853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 N 9th St",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303738049,
-    "wof:lastmodified":1448999910,
+    "wof:lastmodified":1466766434,
     "wof:name":"Git & Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.111853,36.006811,-96.111853,36.006811],
+  "bbox": [
+    -96.111853,
+    36.006811,
+    -96.111853,
+    36.006811
+],
   "geometry": {"coordinates":[-96.111853,36.006811],"type":"Point"}
 }

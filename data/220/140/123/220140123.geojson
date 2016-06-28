@@ -2,13 +2,14 @@
   "id": 220140123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.322247,34.640007,-99.322247,34.640007",
     "geom:latitude":34.640007,
     "geom:longitude":-99.322247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"936 E Cypress St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220140123,
-    "wof:lastmodified":1449074142,
+    "wof:lastmodified":1466763354,
     "wof:name":"The Dog House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "cat"
     ]
 },
-  "bbox": [-99.322247,34.640007,-99.322247,34.640007],
+  "bbox": [
+    -99.322247,
+    34.640007,
+    -99.322247,
+    34.640007
+],
   "geometry": {"coordinates":[-99.322247,34.640007],"type":"Point"}
 }

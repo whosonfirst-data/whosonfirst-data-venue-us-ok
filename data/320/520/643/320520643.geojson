@@ -2,13 +2,14 @@
   "id": 320520643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.448723,35.420849,-97.448723,35.420849",
     "geom:latitude":35.420849,
     "geom:longitude":-97.448723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3451 SE 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320520643,
-    "wof:lastmodified":1449012505,
+    "wof:lastmodified":1466766111,
     "wof:name":"Ashwood Apartments",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.448723,35.420849,-97.448723,35.420849],
+  "bbox": [
+    -97.448723,
+    35.420849,
+    -97.448723,
+    35.420849
+],
   "geometry": {"coordinates":[-97.448723,35.420849],"type":"Point"}
 }

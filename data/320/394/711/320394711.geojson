@@ -2,13 +2,14 @@
   "id": 320394711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.428806,35.679506,-97.428806,35.679506",
     "geom:latitude":35.679506,
     "geom:longitude":-97.428806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 Red Deer Xing",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320394711,
-    "wof:lastmodified":1449011984,
+    "wof:lastmodified":1466765552,
     "wof:name":"Legacy Resources LLC",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "field"
     ]
 },
-  "bbox": [-97.428806,35.679506,-97.428806,35.679506],
-  "geometry": {"coordinates":[-97.428806,35.679506],"type":"Point"}
+  "bbox": [
+    -97.428806,
+    35.679506,
+    -97.428806,
+    35.679506
+],
+  "geometry": {"coordinates":[-97.42880599999999,35.679506],"type":"Point"}
 }

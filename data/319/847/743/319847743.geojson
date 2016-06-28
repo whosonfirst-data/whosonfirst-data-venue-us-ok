@@ -2,13 +2,14 @@
   "id": 319847743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.307527,36.680076,-97.307527,36.680076",
     "geom:latitude":36.680076,
     "geom:longitude":-97.307527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 N 6th St",
     "sg:city":"Tonkawa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319847743,
-    "wof:lastmodified":1449024359,
+    "wof:lastmodified":1466763127,
     "wof:name":"Kay Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.307527,36.680076,-97.307527,36.680076],
-  "geometry": {"coordinates":[-97.307527,36.680076],"type":"Point"}
+  "bbox": [
+    -97.307527,
+    36.680076,
+    -97.307527,
+    36.680076
+],
+  "geometry": {"coordinates":[-97.30752699999999,36.680076],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353719635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940358,36.176988,-95.940358,36.176988",
     "geom:latitude":36.176988,
     "geom:longitude":-95.940358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1406 N Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353719635,
-    "wof:lastmodified":1449018581,
+    "wof:lastmodified":1466765068,
     "wof:name":"Mi Favorito Bakery",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-95.940358,36.176988,-95.940358,36.176988],
+  "bbox": [
+    -95.940358,
+    36.176988,
+    -95.940358,
+    36.176988
+],
   "geometry": {"coordinates":[-95.940358,36.176988],"type":"Point"}
 }

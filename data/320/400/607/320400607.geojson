@@ -2,13 +2,14 @@
   "id": 320400607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.353614,35.435257,-97.353614,35.435257",
     "geom:latitude":35.435257,
     "geom:longitude":-97.353614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9809 SE 29th St",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320400607,
-    "wof:lastmodified":1449011600,
+    "wof:lastmodified":1466765601,
     "wof:name":"Storeroom",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-97.353614,35.435257,-97.353614,35.435257],
-  "geometry": {"coordinates":[-97.353614,35.435257],"type":"Point"}
+  "bbox": [
+    -97.353614,
+    35.435257,
+    -97.353614,
+    35.435257
+],
+  "geometry": {"coordinates":[-97.35361399999999,35.435257],"type":"Point"}
 }

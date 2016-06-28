@@ -2,13 +2,14 @@
   "id": 303151715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.96179,34.521396,-97.96179,34.521396",
     "geom:latitude":34.521396,
     "geom:longitude":-97.96179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 N Grand Blvd",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303151715,
-    "wof:lastmodified":1448998144,
+    "wof:lastmodified":1466764068,
     "wof:name":"Red River Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.96179,34.521396,-97.96179,34.521396],
-  "geometry": {"coordinates":[-97.96179,34.521396],"type":"Point"}
+  "bbox": [
+    -97.96179,
+    34.521396,
+    -97.96179,
+    34.521396
+],
+  "geometry": {"coordinates":[-97.96178999999999,34.521396],"type":"Point"}
 }

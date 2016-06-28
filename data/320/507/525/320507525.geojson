@@ -2,13 +2,14 @@
   "id": 320507525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.877578,36.889553,-94.877578,36.889553",
     "geom:latitude":36.889553,
     "geom:longitude":-94.877578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1227 N Main St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320507525,
-    "wof:lastmodified":1449013175,
+    "wof:lastmodified":1466766077,
     "wof:name":"Express Cellular & Satellite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-94.877578,36.889553,-94.877578,36.889553],
+  "bbox": [
+    -94.877578,
+    36.889553,
+    -94.877578,
+    36.889553
+],
   "geometry": {"coordinates":[-94.877578,36.889553],"type":"Point"}
 }

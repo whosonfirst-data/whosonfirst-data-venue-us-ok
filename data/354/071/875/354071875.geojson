@@ -2,13 +2,14 @@
   "id": 354071875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935482,36.768689,-95.935482,36.768689",
     "geom:latitude":36.768689,
     "geom:longitude":-95.935482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"731 NE Washington Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354071875,
-    "wof:lastmodified":1449067033,
+    "wof:lastmodified":1466763400,
     "wof:name":"Pauls Wrecker Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-95.935482,36.768689,-95.935482,36.768689],
-  "geometry": {"coordinates":[-95.935482,36.768689],"type":"Point"}
+  "bbox": [
+    -95.935482,
+    36.768689,
+    -95.935482,
+    36.768689
+],
+  "geometry": {"coordinates":[-95.93548199999999,36.768689],"type":"Point"}
 }

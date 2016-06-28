@@ -2,13 +2,14 @@
   "id": 303647383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.824221,34.229246,-95.824221,34.229246",
     "geom:latitude":34.229246,
     "geom:longitude":-95.824221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 E Sandy Spring Rd",
     "sg:city":"Atoka",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303647383,
-    "wof:lastmodified":1448999278,
+    "wof:lastmodified":1466766360,
     "wof:name":"Calvary Temple Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.824221,34.229246,-95.824221,34.229246],
-  "geometry": {"coordinates":[-95.824221,34.229246],"type":"Point"}
+  "bbox": [
+    -95.824221,
+    34.229246,
+    -95.824221,
+    34.229246
+],
+  "geometry": {"coordinates":[-95.82422099999999,34.229246],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353745277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886169,36.057613,-95.886169,36.057613",
     "geom:latitude":36.057613,
     "geom:longitude":-95.886169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7309 S Memorial Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353745277,
-    "wof:lastmodified":1449020669,
+    "wof:lastmodified":1466765085,
     "wof:name":"Fun House",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.886169,36.057613,-95.886169,36.057613],
+  "bbox": [
+    -95.886169,
+    36.057613,
+    -95.886169,
+    36.057613
+],
   "geometry": {"coordinates":[-95.886169,36.057613],"type":"Point"}
 }

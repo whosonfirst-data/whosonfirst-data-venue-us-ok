@@ -2,13 +2,14 @@
   "id": 336730591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.97101,36.193138,-95.97101,36.193138",
     "geom:latitude":36.193138,
     "geom:longitude":-95.97101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 N Saint Louis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336730591,
-    "wof:lastmodified":1448997862,
+    "wof:lastmodified":1466764245,
     "wof:name":"Caesar C Latimer Law Office",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-95.97101,36.193138,-95.97101,36.193138],
-  "geometry": {"coordinates":[-95.97101,36.193138],"type":"Point"}
+  "bbox": [
+    -95.97101,
+    36.193138,
+    -95.97101,
+    36.193138
+],
+  "geometry": {"coordinates":[-95.97101000000001,36.193138],"type":"Point"}
 }

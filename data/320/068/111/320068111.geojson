@@ -2,13 +2,14 @@
   "id": 320068111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.814393,36.053298,-95.814393,36.053298",
     "geom:latitude":36.053298,
     "geom:longitude":-95.814393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2027 W College St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320068111,
-    "wof:lastmodified":1449013181,
+    "wof:lastmodified":1466763296,
     "wof:name":"Jmp Billing Service",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "billing"
     ]
 },
-  "bbox": [-95.814393,36.053298,-95.814393,36.053298],
+  "bbox": [
+    -95.814393,
+    36.053298,
+    -95.814393,
+    36.053298
+],
   "geometry": {"coordinates":[-95.814393,36.053298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320297251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.891106,36.403177,-97.891106,36.403177",
     "geom:latitude":36.403177,
     "geom:longitude":-97.891106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 W Walnut Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320297251,
-    "wof:lastmodified":1449013633,
+    "wof:lastmodified":1466765151,
     "wof:name":"A P R",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-97.891106,36.403177,-97.891106,36.403177],
-  "geometry": {"coordinates":[-97.891106,36.403177],"type":"Point"}
+  "bbox": [
+    -97.891106,
+    36.403177,
+    -97.891106,
+    36.403177
+],
+  "geometry": {"coordinates":[-97.89110599999999,36.403177],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320791681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.851028,36.042381,-95.851028,36.042381",
     "geom:latitude":36.042381,
     "geom:longitude":-95.851028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8101 S Garnett Rd",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320791681,
-    "wof:lastmodified":1449014099,
+    "wof:lastmodified":1466766919,
     "wof:name":"Golf World",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "golf"
     ]
 },
-  "bbox": [-95.851028,36.042381,-95.851028,36.042381],
+  "bbox": [
+    -95.851028,
+    36.042381,
+    -95.851028,
+    36.042381
+],
   "geometry": {"coordinates":[-95.851028,36.042381],"type":"Point"}
 }

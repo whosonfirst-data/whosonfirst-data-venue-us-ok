@@ -2,13 +2,14 @@
   "id": 304041063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.875516,36.037615,-95.875516,36.037615",
     "geom:latitude":36.037615,
     "geom:longitude":-95.875516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8602 S 91st East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304041063,
-    "wof:lastmodified":1449043766,
+    "wof:lastmodified":1466763043,
     "wof:name":"Telecommunications Vendor",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-95.875516,36.037615,-95.875516,36.037615],
+  "bbox": [
+    -95.875516,
+    36.037615,
+    -95.875516,
+    36.037615
+],
   "geometry": {"coordinates":[-95.875516,36.037615],"type":"Point"}
 }

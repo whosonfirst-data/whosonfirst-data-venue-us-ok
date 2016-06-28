@@ -2,13 +2,14 @@
   "id": 336801865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.54931,35.495582,-97.54931,35.495582",
     "geom:latitude":35.495582,
     "geom:longitude":-97.54931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2129 NW 25th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336801865,
-    "wof:lastmodified":1448997847,
+    "wof:lastmodified":1466764681,
     "wof:name":"Mobile Computer Man",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.54931,35.495582,-97.54931,35.495582],
-  "geometry": {"coordinates":[-97.54931,35.495582],"type":"Point"}
+  "bbox": [
+    -97.54931,
+    35.495582,
+    -97.54931,
+    35.495582
+],
+  "geometry": {"coordinates":[-97.54931000000001,35.495582],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303490419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.235791,34.272037,-98.235791,34.272037",
     "geom:latitude":34.272037,
     "geom:longitude":-98.235791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 State Hwy 5",
     "sg:city":"Temple",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303490419,
-    "wof:lastmodified":1449000321,
+    "wof:lastmodified":1466765928,
     "wof:name":"Temple Dairy Land Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.235791,34.272037,-98.235791,34.272037],
-  "geometry": {"coordinates":[-98.235791,34.272037],"type":"Point"}
+  "bbox": [
+    -98.235791,
+    34.272037,
+    -98.235791,
+    34.272037
+],
+  "geometry": {"coordinates":[-98.23579100000001,34.272037],"type":"Point"}
 }

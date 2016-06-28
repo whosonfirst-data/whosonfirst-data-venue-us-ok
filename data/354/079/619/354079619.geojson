@@ -2,13 +2,14 @@
   "id": 354079619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.457636,35.39233,-97.457636,35.39233",
     "geom:latitude":35.39233,
     "geom:longitude":-97.457636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 E I- 240 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354079619,
-    "wof:lastmodified":1449067364,
+    "wof:lastmodified":1466763435,
     "wof:name":"J Trimble Pools & Spas",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-97.457636,35.39233,-97.457636,35.39233],
-  "geometry": {"coordinates":[-97.457636,35.39233],"type":"Point"}
+  "bbox": [
+    -97.457636,
+    35.39233,
+    -97.457636,
+    35.39233
+],
+  "geometry": {"coordinates":[-97.45763599999999,35.39233],"type":"Point"}
 }

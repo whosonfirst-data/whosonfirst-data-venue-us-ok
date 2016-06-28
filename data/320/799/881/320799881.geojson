@@ -2,13 +2,14 @@
   "id": 320799881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.142327,34.190774,-97.142327,34.190774",
     "geom:latitude":34.190774,
     "geom:longitude":-97.142327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 16th Ave NW",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320799881,
-    "wof:lastmodified":1449014989,
+    "wof:lastmodified":1466766847,
     "wof:name":"Photo Synthesis Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-97.142327,34.190774,-97.142327,34.190774],
-  "geometry": {"coordinates":[-97.142327,34.190774],"type":"Point"}
+  "bbox": [
+    -97.142327,
+    34.190774,
+    -97.142327,
+    34.190774
+],
+  "geometry": {"coordinates":[-97.14232699999999,34.190774],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303161465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.510296,35.507893,-97.510296,35.507893",
     "geom:latitude":35.507893,
     "geom:longitude":-97.510296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 NE 36th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303161465,
-    "wof:lastmodified":1448999088,
+    "wof:lastmodified":1466764266,
     "wof:name":"Bob's Sinclair",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-97.510296,35.507893,-97.510296,35.507893],
+  "bbox": [
+    -97.510296,
+    35.507893,
+    -97.510296,
+    35.507893
+],
   "geometry": {"coordinates":[-97.510296,35.507893],"type":"Point"}
 }

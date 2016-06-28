@@ -2,13 +2,14 @@
   "id": 353965683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.88599,36.12161,-95.88599,36.12161",
     "geom:latitude":36.12161,
     "geom:longitude":-95.88599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8181 E Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":353965683,
-    "wof:lastmodified":1449020026,
+    "wof:lastmodified":1466765877,
     "wof:name":"Shyam Inc and Shree Laxmininn",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "beauty"
     ]
 },
-  "bbox": [-95.88599,36.12161,-95.88599,36.12161],
-  "geometry": {"coordinates":[-95.88599,36.12161],"type":"Point"}
+  "bbox": [
+    -95.88599,
+    36.12161,
+    -95.88599,
+    36.12161
+],
+  "geometry": {"coordinates":[-95.88599000000001,36.12161],"type":"Point"}
 }

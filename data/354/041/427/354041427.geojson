@@ -2,13 +2,14 @@
   "id": 354041427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.654564,35.144704,-97.654564,35.144704",
     "geom:latitude":35.144704,
     "geom:longitude":-97.654564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 N Harrison Ave",
     "sg:city":"Blanchard",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354041427,
-    "wof:lastmodified":1449066524,
+    "wof:lastmodified":1466763227,
     "wof:name":"Shupert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.654564,35.144704,-97.654564,35.144704],
-  "geometry": {"coordinates":[-97.654564,35.144704],"type":"Point"}
+  "bbox": [
+    -97.654564,
+    35.144704,
+    -97.654564,
+    35.144704
+],
+  "geometry": {"coordinates":[-97.65456399999999,35.144704],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320616769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.530149,34.627722,-98.530149,34.627722",
     "geom:latitude":34.627722,
     "geom:longitude":-98.530149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Cypress Ln",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320616769,
-    "wof:lastmodified":1449013997,
+    "wof:lastmodified":1466766326,
     "wof:name":"Jerry Wolfe Custom Homes",
     "wof:parent_id":85815375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-98.530149,34.627722,-98.530149,34.627722],
-  "geometry": {"coordinates":[-98.530149,34.627722],"type":"Point"}
+  "bbox": [
+    -98.530149,
+    34.627722,
+    -98.530149,
+    34.627722
+],
+  "geometry": {"coordinates":[-98.53014899999999,34.627722],"type":"Point"}
 }

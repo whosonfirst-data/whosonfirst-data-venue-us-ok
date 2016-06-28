@@ -2,13 +2,14 @@
   "id": 287295277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.513771,35.544921,-97.513771,35.544921",
     "geom:latitude":35.544921,
     "geom:longitude":-97.513771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6920 Broadway Exn",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287295277,
-    "wof:lastmodified":1449001030,
+    "wof:lastmodified":1466763359,
     "wof:name":"BRI Imports Inc",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.513771,35.544921,-97.513771,35.544921],
-  "geometry": {"coordinates":[-97.513771,35.544921],"type":"Point"}
+  "bbox": [
+    -97.513771,
+    35.544921,
+    -97.513771,
+    35.544921
+],
+  "geometry": {"coordinates":[-97.51377100000001,35.544921],"type":"Point"}
 }

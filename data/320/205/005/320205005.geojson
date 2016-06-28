@@ -2,13 +2,14 @@
   "id": 320205005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.473165,36.308861,-96.473165,36.308861",
     "geom:latitude":36.308861,
     "geom:longitude":-96.473165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 W Delaware St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320205005,
-    "wof:lastmodified":1449013510,
+    "wof:lastmodified":1466764477,
     "wof:name":"Vernon Brown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.473165,36.308861,-96.473165,36.308861],
-  "geometry": {"coordinates":[-96.473165,36.308861],"type":"Point"}
+  "bbox": [
+    -96.473165,
+    36.308861,
+    -96.473165,
+    36.308861
+],
+  "geometry": {"coordinates":[-96.47316499999999,36.308861],"type":"Point"}
 }

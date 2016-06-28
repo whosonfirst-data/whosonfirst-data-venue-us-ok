@@ -2,13 +2,14 @@
   "id": 320022075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.076365,36.7387,-97.076365,36.7387",
     "geom:latitude":36.7387,
     "geom:longitude":-97.076365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 E Prospect Ave",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320022075,
-    "wof:lastmodified":1449012513,
+    "wof:lastmodified":1466762614,
     "wof:name":"Hughes Lumber 05",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-97.076365,36.7387,-97.076365,36.7387],
+  "bbox": [
+    -97.076365,
+    36.7387,
+    -97.076365,
+    36.7387
+],
   "geometry": {"coordinates":[-97.076365,36.7387],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354000253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.536692,35.44684,-97.536692,35.44684",
     "geom:latitude":35.44684,
     "geom:longitude":-97.536692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 SW 18th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354000253,
-    "wof:lastmodified":1449066203,
+    "wof:lastmodified":1466762906,
     "wof:name":"Display Windows & Decorations",
     "wof:parent_id":85871685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "display"
     ]
 },
-  "bbox": [-97.536692,35.44684,-97.536692,35.44684],
+  "bbox": [
+    -97.536692,
+    35.44684,
+    -97.536692,
+    35.44684
+],
   "geometry": {"coordinates":[-97.536692,35.44684],"type":"Point"}
 }

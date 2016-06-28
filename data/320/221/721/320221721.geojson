@@ -2,13 +2,14 @@
   "id": 320221721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.383518,35.420805,-99.383518,35.420805",
     "geom:latitude":35.420805,
     "geom:longitude":-99.383518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Clyde Ave",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320221721,
-    "wof:lastmodified":1449012901,
+    "wof:lastmodified":1466764618,
     "wof:name":"University Of Oklahoma College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-99.383518,35.420805,-99.383518,35.420805],
+  "bbox": [
+    -99.383518,
+    35.420805,
+    -99.383518,
+    35.420805
+],
   "geometry": {"coordinates":[-99.383518,35.420805],"type":"Point"}
 }

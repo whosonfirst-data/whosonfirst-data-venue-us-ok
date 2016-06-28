@@ -2,13 +2,14 @@
   "id": 320496001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.385375,34.603275,-98.385375,34.603275",
     "geom:latitude":34.603275,
     "geom:longitude":-98.385375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 SE Wallock St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320496001,
-    "wof:lastmodified":1449014409,
+    "wof:lastmodified":1466766153,
     "wof:name":"Center For Occupational Health",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-98.385375,34.603275,-98.385375,34.603275],
+  "bbox": [
+    -98.385375,
+    34.603275,
+    -98.385375,
+    34.603275
+],
   "geometry": {"coordinates":[-98.385375,34.603275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220178621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.026558,36.088329,-96.026558,36.088329",
     "geom:latitude":36.088329,
     "geom:longitude":-96.026558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2940 W Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":220178621,
-    "wof:lastmodified":1449074629,
+    "wof:lastmodified":1466762345,
     "wof:name":"Gray's Jewelry, Gun & Pawn",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-96.026558,36.088329,-96.026558,36.088329],
-  "geometry": {"coordinates":[-96.026558,36.088329],"type":"Point"}
+  "bbox": [
+    -96.026558,
+    36.088329,
+    -96.026558,
+    36.088329
+],
+  "geometry": {"coordinates":[-96.02655799999999,36.088329],"type":"Point"}
 }

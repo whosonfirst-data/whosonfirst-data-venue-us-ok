@@ -2,13 +2,14 @@
   "id": 303650255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.316573,34.362166,-98.316573,34.362166",
     "geom:latitude":34.362166,
     "geom:longitude":-98.316573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 W Missouri Ave",
     "sg:city":"Walters",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303650255,
-    "wof:lastmodified":1448999612,
+    "wof:lastmodified":1466766251,
     "wof:name":"Dollar General Store Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-98.316573,34.362166,-98.316573,34.362166],
-  "geometry": {"coordinates":[-98.316573,34.362166],"type":"Point"}
+  "bbox": [
+    -98.316573,
+    34.362166,
+    -98.316573,
+    34.362166
+],
+  "geometry": {"coordinates":[-98.31657300000001,34.362166],"type":"Point"}
 }

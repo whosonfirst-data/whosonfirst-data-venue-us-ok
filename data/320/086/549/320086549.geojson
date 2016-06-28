@@ -2,13 +2,14 @@
   "id": 320086549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.957726,36.043275,-95.957726,36.043275",
     "geom:latitude":36.043275,
     "geom:longitude":-95.957726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8555 S Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320086549,
-    "wof:lastmodified":1449013774,
+    "wof:lastmodified":1466763560,
     "wof:name":"Alpha Omega Ministries",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.957726,36.043275,-95.957726,36.043275],
-  "geometry": {"coordinates":[-95.957726,36.043275],"type":"Point"}
+  "bbox": [
+    -95.957726,
+    36.043275,
+    -95.957726,
+    36.043275
+],
+  "geometry": {"coordinates":[-95.95772599999999,36.043275],"type":"Point"}
 }

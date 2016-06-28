@@ -2,13 +2,14 @@
   "id": 320302353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.806835,36.039594,-95.806835,36.039594",
     "geom:latitude":36.039594,
     "geom:longitude":-95.806835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 S Narcissus Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320302353,
-    "wof:lastmodified":1449012533,
+    "wof:lastmodified":1466765167,
     "wof:name":"Lighthouse Christian Bookstore",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.806835,36.039594,-95.806835,36.039594],
-  "geometry": {"coordinates":[-95.806835,36.039594],"type":"Point"}
+  "bbox": [
+    -95.806835,
+    36.039594,
+    -95.806835,
+    36.039594
+],
+  "geometry": {"coordinates":[-95.80683500000001,36.039594],"type":"Point"}
 }

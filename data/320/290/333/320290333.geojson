@@ -2,13 +2,14 @@
   "id": 320290333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.198865,35.963478,-96.198865,35.963478",
     "geom:latitude":35.963478,
     "geom:longitude":-96.198865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18539 State Hwy 66",
     "sg:city":"Kellyville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320290333,
-    "wof:lastmodified":1449012869,
+    "wof:lastmodified":1466765103,
     "wof:name":"Wolf Valley Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-96.198865,35.963478,-96.198865,35.963478],
+  "bbox": [
+    -96.198865,
+    35.963478,
+    -96.198865,
+    35.963478
+],
   "geometry": {"coordinates":[-96.198865,35.963478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320604239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.661099,35.590602,-97.661099,35.590602",
     "geom:latitude":35.590602,
     "geom:longitude":-97.661099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8104 NW 117th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320604239,
-    "wof:lastmodified":1449014528,
+    "wof:lastmodified":1466766392,
     "wof:name":"Access Family Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.661099,35.590602,-97.661099,35.590602],
-  "geometry": {"coordinates":[-97.661099,35.590602],"type":"Point"}
+  "bbox": [
+    -97.661099,
+    35.590602,
+    -97.661099,
+    35.590602
+],
+  "geometry": {"coordinates":[-97.66109899999999,35.590602],"type":"Point"}
 }

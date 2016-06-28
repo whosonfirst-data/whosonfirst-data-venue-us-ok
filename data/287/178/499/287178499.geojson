@@ -2,13 +2,14 @@
   "id": 287178499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.986731,36.152906,-95.986731,36.152906",
     "geom:latitude":36.152906,
     "geom:longitude":-95.986731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 S Detroit Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287178499,
-    "wof:lastmodified":1449001317,
+    "wof:lastmodified":1466763844,
     "wof:name":"A T & T",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telemarketing"
     ]
 },
-  "bbox": [-95.986731,36.152906,-95.986731,36.152906],
-  "geometry": {"coordinates":[-95.986731,36.152906],"type":"Point"}
+  "bbox": [
+    -95.986731,
+    36.152906,
+    -95.986731,
+    36.152906
+],
+  "geometry": {"coordinates":[-95.98673100000001,36.152906],"type":"Point"}
 }

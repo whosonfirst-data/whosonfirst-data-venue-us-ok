@@ -2,13 +2,14 @@
   "id": 320203605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.513932,35.663059,-97.513932,35.663059",
     "geom:latitude":35.663059,
     "geom:longitude":-97.513932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 N Santa Fe Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320203605,
-    "wof:lastmodified":1449012910,
+    "wof:lastmodified":1466764699,
     "wof:name":"Edward Jones 19448",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-97.513932,35.663059,-97.513932,35.663059],
+  "bbox": [
+    -97.513932,
+    35.663059,
+    -97.513932,
+    35.663059
+],
   "geometry": {"coordinates":[-97.513932,35.663059],"type":"Point"}
 }

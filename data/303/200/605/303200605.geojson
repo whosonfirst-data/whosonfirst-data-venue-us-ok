@@ -2,13 +2,14 @@
   "id": 303200605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.492266,36.682929,-101.492266,36.682929",
     "geom:latitude":36.682929,
     "geom:longitude":-101.492266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 NW 5th St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303200605,
-    "wof:lastmodified":1448999099,
+    "wof:lastmodified":1466764330,
     "wof:name":"Guymon City Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-101.492266,36.682929,-101.492266,36.682929],
+  "bbox": [
+    -101.492266,
+    36.682929,
+    -101.492266,
+    36.682929
+],
   "geometry": {"coordinates":[-101.492266,36.682929],"type":"Point"}
 }

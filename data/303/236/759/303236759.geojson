@@ -2,13 +2,14 @@
   "id": 303236759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.878304,36.416169,-97.878304,36.416169",
     "geom:latitude":36.416169,
     "geom:longitude":-97.878304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2013 N Grand Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303236759,
-    "wof:lastmodified":1448998381,
+    "wof:lastmodified":1466764510,
     "wof:name":"Froemming Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.878304,36.416169,-97.878304,36.416169],
+  "bbox": [
+    -97.878304,
+    36.416169,
+    -97.878304,
+    36.416169
+],
   "geometry": {"coordinates":[-97.878304,36.416169],"type":"Point"}
 }

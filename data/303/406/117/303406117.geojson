@@ -2,13 +2,14 @@
   "id": 303406117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.668409,36.805013,-98.668409,36.805013",
     "geom:latitude":36.805013,
     "geom:longitude":-98.668409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Flynn St",
     "sg:city":"Alva",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303406117,
-    "wof:lastmodified":1448999431,
+    "wof:lastmodified":1466765530,
     "wof:name":"Central National Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.668409,36.805013,-98.668409,36.805013],
+  "bbox": [
+    -98.668409,
+    36.805013,
+    -98.668409,
+    36.805013
+],
   "geometry": {"coordinates":[-98.668409,36.805013],"type":"Point"}
 }

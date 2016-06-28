@@ -2,13 +2,14 @@
   "id": 319918585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.487241,35.580019,-97.487241,35.580019",
     "geom:latitude":35.580019,
     "geom:longitude":-97.487241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 E Hefner Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":319918585,
-    "wof:lastmodified":1449024605,
+    "wof:lastmodified":1466763823,
     "wof:name":"John A Henry & Co",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.487241,35.580019,-97.487241,35.580019],
+  "bbox": [
+    -97.487241,
+    35.580019,
+    -97.487241,
+    35.580019
+],
   "geometry": {"coordinates":[-97.487241,35.580019],"type":"Point"}
 }

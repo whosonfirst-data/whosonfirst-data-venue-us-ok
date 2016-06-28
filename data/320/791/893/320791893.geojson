@@ -2,13 +2,14 @@
   "id": 320791893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.380132,35.451806,-97.380132,35.451806",
     "geom:latitude":35.451806,
     "geom:longitude":-97.380132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Republic Ave",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320791893,
-    "wof:lastmodified":1449014100,
+    "wof:lastmodified":1466766816,
     "wof:name":"Future Foam Inc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-97.380132,35.451806,-97.380132,35.451806],
+  "bbox": [
+    -97.380132,
+    35.451806,
+    -97.380132,
+    35.451806
+],
   "geometry": {"coordinates":[-97.380132,35.451806],"type":"Point"}
 }

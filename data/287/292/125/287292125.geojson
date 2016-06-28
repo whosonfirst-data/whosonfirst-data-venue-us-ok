@@ -2,13 +2,14 @@
   "id": 287292125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.441324,35.395403,-97.441324,35.395403",
     "geom:latitude":35.395403,
     "geom:longitude":-97.441324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 S Sunnylane Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287292125,
-    "wof:lastmodified":1449000726,
+    "wof:lastmodified":1466763311,
     "wof:name":"Quad/Graphics Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-97.441324,35.395403,-97.441324,35.395403],
-  "geometry": {"coordinates":[-97.441324,35.395403],"type":"Point"}
+  "bbox": [
+    -97.441324,
+    35.395403,
+    -97.441324,
+    35.395403
+],
+  "geometry": {"coordinates":[-97.44132399999999,35.395403],"type":"Point"}
 }

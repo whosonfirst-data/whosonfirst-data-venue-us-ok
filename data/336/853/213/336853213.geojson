@@ -2,13 +2,14 @@
   "id": 336853213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.638377,35.581739,-97.638377,35.581739",
     "geom:latitude":35.581739,
     "geom:longitude":-97.638377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11122 N Rockwell Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":336853213,
-    "wof:lastmodified":1448997383,
+    "wof:lastmodified":1466764952,
     "wof:name":"Shoe Clinic",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "boot"
     ]
 },
-  "bbox": [-97.638377,35.581739,-97.638377,35.581739],
-  "geometry": {"coordinates":[-97.638377,35.581739],"type":"Point"}
+  "bbox": [
+    -97.638377,
+    35.581739,
+    -97.638377,
+    35.581739
+],
+  "geometry": {"coordinates":[-97.63837700000001,35.581739],"type":"Point"}
 }

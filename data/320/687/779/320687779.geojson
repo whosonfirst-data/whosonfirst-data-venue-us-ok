@@ -2,13 +2,14 @@
   "id": 320687779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.76447,35.617088,-97.76447,35.617088",
     "geom:latitude":35.617088,
     "geom:longitude":-97.76447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14320 Locust Ave",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320687779,
-    "wof:lastmodified":1449012304,
+    "wof:lastmodified":1466766520,
     "wof:name":"Mitchell K Mc Carthy",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.76447,35.617088,-97.76447,35.617088],
+  "bbox": [
+    -97.76447,
+    35.617088,
+    -97.76447,
+    35.617088
+],
   "geometry": {"coordinates":[-97.76447,35.617088],"type":"Point"}
 }

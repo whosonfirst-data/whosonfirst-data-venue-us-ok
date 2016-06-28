@@ -2,13 +2,14 @@
   "id": 303577661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.736001,35.985691,-96.736001,35.985691",
     "geom:latitude":35.985691,
     "geom:longitude":-96.736001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2106 E Main St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303577661,
-    "wof:lastmodified":1449000641,
+    "wof:lastmodified":1466766135,
     "wof:name":"Bank Of Cushing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.736001,35.985691,-96.736001,35.985691],
+  "bbox": [
+    -96.736001,
+    35.985691,
+    -96.736001,
+    35.985691
+],
   "geometry": {"coordinates":[-96.736001,35.985691],"type":"Point"}
 }

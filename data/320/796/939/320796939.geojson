@@ -2,13 +2,14 @@
   "id": 320796939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.964971,36.173469,-95.964971,36.173469",
     "geom:latitude":36.173469,
     "geom:longitude":-95.964971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 N Wheeling Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320796939,
-    "wof:lastmodified":1449013019,
+    "wof:lastmodified":1466766763,
     "wof:name":"Applegate Trucking",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.964971,36.173469,-95.964971,36.173469],
-  "geometry": {"coordinates":[-95.964971,36.173469],"type":"Point"}
+  "bbox": [
+    -95.964971,
+    36.173469,
+    -95.964971,
+    36.173469
+],
+  "geometry": {"coordinates":[-95.96497100000001,36.173469],"type":"Point"}
 }

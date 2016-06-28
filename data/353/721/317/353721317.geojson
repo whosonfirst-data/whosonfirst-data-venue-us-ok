@@ -2,13 +2,14 @@
   "id": 353721317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.952405,35.52223,-97.952405,35.52223",
     "geom:latitude":35.52223,
     "geom:longitude":-97.952405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E Elm St",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353721317,
-    "wof:lastmodified":1449020786,
+    "wof:lastmodified":1466764971,
     "wof:name":"Arnold El Reno Monument Co",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-97.952405,35.52223,-97.952405,35.52223],
+  "bbox": [
+    -97.952405,
+    35.52223,
+    -97.952405,
+    35.52223
+],
   "geometry": {"coordinates":[-97.952405,35.52223],"type":"Point"}
 }

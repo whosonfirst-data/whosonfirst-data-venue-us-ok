@@ -2,13 +2,14 @@
   "id": 303100851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.698479,36.52963,-95.698479,36.52963",
     "geom:latitude":36.52963,
     "geom:longitude":-95.698479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Sequoyah St",
     "sg:city":"Talala",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303100851,
-    "wof:lastmodified":1448999931,
+    "wof:lastmodified":1466763249,
     "wof:name":"Mid-America Feeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-95.698479,36.52963,-95.698479,36.52963],
-  "geometry": {"coordinates":[-95.698479,36.52963],"type":"Point"}
+  "bbox": [
+    -95.698479,
+    36.52963,
+    -95.698479,
+    36.52963
+],
+  "geometry": {"coordinates":[-95.69847900000001,36.52963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303263065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.768189,34.929637,-95.768189,34.929637",
     "geom:latitude":34.929637,
     "geom:longitude":-95.768189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Cherokee Ave",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303263065,
-    "wof:lastmodified":1449000495,
+    "wof:lastmodified":1466764692,
     "wof:name":"Eastern Region",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-95.768189,34.929637,-95.768189,34.929637],
-  "geometry": {"coordinates":[-95.768189,34.929637],"type":"Point"}
+  "bbox": [
+    -95.768189,
+    34.929637,
+    -95.768189,
+    34.929637
+],
+  "geometry": {"coordinates":[-95.76818900000001,34.929637],"type":"Point"}
 }

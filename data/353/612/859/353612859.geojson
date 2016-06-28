@@ -2,13 +2,14 @@
   "id": 353612859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.538594,36.168745,-95.538594,36.168745",
     "geom:latitude":36.168745,
     "geom:longitude":-95.538594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30576 S 4195 Rd",
     "sg:city":"Inola",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353612859,
-    "wof:lastmodified":1449019386,
+    "wof:lastmodified":1466764339,
     "wof:name":"Rural Water District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sewage"
     ]
 },
-  "bbox": [-95.538594,36.168745,-95.538594,36.168745],
+  "bbox": [
+    -95.538594,
+    36.168745,
+    -95.538594,
+    36.168745
+],
   "geometry": {"coordinates":[-95.538594,36.168745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336639881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.013618,36.104352,-96.013618,36.104352",
     "geom:latitude":36.104352,
     "geom:longitude":-96.013618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1740 W 41st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336639881,
-    "wof:lastmodified":1448998006,
+    "wof:lastmodified":1466762792,
     "wof:name":"Native American Head Start",
     "wof:parent_id":85821015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-96.013618,36.104352,-96.013618,36.104352],
-  "geometry": {"coordinates":[-96.013618,36.104352],"type":"Point"}
+  "bbox": [
+    -96.013618,
+    36.104352,
+    -96.013618,
+    36.104352
+],
+  "geometry": {"coordinates":[-96.01361799999999,36.104352],"type":"Point"}
 }

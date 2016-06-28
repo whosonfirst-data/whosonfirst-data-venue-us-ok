@@ -2,13 +2,14 @@
   "id": 303750123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547788,35.382594,-97.547788,35.382594",
     "geom:latitude":35.382594,
     "geom:longitude":-97.547788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8320 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303750123,
-    "wof:lastmodified":1448999595,
+    "wof:lastmodified":1466766534,
     "wof:name":"Metro South Hope Clinic",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "abortion"
     ]
 },
-  "bbox": [-97.547788,35.382594,-97.547788,35.382594],
+  "bbox": [
+    -97.547788,
+    35.382594,
+    -97.547788,
+    35.382594
+],
   "geometry": {"coordinates":[-97.547788,35.382594],"type":"Point"}
 }

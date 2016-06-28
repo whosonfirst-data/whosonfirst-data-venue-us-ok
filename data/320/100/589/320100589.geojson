@@ -2,13 +2,14 @@
   "id": 320100589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.968575,35.991381,-95.968575,35.991381",
     "geom:latitude":35.991381,
     "geom:longitude":-95.968575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W 119th St S",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320100589,
-    "wof:lastmodified":1449014022,
+    "wof:lastmodified":1466763775,
     "wof:name":"Hughes Restaurant Systems",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.968575,35.991381,-95.968575,35.991381],
+  "bbox": [
+    -95.968575,
+    35.991381,
+    -95.968575,
+    35.991381
+],
   "geometry": {"coordinates":[-95.968575,35.991381],"type":"Point"}
 }

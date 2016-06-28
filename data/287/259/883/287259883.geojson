@@ -2,13 +2,14 @@
   "id": 287259883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.921452,35.856326,-94.921452,35.856326",
     "geom:latitude":35.856326,
     "geom:longitude":-94.921452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21500 Sequoyah Club Dr",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287259883,
-    "wof:lastmodified":1449000870,
+    "wof:lastmodified":1466762832,
     "wof:name":"McFarland Excavation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "excavation"
     ]
 },
-  "bbox": [-94.921452,35.856326,-94.921452,35.856326],
+  "bbox": [
+    -94.921452,
+    35.856326,
+    -94.921452,
+    35.856326
+],
   "geometry": {"coordinates":[-94.921452,35.856326],"type":"Point"}
 }

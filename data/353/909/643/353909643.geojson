@@ -2,13 +2,14 @@
   "id": 353909643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.460507,35.713274,-97.460507,35.713274",
     "geom:latitude":35.713274,
     "geom:longitude":-97.460507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6009 N Bryant Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353909643,
-    "wof:lastmodified":1449020174,
+    "wof:lastmodified":1466765564,
     "wof:name":"Danielson Veterinarian Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "animal"
     ]
 },
-  "bbox": [-97.460507,35.713274,-97.460507,35.713274],
-  "geometry": {"coordinates":[-97.460507,35.713274],"type":"Point"}
+  "bbox": [
+    -97.460507,
+    35.713274,
+    -97.460507,
+    35.713274
+],
+  "geometry": {"coordinates":[-97.46050700000001,35.713274],"type":"Point"}
 }

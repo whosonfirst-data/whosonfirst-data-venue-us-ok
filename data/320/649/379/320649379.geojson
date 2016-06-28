@@ -2,13 +2,14 @@
   "id": 320649379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.642202,35.516303,-97.642202,35.516303",
     "geom:latitude":35.516303,
     "geom:longitude":-97.642202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 N Martin Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320649379,
-    "wof:lastmodified":1449013819,
+    "wof:lastmodified":1466766393,
     "wof:name":"Fun Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.642202,35.516303,-97.642202,35.516303],
+  "bbox": [
+    -97.642202,
+    35.516303,
+    -97.642202,
+    35.516303
+],
   "geometry": {"coordinates":[-97.642202,35.516303],"type":"Point"}
 }

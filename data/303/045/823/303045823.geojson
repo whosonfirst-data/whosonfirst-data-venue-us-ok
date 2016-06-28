@@ -2,13 +2,14 @@
   "id": 303045823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751792,35.983109,-96.751792,35.983109",
     "geom:latitude":35.983109,
     "geom:longitude":-96.751792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 E Maple St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303045823,
-    "wof:lastmodified":1449000282,
+    "wof:lastmodified":1466762353,
     "wof:name":"Reed Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-96.751792,35.983109,-96.751792,35.983109],
-  "geometry": {"coordinates":[-96.751792,35.983109],"type":"Point"}
+  "bbox": [
+    -96.751792,
+    35.983109,
+    -96.751792,
+    35.983109
+],
+  "geometry": {"coordinates":[-96.75179199999999,35.983109],"type":"Point"}
 }

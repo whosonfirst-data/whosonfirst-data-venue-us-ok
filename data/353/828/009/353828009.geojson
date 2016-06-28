@@ -2,13 +2,14 @@
   "id": 353828009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.97817,36.752119,-95.97817,36.752119",
     "geom:latitude":36.752119,
     "geom:longitude":-95.97817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 W 2nd St",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353828009,
-    "wof:lastmodified":1449019565,
+    "wof:lastmodified":1466765525,
     "wof:name":"Ray Tingler Portraits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.97817,36.752119,-95.97817,36.752119],
-  "geometry": {"coordinates":[-95.97817,36.752119],"type":"Point"}
+  "bbox": [
+    -95.97817,
+    36.752119,
+    -95.97817,
+    36.752119
+],
+  "geometry": {"coordinates":[-95.97817000000001,36.752119],"type":"Point"}
 }

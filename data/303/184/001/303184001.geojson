@@ -2,13 +2,14 @@
   "id": 303184001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517642,35.435155,-97.517642,35.435155",
     "geom:latitude":35.435155,
     "geom:longitude":-97.517642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 SW 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303184001,
-    "wof:lastmodified":1448998530,
+    "wof:lastmodified":1466764451,
     "wof:name":"Walker Tire Co",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.517642,35.435155,-97.517642,35.435155],
+  "bbox": [
+    -97.517642,
+    35.435155,
+    -97.517642,
+    35.435155
+],
   "geometry": {"coordinates":[-97.517642,35.435155],"type":"Point"}
 }

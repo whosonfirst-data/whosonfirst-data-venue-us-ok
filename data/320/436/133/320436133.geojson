@@ -2,13 +2,14 @@
   "id": 320436133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.636703,35.509261,-97.636703,35.509261",
     "geom:latitude":35.509261,
     "geom:longitude":-97.636703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3703 N Rockwell Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320436133,
-    "wof:lastmodified":1449014608,
+    "wof:lastmodified":1466765793,
     "wof:name":"Bethany Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-97.636703,35.509261,-97.636703,35.509261],
+  "bbox": [
+    -97.636703,
+    35.509261,
+    -97.636703,
+    35.509261
+],
   "geometry": {"coordinates":[-97.636703,35.509261],"type":"Point"}
 }

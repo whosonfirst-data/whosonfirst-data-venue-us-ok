@@ -2,13 +2,14 @@
   "id": 303262275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.448957,35.411774,-99.448957,35.411774",
     "geom:latitude":35.411774,
     "geom:longitude":-99.448957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3611 W 3rd St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303262275,
-    "wof:lastmodified":1448999632,
+    "wof:lastmodified":1466764766,
     "wof:name":"Key Energy Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "oil"
     ]
 },
-  "bbox": [-99.448957,35.411774,-99.448957,35.411774],
-  "geometry": {"coordinates":[-99.448957,35.411774],"type":"Point"}
+  "bbox": [
+    -99.448957,
+    35.411774,
+    -99.448957,
+    35.411774
+],
+  "geometry": {"coordinates":[-99.44895699999999,35.411774],"type":"Point"}
 }

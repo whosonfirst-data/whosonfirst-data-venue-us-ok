@@ -2,13 +2,14 @@
   "id": 336818443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.632842,35.471524,-97.632842,35.471524",
     "geom:latitude":35.471524,
     "geom:longitude":-97.632842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6922 Melrose Ln",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336818443,
-    "wof:lastmodified":1448997481,
+    "wof:lastmodified":1466764765,
     "wof:name":"Golf Car Factory Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-97.632842,35.471524,-97.632842,35.471524],
+  "bbox": [
+    -97.632842,
+    35.471524,
+    -97.632842,
+    35.471524
+],
   "geometry": {"coordinates":[-97.632842,35.471524],"type":"Point"}
 }

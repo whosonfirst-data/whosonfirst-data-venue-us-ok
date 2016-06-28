@@ -2,13 +2,14 @@
   "id": 320194815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.876373,36.874745,-94.876373,36.874745",
     "geom:latitude":36.874745,
     "geom:longitude":-94.876373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 E Central Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320194815,
-    "wof:lastmodified":1449014435,
+    "wof:lastmodified":1466764568,
     "wof:name":"Jerry Hanson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.876373,36.874745,-94.876373,36.874745],
+  "bbox": [
+    -94.876373,
+    36.874745,
+    -94.876373,
+    36.874745
+],
   "geometry": {"coordinates":[-94.876373,36.874745],"type":"Point"}
 }

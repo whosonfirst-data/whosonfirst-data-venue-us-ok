@@ -2,13 +2,14 @@
   "id": 303993055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975787,36.070629,-95.975787,36.070629",
     "geom:latitude":36.070629,
     "geom:longitude":-95.975787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6333 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303993055,
-    "wof:lastmodified":1448999202,
+    "wof:lastmodified":1466767077,
     "wof:name":"BGI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.975787,36.070629,-95.975787,36.070629],
+  "bbox": [
+    -95.975787,
+    36.070629,
+    -95.975787,
+    36.070629
+],
   "geometry": {"coordinates":[-95.975787,36.070629],"type":"Point"}
 }

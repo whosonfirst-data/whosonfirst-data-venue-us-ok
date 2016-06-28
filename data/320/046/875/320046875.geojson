@@ -2,13 +2,14 @@
   "id": 320046875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.395718,36.433712,-99.395718,36.433712",
     "geom:latitude":36.433712,
     "geom:longitude":-99.395718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Oklahoma Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320046875,
-    "wof:lastmodified":1449013330,
+    "wof:lastmodified":1466762984,
     "wof:name":"Downtown Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-99.395718,36.433712,-99.395718,36.433712],
+  "bbox": [
+    -99.395718,
+    36.433712,
+    -99.395718,
+    36.433712
+],
   "geometry": {"coordinates":[-99.395718,36.433712],"type":"Point"}
 }

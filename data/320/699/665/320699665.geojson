@@ -2,13 +2,14 @@
   "id": 320699665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.405943,35.391846,-97.405943,35.391846",
     "geom:latitude":35.391846,
     "geom:longitude":-97.405943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 S Air Depot Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320699665,
-    "wof:lastmodified":1449011763,
+    "wof:lastmodified":1466766547,
     "wof:name":"Ctx Of Michigan LLC",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "expediters"
     ]
 },
-  "bbox": [-97.405943,35.391846,-97.405943,35.391846],
-  "geometry": {"coordinates":[-97.405943,35.391846],"type":"Point"}
+  "bbox": [
+    -97.405943,
+    35.391846,
+    -97.405943,
+    35.391846
+],
+  "geometry": {"coordinates":[-97.40594299999999,35.391846],"type":"Point"}
 }

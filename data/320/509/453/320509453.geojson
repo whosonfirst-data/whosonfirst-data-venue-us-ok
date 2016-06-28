@@ -2,13 +2,14 @@
   "id": 320509453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531034,35.387453,-97.531034,35.387453",
     "geom:latitude":35.387453,
     "geom:longitude":-97.531034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"928 Straka Ter",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320509453,
-    "wof:lastmodified":1449011414,
+    "wof:lastmodified":1466766079,
     "wof:name":"Skytech Corp",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-97.531034,35.387453,-97.531034,35.387453],
-  "geometry": {"coordinates":[-97.531034,35.387453],"type":"Point"}
+  "bbox": [
+    -97.531034,
+    35.387453,
+    -97.531034,
+    35.387453
+],
+  "geometry": {"coordinates":[-97.53103400000001,35.387453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303245425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.061005,36.879651,-97.061005,36.879651",
     "geom:latitude":36.879651,
     "geom:longitude":-97.061005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 S Apple Ave",
     "sg:city":"Newkirk",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303245425,
-    "wof:lastmodified":1449000485,
+    "wof:lastmodified":1466764597,
     "wof:name":"Sherry A Barry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.061005,36.879651,-97.061005,36.879651],
-  "geometry": {"coordinates":[-97.061005,36.879651],"type":"Point"}
+  "bbox": [
+    -97.061005,
+    36.879651,
+    -97.061005,
+    36.879651
+],
+  "geometry": {"coordinates":[-97.06100499999999,36.879651],"type":"Point"}
 }

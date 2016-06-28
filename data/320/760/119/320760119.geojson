@@ -2,13 +2,14 @@
   "id": 320760119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.769646,34.933341,-95.769646,34.933341",
     "geom:latitude":34.933341,
     "geom:longitude":-95.769646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 E Carl Albert Pkwy",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320760119,
-    "wof:lastmodified":1449014821,
+    "wof:lastmodified":1466766692,
     "wof:name":"Christian Counseling-Mclstr",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-95.769646,34.933341,-95.769646,34.933341],
-  "geometry": {"coordinates":[-95.769646,34.933341],"type":"Point"}
+  "bbox": [
+    -95.769646,
+    34.933341,
+    -95.769646,
+    34.933341
+],
+  "geometry": {"coordinates":[-95.76964599999999,34.933341],"type":"Point"}
 }

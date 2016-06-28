@@ -2,13 +2,14 @@
   "id": 320055359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.818114,36.176177,-95.818114,36.176177",
     "geom:latitude":36.176177,
     "geom:longitude":-95.818114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1336 N 143rd East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320055359,
-    "wof:lastmodified":1449012095,
+    "wof:lastmodified":1466763112,
     "wof:name":"Red Man Pipe & Supply Co",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-95.818114,36.176177,-95.818114,36.176177],
-  "geometry": {"coordinates":[-95.818114,36.176177],"type":"Point"}
+  "bbox": [
+    -95.818114,
+    36.176177,
+    -95.818114,
+    36.176177
+],
+  "geometry": {"coordinates":[-95.81811399999999,36.176177],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303708857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.934857,35.030176,-97.934857,35.030176",
     "geom:latitude":35.030176,
     "geom:longitude":-97.934857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2023 US Hwy 81",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303708857,
-    "wof:lastmodified":1448998503,
+    "wof:lastmodified":1466766503,
     "wof:name":"Leroy Hankins Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.934857,35.030176,-97.934857,35.030176],
-  "geometry": {"coordinates":[-97.934857,35.030176],"type":"Point"}
+  "bbox": [
+    -97.934857,
+    35.030176,
+    -97.934857,
+    35.030176
+],
+  "geometry": {"coordinates":[-97.93485699999999,35.030176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287124643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.630063,35.522425,-97.630063,35.522425",
     "geom:latitude":35.522425,
     "geom:longitude":-97.630063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6735 NW 50th St",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287124643,
-    "wof:lastmodified":1449001521,
+    "wof:lastmodified":1466763584,
     "wof:name":"Barnes Grocery",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.630063,35.522425,-97.630063,35.522425],
-  "geometry": {"coordinates":[-97.630063,35.522425],"type":"Point"}
+  "bbox": [
+    -97.630063,
+    35.522425,
+    -97.630063,
+    35.522425
+],
+  "geometry": {"coordinates":[-97.63006300000001,35.522425],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303439985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.825586,36.122213,-95.825586,36.122213",
     "geom:latitude":36.122213,
     "geom:longitude":-95.825586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2849 S 136th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303439985,
-    "wof:lastmodified":1448998786,
+    "wof:lastmodified":1466765632,
     "wof:name":"Freeman Agency",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.825586,36.122213,-95.825586,36.122213],
+  "bbox": [
+    -95.825586,
+    36.122213,
+    -95.825586,
+    36.122213
+],
   "geometry": {"coordinates":[-95.825586,36.122213],"type":"Point"}
 }

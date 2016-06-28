@@ -2,13 +2,14 @@
   "id": 336685215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.370765,35.422776,-97.370765,35.422776",
     "geom:latitude":35.422776,
     "geom:longitude":-97.370765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 S Douglas Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336685215,
-    "wof:lastmodified":1448997973,
+    "wof:lastmodified":1466763492,
     "wof:name":"Whorton's Auto & Tire Shop",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.370765,35.422776,-97.370765,35.422776],
-  "geometry": {"coordinates":[-97.370765,35.422776],"type":"Point"}
+  "bbox": [
+    -97.370765,
+    35.422776,
+    -97.370765,
+    35.422776
+],
+  "geometry": {"coordinates":[-97.37076500000001,35.422776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320662047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.489646,35.638207,-97.489646,35.638207",
     "geom:latitude":35.638207,
     "geom:longitude":-97.489646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 W 15th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320662047,
-    "wof:lastmodified":1449013801,
+    "wof:lastmodified":1466766368,
     "wof:name":"Core Physical Therapy",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-97.489646,35.638207,-97.489646,35.638207],
-  "geometry": {"coordinates":[-97.489646,35.638207],"type":"Point"}
+  "bbox": [
+    -97.489646,
+    35.638207,
+    -97.489646,
+    35.638207
+],
+  "geometry": {"coordinates":[-97.48964599999999,35.638207],"type":"Point"}
 }

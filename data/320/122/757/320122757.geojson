@@ -2,13 +2,14 @@
   "id": 320122757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.031225,36.115911,-97.031225,36.115911",
     "geom:latitude":36.115911,
     "geom:longitude":-97.031225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2215 E 6th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320122757,
-    "wof:lastmodified":1449013379,
+    "wof:lastmodified":1466764132,
     "wof:name":"Karrakers Kar Kare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "general"
     ]
 },
-  "bbox": [-97.031225,36.115911,-97.031225,36.115911],
-  "geometry": {"coordinates":[-97.031225,36.115911],"type":"Point"}
+  "bbox": [
+    -97.031225,
+    36.115911,
+    -97.031225,
+    36.115911
+],
+  "geometry": {"coordinates":[-97.03122500000001,36.115911],"type":"Point"}
 }

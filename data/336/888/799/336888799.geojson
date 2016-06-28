@@ -2,13 +2,14 @@
   "id": 336888799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.862018,36.117315,-95.862018,36.117315",
     "geom:latitude":36.117315,
     "geom:longitude":-95.862018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10149 E 32nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336888799,
-    "wof:lastmodified":1448997609,
+    "wof:lastmodified":1466765164,
     "wof:name":"Salida Creek Apartments",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.862018,36.117315,-95.862018,36.117315],
-  "geometry": {"coordinates":[-95.862018,36.117315],"type":"Point"}
+  "bbox": [
+    -95.862018,
+    36.117315,
+    -95.862018,
+    36.117315
+],
+  "geometry": {"coordinates":[-95.86201800000001,36.117315],"type":"Point"}
 }

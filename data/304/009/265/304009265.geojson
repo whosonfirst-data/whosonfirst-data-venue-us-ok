@@ -2,13 +2,14 @@
   "id": 304009265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.469939,36.322419,-96.469939,36.322419",
     "geom:latitude":36.322419,
     "geom:longitude":-96.469939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Baptist Village Rd",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304009265,
-    "wof:lastmodified":1449044151,
+    "wof:lastmodified":1466762867,
     "wof:name":"Baptist Retirement Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-96.469939,36.322419,-96.469939,36.322419],
+  "bbox": [
+    -96.469939,
+    36.322419,
+    -96.469939,
+    36.322419
+],
   "geometry": {"coordinates":[-96.469939,36.322419],"type":"Point"}
 }

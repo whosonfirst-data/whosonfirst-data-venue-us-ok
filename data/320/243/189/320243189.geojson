@@ -2,13 +2,14 @@
   "id": 320243189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.112815,36.149859,-96.112815,36.149859",
     "geom:latitude":36.149859,
     "geom:longitude":-96.112815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 N Roosevelt Ave",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320243189,
-    "wof:lastmodified":1449012486,
+    "wof:lastmodified":1466764916,
     "wof:name":"Metropolitan Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-96.112815,36.149859,-96.112815,36.149859],
+  "bbox": [
+    -96.112815,
+    36.149859,
+    -96.112815,
+    36.149859
+],
   "geometry": {"coordinates":[-96.112815,36.149859],"type":"Point"}
 }

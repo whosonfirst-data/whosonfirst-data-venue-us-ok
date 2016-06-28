@@ -2,13 +2,14 @@
   "id": 303472421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.880631,36.054992,-95.880631,36.054992",
     "geom:latitude":36.054992,
     "geom:longitude":-95.880631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8715 E 75th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303472421,
-    "wof:lastmodified":1448998310,
+    "wof:lastmodified":1466765746,
     "wof:name":"Alside",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "siding"
     ]
 },
-  "bbox": [-95.880631,36.054992,-95.880631,36.054992],
-  "geometry": {"coordinates":[-95.880631,36.054992],"type":"Point"}
+  "bbox": [
+    -95.880631,
+    36.054992,
+    -95.880631,
+    36.054992
+],
+  "geometry": {"coordinates":[-95.88063099999999,36.054992],"type":"Point"}
 }

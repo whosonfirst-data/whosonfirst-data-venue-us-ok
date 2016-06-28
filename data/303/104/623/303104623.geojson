@@ -2,13 +2,14 @@
   "id": 303104623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886539,36.079769,-95.886539,36.079769",
     "geom:latitude":36.079769,
     "geom:longitude":-95.886539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5840 S Memorial Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303104623,
-    "wof:lastmodified":1448999126,
+    "wof:lastmodified":1466763313,
     "wof:name":"Wenzel Design",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-95.886539,36.079769,-95.886539,36.079769],
+  "bbox": [
+    -95.886539,
+    36.079769,
+    -95.886539,
+    36.079769
+],
   "geometry": {"coordinates":[-95.886539,36.079769],"type":"Point"}
 }

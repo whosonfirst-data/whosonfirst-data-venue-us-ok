@@ -2,13 +2,14 @@
   "id": 336846971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.922248,36.072526,-95.922248,36.072526",
     "geom:latitude":36.072526,
     "geom:longitude":-95.922248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6120 S Yale Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336846971,
-    "wof:lastmodified":1448997796,
+    "wof:lastmodified":1466764813,
     "wof:name":"Edwards & Huffman",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-95.922248,36.072526,-95.922248,36.072526],
+  "bbox": [
+    -95.922248,
+    36.072526,
+    -95.922248,
+    36.072526
+],
   "geometry": {"coordinates":[-95.922248,36.072526],"type":"Point"}
 }

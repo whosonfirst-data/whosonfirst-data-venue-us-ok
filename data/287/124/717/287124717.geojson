@@ -2,13 +2,14 @@
   "id": 287124717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.965384,36.177009,-95.965384,36.177009",
     "geom:latitude":36.177009,
     "geom:longitude":-95.965384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1706 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287124717,
-    "wof:lastmodified":1449001518,
+    "wof:lastmodified":1466763586,
     "wof:name":"Smokeys Jumbo Burger",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.965384,36.177009,-95.965384,36.177009],
+  "bbox": [
+    -95.965384,
+    36.177009,
+    -95.965384,
+    36.177009
+],
   "geometry": {"coordinates":[-95.965384,36.177009],"type":"Point"}
 }

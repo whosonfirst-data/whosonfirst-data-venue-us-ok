@@ -2,13 +2,14 @@
   "id": 303746335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.076264,36.113352,-96.076264,36.113352",
     "geom:latitude":36.113352,
     "geom:longitude":-96.076264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7514 W 34th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303746335,
-    "wof:lastmodified":1448998095,
+    "wof:lastmodified":1466766493,
     "wof:name":"Sign Service of Tulsa Inc",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.076264,36.113352,-96.076264,36.113352],
-  "geometry": {"coordinates":[-96.076264,36.113352],"type":"Point"}
+  "bbox": [
+    -96.076264,
+    36.113352,
+    -96.076264,
+    36.113352
+],
+  "geometry": {"coordinates":[-96.07626399999999,36.113352],"type":"Point"}
 }

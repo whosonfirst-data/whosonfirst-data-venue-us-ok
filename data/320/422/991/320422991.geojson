@@ -2,13 +2,14 @@
   "id": 320422991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.390538,36.435873,-99.390538,36.435873",
     "geom:latitude":36.435873,
     "geom:longitude":-99.390538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Main Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320422991,
-    "wof:lastmodified":1449011504,
+    "wof:lastmodified":1466765745,
     "wof:name":"Heavenly Scents",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.390538,36.435873,-99.390538,36.435873],
-  "geometry": {"coordinates":[-99.390538,36.435873],"type":"Point"}
+  "bbox": [
+    -99.390538,
+    36.435873,
+    -99.390538,
+    36.435873
+],
+  "geometry": {"coordinates":[-99.39053800000001,36.435873],"type":"Point"}
 }

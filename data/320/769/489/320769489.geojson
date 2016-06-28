@@ -2,13 +2,14 @@
   "id": 320769489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.532247,34.624449,-98.532247,34.624449",
     "geom:latitude":34.624449,
     "geom:longitude":-98.532247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Winding Creek Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320769489,
-    "wof:lastmodified":1449012515,
+    "wof:lastmodified":1466766754,
     "wof:name":"KVRS",
     "wof:parent_id":85815375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-98.532247,34.624449,-98.532247,34.624449],
+  "bbox": [
+    -98.532247,
+    34.624449,
+    -98.532247,
+    34.624449
+],
   "geometry": {"coordinates":[-98.532247,34.624449],"type":"Point"}
 }

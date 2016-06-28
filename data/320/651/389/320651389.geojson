@@ -2,13 +2,14 @@
   "id": 320651389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.471814,36.69936,-101.471814,36.69936",
     "geom:latitude":36.69936,
     "geom:longitude":-101.471814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 N Chisholm Dr",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320651389,
-    "wof:lastmodified":1449012003,
+    "wof:lastmodified":1466766402,
     "wof:name":"Charles E Kirtley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "emergency"
     ]
 },
-  "bbox": [-101.471814,36.69936,-101.471814,36.69936],
-  "geometry": {"coordinates":[-101.471814,36.69936],"type":"Point"}
+  "bbox": [
+    -101.471814,
+    36.69936,
+    -101.471814,
+    36.69936
+],
+  "geometry": {"coordinates":[-101.47181399999999,36.69936],"type":"Point"}
 }

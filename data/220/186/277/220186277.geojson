@@ -2,13 +2,14 @@
   "id": 220186277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935237,36.19162,-95.935237,36.19162",
     "geom:latitude":36.19162,
     "geom:longitude":-95.935237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3727 E Apache St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220186277,
-    "wof:lastmodified":1449074664,
+    "wof:lastmodified":1466762379,
     "wof:name":"Tulsa Community College",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-95.935237,36.19162,-95.935237,36.19162],
+  "bbox": [
+    -95.935237,
+    36.19162,
+    -95.935237,
+    36.19162
+],
   "geometry": {"coordinates":[-95.935237,36.19162],"type":"Point"}
 }

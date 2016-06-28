@@ -2,13 +2,14 @@
   "id": 353536737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975087,35.621507,-95.975087,35.621507",
     "geom:latitude":35.621507,
     "geom:longitude":-95.975087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 W 8th St",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353536737,
-    "wof:lastmodified":1449019792,
+    "wof:lastmodified":1466763657,
     "wof:name":"Okmulgee County 911 Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-95.975087,35.621507,-95.975087,35.621507],
+  "bbox": [
+    -95.975087,
+    35.621507,
+    -95.975087,
+    35.621507
+],
   "geometry": {"coordinates":[-95.975087,35.621507],"type":"Point"}
 }

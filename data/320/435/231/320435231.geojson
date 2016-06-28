@@ -2,13 +2,14 @@
   "id": 320435231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.839841,36.088828,-95.839841,36.088828",
     "geom:latitude":36.088828,
     "geom:longitude":-95.839841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12535 E 52nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320435231,
-    "wof:lastmodified":1449014619,
+    "wof:lastmodified":1466765902,
     "wof:name":"Graebel-Oklahoma Movers Inc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-95.839841,36.088828,-95.839841,36.088828],
-  "geometry": {"coordinates":[-95.839841,36.088828],"type":"Point"}
+  "bbox": [
+    -95.839841,
+    36.088828,
+    -95.839841,
+    36.088828
+],
+  "geometry": {"coordinates":[-95.83984100000001,36.088828],"type":"Point"}
 }

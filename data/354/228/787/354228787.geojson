@@ -2,13 +2,14 @@
   "id": 354228787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.99511,36.147837,-95.99511,36.147837",
     "geom:latitude":36.147837,
     "geom:longitude":-95.99511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 W 7th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354228787,
-    "wof:lastmodified":1449066440,
+    "wof:lastmodified":1466764105,
     "wof:name":"Central Park Owners Assn",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "owner"
     ]
 },
-  "bbox": [-95.99511,36.147837,-95.99511,36.147837],
+  "bbox": [
+    -95.99511,
+    36.147837,
+    -95.99511,
+    36.147837
+],
   "geometry": {"coordinates":[-95.99511,36.147837],"type":"Point"}
 }

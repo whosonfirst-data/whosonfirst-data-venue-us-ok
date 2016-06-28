@@ -2,13 +2,14 @@
   "id": 287271879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.332199,35.668087,-95.332199,35.668087",
     "geom:latitude":35.668087,
     "geom:longitude":-95.332199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2650 E Davis Field Rd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287271879,
-    "wof:lastmodified":1449001132,
+    "wof:lastmodified":1466763019,
     "wof:name":"Crowning Moments",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bridal"
     ]
 },
-  "bbox": [-95.332199,35.668087,-95.332199,35.668087],
+  "bbox": [
+    -95.332199,
+    35.668087,
+    -95.332199,
+    35.668087
+],
   "geometry": {"coordinates":[-95.332199,35.668087],"type":"Point"}
 }

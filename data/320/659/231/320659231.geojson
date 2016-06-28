@@ -2,13 +2,14 @@
   "id": 320659231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.422113,34.625897,-98.422113,34.625897",
     "geom:latitude":34.625897,
     "geom:longitude":-98.422113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 NW Sheridan Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320659231,
-    "wof:lastmodified":1449011644,
+    "wof:lastmodified":1466766554,
     "wof:name":"Sun's Barber Shop",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.422113,34.625897,-98.422113,34.625897],
+  "bbox": [
+    -98.422113,
+    34.625897,
+    -98.422113,
+    34.625897
+],
   "geometry": {"coordinates":[-98.422113,34.625897],"type":"Point"}
 }

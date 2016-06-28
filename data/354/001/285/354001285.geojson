@@ -2,13 +2,14 @@
   "id": 354001285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.000431,36.101413,-96.000431,36.101413",
     "geom:latitude":36.101413,
     "geom:longitude":-96.000431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4530 S Jackson Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354001285,
-    "wof:lastmodified":1449066311,
+    "wof:lastmodified":1466762916,
     "wof:name":"Challenger Services",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.000431,36.101413,-96.000431,36.101413],
-  "geometry": {"coordinates":[-96.000431,36.101413],"type":"Point"}
+  "bbox": [
+    -96.000431,
+    36.101413,
+    -96.000431,
+    36.101413
+],
+  "geometry": {"coordinates":[-96.00043100000001,36.101413],"type":"Point"}
 }

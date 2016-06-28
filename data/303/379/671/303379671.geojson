@@ -2,13 +2,14 @@
   "id": 303379671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.678424,35.750792,-96.678424,35.750792",
     "geom:latitude":35.750792,
     "geom:longitude":-96.678424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 State Hwy 66",
     "sg:city":"Stroud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303379671,
-    "wof:lastmodified":1448999544,
+    "wof:lastmodified":1466765319,
     "wof:name":"Friends Arts & Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.678424,35.750792,-96.678424,35.750792],
-  "geometry": {"coordinates":[-96.678424,35.750792],"type":"Point"}
+  "bbox": [
+    -96.678424,
+    35.750792,
+    -96.678424,
+    35.750792
+],
+  "geometry": {"coordinates":[-96.67842400000001,35.750792],"type":"Point"}
 }

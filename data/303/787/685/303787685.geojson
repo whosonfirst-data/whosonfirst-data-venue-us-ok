@@ -2,13 +2,14 @@
   "id": 303787685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494526,35.33221,-97.494526,35.33221",
     "geom:latitude":35.33221,
     "geom:longitude":-97.494526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 S Telephone Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303787685,
-    "wof:lastmodified":1448999224,
+    "wof:lastmodified":1466766709,
     "wof:name":"Sooner Inventory Svc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-97.494526,35.33221,-97.494526,35.33221],
-  "geometry": {"coordinates":[-97.494526,35.33221],"type":"Point"}
+  "bbox": [
+    -97.494526,
+    35.33221,
+    -97.494526,
+    35.33221
+],
+  "geometry": {"coordinates":[-97.49452599999999,35.33221],"type":"Point"}
 }

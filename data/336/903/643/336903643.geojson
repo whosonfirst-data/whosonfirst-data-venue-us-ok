@@ -2,13 +2,14 @@
   "id": 336903643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.51309,35.479098,-97.51309,35.479098",
     "geom:latitude":35.479098,
     "geom:longitude":-97.51309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 W Park Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336903643,
-    "wof:lastmodified":1448996989,
+    "wof:lastmodified":1466765339,
     "wof:name":"T N T Print Inc",
     "wof:parent_id":85871669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-97.51309,35.479098,-97.51309,35.479098],
-  "geometry": {"coordinates":[-97.51309,35.479098],"type":"Point"}
+  "bbox": [
+    -97.51309,
+    35.479098,
+    -97.51309,
+    35.479098
+],
+  "geometry": {"coordinates":[-97.51309000000001,35.479098],"type":"Point"}
 }

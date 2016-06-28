@@ -2,13 +2,14 @@
   "id": 303814315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547863,35.419179,-97.547863,35.419179",
     "geom:latitude":35.419179,
     "geom:longitude":-97.547863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4640 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303814315,
-    "wof:lastmodified":1448998567,
+    "wof:lastmodified":1466766742,
     "wof:name":"Community Thrift Credit Card",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-97.547863,35.419179,-97.547863,35.419179],
-  "geometry": {"coordinates":[-97.547863,35.419179],"type":"Point"}
+  "bbox": [
+    -97.547863,
+    35.419179,
+    -97.547863,
+    35.419179
+],
+  "geometry": {"coordinates":[-97.54786300000001,35.419179],"type":"Point"}
 }

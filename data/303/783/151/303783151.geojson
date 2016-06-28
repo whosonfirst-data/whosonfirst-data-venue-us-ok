@@ -2,13 +2,14 @@
   "id": 303783151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.924025,36.143182,-95.924025,36.143182",
     "geom:latitude":36.143182,
     "geom:longitude":-95.924025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4624 E 13th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303783151,
-    "wof:lastmodified":1448998195,
+    "wof:lastmodified":1466766697,
     "wof:name":"Tulsa Direct Mail",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "direct"
     ]
 },
-  "bbox": [-95.924025,36.143182,-95.924025,36.143182],
+  "bbox": [
+    -95.924025,
+    36.143182,
+    -95.924025,
+    36.143182
+],
   "geometry": {"coordinates":[-95.924025,36.143182],"type":"Point"}
 }

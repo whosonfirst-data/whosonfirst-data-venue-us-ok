@@ -2,13 +2,14 @@
   "id": 303954765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.677906,34.235659,-96.677906,34.235659",
     "geom:latitude":34.235659,
     "geom:longitude":-96.677906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Neshoba Ave",
     "sg:city":"Tishomingo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303954765,
-    "wof:lastmodified":1449000249,
+    "wof:lastmodified":1466767042,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.677906,34.235659,-96.677906,34.235659],
-  "geometry": {"coordinates":[-96.677906,34.235659],"type":"Point"}
+  "bbox": [
+    -96.677906,
+    34.235659,
+    -96.677906,
+    34.235659
+],
+  "geometry": {"coordinates":[-96.67790599999999,34.235659],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320626439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.354204,35.754981,-95.354204,35.754981",
     "geom:latitude":35.754981,
     "geom:longitude":-95.354204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 Gibson St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320626439,
-    "wof:lastmodified":1449014968,
+    "wof:lastmodified":1466766342,
     "wof:name":"Liberty Baptist Temple",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.354204,35.754981,-95.354204,35.754981],
+  "bbox": [
+    -95.354204,
+    35.754981,
+    -95.354204,
+    35.754981
+],
   "geometry": {"coordinates":[-95.354204,35.754981],"type":"Point"}
 }

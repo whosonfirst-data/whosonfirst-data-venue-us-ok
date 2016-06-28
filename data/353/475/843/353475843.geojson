@@ -2,13 +2,14 @@
   "id": 353475843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.269459,35.774519,-95.269459,35.774519",
     "geom:latitude":35.774519,
     "geom:longitude":-95.269459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 State Hwy 10",
     "sg:city":"Braggs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353475843,
-    "wof:lastmodified":1449019304,
+    "wof:lastmodified":1466762853,
     "wof:name":"Camp Gruber Gate & Local",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-95.269459,35.774519,-95.269459,35.774519],
+  "bbox": [
+    -95.269459,
+    35.774519,
+    -95.269459,
+    35.774519
+],
   "geometry": {"coordinates":[-95.269459,35.774519],"type":"Point"}
 }

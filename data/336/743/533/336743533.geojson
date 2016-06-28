@@ -2,13 +2,14 @@
   "id": 336743533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.952304,35.610558,-95.952304,35.610558",
     "geom:latitude":35.610558,
     "geom:longitude":-95.952304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Morris Dr",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336743533,
-    "wof:lastmodified":1448998001,
+    "wof:lastmodified":1466764362,
     "wof:name":"Okmulgee Physician Referral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dr"
     ]
 },
-  "bbox": [-95.952304,35.610558,-95.952304,35.610558],
+  "bbox": [
+    -95.952304,
+    35.610558,
+    -95.952304,
+    35.610558
+],
   "geometry": {"coordinates":[-95.952304,35.610558],"type":"Point"}
 }

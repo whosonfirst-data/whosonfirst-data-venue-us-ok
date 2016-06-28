@@ -2,13 +2,14 @@
   "id": 336738505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967256,36.176968,-95.967256,36.176968",
     "geom:latitude":36.176968,
     "geom:longitude":-95.967256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1636 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336738505,
-    "wof:lastmodified":1448997718,
+    "wof:lastmodified":1466764336,
     "wof:name":"Automotive Engines",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-95.967256,36.176968,-95.967256,36.176968],
-  "geometry": {"coordinates":[-95.967256,36.176968],"type":"Point"}
+  "bbox": [
+    -95.967256,
+    36.176968,
+    -95.967256,
+    36.176968
+],
+  "geometry": {"coordinates":[-95.96725600000001,36.176968],"type":"Point"}
 }

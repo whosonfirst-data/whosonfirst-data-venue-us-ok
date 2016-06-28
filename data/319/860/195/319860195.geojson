@@ -2,13 +2,14 @@
   "id": 319860195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.391849,34.60528,-98.391849,34.60528",
     "geom:latitude":34.60528,
     "geom:longitude":-98.391849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 SW C Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319860195,
-    "wof:lastmodified":1449024444,
+    "wof:lastmodified":1466763267,
     "wof:name":"Krunk",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.391849,34.60528,-98.391849,34.60528],
-  "geometry": {"coordinates":[-98.391849,34.60528],"type":"Point"}
+  "bbox": [
+    -98.391849,
+    34.60528,
+    -98.391849,
+    34.60528
+],
+  "geometry": {"coordinates":[-98.39184899999999,34.60528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320256587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.989032,35.30076,-98.989032,35.30076",
     "geom:latitude":35.30076,
     "geom:longitude":-98.989032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 N Market St",
     "sg:city":"Cordell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320256587,
-    "wof:lastmodified":1449014074,
+    "wof:lastmodified":1466765004,
     "wof:name":"Bible M B Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.989032,35.30076,-98.989032,35.30076],
-  "geometry": {"coordinates":[-98.989032,35.30076],"type":"Point"}
+  "bbox": [
+    -98.989032,
+    35.30076,
+    -98.989032,
+    35.30076
+],
+  "geometry": {"coordinates":[-98.98903199999999,35.30076],"type":"Point"}
 }

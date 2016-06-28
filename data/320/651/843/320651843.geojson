@@ -2,13 +2,14 @@
   "id": 320651843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.554621,35.444486,-97.554621,35.444486",
     "geom:latitude":35.444486,
     "geom:longitude":-97.554621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 S Agnew Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320651843,
-    "wof:lastmodified":1449012000,
+    "wof:lastmodified":1466766404,
     "wof:name":"Brotherton Automotive",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.554621,35.444486,-97.554621,35.444486],
+  "bbox": [
+    -97.554621,
+    35.444486,
+    -97.554621,
+    35.444486
+],
   "geometry": {"coordinates":[-97.554621,35.444486],"type":"Point"}
 }

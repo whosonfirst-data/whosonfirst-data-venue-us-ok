@@ -2,13 +2,14 @@
   "id": 320127305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.309725,36.693657,-97.309725,36.693657",
     "geom:latitude":36.693657,
     "geom:longitude":-97.309725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 N Main St",
     "sg:city":"Tonkawa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320127305,
-    "wof:lastmodified":1449014656,
+    "wof:lastmodified":1466764251,
     "wof:name":"Alpha II Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-97.309725,36.693657,-97.309725,36.693657],
+  "bbox": [
+    -97.309725,
+    36.693657,
+    -97.309725,
+    36.693657
+],
   "geometry": {"coordinates":[-97.309725,36.693657],"type":"Point"}
 }

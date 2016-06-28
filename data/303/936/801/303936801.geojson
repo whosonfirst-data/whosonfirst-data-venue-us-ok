@@ -2,13 +2,14 @@
   "id": 303936801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.828302,36.038013,-95.828302,36.038013",
     "geom:latitude":36.038013,
     "geom:longitude":-95.828302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 S Kalanchoe Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303936801,
-    "wof:lastmodified":1448998932,
+    "wof:lastmodified":1466767024,
     "wof:name":"Images By Robert Pineiro",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.828302,36.038013,-95.828302,36.038013],
-  "geometry": {"coordinates":[-95.828302,36.038013],"type":"Point"}
+  "bbox": [
+    -95.828302,
+    36.038013,
+    -95.828302,
+    36.038013
+],
+  "geometry": {"coordinates":[-95.82830199999999,36.038013],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320334961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534359,35.473153,-97.534359,35.473153",
     "geom:latitude":35.473153,
     "geom:longitude":-97.534359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 NW 5th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320334961,
-    "wof:lastmodified":1449012359,
+    "wof:lastmodified":1466765382,
     "wof:name":"Art Trends Inc",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "advertising"
     ]
 },
-  "bbox": [-97.534359,35.473153,-97.534359,35.473153],
-  "geometry": {"coordinates":[-97.534359,35.473153],"type":"Point"}
+  "bbox": [
+    -97.534359,
+    35.473153,
+    -97.534359,
+    35.473153
+],
+  "geometry": {"coordinates":[-97.53435899999999,35.473153],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303758421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.623066,35.503266,-97.623066,35.503266",
     "geom:latitude":35.503266,
     "geom:longitude":-97.623066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 N Hammond Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303758421,
-    "wof:lastmodified":1448998856,
+    "wof:lastmodified":1466766641,
     "wof:name":"Jernigan Memorial Church",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.623066,35.503266,-97.623066,35.503266],
-  "geometry": {"coordinates":[-97.623066,35.503266],"type":"Point"}
+  "bbox": [
+    -97.623066,
+    35.503266,
+    -97.623066,
+    35.503266
+],
+  "geometry": {"coordinates":[-97.62306599999999,35.503266],"type":"Point"}
 }

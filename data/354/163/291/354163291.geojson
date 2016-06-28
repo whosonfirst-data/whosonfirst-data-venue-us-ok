@@ -2,13 +2,14 @@
   "id": 354163291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.739545,34.934904,-95.739545,34.934904",
     "geom:latitude":34.934904,
     "geom:longitude":-95.739545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 E Van Buren Ave",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":354163291,
-    "wof:lastmodified":1449067646,
+    "wof:lastmodified":1466763741,
     "wof:name":"Warren Clinic Optical",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "medical"
     ]
 },
-  "bbox": [-95.739545,34.934904,-95.739545,34.934904],
-  "geometry": {"coordinates":[-95.739545,34.934904],"type":"Point"}
+  "bbox": [
+    -95.739545,
+    34.934904,
+    -95.739545,
+    34.934904
+],
+  "geometry": {"coordinates":[-95.73954500000001,34.934904],"type":"Point"}
 }

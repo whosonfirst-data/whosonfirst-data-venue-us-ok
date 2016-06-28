@@ -2,13 +2,14 @@
   "id": 304033175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.405935,35.440308,-97.405935,35.440308",
     "geom:latitude":35.440308,
     "geom:longitude":-97.405935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2228 S Air Depot Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304033175,
-    "wof:lastmodified":1449043675,
+    "wof:lastmodified":1466762992,
     "wof:name":"Ziggy Smoke Shop",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.405935,35.440308,-97.405935,35.440308],
+  "bbox": [
+    -97.405935,
+    35.440308,
+    -97.405935,
+    35.440308
+],
   "geometry": {"coordinates":[-97.405935,35.440308],"type":"Point"}
 }

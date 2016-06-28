@@ -2,13 +2,14 @@
   "id": 303348273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.870938,35.992551,-95.870938,35.992551",
     "geom:latitude":35.992551,
     "geom:longitude":-95.870938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9410 E 118th Pl S",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303348273,
-    "wof:lastmodified":1448998223,
+    "wof:lastmodified":1466765044,
     "wof:name":"Cutters Lawn Care",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.870938,35.992551,-95.870938,35.992551],
+  "bbox": [
+    -95.870938,
+    35.992551,
+    -95.870938,
+    35.992551
+],
   "geometry": {"coordinates":[-95.870938,35.992551],"type":"Point"}
 }

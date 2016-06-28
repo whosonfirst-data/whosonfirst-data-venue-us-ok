@@ -2,13 +2,14 @@
   "id": 320565353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.407796,34.004513,-96.407796,34.004513",
     "geom:latitude":34.004513,
     "geom:longitude":-96.407796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 Radio Rd",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320565353,
-    "wof:lastmodified":1449014628,
+    "wof:lastmodified":1466766214,
     "wof:name":"Golden State Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.407796,34.004513,-96.407796,34.004513],
+  "bbox": [
+    -96.407796,
+    34.004513,
+    -96.407796,
+    34.004513
+],
   "geometry": {"coordinates":[-96.407796,34.004513],"type":"Point"}
 }

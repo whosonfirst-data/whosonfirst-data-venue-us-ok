@@ -2,13 +2,14 @@
   "id": 304024803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.552353,35.522136,-97.552353,35.522136",
     "geom:latitude":35.522136,
     "geom:longitude":-97.552353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2340 NW 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":304024803,
-    "wof:lastmodified":1449043830,
+    "wof:lastmodified":1466762948,
     "wof:name":"Mayfair Church Of Christ",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.552353,35.522136,-97.552353,35.522136],
+  "bbox": [
+    -97.552353,
+    35.522136,
+    -97.552353,
+    35.522136
+],
   "geometry": {"coordinates":[-97.552353,35.522136],"type":"Point"}
 }

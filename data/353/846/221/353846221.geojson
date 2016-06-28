@@ -2,13 +2,14 @@
   "id": 353846221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.792408,35.47805,-94.792408,35.47805",
     "geom:latitude":35.47805,
     "geom:longitude":-94.792408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W Taylor Dr",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353846221,
-    "wof:lastmodified":1449020250,
+    "wof:lastmodified":1466765647,
     "wof:name":"Bob's Mobile Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "plate"
     ]
 },
-  "bbox": [-94.792408,35.47805,-94.792408,35.47805],
-  "geometry": {"coordinates":[-94.792408,35.47805],"type":"Point"}
+  "bbox": [
+    -94.792408,
+    35.47805,
+    -94.792408,
+    35.47805
+],
+  "geometry": {"coordinates":[-94.79240799999999,35.47805],"type":"Point"}
 }

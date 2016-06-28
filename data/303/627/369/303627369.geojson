@@ -2,13 +2,14 @@
   "id": 303627369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530114,35.408326,-97.530114,35.408326",
     "geom:latitude":35.408326,
     "geom:longitude":-97.530114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5716 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303627369,
-    "wof:lastmodified":1449000619,
+    "wof:lastmodified":1466766295,
     "wof:name":"Mid-West Investigations",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-97.530114,35.408326,-97.530114,35.408326],
+  "bbox": [
+    -97.530114,
+    35.408326,
+    -97.530114,
+    35.408326
+],
   "geometry": {"coordinates":[-97.530114,35.408326],"type":"Point"}
 }

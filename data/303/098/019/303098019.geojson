@@ -2,13 +2,14 @@
   "id": 303098019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480204,35.642565,-97.480204,35.642565",
     "geom:latitude":35.642565,
     "geom:longitude":-97.480204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 E 11th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303098019,
-    "wof:lastmodified":1449000309,
+    "wof:lastmodified":1466763207,
     "wof:name":"Finco Investments LLC",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-97.480204,35.642565,-97.480204,35.642565],
+  "bbox": [
+    -97.480204,
+    35.642565,
+    -97.480204,
+    35.642565
+],
   "geometry": {"coordinates":[-97.480204,35.642565],"type":"Point"}
 }

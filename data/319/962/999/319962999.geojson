@@ -2,13 +2,14 @@
   "id": 319962999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534119,35.352707,-97.534119,35.352707",
     "geom:latitude":35.352707,
     "geom:longitude":-97.534119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"958 Pruitt Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319962999,
-    "wof:lastmodified":1449024555,
+    "wof:lastmodified":1466764109,
     "wof:name":"Rick Thagard",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "reporter"
     ]
 },
-  "bbox": [-97.534119,35.352707,-97.534119,35.352707],
+  "bbox": [
+    -97.534119,
+    35.352707,
+    -97.534119,
+    35.352707
+],
   "geometry": {"coordinates":[-97.534119,35.352707],"type":"Point"}
 }

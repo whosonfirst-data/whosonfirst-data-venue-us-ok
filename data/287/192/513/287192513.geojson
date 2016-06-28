@@ -2,13 +2,14 @@
   "id": 287192513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.900962,36.140678,-95.900962,36.140678",
     "geom:latitude":36.140678,
     "geom:longitude":-95.900962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 E 15th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":287192513,
-    "wof:lastmodified":1449001310,
+    "wof:lastmodified":1466763933,
     "wof:name":"Tri-State Instrument Lab Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "instrument"
     ]
 },
-  "bbox": [-95.900962,36.140678,-95.900962,36.140678],
-  "geometry": {"coordinates":[-95.900962,36.140678],"type":"Point"}
+  "bbox": [
+    -95.900962,
+    36.140678,
+    -95.900962,
+    36.140678
+],
+  "geometry": {"coordinates":[-95.90096200000001,36.140678],"type":"Point"}
 }

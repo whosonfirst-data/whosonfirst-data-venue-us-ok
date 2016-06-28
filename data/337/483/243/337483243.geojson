@@ -2,13 +2,14 @@
   "id": 337483243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.823748,36.036346,-95.823748,36.036346",
     "geom:latitude":36.036346,
     "geom:longitude":-95.823748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 W Quincy St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337483243,
-    "wof:lastmodified":1449027577,
+    "wof:lastmodified":1466762560,
     "wof:name":"Hardox Corp",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "warehouse"
     ]
 },
-  "bbox": [-95.823748,36.036346,-95.823748,36.036346],
-  "geometry": {"coordinates":[-95.823748,36.036346],"type":"Point"}
+  "bbox": [
+    -95.823748,
+    36.036346,
+    -95.823748,
+    36.036346
+],
+  "geometry": {"coordinates":[-95.82374799999999,36.036346],"type":"Point"}
 }

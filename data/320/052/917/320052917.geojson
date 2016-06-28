@@ -2,13 +2,14 @@
   "id": 320052917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.506179,35.466359,-97.506179,35.466359",
     "geom:latitude":35.466359,
     "geom:longitude":-97.506179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 E Sheridan Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320052917,
-    "wof:lastmodified":1449012952,
+    "wof:lastmodified":1466763070,
     "wof:name":"Musica LA",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-97.506179,35.466359,-97.506179,35.466359],
+  "bbox": [
+    -97.506179,
+    35.466359,
+    -97.506179,
+    35.466359
+],
   "geometry": {"coordinates":[-97.506179,35.466359],"type":"Point"}
 }

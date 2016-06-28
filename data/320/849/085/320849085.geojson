@@ -2,13 +2,14 @@
   "id": 320849085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.509196,35.635865,-97.509196,35.635865",
     "geom:latitude":35.635865,
     "geom:longitude":-97.509196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Stillwater Ln",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320849085,
-    "wof:lastmodified":1449011945,
+    "wof:lastmodified":1466766964,
     "wof:name":"Pet Waste Scooper Svc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-97.509196,35.635865,-97.509196,35.635865],
+  "bbox": [
+    -97.509196,
+    35.635865,
+    -97.509196,
+    35.635865
+],
   "geometry": {"coordinates":[-97.509196,35.635865],"type":"Point"}
 }

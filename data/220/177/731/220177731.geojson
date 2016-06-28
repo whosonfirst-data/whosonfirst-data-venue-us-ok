@@ -2,13 +2,14 @@
   "id": 220177731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.010268,36.112262,-96.010268,36.112262",
     "geom:latitude":36.112262,
     "geom:longitude":-96.010268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3512 Southwest Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220177731,
-    "wof:lastmodified":1449074878,
+    "wof:lastmodified":1466762349,
     "wof:name":"D & L Oil Tools",
     "wof:parent_id":85821015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "oils-petroleum"
     ]
 },
-  "bbox": [-96.010268,36.112262,-96.010268,36.112262],
+  "bbox": [
+    -96.010268,
+    36.112262,
+    -96.010268,
+    36.112262
+],
   "geometry": {"coordinates":[-96.010268,36.112262],"type":"Point"}
 }

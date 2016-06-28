@@ -2,13 +2,14 @@
   "id": 320029347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.804107,36.340219,-96.804107,36.340219",
     "geom:latitude":36.340219,
     "geom:longitude":-96.804107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 6th St",
     "sg:city":"Pawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320029347,
-    "wof:lastmodified":1449012839,
+    "wof:lastmodified":1466762721,
     "wof:name":"Pawnee True Value Lumber Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-96.804107,36.340219,-96.804107,36.340219],
+  "bbox": [
+    -96.804107,
+    36.340219,
+    -96.804107,
+    36.340219
+],
   "geometry": {"coordinates":[-96.804107,36.340219],"type":"Point"}
 }

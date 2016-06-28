@@ -2,13 +2,14 @@
   "id": 303962323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.550524,35.493179,-97.550524,35.493179",
     "geom:latitude":35.493179,
     "geom:longitude":-97.550524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2218 NW 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303962323,
-    "wof:lastmodified":1448999559,
+    "wof:lastmodified":1466767102,
     "wof:name":"Pizza Zone",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.550524,35.493179,-97.550524,35.493179],
+  "bbox": [
+    -97.550524,
+    35.493179,
+    -97.550524,
+    35.493179
+],
   "geometry": {"coordinates":[-97.550524,35.493179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303866849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.446423,35.391852,-97.446423,35.391852",
     "geom:latitude":35.391852,
     "geom:longitude":-97.446423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3965 E I- 240 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303866849,
-    "wof:lastmodified":1448999283,
+    "wof:lastmodified":1466766973,
     "wof:name":"Kansas Oklahoma Machine Tools",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tool"
     ]
 },
-  "bbox": [-97.446423,35.391852,-97.446423,35.391852],
+  "bbox": [
+    -97.446423,
+    35.391852,
+    -97.446423,
+    35.391852
+],
   "geometry": {"coordinates":[-97.446423,35.391852],"type":"Point"}
 }

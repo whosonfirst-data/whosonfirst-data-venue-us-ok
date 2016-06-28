@@ -2,13 +2,14 @@
   "id": 287155149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.919679,34.685137,-99.919679,34.685137",
     "geom:latitude":34.685137,
     "geom:longitude":-99.919679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 N 2nd St",
     "sg:city":"Hollis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287155149,
-    "wof:lastmodified":1449001401,
+    "wof:lastmodified":1466763691,
     "wof:name":"Hollis Automotive Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-99.919679,34.685137,-99.919679,34.685137],
+  "bbox": [
+    -99.919679,
+    34.685137,
+    -99.919679,
+    34.685137
+],
   "geometry": {"coordinates":[-99.919679,34.685137],"type":"Point"}
 }

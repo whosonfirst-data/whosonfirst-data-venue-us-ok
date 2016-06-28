@@ -2,13 +2,14 @@
   "id": 303227679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.855112,36.273737,-95.855112,36.273737",
     "geom:latitude":36.273737,
     "geom:longitude":-95.855112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 N Main St",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303227679,
-    "wof:lastmodified":1448998653,
+    "wof:lastmodified":1466764585,
     "wof:name":"LA Casita Mexican Restaurant",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.855112,36.273737,-95.855112,36.273737],
-  "geometry": {"coordinates":[-95.855112,36.273737],"type":"Point"}
+  "bbox": [
+    -95.855112,
+    36.273737,
+    -95.855112,
+    36.273737
+],
+  "geometry": {"coordinates":[-95.85511200000001,36.273737],"type":"Point"}
 }

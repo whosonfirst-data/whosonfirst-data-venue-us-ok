@@ -2,13 +2,14 @@
   "id": 320667321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.393347,35.460712,-97.393347,35.460712",
     "geom:latitude":35.460712,
     "geom:longitude":-97.393347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 E Randall Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320667321,
-    "wof:lastmodified":1449013711,
+    "wof:lastmodified":1466766443,
     "wof:name":"Sooner Networks Inc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "network"
     ]
 },
-  "bbox": [-97.393347,35.460712,-97.393347,35.460712],
-  "geometry": {"coordinates":[-97.393347,35.460712],"type":"Point"}
+  "bbox": [
+    -97.393347,
+    35.460712,
+    -97.393347,
+    35.460712
+],
+  "geometry": {"coordinates":[-97.39334700000001,35.460712],"type":"Point"}
 }

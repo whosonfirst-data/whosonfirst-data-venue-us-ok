@@ -2,13 +2,14 @@
   "id": 336787055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798583,36.323702,-96.798583,36.323702",
     "geom:latitude":36.323702,
     "geom:longitude":-96.798583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1803 3rd St",
     "sg:city":"Pawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336787055,
-    "wof:lastmodified":1448997438,
+    "wof:lastmodified":1466764468,
     "wof:name":"J T Adams Bulldozer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bulldozing"
     ]
 },
-  "bbox": [-96.798583,36.323702,-96.798583,36.323702],
-  "geometry": {"coordinates":[-96.798583,36.323702],"type":"Point"}
+  "bbox": [
+    -96.798583,
+    36.323702,
+    -96.798583,
+    36.323702
+],
+  "geometry": {"coordinates":[-96.79858299999999,36.323702],"type":"Point"}
 }

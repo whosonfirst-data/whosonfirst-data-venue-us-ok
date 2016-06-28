@@ -2,13 +2,14 @@
   "id": 336653801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.340287,35.745761,-95.340287,35.745761",
     "geom:latitude":35.745761,
     "geom:longitude":-95.340287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 N York St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336653801,
-    "wof:lastmodified":1448997005,
+    "wof:lastmodified":1466763007,
     "wof:name":"Edward Jones 17421",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-95.340287,35.745761,-95.340287,35.745761],
+  "bbox": [
+    -95.340287,
+    35.745761,
+    -95.340287,
+    35.745761
+],
   "geometry": {"coordinates":[-95.340287,35.745761],"type":"Point"}
 }

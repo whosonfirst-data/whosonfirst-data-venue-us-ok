@@ -2,13 +2,14 @@
   "id": 287226267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.251488,35.067379,-98.251488,35.067379",
     "geom:latitude":35.067379,
     "geom:longitude":-98.251488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 S Mission St",
     "sg:city":"Anadarko",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287226267,
-    "wof:lastmodified":1449001326,
+    "wof:lastmodified":1466762311,
     "wof:name":"Tingley's Drive Thru II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.251488,35.067379,-98.251488,35.067379],
-  "geometry": {"coordinates":[-98.251488,35.067379],"type":"Point"}
+  "bbox": [
+    -98.251488,
+    35.067379,
+    -98.251488,
+    35.067379
+],
+  "geometry": {"coordinates":[-98.25148799999999,35.067379],"type":"Point"}
 }

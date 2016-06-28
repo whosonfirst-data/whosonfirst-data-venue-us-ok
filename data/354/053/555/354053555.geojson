@@ -2,13 +2,14 @@
   "id": 354053555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.461885,35.667271,-97.461885,35.667271",
     "geom:latitude":35.667271,
     "geom:longitude":-97.461885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 E Danforth Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354053555,
-    "wof:lastmodified":1449066252,
+    "wof:lastmodified":1466763314,
     "wof:name":"It's A Party",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "invitation"
     ]
 },
-  "bbox": [-97.461885,35.667271,-97.461885,35.667271],
+  "bbox": [
+    -97.461885,
+    35.667271,
+    -97.461885,
+    35.667271
+],
   "geometry": {"coordinates":[-97.461885,35.667271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303318921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.162315,36.203184,-95.162315,36.203184",
     "geom:latitude":36.203184,
     "geom:longitude":-95.162315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Willard Stone Cir",
     "sg:city":"Locust Grove",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303318921,
-    "wof:lastmodified":1448998655,
+    "wof:lastmodified":1466764927,
     "wof:name":"Red Rock Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.162315,36.203184,-95.162315,36.203184],
-  "geometry": {"coordinates":[-95.162315,36.203184],"type":"Point"}
+  "bbox": [
+    -95.162315,
+    36.203184,
+    -95.162315,
+    36.203184
+],
+  "geometry": {"coordinates":[-95.16231500000001,36.203184],"type":"Point"}
 }

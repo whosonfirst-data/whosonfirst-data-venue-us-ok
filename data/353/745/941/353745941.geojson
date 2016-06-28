@@ -2,13 +2,14 @@
   "id": 353745941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.330796,34.603834,-98.330796,34.603834",
     "geom:latitude":34.603834,
     "geom:longitude":-98.330796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4742 SE Sunnymeade Dr",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353745941,
-    "wof:lastmodified":1449020673,
+    "wof:lastmodified":1466765096,
     "wof:name":"Arts Plumbing & Heating",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.330796,34.603834,-98.330796,34.603834],
-  "geometry": {"coordinates":[-98.330796,34.603834],"type":"Point"}
+  "bbox": [
+    -98.330796,
+    34.603834,
+    -98.330796,
+    34.603834
+],
+  "geometry": {"coordinates":[-98.33079600000001,34.603834],"type":"Point"}
 }

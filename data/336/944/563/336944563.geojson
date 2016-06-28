@@ -2,13 +2,14 @@
   "id": 336944563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.950139,36.121017,-96.950139,36.121017",
     "geom:latitude":36.121017,
     "geom:longitude":-96.950139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7706 Wooten Ln",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336944563,
-    "wof:lastmodified":1448997493,
+    "wof:lastmodified":1466765501,
     "wof:name":"Vic's Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-96.950139,36.121017,-96.950139,36.121017],
-  "geometry": {"coordinates":[-96.950139,36.121017],"type":"Point"}
+  "bbox": [
+    -96.950139,
+    36.121017,
+    -96.950139,
+    36.121017
+],
+  "geometry": {"coordinates":[-96.95013899999999,36.121017],"type":"Point"}
 }

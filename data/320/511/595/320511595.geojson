@@ -2,13 +2,14 @@
   "id": 320511595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.342948,34.60529,-98.342948,34.60529",
     "geom:latitude":34.60529,
     "geom:longitude":-98.342948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 SE Camelot Dr",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320511595,
-    "wof:lastmodified":1449012979,
+    "wof:lastmodified":1466766180,
     "wof:name":"Renes Day Care",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.342948,34.60529,-98.342948,34.60529],
-  "geometry": {"coordinates":[-98.342948,34.60529],"type":"Point"}
+  "bbox": [
+    -98.342948,
+    34.60529,
+    -98.342948,
+    34.60529
+],
+  "geometry": {"coordinates":[-98.34294800000001,34.60529],"type":"Point"}
 }

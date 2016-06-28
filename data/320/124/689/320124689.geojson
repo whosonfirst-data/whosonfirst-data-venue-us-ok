@@ -2,13 +2,14 @@
   "id": 320124689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.974762,35.900707,-94.974762,35.900707",
     "geom:latitude":35.900707,
     "geom:longitude":-94.974762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 S Muskogee Ave",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320124689,
-    "wof:lastmodified":1449014678,
+    "wof:lastmodified":1466764165,
     "wof:name":"Stevenson's LP Gas Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gas"
     ]
 },
-  "bbox": [-94.974762,35.900707,-94.974762,35.900707],
+  "bbox": [
+    -94.974762,
+    35.900707,
+    -94.974762,
+    35.900707
+],
   "geometry": {"coordinates":[-94.974762,35.900707],"type":"Point"}
 }

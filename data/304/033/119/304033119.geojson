@@ -2,13 +2,14 @@
   "id": 304033119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.526948,35.541996,-97.526948,35.541996",
     "geom:latitude":35.541996,
     "geom:longitude":-97.526948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6917 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304033119,
-    "wof:lastmodified":1449043675,
+    "wof:lastmodified":1466762991,
     "wof:name":"Pressworks Printing & Computer",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-97.526948,35.541996,-97.526948,35.541996],
+  "bbox": [
+    -97.526948,
+    35.541996,
+    -97.526948,
+    35.541996
+],
   "geometry": {"coordinates":[-97.526948,35.541996],"type":"Point"}
 }

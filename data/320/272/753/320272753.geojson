@@ -2,13 +2,14 @@
   "id": 320272753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547938,35.38414,-97.547938,35.38414",
     "geom:latitude":35.38414,
     "geom:longitude":-97.547938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8205 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320272753,
-    "wof:lastmodified":1449014702,
+    "wof:lastmodified":1466765028,
     "wof:name":"Paycheck Advance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "check"
     ]
 },
-  "bbox": [-97.547938,35.38414,-97.547938,35.38414],
+  "bbox": [
+    -97.547938,
+    35.38414,
+    -97.547938,
+    35.38414
+],
   "geometry": {"coordinates":[-97.547938,35.38414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303885331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.340354,35.788342,-95.340354,35.788342",
     "geom:latitude":35.788342,
     "geom:longitude":-95.340354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3206 N York St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303885331,
-    "wof:lastmodified":1448999421,
+    "wof:lastmodified":1466766822,
     "wof:name":"Muskogee Church Of Christ",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.340354,35.788342,-95.340354,35.788342],
+  "bbox": [
+    -95.340354,
+    35.788342,
+    -95.340354,
+    35.788342
+],
   "geometry": {"coordinates":[-95.340354,35.788342],"type":"Point"}
 }

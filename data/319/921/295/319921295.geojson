@@ -2,13 +2,14 @@
   "id": 319921295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.529291,35.638546,-97.529291,35.638546",
     "geom:latitude":35.638546,
     "geom:longitude":-97.529291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 NW 164th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319921295,
-    "wof:lastmodified":1449024585,
+    "wof:lastmodified":1466763833,
     "wof:name":"Commonwealth",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-97.529291,35.638546,-97.529291,35.638546],
+  "bbox": [
+    -97.529291,
+    35.638546,
+    -97.529291,
+    35.638546
+],
   "geometry": {"coordinates":[-97.529291,35.638546],"type":"Point"}
 }

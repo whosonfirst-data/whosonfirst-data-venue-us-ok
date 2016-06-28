@@ -2,13 +2,14 @@
   "id": 303500959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406053,35.464139,-97.406053,35.464139",
     "geom:latitude":35.464139,
     "geom:longitude":-97.406053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7035 E Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303500959,
-    "wof:lastmodified":1448998724,
+    "wof:lastmodified":1466765843,
     "wof:name":"Lo Vette Chiropractic Clinic",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.406053,35.464139,-97.406053,35.464139],
+  "bbox": [
+    -97.406053,
+    35.464139,
+    -97.406053,
+    35.464139
+],
   "geometry": {"coordinates":[-97.406053,35.464139],"type":"Point"}
 }

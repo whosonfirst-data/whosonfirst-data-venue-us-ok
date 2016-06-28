@@ -2,13 +2,14 @@
   "id": 303322841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.463409,35.667274,-97.463409,35.667274",
     "geom:latitude":35.667274,
     "geom:longitude":-97.463409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1245 E Danforth Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303322841,
-    "wof:lastmodified":1448998089,
+    "wof:lastmodified":1466765048,
     "wof:name":"Sundance Travel",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-97.463409,35.667274,-97.463409,35.667274],
+  "bbox": [
+    -97.463409,
+    35.667274,
+    -97.463409,
+    35.667274
+],
   "geometry": {"coordinates":[-97.463409,35.667274],"type":"Point"}
 }

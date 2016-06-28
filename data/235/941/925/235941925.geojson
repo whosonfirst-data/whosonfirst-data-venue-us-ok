@@ -2,13 +2,14 @@
   "id": 235941925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.841599,36.114799,-95.841599,36.114799",
     "geom:latitude":36.114799,
     "geom:longitude":-95.841599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3303 S 121st East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235941925,
-    "wof:lastmodified":1449008450,
+    "wof:lastmodified":1466762486,
     "wof:name":"Schools",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.841599,36.114799,-95.841599,36.114799],
+  "bbox": [
+    -95.841599,
+    36.114799,
+    -95.841599,
+    36.114799
+],
   "geometry": {"coordinates":[-95.841599,36.114799],"type":"Point"}
 }

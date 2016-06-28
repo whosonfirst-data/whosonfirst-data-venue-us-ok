@@ -2,13 +2,14 @@
   "id": 320446345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.396773,35.49304,-97.396773,35.49304",
     "geom:latitude":35.49304,
     "geom:longitude":-97.396773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320446345,
-    "wof:lastmodified":1449014646,
+    "wof:lastmodified":1466765935,
     "wof:name":"Deaconess Medical Offices",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.396773,35.49304,-97.396773,35.49304],
+  "bbox": [
+    -97.396773,
+    35.49304,
+    -97.396773,
+    35.49304
+],
   "geometry": {"coordinates":[-97.396773,35.49304],"type":"Point"}
 }

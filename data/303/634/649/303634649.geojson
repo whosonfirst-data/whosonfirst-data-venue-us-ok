@@ -2,13 +2,14 @@
   "id": 303634649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.906292,34.683547,-99.906292,34.683547",
     "geom:latitude":34.683547,
     "geom:longitude":-99.906292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 N Terry St",
     "sg:city":"Hollis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303634649,
-    "wof:lastmodified":1448999288,
+    "wof:lastmodified":1466766191,
     "wof:name":"Harmon County Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.906292,34.683547,-99.906292,34.683547],
-  "geometry": {"coordinates":[-99.906292,34.683547],"type":"Point"}
+  "bbox": [
+    -99.906292,
+    34.683547,
+    -99.906292,
+    34.683547
+],
+  "geometry": {"coordinates":[-99.90629199999999,34.683547],"type":"Point"}
 }

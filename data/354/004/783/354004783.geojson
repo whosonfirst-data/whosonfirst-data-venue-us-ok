@@ -2,13 +2,14 @@
   "id": 354004783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.980589,35.439878,-95.980589,35.439878",
     "geom:latitude":35.439878,
     "geom:longitude":-95.980589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 E Main St",
     "sg:city":"Henryetta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354004783,
-    "wof:lastmodified":1449066532,
+    "wof:lastmodified":1466762957,
     "wof:name":"Payroll Advanced",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "check"
     ]
 },
-  "bbox": [-95.980589,35.439878,-95.980589,35.439878],
-  "geometry": {"coordinates":[-95.980589,35.439878],"type":"Point"}
+  "bbox": [
+    -95.980589,
+    35.439878,
+    -95.980589,
+    35.439878
+],
+  "geometry": {"coordinates":[-95.98058899999999,35.439878],"type":"Point"}
 }

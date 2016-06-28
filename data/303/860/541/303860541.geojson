@@ -2,13 +2,14 @@
   "id": 303860541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.325202,36.309701,-95.325202,36.309701",
     "geom:latitude":36.309701,
     "geom:longitude":-95.325202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 W Graham Ave",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303860541,
-    "wof:lastmodified":1448999206,
+    "wof:lastmodified":1466766870,
     "wof:name":"Master Clean Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-95.325202,36.309701,-95.325202,36.309701],
+  "bbox": [
+    -95.325202,
+    36.309701,
+    -95.325202,
+    36.309701
+],
   "geometry": {"coordinates":[-95.325202,36.309701],"type":"Point"}
 }

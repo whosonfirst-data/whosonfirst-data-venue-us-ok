@@ -2,13 +2,14 @@
   "id": 303684063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.425044,35.798885,-97.425044,35.798885",
     "geom:latitude":35.798885,
     "geom:longitude":-97.425044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7802 S Sooner Rd",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303684063,
-    "wof:lastmodified":1448998719,
+    "wof:lastmodified":1466766445,
     "wof:name":"Rock Tavern",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.425044,35.798885,-97.425044,35.798885],
+  "bbox": [
+    -97.425044,
+    35.798885,
+    -97.425044,
+    35.798885
+],
   "geometry": {"coordinates":[-97.425044,35.798885],"type":"Point"}
 }

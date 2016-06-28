@@ -2,13 +2,14 @@
   "id": 220200217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.867624,36.046421,-95.867624,36.046421",
     "geom:latitude":36.046421,
     "geom:longitude":-95.867624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9724 E 81st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220200217,
-    "wof:lastmodified":1449074361,
+    "wof:lastmodified":1466762582,
     "wof:name":"Sinclair",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "oil"
     ]
 },
-  "bbox": [-95.867624,36.046421,-95.867624,36.046421],
-  "geometry": {"coordinates":[-95.867624,36.046421],"type":"Point"}
+  "bbox": [
+    -95.867624,
+    36.046421,
+    -95.867624,
+    36.046421
+],
+  "geometry": {"coordinates":[-95.86762400000001,36.046421],"type":"Point"}
 }

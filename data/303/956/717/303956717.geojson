@@ -2,13 +2,14 @@
   "id": 303956717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.051433,36.135575,-97.051433,36.135575",
     "geom:latitude":36.135575,
     "geom:longitude":-97.051433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 N Perkins Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303956717,
-    "wof:lastmodified":1448998531,
+    "wof:lastmodified":1466767042,
     "wof:name":"Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-97.051433,36.135575,-97.051433,36.135575],
+  "bbox": [
+    -97.051433,
+    36.135575,
+    -97.051433,
+    36.135575
+],
   "geometry": {"coordinates":[-97.051433,36.135575],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336694877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.480111,34.620115,-98.480111,34.620115",
     "geom:latitude":34.620115,
     "geom:longitude":-98.480111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 NW Dogwood Ln",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336694877,
-    "wof:lastmodified":1448997251,
+    "wof:lastmodified":1466763638,
     "wof:name":"Tropical Paradise",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tanning"
     ]
 },
-  "bbox": [-98.480111,34.620115,-98.480111,34.620115],
-  "geometry": {"coordinates":[-98.480111,34.620115],"type":"Point"}
+  "bbox": [
+    -98.480111,
+    34.620115,
+    -98.480111,
+    34.620115
+],
+  "geometry": {"coordinates":[-98.48011099999999,34.620115],"type":"Point"}
 }

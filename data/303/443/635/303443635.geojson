@@ -2,13 +2,14 @@
   "id": 303443635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.768253,34.933074,-95.768253,34.933074",
     "geom:latitude":34.933074,
     "geom:longitude":-95.768253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Carl Albert Pkwy",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303443635,
-    "wof:lastmodified":1449000114,
+    "wof:lastmodified":1466765636,
     "wof:name":"Free For Congress",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-95.768253,34.933074,-95.768253,34.933074],
+  "bbox": [
+    -95.768253,
+    34.933074,
+    -95.768253,
+    34.933074
+],
   "geometry": {"coordinates":[-95.768253,34.933074],"type":"Point"}
 }

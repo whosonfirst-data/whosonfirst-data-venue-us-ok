@@ -2,13 +2,14 @@
   "id": 320483081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.171832,35.158226,-99.171832,35.158226",
     "geom:latitude":35.158226,
     "geom:longitude":-99.171832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 E Main St",
     "sg:city":"Sentinel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320483081,
-    "wof:lastmodified":1449014169,
+    "wof:lastmodified":1466765920,
     "wof:name":"Smith Roofing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.171832,35.158226,-99.171832,35.158226],
-  "geometry": {"coordinates":[-99.171832,35.158226],"type":"Point"}
+  "bbox": [
+    -99.171832,
+    35.158226,
+    -99.171832,
+    35.158226
+],
+  "geometry": {"coordinates":[-99.17183199999999,35.158226],"type":"Point"}
 }

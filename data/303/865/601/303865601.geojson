@@ -2,13 +2,14 @@
   "id": 303865601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.43586,35.230563,-97.43586,35.230563",
     "geom:latitude":35.230563,
     "geom:longitude":-97.43586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 N Stewart Ave",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303865601,
-    "wof:lastmodified":1448999964,
+    "wof:lastmodified":1466766791,
     "wof:name":"Adams Vending Service",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-97.43586,35.230563,-97.43586,35.230563],
-  "geometry": {"coordinates":[-97.43586,35.230563],"type":"Point"}
+  "bbox": [
+    -97.43586,
+    35.230563,
+    -97.43586,
+    35.230563
+],
+  "geometry": {"coordinates":[-97.43586000000001,35.230563],"type":"Point"}
 }

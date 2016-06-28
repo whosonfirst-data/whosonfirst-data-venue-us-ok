@@ -2,13 +2,14 @@
   "id": 354184979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.347015,35.767337,-95.347015,35.767337",
     "geom:latitude":35.767337,
     "geom:longitude":-95.347015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Anderson Dr",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354184979,
-    "wof:lastmodified":1449066225,
+    "wof:lastmodified":1466763837,
     "wof:name":"HE Anderson Co",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-95.347015,35.767337,-95.347015,35.767337],
+  "bbox": [
+    -95.347015,
+    35.767337,
+    -95.347015,
+    35.767337
+],
   "geometry": {"coordinates":[-95.347015,35.767337],"type":"Point"}
 }

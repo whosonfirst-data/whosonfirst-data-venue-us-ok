@@ -2,13 +2,14 @@
   "id": 320472325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.561067,35.628386,-97.561067,35.628386",
     "geom:latitude":35.628386,
     "geom:longitude":-97.561067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15616 Sugar Loaf Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320472325,
-    "wof:lastmodified":1449011537,
+    "wof:lastmodified":1466766001,
     "wof:name":"Abvitech Corp",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "closed"
     ]
 },
-  "bbox": [-97.561067,35.628386,-97.561067,35.628386],
-  "geometry": {"coordinates":[-97.561067,35.628386],"type":"Point"}
+  "bbox": [
+    -97.561067,
+    35.628386,
+    -97.561067,
+    35.628386
+],
+  "geometry": {"coordinates":[-97.56106699999999,35.628386],"type":"Point"}
 }

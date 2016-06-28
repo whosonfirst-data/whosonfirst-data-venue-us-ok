@@ -2,13 +2,14 @@
   "id": 303963707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.474679,35.672349,-97.474679,35.672349",
     "geom:latitude":35.672349,
     "geom:longitude":-97.474679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Canyon Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303963707,
-    "wof:lastmodified":1448998354,
+    "wof:lastmodified":1466767103,
     "wof:name":"Dressler Computer Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.474679,35.672349,-97.474679,35.672349],
-  "geometry": {"coordinates":[-97.474679,35.672349],"type":"Point"}
+  "bbox": [
+    -97.474679,
+    35.672349,
+    -97.474679,
+    35.672349
+],
+  "geometry": {"coordinates":[-97.47467899999999,35.672349],"type":"Point"}
 }

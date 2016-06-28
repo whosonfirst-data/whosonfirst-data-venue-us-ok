@@ -2,13 +2,14 @@
   "id": 320786465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.648423,35.490805,-97.648423,35.490805",
     "geom:latitude":35.490805,
     "geom:longitude":-97.648423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7704 NW 21st St",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320786465,
-    "wof:lastmodified":1449011737,
+    "wof:lastmodified":1466766802,
     "wof:name":"Backyards By Integrity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pool"
     ]
 },
-  "bbox": [-97.648423,35.490805,-97.648423,35.490805],
-  "geometry": {"coordinates":[-97.648423,35.490805],"type":"Point"}
+  "bbox": [
+    -97.648423,
+    35.490805,
+    -97.648423,
+    35.490805
+],
+  "geometry": {"coordinates":[-97.64842299999999,35.490805],"type":"Point"}
 }

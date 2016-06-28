@@ -2,13 +2,14 @@
   "id": 303146935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.761105,34.93116,-95.761105,34.93116",
     "geom:latitude":34.93116,
     "geom:longitude":-95.761105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E Carl Albert Pkwy",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303146935,
-    "wof:lastmodified":1448999133,
+    "wof:lastmodified":1466763993,
     "wof:name":"Atwoods",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "lawn"
     ]
 },
-  "bbox": [-95.761105,34.93116,-95.761105,34.93116],
+  "bbox": [
+    -95.761105,
+    34.93116,
+    -95.761105,
+    34.93116
+],
   "geometry": {"coordinates":[-95.761105,34.93116],"type":"Point"}
 }

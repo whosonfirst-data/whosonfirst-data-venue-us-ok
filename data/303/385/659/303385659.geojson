@@ -2,13 +2,14 @@
   "id": 303385659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.001531,34.16383,-98.001531,34.16383",
     "geom:latitude":34.16383,
     "geom:longitude":-98.001531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S Main St",
     "sg:city":"Waurika",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303385659,
-    "wof:lastmodified":1448999571,
+    "wof:lastmodified":1466765480,
     "wof:name":"Wade Medical Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-98.001531,34.16383,-98.001531,34.16383],
+  "bbox": [
+    -98.001531,
+    34.16383,
+    -98.001531,
+    34.16383
+],
   "geometry": {"coordinates":[-98.001531,34.16383],"type":"Point"}
 }

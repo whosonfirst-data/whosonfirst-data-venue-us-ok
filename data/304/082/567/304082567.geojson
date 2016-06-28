@@ -2,13 +2,14 @@
   "id": 304082567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547733,35.467731,-97.547733,35.467731",
     "geom:latitude":35.467731,
     "geom:longitude":-97.547733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 W Main St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":304082567,
-    "wof:lastmodified":1449043603,
+    "wof:lastmodified":1466763304,
     "wof:name":"Power Mill Contractors Inc",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "for"
     ]
 },
-  "bbox": [-97.547733,35.467731,-97.547733,35.467731],
-  "geometry": {"coordinates":[-97.547733,35.467731],"type":"Point"}
+  "bbox": [
+    -97.547733,
+    35.467731,
+    -97.547733,
+    35.467731
+],
+  "geometry": {"coordinates":[-97.54773299999999,35.467731],"type":"Point"}
 }

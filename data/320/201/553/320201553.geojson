@@ -2,13 +2,14 @@
   "id": 320201553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.617276,35.613305,-97.617276,35.613305",
     "geom:latitude":35.613305,
     "geom:longitude":-97.617276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5319 Gaillardia Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320201553,
-    "wof:lastmodified":1449014469,
+    "wof:lastmodified":1466764612,
     "wof:name":"Gaillardia Learning Ctr",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-97.617276,35.613305,-97.617276,35.613305],
+  "bbox": [
+    -97.617276,
+    35.613305,
+    -97.617276,
+    35.613305
+],
   "geometry": {"coordinates":[-97.617276,35.613305],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320645399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.483941,35.39822,-97.483941,35.39822",
     "geom:latitude":35.39822,
     "geom:longitude":-97.483941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 SE 66th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320645399,
-    "wof:lastmodified":1449011614,
+    "wof:lastmodified":1466766277,
     "wof:name":"K & R Harris Truckers Tax",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-97.483941,35.39822,-97.483941,35.39822],
+  "bbox": [
+    -97.483941,
+    35.39822,
+    -97.483941,
+    35.39822
+],
   "geometry": {"coordinates":[-97.483941,35.39822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336926991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.538653,35.474835,-97.538653,35.474835",
     "geom:latitude":35.474835,
     "geom:longitude":-97.538653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1619 Linwood Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336926991,
-    "wof:lastmodified":1448997302,
+    "wof:lastmodified":1466765448,
     "wof:name":"CFF Automotive",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.538653,35.474835,-97.538653,35.474835],
+  "bbox": [
+    -97.538653,
+    35.474835,
+    -97.538653,
+    35.474835
+],
   "geometry": {"coordinates":[-97.538653,35.474835],"type":"Point"}
 }

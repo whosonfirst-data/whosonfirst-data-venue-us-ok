@@ -2,13 +2,14 @@
   "id": 337581725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.185801,34.917549,-97.185801,34.917549",
     "geom:latitude":34.917549,
     "geom:longitude":-97.185801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14341 Waterloo St",
     "sg:city":"Byars",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337581725,
-    "wof:lastmodified":1449027094,
+    "wof:lastmodified":1466763106,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.185801,34.917549,-97.185801,34.917549],
+  "bbox": [
+    -97.185801,
+    34.917549,
+    -97.185801,
+    34.917549
+],
   "geometry": {"coordinates":[-97.185801,34.917549],"type":"Point"}
 }

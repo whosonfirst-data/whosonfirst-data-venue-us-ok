@@ -2,13 +2,14 @@
   "id": 353878397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975165,35.638933,-95.975165,35.638933",
     "geom:latitude":35.638933,
     "geom:longitude":-95.975165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 N Okmulgee Ave",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353878397,
-    "wof:lastmodified":1449019596,
+    "wof:lastmodified":1466765731,
     "wof:name":"Okmulgee Public Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-95.975165,35.638933,-95.975165,35.638933],
+  "bbox": [
+    -95.975165,
+    35.638933,
+    -95.975165,
+    35.638933
+],
   "geometry": {"coordinates":[-95.975165,35.638933],"type":"Point"}
 }

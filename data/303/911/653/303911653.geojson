@@ -2,13 +2,14 @@
   "id": 303911653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.39002,35.08591,-96.39002,35.08591",
     "geom:latitude":35.08591,
     "geom:longitude":-96.39002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 N Hinckley St",
     "sg:city":"Holdenville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303911653,
-    "wof:lastmodified":1449000160,
+    "wof:lastmodified":1466767063,
     "wof:name":"Muskogee Creek Nation Child",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.39002,35.08591,-96.39002,35.08591],
-  "geometry": {"coordinates":[-96.39002,35.08591],"type":"Point"}
+  "bbox": [
+    -96.39002,
+    35.08591,
+    -96.39002,
+    35.08591
+],
+  "geometry": {"coordinates":[-96.39002000000001,35.08591],"type":"Point"}
 }

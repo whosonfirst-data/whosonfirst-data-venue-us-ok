@@ -2,13 +2,14 @@
   "id": 320248389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.322939,34.9209,-95.322939,34.9209",
     "geom:latitude":34.9209,
     "geom:longitude":-95.322939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 SW 10th St",
     "sg:city":"Wilburton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320248389,
-    "wof:lastmodified":1449013314,
+    "wof:lastmodified":1466764842,
     "wof:name":"Watkins Sherry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.322939,34.9209,-95.322939,34.9209],
-  "geometry": {"coordinates":[-95.322939,34.9209],"type":"Point"}
+  "bbox": [
+    -95.322939,
+    34.9209,
+    -95.322939,
+    34.9209
+],
+  "geometry": {"coordinates":[-95.32293900000001,34.9209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320850113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935234,35.957586,-95.935234,35.957586",
     "geom:latitude":35.957586,
     "geom:longitude":-95.935234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3624 E 143rd St S",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320850113,
-    "wof:lastmodified":1449013425,
+    "wof:lastmodified":1466766875,
     "wof:name":"Even Construction",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.935234,35.957586,-95.935234,35.957586],
-  "geometry": {"coordinates":[-95.935234,35.957586],"type":"Point"}
+  "bbox": [
+    -95.935234,
+    35.957586,
+    -95.935234,
+    35.957586
+],
+  "geometry": {"coordinates":[-95.93523399999999,35.957586],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303333803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.926195,35.333967,-96.926195,35.333967",
     "geom:latitude":35.333967,
     "geom:longitude":-96.926195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 N Market Ave",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303333803,
-    "wof:lastmodified":1449000396,
+    "wof:lastmodified":1466765209,
     "wof:name":"Comfort Pros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [-96.926195,35.333967,-96.926195,35.333967],
-  "geometry": {"coordinates":[-96.926195,35.333967],"type":"Point"}
+  "bbox": [
+    -96.926195,
+    35.333967,
+    -96.926195,
+    35.333967
+],
+  "geometry": {"coordinates":[-96.92619500000001,35.333967],"type":"Point"}
 }

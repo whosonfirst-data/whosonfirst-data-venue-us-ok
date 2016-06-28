@@ -2,13 +2,14 @@
   "id": 320244275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503131,35.391706,-97.503131,35.391706",
     "geom:latitude":35.391706,
     "geom:longitude":-97.503131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E I- 240 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320244275,
-    "wof:lastmodified":1449012752,
+    "wof:lastmodified":1466764812,
     "wof:name":"Maaco Auto Painting",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-97.503131,35.391706,-97.503131,35.391706],
+  "bbox": [
+    -97.503131,
+    35.391706,
+    -97.503131,
+    35.391706
+],
   "geometry": {"coordinates":[-97.503131,35.391706],"type":"Point"}
 }

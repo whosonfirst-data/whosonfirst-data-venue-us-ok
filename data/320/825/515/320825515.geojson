@@ -2,13 +2,14 @@
   "id": 320825515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.127225,35.806984,-95.127225,35.806984",
     "geom:latitude":35.806984,
     "geom:longitude":-95.127225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1933 N County Line Rd E",
     "sg:city":"Fort Gibson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320825515,
-    "wof:lastmodified":1449011405,
+    "wof:lastmodified":1466766892,
     "wof:name":"Russell Vending",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-95.127225,35.806984,-95.127225,35.806984],
+  "bbox": [
+    -95.127225,
+    35.806984,
+    -95.127225,
+    35.806984
+],
   "geometry": {"coordinates":[-95.127225,35.806984],"type":"Point"}
 }

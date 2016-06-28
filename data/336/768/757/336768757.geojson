@@ -2,13 +2,14 @@
   "id": 336768757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.664785,35.584417,-97.664785,35.584417",
     "geom:latitude":35.584417,
     "geom:longitude":-97.664785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11201 N Eagle Ln",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336768757,
-    "wof:lastmodified":1448997362,
+    "wof:lastmodified":1466764498,
     "wof:name":"Monroe Holford Roofing Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.664785,35.584417,-97.664785,35.584417],
-  "geometry": {"coordinates":[-97.664785,35.584417],"type":"Point"}
+  "bbox": [
+    -97.664785,
+    35.584417,
+    -97.664785,
+    35.584417
+],
+  "geometry": {"coordinates":[-97.66478499999999,35.584417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320211497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.469942,35.679925,-97.469942,35.679925",
     "geom:latitude":35.679925,
     "geom:longitude":-97.469942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2509 Redvine Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320211497,
-    "wof:lastmodified":1449012181,
+    "wof:lastmodified":1466764652,
     "wof:name":"Chris Corey",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.469942,35.679925,-97.469942,35.679925],
+  "bbox": [
+    -97.469942,
+    35.679925,
+    -97.469942,
+    35.679925
+],
   "geometry": {"coordinates":[-97.469942,35.679925],"type":"Point"}
 }

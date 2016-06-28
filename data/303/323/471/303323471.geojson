@@ -2,13 +2,14 @@
   "id": 303323471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.891059,36.568828,-95.891059,36.568828",
     "geom:latitude":36.568828,
     "geom:longitude":-95.891059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"399510 W 3100 Rd",
     "sg:city":"Ramona",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303323471,
-    "wof:lastmodified":1448998329,
+    "wof:lastmodified":1466765040,
     "wof:name":"Country Air Canines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.891059,36.568828,-95.891059,36.568828],
+  "bbox": [
+    -95.891059,
+    36.568828,
+    -95.891059,
+    36.568828
+],
   "geometry": {"coordinates":[-95.891059,36.568828],"type":"Point"}
 }

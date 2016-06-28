@@ -2,13 +2,14 @@
   "id": 303057307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.430738,36.437986,-99.430738,36.437986",
     "geom:latitude":36.437986,
     "geom:longitude":-99.430738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 NW Highway St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303057307,
-    "wof:lastmodified":1448999325,
+    "wof:lastmodified":1466762538,
     "wof:name":"Tom Toms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.430738,36.437986,-99.430738,36.437986],
-  "geometry": {"coordinates":[-99.430738,36.437986],"type":"Point"}
+  "bbox": [
+    -99.430738,
+    36.437986,
+    -99.430738,
+    36.437986
+],
+  "geometry": {"coordinates":[-99.43073800000001,36.437986],"type":"Point"}
 }

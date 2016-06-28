@@ -2,13 +2,14 @@
   "id": 303979039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406428,35.523295,-97.406428,35.523295",
     "geom:latitude":35.523295,
     "geom:longitude":-97.406428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 NE 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303979039,
-    "wof:lastmodified":1448999841,
+    "wof:lastmodified":1466767113,
     "wof:name":"One Way Construction",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.406428,35.523295,-97.406428,35.523295],
-  "geometry": {"coordinates":[-97.406428,35.523295],"type":"Point"}
+  "bbox": [
+    -97.406428,
+    35.523295,
+    -97.406428,
+    35.523295
+],
+  "geometry": {"coordinates":[-97.40642800000001,35.523295],"type":"Point"}
 }

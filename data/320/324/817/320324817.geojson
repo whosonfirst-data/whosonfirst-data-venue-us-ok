@@ -2,13 +2,14 @@
   "id": 320324817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.891882,36.427235,-97.891882,36.427235",
     "geom:latitude":36.427235,
     "geom:longitude":-97.891882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 W Oxford Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320324817,
-    "wof:lastmodified":1449013437,
+    "wof:lastmodified":1466765222,
     "wof:name":"Central Assembly of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.891882,36.427235,-97.891882,36.427235],
+  "bbox": [
+    -97.891882,
+    36.427235,
+    -97.891882,
+    36.427235
+],
   "geometry": {"coordinates":[-97.891882,36.427235],"type":"Point"}
 }

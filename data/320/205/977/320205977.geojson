@@ -2,13 +2,14 @@
   "id": 320205977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.968297,36.054888,-95.968297,36.054888",
     "geom:latitude":36.054888,
     "geom:longitude":-95.968297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7525 S Trenton Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320205977,
-    "wof:lastmodified":1449013510,
+    "wof:lastmodified":1466764628,
     "wof:name":"International Gospel Ctr",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.968297,36.054888,-95.968297,36.054888],
-  "geometry": {"coordinates":[-95.968297,36.054888],"type":"Point"}
+  "bbox": [
+    -95.968297,
+    36.054888,
+    -95.968297,
+    36.054888
+],
+  "geometry": {"coordinates":[-95.96829700000001,36.054888],"type":"Point"}
 }

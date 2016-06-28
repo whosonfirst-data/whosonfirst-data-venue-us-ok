@@ -2,13 +2,14 @@
   "id": 303661705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.890076,36.378202,-97.890076,36.378202",
     "geom:latitude":36.378202,
     "geom:longitude":-97.890076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1909 S Van Buren St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303661705,
-    "wof:lastmodified":1449000306,
+    "wof:lastmodified":1466766303,
     "wof:name":"Silver Lining Promotions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.890076,36.378202,-97.890076,36.378202],
-  "geometry": {"coordinates":[-97.890076,36.378202],"type":"Point"}
+  "bbox": [
+    -97.890076,
+    36.378202,
+    -97.890076,
+    36.378202
+],
+  "geometry": {"coordinates":[-97.89007599999999,36.378202],"type":"Point"}
 }

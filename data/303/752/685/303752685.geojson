@@ -2,13 +2,14 @@
   "id": 303752685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.44391,35.424592,-97.44391,35.424592",
     "geom:latitude":35.424592,
     "geom:longitude":-97.44391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4224 Corbett Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303752685,
-    "wof:lastmodified":1448998528,
+    "wof:lastmodified":1466766625,
     "wof:name":"Heartland Enterprises Of Ok",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commercial"
     ]
 },
-  "bbox": [-97.44391,35.424592,-97.44391,35.424592],
+  "bbox": [
+    -97.44391,
+    35.424592,
+    -97.44391,
+    35.424592
+],
   "geometry": {"coordinates":[-97.44391,35.424592],"type":"Point"}
 }

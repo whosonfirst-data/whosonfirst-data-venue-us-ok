@@ -2,13 +2,14 @@
   "id": 303819697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.399003,36.419035,-99.399003,36.419035",
     "geom:latitude":36.419035,
     "geom:longitude":-99.399003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 Downs Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303819697,
-    "wof:lastmodified":1448998692,
+    "wof:lastmodified":1466766763,
     "wof:name":"Kid's-R-Us",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.399003,36.419035,-99.399003,36.419035],
-  "geometry": {"coordinates":[-99.399003,36.419035],"type":"Point"}
+  "bbox": [
+    -99.399003,
+    36.419035,
+    -99.399003,
+    36.419035
+],
+  "geometry": {"coordinates":[-99.39900299999999,36.419035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287169261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.576457,35.527426,-97.576457,35.527426",
     "geom:latitude":35.527426,
     "geom:longitude":-97.576457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3434 NW 56th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287169261,
-    "wof:lastmodified":1449001204,
+    "wof:lastmodified":1466763762,
     "wof:name":"Donald C Gilliland MD Inc",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physician"
     ]
 },
-  "bbox": [-97.576457,35.527426,-97.576457,35.527426],
+  "bbox": [
+    -97.576457,
+    35.527426,
+    -97.576457,
+    35.527426
+],
   "geometry": {"coordinates":[-97.576457,35.527426],"type":"Point"}
 }

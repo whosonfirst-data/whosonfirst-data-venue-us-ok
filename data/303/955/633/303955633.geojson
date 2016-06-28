@@ -2,13 +2,14 @@
   "id": 303955633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.513966,34.010995,-95.513966,34.010995",
     "geom:latitude":34.010995,
     "geom:longitude":-95.513966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W Jackson St",
     "sg:city":"Hugo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303955633,
-    "wof:lastmodified":1448999816,
+    "wof:lastmodified":1466767041,
     "wof:name":"Millennium Home Care Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-95.513966,34.010995,-95.513966,34.010995],
+  "bbox": [
+    -95.513966,
+    34.010995,
+    -95.513966,
+    34.010995
+],
   "geometry": {"coordinates":[-95.513966,34.010995],"type":"Point"}
 }

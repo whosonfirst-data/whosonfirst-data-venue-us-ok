@@ -2,13 +2,14 @@
   "id": 320626851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.528867,35.565546,-97.528867,35.565546",
     "geom:latitude":35.565546,
     "geom:longitude":-97.528867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W Britton Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320626851,
-    "wof:lastmodified":1449014970,
+    "wof:lastmodified":1466766419,
     "wof:name":"Toms Tire Center",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.528867,35.565546,-97.528867,35.565546],
-  "geometry": {"coordinates":[-97.528867,35.565546],"type":"Point"}
+  "bbox": [
+    -97.528867,
+    35.565546,
+    -97.528867,
+    35.565546
+],
+  "geometry": {"coordinates":[-97.52886700000001,35.565546],"type":"Point"}
 }

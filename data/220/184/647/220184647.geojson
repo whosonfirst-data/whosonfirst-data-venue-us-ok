@@ -2,13 +2,14 @@
   "id": 220184647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940277,36.12151,-95.940277,36.12151",
     "geom:latitude":36.12151,
     "geom:longitude":-95.940277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 S Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220184647,
-    "wof:lastmodified":1449074178,
+    "wof:lastmodified":1466762380,
     "wof:name":"Fellowship Congrg Church",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "denomination"
     ]
 },
-  "bbox": [-95.940277,36.12151,-95.940277,36.12151],
-  "geometry": {"coordinates":[-95.940277,36.12151],"type":"Point"}
+  "bbox": [
+    -95.940277,
+    36.12151,
+    -95.940277,
+    36.12151
+],
+  "geometry": {"coordinates":[-95.94027699999999,36.12151],"type":"Point"}
 }

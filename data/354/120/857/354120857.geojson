@@ -2,13 +2,14 @@
   "id": 354120857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.529758,35.518574,-97.529758,35.518574",
     "geom:latitude":35.518574,
     "geom:longitude":-97.529758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4702 N Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354120857,
-    "wof:lastmodified":1449067416,
+    "wof:lastmodified":1466763590,
     "wof:name":"America Loan Co",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-97.529758,35.518574,-97.529758,35.518574],
+  "bbox": [
+    -97.529758,
+    35.518574,
+    -97.529758,
+    35.518574
+],
   "geometry": {"coordinates":[-97.529758,35.518574],"type":"Point"}
 }

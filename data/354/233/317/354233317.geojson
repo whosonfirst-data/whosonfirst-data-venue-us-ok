@@ -2,13 +2,14 @@
   "id": 354233317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.085124,36.724346,-97.085124,36.724346",
     "geom:latitude":36.724346,
     "geom:longitude":-97.085124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 W Hartford Ave",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354233317,
-    "wof:lastmodified":1449067685,
+    "wof:lastmodified":1466764141,
     "wof:name":"Aarons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-97.085124,36.724346,-97.085124,36.724346],
-  "geometry": {"coordinates":[-97.085124,36.724346],"type":"Point"}
+  "bbox": [
+    -97.085124,
+    36.724346,
+    -97.085124,
+    36.724346
+],
+  "geometry": {"coordinates":[-97.08512399999999,36.724346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336855509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.61049,36.32136,-95.61049,36.32136",
     "geom:latitude":36.32136,
     "geom:longitude":-95.61049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 N Lynn Riggs Blvd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336855509,
-    "wof:lastmodified":1448997725,
+    "wof:lastmodified":1466764956,
     "wof:name":"Claremore Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-95.61049,36.32136,-95.61049,36.32136],
+  "bbox": [
+    -95.61049,
+    36.32136,
+    -95.61049,
+    36.32136
+],
   "geometry": {"coordinates":[-95.61049,36.32136],"type":"Point"}
 }

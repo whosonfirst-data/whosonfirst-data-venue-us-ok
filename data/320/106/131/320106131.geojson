@@ -2,13 +2,14 @@
   "id": 320106131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.887712,36.397932,-97.887712,36.397932",
     "geom:latitude":36.397932,
     "geom:longitude":-97.887712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 W Randolph Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320106131,
-    "wof:lastmodified":1449011203,
+    "wof:lastmodified":1466763856,
     "wof:name":"Heritage Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-97.887712,36.397932,-97.887712,36.397932],
-  "geometry": {"coordinates":[-97.887712,36.397932],"type":"Point"}
+  "bbox": [
+    -97.887712,
+    36.397932,
+    -97.887712,
+    36.397932
+],
+  "geometry": {"coordinates":[-97.88771199999999,36.397932],"type":"Point"}
 }

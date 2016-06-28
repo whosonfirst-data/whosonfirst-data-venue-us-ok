@@ -2,13 +2,14 @@
   "id": 353939131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.925919,36.391336,-97.925919,36.391336",
     "geom:latitude":36.391336,
     "geom:longitude":-97.925919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 S Oakwood Rd",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353939131,
-    "wof:lastmodified":1449019018,
+    "wof:lastmodified":1466765714,
     "wof:name":"Liberty Federal Savings Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.925919,36.391336,-97.925919,36.391336],
-  "geometry": {"coordinates":[-97.925919,36.391336],"type":"Point"}
+  "bbox": [
+    -97.925919,
+    36.391336,
+    -97.925919,
+    36.391336
+],
+  "geometry": {"coordinates":[-97.92591899999999,36.391336],"type":"Point"}
 }

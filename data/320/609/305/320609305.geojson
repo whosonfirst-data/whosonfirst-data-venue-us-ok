@@ -2,13 +2,14 @@
   "id": 320609305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.325128,36.309692,-95.325128,36.309692",
     "geom:latitude":36.309692,
     "geom:longitude":-95.325128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 W Graham Ave",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320609305,
-    "wof:lastmodified":1449012670,
+    "wof:lastmodified":1466766296,
     "wof:name":"Expressions Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialty"
     ]
 },
-  "bbox": [-95.325128,36.309692,-95.325128,36.309692],
-  "geometry": {"coordinates":[-95.325128,36.309692],"type":"Point"}
+  "bbox": [
+    -95.325128,
+    36.309692,
+    -95.325128,
+    36.309692
+],
+  "geometry": {"coordinates":[-95.32512800000001,36.309692],"type":"Point"}
 }

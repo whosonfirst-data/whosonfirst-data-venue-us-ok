@@ -2,13 +2,14 @@
   "id": 319885639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.520288,35.588385,-97.520288,35.588385",
     "geom:latitude":35.588385,
     "geom:longitude":-97.520288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11500 N Hudson Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319885639,
-    "wof:lastmodified":1449024502,
+    "wof:lastmodified":1466763450,
     "wof:name":"Oklahoma County Highway Dept",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.520288,35.588385,-97.520288,35.588385],
-  "geometry": {"coordinates":[-97.520288,35.588385],"type":"Point"}
+  "bbox": [
+    -97.520288,
+    35.588385,
+    -97.520288,
+    35.588385
+],
+  "geometry": {"coordinates":[-97.52028799999999,35.588385],"type":"Point"}
 }

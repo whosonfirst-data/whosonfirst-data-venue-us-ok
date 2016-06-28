@@ -2,13 +2,14 @@
   "id": 320676349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.953533,36.175223,-95.953533,36.175223",
     "geom:latitude":36.175223,
     "geom:longitude":-95.953533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2542 E Oklahoma St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320676349,
-    "wof:lastmodified":1449013660,
+    "wof:lastmodified":1466766486,
     "wof:name":"Qualified Services",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "unlicensed"
     ]
 },
-  "bbox": [-95.953533,36.175223,-95.953533,36.175223],
-  "geometry": {"coordinates":[-95.953533,36.175223],"type":"Point"}
+  "bbox": [
+    -95.953533,
+    36.175223,
+    -95.953533,
+    36.175223
+],
+  "geometry": {"coordinates":[-95.95353299999999,36.175223],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336613835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.596766,35.59175,-97.596766,35.59175",
     "geom:latitude":35.59175,
     "geom:longitude":-97.596766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4220 Wind Chime Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336613835,
-    "wof:lastmodified":1448997450,
+    "wof:lastmodified":1466762391,
     "wof:name":"A Flourishing Design",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-97.596766,35.59175,-97.596766,35.59175],
+  "bbox": [
+    -97.596766,
+    35.59175,
+    -97.596766,
+    35.59175
+],
   "geometry": {"coordinates":[-97.596766,35.59175],"type":"Point"}
 }

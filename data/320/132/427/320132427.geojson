@@ -2,13 +2,14 @@
   "id": 320132427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.399775,35.405873,-99.399775,35.405873",
     "geom:latitude":35.405873,
     "geom:longitude":-99.399775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 S Van Buren Ave",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320132427,
-    "wof:lastmodified":1449013089,
+    "wof:lastmodified":1466764290,
     "wof:name":"T & L Trophy's & Ceramics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-99.399775,35.405873,-99.399775,35.405873],
-  "geometry": {"coordinates":[-99.399775,35.405873],"type":"Point"}
+  "bbox": [
+    -99.399775,
+    35.405873,
+    -99.399775,
+    35.405873
+],
+  "geometry": {"coordinates":[-99.39977500000001,35.405873],"type":"Point"}
 }

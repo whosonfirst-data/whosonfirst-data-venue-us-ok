@@ -2,13 +2,14 @@
   "id": 354154693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.001547,34.162683,-98.001547,34.162683",
     "geom:latitude":34.162683,
     "geom:longitude":-98.001547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Main St",
     "sg:city":"Waurika",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354154693,
-    "wof:lastmodified":1449067677,
+    "wof:lastmodified":1466763714,
     "wof:name":"Mane & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.001547,34.162683,-98.001547,34.162683],
+  "bbox": [
+    -98.001547,
+    34.162683,
+    -98.001547,
+    34.162683
+],
   "geometry": {"coordinates":[-98.001547,34.162683],"type":"Point"}
 }

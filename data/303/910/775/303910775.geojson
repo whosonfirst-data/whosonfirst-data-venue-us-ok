@@ -2,13 +2,14 @@
   "id": 303910775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480077,35.654173,-97.480077,35.654173",
     "geom:latitude":35.654173,
     "geom:longitude":-97.480077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 E 1st St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":303910775,
-    "wof:lastmodified":1448999139,
+    "wof:lastmodified":1466766991,
     "wof:name":"Edmond Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.480077,35.654173,-97.480077,35.654173],
-  "geometry": {"coordinates":[-97.480077,35.654173],"type":"Point"}
+  "bbox": [
+    -97.480077,
+    35.654173,
+    -97.480077,
+    35.654173
+],
+  "geometry": {"coordinates":[-97.48007699999999,35.654173],"type":"Point"}
 }

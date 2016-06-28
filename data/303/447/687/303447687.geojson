@@ -2,13 +2,14 @@
   "id": 303447687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.108405,35.998847,-96.108405,35.998847",
     "geom:latitude":35.998847,
     "geom:longitude":-96.108405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 E Dewey Ave",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303447687,
-    "wof:lastmodified":1448999839,
+    "wof:lastmodified":1466765662,
     "wof:name":"Water Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-96.108405,35.998847,-96.108405,35.998847],
+  "bbox": [
+    -96.108405,
+    35.998847,
+    -96.108405,
+    35.998847
+],
   "geometry": {"coordinates":[-96.108405,35.998847],"type":"Point"}
 }

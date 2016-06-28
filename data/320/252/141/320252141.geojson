@@ -2,13 +2,14 @@
   "id": 320252141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.051473,36.141713,-97.051473,36.141713",
     "geom:latitude":36.141713,
     "geom:longitude":-97.051473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1909 N Perkins Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320252141,
-    "wof:lastmodified":1449011739,
+    "wof:lastmodified":1466764766,
     "wof:name":"Carmike Cinema",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.051473,36.141713,-97.051473,36.141713],
+  "bbox": [
+    -97.051473,
+    36.141713,
+    -97.051473,
+    36.141713
+],
   "geometry": {"coordinates":[-97.051473,36.141713],"type":"Point"}
 }

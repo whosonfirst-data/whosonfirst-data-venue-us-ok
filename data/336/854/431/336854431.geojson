@@ -2,13 +2,14 @@
   "id": 336854431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.029497,36.099022,-96.029497,36.099022",
     "geom:latitude":36.099022,
     "geom:longitude":-96.029497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3204 W 45th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336854431,
-    "wof:lastmodified":1448997960,
+    "wof:lastmodified":1466764954,
     "wof:name":"Shell",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-96.029497,36.099022,-96.029497,36.099022],
-  "geometry": {"coordinates":[-96.029497,36.099022],"type":"Point"}
+  "bbox": [
+    -96.029497,
+    36.099022,
+    -96.029497,
+    36.099022
+],
+  "geometry": {"coordinates":[-96.02949700000001,36.099022],"type":"Point"}
 }

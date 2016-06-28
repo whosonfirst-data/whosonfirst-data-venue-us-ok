@@ -2,13 +2,14 @@
   "id": 220190065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975601,36.156712,-95.975601,36.156712",
     "geom:latitude":36.156712,
     "geom:longitude":-95.975601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 E 3rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -82,10 +83,11 @@
         }
     ],
     "wof:id":220190065,
-    "wof:lastmodified":1449074838,
+    "wof:lastmodified":1466762410,
     "wof:name":"City Glass Of Tulsa",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -102,6 +104,11 @@
         "furniture"
     ]
 },
-  "bbox": [-95.975601,36.156712,-95.975601,36.156712],
+  "bbox": [
+    -95.975601,
+    36.156712,
+    -95.975601,
+    36.156712
+],
   "geometry": {"coordinates":[-95.975601,36.156712],"type":"Point"}
 }

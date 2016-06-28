@@ -2,13 +2,14 @@
   "id": 287243321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.486809,35.655677,-97.486809,35.655677",
     "geom:latitude":35.655677,
     "geom:longitude":-97.486809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 W Main St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":287243321,
-    "wof:lastmodified":1449000943,
+    "wof:lastmodified":1466762590,
     "wof:name":"Hartford Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-97.486809,35.655677,-97.486809,35.655677],
-  "geometry": {"coordinates":[-97.486809,35.655677],"type":"Point"}
+  "bbox": [
+    -97.486809,
+    35.655677,
+    -97.486809,
+    35.655677
+],
+  "geometry": {"coordinates":[-97.48680899999999,35.655677],"type":"Point"}
 }

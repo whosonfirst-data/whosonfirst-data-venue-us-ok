@@ -2,13 +2,14 @@
   "id": 353893087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.033601,36.148116,-96.033601,36.148116",
     "geom:latitude":36.148116,
     "geom:longitude":-96.033601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3303 Charles Page Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353893087,
-    "wof:lastmodified":1449020347,
+    "wof:lastmodified":1466765659,
     "wof:name":"Tulsa Housing Authority",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "housing"
     ]
 },
-  "bbox": [-96.033601,36.148116,-96.033601,36.148116],
+  "bbox": [
+    -96.033601,
+    36.148116,
+    -96.033601,
+    36.148116
+],
   "geometry": {"coordinates":[-96.033601,36.148116],"type":"Point"}
 }

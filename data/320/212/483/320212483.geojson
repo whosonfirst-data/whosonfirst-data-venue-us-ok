@@ -2,13 +2,14 @@
   "id": 320212483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547586,35.520896,-97.547586,35.520896",
     "geom:latitude":35.520896,
     "geom:longitude":-97.547586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 N Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320212483,
-    "wof:lastmodified":1449013683,
+    "wof:lastmodified":1466764532,
     "wof:name":"Temple B'Nai Israel",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "synagogue"
     ]
 },
-  "bbox": [-97.547586,35.520896,-97.547586,35.520896],
+  "bbox": [
+    -97.547586,
+    35.520896,
+    -97.547586,
+    35.520896
+],
   "geometry": {"coordinates":[-97.547586,35.520896],"type":"Point"}
 }

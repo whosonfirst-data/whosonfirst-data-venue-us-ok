@@ -2,13 +2,14 @@
   "id": 303802545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.173223,35.156182,-99.173223,35.156182",
     "geom:latitude":35.156182,
     "geom:longitude":-99.173223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 5th St",
     "sg:city":"Sentinel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303802545,
-    "wof:lastmodified":1449000109,
+    "wof:lastmodified":1466766731,
     "wof:name":"Community House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "citizen"
     ]
 },
-  "bbox": [-99.173223,35.156182,-99.173223,35.156182],
-  "geometry": {"coordinates":[-99.173223,35.156182],"type":"Point"}
+  "bbox": [
+    -99.173223,
+    35.156182,
+    -99.173223,
+    35.156182
+],
+  "geometry": {"coordinates":[-99.17322299999999,35.156182],"type":"Point"}
 }

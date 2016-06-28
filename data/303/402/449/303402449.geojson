@@ -2,13 +2,14 @@
   "id": 303402449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.512893,34.00982,-95.512893,34.00982",
     "geom:latitude":34.00982,
     "geom:longitude":-95.512893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Duke St",
     "sg:city":"Hugo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303402449,
-    "wof:lastmodified":1448998901,
+    "wof:lastmodified":1466765457,
     "wof:name":"Heaven's Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.512893,34.00982,-95.512893,34.00982],
-  "geometry": {"coordinates":[-95.512893,34.00982],"type":"Point"}
+  "bbox": [
+    -95.512893,
+    34.00982,
+    -95.512893,
+    34.00982
+],
+  "geometry": {"coordinates":[-95.51289300000001,34.00982],"type":"Point"}
 }

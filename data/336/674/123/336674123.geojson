@@ -2,13 +2,14 @@
   "id": 336674123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.511863,35.482252,-97.511863,35.482252",
     "geom:latitude":35.482252,
     "geom:longitude":-97.511863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"92 NE 13th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336674123,
-    "wof:lastmodified":1448997744,
+    "wof:lastmodified":1466763320,
     "wof:name":"Va Medical Ctr Library",
     "wof:parent_id":85871669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.511863,35.482252,-97.511863,35.482252],
-  "geometry": {"coordinates":[-97.511863,35.482252],"type":"Point"}
+  "bbox": [
+    -97.511863,
+    35.482252,
+    -97.511863,
+    35.482252
+],
+  "geometry": {"coordinates":[-97.51186300000001,35.482252],"type":"Point"}
 }

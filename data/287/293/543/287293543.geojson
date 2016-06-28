@@ -2,13 +2,14 @@
   "id": 287293543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.603203,35.486121,-97.603203,35.486121",
     "geom:latitude":35.486121,
     "geom:longitude":-97.603203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 NW 16th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287293543,
-    "wof:lastmodified":1449000836,
+    "wof:lastmodified":1466763334,
     "wof:name":"Sikh Gurdwara Of Oklahoma",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.603203,35.486121,-97.603203,35.486121],
-  "geometry": {"coordinates":[-97.603203,35.486121],"type":"Point"}
+  "bbox": [
+    -97.603203,
+    35.486121,
+    -97.603203,
+    35.486121
+],
+  "geometry": {"coordinates":[-97.60320299999999,35.486121],"type":"Point"}
 }

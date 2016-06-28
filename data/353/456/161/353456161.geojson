@@ -2,13 +2,14 @@
   "id": 353456161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.184914,36.246616,-98.184914,36.246616",
     "geom:latitude":36.246616,
     "geom:longitude":-98.184914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Frisco St",
     "sg:city":"Ames",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353456161,
-    "wof:lastmodified":1449019022,
+    "wof:lastmodified":1466762744,
     "wof:name":"Korner Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.184914,36.246616,-98.184914,36.246616],
-  "geometry": {"coordinates":[-98.184914,36.246616],"type":"Point"}
+  "bbox": [
+    -98.184914,
+    36.246616,
+    -98.184914,
+    36.246616
+],
+  "geometry": {"coordinates":[-98.18491400000001,36.246616],"type":"Point"}
 }

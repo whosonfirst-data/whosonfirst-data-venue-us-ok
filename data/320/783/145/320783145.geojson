@@ -2,13 +2,14 @@
   "id": 320783145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.668304,35.225405,-96.668304,35.225405",
     "geom:latitude":35.225405,
     "geom:longitude":-96.668304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 E Oak Ave",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320783145,
-    "wof:lastmodified":1449011380,
+    "wof:lastmodified":1466766790,
     "wof:name":"Smith Lock & Key",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-96.668304,35.225405,-96.668304,35.225405],
-  "geometry": {"coordinates":[-96.668304,35.225405],"type":"Point"}
+  "bbox": [
+    -96.668304,
+    35.225405,
+    -96.668304,
+    35.225405
+],
+  "geometry": {"coordinates":[-96.66830400000001,35.225405],"type":"Point"}
 }

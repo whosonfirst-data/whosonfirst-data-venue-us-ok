@@ -2,13 +2,14 @@
   "id": 354013139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.111219,34.503988,-97.111219,34.503988",
     "geom:latitude":34.503988,
     "geom:longitude":-97.111219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 E Hanna Ave",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354013139,
-    "wof:lastmodified":1449067126,
+    "wof:lastmodified":1466763017,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.111219,34.503988,-97.111219,34.503988],
-  "geometry": {"coordinates":[-97.111219,34.503988],"type":"Point"}
+  "bbox": [
+    -97.111219,
+    34.503988,
+    -97.111219,
+    34.503988
+],
+  "geometry": {"coordinates":[-97.11121900000001,34.503988],"type":"Point"}
 }

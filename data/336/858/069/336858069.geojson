@@ -2,13 +2,14 @@
   "id": 336858069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.618944,35.488558,-97.618944,35.488558",
     "geom:latitude":35.488558,
     "geom:longitude":-97.618944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336858069,
-    "wof:lastmodified":1448997040,
+    "wof:lastmodified":1466764856,
     "wof:name":"Central Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.618944,35.488558,-97.618944,35.488558],
+  "bbox": [
+    -97.618944,
+    35.488558,
+    -97.618944,
+    35.488558
+],
   "geometry": {"coordinates":[-97.618944,35.488558],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303335033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.946139,36.029436,-95.946139,36.029436",
     "geom:latitude":36.029436,
     "geom:longitude":-95.946139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9213 S Evanston Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303335033,
-    "wof:lastmodified":1448999730,
+    "wof:lastmodified":1466765102,
     "wof:name":"R & R Trucking",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.946139,36.029436,-95.946139,36.029436],
+  "bbox": [
+    -95.946139,
+    36.029436,
+    -95.946139,
+    36.029436
+],
   "geometry": {"coordinates":[-95.946139,36.029436],"type":"Point"}
 }

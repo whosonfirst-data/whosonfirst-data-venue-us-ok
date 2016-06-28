@@ -2,13 +2,14 @@
   "id": 353493197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530292,35.418277,-97.530292,35.418277",
     "geom:latitude":35.418277,
     "geom:longitude":-97.530292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4717 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353493197,
-    "wof:lastmodified":1449019071,
+    "wof:lastmodified":1466763025,
     "wof:name":"Tax & Financial Control Center",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-97.530292,35.418277,-97.530292,35.418277],
+  "bbox": [
+    -97.530292,
+    35.418277,
+    -97.530292,
+    35.418277
+],
   "geometry": {"coordinates":[-97.530292,35.418277],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303390519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.439113,35.723792,-97.439113,35.723792",
     "geom:latitude":35.723792,
     "geom:longitude":-97.439113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6313 Blue Sage Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303390519,
-    "wof:lastmodified":1449000593,
+    "wof:lastmodified":1466765279,
     "wof:name":"Cottage Supply & Plants",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-97.439113,35.723792,-97.439113,35.723792],
-  "geometry": {"coordinates":[-97.439113,35.723792],"type":"Point"}
+  "bbox": [
+    -97.439113,
+    35.723792,
+    -97.439113,
+    35.723792
+],
+  "geometry": {"coordinates":[-97.43911300000001,35.723792],"type":"Point"}
 }

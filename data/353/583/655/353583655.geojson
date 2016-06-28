@@ -2,13 +2,14 @@
   "id": 353583655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.460331,35.656672,-97.460331,35.656672",
     "geom:latitude":35.656672,
     "geom:longitude":-97.460331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Bryant Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353583655,
-    "wof:lastmodified":1449020283,
+    "wof:lastmodified":1466764303,
     "wof:name":"Kickingbird Family Medicine",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-97.460331,35.656672,-97.460331,35.656672],
+  "bbox": [
+    -97.460331,
+    35.656672,
+    -97.460331,
+    35.656672
+],
   "geometry": {"coordinates":[-97.460331,35.656672],"type":"Point"}
 }

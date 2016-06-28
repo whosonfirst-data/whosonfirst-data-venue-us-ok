@@ -2,13 +2,14 @@
   "id": 353583933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.001309,36.354327,-96.001309,36.354327",
     "geom:latitude":36.354327,
     "geom:longitude":-96.001309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 S Osage St",
     "sg:city":"Skiatook",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353583933,
-    "wof:lastmodified":1449020281,
+    "wof:lastmodified":1466764307,
     "wof:name":"Skiatook First Assembly Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.001309,36.354327,-96.001309,36.354327],
-  "geometry": {"coordinates":[-96.001309,36.354327],"type":"Point"}
+  "bbox": [
+    -96.001309,
+    36.354327,
+    -96.001309,
+    36.354327
+],
+  "geometry": {"coordinates":[-96.00130900000001,36.354327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320181043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.999845,36.752294,-95.999845,36.752294",
     "geom:latitude":36.752294,
     "geom:longitude":-95.999845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1824 W 2nd St",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320181043,
-    "wof:lastmodified":1449013545,
+    "wof:lastmodified":1466764637,
     "wof:name":"Angels Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gift"
     ]
 },
-  "bbox": [-95.999845,36.752294,-95.999845,36.752294],
-  "geometry": {"coordinates":[-95.999845,36.752294],"type":"Point"}
+  "bbox": [
+    -95.999845,
+    36.752294,
+    -95.999845,
+    36.752294
+],
+  "geometry": {"coordinates":[-95.99984499999999,36.752294],"type":"Point"}
 }

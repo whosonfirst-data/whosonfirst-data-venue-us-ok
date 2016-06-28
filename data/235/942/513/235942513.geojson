@@ -2,13 +2,14 @@
   "id": 235942513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.868598,36.084953,-95.868598,36.084953",
     "geom:latitude":36.084953,
     "geom:longitude":-95.868598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5515 S Mingo Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235942513,
-    "wof:lastmodified":1449008407,
+    "wof:lastmodified":1466762498,
     "wof:name":"Robinson Chiropractic",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-95.868598,36.084953,-95.868598,36.084953],
-  "geometry": {"coordinates":[-95.868598,36.084953],"type":"Point"}
+  "bbox": [
+    -95.868598,
+    36.084953,
+    -95.868598,
+    36.084953
+],
+  "geometry": {"coordinates":[-95.86859800000001,36.084953],"type":"Point"}
 }

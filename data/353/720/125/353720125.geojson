@@ -2,13 +2,14 @@
   "id": 353720125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.164408,34.158421,-97.164408,34.158421",
     "geom:latitude":34.158421,
     "geom:longitude":-97.164408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Hedges Rd",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353720125,
-    "wof:lastmodified":1449018863,
+    "wof:lastmodified":1466764965,
     "wof:name":"George Ramsey Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.164408,34.158421,-97.164408,34.158421],
-  "geometry": {"coordinates":[-97.164408,34.158421],"type":"Point"}
+  "bbox": [
+    -97.164408,
+    34.158421,
+    -97.164408,
+    34.158421
+],
+  "geometry": {"coordinates":[-97.16440799999999,34.158421],"type":"Point"}
 }

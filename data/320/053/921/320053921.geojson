@@ -2,13 +2,14 @@
   "id": 320053921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.51631,35.452041,-97.51631,35.452041",
     "geom:latitude":35.452041,
     "geom:longitude":-97.51631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 S Robinson Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320053921,
-    "wof:lastmodified":1449011965,
+    "wof:lastmodified":1466763088,
     "wof:name":"Lepak Trucking Co",
     "wof:parent_id":85871685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.51631,35.452041,-97.51631,35.452041],
+  "bbox": [
+    -97.51631,
+    35.452041,
+    -97.51631,
+    35.452041
+],
   "geometry": {"coordinates":[-97.51631,35.452041],"type":"Point"}
 }

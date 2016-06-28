@@ -2,13 +2,14 @@
   "id": 235936537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.939996,36.030501,-95.939996,36.030501",
     "geom:latitude":36.030501,
     "geom:longitude":-95.939996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9222 S Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":235936537,
-    "wof:lastmodified":1449008373,
+    "wof:lastmodified":1466762428,
     "wof:name":"Father's House",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.939996,36.030501,-95.939996,36.030501],
-  "geometry": {"coordinates":[-95.939996,36.030501],"type":"Point"}
+  "bbox": [
+    -95.939996,
+    36.030501,
+    -95.939996,
+    36.030501
+],
+  "geometry": {"coordinates":[-95.93999599999999,36.030501],"type":"Point"}
 }

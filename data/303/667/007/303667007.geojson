@@ -2,13 +2,14 @@
   "id": 303667007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.691951,35.545196,-98.691951,35.545196",
     "geom:latitude":35.545196,
     "geom:longitude":-98.691951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 Suzanne Dr",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303667007,
-    "wof:lastmodified":1448999718,
+    "wof:lastmodified":1466766543,
     "wof:name":"Weatheridge Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-98.691951,35.545196,-98.691951,35.545196],
+  "bbox": [
+    -98.691951,
+    35.545196,
+    -98.691951,
+    35.545196
+],
   "geometry": {"coordinates":[-98.691951,35.545196],"type":"Point"}
 }

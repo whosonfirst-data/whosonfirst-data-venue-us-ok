@@ -2,13 +2,14 @@
   "id": 320491013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.46515,36.305788,-96.46515,36.305788",
     "geom:latitude":36.305788,
     "geom:longitude":-96.46515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W Caddo St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320491013,
-    "wof:lastmodified":1449011198,
+    "wof:lastmodified":1466766043,
     "wof:name":"American Heritage Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.46515,36.305788,-96.46515,36.305788],
-  "geometry": {"coordinates":[-96.46515,36.305788],"type":"Point"}
+  "bbox": [
+    -96.46515,
+    36.305788,
+    -96.46515,
+    36.305788
+],
+  "geometry": {"coordinates":[-96.46514999999999,36.305788],"type":"Point"}
 }

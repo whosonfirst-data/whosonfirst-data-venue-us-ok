@@ -2,13 +2,14 @@
   "id": 303623629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.96806,35.530371,-97.96806,35.530371",
     "geom:latitude":35.530371,
     "geom:longitude":-97.96806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 W London St",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303623629,
-    "wof:lastmodified":1448999834,
+    "wof:lastmodified":1466766158,
     "wof:name":"Buckles Paint",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.96806,35.530371,-97.96806,35.530371],
-  "geometry": {"coordinates":[-97.96806,35.530371],"type":"Point"}
+  "bbox": [
+    -97.96806,
+    35.530371,
+    -97.96806,
+    35.530371
+],
+  "geometry": {"coordinates":[-97.96805999999999,35.530371],"type":"Point"}
 }

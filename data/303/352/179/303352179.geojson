@@ -2,13 +2,14 @@
   "id": 303352179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.302108,35.357409,-97.302108,35.357409",
     "geom:latitude":35.357409,
     "geom:longitude":-97.302108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12900 Tracy Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303352179,
-    "wof:lastmodified":1448999623,
+    "wof:lastmodified":1466765067,
     "wof:name":"Capitol Service Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.302108,35.357409,-97.302108,35.357409],
+  "bbox": [
+    -97.302108,
+    35.357409,
+    -97.302108,
+    35.357409
+],
   "geometry": {"coordinates":[-97.302108,35.357409],"type":"Point"}
 }

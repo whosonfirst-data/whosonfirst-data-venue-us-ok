@@ -2,13 +2,14 @@
   "id": 320442117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.659753,35.585443,-97.659753,35.585443",
     "geom:latitude":35.585443,
     "geom:longitude":-97.659753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11329 Windmill Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320442117,
-    "wof:lastmodified":1449012890,
+    "wof:lastmodified":1466765807,
     "wof:name":"Don Young Custom Homes",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-97.659753,35.585443,-97.659753,35.585443],
-  "geometry": {"coordinates":[-97.659753,35.585443],"type":"Point"}
+  "bbox": [
+    -97.659753,
+    35.585443,
+    -97.659753,
+    35.585443
+],
+  "geometry": {"coordinates":[-97.65975299999999,35.585443],"type":"Point"}
 }

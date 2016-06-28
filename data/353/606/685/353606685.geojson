@@ -2,13 +2,14 @@
   "id": 353606685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.969889,34.50716,-96.969889,34.50716",
     "geom:latitude":34.50716,
     "geom:longitude":-96.969889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Muskogee Ave",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353606685,
-    "wof:lastmodified":1449018649,
+    "wof:lastmodified":1466764416,
     "wof:name":"Diacon True Value Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.969889,34.50716,-96.969889,34.50716],
-  "geometry": {"coordinates":[-96.969889,34.50716],"type":"Point"}
+  "bbox": [
+    -96.969889,
+    34.50716,
+    -96.969889,
+    34.50716
+],
+  "geometry": {"coordinates":[-96.96988899999999,34.50716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303632553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547788,35.380783,-97.547788,35.380783",
     "geom:latitude":35.380783,
     "geom:longitude":-97.547788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8516 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303632553,
-    "wof:lastmodified":1448999677,
+    "wof:lastmodified":1466766307,
     "wof:name":"First American Title & Tr Co",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-97.547788,35.380783,-97.547788,35.380783],
+  "bbox": [
+    -97.547788,
+    35.380783,
+    -97.547788,
+    35.380783
+],
   "geometry": {"coordinates":[-97.547788,35.380783],"type":"Point"}
 }

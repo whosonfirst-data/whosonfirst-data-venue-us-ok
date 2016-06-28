@@ -2,13 +2,14 @@
   "id": 303497053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.896338,36.110445,-97.896338,36.110445",
     "geom:latitude":36.110445,
     "geom:longitude":-97.896338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E Kansas St",
     "sg:city":"Hennessey",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303497053,
-    "wof:lastmodified":1449000528,
+    "wof:lastmodified":1466765820,
     "wof:name":"Stribel Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.896338,36.110445,-97.896338,36.110445],
+  "bbox": [
+    -97.896338,
+    36.110445,
+    -97.896338,
+    36.110445
+],
   "geometry": {"coordinates":[-97.896338,36.110445],"type":"Point"}
 }

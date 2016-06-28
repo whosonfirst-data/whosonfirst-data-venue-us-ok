@@ -2,13 +2,14 @@
   "id": 320320541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.496035,35.60534,-97.496035,35.60534",
     "geom:latitude":35.60534,
     "geom:longitude":-97.496035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13313 N Kelley Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320320541,
-    "wof:lastmodified":1449012205,
+    "wof:lastmodified":1466765411,
     "wof:name":"Baggerley Memorial Chapel",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-97.496035,35.60534,-97.496035,35.60534],
-  "geometry": {"coordinates":[-97.496035,35.60534],"type":"Point"}
+  "bbox": [
+    -97.496035,
+    35.60534,
+    -97.496035,
+    35.60534
+],
+  "geometry": {"coordinates":[-97.49603500000001,35.60534],"type":"Point"}
 }

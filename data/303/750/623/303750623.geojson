@@ -2,13 +2,14 @@
   "id": 303750623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.956427,34.648149,-97.956427,34.648149",
     "geom:latitude":34.648149,
     "geom:longitude":-97.956427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N 2nd St",
     "sg:city":"Marlow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303750623,
-    "wof:lastmodified":1448999598,
+    "wof:lastmodified":1466766538,
     "wof:name":"A Short Cut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.956427,34.648149,-97.956427,34.648149],
-  "geometry": {"coordinates":[-97.956427,34.648149],"type":"Point"}
+  "bbox": [
+    -97.956427,
+    34.648149,
+    -97.956427,
+    34.648149
+],
+  "geometry": {"coordinates":[-97.95642700000001,34.648149],"type":"Point"}
 }

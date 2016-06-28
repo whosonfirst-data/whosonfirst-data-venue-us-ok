@@ -2,13 +2,14 @@
   "id": 303629089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.706725,35.375805,-97.706725,35.375805",
     "geom:latitude":35.375805,
     "geom:longitude":-97.706725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9500 S Sara Rd",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303629089,
-    "wof:lastmodified":1448999989,
+    "wof:lastmodified":1466766302,
     "wof:name":"Upc Campground",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.706725,35.375805,-97.706725,35.375805],
-  "geometry": {"coordinates":[-97.706725,35.375805],"type":"Point"}
+  "bbox": [
+    -97.706725,
+    35.375805,
+    -97.706725,
+    35.375805
+],
+  "geometry": {"coordinates":[-97.70672500000001,35.375805],"type":"Point"}
 }

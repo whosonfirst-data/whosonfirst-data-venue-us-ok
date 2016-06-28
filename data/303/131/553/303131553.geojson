@@ -2,13 +2,14 @@
   "id": 303131553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.189451,35.47848,-97.189451,35.47848",
     "geom:latitude":35.47848,
     "geom:longitude":-97.189451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19190 NE 10th St",
     "sg:city":"Harrah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303131553,
-    "wof:lastmodified":1448998852,
+    "wof:lastmodified":1466763746,
     "wof:name":"Bagley Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-97.189451,35.47848,-97.189451,35.47848],
-  "geometry": {"coordinates":[-97.189451,35.47848],"type":"Point"}
+  "bbox": [
+    -97.189451,
+    35.47848,
+    -97.189451,
+    35.47848
+],
+  "geometry": {"coordinates":[-97.18945100000001,35.47848],"type":"Point"}
 }

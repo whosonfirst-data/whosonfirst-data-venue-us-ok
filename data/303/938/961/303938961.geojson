@@ -2,13 +2,14 @@
   "id": 303938961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.114318,34.200602,-97.114318,34.200602",
     "geom:latitude":34.200602,
     "geom:longitude":-97.114318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Akron Ave",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303938961,
-    "wof:lastmodified":1448999943,
+    "wof:lastmodified":1466767018,
     "wof:name":"Ardmore Glass & Mirror",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.114318,34.200602,-97.114318,34.200602],
+  "bbox": [
+    -97.114318,
+    34.200602,
+    -97.114318,
+    34.200602
+],
   "geometry": {"coordinates":[-97.114318,34.200602],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336699685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.550028,35.445607,-97.550028,35.445607",
     "geom:latitude":35.445607,
     "geom:longitude":-97.550028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2115 SW 19th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336699685,
-    "wof:lastmodified":1448997080,
+    "wof:lastmodified":1466763715,
     "wof:name":"Roo",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-97.550028,35.445607,-97.550028,35.445607],
+  "bbox": [
+    -97.550028,
+    35.445607,
+    -97.550028,
+    35.445607
+],
   "geometry": {"coordinates":[-97.550028,35.445607],"type":"Point"}
 }

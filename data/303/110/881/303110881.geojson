@@ -2,13 +2,14 @@
   "id": 303110881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.412936,35.844485,-98.412936,35.844485",
     "geom:latitude":35.844485,
     "geom:longitude":-98.412936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Main St",
     "sg:city":"Watonga",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303110881,
-    "wof:lastmodified":1448998919,
+    "wof:lastmodified":1466763408,
     "wof:name":"Liberty Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.412936,35.844485,-98.412936,35.844485],
+  "bbox": [
+    -98.412936,
+    35.844485,
+    -98.412936,
+    35.844485
+],
   "geometry": {"coordinates":[-98.412936,35.844485],"type":"Point"}
 }

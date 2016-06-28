@@ -2,13 +2,14 @@
   "id": 353809887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.944331,34.56513,-97.944331,34.56513",
     "geom:latitude":34.56513,
     "geom:longitude":-97.944331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 E Osage Rd",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353809887,
-    "wof:lastmodified":1449020370,
+    "wof:lastmodified":1466765375,
     "wof:name":"TLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [-97.944331,34.56513,-97.944331,34.56513],
-  "geometry": {"coordinates":[-97.944331,34.56513],"type":"Point"}
+  "bbox": [
+    -97.944331,
+    34.56513,
+    -97.944331,
+    34.56513
+],
+  "geometry": {"coordinates":[-97.94433100000001,34.56513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303754415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.655768,36.799348,-98.655768,36.799348",
     "geom:latitude":36.799348,
     "geom:longitude":-98.655768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E Maple St",
     "sg:city":"Alva",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303754415,
-    "wof:lastmodified":1448999719,
+    "wof:lastmodified":1466766621,
     "wof:name":"S & R Motor Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parts"
     ]
 },
-  "bbox": [-98.655768,36.799348,-98.655768,36.799348],
-  "geometry": {"coordinates":[-98.655768,36.799348],"type":"Point"}
+  "bbox": [
+    -98.655768,
+    36.799348,
+    -98.655768,
+    36.799348
+],
+  "geometry": {"coordinates":[-98.65576799999999,36.799348],"type":"Point"}
 }

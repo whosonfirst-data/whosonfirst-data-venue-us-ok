@@ -2,13 +2,14 @@
   "id": 320435203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.100523,36.157169,-96.100523,36.157169",
     "geom:latitude":36.157169,
     "geom:longitude":-96.100523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 N Birch Ave",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320435203,
-    "wof:lastmodified":1449014620,
+    "wof:lastmodified":1466765902,
     "wof:name":"Hiwear Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.100523,36.157169,-96.100523,36.157169],
+  "bbox": [
+    -96.100523,
+    36.157169,
+    -96.100523,
+    36.157169
+],
   "geometry": {"coordinates":[-96.100523,36.157169],"type":"Point"}
 }

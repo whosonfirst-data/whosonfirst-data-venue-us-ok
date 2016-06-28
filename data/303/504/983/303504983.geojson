@@ -2,13 +2,14 @@
   "id": 303504983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.524962,35.537009,-97.524962,35.537009",
     "geom:latitude":35.537009,
     "geom:longitude":-97.524962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 NW 63rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303504983,
-    "wof:lastmodified":1448998548,
+    "wof:lastmodified":1466765864,
     "wof:name":"Kite Investments",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "closed"
     ]
 },
-  "bbox": [-97.524962,35.537009,-97.524962,35.537009],
+  "bbox": [
+    -97.524962,
+    35.537009,
+    -97.524962,
+    35.537009
+],
   "geometry": {"coordinates":[-97.524962,35.537009],"type":"Point"}
 }

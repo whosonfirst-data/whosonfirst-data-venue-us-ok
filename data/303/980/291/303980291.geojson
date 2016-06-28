@@ -2,13 +2,14 @@
   "id": 303980291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.610688,35.545778,-97.610688,35.545778",
     "geom:latitude":35.545778,
     "geom:longitude":-97.610688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303980291,
-    "wof:lastmodified":1448998282,
+    "wof:lastmodified":1466767115,
     "wof:name":"Chilis",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-97.610688,35.545778,-97.610688,35.545778],
+  "bbox": [
+    -97.610688,
+    35.545778,
+    -97.610688,
+    35.545778
+],
   "geometry": {"coordinates":[-97.610688,35.545778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303465039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.001308,36.368522,-96.001308,36.368522",
     "geom:latitude":36.368522,
     "geom:longitude":-96.001308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Rogers Blvd",
     "sg:city":"Skiatook",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303465039,
-    "wof:lastmodified":1448999763,
+    "wof:lastmodified":1466765576,
     "wof:name":"Hairplay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.001308,36.368522,-96.001308,36.368522],
-  "geometry": {"coordinates":[-96.001308,36.368522],"type":"Point"}
+  "bbox": [
+    -96.001308,
+    36.368522,
+    -96.001308,
+    36.368522
+],
+  "geometry": {"coordinates":[-96.00130799999999,36.368522],"type":"Point"}
 }

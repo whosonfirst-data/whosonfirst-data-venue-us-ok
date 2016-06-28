@@ -2,13 +2,14 @@
   "id": 303207797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.544047,36.176944,-95.544047,36.176944",
     "geom:latitude":36.176944,
     "geom:longitude":-95.544047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16150 E 580 Rd",
     "sg:city":"Inola",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303207797,
-    "wof:lastmodified":1448999828,
+    "wof:lastmodified":1466764468,
     "wof:name":"Bluestar Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.544047,36.176944,-95.544047,36.176944],
-  "geometry": {"coordinates":[-95.544047,36.176944],"type":"Point"}
+  "bbox": [
+    -95.544047,
+    36.176944,
+    -95.544047,
+    36.176944
+],
+  "geometry": {"coordinates":[-95.54404700000001,36.176944],"type":"Point"}
 }

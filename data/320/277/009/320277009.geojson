@@ -2,13 +2,14 @@
   "id": 320277009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494434,35.480055,-97.494434,35.480055",
     "geom:latitude":35.480055,
     "geom:longitude":-97.494434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Stanton L Young Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320277009,
-    "wof:lastmodified":1449011669,
+    "wof:lastmodified":1466765153,
     "wof:name":"S Abbas Shobeiri MD",
     "wof:parent_id":85871693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.494434,35.480055,-97.494434,35.480055],
+  "bbox": [
+    -97.494434,
+    35.480055,
+    -97.494434,
+    35.480055
+],
   "geometry": {"coordinates":[-97.494434,35.480055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353806873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.586766,35.278561,-95.586766,35.278561",
     "geom:latitude":35.278561,
     "geom:longitude":-95.586766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Lakeland Cove Ter",
     "sg:city":"Eufaula",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353806873,
-    "wof:lastmodified":1449018249,
+    "wof:lastmodified":1466765358,
     "wof:name":"Lakeland Cove Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.586766,35.278561,-95.586766,35.278561],
+  "bbox": [
+    -95.586766,
+    35.278561,
+    -95.586766,
+    35.278561
+],
   "geometry": {"coordinates":[-95.586766,35.278561],"type":"Point"}
 }

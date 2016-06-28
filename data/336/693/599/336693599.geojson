@@ -2,13 +2,14 @@
   "id": 336693599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.76918,36.156956,-95.76918,36.156956",
     "geom:latitude":36.156956,
     "geom:longitude":-95.76918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18559 E 3rd Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336693599,
-    "wof:lastmodified":1448996982,
+    "wof:lastmodified":1466763624,
     "wof:name":"Dennis Stanley Photography",
     "wof:parent_id":85831775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photography"
     ]
 },
-  "bbox": [-95.76918,36.156956,-95.76918,36.156956],
-  "geometry": {"coordinates":[-95.76918,36.156956],"type":"Point"}
+  "bbox": [
+    -95.76918,
+    36.156956,
+    -95.76918,
+    36.156956
+],
+  "geometry": {"coordinates":[-95.76918000000001,36.156956],"type":"Point"}
 }

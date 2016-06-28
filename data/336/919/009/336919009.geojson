@@ -2,13 +2,14 @@
   "id": 336919009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.396722,34.588092,-98.396722,34.588092",
     "geom:latitude":34.588092,
     "geom:longitude":-98.396722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 SW 6th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336919009,
-    "wof:lastmodified":1448997762,
+    "wof:lastmodified":1466765186,
     "wof:name":"Nix Tire Ctr",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-98.396722,34.588092,-98.396722,34.588092],
+  "bbox": [
+    -98.396722,
+    34.588092,
+    -98.396722,
+    34.588092
+],
   "geometry": {"coordinates":[-98.396722,34.588092],"type":"Point"}
 }

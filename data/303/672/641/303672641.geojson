@@ -2,13 +2,14 @@
   "id": 303672641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.85372,36.267201,-95.85372,36.267201",
     "geom:latitude":36.267201,
     "geom:longitude":-95.85372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Birch St",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303672641,
-    "wof:lastmodified":1448998275,
+    "wof:lastmodified":1466766431,
     "wof:name":"Owasso Community Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-95.85372,36.267201,-95.85372,36.267201],
+  "bbox": [
+    -95.85372,
+    36.267201,
+    -95.85372,
+    36.267201
+],
   "geometry": {"coordinates":[-95.85372,36.267201],"type":"Point"}
 }

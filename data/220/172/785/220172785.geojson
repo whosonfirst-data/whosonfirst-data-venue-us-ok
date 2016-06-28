@@ -2,13 +2,14 @@
   "id": 220172785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.96711,36.137481,-95.96711,36.137481",
     "geom:latitude":36.137481,
     "geom:longitude":-95.96711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 S Utica Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":220172785,
-    "wof:lastmodified":1449074364,
+    "wof:lastmodified":1466762332,
     "wof:name":"Weiss Melissa N",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "counselor"
     ]
 },
-  "bbox": [-95.96711,36.137481,-95.96711,36.137481],
-  "geometry": {"coordinates":[-95.96711,36.137481],"type":"Point"}
+  "bbox": [
+    -95.96711,
+    36.137481,
+    -95.96711,
+    36.137481
+],
+  "geometry": {"coordinates":[-95.96711000000001,36.137481],"type":"Point"}
 }

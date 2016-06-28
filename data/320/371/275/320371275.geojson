@@ -2,13 +2,14 @@
   "id": 320371275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.491587,35.413522,-97.491587,35.413522",
     "geom:latitude":35.413522,
     "geom:longitude":-97.491587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 S I- 35 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320371275,
-    "wof:lastmodified":1449014135,
+    "wof:lastmodified":1466765578,
     "wof:name":"Frontier State Bank",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.491587,35.413522,-97.491587,35.413522],
+  "bbox": [
+    -97.491587,
+    35.413522,
+    -97.491587,
+    35.413522
+],
   "geometry": {"coordinates":[-97.491587,35.413522],"type":"Point"}
 }

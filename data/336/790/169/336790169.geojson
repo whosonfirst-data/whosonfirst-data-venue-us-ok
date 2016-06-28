@@ -2,13 +2,14 @@
   "id": 336790169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.360141,35.010934,-97.360141,35.010934",
     "geom:latitude":35.010934,
     "geom:longitude":-97.360141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 W Apache St",
     "sg:city":"Purcell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336790169,
-    "wof:lastmodified":1448997784,
+    "wof:lastmodified":1466764625,
     "wof:name":"Its A Dogs Life",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-97.360141,35.010934,-97.360141,35.010934],
+  "bbox": [
+    -97.360141,
+    35.010934,
+    -97.360141,
+    35.010934
+],
   "geometry": {"coordinates":[-97.360141,35.010934],"type":"Point"}
 }

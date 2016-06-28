@@ -2,13 +2,14 @@
   "id": 353707679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.75609,35.551163,-97.75609,35.551163",
     "geom:latitude":35.551163,
     "geom:longitude":-97.75609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12701 W Wilshire Blvd",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353707679,
-    "wof:lastmodified":1449020422,
+    "wof:lastmodified":1466764796,
     "wof:name":"Express Clydesdales LLC",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-97.75609,35.551163,-97.75609,35.551163],
+  "bbox": [
+    -97.75609,
+    35.551163,
+    -97.75609,
+    35.551163
+],
   "geometry": {"coordinates":[-97.75609,35.551163],"type":"Point"}
 }

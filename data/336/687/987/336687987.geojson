@@ -2,13 +2,14 @@
   "id": 336687987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.834336,36.156628,-95.834336,36.156628",
     "geom:latitude":36.156628,
     "geom:longitude":-95.834336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12320 E Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336687987,
-    "wof:lastmodified":1448997248,
+    "wof:lastmodified":1466763537,
     "wof:name":"TRC Corp",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vitamin"
     ]
 },
-  "bbox": [-95.834336,36.156628,-95.834336,36.156628],
-  "geometry": {"coordinates":[-95.834336,36.156628],"type":"Point"}
+  "bbox": [
+    -95.834336,
+    36.156628,
+    -95.834336,
+    36.156628
+],
+  "geometry": {"coordinates":[-95.83433599999999,36.156628],"type":"Point"}
 }

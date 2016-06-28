@@ -2,13 +2,14 @@
   "id": 303273435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534161,35.506455,-97.534161,35.506455",
     "geom:latitude":35.506455,
     "geom:longitude":-97.534161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3504 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303273435,
-    "wof:lastmodified":1448999388,
+    "wof:lastmodified":1466764743,
     "wof:name":"Get-Away Travel",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-97.534161,35.506455,-97.534161,35.506455],
+  "bbox": [
+    -97.534161,
+    35.506455,
+    -97.534161,
+    35.506455
+],
   "geometry": {"coordinates":[-97.534161,35.506455],"type":"Point"}
 }

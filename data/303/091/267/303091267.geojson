@@ -2,13 +2,14 @@
   "id": 303091267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.496739,35.468439,-97.496739,35.468439",
     "geom:latitude":35.468439,
     "geom:longitude":-97.496739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 NE 1st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303091267,
-    "wof:lastmodified":1448998366,
+    "wof:lastmodified":1466763093,
     "wof:name":"Bradley Kropp",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.496739,35.468439,-97.496739,35.468439],
-  "geometry": {"coordinates":[-97.496739,35.468439],"type":"Point"}
+  "bbox": [
+    -97.496739,
+    35.468439,
+    -97.496739,
+    35.468439
+],
+  "geometry": {"coordinates":[-97.49673900000001,35.468439],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353901009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.333931,34.638886,-99.333931,34.638886",
     "geom:latitude":34.638886,
     "geom:longitude":-99.333931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Main St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353901009,
-    "wof:lastmodified":1449019320,
+    "wof:lastmodified":1466765533,
     "wof:name":"Oklahoma Democratic Party",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-99.333931,34.638886,-99.333931,34.638886],
-  "geometry": {"coordinates":[-99.333931,34.638886],"type":"Point"}
+  "bbox": [
+    -99.333931,
+    34.638886,
+    -99.333931,
+    34.638886
+],
+  "geometry": {"coordinates":[-99.33393100000001,34.638886],"type":"Point"}
 }

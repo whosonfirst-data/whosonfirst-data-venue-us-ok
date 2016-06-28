@@ -2,13 +2,14 @@
   "id": 319949705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975896,36.038514,-95.975896,36.038514",
     "geom:latitude":36.038514,
     "geom:longitude":-95.975896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8808 S Peoria Ave W",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319949705,
-    "wof:lastmodified":1449024577,
+    "wof:lastmodified":1466764018,
     "wof:name":"KBI",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.975896,36.038514,-95.975896,36.038514],
-  "geometry": {"coordinates":[-95.975896,36.038514],"type":"Point"}
+  "bbox": [
+    -95.975896,
+    36.038514,
+    -95.975896,
+    36.038514
+],
+  "geometry": {"coordinates":[-95.97589600000001,36.038514],"type":"Point"}
 }

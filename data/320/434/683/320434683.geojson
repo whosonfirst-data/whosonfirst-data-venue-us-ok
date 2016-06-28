@@ -2,13 +2,14 @@
   "id": 320434683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.417556,35.522356,-97.417556,35.522356",
     "geom:latitude":35.522356,
     "geom:longitude":-97.417556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 NE 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320434683,
-    "wof:lastmodified":1449012067,
+    "wof:lastmodified":1466765996,
     "wof:name":"High Pointe",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychiatric"
     ]
 },
-  "bbox": [-97.417556,35.522356,-97.417556,35.522356],
+  "bbox": [
+    -97.417556,
+    35.522356,
+    -97.417556,
+    35.522356
+],
   "geometry": {"coordinates":[-97.417556,35.522356],"type":"Point"}
 }

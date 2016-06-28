@@ -2,13 +2,14 @@
   "id": 303468713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.220167,36.860157,-101.220167,36.860157",
     "geom:latitude":36.860157,
     "geom:longitude":-101.220167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Jackson St",
     "sg:city":"Hooker",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303468713,
-    "wof:lastmodified":1448999870,
+    "wof:lastmodified":1466765815,
     "wof:name":"St Johns Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-101.220167,36.860157,-101.220167,36.860157],
+  "bbox": [
+    -101.220167,
+    36.860157,
+    -101.220167,
+    36.860157
+],
   "geometry": {"coordinates":[-101.220167,36.860157],"type":"Point"}
 }

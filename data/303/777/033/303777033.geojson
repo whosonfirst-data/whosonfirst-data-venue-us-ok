@@ -2,13 +2,14 @@
   "id": 303777033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.039199,36.092546,-96.039199,36.092546",
     "geom:latitude":36.092546,
     "geom:longitude":-96.039199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4035 W 49th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303777033,
-    "wof:lastmodified":1448999412,
+    "wof:lastmodified":1466766681,
     "wof:name":"Sigma Stretch Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-96.039199,36.092546,-96.039199,36.092546],
+  "bbox": [
+    -96.039199,
+    36.092546,
+    -96.039199,
+    36.092546
+],
   "geometry": {"coordinates":[-96.039199,36.092546],"type":"Point"}
 }

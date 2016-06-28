@@ -2,13 +2,14 @@
   "id": 320650435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.532276,35.414869,-97.532276,35.414869",
     "geom:latitude":35.414869,
     "geom:longitude":-97.532276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 SW 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320650435,
-    "wof:lastmodified":1449013533,
+    "wof:lastmodified":1466766302,
     "wof:name":"Southside Bail Bonds",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-97.532276,35.414869,-97.532276,35.414869],
+  "bbox": [
+    -97.532276,
+    35.414869,
+    -97.532276,
+    35.414869
+],
   "geometry": {"coordinates":[-97.532276,35.414869],"type":"Point"}
 }

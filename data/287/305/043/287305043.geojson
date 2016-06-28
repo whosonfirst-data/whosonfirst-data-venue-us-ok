@@ -2,13 +2,14 @@
   "id": 287305043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.887552,36.395487,-97.887552,36.395487",
     "geom:latitude":36.395487,
     "geom:longitude":-97.887552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 W Maine St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287305043,
-    "wof:lastmodified":1449000797,
+    "wof:lastmodified":1466763493,
     "wof:name":"James R Jorden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.887552,36.395487,-97.887552,36.395487],
+  "bbox": [
+    -97.887552,
+    36.395487,
+    -97.887552,
+    36.395487
+],
   "geometry": {"coordinates":[-97.887552,36.395487],"type":"Point"}
 }

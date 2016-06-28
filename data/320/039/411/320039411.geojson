@@ -2,13 +2,14 @@
   "id": 320039411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.587936,35.464176,-97.587936,35.464176",
     "geom:latitude":35.464176,
     "geom:longitude":-97.587936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3839 W Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320039411,
-    "wof:lastmodified":1449014495,
+    "wof:lastmodified":1466762875,
     "wof:name":"Oklahoma Territory Crane Sales",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crane"
     ]
 },
-  "bbox": [-97.587936,35.464176,-97.587936,35.464176],
+  "bbox": [
+    -97.587936,
+    35.464176,
+    -97.587936,
+    35.464176
+],
   "geometry": {"coordinates":[-97.587936,35.464176],"type":"Point"}
 }

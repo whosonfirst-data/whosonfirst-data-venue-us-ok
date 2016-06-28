@@ -2,13 +2,14 @@
   "id": 336709729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.705558,36.573499,-96.705558,36.573499",
     "geom:latitude":36.573499,
     "geom:longitude":-96.705558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 W Elm Ave",
     "sg:city":"Fairfax",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336709729,
-    "wof:lastmodified":1448997163,
+    "wof:lastmodified":1466763873,
     "wof:name":"Cut N Curl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.705558,36.573499,-96.705558,36.573499],
+  "bbox": [
+    -96.705558,
+    36.573499,
+    -96.705558,
+    36.573499
+],
   "geometry": {"coordinates":[-96.705558,36.573499],"type":"Point"}
 }

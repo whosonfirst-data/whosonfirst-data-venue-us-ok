@@ -2,13 +2,14 @@
   "id": 320398197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.442831,35.392232,-97.442831,35.392232",
     "geom:latitude":35.392232,
     "geom:longitude":-97.442831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3675 E I- 240 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320398197,
-    "wof:lastmodified":1449011547,
+    "wof:lastmodified":1466765706,
     "wof:name":"R & R Deliveries",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.442831,35.392232,-97.442831,35.392232],
+  "bbox": [
+    -97.442831,
+    35.392232,
+    -97.442831,
+    35.392232
+],
   "geometry": {"coordinates":[-97.442831,35.392232],"type":"Point"}
 }

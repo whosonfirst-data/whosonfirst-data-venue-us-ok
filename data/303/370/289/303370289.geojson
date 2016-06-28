@@ -2,13 +2,14 @@
   "id": 303370289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.291645,35.556396,-97.291645,35.556396",
     "geom:latitude":35.556396,
     "geom:longitude":-97.291645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 SW 4th St",
     "sg:city":"Jones",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303370289,
-    "wof:lastmodified":1448999453,
+    "wof:lastmodified":1466765268,
     "wof:name":"Woods Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.291645,35.556396,-97.291645,35.556396],
+  "bbox": [
+    -97.291645,
+    35.556396,
+    -97.291645,
+    35.556396
+],
   "geometry": {"coordinates":[-97.291645,35.556396],"type":"Point"}
 }

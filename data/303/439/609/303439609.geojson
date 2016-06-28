@@ -2,13 +2,14 @@
   "id": 303439609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.030309,36.368625,-96.030309,36.368625",
     "geom:latitude":36.368625,
     "geom:longitude":-96.030309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 W Rogers Blvd",
     "sg:city":"Skiatook",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303439609,
-    "wof:lastmodified":1448998786,
+    "wof:lastmodified":1466765628,
     "wof:name":"Mister Bass Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fishing"
     ]
 },
-  "bbox": [-96.030309,36.368625,-96.030309,36.368625],
+  "bbox": [
+    -96.030309,
+    36.368625,
+    -96.030309,
+    36.368625
+],
   "geometry": {"coordinates":[-96.030309,36.368625],"type":"Point"}
 }

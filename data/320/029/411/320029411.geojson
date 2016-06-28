@@ -2,13 +2,14 @@
   "id": 320029411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.434413,35.116925,-97.434413,35.116925",
     "geom:latitude":35.116925,
     "geom:longitude":-97.434413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23416 280th St",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320029411,
-    "wof:lastmodified":1449012838,
+    "wof:lastmodified":1466762723,
     "wof:name":"Troupco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.434413,35.116925,-97.434413,35.116925],
-  "geometry": {"coordinates":[-97.434413,35.116925],"type":"Point"}
+  "bbox": [
+    -97.434413,
+    35.116925,
+    -97.434413,
+    35.116925
+],
+  "geometry": {"coordinates":[-97.43441300000001,35.116925],"type":"Point"}
 }

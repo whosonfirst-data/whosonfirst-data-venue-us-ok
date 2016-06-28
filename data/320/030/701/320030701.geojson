@@ -2,13 +2,14 @@
   "id": 320030701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517098,35.490075,-97.517098,35.490075",
     "geom:latitude":35.490075,
     "geom:longitude":-97.517098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 NW 20th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320030701,
-    "wof:lastmodified":1449012650,
+    "wof:lastmodified":1466762741,
     "wof:name":"Homestead Manor",
     "wof:parent_id":85871695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.517098,35.490075,-97.517098,35.490075],
+  "bbox": [
+    -97.517098,
+    35.490075,
+    -97.517098,
+    35.490075
+],
   "geometry": {"coordinates":[-97.517098,35.490075],"type":"Point"}
 }

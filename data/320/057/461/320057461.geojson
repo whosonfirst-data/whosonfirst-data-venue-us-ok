@@ -2,13 +2,14 @@
   "id": 320057461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.046748,36.123397,-97.046748,36.123397",
     "geom:latitude":36.123397,
     "geom:longitude":-97.046748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 E Virginia Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320057461,
-    "wof:lastmodified":1449013108,
+    "wof:lastmodified":1466763144,
     "wof:name":"REA Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "block"
     ]
 },
-  "bbox": [-97.046748,36.123397,-97.046748,36.123397],
-  "geometry": {"coordinates":[-97.046748,36.123397],"type":"Point"}
+  "bbox": [
+    -97.046748,
+    36.123397,
+    -97.046748,
+    36.123397
+],
+  "geometry": {"coordinates":[-97.04674799999999,36.123397],"type":"Point"}
 }

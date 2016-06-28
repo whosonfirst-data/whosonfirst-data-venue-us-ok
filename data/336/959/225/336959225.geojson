@@ -2,13 +2,14 @@
   "id": 336959225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.460528,35.669718,-97.460528,35.669718",
     "geom:latitude":35.669718,
     "geom:longitude":-97.460528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 N Bryant Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336959225,
-    "wof:lastmodified":1448997912,
+    "wof:lastmodified":1466765505,
     "wof:name":"St Mark Lutheran Church",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.460528,35.669718,-97.460528,35.669718],
+  "bbox": [
+    -97.460528,
+    35.669718,
+    -97.460528,
+    35.669718
+],
   "geometry": {"coordinates":[-97.460528,35.669718],"type":"Point"}
 }

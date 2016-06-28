@@ -2,13 +2,14 @@
   "id": 303161939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.36535,35.966501,-95.36535,35.966501",
     "geom:latitude":35.966501,
     "geom:longitude":-95.36535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 N Story Ave",
     "sg:city":"Wagoner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303161939,
-    "wof:lastmodified":1448999087,
+    "wof:lastmodified":1466764396,
     "wof:name":"Christian New Testiment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.36535,35.966501,-95.36535,35.966501],
-  "geometry": {"coordinates":[-95.36535,35.966501],"type":"Point"}
+  "bbox": [
+    -95.36535,
+    35.966501,
+    -95.36535,
+    35.966501
+],
+  "geometry": {"coordinates":[-95.36535000000001,35.966501],"type":"Point"}
 }

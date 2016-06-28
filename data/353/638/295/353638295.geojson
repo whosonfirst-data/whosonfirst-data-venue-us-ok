@@ -2,13 +2,14 @@
   "id": 353638295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.008935,36.105878,-96.008935,36.105878",
     "geom:latitude":36.105878,
     "geom:longitude":-96.008935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3641 S Tacoma Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353638295,
-    "wof:lastmodified":1449018385,
+    "wof:lastmodified":1466764459,
     "wof:name":"Tulsa Freightliner",
     "wof:parent_id":85821015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bus"
     ]
 },
-  "bbox": [-96.008935,36.105878,-96.008935,36.105878],
-  "geometry": {"coordinates":[-96.008935,36.105878],"type":"Point"}
+  "bbox": [
+    -96.008935,
+    36.105878,
+    -96.008935,
+    36.105878
+],
+  "geometry": {"coordinates":[-96.00893499999999,36.105878],"type":"Point"}
 }

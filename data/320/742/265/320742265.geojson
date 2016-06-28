@@ -2,13 +2,14 @@
   "id": 320742265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.383589,35.420871,-99.383589,35.420871",
     "geom:latitude":35.420871,
     "geom:longitude":-99.383589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Clyde Ave",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320742265,
-    "wof:lastmodified":1449011491,
+    "wof:lastmodified":1466766657,
     "wof:name":"Hutch S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.383589,35.420871,-99.383589,35.420871],
+  "bbox": [
+    -99.383589,
+    35.420871,
+    -99.383589,
+    35.420871
+],
   "geometry": {"coordinates":[-99.383589,35.420871],"type":"Point"}
 }

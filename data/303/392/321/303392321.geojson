@@ -2,13 +2,14 @@
   "id": 303392321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.889232,36.133531,-95.889232,36.133531",
     "geom:latitude":36.133531,
     "geom:longitude":-95.889232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7717 E 21st St S",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303392321,
-    "wof:lastmodified":1449000079,
+    "wof:lastmodified":1466765295,
     "wof:name":"Therapeutics Service Dogs Okla",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "noncommercial"
     ]
 },
-  "bbox": [-95.889232,36.133531,-95.889232,36.133531],
-  "geometry": {"coordinates":[-95.889232,36.133531],"type":"Point"}
+  "bbox": [
+    -95.889232,
+    36.133531,
+    -95.889232,
+    36.133531
+],
+  "geometry": {"coordinates":[-95.88923200000001,36.133531],"type":"Point"}
 }

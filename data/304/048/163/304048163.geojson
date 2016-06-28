@@ -2,13 +2,14 @@
   "id": 304048163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.80979,36.088018,-95.80979,36.088018",
     "geom:latitude":36.088018,
     "geom:longitude":-95.80979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1713 W Lincoln St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304048163,
-    "wof:lastmodified":1449043760,
+    "wof:lastmodified":1466763095,
     "wof:name":"Par 3 Turf",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-95.80979,36.088018,-95.80979,36.088018],
-  "geometry": {"coordinates":[-95.80979,36.088018],"type":"Point"}
+  "bbox": [
+    -95.80979,
+    36.088018,
+    -95.80979,
+    36.088018
+],
+  "geometry": {"coordinates":[-95.80979000000001,36.088018],"type":"Point"}
 }

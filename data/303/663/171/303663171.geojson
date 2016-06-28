@@ -2,13 +2,14 @@
   "id": 303663171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.515408,35.684867,-97.515408,35.684867",
     "geom:latitude":35.684867,
     "geom:longitude":-97.515408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2417 Oak Crest Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303663171,
-    "wof:lastmodified":1448999920,
+    "wof:lastmodified":1466766402,
     "wof:name":"Mas Rentals LLC",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.515408,35.684867,-97.515408,35.684867],
-  "geometry": {"coordinates":[-97.515408,35.684867],"type":"Point"}
+  "bbox": [
+    -97.515408,
+    35.684867,
+    -97.515408,
+    35.684867
+],
+  "geometry": {"coordinates":[-97.51540799999999,35.684867],"type":"Point"}
 }

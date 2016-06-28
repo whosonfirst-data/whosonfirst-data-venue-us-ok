@@ -2,13 +2,14 @@
   "id": 353454725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.637656,35.513323,-97.637656,35.513323",
     "geom:latitude":35.513323,
     "geom:longitude":-97.637656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7105 NW 39th Expy",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353454725,
-    "wof:lastmodified":1449020567,
+    "wof:lastmodified":1466762735,
     "wof:name":"National Motors Sales & Leasin",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.637656,35.513323,-97.637656,35.513323],
-  "geometry": {"coordinates":[-97.637656,35.513323],"type":"Point"}
+  "bbox": [
+    -97.637656,
+    35.513323,
+    -97.637656,
+    35.513323
+],
+  "geometry": {"coordinates":[-97.63765600000001,35.513323],"type":"Point"}
 }

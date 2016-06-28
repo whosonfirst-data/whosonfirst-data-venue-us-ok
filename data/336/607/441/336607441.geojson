@@ -2,13 +2,14 @@
   "id": 336607441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.320557,34.626235,-99.320557,34.626235",
     "geom:latitude":34.626235,
     "geom:longitude":-99.320557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Asalee St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336607441,
-    "wof:lastmodified":1448997072,
+    "wof:lastmodified":1466762284,
     "wof:name":"Southside Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-99.320557,34.626235,-99.320557,34.626235],
-  "geometry": {"coordinates":[-99.320557,34.626235],"type":"Point"}
+  "bbox": [
+    -99.320557,
+    34.626235,
+    -99.320557,
+    34.626235
+],
+  "geometry": {"coordinates":[-99.32055699999999,34.626235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235963823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.603861,34.887576,-94.603861,34.887576",
     "geom:latitude":34.887576,
     "geom:longitude":-94.603861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 W Avenue E C",
     "sg:city":"Heavener",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":235963823,
-    "wof:lastmodified":1449008315,
+    "wof:lastmodified":1466762776,
     "wof:name":"Tag Heavener Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "license"
     ]
 },
-  "bbox": [-94.603861,34.887576,-94.603861,34.887576],
-  "geometry": {"coordinates":[-94.603861,34.887576],"type":"Point"}
+  "bbox": [
+    -94.603861,
+    34.887576,
+    -94.603861,
+    34.887576
+],
+  "geometry": {"coordinates":[-94.60386099999999,34.887576],"type":"Point"}
 }

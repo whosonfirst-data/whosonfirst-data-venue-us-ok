@@ -2,13 +2,14 @@
   "id": 320351047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.394683,35.144616,-97.394683,35.144616",
     "geom:latitude":35.144616,
     "geom:longitude":-97.394683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N Main St",
     "sg:city":"Noble",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320351047,
-    "wof:lastmodified":1449014415,
+    "wof:lastmodified":1466765369,
     "wof:name":"Noble Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-97.394683,35.144616,-97.394683,35.144616],
+  "bbox": [
+    -97.394683,
+    35.144616,
+    -97.394683,
+    35.144616
+],
   "geometry": {"coordinates":[-97.394683,35.144616],"type":"Point"}
 }

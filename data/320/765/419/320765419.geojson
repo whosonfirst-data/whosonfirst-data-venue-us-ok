@@ -2,13 +2,14 @@
   "id": 320765419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.81812,36.32213,-95.81812,36.32213",
     "geom:latitude":36.32213,
     "geom:longitude":-95.81812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14003 E 116th St N",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320765419,
-    "wof:lastmodified":1449013422,
+    "wof:lastmodified":1466766615,
     "wof:name":"Crossroads Christian Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.81812,36.32213,-95.81812,36.32213],
-  "geometry": {"coordinates":[-95.81812,36.32213],"type":"Point"}
+  "bbox": [
+    -95.81812,
+    36.32213,
+    -95.81812,
+    36.32213
+],
+  "geometry": {"coordinates":[-95.81811999999999,36.32213],"type":"Point"}
 }

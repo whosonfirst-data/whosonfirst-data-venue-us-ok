@@ -2,13 +2,14 @@
   "id": 319898999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.685893,35.539091,-98.685893,35.539091",
     "geom:latitude":35.539091,
     "geom:longitude":-98.685893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Lark St",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319898999,
-    "wof:lastmodified":1449024096,
+    "wof:lastmodified":1466763520,
     "wof:name":"Pine Acres Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.685893,35.539091,-98.685893,35.539091],
-  "geometry": {"coordinates":[-98.685893,35.539091],"type":"Point"}
+  "bbox": [
+    -98.685893,
+    35.539091,
+    -98.685893,
+    35.539091
+],
+  "geometry": {"coordinates":[-98.68589299999999,35.539091],"type":"Point"}
 }

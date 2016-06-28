@@ -2,13 +2,14 @@
   "id": 320400055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.866242,35.333127,-96.866242,35.333127",
     "geom:latitude":35.333127,
     "geom:longitude":-96.866242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45500 Hwy 3 E",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320400055,
-    "wof:lastmodified":1449011599,
+    "wof:lastmodified":1466765592,
     "wof:name":"Grays A-1 Wrecker & Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wrecker"
     ]
 },
-  "bbox": [-96.866242,35.333127,-96.866242,35.333127],
+  "bbox": [
+    -96.866242,
+    35.333127,
+    -96.866242,
+    35.333127
+],
   "geometry": {"coordinates":[-96.866242,35.333127],"type":"Point"}
 }

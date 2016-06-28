@@ -2,13 +2,14 @@
   "id": 353605759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.797526,36.047538,-95.797526,36.047538",
     "geom:latitude":36.047538,
     "geom:longitude":-95.797526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 S Elm Pl",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353605759,
-    "wof:lastmodified":1449019518,
+    "wof:lastmodified":1466764278,
     "wof:name":"ABC Vacs",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-95.797526,36.047538,-95.797526,36.047538],
+  "bbox": [
+    -95.797526,
+    36.047538,
+    -95.797526,
+    36.047538
+],
   "geometry": {"coordinates":[-95.797526,36.047538],"type":"Point"}
 }

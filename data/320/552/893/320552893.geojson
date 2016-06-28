@@ -2,13 +2,14 @@
   "id": 320552893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.857792,36.173726,-95.857792,36.173726",
     "geom:latitude":36.173726,
     "geom:longitude":-95.857792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 N 108th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320552893,
-    "wof:lastmodified":1449012827,
+    "wof:lastmodified":1466766201,
     "wof:name":"John Deere Landscapes Inc",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "sprinkler"
     ]
 },
-  "bbox": [-95.857792,36.173726,-95.857792,36.173726],
+  "bbox": [
+    -95.857792,
+    36.173726,
+    -95.857792,
+    36.173726
+],
   "geometry": {"coordinates":[-95.857792,36.173726],"type":"Point"}
 }

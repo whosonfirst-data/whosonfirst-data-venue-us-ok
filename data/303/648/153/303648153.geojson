@@ -2,13 +2,14 @@
   "id": 303648153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.499009,35.638244,-97.499009,35.638244",
     "geom:latitude":35.638244,
     "geom:longitude":-97.499009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 W 15th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303648153,
-    "wof:lastmodified":1448998779,
+    "wof:lastmodified":1466766357,
     "wof:name":"Taylor Made Photography",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-97.499009,35.638244,-97.499009,35.638244],
+  "bbox": [
+    -97.499009,
+    35.638244,
+    -97.499009,
+    35.638244
+],
   "geometry": {"coordinates":[-97.499009,35.638244],"type":"Point"}
 }

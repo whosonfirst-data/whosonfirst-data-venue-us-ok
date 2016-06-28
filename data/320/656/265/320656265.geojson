@@ -2,13 +2,14 @@
   "id": 320656265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.406119,35.412626,-99.406119,35.412626",
     "geom:latitude":35.412626,
     "geom:longitude":-99.406119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 N Jefferson Ave",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320656265,
-    "wof:lastmodified":1449013701,
+    "wof:lastmodified":1466766543,
     "wof:name":"Sweet Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-99.406119,35.412626,-99.406119,35.412626],
+  "bbox": [
+    -99.406119,
+    35.412626,
+    -99.406119,
+    35.412626
+],
   "geometry": {"coordinates":[-99.406119,35.412626],"type":"Point"}
 }

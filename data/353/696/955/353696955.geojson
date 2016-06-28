@@ -2,13 +2,14 @@
   "id": 353696955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.065098,35.939136,-95.065098,35.939136",
     "geom:latitude":35.939136,
     "geom:longitude":-95.065098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16454 N Fred Smith Rd",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353696955,
-    "wof:lastmodified":1449018452,
+    "wof:lastmodified":1466764987,
     "wof:name":"Custom Hay Bailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.065098,35.939136,-95.065098,35.939136],
-  "geometry": {"coordinates":[-95.065098,35.939136],"type":"Point"}
+  "bbox": [
+    -95.065098,
+    35.939136,
+    -95.065098,
+    35.939136
+],
+  "geometry": {"coordinates":[-95.06509800000001,35.939136],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320534745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.9548,35.534165,-97.9548,35.534165",
     "geom:latitude":35.534165,
     "geom:longitude":-97.9548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Hays St",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320534745,
-    "wof:lastmodified":1449012237,
+    "wof:lastmodified":1466766138,
     "wof:name":"Simpson Dura-Vent Co Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "building"
     ]
 },
-  "bbox": [-97.9548,35.534165,-97.9548,35.534165],
-  "geometry": {"coordinates":[-97.9548,35.534165],"type":"Point"}
+  "bbox": [
+    -97.9548,
+    35.534165,
+    -97.9548,
+    35.534165
+],
+  "geometry": {"coordinates":[-97.95480000000001,35.534165],"type":"Point"}
 }

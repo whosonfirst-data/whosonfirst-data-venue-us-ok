@@ -2,13 +2,14 @@
   "id": 319900699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.012769,36.294215,-97.012769,36.294215",
     "geom:latitude":36.294215,
     "geom:longitude":-97.012769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 US Hwy 64",
     "sg:city":"Morrison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319900699,
-    "wof:lastmodified":1449024426,
+    "wof:lastmodified":1466763526,
     "wof:name":"Wildcat Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.012769,36.294215,-97.012769,36.294215],
-  "geometry": {"coordinates":[-97.012769,36.294215],"type":"Point"}
+  "bbox": [
+    -97.012769,
+    36.294215,
+    -97.012769,
+    36.294215
+],
+  "geometry": {"coordinates":[-97.01276900000001,36.294215],"type":"Point"}
 }

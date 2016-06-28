@@ -2,13 +2,14 @@
   "id": 320018475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.98654,34.506313,-96.98654,34.506313",
     "geom:latitude":34.506313,
     "geom:longitude":-96.98654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 W Broadway Ave",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320018475,
-    "wof:lastmodified":1449013120,
+    "wof:lastmodified":1466762558,
     "wof:name":"Beauty Shop Charmett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.98654,34.506313,-96.98654,34.506313],
-  "geometry": {"coordinates":[-96.98654,34.506313],"type":"Point"}
+  "bbox": [
+    -96.98654,
+    34.506313,
+    -96.98654,
+    34.506313
+],
+  "geometry": {"coordinates":[-96.98654000000001,34.506313],"type":"Point"}
 }

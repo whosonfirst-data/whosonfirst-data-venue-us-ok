@@ -2,13 +2,14 @@
   "id": 303407509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.804949,36.070469,-95.804949,36.070469",
     "geom:latitude":36.070469,
     "geom:longitude":-95.804949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1806 N Ironwood Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303407509,
-    "wof:lastmodified":1448999477,
+    "wof:lastmodified":1466765465,
     "wof:name":"Beverly Slatcher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-95.804949,36.070469,-95.804949,36.070469],
-  "geometry": {"coordinates":[-95.804949,36.070469],"type":"Point"}
+  "bbox": [
+    -95.804949,
+    36.070469,
+    -95.804949,
+    36.070469
+],
+  "geometry": {"coordinates":[-95.80494899999999,36.070469],"type":"Point"}
 }

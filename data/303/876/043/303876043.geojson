@@ -2,13 +2,14 @@
   "id": 303876043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.967066,34.492623,-97.967066,34.492623",
     "geom:latitude":34.492623,
     "geom:longitude":-97.967066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 W Bois D Arc Ave",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303876043,
-    "wof:lastmodified":1448998609,
+    "wof:lastmodified":1466766913,
     "wof:name":"Hines Garage and Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "truck"
     ]
 },
-  "bbox": [-97.967066,34.492623,-97.967066,34.492623],
+  "bbox": [
+    -97.967066,
+    34.492623,
+    -97.967066,
+    34.492623
+],
   "geometry": {"coordinates":[-97.967066,34.492623],"type":"Point"}
 }

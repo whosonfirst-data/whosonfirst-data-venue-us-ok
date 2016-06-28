@@ -2,13 +2,14 @@
   "id": 303409409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.498357,35.360382,-97.498357,35.360382",
     "geom:latitude":35.360382,
     "geom:longitude":-97.498357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2514 N Moore Ave",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303409409,
-    "wof:lastmodified":1448999121,
+    "wof:lastmodified":1466765474,
     "wof:name":"Inway",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.498357,35.360382,-97.498357,35.360382],
+  "bbox": [
+    -97.498357,
+    35.360382,
+    -97.498357,
+    35.360382
+],
   "geometry": {"coordinates":[-97.498357,35.360382],"type":"Point"}
 }

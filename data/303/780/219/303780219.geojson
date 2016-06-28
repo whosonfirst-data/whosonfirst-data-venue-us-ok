@@ -2,13 +2,14 @@
   "id": 303780219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494695,35.378697,-97.494695,35.378697",
     "geom:latitude":35.378697,
     "geom:longitude":-97.494695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8315 S I- 35 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303780219,
-    "wof:lastmodified":1448999952,
+    "wof:lastmodified":1466766602,
     "wof:name":"LA Quinta Inn",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-97.494695,35.378697,-97.494695,35.378697],
-  "geometry": {"coordinates":[-97.494695,35.378697],"type":"Point"}
+  "bbox": [
+    -97.494695,
+    35.378697,
+    -97.494695,
+    35.378697
+],
+  "geometry": {"coordinates":[-97.49469499999999,35.378697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220135767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.567175,35.646868,-97.567175,35.646868",
     "geom:latitude":35.646868,
     "geom:longitude":-97.567175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17200 N May Ave Ste 700",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220135767,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466762825,
     "wof:name":"Manhattan Pasta Pizza",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "pizza"
     ]
 },
-  "bbox": [-97.567175,35.646868,-97.567175,35.646868],
-  "geometry": {"coordinates":[-97.567175,35.646868],"type":"Point"}
+  "bbox": [
+    -97.567175,
+    35.646868,
+    -97.567175,
+    35.646868
+],
+  "geometry": {"coordinates":[-97.56717500000001,35.646868],"type":"Point"}
 }

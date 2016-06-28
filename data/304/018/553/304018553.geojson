@@ -2,13 +2,14 @@
   "id": 304018553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547341,35.245684,-97.547341,35.245684",
     "geom:latitude":35.245684,
     "geom:longitude":-97.547341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2350 72nd Ave NW",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304018553,
-    "wof:lastmodified":1449043866,
+    "wof:lastmodified":1466762914,
     "wof:name":"Bill Hale Trenching Service",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.547341,35.245684,-97.547341,35.245684],
+  "bbox": [
+    -97.547341,
+    35.245684,
+    -97.547341,
+    35.245684
+],
   "geometry": {"coordinates":[-97.547341,35.245684],"type":"Point"}
 }

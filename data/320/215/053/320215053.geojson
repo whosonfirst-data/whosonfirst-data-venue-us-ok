@@ -2,13 +2,14 @@
   "id": 320215053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.954378,36.076208,-95.954378,36.076208",
     "geom:latitude":36.076208,
     "geom:longitude":-95.954378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 S Atlanta Ct",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320215053,
-    "wof:lastmodified":1449014316,
+    "wof:lastmodified":1466764548,
     "wof:name":"South Shore Assn Unit Owners",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.954378,36.076208,-95.954378,36.076208],
-  "geometry": {"coordinates":[-95.954378,36.076208],"type":"Point"}
+  "bbox": [
+    -95.954378,
+    36.076208,
+    -95.954378,
+    36.076208
+],
+  "geometry": {"coordinates":[-95.95437800000001,36.076208],"type":"Point"}
 }

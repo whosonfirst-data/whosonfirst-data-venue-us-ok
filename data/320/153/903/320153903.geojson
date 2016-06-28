@@ -2,13 +2,14 @@
   "id": 320153903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.519452,35.457886,-97.519452,35.457886",
     "geom:latitude":35.457886,
     "geom:longitude":-97.519452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 SW 7th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320153903,
-    "wof:lastmodified":1449013843,
+    "wof:lastmodified":1466764481,
     "wof:name":"Tetra Tech FHC",
     "wof:parent_id":85871685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.519452,35.457886,-97.519452,35.457886],
+  "bbox": [
+    -97.519452,
+    35.457886,
+    -97.519452,
+    35.457886
+],
   "geometry": {"coordinates":[-97.519452,35.457886],"type":"Point"}
 }

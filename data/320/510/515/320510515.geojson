@@ -2,13 +2,14 @@
   "id": 320510515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.760282,34.904791,-95.760282,34.904791",
     "geom:latitude":34.904791,
     "geom:longitude":-95.760282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Sunnybrook",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320510515,
-    "wof:lastmodified":1449013497,
+    "wof:lastmodified":1466766079,
     "wof:name":"Daves Baseball Cards",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sport"
     ]
 },
-  "bbox": [-95.760282,34.904791,-95.760282,34.904791],
+  "bbox": [
+    -95.760282,
+    34.904791,
+    -95.760282,
+    34.904791
+],
   "geometry": {"coordinates":[-95.760282,34.904791],"type":"Point"}
 }

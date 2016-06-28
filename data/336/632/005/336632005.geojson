@@ -2,13 +2,14 @@
   "id": 336632005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480987,35.655199,-97.480987,35.655199",
     "geom:latitude":35.655199,
     "geom:longitude":-97.480987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 E Main St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":336632005,
-    "wof:lastmodified":1448997616,
+    "wof:lastmodified":1466762684,
     "wof:name":"Oklahoma Shakespeare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.480987,35.655199,-97.480987,35.655199],
+  "bbox": [
+    -97.480987,
+    35.655199,
+    -97.480987,
+    35.655199
+],
   "geometry": {"coordinates":[-97.480987,35.655199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303310833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.367774,35.750616,-95.367774,35.750616",
     "geom:latitude":35.750616,
     "geom:longitude":-95.367774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N Main St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303310833,
-    "wof:lastmodified":1448999624,
+    "wof:lastmodified":1466765010,
     "wof:name":"York Southwest",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casket"
     ]
 },
-  "bbox": [-95.367774,35.750616,-95.367774,35.750616],
+  "bbox": [
+    -95.367774,
+    35.750616,
+    -95.367774,
+    35.750616
+],
   "geometry": {"coordinates":[-95.367774,35.750616],"type":"Point"}
 }

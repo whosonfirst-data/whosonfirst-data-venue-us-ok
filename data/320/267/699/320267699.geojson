@@ -2,13 +2,14 @@
   "id": 320267699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.185413,34.172707,-97.185413,34.172707",
     "geom:latitude":34.172707,
     "geom:longitude":-97.185413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3905 W Broadway St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320267699,
-    "wof:lastmodified":1449014626,
+    "wof:lastmodified":1466764885,
     "wof:name":"Westwood Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-97.185413,34.172707,-97.185413,34.172707],
+  "bbox": [
+    -97.185413,
+    34.172707,
+    -97.185413,
+    34.172707
+],
   "geometry": {"coordinates":[-97.185413,34.172707],"type":"Point"}
 }

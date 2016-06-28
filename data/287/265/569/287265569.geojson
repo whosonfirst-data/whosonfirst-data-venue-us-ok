@@ -2,13 +2,14 @@
   "id": 287265569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.526735,35.501423,-97.526735,35.501423",
     "geom:latitude":35.501423,
     "geom:longitude":-97.526735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 NW 31st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287265569,
-    "wof:lastmodified":1449000963,
+    "wof:lastmodified":1466762916,
     "wof:name":"Bob Owen",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.526735,35.501423,-97.526735,35.501423],
+  "bbox": [
+    -97.526735,
+    35.501423,
+    -97.526735,
+    35.501423
+],
   "geometry": {"coordinates":[-97.526735,35.501423],"type":"Point"}
 }

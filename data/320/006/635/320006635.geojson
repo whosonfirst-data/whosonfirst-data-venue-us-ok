@@ -2,13 +2,14 @@
   "id": 320006635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.421219,34.604672,-96.421219,34.604672",
     "geom:latitude":34.604672,
     "geom:longitude":-96.421219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 4th Ave",
     "sg:city":"Tupelo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320006635,
-    "wof:lastmodified":1449014239,
+    "wof:lastmodified":1466762372,
     "wof:name":"Tupelo City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-96.421219,34.604672,-96.421219,34.604672],
-  "geometry": {"coordinates":[-96.421219,34.604672],"type":"Point"}
+  "bbox": [
+    -96.421219,
+    34.604672,
+    -96.421219,
+    34.604672
+],
+  "geometry": {"coordinates":[-96.42121899999999,34.604672],"type":"Point"}
 }

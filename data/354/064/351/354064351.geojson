@@ -2,13 +2,14 @@
   "id": 354064351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.777246,36.827778,-94.777246,36.827778",
     "geom:latitude":36.827778,
     "geom:longitude":-94.777246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61650 E 130 Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354064351,
-    "wof:lastmodified":1449066521,
+    "wof:lastmodified":1466763362,
     "wof:name":"Don's Service & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.777246,36.827778,-94.777246,36.827778],
-  "geometry": {"coordinates":[-94.777246,36.827778],"type":"Point"}
+  "bbox": [
+    -94.777246,
+    36.827778,
+    -94.777246,
+    36.827778
+],
+  "geometry": {"coordinates":[-94.77724600000001,36.827778],"type":"Point"}
 }

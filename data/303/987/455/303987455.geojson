@@ -2,13 +2,14 @@
   "id": 303987455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.422984,36.539172,-95.422984,36.539172",
     "geom:latitude":36.539172,
     "geom:longitude":-95.422984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E Layton St",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303987455,
-    "wof:lastmodified":1448999490,
+    "wof:lastmodified":1466767069,
     "wof:name":"Harp's Food Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-95.422984,36.539172,-95.422984,36.539172],
+  "bbox": [
+    -95.422984,
+    36.539172,
+    -95.422984,
+    36.539172
+],
   "geometry": {"coordinates":[-95.422984,36.539172],"type":"Point"}
 }

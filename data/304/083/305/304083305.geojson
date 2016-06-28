@@ -2,13 +2,14 @@
   "id": 304083305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.5834,35.426675,-97.5834,35.426675",
     "geom:latitude":35.426675,
     "geom:longitude":-97.5834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3817 S Portland Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304083305,
-    "wof:lastmodified":1449043820,
+    "wof:lastmodified":1466763313,
     "wof:name":"T N Express Grocery",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.5834,35.426675,-97.5834,35.426675],
+  "bbox": [
+    -97.5834,
+    35.426675,
+    -97.5834,
+    35.426675
+],
   "geometry": {"coordinates":[-97.5834,35.426675],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354229333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.620671,35.604356,-97.620671,35.604356",
     "geom:latitude":35.604356,
     "geom:longitude":-97.620671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13220 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354229333,
-    "wof:lastmodified":1449067291,
+    "wof:lastmodified":1466764103,
     "wof:name":"Raven Properties",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "oil"
     ]
 },
-  "bbox": [-97.620671,35.604356,-97.620671,35.604356],
+  "bbox": [
+    -97.620671,
+    35.604356,
+    -97.620671,
+    35.604356
+],
   "geometry": {"coordinates":[-97.620671,35.604356],"type":"Point"}
 }

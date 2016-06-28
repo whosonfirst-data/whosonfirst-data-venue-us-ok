@@ -2,13 +2,14 @@
   "id": 304006495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.348395,35.755169,-95.348395,35.755169",
     "geom:latitude":35.755169,
     "geom:longitude":-95.348395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1306 Gibson St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":304006495,
-    "wof:lastmodified":1449044030,
+    "wof:lastmodified":1466762856,
     "wof:name":"Bob's Auto Electric",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "electrical"
     ]
 },
-  "bbox": [-95.348395,35.755169,-95.348395,35.755169],
+  "bbox": [
+    -95.348395,
+    35.755169,
+    -95.348395,
+    35.755169
+],
   "geometry": {"coordinates":[-95.348395,35.755169],"type":"Point"}
 }

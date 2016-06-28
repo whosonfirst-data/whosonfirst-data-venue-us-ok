@@ -2,13 +2,14 @@
   "id": 320510881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.460843,35.43518,-97.460843,35.43518",
     "geom:latitude":35.43518,
     "geom:longitude":-97.460843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 SE 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320510881,
-    "wof:lastmodified":1449013501,
+    "wof:lastmodified":1466766080,
     "wof:name":"E & R Tires",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-97.460843,35.43518,-97.460843,35.43518],
+  "bbox": [
+    -97.460843,
+    35.43518,
+    -97.460843,
+    35.43518
+],
   "geometry": {"coordinates":[-97.460843,35.43518],"type":"Point"}
 }

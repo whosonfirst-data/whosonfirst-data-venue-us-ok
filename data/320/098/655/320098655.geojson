@@ -2,13 +2,14 @@
   "id": 320098655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.865061,36.039496,-95.865061,36.039496",
     "geom:latitude":36.039496,
     "geom:longitude":-95.865061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10022 E 85th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320098655,
-    "wof:lastmodified":1449014570,
+    "wof:lastmodified":1466763748,
     "wof:name":"Tulsa Towing & Recovery Inc",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-95.865061,36.039496,-95.865061,36.039496],
+  "bbox": [
+    -95.865061,
+    36.039496,
+    -95.865061,
+    36.039496
+],
   "geometry": {"coordinates":[-95.865061,36.039496],"type":"Point"}
 }

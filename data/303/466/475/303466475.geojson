@@ -2,13 +2,14 @@
   "id": 303466475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.570522,35.51019,-97.570522,35.51019",
     "geom:latitude":35.51019,
     "geom:longitude":-97.570522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 NW 38th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303466475,
-    "wof:lastmodified":1448998847,
+    "wof:lastmodified":1466765598,
     "wof:name":"Guardian Interlock System OK",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "ignition"
     ]
 },
-  "bbox": [-97.570522,35.51019,-97.570522,35.51019],
+  "bbox": [
+    -97.570522,
+    35.51019,
+    -97.570522,
+    35.51019
+],
   "geometry": {"coordinates":[-97.570522,35.51019],"type":"Point"}
 }

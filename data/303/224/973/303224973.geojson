@@ -2,13 +2,14 @@
   "id": 303224973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.331471,35.72061,-95.331471,35.72061",
     "geom:latitude":35.72061,
     "geom:longitude":-95.331471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 E 26th St S",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303224973,
-    "wof:lastmodified":1448999905,
+    "wof:lastmodified":1466764590,
     "wof:name":"Danny Hughes Con Specialist",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.331471,35.72061,-95.331471,35.72061],
-  "geometry": {"coordinates":[-95.331471,35.72061],"type":"Point"}
+  "bbox": [
+    -95.331471,
+    35.72061,
+    -95.331471,
+    35.72061
+],
+  "geometry": {"coordinates":[-95.33147099999999,35.72061],"type":"Point"}
 }

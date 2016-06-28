@@ -2,13 +2,14 @@
   "id": 320677203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.03191,36.709819,-97.03191,36.709819",
     "geom:latitude":36.709819,
     "geom:longitude":-97.03191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Lake Rd",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320677203,
-    "wof:lastmodified":1449012619,
+    "wof:lastmodified":1466766483,
     "wof:name":"Odys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-97.03191,36.709819,-97.03191,36.709819],
+  "bbox": [
+    -97.03191,
+    36.709819,
+    -97.03191,
+    36.709819
+],
   "geometry": {"coordinates":[-97.03191,36.709819],"type":"Point"}
 }

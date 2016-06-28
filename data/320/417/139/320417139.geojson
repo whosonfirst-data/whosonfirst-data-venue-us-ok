@@ -2,13 +2,14 @@
   "id": 320417139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.84542,36.118891,-95.84542,36.118891",
     "geom:latitude":36.118891,
     "geom:longitude":-95.84542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12000 E 31st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320417139,
-    "wof:lastmodified":1449012797,
+    "wof:lastmodified":1466765787,
     "wof:name":"Iglesia Palabra Redentora",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.84542,36.118891,-95.84542,36.118891],
+  "bbox": [
+    -95.84542,
+    36.118891,
+    -95.84542,
+    36.118891
+],
   "geometry": {"coordinates":[-95.84542,36.118891],"type":"Point"}
 }

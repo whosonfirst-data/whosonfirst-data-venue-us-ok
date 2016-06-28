@@ -2,13 +2,14 @@
   "id": 319873691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.358561,35.74064,-95.358561,35.74064",
     "geom:latitude":35.74064,
     "geom:longitude":-95.358561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Dorchester Ave",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319873691,
-    "wof:lastmodified":1449024255,
+    "wof:lastmodified":1466763382,
     "wof:name":"Muskogee Masonry",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.358561,35.74064,-95.358561,35.74064],
-  "geometry": {"coordinates":[-95.358561,35.74064],"type":"Point"}
+  "bbox": [
+    -95.358561,
+    35.74064,
+    -95.358561,
+    35.74064
+],
+  "geometry": {"coordinates":[-95.35856099999999,35.74064],"type":"Point"}
 }

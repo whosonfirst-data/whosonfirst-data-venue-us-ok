@@ -2,13 +2,14 @@
   "id": 354020527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.378581,33.991197,-96.378581,33.991197",
     "geom:latitude":33.991197,
     "geom:longitude":-96.378581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 W Main St",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354020527,
-    "wof:lastmodified":1449066712,
+    "wof:lastmodified":1466763068,
     "wof:name":"Uptown Lady",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "personal"
     ]
 },
-  "bbox": [-96.378581,33.991197,-96.378581,33.991197],
+  "bbox": [
+    -96.378581,
+    33.991197,
+    -96.378581,
+    33.991197
+],
   "geometry": {"coordinates":[-96.378581,33.991197],"type":"Point"}
 }

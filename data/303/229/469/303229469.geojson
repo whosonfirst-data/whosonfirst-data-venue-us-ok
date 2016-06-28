@@ -2,13 +2,14 @@
   "id": 303229469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.870485,36.108861,-95.870485,36.108861",
     "geom:latitude":36.108861,
     "geom:longitude":-95.870485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9416 E 38th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303229469,
-    "wof:lastmodified":1449000073,
+    "wof:lastmodified":1466764589,
     "wof:name":"Fulton Neighborhood Assn",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.870485,36.108861,-95.870485,36.108861],
+  "bbox": [
+    -95.870485,
+    36.108861,
+    -95.870485,
+    36.108861
+],
   "geometry": {"coordinates":[-95.870485,36.108861],"type":"Point"}
 }

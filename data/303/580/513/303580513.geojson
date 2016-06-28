@@ -2,13 +2,14 @@
   "id": 303580513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.455317,35.240452,-97.455317,35.240452",
     "geom:latitude":35.240452,
     "geom:longitude":-97.455317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1831 Industrial Blvd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303580513,
-    "wof:lastmodified":1448999767,
+    "wof:lastmodified":1466766035,
     "wof:name":"Color Chrome Photographic Lab",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-97.455317,35.240452,-97.455317,35.240452],
-  "geometry": {"coordinates":[-97.455317,35.240452],"type":"Point"}
+  "bbox": [
+    -97.455317,
+    35.240452,
+    -97.455317,
+    35.240452
+],
+  "geometry": {"coordinates":[-97.45531699999999,35.240452],"type":"Point"}
 }

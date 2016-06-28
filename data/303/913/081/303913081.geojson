@@ -2,13 +2,14 @@
   "id": 303913081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.529708,35.539717,-97.529708,35.539717",
     "geom:latitude":35.539717,
     "geom:longitude":-97.529708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6612 N Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303913081,
-    "wof:lastmodified":1448999061,
+    "wof:lastmodified":1466766992,
     "wof:name":"ABS Communications",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.529708,35.539717,-97.529708,35.539717],
+  "bbox": [
+    -97.529708,
+    35.539717,
+    -97.529708,
+    35.539717
+],
   "geometry": {"coordinates":[-97.529708,35.539717],"type":"Point"}
 }

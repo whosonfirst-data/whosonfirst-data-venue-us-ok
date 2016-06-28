@@ -2,13 +2,14 @@
   "id": 353470965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.611038,35.501871,-97.611038,35.501871",
     "geom:latitude":35.501871,
     "geom:longitude":-97.611038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 NW 31st Ter",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353470965,
-    "wof:lastmodified":1449018877,
+    "wof:lastmodified":1466762827,
     "wof:name":"Rescare Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-97.611038,35.501871,-97.611038,35.501871],
-  "geometry": {"coordinates":[-97.611038,35.501871],"type":"Point"}
+  "bbox": [
+    -97.611038,
+    35.501871,
+    -97.611038,
+    35.501871
+],
+  "geometry": {"coordinates":[-97.61103799999999,35.501871],"type":"Point"}
 }

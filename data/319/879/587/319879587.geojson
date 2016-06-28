@@ -2,13 +2,14 @@
   "id": 319879587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.465332,35.664533,-97.465332,35.664533",
     "geom:latitude":35.664533,
     "geom:longitude":-97.465332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 N Blackwelder Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319879587,
-    "wof:lastmodified":1449024117,
+    "wof:lastmodified":1466763414,
     "wof:name":"Oklahoma Tile",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-97.465332,35.664533,-97.465332,35.664533],
+  "bbox": [
+    -97.465332,
+    35.664533,
+    -97.465332,
+    35.664533
+],
   "geometry": {"coordinates":[-97.465332,35.664533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320284797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.582922,35.486104,-97.582922,35.486104",
     "geom:latitude":35.486104,
     "geom:longitude":-97.582922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3625 NW 16th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320284797,
-    "wof:lastmodified":1449013573,
+    "wof:lastmodified":1466764983,
     "wof:name":"Richard's Club",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-97.582922,35.486104,-97.582922,35.486104],
+  "bbox": [
+    -97.582922,
+    35.486104,
+    -97.582922,
+    35.486104
+],
   "geometry": {"coordinates":[-97.582922,35.486104],"type":"Point"}
 }

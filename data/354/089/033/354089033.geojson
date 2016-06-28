@@ -2,13 +2,14 @@
   "id": 354089033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.856547,36.174135,-95.856547,36.174135",
     "geom:latitude":36.174135,
     "geom:longitude":-95.856547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10842 E Newton Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354089033,
-    "wof:lastmodified":1449066271,
+    "wof:lastmodified":1466763463,
     "wof:name":"Fullerton's Roofing Inc",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.856547,36.174135,-95.856547,36.174135],
-  "geometry": {"coordinates":[-95.856547,36.174135],"type":"Point"}
+  "bbox": [
+    -95.856547,
+    36.174135,
+    -95.856547,
+    36.174135
+],
+  "geometry": {"coordinates":[-95.85654700000001,36.174135],"type":"Point"}
 }

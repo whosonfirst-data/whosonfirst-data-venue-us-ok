@@ -2,13 +2,14 @@
   "id": 320622775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.550239,35.493181,-97.550239,35.493181",
     "geom:latitude":35.493181,
     "geom:longitude":-97.550239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2228 NW 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320622775,
-    "wof:lastmodified":1449014296,
+    "wof:lastmodified":1466766337,
     "wof:name":"Custom Gutter Unlimited",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-97.550239,35.493181,-97.550239,35.493181],
+  "bbox": [
+    -97.550239,
+    35.493181,
+    -97.550239,
+    35.493181
+],
   "geometry": {"coordinates":[-97.550239,35.493181],"type":"Point"}
 }

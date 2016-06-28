@@ -2,13 +2,14 @@
   "id": 303952931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.973854,36.072507,-95.973854,36.072507",
     "geom:latitude":36.072507,
     "geom:longitude":-95.973854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1379 E 63rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303952931,
-    "wof:lastmodified":1448999881,
+    "wof:lastmodified":1466767101,
     "wof:name":"Peachtree Apartments",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-95.973854,36.072507,-95.973854,36.072507],
+  "bbox": [
+    -95.973854,
+    36.072507,
+    -95.973854,
+    36.072507
+],
   "geometry": {"coordinates":[-95.973854,36.072507],"type":"Point"}
 }

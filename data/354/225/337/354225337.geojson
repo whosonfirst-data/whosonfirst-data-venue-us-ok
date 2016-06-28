@@ -2,13 +2,14 @@
   "id": 354225337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.404959,36.433571,-99.404959,36.433571",
     "geom:latitude":36.433571,
     "geom:longitude":-99.404959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 Oklahoma Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354225337,
-    "wof:lastmodified":1449066437,
+    "wof:lastmodified":1466764073,
     "wof:name":"Palomino Auto Repair & Key Shp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-99.404959,36.433571,-99.404959,36.433571],
-  "geometry": {"coordinates":[-99.404959,36.433571],"type":"Point"}
+  "bbox": [
+    -99.404959,
+    36.433571,
+    -99.404959,
+    36.433571
+],
+  "geometry": {"coordinates":[-99.40495900000001,36.433571],"type":"Point"}
 }

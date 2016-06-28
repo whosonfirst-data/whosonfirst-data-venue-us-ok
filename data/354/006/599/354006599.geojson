@@ -2,13 +2,14 @@
   "id": 354006599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.387917,36.420459,-99.387917,36.420459",
     "geom:latitude":36.420459,
     "geom:longitude":-99.387917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2512 Williams Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354006599,
-    "wof:lastmodified":1449067304,
+    "wof:lastmodified":1466762969,
     "wof:name":"Double D Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-99.387917,36.420459,-99.387917,36.420459],
+  "bbox": [
+    -99.387917,
+    36.420459,
+    -99.387917,
+    36.420459
+],
   "geometry": {"coordinates":[-99.387917,36.420459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303310633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.548836,35.511297,-97.548836,35.511297",
     "geom:latitude":35.511297,
     "geom:longitude":-97.548836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2116 NW 39th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303310633,
-    "wof:lastmodified":1448999627,
+    "wof:lastmodified":1466764911,
     "wof:name":"Dutton Construction LLC",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.548836,35.511297,-97.548836,35.511297],
-  "geometry": {"coordinates":[-97.548836,35.511297],"type":"Point"}
+  "bbox": [
+    -97.548836,
+    35.511297,
+    -97.548836,
+    35.511297
+],
+  "geometry": {"coordinates":[-97.54883599999999,35.511297],"type":"Point"}
 }

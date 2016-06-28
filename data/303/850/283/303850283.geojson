@@ -2,13 +2,14 @@
   "id": 303850283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.877626,36.869349,-94.877626,36.869349",
     "geom:latitude":36.869349,
     "geom:longitude":-94.877626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 S Main St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303850283,
-    "wof:lastmodified":1448999538,
+    "wof:lastmodified":1466766771,
     "wof:name":"Bob's Awning Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "mfg"
     ]
 },
-  "bbox": [-94.877626,36.869349,-94.877626,36.869349],
-  "geometry": {"coordinates":[-94.877626,36.869349],"type":"Point"}
+  "bbox": [
+    -94.877626,
+    36.869349,
+    -94.877626,
+    36.869349
+],
+  "geometry": {"coordinates":[-94.87762600000001,36.869349],"type":"Point"}
 }

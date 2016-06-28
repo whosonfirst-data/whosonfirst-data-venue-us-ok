@@ -2,13 +2,14 @@
   "id": 303208943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.90452,36.172931,-95.90452,36.172931",
     "geom:latitude":36.172931,
     "geom:longitude":-95.90452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1219 N Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303208943,
-    "wof:lastmodified":1448998405,
+    "wof:lastmodified":1466764476,
     "wof:name":"Completion Beauty Salon",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.90452,36.172931,-95.90452,36.172931],
-  "geometry": {"coordinates":[-95.90452,36.172931],"type":"Point"}
+  "bbox": [
+    -95.90452,
+    36.172931,
+    -95.90452,
+    36.172931
+],
+  "geometry": {"coordinates":[-95.90452000000001,36.172931],"type":"Point"}
 }

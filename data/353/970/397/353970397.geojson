@@ -2,13 +2,14 @@
   "id": 353970397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.939923,36.046156,-95.939923,36.046156",
     "geom:latitude":36.046156,
     "geom:longitude":-95.939923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8281 S Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353970397,
-    "wof:lastmodified":1449020729,
+    "wof:lastmodified":1466765991,
     "wof:name":"P J's Sandwich Shoppe",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-95.939923,36.046156,-95.939923,36.046156],
-  "geometry": {"coordinates":[-95.939923,36.046156],"type":"Point"}
+  "bbox": [
+    -95.939923,
+    36.046156,
+    -95.939923,
+    36.046156
+],
+  "geometry": {"coordinates":[-95.93992299999999,36.046156],"type":"Point"}
 }

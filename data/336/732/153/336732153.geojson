@@ -2,13 +2,14 @@
   "id": 336732153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.340379,35.740563,-95.340379,35.740563",
     "geom:latitude":35.740563,
     "geom:longitude":-95.340379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 Chandler Rd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336732153,
-    "wof:lastmodified":1448998053,
+    "wof:lastmodified":1466764185,
     "wof:name":"International Bank Commerce",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-95.340379,35.740563,-95.340379,35.740563],
+  "bbox": [
+    -95.340379,
+    35.740563,
+    -95.340379,
+    35.740563
+],
   "geometry": {"coordinates":[-95.340379,35.740563],"type":"Point"}
 }

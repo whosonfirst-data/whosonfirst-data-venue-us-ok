@@ -2,13 +2,14 @@
   "id": 320615557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.909281,36.013205,-95.909281,36.013205",
     "geom:latitude":36.013205,
     "geom:longitude":-95.909281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5719 E 104th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320615557,
-    "wof:lastmodified":1449012452,
+    "wof:lastmodified":1466766205,
     "wof:name":"Shaw Howard",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.909281,36.013205,-95.909281,36.013205],
-  "geometry": {"coordinates":[-95.909281,36.013205],"type":"Point"}
+  "bbox": [
+    -95.909281,
+    36.013205,
+    -95.909281,
+    36.013205
+],
+  "geometry": {"coordinates":[-95.90928099999999,36.013205],"type":"Point"}
 }

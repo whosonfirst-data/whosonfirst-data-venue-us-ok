@@ -2,13 +2,14 @@
   "id": 320013433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.162415,36.561875,-96.162415,36.561875",
     "geom:latitude":36.561875,
     "geom:longitude":-96.162415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 W Main St",
     "sg:city":"Barnsdall",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320013433,
-    "wof:lastmodified":1449013803,
+    "wof:lastmodified":1466762478,
     "wof:name":"Mike's Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-96.162415,36.561875,-96.162415,36.561875],
+  "bbox": [
+    -96.162415,
+    36.561875,
+    -96.162415,
+    36.561875
+],
   "geometry": {"coordinates":[-96.162415,36.561875],"type":"Point"}
 }

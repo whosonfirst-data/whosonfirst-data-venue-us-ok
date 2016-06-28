@@ -2,13 +2,14 @@
   "id": 303990077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.929873,35.34975,-96.929873,35.34975",
     "geom:latitude":35.34975,
     "geom:longitude":-96.929873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 N Kickapoo St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303990077,
-    "wof:lastmodified":1448999755,
+    "wof:lastmodified":1466767072,
     "wof:name":"Circle D Pawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-96.929873,35.34975,-96.929873,35.34975],
+  "bbox": [
+    -96.929873,
+    35.34975,
+    -96.929873,
+    35.34975
+],
   "geometry": {"coordinates":[-96.929873,35.34975],"type":"Point"}
 }

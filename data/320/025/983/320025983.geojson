@@ -2,13 +2,14 @@
   "id": 320025983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.760615,34.956334,-95.760615,34.956334",
     "geom:latitude":34.956334,
     "geom:longitude":-95.760615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2714 N Main St",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320025983,
-    "wof:lastmodified":1449014362,
+    "wof:lastmodified":1466762672,
     "wof:name":"Mrs Santas Bakery",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.760615,34.956334,-95.760615,34.956334],
+  "bbox": [
+    -95.760615,
+    34.956334,
+    -95.760615,
+    34.956334
+],
   "geometry": {"coordinates":[-95.760615,34.956334],"type":"Point"}
 }

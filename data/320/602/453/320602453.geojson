@@ -2,13 +2,14 @@
   "id": 320602453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.693007,34.773396,-96.693007,34.773396",
     "geom:latitude":34.773396,
     "geom:longitude":-96.693007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 W 12th St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320602453,
-    "wof:lastmodified":1449013012,
+    "wof:lastmodified":1466766393,
     "wof:name":"Precious Friends",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-96.693007,34.773396,-96.693007,34.773396],
-  "geometry": {"coordinates":[-96.693007,34.773396],"type":"Point"}
+  "bbox": [
+    -96.693007,
+    34.773396,
+    -96.693007,
+    34.773396
+],
+  "geometry": {"coordinates":[-96.69300699999999,34.773396],"type":"Point"}
 }

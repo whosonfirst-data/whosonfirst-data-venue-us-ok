@@ -2,13 +2,14 @@
   "id": 303560773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.958288,36.178533,-95.958288,36.178533",
     "geom:latitude":36.178533,
     "geom:longitude":-95.958288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1622 N Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303560773,
-    "wof:lastmodified":1448999984,
+    "wof:lastmodified":1466766174,
     "wof:name":"Bill & Ruths Sub Shops",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.958288,36.178533,-95.958288,36.178533],
+  "bbox": [
+    -95.958288,
+    36.178533,
+    -95.958288,
+    36.178533
+],
   "geometry": {"coordinates":[-95.958288,36.178533],"type":"Point"}
 }

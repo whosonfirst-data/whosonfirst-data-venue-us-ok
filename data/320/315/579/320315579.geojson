@@ -2,13 +2,14 @@
   "id": 320315579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.45716,36.27525,-98.45716,36.27525",
     "geom:latitude":36.27525,
     "geom:longitude":-98.45716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 E State Rd",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320315579,
-    "wof:lastmodified":1449014768,
+    "wof:lastmodified":1466765249,
     "wof:name":"Queen's Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.45716,36.27525,-98.45716,36.27525],
+  "bbox": [
+    -98.45716,
+    36.27525,
+    -98.45716,
+    36.27525
+],
   "geometry": {"coordinates":[-98.45716,36.27525],"type":"Point"}
 }

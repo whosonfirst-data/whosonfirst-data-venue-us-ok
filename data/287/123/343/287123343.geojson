@@ -2,13 +2,14 @@
   "id": 287123343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.780638,35.468423,-94.780638,35.468423",
     "geom:latitude":35.468423,
     "geom:longitude":-94.780638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1154 Brown St",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287123343,
-    "wof:lastmodified":1449000913,
+    "wof:lastmodified":1466763574,
     "wof:name":"P & P Monograms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monogram"
     ]
 },
-  "bbox": [-94.780638,35.468423,-94.780638,35.468423],
+  "bbox": [
+    -94.780638,
+    35.468423,
+    -94.780638,
+    35.468423
+],
   "geometry": {"coordinates":[-94.780638,35.468423],"type":"Point"}
 }

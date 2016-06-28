@@ -2,13 +2,14 @@
   "id": 337513513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.33854,35.580149,-97.33854,35.580149",
     "geom:latitude":35.580149,
     "geom:longitude":-97.33854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10900 E Hefner Rd",
     "sg:city":"Jones",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337513513,
-    "wof:lastmodified":1449027492,
+    "wof:lastmodified":1466762722,
     "wof:name":"Mike Stephens",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.33854,35.580149,-97.33854,35.580149],
-  "geometry": {"coordinates":[-97.33854,35.580149],"type":"Point"}
+  "bbox": [
+    -97.33854,
+    35.580149,
+    -97.33854,
+    35.580149
+],
+  "geometry": {"coordinates":[-97.33853999999999,35.580149],"type":"Point"}
 }

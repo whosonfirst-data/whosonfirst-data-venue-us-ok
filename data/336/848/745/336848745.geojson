@@ -2,13 +2,14 @@
   "id": 336848745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494723,35.486429,-97.494723,35.486429",
     "geom:latitude":35.486429,
     "geom:longitude":-97.494723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 East Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336848745,
-    "wof:lastmodified":1448997087,
+    "wof:lastmodified":1466764926,
     "wof:name":"Smith Enterprises",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.494723,35.486429,-97.494723,35.486429],
-  "geometry": {"coordinates":[-97.494723,35.486429],"type":"Point"}
+  "bbox": [
+    -97.494723,
+    35.486429,
+    -97.494723,
+    35.486429
+],
+  "geometry": {"coordinates":[-97.49472299999999,35.486429],"type":"Point"}
 }

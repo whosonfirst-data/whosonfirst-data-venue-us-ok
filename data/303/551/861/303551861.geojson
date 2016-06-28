@@ -2,13 +2,14 @@
   "id": 303551861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.552734,35.464658,-97.552734,35.464658",
     "geom:latitude":35.464658,
     "geom:longitude":-97.552734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2351 W California Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303551861,
-    "wof:lastmodified":1448998606,
+    "wof:lastmodified":1466766043,
     "wof:name":"SVR Landscaping",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.552734,35.464658,-97.552734,35.464658],
+  "bbox": [
+    -97.552734,
+    35.464658,
+    -97.552734,
+    35.464658
+],
   "geometry": {"coordinates":[-97.552734,35.464658],"type":"Point"}
 }

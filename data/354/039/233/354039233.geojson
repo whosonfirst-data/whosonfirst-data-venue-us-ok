@@ -2,13 +2,14 @@
   "id": 354039233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.982791,36.148145,-95.982791,36.148145",
     "geom:latitude":36.148145,
     "geom:longitude":-95.982791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 S Elgin Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354039233,
-    "wof:lastmodified":1449067453,
+    "wof:lastmodified":1466763206,
     "wof:name":"Day & Nite Cleaners Inc",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-95.982791,36.148145,-95.982791,36.148145],
-  "geometry": {"coordinates":[-95.982791,36.148145],"type":"Point"}
+  "bbox": [
+    -95.982791,
+    36.148145,
+    -95.982791,
+    36.148145
+],
+  "geometry": {"coordinates":[-95.98279100000001,36.148145],"type":"Point"}
 }

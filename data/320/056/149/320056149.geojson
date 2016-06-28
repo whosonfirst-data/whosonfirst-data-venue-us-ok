@@ -2,13 +2,14 @@
   "id": 320056149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.335488,35.743869,-95.335488,35.743869",
     "geom:latitude":35.743869,
     "geom:longitude":-95.335488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2606 Callahan St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320056149,
-    "wof:lastmodified":1449012328,
+    "wof:lastmodified":1466763125,
     "wof:name":"Select Oklahoma Svc",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-95.335488,35.743869,-95.335488,35.743869],
+  "bbox": [
+    -95.335488,
+    35.743869,
+    -95.335488,
+    35.743869
+],
   "geometry": {"coordinates":[-95.335488,35.743869],"type":"Point"}
 }

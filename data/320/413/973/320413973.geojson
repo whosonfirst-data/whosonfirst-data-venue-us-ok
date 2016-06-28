@@ -2,13 +2,14 @@
   "id": 320413973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.830377,36.439323,-95.830377,36.439323",
     "geom:latitude":36.439323,
     "geom:longitude":-95.830377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39781 N 4030 Rd",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320413973,
-    "wof:lastmodified":1449011846,
+    "wof:lastmodified":1466765874,
     "wof:name":"Plum Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "community"
     ]
 },
-  "bbox": [-95.830377,36.439323,-95.830377,36.439323],
+  "bbox": [
+    -95.830377,
+    36.439323,
+    -95.830377,
+    36.439323
+],
   "geometry": {"coordinates":[-95.830377,36.439323],"type":"Point"}
 }

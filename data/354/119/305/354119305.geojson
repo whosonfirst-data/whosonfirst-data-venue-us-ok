@@ -2,13 +2,14 @@
   "id": 354119305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975803,36.090455,-95.975803,36.090455",
     "geom:latitude":36.090455,
     "geom:longitude":-95.975803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4932 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354119305,
-    "wof:lastmodified":1449067173,
+    "wof:lastmodified":1466763579,
     "wof:name":"Edwards Tax & Accounting",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-95.975803,36.090455,-95.975803,36.090455],
+  "bbox": [
+    -95.975803,
+    36.090455,
+    -95.975803,
+    36.090455
+],
   "geometry": {"coordinates":[-95.975803,36.090455],"type":"Point"}
 }

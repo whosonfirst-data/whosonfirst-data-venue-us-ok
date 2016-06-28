@@ -2,13 +2,14 @@
   "id": 320625273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.737564,35.495575,-97.737564,35.495575",
     "geom:latitude":35.495575,
     "geom:longitude":-97.737564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Klondike Dr",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320625273,
-    "wof:lastmodified":1449015024,
+    "wof:lastmodified":1466766340,
     "wof:name":"Purdons Roofing Construction",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.737564,35.495575,-97.737564,35.495575],
-  "geometry": {"coordinates":[-97.737564,35.495575],"type":"Point"}
+  "bbox": [
+    -97.737564,
+    35.495575,
+    -97.737564,
+    35.495575
+],
+  "geometry": {"coordinates":[-97.73756400000001,35.495575],"type":"Point"}
 }

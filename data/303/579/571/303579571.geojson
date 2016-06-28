@@ -2,13 +2,14 @@
   "id": 303579571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.029313,36.115935,-97.029313,36.115935",
     "geom:latitude":36.115935,
     "geom:longitude":-97.029313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2417 E 6th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303579571,
-    "wof:lastmodified":1448998894,
+    "wof:lastmodified":1466766144,
     "wof:name":"East 6th Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.029313,36.115935,-97.029313,36.115935],
+  "bbox": [
+    -97.029313,
+    36.115935,
+    -97.029313,
+    36.115935
+],
   "geometry": {"coordinates":[-97.029313,36.115935],"type":"Point"}
 }

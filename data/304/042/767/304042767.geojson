@@ -2,13 +2,14 @@
   "id": 304042767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.048242,36.116085,-97.048242,36.116085",
     "geom:latitude":36.116085,
     "geom:longitude":-97.048242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 E 6th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304042767,
-    "wof:lastmodified":1449044018,
+    "wof:lastmodified":1466763062,
     "wof:name":"Unique Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.048242,36.116085,-97.048242,36.116085],
+  "bbox": [
+    -97.048242,
+    36.116085,
+    -97.048242,
+    36.116085
+],
   "geometry": {"coordinates":[-97.048242,36.116085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303874615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.909719,36.112951,-95.909719,36.112951",
     "geom:latitude":36.112951,
     "geom:longitude":-95.909719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3525 E 51st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303874615,
-    "wof:lastmodified":1449000406,
+    "wof:lastmodified":1466766909,
     "wof:name":"Paradise Nails",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.909719,36.112951,-95.909719,36.112951],
+  "bbox": [
+    -95.909719,
+    36.112951,
+    -95.909719,
+    36.112951
+],
   "geometry": {"coordinates":[-95.909719,36.112951],"type":"Point"}
 }

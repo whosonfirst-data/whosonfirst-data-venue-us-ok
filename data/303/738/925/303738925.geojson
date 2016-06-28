@@ -2,13 +2,14 @@
   "id": 303738925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.833324,36.118165,-95.833324,36.118165",
     "geom:latitude":36.118165,
     "geom:longitude":-95.833324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3140 S 129th E Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303738925,
-    "wof:lastmodified":1448999910,
+    "wof:lastmodified":1466766447,
     "wof:name":"Splash N Dash Car Wash",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-95.833324,36.118165,-95.833324,36.118165],
+  "bbox": [
+    -95.833324,
+    36.118165,
+    -95.833324,
+    36.118165
+],
   "geometry": {"coordinates":[-95.833324,36.118165],"type":"Point"}
 }

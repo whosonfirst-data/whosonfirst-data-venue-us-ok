@@ -2,13 +2,14 @@
   "id": 303052705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.077059,36.71872,-97.077059,36.71872",
     "geom:latitude":36.71872,
     "geom:longitude":-97.077059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 E Brookfield Ave",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303052705,
-    "wof:lastmodified":1448999230,
+    "wof:lastmodified":1466762466,
     "wof:name":"Town & Country Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.077059,36.71872,-97.077059,36.71872],
-  "geometry": {"coordinates":[-97.077059,36.71872],"type":"Point"}
+  "bbox": [
+    -97.077059,
+    36.71872,
+    -97.077059,
+    36.71872
+],
+  "geometry": {"coordinates":[-97.07705900000001,36.71872],"type":"Point"}
 }

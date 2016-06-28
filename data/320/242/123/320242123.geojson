@@ -2,13 +2,14 @@
   "id": 320242123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.996142,36.1493,-95.996142,36.1493",
     "geom:latitude":36.1493,
     "geom:longitude":-95.996142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Civic Center",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320242123,
-    "wof:lastmodified":1449014521,
+    "wof:lastmodified":1466764801,
     "wof:name":"Literacy Information Line",
     "wof:parent_id":85872473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "improvement"
     ]
 },
-  "bbox": [-95.996142,36.1493,-95.996142,36.1493],
-  "geometry": {"coordinates":[-95.996142,36.1493],"type":"Point"}
+  "bbox": [
+    -95.996142,
+    36.1493,
+    -95.996142,
+    36.1493
+],
+  "geometry": {"coordinates":[-95.99614200000001,36.1493],"type":"Point"}
 }

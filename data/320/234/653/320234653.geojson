@@ -2,13 +2,14 @@
   "id": 320234653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.099117,35.993417,-96.099117,35.993417",
     "geom:latitude":35.993417,
     "geom:longitude":-96.099117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 E Bryan Ave",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320234653,
-    "wof:lastmodified":1449014756,
+    "wof:lastmodified":1466764775,
     "wof:name":"Omni Medical Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.099117,35.993417,-96.099117,35.993417],
-  "geometry": {"coordinates":[-96.099117,35.993417],"type":"Point"}
+  "bbox": [
+    -96.099117,
+    35.993417,
+    -96.099117,
+    35.993417
+],
+  "geometry": {"coordinates":[-96.09911700000001,35.993417],"type":"Point"}
 }

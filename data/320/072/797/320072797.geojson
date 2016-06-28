@@ -2,13 +2,14 @@
   "id": 320072797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.89139,36.066202,-95.89139,36.066202",
     "geom:latitude":36.066202,
     "geom:longitude":-95.89139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6659 S 77th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320072797,
-    "wof:lastmodified":1449013230,
+    "wof:lastmodified":1466763366,
     "wof:name":"HUD-VA U S A Home Sales",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-95.89139,36.066202,-95.89139,36.066202],
+  "bbox": [
+    -95.89139,
+    36.066202,
+    -95.89139,
+    36.066202
+],
   "geometry": {"coordinates":[-95.89139,36.066202],"type":"Point"}
 }

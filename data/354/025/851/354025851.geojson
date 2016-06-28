@@ -2,13 +2,14 @@
   "id": 354025851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.720542,35.382172,-97.720542,35.382172",
     "geom:latitude":35.382172,
     "geom:longitude":-97.720542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 E Brookview Ct",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354025851,
-    "wof:lastmodified":1449067373,
+    "wof:lastmodified":1466763109,
     "wof:name":"Plumbco Plumbing",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.720542,35.382172,-97.720542,35.382172],
-  "geometry": {"coordinates":[-97.720542,35.382172],"type":"Point"}
+  "bbox": [
+    -97.720542,
+    35.382172,
+    -97.720542,
+    35.382172
+],
+  "geometry": {"coordinates":[-97.72054199999999,35.382172],"type":"Point"}
 }

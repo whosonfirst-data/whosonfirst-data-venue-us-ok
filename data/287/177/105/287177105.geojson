@@ -2,13 +2,14 @@
   "id": 287177105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.50168,35.406316,-97.50168,35.406316",
     "geom:latitude":35.406316,
     "geom:longitude":-97.50168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 SE 59th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287177105,
-    "wof:lastmodified":1449001591,
+    "wof:lastmodified":1466763833,
     "wof:name":"Classic Cars",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.50168,35.406316,-97.50168,35.406316],
-  "geometry": {"coordinates":[-97.50168,35.406316],"type":"Point"}
+  "bbox": [
+    -97.50168,
+    35.406316,
+    -97.50168,
+    35.406316
+],
+  "geometry": {"coordinates":[-97.50167999999999,35.406316],"type":"Point"}
 }

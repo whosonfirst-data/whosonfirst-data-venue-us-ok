@@ -2,13 +2,14 @@
   "id": 303552503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.919148,36.142407,-95.919148,36.142407",
     "geom:latitude":36.142407,
     "geom:longitude":-95.919148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 S Canton Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":303552503,
-    "wof:lastmodified":1448999145,
+    "wof:lastmodified":1466765950,
     "wof:name":"Crowell Heights Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.919148,36.142407,-95.919148,36.142407],
-  "geometry": {"coordinates":[-95.919148,36.142407],"type":"Point"}
+  "bbox": [
+    -95.919148,
+    36.142407,
+    -95.919148,
+    36.142407
+],
+  "geometry": {"coordinates":[-95.91914800000001,36.142407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336848939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.799613,36.011298,-95.799613,36.011298",
     "geom:latitude":36.011298,
     "geom:longitude":-95.799613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 W Twin Oaks Dr",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336848939,
-    "wof:lastmodified":1448997085,
+    "wof:lastmodified":1466764820,
     "wof:name":"Firecom LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "emergency"
     ]
 },
-  "bbox": [-95.799613,36.011298,-95.799613,36.011298],
-  "geometry": {"coordinates":[-95.799613,36.011298],"type":"Point"}
+  "bbox": [
+    -95.799613,
+    36.011298,
+    -95.799613,
+    36.011298
+],
+  "geometry": {"coordinates":[-95.79961299999999,36.011298],"type":"Point"}
 }

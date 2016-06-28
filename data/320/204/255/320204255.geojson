@@ -2,13 +2,14 @@
   "id": 320204255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.044298,35.798575,-95.044298,35.798575",
     "geom:latitude":35.798575,
     "geom:longitude":-95.044298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14199 W 834 Rd",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320204255,
-    "wof:lastmodified":1449015066,
+    "wof:lastmodified":1466764618,
     "wof:name":"APAC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.044298,35.798575,-95.044298,35.798575],
+  "bbox": [
+    -95.044298,
+    35.798575,
+    -95.044298,
+    35.798575
+],
   "geometry": {"coordinates":[-95.044298,35.798575],"type":"Point"}
 }

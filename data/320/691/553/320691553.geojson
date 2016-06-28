@@ -2,13 +2,14 @@
   "id": 320691553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.094495,35.025661,-99.094495,35.025661",
     "geom:latitude":35.025661,
     "geom:longitude":-99.094495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 S Washington St",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320691553,
-    "wof:lastmodified":1449011552,
+    "wof:lastmodified":1466766531,
     "wof:name":"Gray Electric and AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.094495,35.025661,-99.094495,35.025661],
-  "geometry": {"coordinates":[-99.094495,35.025661],"type":"Point"}
+  "bbox": [
+    -99.094495,
+    35.025661,
+    -99.094495,
+    35.025661
+],
+  "geometry": {"coordinates":[-99.09449499999999,35.025661],"type":"Point"}
 }

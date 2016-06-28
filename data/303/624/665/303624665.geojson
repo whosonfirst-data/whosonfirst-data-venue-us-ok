@@ -2,13 +2,14 @@
   "id": 303624665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.91989,36.249524,-95.91989,36.249524",
     "geom:latitude":36.249524,
     "geom:longitude":-95.91989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4916 E 66th St N",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303624665,
-    "wof:lastmodified":1448999795,
+    "wof:lastmodified":1466766165,
     "wof:name":"Arvest OK Processing Ctr",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "holding"
     ]
 },
-  "bbox": [-95.91989,36.249524,-95.91989,36.249524],
+  "bbox": [
+    -95.91989,
+    36.249524,
+    -95.91989,
+    36.249524
+],
   "geometry": {"coordinates":[-95.91989,36.249524],"type":"Point"}
 }

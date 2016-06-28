@@ -2,13 +2,14 @@
   "id": 303130277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.635935,35.546808,-97.635935,35.546808",
     "geom:latitude":35.546808,
     "geom:longitude":-97.635935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7304 Kingsridge Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303130277,
-    "wof:lastmodified":1448998957,
+    "wof:lastmodified":1466763725,
     "wof:name":"Keller In The Kastle",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.635935,35.546808,-97.635935,35.546808],
+  "bbox": [
+    -97.635935,
+    35.546808,
+    -97.635935,
+    35.546808
+],
   "geometry": {"coordinates":[-97.635935,35.546808],"type":"Point"}
 }

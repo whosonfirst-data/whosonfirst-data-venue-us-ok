@@ -2,13 +2,14 @@
   "id": 304046787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.413337,34.606261,-98.413337,34.606261",
     "geom:latitude":34.606261,
     "geom:longitude":-98.413337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 SW B Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304046787,
-    "wof:lastmodified":1449043927,
+    "wof:lastmodified":1466763093,
     "wof:name":"Robinson Air",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "installation"
     ]
 },
-  "bbox": [-98.413337,34.606261,-98.413337,34.606261],
+  "bbox": [
+    -98.413337,
+    34.606261,
+    -98.413337,
+    34.606261
+],
   "geometry": {"coordinates":[-98.413337,34.606261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303438785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.627467,35.449839,-97.627467,35.449839",
     "geom:latitude":35.449839,
     "geom:longitude":-97.627467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6401 SW 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303438785,
-    "wof:lastmodified":1448998945,
+    "wof:lastmodified":1466765629,
     "wof:name":"Haskell Lemon Construction Co",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.627467,35.449839,-97.627467,35.449839],
+  "bbox": [
+    -97.627467,
+    35.449839,
+    -97.627467,
+    35.449839
+],
   "geometry": {"coordinates":[-97.627467,35.449839],"type":"Point"}
 }

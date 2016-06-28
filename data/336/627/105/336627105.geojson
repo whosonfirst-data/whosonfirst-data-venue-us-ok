@@ -2,13 +2,14 @@
   "id": 336627105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494865,35.420875,-97.494865,35.420875",
     "geom:latitude":35.420875,
     "geom:longitude":-97.494865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4407 S High Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336627105,
-    "wof:lastmodified":1448998040,
+    "wof:lastmodified":1466762610,
     "wof:name":"Onion Barrel",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.494865,35.420875,-97.494865,35.420875],
+  "bbox": [
+    -97.494865,
+    35.420875,
+    -97.494865,
+    35.420875
+],
   "geometry": {"coordinates":[-97.494865,35.420875],"type":"Point"}
 }

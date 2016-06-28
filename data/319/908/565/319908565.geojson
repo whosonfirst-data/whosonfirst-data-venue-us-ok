@@ -2,13 +2,14 @@
   "id": 319908565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.502022,35.146283,-96.502022,35.146283",
     "geom:latitude":35.146283,
     "geom:longitude":-96.502022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Bluff View Dr",
     "sg:city":"Wewoka",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319908565,
-    "wof:lastmodified":1449024532,
+    "wof:lastmodified":1466763755,
     "wof:name":"James Harrod",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.502022,35.146283,-96.502022,35.146283],
+  "bbox": [
+    -96.502022,
+    35.146283,
+    -96.502022,
+    35.146283
+],
   "geometry": {"coordinates":[-96.502022,35.146283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320656961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.301083,35.478571,-97.301083,35.478571",
     "geom:latitude":35.478571,
     "geom:longitude":-97.301083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12996 NE 10th St",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320656961,
-    "wof:lastmodified":1449013702,
+    "wof:lastmodified":1466766548,
     "wof:name":"HI 10 Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-97.301083,35.478571,-97.301083,35.478571],
-  "geometry": {"coordinates":[-97.301083,35.478571],"type":"Point"}
+  "bbox": [
+    -97.301083,
+    35.478571,
+    -97.301083,
+    35.478571
+],
+  "geometry": {"coordinates":[-97.30108300000001,35.478571],"type":"Point"}
 }

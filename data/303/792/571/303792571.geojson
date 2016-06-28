@@ -2,13 +2,14 @@
   "id": 303792571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494791,35.438897,-97.494791,35.438897",
     "geom:latitude":35.438897,
     "geom:longitude":-97.494791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2640 S High Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303792571,
-    "wof:lastmodified":1448998640,
+    "wof:lastmodified":1466766718,
     "wof:name":"Sooner Roll Off",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-97.494791,35.438897,-97.494791,35.438897],
-  "geometry": {"coordinates":[-97.494791,35.438897],"type":"Point"}
+  "bbox": [
+    -97.494791,
+    35.438897,
+    -97.494791,
+    35.438897
+],
+  "geometry": {"coordinates":[-97.49479100000001,35.438897],"type":"Point"}
 }

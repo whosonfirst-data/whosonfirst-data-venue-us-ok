@@ -2,13 +2,14 @@
   "id": 320374105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.332073,35.659986,-97.332073,35.659986",
     "geom:latitude":35.659986,
     "geom:longitude":-97.332073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 E Hwy 66",
     "sg:city":"Arcadia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320374105,
-    "wof:lastmodified":1449012878,
+    "wof:lastmodified":1466765586,
     "wof:name":"66 Lake Stop",
     "wof:parent_id":85829129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-97.332073,35.659986,-97.332073,35.659986],
-  "geometry": {"coordinates":[-97.332073,35.659986],"type":"Point"}
+  "bbox": [
+    -97.332073,
+    35.659986,
+    -97.332073,
+    35.659986
+],
+  "geometry": {"coordinates":[-97.33207299999999,35.659986],"type":"Point"}
 }

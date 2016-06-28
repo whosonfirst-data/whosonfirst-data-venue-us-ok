@@ -2,13 +2,14 @@
   "id": 353711077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.980561,36.675328,-96.980561,36.675328",
     "geom:latitude":36.675328,
     "geom:longitude":-96.980561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Jamison Rd",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353711077,
-    "wof:lastmodified":1449020356,
+    "wof:lastmodified":1466764824,
     "wof:name":"Four CS Guttering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-96.980561,36.675328,-96.980561,36.675328],
-  "geometry": {"coordinates":[-96.980561,36.675328],"type":"Point"}
+  "bbox": [
+    -96.980561,
+    36.675328,
+    -96.980561,
+    36.675328
+],
+  "geometry": {"coordinates":[-96.98056099999999,36.675328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320053327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.928576,35.286265,-96.928576,35.286265",
     "geom:latitude":35.286265,
     "geom:longitude":-96.928576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19002 S Gordon Cooper Dr",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320053327,
-    "wof:lastmodified":1449011963,
+    "wof:lastmodified":1466763078,
     "wof:name":"Sharon Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.928576,35.286265,-96.928576,35.286265],
-  "geometry": {"coordinates":[-96.928576,35.286265],"type":"Point"}
+  "bbox": [
+    -96.928576,
+    35.286265,
+    -96.928576,
+    35.286265
+],
+  "geometry": {"coordinates":[-96.92857600000001,35.286265],"type":"Point"}
 }

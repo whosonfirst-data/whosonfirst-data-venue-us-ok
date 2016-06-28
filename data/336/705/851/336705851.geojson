@@ -2,13 +2,14 @@
   "id": 336705851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.440552,35.239679,-97.440552,35.239679",
     "geom:latitude":35.239679,
     "geom:longitude":-97.440552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Eagle Nest Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336705851,
-    "wof:lastmodified":1448998019,
+    "wof:lastmodified":1466763814,
     "wof:name":"Netplus-Net",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-97.440552,35.239679,-97.440552,35.239679],
+  "bbox": [
+    -97.440552,
+    35.239679,
+    -97.440552,
+    35.239679
+],
   "geometry": {"coordinates":[-97.440552,35.239679],"type":"Point"}
 }

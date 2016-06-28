@@ -2,13 +2,14 @@
   "id": 320270865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.526683,35.551195,-97.526683,35.551195",
     "geom:latitude":35.551195,
     "geom:longitude":-97.526683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 W Wilshire Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320270865,
-    "wof:lastmodified":1449011923,
+    "wof:lastmodified":1466764917,
     "wof:name":"Tom King Electric",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.526683,35.551195,-97.526683,35.551195],
-  "geometry": {"coordinates":[-97.526683,35.551195],"type":"Point"}
+  "bbox": [
+    -97.526683,
+    35.551195,
+    -97.526683,
+    35.551195
+],
+  "geometry": {"coordinates":[-97.52668300000001,35.551195],"type":"Point"}
 }

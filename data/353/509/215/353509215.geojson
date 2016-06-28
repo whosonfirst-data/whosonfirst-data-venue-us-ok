@@ -2,13 +2,14 @@
   "id": 353509215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.485169,35.512879,-97.485169,35.512879",
     "geom:latitude":35.512879,
     "geom:longitude":-97.485169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4116 N Prospect Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353509215,
-    "wof:lastmodified":1449018344,
+    "wof:lastmodified":1466763261,
     "wof:name":"Oklahoma City Police Dept",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.485169,35.512879,-97.485169,35.512879],
+  "bbox": [
+    -97.485169,
+    35.512879,
+    -97.485169,
+    35.512879
+],
   "geometry": {"coordinates":[-97.485169,35.512879],"type":"Point"}
 }

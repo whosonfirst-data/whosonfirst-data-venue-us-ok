@@ -2,13 +2,14 @@
   "id": 320464331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.296589,34.739205,-97.296589,34.739205",
     "geom:latitude":34.739205,
     "geom:longitude":-97.296589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6121 Old Antioch Rd",
     "sg:city":"Pauls Valley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320464331,
-    "wof:lastmodified":1449012262,
+    "wof:lastmodified":1466765866,
     "wof:name":"Brumley Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.296589,34.739205,-97.296589,34.739205],
+  "bbox": [
+    -97.296589,
+    34.739205,
+    -97.296589,
+    34.739205
+],
   "geometry": {"coordinates":[-97.296589,34.739205],"type":"Point"}
 }

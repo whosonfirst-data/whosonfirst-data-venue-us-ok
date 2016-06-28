@@ -2,13 +2,14 @@
   "id": 303982401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.902507,36.146054,-95.902507,36.146054",
     "geom:latitude":36.146054,
     "geom:longitude":-95.902507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6512 E 12th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303982401,
-    "wof:lastmodified":1448998536,
+    "wof:lastmodified":1466767118,
     "wof:name":"TLC Painting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.902507,36.146054,-95.902507,36.146054],
+  "bbox": [
+    -95.902507,
+    36.146054,
+    -95.902507,
+    36.146054
+],
   "geometry": {"coordinates":[-95.902507,36.146054],"type":"Point"}
 }

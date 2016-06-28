@@ -2,13 +2,14 @@
   "id": 304002731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.579928,35.529924,-97.579928,35.529924",
     "geom:latitude":35.529924,
     "geom:longitude":-97.579928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3535 NW 58th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":304002731,
-    "wof:lastmodified":1449044060,
+    "wof:lastmodified":1466762845,
     "wof:name":"Fairway Energy",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-97.579928,35.529924,-97.579928,35.529924],
+  "bbox": [
+    -97.579928,
+    35.529924,
+    -97.579928,
+    35.529924
+],
   "geometry": {"coordinates":[-97.579928,35.529924],"type":"Point"}
 }

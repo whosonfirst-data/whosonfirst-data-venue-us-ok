@@ -2,13 +2,14 @@
   "id": 304023291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.954895,35.535007,-97.954895,35.535007",
     "geom:latitude":35.535007,
     "geom:longitude":-97.954895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Choctaw Ave",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304023291,
-    "wof:lastmodified":1449044105,
+    "wof:lastmodified":1466762935,
     "wof:name":"Arthur B Stevener Jr",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.954895,35.535007,-97.954895,35.535007],
-  "geometry": {"coordinates":[-97.954895,35.535007],"type":"Point"}
+  "bbox": [
+    -97.954895,
+    35.535007,
+    -97.954895,
+    35.535007
+],
+  "geometry": {"coordinates":[-97.95489499999999,35.535007],"type":"Point"}
 }

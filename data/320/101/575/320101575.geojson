@@ -2,13 +2,14 @@
   "id": 320101575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.991718,36.748301,-95.991718,36.748301",
     "geom:latitude":36.748301,
     "geom:longitude":-95.991718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"543 S Rogers Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320101575,
-    "wof:lastmodified":1449013222,
+    "wof:lastmodified":1466763789,
     "wof:name":"Duco Pipe & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-95.991718,36.748301,-95.991718,36.748301],
-  "geometry": {"coordinates":[-95.991718,36.748301],"type":"Point"}
+  "bbox": [
+    -95.991718,
+    36.748301,
+    -95.991718,
+    36.748301
+],
+  "geometry": {"coordinates":[-95.99171800000001,36.748301],"type":"Point"}
 }

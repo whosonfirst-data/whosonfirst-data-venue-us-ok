@@ -2,13 +2,14 @@
   "id": 336665379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.012152,34.401102,-99.012152,34.401102",
     "geom:latitude":34.401102,
     "geom:longitude":-99.012152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 N 14th St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336665379,
-    "wof:lastmodified":1448997277,
+    "wof:lastmodified":1466763186,
     "wof:name":"Food With A Flair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-99.012152,34.401102,-99.012152,34.401102],
+  "bbox": [
+    -99.012152,
+    34.401102,
+    -99.012152,
+    34.401102
+],
   "geometry": {"coordinates":[-99.012152,34.401102],"type":"Point"}
 }

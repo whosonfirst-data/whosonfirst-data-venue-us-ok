@@ -2,13 +2,14 @@
   "id": 320678173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.268015,36.131309,-96.268015,36.131309",
     "geom:latitude":36.131309,
     "geom:longitude":-96.268015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23810 State Hwy 51",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320678173,
-    "wof:lastmodified":1449013060,
+    "wof:lastmodified":1466766482,
     "wof:name":"Keystone Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.268015,36.131309,-96.268015,36.131309],
-  "geometry": {"coordinates":[-96.268015,36.131309],"type":"Point"}
+  "bbox": [
+    -96.268015,
+    36.131309,
+    -96.268015,
+    36.131309
+],
+  "geometry": {"coordinates":[-96.26801500000001,36.131309],"type":"Point"}
 }

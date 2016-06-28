@@ -2,13 +2,14 @@
   "id": 336701427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.98466,36.154737,-95.98466,36.154737",
     "geom:latitude":36.154737,
     "geom:longitude":-95.98466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 S Frankfort Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336701427,
-    "wof:lastmodified":1448997805,
+    "wof:lastmodified":1466763743,
     "wof:name":"Tfg In-Store Display",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.98466,36.154737,-95.98466,36.154737],
-  "geometry": {"coordinates":[-95.98466,36.154737],"type":"Point"}
+  "bbox": [
+    -95.98466,
+    36.154737,
+    -95.98466,
+    36.154737
+],
+  "geometry": {"coordinates":[-95.98466000000001,36.154737],"type":"Point"}
 }

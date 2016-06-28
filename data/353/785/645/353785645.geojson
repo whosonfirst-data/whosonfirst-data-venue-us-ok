@@ -2,13 +2,14 @@
   "id": 353785645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.865022,35.997156,-95.865022,35.997156",
     "geom:latitude":35.997156,
     "geom:longitude":-95.865022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9921 E 115th St S",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353785645,
-    "wof:lastmodified":1449020385,
+    "wof:lastmodified":1466765259,
     "wof:name":"Locke Travel & Tours",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "promoter"
     ]
 },
-  "bbox": [-95.865022,35.997156,-95.865022,35.997156],
+  "bbox": [
+    -95.865022,
+    35.997156,
+    -95.865022,
+    35.997156
+],
   "geometry": {"coordinates":[-95.865022,35.997156],"type":"Point"}
 }

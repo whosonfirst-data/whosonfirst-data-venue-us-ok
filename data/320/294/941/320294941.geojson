@@ -2,13 +2,14 @@
   "id": 320294941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547878,35.394149,-97.547878,35.394149",
     "geom:latitude":35.394149,
     "geom:longitude":-97.547878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7200 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320294941,
-    "wof:lastmodified":1449013922,
+    "wof:lastmodified":1466765135,
     "wof:name":"Chris Clark PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-97.547878,35.394149,-97.547878,35.394149],
+  "bbox": [
+    -97.547878,
+    35.394149,
+    -97.547878,
+    35.394149
+],
   "geometry": {"coordinates":[-97.547878,35.394149],"type":"Point"}
 }

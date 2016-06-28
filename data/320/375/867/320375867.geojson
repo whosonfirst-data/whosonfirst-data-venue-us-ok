@@ -2,13 +2,14 @@
   "id": 320375867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.98649,36.135303,-95.98649,36.135303",
     "geom:latitude":36.135303,
     "geom:longitude":-95.98649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1836 S Baltimore Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320375867,
-    "wof:lastmodified":1449011392,
+    "wof:lastmodified":1466765725,
     "wof:name":"Fritz Baily",
     "wof:parent_id":85872487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-95.98649,36.135303,-95.98649,36.135303],
+  "bbox": [
+    -95.98649,
+    36.135303,
+    -95.98649,
+    36.135303
+],
   "geometry": {"coordinates":[-95.98649,36.135303],"type":"Point"}
 }

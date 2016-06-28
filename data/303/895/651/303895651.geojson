@@ -2,13 +2,14 @@
   "id": 303895651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.939692,35.051018,-97.939692,35.051018",
     "geom:latitude":35.051018,
     "geom:longitude":-97.939692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S 6th St",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303895651,
-    "wof:lastmodified":1448999156,
+    "wof:lastmodified":1466766951,
     "wof:name":"Sheppard Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "repair"
     ]
 },
-  "bbox": [-97.939692,35.051018,-97.939692,35.051018],
-  "geometry": {"coordinates":[-97.939692,35.051018],"type":"Point"}
+  "bbox": [
+    -97.939692,
+    35.051018,
+    -97.939692,
+    35.051018
+],
+  "geometry": {"coordinates":[-97.93969199999999,35.051018],"type":"Point"}
 }

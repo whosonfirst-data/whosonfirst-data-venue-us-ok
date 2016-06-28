@@ -2,13 +2,14 @@
   "id": 320114577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.398429,35.769477,-95.398429,35.769477",
     "geom:latitude":35.769477,
     "geom:longitude":-95.398429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2909 Azalea Park Dr",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320114577,
-    "wof:lastmodified":1449012822,
+    "wof:lastmodified":1466764002,
     "wof:name":"Muskogee Dental Group",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-95.398429,35.769477,-95.398429,35.769477],
-  "geometry": {"coordinates":[-95.398429,35.769477],"type":"Point"}
+  "bbox": [
+    -95.398429,
+    35.769477,
+    -95.398429,
+    35.769477
+],
+  "geometry": {"coordinates":[-95.39842899999999,35.769477],"type":"Point"}
 }

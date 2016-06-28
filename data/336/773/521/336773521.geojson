@@ -2,13 +2,14 @@
   "id": 336773521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.40637,35.469919,-97.40637,35.469919",
     "geom:latitude":35.469919,
     "geom:longitude":-97.40637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 N Air Depot Blvd",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336773521,
-    "wof:lastmodified":1448997062,
+    "wof:lastmodified":1466764536,
     "wof:name":"Pit-Stop Tire & Lube Ctr",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-97.40637,35.469919,-97.40637,35.469919],
+  "bbox": [
+    -97.40637,
+    35.469919,
+    -97.40637,
+    35.469919
+],
   "geometry": {"coordinates":[-97.40637,35.469919],"type":"Point"}
 }

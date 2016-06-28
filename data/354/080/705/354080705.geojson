@@ -2,13 +2,14 @@
   "id": 354080705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975628,36.107256,-95.975628,36.107256",
     "geom:latitude":36.107256,
     "geom:longitude":-95.975628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3807 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354080705,
-    "wof:lastmodified":1449067640,
+    "wof:lastmodified":1466763441,
     "wof:name":"Wheel Technologies",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cover"
     ]
 },
-  "bbox": [-95.975628,36.107256,-95.975628,36.107256],
+  "bbox": [
+    -95.975628,
+    36.107256,
+    -95.975628,
+    36.107256
+],
   "geometry": {"coordinates":[-95.975628,36.107256],"type":"Point"}
 }

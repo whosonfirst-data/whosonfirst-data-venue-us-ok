@@ -2,13 +2,14 @@
   "id": 320546589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.968392,36.060827,-95.968392,36.060827",
     "geom:latitude":36.060827,
     "geom:longitude":-95.968392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1671 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320546589,
-    "wof:lastmodified":1449011253,
+    "wof:lastmodified":1466766171,
     "wof:name":"Omni Medical Group",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.968392,36.060827,-95.968392,36.060827],
-  "geometry": {"coordinates":[-95.968392,36.060827],"type":"Point"}
+  "bbox": [
+    -95.968392,
+    36.060827,
+    -95.968392,
+    36.060827
+],
+  "geometry": {"coordinates":[-95.96839199999999,36.060827],"type":"Point"}
 }

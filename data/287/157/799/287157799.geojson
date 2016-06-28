@@ -2,13 +2,14 @@
   "id": 287157799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.895479,36.705714,-99.895479,36.705714",
     "geom:latitude":36.705714,
     "geom:longitude":-99.895479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 SW 4th St",
     "sg:city":"Laverne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287157799,
-    "wof:lastmodified":1449001450,
+    "wof:lastmodified":1466763705,
     "wof:name":"Laverne Tag Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-99.895479,36.705714,-99.895479,36.705714],
-  "geometry": {"coordinates":[-99.895479,36.705714],"type":"Point"}
+  "bbox": [
+    -99.895479,
+    36.705714,
+    -99.895479,
+    36.705714
+],
+  "geometry": {"coordinates":[-99.89547899999999,36.705714],"type":"Point"}
 }

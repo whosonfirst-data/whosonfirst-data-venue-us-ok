@@ -2,13 +2,14 @@
   "id": 303159039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.376067,35.088626,-96.376067,35.088626",
     "geom:latitude":35.088626,
     "geom:longitude":-96.376067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Crestview Dr",
     "sg:city":"Holdenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303159039,
-    "wof:lastmodified":1448998415,
+    "wof:lastmodified":1466764178,
     "wof:name":"Housing Authority of The City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "provides"
     ]
 },
-  "bbox": [-96.376067,35.088626,-96.376067,35.088626],
-  "geometry": {"coordinates":[-96.376067,35.088626],"type":"Point"}
+  "bbox": [
+    -96.376067,
+    35.088626,
+    -96.376067,
+    35.088626
+],
+  "geometry": {"coordinates":[-96.37606700000001,35.088626],"type":"Point"}
 }

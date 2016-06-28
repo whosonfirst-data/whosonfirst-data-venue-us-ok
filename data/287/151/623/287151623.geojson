@@ -2,13 +2,14 @@
   "id": 287151623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.920764,35.327295,-96.920764,35.327295",
     "geom:latitude":35.327295,
     "geom:longitude":-96.920764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 E Main St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287151623,
-    "wof:lastmodified":1449000672,
+    "wof:lastmodified":1466763685,
     "wof:name":"Shawnee Soccer Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.920764,35.327295,-96.920764,35.327295],
-  "geometry": {"coordinates":[-96.920764,35.327295],"type":"Point"}
+  "bbox": [
+    -96.920764,
+    35.327295,
+    -96.920764,
+    35.327295
+],
+  "geometry": {"coordinates":[-96.92076400000001,35.327295],"type":"Point"}
 }

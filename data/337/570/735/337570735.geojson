@@ -2,13 +2,14 @@
   "id": 337570735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.913795,34.693507,-99.913795,34.693507",
     "geom:latitude":34.693507,
     "geom:longitude":-99.913795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 N 7th St",
     "sg:city":"Hollis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337570735,
-    "wof:lastmodified":1449027431,
+    "wof:lastmodified":1466763045,
     "wof:name":"Harmon County Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-99.913795,34.693507,-99.913795,34.693507],
-  "geometry": {"coordinates":[-99.913795,34.693507],"type":"Point"}
+  "bbox": [
+    -99.913795,
+    34.693507,
+    -99.913795,
+    34.693507
+],
+  "geometry": {"coordinates":[-99.91379499999999,34.693507],"type":"Point"}
 }

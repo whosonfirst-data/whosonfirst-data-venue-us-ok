@@ -2,13 +2,14 @@
   "id": 320853577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.007049,36.705674,-97.007049,36.705674",
     "geom:latitude":36.705674,
     "geom:longitude":-97.007049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Woodcreek Rd",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320853577,
-    "wof:lastmodified":1449012778,
+    "wof:lastmodified":1466766981,
     "wof:name":"Among Other Things",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.007049,36.705674,-97.007049,36.705674],
-  "geometry": {"coordinates":[-97.007049,36.705674],"type":"Point"}
+  "bbox": [
+    -97.007049,
+    36.705674,
+    -97.007049,
+    36.705674
+],
+  "geometry": {"coordinates":[-97.00704899999999,36.705674],"type":"Point"}
 }

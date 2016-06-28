@@ -2,13 +2,14 @@
   "id": 303601453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.051428,36.134817,-97.051428,36.134817",
     "geom:latitude":36.134817,
     "geom:longitude":-97.051428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 N Perkins Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303601453,
-    "wof:lastmodified":1448999214,
+    "wof:lastmodified":1466766190,
     "wof:name":"Christies Toy Box",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.051428,36.134817,-97.051428,36.134817],
+  "bbox": [
+    -97.051428,
+    36.134817,
+    -97.051428,
+    36.134817
+],
   "geometry": {"coordinates":[-97.051428,36.134817],"type":"Point"}
 }

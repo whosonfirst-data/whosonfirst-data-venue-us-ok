@@ -2,13 +2,14 @@
   "id": 320692583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967812,36.019558,-95.967812,36.019558",
     "geom:latitude":36.019558,
     "geom:longitude":-95.967812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E Comanche St",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320692583,
-    "wof:lastmodified":1449012250,
+    "wof:lastmodified":1466766538,
     "wof:name":"Jenks Aquarium Authority",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aquarium"
     ]
 },
-  "bbox": [-95.967812,36.019558,-95.967812,36.019558],
+  "bbox": [
+    -95.967812,
+    36.019558,
+    -95.967812,
+    36.019558
+],
   "geometry": {"coordinates":[-95.967812,36.019558],"type":"Point"}
 }

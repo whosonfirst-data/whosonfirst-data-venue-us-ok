@@ -2,13 +2,14 @@
   "id": 320499993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.181587,35.425788,-97.181587,35.425788",
     "geom:latitude":35.425788,
     "geom:longitude":-97.181587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 Cactus Dr",
     "sg:city":"Newalla",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320499993,
-    "wof:lastmodified":1449011969,
+    "wof:lastmodified":1466766068,
     "wof:name":"Cactus Road Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.181587,35.425788,-97.181587,35.425788],
-  "geometry": {"coordinates":[-97.181587,35.425788],"type":"Point"}
+  "bbox": [
+    -97.181587,
+    35.425788,
+    -97.181587,
+    35.425788
+],
+  "geometry": {"coordinates":[-97.18158699999999,35.425788],"type":"Point"}
 }

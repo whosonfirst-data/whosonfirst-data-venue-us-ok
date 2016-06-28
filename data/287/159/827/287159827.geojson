@@ -2,13 +2,14 @@
   "id": 287159827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.956015,36.238859,-95.956015,36.238859",
     "geom:latitude":36.238859,
     "geom:longitude":-95.956015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2441 E 59th St N",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287159827,
-    "wof:lastmodified":1449000769,
+    "wof:lastmodified":1466763721,
     "wof:name":"Sadies Fine Things",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-95.956015,36.238859,-95.956015,36.238859],
-  "geometry": {"coordinates":[-95.956015,36.238859],"type":"Point"}
+  "bbox": [
+    -95.956015,
+    36.238859,
+    -95.956015,
+    36.238859
+],
+  "geometry": {"coordinates":[-95.95601499999999,36.238859],"type":"Point"}
 }

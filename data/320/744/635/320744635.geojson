@@ -2,13 +2,14 @@
   "id": 320744635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.875575,36.13352,-95.875575,36.13352",
     "geom:latitude":36.13352,
     "geom:longitude":-95.875575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8909 E 21st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320744635,
-    "wof:lastmodified":1449012623,
+    "wof:lastmodified":1466766673,
     "wof:name":"TLM Advertising",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.875575,36.13352,-95.875575,36.13352],
+  "bbox": [
+    -95.875575,
+    36.13352,
+    -95.875575,
+    36.13352
+],
   "geometry": {"coordinates":[-95.875575,36.13352],"type":"Point"}
 }

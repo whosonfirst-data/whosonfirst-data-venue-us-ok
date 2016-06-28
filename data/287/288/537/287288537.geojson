@@ -2,13 +2,14 @@
   "id": 287288537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.401023,35.833827,-96.401023,35.833827",
     "geom:latitude":35.833827,
     "geom:longitude":-96.401023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W 7th Ave",
     "sg:city":"Bristow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287288537,
-    "wof:lastmodified":1449000749,
+    "wof:lastmodified":1466763258,
     "wof:name":"Omni Medical Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-96.401023,35.833827,-96.401023,35.833827],
+  "bbox": [
+    -96.401023,
+    35.833827,
+    -96.401023,
+    35.833827
+],
   "geometry": {"coordinates":[-96.401023,35.833827],"type":"Point"}
 }

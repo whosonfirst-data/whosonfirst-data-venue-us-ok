@@ -2,13 +2,14 @@
   "id": 336713613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.110162,36.139869,-96.110162,36.139869",
     "geom:latitude":36.139869,
     "geom:longitude":-96.110162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 N Main St",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336713613,
-    "wof:lastmodified":1448997919,
+    "wof:lastmodified":1466763931,
     "wof:name":"Sand Springs United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.110162,36.139869,-96.110162,36.139869],
+  "bbox": [
+    -96.110162,
+    36.139869,
+    -96.110162,
+    36.139869
+],
   "geometry": {"coordinates":[-96.110162,36.139869],"type":"Point"}
 }

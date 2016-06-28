@@ -2,13 +2,14 @@
   "id": 235937377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.954907,36.036713,-95.954907,36.036713",
     "geom:latitude":36.036713,
     "geom:longitude":-95.954907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8760 S Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":235937377,
-    "wof:lastmodified":1449008323,
+    "wof:lastmodified":1466762436,
     "wof:name":"South Tulsa Mowers",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "saw"
     ]
 },
-  "bbox": [-95.954907,36.036713,-95.954907,36.036713],
-  "geometry": {"coordinates":[-95.954907,36.036713],"type":"Point"}
+  "bbox": [
+    -95.954907,
+    36.036713,
+    -95.954907,
+    36.036713
+],
+  "geometry": {"coordinates":[-95.95490700000001,36.036713],"type":"Point"}
 }

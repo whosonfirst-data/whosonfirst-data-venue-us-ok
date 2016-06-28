@@ -2,13 +2,14 @@
   "id": 353656581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904294,36.090617,-95.904294,36.090617",
     "geom:latitude":36.090617,
     "geom:longitude":-95.904294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5048 S Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353656581,
-    "wof:lastmodified":1449019903,
+    "wof:lastmodified":1466764542,
     "wof:name":"US Cellular",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-95.904294,36.090617,-95.904294,36.090617],
-  "geometry": {"coordinates":[-95.904294,36.090617],"type":"Point"}
+  "bbox": [
+    -95.904294,
+    36.090617,
+    -95.904294,
+    36.090617
+],
+  "geometry": {"coordinates":[-95.90429399999999,36.090617],"type":"Point"}
 }

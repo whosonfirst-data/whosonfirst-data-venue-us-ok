@@ -2,13 +2,14 @@
   "id": 336645089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.049211,36.069065,-97.049211,36.069065",
     "geom:latitude":36.069065,
     "geom:longitude":-97.049211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 E 46th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336645089,
-    "wof:lastmodified":1448997042,
+    "wof:lastmodified":1466762875,
     "wof:name":"Precision Testing Labs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "removal"
     ]
 },
-  "bbox": [-97.049211,36.069065,-97.049211,36.069065],
+  "bbox": [
+    -97.049211,
+    36.069065,
+    -97.049211,
+    36.069065
+],
   "geometry": {"coordinates":[-97.049211,36.069065],"type":"Point"}
 }

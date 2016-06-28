@@ -2,13 +2,14 @@
   "id": 336610067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.64424,35.473313,-97.64424,35.473313",
     "geom:latitude":35.473313,
     "geom:longitude":-97.64424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Greenvale Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336610067,
-    "wof:lastmodified":1448997980,
+    "wof:lastmodified":1466762325,
     "wof:name":"Elipe Development & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.64424,35.473313,-97.64424,35.473313],
+  "bbox": [
+    -97.64424,
+    35.473313,
+    -97.64424,
+    35.473313
+],
   "geometry": {"coordinates":[-97.64424,35.473313],"type":"Point"}
 }

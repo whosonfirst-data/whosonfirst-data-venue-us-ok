@@ -2,13 +2,14 @@
   "id": 320430499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.535536,35.493272,-97.535536,35.493272",
     "geom:latitude":35.493272,
     "geom:longitude":-97.535536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 NW 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320430499,
-    "wof:lastmodified":1449013637,
+    "wof:lastmodified":1466765884,
     "wof:name":"Fabric Factory",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-97.535536,35.493272,-97.535536,35.493272],
-  "geometry": {"coordinates":[-97.535536,35.493272],"type":"Point"}
+  "bbox": [
+    -97.535536,
+    35.493272,
+    -97.535536,
+    35.493272
+],
+  "geometry": {"coordinates":[-97.53553599999999,35.493272],"type":"Point"}
 }

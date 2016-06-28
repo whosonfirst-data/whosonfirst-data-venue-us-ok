@@ -2,13 +2,14 @@
   "id": 220175039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.949937,36.090795,-95.949937,36.090795",
     "geom:latitude":36.090795,
     "geom:longitude":-95.949937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2745 E Skelly Dr Ste 114",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":220175039,
-    "wof:lastmodified":1449074612,
+    "wof:lastmodified":1466762333,
     "wof:name":"Visiting Nurse Association Of Tulsa",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "nurse"
     ]
 },
-  "bbox": [-95.949937,36.090795,-95.949937,36.090795],
-  "geometry": {"coordinates":[-95.949937,36.090795],"type":"Point"}
+  "bbox": [
+    -95.949937,
+    36.090795,
+    -95.949937,
+    36.090795
+],
+  "geometry": {"coordinates":[-95.94993700000001,36.090795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319983401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.646037,35.58587,-97.646037,35.58587",
     "geom:latitude":35.58587,
     "geom:longitude":-97.646037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11413 Warwick Place Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319983401,
-    "wof:lastmodified":1449024820,
+    "wof:lastmodified":1466762439,
     "wof:name":"Kent Automotive",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.646037,35.58587,-97.646037,35.58587],
-  "geometry": {"coordinates":[-97.646037,35.58587],"type":"Point"}
+  "bbox": [
+    -97.646037,
+    35.58587,
+    -97.646037,
+    35.58587
+],
+  "geometry": {"coordinates":[-97.64603700000001,35.58587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303169813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517322,35.495292,-97.517322,35.495292",
     "geom:latitude":35.495292,
     "geom:longitude":-97.517322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 N Harvey Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303169813,
-    "wof:lastmodified":1448999627,
+    "wof:lastmodified":1466764285,
     "wof:name":"Colonial Manor Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.517322,35.495292,-97.517322,35.495292],
-  "geometry": {"coordinates":[-97.517322,35.495292],"type":"Point"}
+  "bbox": [
+    -97.517322,
+    35.495292,
+    -97.517322,
+    35.495292
+],
+  "geometry": {"coordinates":[-97.51732199999999,35.495292],"type":"Point"}
 }

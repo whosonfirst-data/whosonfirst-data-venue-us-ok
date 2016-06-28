@@ -2,13 +2,14 @@
   "id": 336870525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565739,35.500731,-97.565739,35.500731",
     "geom:latitude":35.500731,
     "geom:longitude":-97.565739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336870525,
-    "wof:lastmodified":1448997234,
+    "wof:lastmodified":1466764935,
     "wof:name":"Granada Floral",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.565739,35.500731,-97.565739,35.500731],
-  "geometry": {"coordinates":[-97.565739,35.500731],"type":"Point"}
+  "bbox": [
+    -97.565739,
+    35.500731,
+    -97.565739,
+    35.500731
+],
+  "geometry": {"coordinates":[-97.56573899999999,35.500731],"type":"Point"}
 }

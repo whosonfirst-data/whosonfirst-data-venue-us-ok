@@ -2,13 +2,14 @@
   "id": 303380461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534305,35.505093,-97.534305,35.505093",
     "geom:latitude":35.505093,
     "geom:longitude":-97.534305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3415 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303380461,
-    "wof:lastmodified":1448999253,
+    "wof:lastmodified":1466765221,
     "wof:name":"Espy's Dog & Cat Hospital",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-97.534305,35.505093,-97.534305,35.505093],
+  "bbox": [
+    -97.534305,
+    35.505093,
+    -97.534305,
+    35.505093
+],
   "geometry": {"coordinates":[-97.534305,35.505093],"type":"Point"}
 }

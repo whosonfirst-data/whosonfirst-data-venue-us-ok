@@ -2,13 +2,14 @@
   "id": 336624703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.44288,35.223217,-97.44288,35.223217",
     "geom:latitude":35.223217,
     "geom:longitude":-97.44288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 N Peters Ave",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336624703,
-    "wof:lastmodified":1448997665,
+    "wof:lastmodified":1466762573,
     "wof:name":"Bryan S Haney",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.44288,35.223217,-97.44288,35.223217],
+  "bbox": [
+    -97.44288,
+    35.223217,
+    -97.44288,
+    35.223217
+],
   "geometry": {"coordinates":[-97.44288,35.223217],"type":"Point"}
 }

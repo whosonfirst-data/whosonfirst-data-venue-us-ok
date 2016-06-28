@@ -2,13 +2,14 @@
   "id": 320190223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.964336,35.915282,-94.964336,35.915282",
     "geom:latitude":35.915282,
     "geom:longitude":-94.964336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 E Downing St",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320190223,
-    "wof:lastmodified":1449014720,
+    "wof:lastmodified":1466764557,
     "wof:name":"Cellular City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-94.964336,35.915282,-94.964336,35.915282],
+  "bbox": [
+    -94.964336,
+    35.915282,
+    -94.964336,
+    35.915282
+],
   "geometry": {"coordinates":[-94.964336,35.915282],"type":"Point"}
 }

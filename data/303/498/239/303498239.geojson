@@ -2,13 +2,14 @@
   "id": 303498239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.367492,35.713007,-95.367492,35.713007",
     "geom:latitude":35.713007,
     "geom:longitude":-95.367492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Lenox Dr",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303498239,
-    "wof:lastmodified":1448999971,
+    "wof:lastmodified":1466765944,
     "wof:name":"Drew's Plumbing",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.367492,35.713007,-95.367492,35.713007],
+  "bbox": [
+    -95.367492,
+    35.713007,
+    -95.367492,
+    35.713007
+],
   "geometry": {"coordinates":[-95.367492,35.713007],"type":"Point"}
 }

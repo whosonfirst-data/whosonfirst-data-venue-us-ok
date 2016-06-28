@@ -2,13 +2,14 @@
   "id": 353682803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.30621,36.307244,-95.30621,36.307244",
     "geom:latitude":36.307244,
     "geom:longitude":-95.30621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 NE 1st St",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353682803,
-    "wof:lastmodified":1449018688,
+    "wof:lastmodified":1466764711,
     "wof:name":"Scott's Hi-Way 20 Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.30621,36.307244,-95.30621,36.307244],
-  "geometry": {"coordinates":[-95.30621,36.307244],"type":"Point"}
+  "bbox": [
+    -95.30621,
+    36.307244,
+    -95.30621,
+    36.307244
+],
+  "geometry": {"coordinates":[-95.30620999999999,36.307244],"type":"Point"}
 }

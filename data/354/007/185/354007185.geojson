@@ -2,13 +2,14 @@
   "id": 354007185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.558621,35.59992,-97.558621,35.59992",
     "geom:latitude":35.59992,
     "geom:longitude":-97.558621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 Kathy Ct",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354007185,
-    "wof:lastmodified":1449067353,
+    "wof:lastmodified":1466762970,
     "wof:name":"National Cinema Network",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "movie"
     ]
 },
-  "bbox": [-97.558621,35.59992,-97.558621,35.59992],
+  "bbox": [
+    -97.558621,
+    35.59992,
+    -97.558621,
+    35.59992
+],
   "geometry": {"coordinates":[-97.558621,35.59992],"type":"Point"}
 }

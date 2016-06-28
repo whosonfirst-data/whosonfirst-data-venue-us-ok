@@ -2,13 +2,14 @@
   "id": 303422509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.016764,36.107645,-96.016764,36.107645",
     "geom:latitude":36.107645,
     "geom:longitude":-96.016764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3856 Southwest Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303422509,
-    "wof:lastmodified":1448998289,
+    "wof:lastmodified":1466765518,
     "wof:name":"Riverwest Federal Credit Union",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-96.016764,36.107645,-96.016764,36.107645],
-  "geometry": {"coordinates":[-96.016764,36.107645],"type":"Point"}
+  "bbox": [
+    -96.016764,
+    36.107645,
+    -96.016764,
+    36.107645
+],
+  "geometry": {"coordinates":[-96.01676399999999,36.107645],"type":"Point"}
 }

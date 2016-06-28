@@ -2,13 +2,14 @@
   "id": 303685779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.934818,36.089869,-95.934818,36.089869",
     "geom:latitude":36.089869,
     "geom:longitude":-95.934818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3323 E 51st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303685779,
-    "wof:lastmodified":1449000505,
+    "wof:lastmodified":1466766574,
     "wof:name":"Pickles Pub",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-95.934818,36.089869,-95.934818,36.089869],
-  "geometry": {"coordinates":[-95.934818,36.089869],"type":"Point"}
+  "bbox": [
+    -95.934818,
+    36.089869,
+    -95.934818,
+    36.089869
+],
+  "geometry": {"coordinates":[-95.93481800000001,36.089869],"type":"Point"}
 }

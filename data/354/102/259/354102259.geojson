@@ -2,13 +2,14 @@
   "id": 354102259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.854118,36.075389,-95.854118,36.075389",
     "geom:latitude":36.075389,
     "geom:longitude":-95.854118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10902 E 61st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354102259,
-    "wof:lastmodified":1449067546,
+    "wof:lastmodified":1466763517,
     "wof:name":"Sugarberry Apartments",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "apartment"
     ]
 },
-  "bbox": [-95.854118,36.075389,-95.854118,36.075389],
+  "bbox": [
+    -95.854118,
+    36.075389,
+    -95.854118,
+    36.075389
+],
   "geometry": {"coordinates":[-95.854118,36.075389],"type":"Point"}
 }

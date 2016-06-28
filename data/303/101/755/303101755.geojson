@@ -2,13 +2,14 @@
   "id": 303101755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.511958,35.410777,-94.511958,35.410777",
     "geom:latitude":35.410777,
     "geom:longitude":-94.511958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Davis Ln",
     "sg:city":"Roland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303101755,
-    "wof:lastmodified":1448999407,
+    "wof:lastmodified":1466763263,
     "wof:name":"Woody's Of Roland Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.511958,35.410777,-94.511958,35.410777],
-  "geometry": {"coordinates":[-94.511958,35.410777],"type":"Point"}
+  "bbox": [
+    -94.511958,
+    35.410777,
+    -94.511958,
+    35.410777
+],
+  "geometry": {"coordinates":[-94.51195800000001,35.410777],"type":"Point"}
 }

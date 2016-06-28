@@ -2,13 +2,14 @@
   "id": 353579777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.515363,35.470945,-97.515363,35.470945",
     "geom:latitude":35.470945,
     "geom:longitude":-97.515363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Dean A McGee Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353579777,
-    "wof:lastmodified":1449019072,
+    "wof:lastmodified":1466764293,
     "wof:name":"Great Plains Coca Cola",
     "wof:parent_id":85871717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bottler"
     ]
 },
-  "bbox": [-97.515363,35.470945,-97.515363,35.470945],
-  "geometry": {"coordinates":[-97.515363,35.470945],"type":"Point"}
+  "bbox": [
+    -97.515363,
+    35.470945,
+    -97.515363,
+    35.470945
+],
+  "geometry": {"coordinates":[-97.51536299999999,35.470945],"type":"Point"}
 }

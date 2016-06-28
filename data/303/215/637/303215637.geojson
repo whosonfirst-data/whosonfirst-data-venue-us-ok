@@ -2,13 +2,14 @@
   "id": 303215637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.882635,36.153325,-95.882635,36.153325",
     "geom:latitude":36.153325,
     "geom:longitude":-95.882635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8348 E 5th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303215637,
-    "wof:lastmodified":1449000136,
+    "wof:lastmodified":1466764659,
     "wof:name":"John M Vance Inc",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-95.882635,36.153325,-95.882635,36.153325],
-  "geometry": {"coordinates":[-95.882635,36.153325],"type":"Point"}
+  "bbox": [
+    -95.882635,
+    36.153325,
+    -95.882635,
+    36.153325
+],
+  "geometry": {"coordinates":[-95.88263499999999,36.153325],"type":"Point"}
 }

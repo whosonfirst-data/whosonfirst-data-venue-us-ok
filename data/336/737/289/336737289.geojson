@@ -2,13 +2,14 @@
   "id": 336737289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.97169,36.15343,-95.97169,36.15343",
     "geom:latitude":36.15343,
     "geom:longitude":-95.97169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 S Rockford Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336737289,
-    "wof:lastmodified":1448997197,
+    "wof:lastmodified":1466764328,
     "wof:name":"Bus Service Information",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-95.97169,36.15343,-95.97169,36.15343],
+  "bbox": [
+    -95.97169,
+    36.15343,
+    -95.97169,
+    36.15343
+],
   "geometry": {"coordinates":[-95.97169,36.15343],"type":"Point"}
 }

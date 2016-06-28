@@ -2,13 +2,14 @@
   "id": 303100005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.29332,36.284786,-97.29332,36.284786",
     "geom:latitude":36.284786,
     "geom:longitude":-97.29332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Birch St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303100005,
-    "wof:lastmodified":1448999931,
+    "wof:lastmodified":1466763237,
     "wof:name":"Farmers Co-Op Exchange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-97.29332,36.284786,-97.29332,36.284786],
-  "geometry": {"coordinates":[-97.29332,36.284786],"type":"Point"}
+  "bbox": [
+    -97.29332,
+    36.284786,
+    -97.29332,
+    36.284786
+],
+  "geometry": {"coordinates":[-97.29331999999999,36.284786],"type":"Point"}
 }

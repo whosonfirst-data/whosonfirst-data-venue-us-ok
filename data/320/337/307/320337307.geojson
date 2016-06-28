@@ -2,13 +2,14 @@
   "id": 320337307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.511119,35.765449,-97.511119,35.765449",
     "geom:latitude":35.765449,
     "geom:longitude":-97.511119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10720 Canyon Crest Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320337307,
-    "wof:lastmodified":1449013006,
+    "wof:lastmodified":1466765373,
     "wof:name":"Modern Woodmen of America",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-97.511119,35.765449,-97.511119,35.765449],
-  "geometry": {"coordinates":[-97.511119,35.765449],"type":"Point"}
+  "bbox": [
+    -97.511119,
+    35.765449,
+    -97.511119,
+    35.765449
+],
+  "geometry": {"coordinates":[-97.51111899999999,35.765449],"type":"Point"}
 }

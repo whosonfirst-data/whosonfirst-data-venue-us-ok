@@ -2,13 +2,14 @@
   "id": 337426657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.605529,34.835749,-97.605529,34.835749",
     "geom:latitude":34.835749,
     "geom:longitude":-97.605529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 SW 3rd St",
     "sg:city":"Lindsay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337426657,
-    "wof:lastmodified":1449027095,
+    "wof:lastmodified":1466764109,
     "wof:name":"McCann Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.605529,34.835749,-97.605529,34.835749],
+  "bbox": [
+    -97.605529,
+    34.835749,
+    -97.605529,
+    34.835749
+],
   "geometry": {"coordinates":[-97.605529,34.835749],"type":"Point"}
 }

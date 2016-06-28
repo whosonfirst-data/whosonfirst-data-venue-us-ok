@@ -2,13 +2,14 @@
   "id": 336846237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.545465,35.551117,-97.545465,35.551117",
     "geom:latitude":35.551117,
     "geom:longitude":-97.545465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 W Wilshire Blvd",
     "sg:city":"Nichols Hills",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336846237,
-    "wof:lastmodified":1448997796,
+    "wof:lastmodified":1466764912,
     "wof:name":"Page Front Communications",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "relations"
     ]
 },
-  "bbox": [-97.545465,35.551117,-97.545465,35.551117],
-  "geometry": {"coordinates":[-97.545465,35.551117],"type":"Point"}
+  "bbox": [
+    -97.545465,
+    35.551117,
+    -97.545465,
+    35.551117
+],
+  "geometry": {"coordinates":[-97.54546499999999,35.551117],"type":"Point"}
 }

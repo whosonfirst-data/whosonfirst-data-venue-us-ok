@@ -2,13 +2,14 @@
   "id": 303345887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.936314,34.500866,-97.936314,34.500866",
     "geom:latitude":34.500866,
     "geom:longitude":-97.936314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 E Main St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303345887,
-    "wof:lastmodified":1449000375,
+    "wof:lastmodified":1466765245,
     "wof:name":"Stephens County Abstract Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.936314,34.500866,-97.936314,34.500866],
+  "bbox": [
+    -97.936314,
+    34.500866,
+    -97.936314,
+    34.500866
+],
   "geometry": {"coordinates":[-97.936314,34.500866],"type":"Point"}
 }

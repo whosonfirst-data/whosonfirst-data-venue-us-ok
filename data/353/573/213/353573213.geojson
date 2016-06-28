@@ -2,13 +2,14 @@
   "id": 353573213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.094603,34.004425,-95.094603,34.004425",
     "geom:latitude":34.004425,
     "geom:longitude":-95.094603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Burris St",
     "sg:city":"Valliant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353573213,
-    "wof:lastmodified":1449020126,
+    "wof:lastmodified":1466764247,
     "wof:name":"United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.094603,34.004425,-95.094603,34.004425],
-  "geometry": {"coordinates":[-95.094603,34.004425],"type":"Point"}
+  "bbox": [
+    -95.094603,
+    34.004425,
+    -95.094603,
+    34.004425
+],
+  "geometry": {"coordinates":[-95.09460300000001,34.004425],"type":"Point"}
 }

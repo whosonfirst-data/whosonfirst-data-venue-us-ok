@@ -2,13 +2,14 @@
   "id": 303766005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.303812,34.637634,-99.303812,34.637634",
     "geom:latitude":34.637634,
     "geom:longitude":-99.303812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 E Broadway St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303766005,
-    "wof:lastmodified":1448998085,
+    "wof:lastmodified":1466766783,
     "wof:name":"Base Pawn Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.303812,34.637634,-99.303812,34.637634],
-  "geometry": {"coordinates":[-99.303812,34.637634],"type":"Point"}
+  "bbox": [
+    -99.303812,
+    34.637634,
+    -99.303812,
+    34.637634
+],
+  "geometry": {"coordinates":[-99.30381199999999,34.637634],"type":"Point"}
 }

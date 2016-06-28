@@ -2,13 +2,14 @@
   "id": 303666753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.644979,35.579464,-97.644979,35.579464",
     "geom:latitude":35.579464,
     "geom:longitude":-97.644979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7430 NW 107th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303666753,
-    "wof:lastmodified":1448999012,
+    "wof:lastmodified":1466766413,
     "wof:name":"Tooling & Production Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.644979,35.579464,-97.644979,35.579464],
-  "geometry": {"coordinates":[-97.644979,35.579464],"type":"Point"}
+  "bbox": [
+    -97.644979,
+    35.579464,
+    -97.644979,
+    35.579464
+],
+  "geometry": {"coordinates":[-97.64497900000001,35.579464],"type":"Point"}
 }

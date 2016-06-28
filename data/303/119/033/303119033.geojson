@@ -2,13 +2,14 @@
   "id": 303119033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.053545,36.882266,-97.053545,36.882266",
     "geom:latitude":36.882266,
     "geom:longitude":-97.053545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Main St",
     "sg:city":"Newkirk",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303119033,
-    "wof:lastmodified":1448999864,
+    "wof:lastmodified":1466763543,
     "wof:name":"Bank of Oklahoma NA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-97.053545,36.882266,-97.053545,36.882266],
+  "bbox": [
+    -97.053545,
+    36.882266,
+    -97.053545,
+    36.882266
+],
   "geometry": {"coordinates":[-97.053545,36.882266],"type":"Point"}
 }

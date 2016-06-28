@@ -2,13 +2,14 @@
   "id": 303980353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.895472,36.110118,-95.895472,36.110118",
     "geom:latitude":36.110118,
     "geom:longitude":-95.895472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3725 S 73rd East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303980353,
-    "wof:lastmodified":1448998282,
+    "wof:lastmodified":1466767115,
     "wof:name":"Tulsa Movers",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-95.895472,36.110118,-95.895472,36.110118],
+  "bbox": [
+    -95.895472,
+    36.110118,
+    -95.895472,
+    36.110118
+],
   "geometry": {"coordinates":[-95.895472,36.110118],"type":"Point"}
 }

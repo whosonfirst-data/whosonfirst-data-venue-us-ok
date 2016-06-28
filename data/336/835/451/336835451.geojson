@@ -2,13 +2,14 @@
   "id": 336835451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.956195,34.655996,-97.956195,34.655996",
     "geom:latitude":34.655996,
     "geom:longitude":-97.956195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Steele Ave",
     "sg:city":"Marlow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336835451,
-    "wof:lastmodified":1448997090,
+    "wof:lastmodified":1466764930,
     "wof:name":"Treasures From Heart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.956195,34.655996,-97.956195,34.655996],
-  "geometry": {"coordinates":[-97.956195,34.655996],"type":"Point"}
+  "bbox": [
+    -97.956195,
+    34.655996,
+    -97.956195,
+    34.655996
+],
+  "geometry": {"coordinates":[-97.95619499999999,34.655996],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353735167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.61886,35.509178,-97.61886,35.509178",
     "geom:latitude":35.509178,
     "geom:longitude":-97.61886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3864 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353735167,
-    "wof:lastmodified":1449020713,
+    "wof:lastmodified":1466765146,
     "wof:name":"Willis Granite",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-97.61886,35.509178,-97.61886,35.509178],
+  "bbox": [
+    -97.61886,
+    35.509178,
+    -97.61886,
+    35.509178
+],
   "geometry": {"coordinates":[-97.61886,35.509178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303733265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.969898,35.915535,-94.969898,35.915535",
     "geom:latitude":35.915535,
     "geom:longitude":-94.969898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Muskogee Ave",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303733265,
-    "wof:lastmodified":1448998459,
+    "wof:lastmodified":1466766555,
     "wof:name":"Teague Heating & Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "conditioning"
     ]
 },
-  "bbox": [-94.969898,35.915535,-94.969898,35.915535],
+  "bbox": [
+    -94.969898,
+    35.915535,
+    -94.969898,
+    35.915535
+],
   "geometry": {"coordinates":[-94.969898,35.915535],"type":"Point"}
 }

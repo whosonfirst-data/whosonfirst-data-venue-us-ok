@@ -2,13 +2,14 @@
   "id": 287165873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.793597,36.160672,-95.793597,36.160672",
     "geom:latitude":36.160672,
     "geom:longitude":-95.793597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16527 E Admiral Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287165873,
-    "wof:lastmodified":1449001591,
+    "wof:lastmodified":1466763753,
     "wof:name":"Hale Trailer Sales",
     "wof:parent_id":85831775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-95.793597,36.160672,-95.793597,36.160672],
-  "geometry": {"coordinates":[-95.793597,36.160672],"type":"Point"}
+  "bbox": [
+    -95.793597,
+    36.160672,
+    -95.793597,
+    36.160672
+],
+  "geometry": {"coordinates":[-95.79359700000001,36.160672],"type":"Point"}
 }

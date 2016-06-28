@@ -2,13 +2,14 @@
   "id": 303433883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.876341,36.881835,-94.876341,36.881835",
     "geom:latitude":36.881835,
     "geom:longitude":-94.876341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 5th Ave NE",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303433883,
-    "wof:lastmodified":1448998404,
+    "wof:lastmodified":1466765599,
     "wof:name":"Playland Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-94.876341,36.881835,-94.876341,36.881835],
+  "bbox": [
+    -94.876341,
+    36.881835,
+    -94.876341,
+    36.881835
+],
   "geometry": {"coordinates":[-94.876341,36.881835],"type":"Point"}
 }

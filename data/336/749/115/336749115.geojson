@@ -2,13 +2,14 @@
   "id": 336749115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.892388,36.704237,-99.892388,36.704237",
     "geom:latitude":36.704237,
     "geom:longitude":-99.892388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Ohio Ave",
     "sg:city":"Laverne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336749115,
-    "wof:lastmodified":1448997258,
+    "wof:lastmodified":1466764270,
     "wof:name":"Melo Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-99.892388,36.704237,-99.892388,36.704237],
+  "bbox": [
+    -99.892388,
+    36.704237,
+    -99.892388,
+    36.704237
+],
   "geometry": {"coordinates":[-99.892388,36.704237],"type":"Point"}
 }

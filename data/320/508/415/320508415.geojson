@@ -2,13 +2,14 @@
   "id": 320508415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.045332,36.080793,-96.045332,36.080793",
     "geom:latitude":36.080793,
     "geom:longitude":-96.045332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4550 W 57th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320508415,
-    "wof:lastmodified":1449013351,
+    "wof:lastmodified":1466766076,
     "wof:name":"Enersource Petroleum Inc",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "production"
     ]
 },
-  "bbox": [-96.045332,36.080793,-96.045332,36.080793],
+  "bbox": [
+    -96.045332,
+    36.080793,
+    -96.045332,
+    36.080793
+],
   "geometry": {"coordinates":[-96.045332,36.080793],"type":"Point"}
 }

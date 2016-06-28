@@ -2,13 +2,14 @@
   "id": 303886239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.101706,35.988444,-96.101706,35.988444",
     "geom:latitude":35.988444,
     "geom:longitude":-96.101706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 E Taft Ave",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303886239,
-    "wof:lastmodified":1448999472,
+    "wof:lastmodified":1466767000,
     "wof:name":"International Bank Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-96.101706,35.988444,-96.101706,35.988444],
-  "geometry": {"coordinates":[-96.101706,35.988444],"type":"Point"}
+  "bbox": [
+    -96.101706,
+    35.988444,
+    -96.101706,
+    35.988444
+],
+  "geometry": {"coordinates":[-96.10170599999999,35.988444],"type":"Point"}
 }

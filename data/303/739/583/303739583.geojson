@@ -2,13 +2,14 @@
   "id": 303739583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.383125,35.630787,-99.383125,35.630787",
     "geom:latitude":35.630787,
     "geom:longitude":-99.383125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Broadway",
     "sg:city":"Hammon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303739583,
-    "wof:lastmodified":1448999152,
+    "wof:lastmodified":1466766458,
     "wof:name":"P & M Feed Mill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-99.383125,35.630787,-99.383125,35.630787],
-  "geometry": {"coordinates":[-99.383125,35.630787],"type":"Point"}
+  "bbox": [
+    -99.383125,
+    35.630787,
+    -99.383125,
+    35.630787
+],
+  "geometry": {"coordinates":[-99.38312500000001,35.630787],"type":"Point"}
 }

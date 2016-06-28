@@ -2,13 +2,14 @@
   "id": 320009623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.540674,35.395432,-97.540674,35.395432",
     "geom:latitude":35.395432,
     "geom:longitude":-97.540674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 SW 71st Cir",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320009623,
-    "wof:lastmodified":1449014894,
+    "wof:lastmodified":1466762423,
     "wof:name":"Rozin Leonard W",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.540674,35.395432,-97.540674,35.395432],
+  "bbox": [
+    -97.540674,
+    35.395432,
+    -97.540674,
+    35.395432
+],
   "geometry": {"coordinates":[-97.540674,35.395432],"type":"Point"}
 }

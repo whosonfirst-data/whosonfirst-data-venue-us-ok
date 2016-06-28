@@ -2,13 +2,14 @@
   "id": 320182451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.522275,35.486071,-97.522275,35.486071",
     "geom:latitude":35.486071,
     "geom:longitude":-97.522275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 NW 16th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320182451,
-    "wof:lastmodified":1449013624,
+    "wof:lastmodified":1466764504,
     "wof:name":"Inner Pace Pastoral Counseling",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.522275,35.486071,-97.522275,35.486071],
-  "geometry": {"coordinates":[-97.522275,35.486071],"type":"Point"}
+  "bbox": [
+    -97.522275,
+    35.486071,
+    -97.522275,
+    35.486071
+],
+  "geometry": {"coordinates":[-97.52227499999999,35.486071],"type":"Point"}
 }

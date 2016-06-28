@@ -2,13 +2,14 @@
   "id": 287156611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.629939,35.499698,-97.629939,35.499698",
     "geom:latitude":35.499698,
     "geom:longitude":-97.629939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 NW 29th Ter",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287156611,
-    "wof:lastmodified":1449000841,
+    "wof:lastmodified":1466763700,
     "wof:name":"Bodylicious",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.629939,35.499698,-97.629939,35.499698],
-  "geometry": {"coordinates":[-97.629939,35.499698],"type":"Point"}
+  "bbox": [
+    -97.629939,
+    35.499698,
+    -97.629939,
+    35.499698
+],
+  "geometry": {"coordinates":[-97.62993899999999,35.499698],"type":"Point"}
 }

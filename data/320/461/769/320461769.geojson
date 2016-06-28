@@ -2,13 +2,14 @@
   "id": 320461769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.696847,35.534608,-98.696847,35.534608",
     "geom:latitude":35.534608,
     "geom:longitude":-98.696847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Gartrell Pl",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320461769,
-    "wof:lastmodified":1449012688,
+    "wof:lastmodified":1466765972,
     "wof:name":"Sterling House of Weatherford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.696847,35.534608,-98.696847,35.534608],
-  "geometry": {"coordinates":[-98.696847,35.534608],"type":"Point"}
+  "bbox": [
+    -98.696847,
+    35.534608,
+    -98.696847,
+    35.534608
+],
+  "geometry": {"coordinates":[-98.69684700000001,35.534608],"type":"Point"}
 }

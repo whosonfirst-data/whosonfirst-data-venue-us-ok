@@ -2,13 +2,14 @@
   "id": 303059723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.109985,35.997807,-96.109985,35.997807",
     "geom:latitude":35.997807,
     "geom:longitude":-96.109985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 S Elm St",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303059723,
-    "wof:lastmodified":1448998781,
+    "wof:lastmodified":1466762575,
     "wof:name":"Division of Child Welfare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "administrative"
     ]
 },
-  "bbox": [-96.109985,35.997807,-96.109985,35.997807],
-  "geometry": {"coordinates":[-96.109985,35.997807],"type":"Point"}
+  "bbox": [
+    -96.109985,
+    35.997807,
+    -96.109985,
+    35.997807
+],
+  "geometry": {"coordinates":[-96.10998499999999,35.997807],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353646725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.603226,35.503666,-97.603226,35.503666",
     "geom:latitude":35.503666,
     "geom:longitude":-97.603226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4524 NW 32nd Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353646725,
-    "wof:lastmodified":1449018186,
+    "wof:lastmodified":1466764495,
     "wof:name":"Mike Crepps Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.603226,35.503666,-97.603226,35.503666],
-  "geometry": {"coordinates":[-97.603226,35.503666],"type":"Point"}
+  "bbox": [
+    -97.603226,
+    35.503666,
+    -97.603226,
+    35.503666
+],
+  "geometry": {"coordinates":[-97.60322600000001,35.503666],"type":"Point"}
 }

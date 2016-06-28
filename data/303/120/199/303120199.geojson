@@ -2,13 +2,14 @@
   "id": 303120199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.880246,36.148072,-95.880246,36.148072",
     "geom:latitude":36.148072,
     "geom:longitude":-95.880246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8523 E 11th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303120199,
-    "wof:lastmodified":1449000208,
+    "wof:lastmodified":1466763559,
     "wof:name":"Doctors Family Clinic",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "osteopathic"
     ]
 },
-  "bbox": [-95.880246,36.148072,-95.880246,36.148072],
+  "bbox": [
+    -95.880246,
+    36.148072,
+    -95.880246,
+    36.148072
+],
   "geometry": {"coordinates":[-95.880246,36.148072],"type":"Point"}
 }

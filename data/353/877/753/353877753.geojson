@@ -2,13 +2,14 @@
   "id": 353877753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.382989,34.597583,-98.382989,34.597583",
     "geom:latitude":34.597583,
     "geom:longitude":-98.382989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 SE J Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353877753,
-    "wof:lastmodified":1449020039,
+    "wof:lastmodified":1466765620,
     "wof:name":"Standard Testing & Engineering",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-98.382989,34.597583,-98.382989,34.597583],
-  "geometry": {"coordinates":[-98.382989,34.597583],"type":"Point"}
+  "bbox": [
+    -98.382989,
+    34.597583,
+    -98.382989,
+    34.597583
+],
+  "geometry": {"coordinates":[-98.38298899999999,34.597583],"type":"Point"}
 }

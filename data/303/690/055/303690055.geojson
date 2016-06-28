@@ -2,13 +2,14 @@
   "id": 303690055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.376196,35.218166,-97.376196,35.218166",
     "geom:latitude":35.218166,
     "geom:longitude":-97.376196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 Alameda St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303690055,
-    "wof:lastmodified":1448999415,
+    "wof:lastmodified":1466766464,
     "wof:name":"Church of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [-97.376196,35.218166,-97.376196,35.218166],
-  "geometry": {"coordinates":[-97.376196,35.218166],"type":"Point"}
+  "bbox": [
+    -97.376196,
+    35.218166,
+    -97.376196,
+    35.218166
+],
+  "geometry": {"coordinates":[-97.37619599999999,35.218166],"type":"Point"}
 }

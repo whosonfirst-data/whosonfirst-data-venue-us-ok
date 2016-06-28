@@ -2,13 +2,14 @@
   "id": 303647755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.950268,36.09086,-95.950268,36.09086",
     "geom:latitude":36.09086,
     "geom:longitude":-95.950268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 E Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303647755,
-    "wof:lastmodified":1448999276,
+    "wof:lastmodified":1466766366,
     "wof:name":"Prestige Management LTD",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-95.950268,36.09086,-95.950268,36.09086],
-  "geometry": {"coordinates":[-95.950268,36.09086],"type":"Point"}
+  "bbox": [
+    -95.950268,
+    36.09086,
+    -95.950268,
+    36.09086
+],
+  "geometry": {"coordinates":[-95.95026799999999,36.09086],"type":"Point"}
 }

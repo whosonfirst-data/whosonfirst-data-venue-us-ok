@@ -2,13 +2,14 @@
   "id": 303978063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.33396,34.664939,-99.33396,34.664939",
     "geom:latitude":34.664939,
     "geom:longitude":-99.33396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 N Main St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303978063,
-    "wof:lastmodified":1448999532,
+    "wof:lastmodified":1466767112,
     "wof:name":"Mc Donald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.33396,34.664939,-99.33396,34.664939],
+  "bbox": [
+    -99.33396,
+    34.664939,
+    -99.33396,
+    34.664939
+],
   "geometry": {"coordinates":[-99.33396,34.664939],"type":"Point"}
 }

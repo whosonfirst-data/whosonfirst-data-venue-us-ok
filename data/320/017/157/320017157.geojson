@@ -2,13 +2,14 @@
   "id": 320017157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.835334,36.077472,-95.835334,36.077472",
     "geom:latitude":36.077472,
     "geom:longitude":-95.835334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12402 E 60th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320017157,
-    "wof:lastmodified":1449013248,
+    "wof:lastmodified":1466762537,
     "wof:name":"Westwood Corp",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "switchboard"
     ]
 },
-  "bbox": [-95.835334,36.077472,-95.835334,36.077472],
+  "bbox": [
+    -95.835334,
+    36.077472,
+    -95.835334,
+    36.077472
+],
   "geometry": {"coordinates":[-95.835334,36.077472],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320565577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.603755,36.324941,-95.603755,36.324941",
     "geom:latitude":36.324941,
     "geom:longitude":-95.603755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 N Florence Ave",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320565577,
-    "wof:lastmodified":1449014631,
+    "wof:lastmodified":1466766218,
     "wof:name":"Will Rogers Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.603755,36.324941,-95.603755,36.324941],
-  "geometry": {"coordinates":[-95.603755,36.324941],"type":"Point"}
+  "bbox": [
+    -95.603755,
+    36.324941,
+    -95.603755,
+    36.324941
+],
+  "geometry": {"coordinates":[-95.60375500000001,36.324941],"type":"Point"}
 }

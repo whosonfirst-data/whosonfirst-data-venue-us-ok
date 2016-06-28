@@ -2,13 +2,14 @@
   "id": 354159445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.697082,36.799956,-98.697082,36.799956",
     "geom:latitude":36.799956,
     "geom:longitude":-98.697082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 Erie St",
     "sg:city":"Alva",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354159445,
-    "wof:lastmodified":1449066141,
+    "wof:lastmodified":1466763731,
     "wof:name":"Sarah's Stuff & Such",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "store"
     ]
 },
-  "bbox": [-98.697082,36.799956,-98.697082,36.799956],
-  "geometry": {"coordinates":[-98.697082,36.799956],"type":"Point"}
+  "bbox": [
+    -98.697082,
+    36.799956,
+    -98.697082,
+    36.799956
+],
+  "geometry": {"coordinates":[-98.69708199999999,36.799956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353609017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.159223,35.471926,-97.159223,35.471926",
     "geom:latitude":35.471926,
     "geom:longitude":-97.159223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 N Harrah Rd",
     "sg:city":"Harrah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353609017,
-    "wof:lastmodified":1449019214,
+    "wof:lastmodified":1466764423,
     "wof:name":"Harrah Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.159223,35.471926,-97.159223,35.471926],
+  "bbox": [
+    -97.159223,
+    35.471926,
+    -97.159223,
+    35.471926
+],
   "geometry": {"coordinates":[-97.159223,35.471926],"type":"Point"}
 }

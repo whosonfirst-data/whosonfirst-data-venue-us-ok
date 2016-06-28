@@ -2,13 +2,14 @@
   "id": 320152719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.833323,36.132381,-95.833323,36.132381",
     "geom:latitude":36.132381,
     "geom:longitude":-95.833323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 S 129th E Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320152719,
-    "wof:lastmodified":1449014106,
+    "wof:lastmodified":1466764408,
     "wof:name":"Powerlite Glass LLC",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "replacement"
     ]
 },
-  "bbox": [-95.833323,36.132381,-95.833323,36.132381],
-  "geometry": {"coordinates":[-95.833323,36.132381],"type":"Point"}
+  "bbox": [
+    -95.833323,
+    36.132381,
+    -95.833323,
+    36.132381
+],
+  "geometry": {"coordinates":[-95.83332299999999,36.132381],"type":"Point"}
 }

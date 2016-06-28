@@ -2,13 +2,14 @@
   "id": 336825055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.443672,35.211055,-97.443672,35.211055",
     "geom:latitude":35.211055,
     "geom:longitude":-97.443672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 W Boyd St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336825055,
-    "wof:lastmodified":1448996953,
+    "wof:lastmodified":1466764709,
     "wof:name":"University of Oklahoma",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "civil"
     ]
 },
-  "bbox": [-97.443672,35.211055,-97.443672,35.211055],
-  "geometry": {"coordinates":[-97.443672,35.211055],"type":"Point"}
+  "bbox": [
+    -97.443672,
+    35.211055,
+    -97.443672,
+    35.211055
+],
+  "geometry": {"coordinates":[-97.44367200000001,35.211055],"type":"Point"}
 }

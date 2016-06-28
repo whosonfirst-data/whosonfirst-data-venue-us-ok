@@ -2,13 +2,14 @@
   "id": 336869171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.404,35.405267,-99.404,35.405267",
     "geom:latitude":35.405267,
     "geom:longitude":-99.404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E 9th St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336869171,
-    "wof:lastmodified":1448997933,
+    "wof:lastmodified":1466765144,
     "wof:name":"Metal Tech Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.404,35.405267,-99.404,35.405267],
+  "bbox": [
+    -99.404,
+    35.405267,
+    -99.404,
+    35.405267
+],
   "geometry": {"coordinates":[-99.404,35.405267],"type":"Point"}
 }

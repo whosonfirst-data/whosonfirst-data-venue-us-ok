@@ -2,13 +2,14 @@
   "id": 303064291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.609983,35.4785,-97.609983,35.4785",
     "geom:latitude":35.4785,
     "geom:longitude":-97.609983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 N Ann Arbor Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303064291,
-    "wof:lastmodified":1448998979,
+    "wof:lastmodified":1466762652,
     "wof:name":"Silvertree Productions",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "music"
     ]
 },
-  "bbox": [-97.609983,35.4785,-97.609983,35.4785],
+  "bbox": [
+    -97.609983,
+    35.4785,
+    -97.609983,
+    35.4785
+],
   "geometry": {"coordinates":[-97.609983,35.4785],"type":"Point"}
 }

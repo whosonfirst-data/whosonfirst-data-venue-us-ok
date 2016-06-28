@@ -2,13 +2,14 @@
   "id": 303662641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.871949,36.870896,-94.871949,36.870896",
     "geom:latitude":36.870896,
     "geom:longitude":-94.871949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 E Steve Owens Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303662641,
-    "wof:lastmodified":1448999772,
+    "wof:lastmodified":1466766313,
     "wof:name":"Lil Cafe Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.871949,36.870896,-94.871949,36.870896],
+  "bbox": [
+    -94.871949,
+    36.870896,
+    -94.871949,
+    36.870896
+],
   "geometry": {"coordinates":[-94.871949,36.870896],"type":"Point"}
 }

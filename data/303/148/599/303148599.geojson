@@ -2,13 +2,14 @@
   "id": 303148599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.53471,35.524062,-97.53471,35.524062",
     "geom:latitude":35.524062,
     "geom:longitude":-97.53471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5131 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303148599,
-    "wof:lastmodified":1449000178,
+    "wof:lastmodified":1466764017,
     "wof:name":"Diverse CTI Inc",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.53471,35.524062,-97.53471,35.524062],
+  "bbox": [
+    -97.53471,
+    35.524062,
+    -97.53471,
+    35.524062
+],
   "geometry": {"coordinates":[-97.53471,35.524062],"type":"Point"}
 }

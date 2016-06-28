@@ -2,13 +2,14 @@
   "id": 319989113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.702143,34.780688,-96.702143,34.780688",
     "geom:latitude":34.780688,
     "geom:longitude":-96.702143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 Sandy Creek Dr",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319989113,
-    "wof:lastmodified":1449024661,
+    "wof:lastmodified":1466762532,
     "wof:name":"O K Cementing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialty"
     ]
 },
-  "bbox": [-96.702143,34.780688,-96.702143,34.780688],
-  "geometry": {"coordinates":[-96.702143,34.780688],"type":"Point"}
+  "bbox": [
+    -96.702143,
+    34.780688,
+    -96.702143,
+    34.780688
+],
+  "geometry": {"coordinates":[-96.70214300000001,34.780688],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320286697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.352052,36.186185,-95.352052,36.186185",
     "geom:latitude":36.186185,
     "geom:longitude":-95.352052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"554 W Clay Ave",
     "sg:city":"Chouteau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320286697,
-    "wof:lastmodified":1449012244,
+    "wof:lastmodified":1466764990,
     "wof:name":"Chouteau Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-95.352052,36.186185,-95.352052,36.186185],
+  "bbox": [
+    -95.352052,
+    36.186185,
+    -95.352052,
+    36.186185
+],
   "geometry": {"coordinates":[-95.352052,36.186185],"type":"Point"}
 }

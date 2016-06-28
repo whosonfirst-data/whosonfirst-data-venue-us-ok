@@ -2,13 +2,14 @@
   "id": 320139803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940268,36.098255,-95.940268,36.098255",
     "geom:latitude":36.098255,
     "geom:longitude":-95.940268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4550 S Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320139803,
-    "wof:lastmodified":1449011596,
+    "wof:lastmodified":1466764339,
     "wof:name":"Brace Place",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-95.940268,36.098255,-95.940268,36.098255],
+  "bbox": [
+    -95.940268,
+    36.098255,
+    -95.940268,
+    36.098255
+],
   "geometry": {"coordinates":[-95.940268,36.098255],"type":"Point"}
 }

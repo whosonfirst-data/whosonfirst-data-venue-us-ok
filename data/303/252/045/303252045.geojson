@@ -2,13 +2,14 @@
   "id": 303252045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.866314,36.083529,-95.866314,36.083529",
     "geom:latitude":36.083529,
     "geom:longitude":-95.866314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9706 E 55th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303252045,
-    "wof:lastmodified":1448998441,
+    "wof:lastmodified":1466764715,
     "wof:name":"M Environmental",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-95.866314,36.083529,-95.866314,36.083529],
+  "bbox": [
+    -95.866314,
+    36.083529,
+    -95.866314,
+    36.083529
+],
   "geometry": {"coordinates":[-95.866314,36.083529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220183405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.950949,36.133126,-95.950949,36.133126",
     "geom:latitude":36.133126,
     "geom:longitude":-95.950949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2121 S Columbia Ave Ste 500",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220183405,
-    "wof:lastmodified":1449074483,
+    "wof:lastmodified":1466762361,
     "wof:name":"Todd Alexander",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "custody"
     ]
 },
-  "bbox": [-95.950949,36.133126,-95.950949,36.133126],
-  "geometry": {"coordinates":[-95.950949,36.133126],"type":"Point"}
+  "bbox": [
+    -95.950949,
+    36.133126,
+    -95.950949,
+    36.133126
+],
+  "geometry": {"coordinates":[-95.95094899999999,36.133126],"type":"Point"}
 }

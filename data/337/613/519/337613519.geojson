@@ -2,13 +2,14 @@
   "id": 337613519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.629178,35.509561,-97.629178,35.509561",
     "geom:latitude":35.509561,
     "geom:longitude":-97.629178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3813 N College Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337613519,
-    "wof:lastmodified":1449027327,
+    "wof:lastmodified":1466763291,
     "wof:name":"Bethany Trubune",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-97.629178,35.509561,-97.629178,35.509561],
+  "bbox": [
+    -97.629178,
+    35.509561,
+    -97.629178,
+    35.509561
+],
   "geometry": {"coordinates":[-97.629178,35.509561],"type":"Point"}
 }

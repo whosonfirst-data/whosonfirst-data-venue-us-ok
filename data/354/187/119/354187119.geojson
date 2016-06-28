@@ -2,13 +2,14 @@
   "id": 354187119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.477062,35.387189,-97.477062,35.387189",
     "geom:latitude":35.387189,
     "geom:longitude":-97.477062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8001 S Eastern Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354187119,
-    "wof:lastmodified":1449066187,
+    "wof:lastmodified":1466763834,
     "wof:name":"Diamond Ballroom",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ballroom"
     ]
 },
-  "bbox": [-97.477062,35.387189,-97.477062,35.387189],
+  "bbox": [
+    -97.477062,
+    35.387189,
+    -97.477062,
+    35.387189
+],
   "geometry": {"coordinates":[-97.477062,35.387189],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353889451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.317894,35.392638,-97.317894,35.392638",
     "geom:latitude":35.392638,
     "geom:longitude":-97.317894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7101 S Anderson Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353889451,
-    "wof:lastmodified":1449018207,
+    "wof:lastmodified":1466765641,
     "wof:name":"Fire Station 28",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.317894,35.392638,-97.317894,35.392638],
+  "bbox": [
+    -97.317894,
+    35.392638,
+    -97.317894,
+    35.392638
+],
   "geometry": {"coordinates":[-97.317894,35.392638],"type":"Point"}
 }

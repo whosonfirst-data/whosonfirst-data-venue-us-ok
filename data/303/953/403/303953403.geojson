@@ -2,13 +2,14 @@
   "id": 303953403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.587145,36.053355,-98.587145,36.053355",
     "geom:latitude":36.053355,
     "geom:longitude":-98.587145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E Main St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303953403,
-    "wof:lastmodified":1448999805,
+    "wof:lastmodified":1466767038,
     "wof:name":"Pioneer Telephone Cooperative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-98.587145,36.053355,-98.587145,36.053355],
-  "geometry": {"coordinates":[-98.587145,36.053355],"type":"Point"}
+  "bbox": [
+    -98.587145,
+    36.053355,
+    -98.587145,
+    36.053355
+],
+  "geometry": {"coordinates":[-98.58714500000001,36.053355],"type":"Point"}
 }

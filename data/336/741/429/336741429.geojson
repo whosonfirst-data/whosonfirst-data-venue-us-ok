@@ -2,13 +2,14 @@
   "id": 336741429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.051308,36.118749,-97.051308,36.118749",
     "geom:latitude":36.118749,
     "geom:longitude":-97.051308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 S Perkins Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336741429,
-    "wof:lastmodified":1448996974,
+    "wof:lastmodified":1466764448,
     "wof:name":"NAPA Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-97.051308,36.118749,-97.051308,36.118749],
-  "geometry": {"coordinates":[-97.051308,36.118749],"type":"Point"}
+  "bbox": [
+    -97.051308,
+    36.118749,
+    -97.051308,
+    36.118749
+],
+  "geometry": {"coordinates":[-97.05130800000001,36.118749],"type":"Point"}
 }

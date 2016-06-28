@@ -2,13 +2,14 @@
   "id": 303286817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.567079,35.653004,-97.567079,35.653004",
     "geom:latitude":35.653004,
     "geom:longitude":-97.567079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 NW 178th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303286817,
-    "wof:lastmodified":1448998755,
+    "wof:lastmodified":1466764908,
     "wof:name":"Oakley's Inc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.567079,35.653004,-97.567079,35.653004],
-  "geometry": {"coordinates":[-97.567079,35.653004],"type":"Point"}
+  "bbox": [
+    -97.567079,
+    35.653004,
+    -97.567079,
+    35.653004
+],
+  "geometry": {"coordinates":[-97.56707900000001,35.653004],"type":"Point"}
 }

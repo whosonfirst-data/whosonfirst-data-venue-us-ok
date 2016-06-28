@@ -2,13 +2,14 @@
   "id": 353603595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406123,35.445092,-97.406123,35.445092",
     "geom:latitude":35.445092,
     "geom:longitude":-97.406123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2013 S Air Depot Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353603595,
-    "wof:lastmodified":1449020426,
+    "wof:lastmodified":1466764393,
     "wof:name":"Wiersig Chiropractic Clinic",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-97.406123,35.445092,-97.406123,35.445092],
-  "geometry": {"coordinates":[-97.406123,35.445092],"type":"Point"}
+  "bbox": [
+    -97.406123,
+    35.445092,
+    -97.406123,
+    35.445092
+],
+  "geometry": {"coordinates":[-97.40612299999999,35.445092],"type":"Point"}
 }

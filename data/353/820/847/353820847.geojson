@@ -2,13 +2,14 @@
   "id": 353820847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.519478,35.457961,-97.519478,35.457961",
     "geom:latitude":35.457961,
     "geom:longitude":-97.519478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 SW 7th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353820847,
-    "wof:lastmodified":1449019586,
+    "wof:lastmodified":1466765510,
     "wof:name":"Metro Transit",
     "wof:parent_id":85871685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-97.519478,35.457961,-97.519478,35.457961],
-  "geometry": {"coordinates":[-97.519478,35.457961],"type":"Point"}
+  "bbox": [
+    -97.519478,
+    35.457961,
+    -97.519478,
+    35.457961
+],
+  "geometry": {"coordinates":[-97.51947800000001,35.457961],"type":"Point"}
 }

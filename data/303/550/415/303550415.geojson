@@ -2,13 +2,14 @@
   "id": 303550415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.248992,34.987367,-99.248992,34.987367",
     "geom:latitude":34.987367,
     "geom:longitude":-99.248992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 7th St",
     "sg:city":"Lone Wolf",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303550415,
-    "wof:lastmodified":1448999442,
+    "wof:lastmodified":1466766039,
     "wof:name":"Lone Wolf School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.248992,34.987367,-99.248992,34.987367],
+  "bbox": [
+    -99.248992,
+    34.987367,
+    -99.248992,
+    34.987367
+],
   "geometry": {"coordinates":[-99.248992,34.987367],"type":"Point"}
 }

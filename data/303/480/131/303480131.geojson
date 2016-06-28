@@ -2,13 +2,14 @@
   "id": 303480131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.456408,35.618382,-97.456408,35.618382",
     "geom:latitude":35.618382,
     "geom:longitude":-97.456408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3608 Walking Sky Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303480131,
-    "wof:lastmodified":1448998912,
+    "wof:lastmodified":1466765770,
     "wof:name":"Kathleen Ash",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.456408,35.618382,-97.456408,35.618382],
+  "bbox": [
+    -97.456408,
+    35.618382,
+    -97.456408,
+    35.618382
+],
   "geometry": {"coordinates":[-97.456408,35.618382],"type":"Point"}
 }

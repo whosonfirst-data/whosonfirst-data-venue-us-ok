@@ -2,13 +2,14 @@
   "id": 320588299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.108809,35.997749,-96.108809,35.997749",
     "geom:latitude":35.997749,
     "geom:longitude":-96.108809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 S Oak St",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320588299,
-    "wof:lastmodified":1449014229,
+    "wof:lastmodified":1466766262,
     "wof:name":"Civil Defense",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-96.108809,35.997749,-96.108809,35.997749],
-  "geometry": {"coordinates":[-96.108809,35.997749],"type":"Point"}
+  "bbox": [
+    -96.108809,
+    35.997749,
+    -96.108809,
+    35.997749
+],
+  "geometry": {"coordinates":[-96.10880899999999,35.997749],"type":"Point"}
 }

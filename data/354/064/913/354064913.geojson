@@ -2,13 +2,14 @@
   "id": 354064913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.985164,36.136649,-95.985164,36.136649",
     "geom:latitude":36.136649,
     "geom:longitude":-95.985164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 S Boston Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354064913,
-    "wof:lastmodified":1449066519,
+    "wof:lastmodified":1466763370,
     "wof:name":"Aburns Studio",
     "wof:parent_id":85872487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.985164,36.136649,-95.985164,36.136649],
+  "bbox": [
+    -95.985164,
+    36.136649,
+    -95.985164,
+    36.136649
+],
   "geometry": {"coordinates":[-95.985164,36.136649],"type":"Point"}
 }

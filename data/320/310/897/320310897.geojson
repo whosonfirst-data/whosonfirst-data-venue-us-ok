@@ -2,13 +2,14 @@
   "id": 320310897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.647698,35.576824,-97.647698,35.576824",
     "geom:latitude":35.576824,
     "geom:longitude":-97.647698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10604 Cecilia Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320310897,
-    "wof:lastmodified":1449013556,
+    "wof:lastmodified":1466765097,
     "wof:name":"I T Cynergy",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-97.647698,35.576824,-97.647698,35.576824],
-  "geometry": {"coordinates":[-97.647698,35.576824],"type":"Point"}
+  "bbox": [
+    -97.647698,
+    35.576824,
+    -97.647698,
+    35.576824
+],
+  "geometry": {"coordinates":[-97.64769800000001,35.576824],"type":"Point"}
 }

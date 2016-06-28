@@ -2,13 +2,14 @@
   "id": 287222231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.163468,36.687865,-97.163468,36.687865",
     "geom:latitude":36.687865,
     "geom:longitude":-97.163468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6555 US Hwy 60",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":287222231,
-    "wof:lastmodified":1449001276,
+    "wof:lastmodified":1466764132,
     "wof:name":"Santa's Forest Tree Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "tract"
     ]
 },
-  "bbox": [-97.163468,36.687865,-97.163468,36.687865],
-  "geometry": {"coordinates":[-97.163468,36.687865],"type":"Point"}
+  "bbox": [
+    -97.163468,
+    36.687865,
+    -97.163468,
+    36.687865
+],
+  "geometry": {"coordinates":[-97.16346799999999,36.687865],"type":"Point"}
 }

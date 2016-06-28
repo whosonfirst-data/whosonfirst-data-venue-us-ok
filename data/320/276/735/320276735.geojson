@@ -2,13 +2,14 @@
   "id": 320276735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.977344,36.159802,-95.977344,36.159802",
     "geom:latitude":36.159802,
     "geom:longitude":-95.977344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 E Admiral Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320276735,
-    "wof:lastmodified":1449011399,
+    "wof:lastmodified":1466764940,
     "wof:name":"Gastech Engineering Corp",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "equipment"
     ]
 },
-  "bbox": [-95.977344,36.159802,-95.977344,36.159802],
+  "bbox": [
+    -95.977344,
+    36.159802,
+    -95.977344,
+    36.159802
+],
   "geometry": {"coordinates":[-95.977344,36.159802],"type":"Point"}
 }

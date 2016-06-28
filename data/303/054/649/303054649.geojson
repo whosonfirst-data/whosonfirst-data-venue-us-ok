@@ -2,13 +2,14 @@
   "id": 303054649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.327965,35.749176,-95.327965,35.749176",
     "geom:latitude":35.749176,
     "geom:longitude":-95.327965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 Houston St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303054649,
-    "wof:lastmodified":1448999270,
+    "wof:lastmodified":1466762494,
     "wof:name":"Doris Beauty Shop",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.327965,35.749176,-95.327965,35.749176],
-  "geometry": {"coordinates":[-95.327965,35.749176],"type":"Point"}
+  "bbox": [
+    -95.327965,
+    35.749176,
+    -95.327965,
+    35.749176
+],
+  "geometry": {"coordinates":[-95.32796500000001,35.749176],"type":"Point"}
 }

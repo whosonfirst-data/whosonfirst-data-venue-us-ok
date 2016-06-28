@@ -2,13 +2,14 @@
   "id": 303786365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.357935,35.74367,-95.357935,35.74367",
     "geom:latitude":35.74367,
     "geom:longitude":-95.357935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 E Okmulgee St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303786365,
-    "wof:lastmodified":1448998436,
+    "wof:lastmodified":1466766708,
     "wof:name":"Boulevard Book Rack",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.357935,35.74367,-95.357935,35.74367],
+  "bbox": [
+    -95.357935,
+    35.74367,
+    -95.357935,
+    35.74367
+],
   "geometry": {"coordinates":[-95.357935,35.74367],"type":"Point"}
 }

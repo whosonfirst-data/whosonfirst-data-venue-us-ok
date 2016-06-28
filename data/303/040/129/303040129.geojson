@@ -2,13 +2,14 @@
   "id": 303040129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.546942,35.549581,-97.546942,35.549581",
     "geom:latitude":35.549581,
     "geom:longitude":-97.546942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6922 Avondale Ct",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303040129,
-    "wof:lastmodified":1449000497,
+    "wof:lastmodified":1466764165,
     "wof:name":"Shoreline Capital",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"
     ]
 },
-  "bbox": [-97.546942,35.549581,-97.546942,35.549581],
+  "bbox": [
+    -97.546942,
+    35.549581,
+    -97.546942,
+    35.549581
+],
   "geometry": {"coordinates":[-97.546942,35.549581],"type":"Point"}
 }

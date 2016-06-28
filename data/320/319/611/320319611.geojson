@@ -2,13 +2,14 @@
   "id": 320319611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.811108,36.040953,-95.811108,36.040953",
     "geom:latitude":36.040953,
     "geom:longitude":-95.811108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 W Oakridge St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320319611,
-    "wof:lastmodified":1449012796,
+    "wof:lastmodified":1466765289,
     "wof:name":"Lighthouse Mortgage Co",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-95.811108,36.040953,-95.811108,36.040953],
+  "bbox": [
+    -95.811108,
+    36.040953,
+    -95.811108,
+    36.040953
+],
   "geometry": {"coordinates":[-95.811108,36.040953],"type":"Point"}
 }

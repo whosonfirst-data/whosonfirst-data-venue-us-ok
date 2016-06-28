@@ -2,13 +2,14 @@
   "id": 354200305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.768582,34.937838,-95.768582,34.937838",
     "geom:latitude":34.937838,
     "geom:longitude":-95.768582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Main St",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354200305,
-    "wof:lastmodified":1449066598,
+    "wof:lastmodified":1466763913,
     "wof:name":"Malcoms Auto Sales",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-95.768582,34.937838,-95.768582,34.937838],
-  "geometry": {"coordinates":[-95.768582,34.937838],"type":"Point"}
+  "bbox": [
+    -95.768582,
+    34.937838,
+    -95.768582,
+    34.937838
+],
+  "geometry": {"coordinates":[-95.76858199999999,34.937838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319857339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480264,35.338148,-97.480264,35.338148",
     "geom:latitude":35.338148,
     "geom:longitude":-97.480264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 E Main St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319857339,
-    "wof:lastmodified":1449024590,
+    "wof:lastmodified":1466763237,
     "wof:name":"Mission Church",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-97.480264,35.338148,-97.480264,35.338148],
-  "geometry": {"coordinates":[-97.480264,35.338148],"type":"Point"}
+  "bbox": [
+    -97.480264,
+    35.338148,
+    -97.480264,
+    35.338148
+],
+  "geometry": {"coordinates":[-97.48026400000001,35.338148],"type":"Point"}
 }

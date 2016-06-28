@@ -2,13 +2,14 @@
   "id": 336683919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.911272,36.1495,-95.911272,36.1495",
     "geom:latitude":36.1495,
     "geom:longitude":-95.911272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 S Joplin Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":336683919,
-    "wof:lastmodified":1448997335,
+    "wof:lastmodified":1466763474,
     "wof:name":"Voice & Data Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-95.911272,36.1495,-95.911272,36.1495],
+  "bbox": [
+    -95.911272,
+    36.1495,
+    -95.911272,
+    36.1495
+],
   "geometry": {"coordinates":[-95.911272,36.1495],"type":"Point"}
 }

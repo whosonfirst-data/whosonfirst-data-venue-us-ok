@@ -2,13 +2,14 @@
   "id": 303504095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.398441,34.56719,-98.398441,34.56719",
     "geom:latitude":34.56719,
     "geom:longitude":-98.398441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 SW Highland Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303504095,
-    "wof:lastmodified":1448998545,
+    "wof:lastmodified":1466765749,
     "wof:name":"Kiner Electric Service Co",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.398441,34.56719,-98.398441,34.56719],
-  "geometry": {"coordinates":[-98.398441,34.56719],"type":"Point"}
+  "bbox": [
+    -98.398441,
+    34.56719,
+    -98.398441,
+    34.56719
+],
+  "geometry": {"coordinates":[-98.39844100000001,34.56719],"type":"Point"}
 }

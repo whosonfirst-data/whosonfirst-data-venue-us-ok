@@ -2,13 +2,14 @@
   "id": 303545503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.564356,35.387179,-97.564356,35.387179",
     "geom:latitude":35.387179,
     "geom:longitude":-97.564356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2848 SW 78th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303545503,
-    "wof:lastmodified":1448998701,
+    "wof:lastmodified":1466765932,
     "wof:name":"Farris Custom Fab",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "work"
     ]
 },
-  "bbox": [-97.564356,35.387179,-97.564356,35.387179],
+  "bbox": [
+    -97.564356,
+    35.387179,
+    -97.564356,
+    35.387179
+],
   "geometry": {"coordinates":[-97.564356,35.387179],"type":"Point"}
 }

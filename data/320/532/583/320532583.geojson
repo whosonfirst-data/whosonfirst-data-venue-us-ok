@@ -2,13 +2,14 @@
   "id": 320532583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.45687,35.65273,-97.45687,35.65273",
     "geom:latitude":35.65273,
     "geom:longitude":-97.45687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1826 E 2nd St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320532583,
-    "wof:lastmodified":1449012528,
+    "wof:lastmodified":1466766125,
     "wof:name":"Embacy Cleaners",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.45687,35.65273,-97.45687,35.65273],
+  "bbox": [
+    -97.45687,
+    35.65273,
+    -97.45687,
+    35.65273
+],
   "geometry": {"coordinates":[-97.45687,35.65273],"type":"Point"}
 }

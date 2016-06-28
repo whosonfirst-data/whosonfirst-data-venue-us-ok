@@ -2,13 +2,14 @@
   "id": 320008737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.548014,35.419986,-97.548014,35.419986",
     "geom:latitude":35.419986,
     "geom:longitude":-97.548014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320008737,
-    "wof:lastmodified":1449012440,
+    "wof:lastmodified":1466762406,
     "wof:name":"American Veterans Pickup Svcs",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.548014,35.419986,-97.548014,35.419986],
-  "geometry": {"coordinates":[-97.548014,35.419986],"type":"Point"}
+  "bbox": [
+    -97.548014,
+    35.419986,
+    -97.548014,
+    35.419986
+],
+  "geometry": {"coordinates":[-97.54801399999999,35.419986],"type":"Point"}
 }

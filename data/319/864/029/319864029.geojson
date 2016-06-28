@@ -2,13 +2,14 @@
   "id": 319864029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.62538,36.29294,-95.62538,36.29294",
     "geom:latitude":36.29294,
     "geom:longitude":-95.62538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 W Country Club Rd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319864029,
-    "wof:lastmodified":1449024885,
+    "wof:lastmodified":1466764198,
     "wof:name":"Country Club Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-95.62538,36.29294,-95.62538,36.29294],
-  "geometry": {"coordinates":[-95.62538,36.29294],"type":"Point"}
+  "bbox": [
+    -95.62538,
+    36.29294,
+    -95.62538,
+    36.29294
+],
+  "geometry": {"coordinates":[-95.62538000000001,36.29294],"type":"Point"}
 }

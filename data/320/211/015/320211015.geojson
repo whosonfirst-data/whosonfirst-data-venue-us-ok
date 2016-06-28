@@ -2,13 +2,14 @@
   "id": 320211015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.538187,35.493197,-97.538187,35.493197",
     "geom:latitude":35.493197,
     "geom:longitude":-97.538187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 NW 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320211015,
-    "wof:lastmodified":1449012180,
+    "wof:lastmodified":1466764521,
     "wof:name":"Sala Thai",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.538187,35.493197,-97.538187,35.493197],
-  "geometry": {"coordinates":[-97.538187,35.493197],"type":"Point"}
+  "bbox": [
+    -97.538187,
+    35.493197,
+    -97.538187,
+    35.493197
+],
+  "geometry": {"coordinates":[-97.53818699999999,35.493197],"type":"Point"}
 }

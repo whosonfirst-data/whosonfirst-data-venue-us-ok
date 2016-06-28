@@ -2,13 +2,14 @@
   "id": 320328083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.521097,35.497218,-97.521097,35.497218",
     "geom:latitude":35.497218,
     "geom:longitude":-97.521097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2721 N Walker Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320328083,
-    "wof:lastmodified":1449013453,
+    "wof:lastmodified":1466765348,
     "wof:name":"David Foltz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-97.521097,35.497218,-97.521097,35.497218],
+  "bbox": [
+    -97.521097,
+    35.497218,
+    -97.521097,
+    35.497218
+],
   "geometry": {"coordinates":[-97.521097,35.497218],"type":"Point"}
 }

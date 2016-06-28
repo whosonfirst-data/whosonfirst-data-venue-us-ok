@@ -2,13 +2,14 @@
   "id": 320187485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.598058,35.610265,-97.598058,35.610265",
     "geom:latitude":35.610265,
     "geom:longitude":-97.598058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 W Memorial Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320187485,
-    "wof:lastmodified":1449011810,
+    "wof:lastmodified":1466764533,
     "wof:name":"Park At Memorial Apartments",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.598058,35.610265,-97.598058,35.610265],
-  "geometry": {"coordinates":[-97.598058,35.610265],"type":"Point"}
+  "bbox": [
+    -97.598058,
+    35.610265,
+    -97.598058,
+    35.610265
+],
+  "geometry": {"coordinates":[-97.59805799999999,35.610265],"type":"Point"}
 }

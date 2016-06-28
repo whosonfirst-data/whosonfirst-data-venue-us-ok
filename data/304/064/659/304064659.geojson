@@ -2,13 +2,14 @@
   "id": 304064659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.400076,35.744272,-97.400076,35.744272",
     "geom:latitude":35.744272,
     "geom:longitude":-97.400076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Cedar Oaks Trl",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304064659,
-    "wof:lastmodified":1449043761,
+    "wof:lastmodified":1466763198,
     "wof:name":"Aynes Lawn Sprinkler",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.400076,35.744272,-97.400076,35.744272],
+  "bbox": [
+    -97.400076,
+    35.744272,
+    -97.400076,
+    35.744272
+],
   "geometry": {"coordinates":[-97.400076,35.744272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303164557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.408395,35.402081,-99.408395,35.402081",
     "geom:latitude":35.402081,
     "geom:longitude":-99.408395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W 12th St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303164557,
-    "wof:lastmodified":1448998410,
+    "wof:lastmodified":1466764273,
     "wof:name":"Process Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-99.408395,35.402081,-99.408395,35.402081],
+  "bbox": [
+    -99.408395,
+    35.402081,
+    -99.408395,
+    35.402081
+],
   "geometry": {"coordinates":[-99.408395,35.402081],"type":"Point"}
 }

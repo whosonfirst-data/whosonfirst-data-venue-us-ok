@@ -2,13 +2,14 @@
   "id": 336858017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.651391,35.362825,-97.651391,35.362825",
     "geom:latitude":35.362825,
     "geom:longitude":-97.651391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7900 SW 104th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336858017,
-    "wof:lastmodified":1448997040,
+    "wof:lastmodified":1466764855,
     "wof:name":"Rtsi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.651391,35.362825,-97.651391,35.362825],
+  "bbox": [
+    -97.651391,
+    35.362825,
+    -97.651391,
+    35.362825
+],
   "geometry": {"coordinates":[-97.651391,35.362825],"type":"Point"}
 }

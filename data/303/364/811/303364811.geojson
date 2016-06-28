@@ -2,13 +2,14 @@
   "id": 303364811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565571,35.530731,-97.565571,35.530731",
     "geom:latitude":35.530731,
     "geom:longitude":-97.565571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5804 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303364811,
-    "wof:lastmodified":1448999496,
+    "wof:lastmodified":1466765247,
     "wof:name":"Automay Car Sales",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.565571,35.530731,-97.565571,35.530731],
-  "geometry": {"coordinates":[-97.565571,35.530731],"type":"Point"}
+  "bbox": [
+    -97.565571,
+    35.530731,
+    -97.565571,
+    35.530731
+],
+  "geometry": {"coordinates":[-97.56557100000001,35.530731],"type":"Point"}
 }

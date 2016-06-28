@@ -2,13 +2,14 @@
   "id": 336769753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.934451,35.372292,-96.934451,35.372292",
     "geom:latitude":35.372292,
     "geom:longitude":-96.934451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4010 N Pottenger Ave",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336769753,
-    "wof:lastmodified":1448997290,
+    "wof:lastmodified":1466764421,
     "wof:name":"Shawnee Electric Inc",
     "wof:parent_id":85827517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.934451,35.372292,-96.934451,35.372292],
+  "bbox": [
+    -96.934451,
+    35.372292,
+    -96.934451,
+    35.372292
+],
   "geometry": {"coordinates":[-96.934451,35.372292],"type":"Point"}
 }

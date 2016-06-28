@@ -2,13 +2,14 @@
   "id": 320193625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.331003,34.650231,-99.331003,34.650231",
     "geom:latitude":34.650231,
     "geom:longitude":-99.331003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Falcon Rd",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320193625,
-    "wof:lastmodified":1449011867,
+    "wof:lastmodified":1466764564,
     "wof:name":"Petticoat Junction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tuxedo"
     ]
 },
-  "bbox": [-99.331003,34.650231,-99.331003,34.650231],
+  "bbox": [
+    -99.331003,
+    34.650231,
+    -99.331003,
+    34.650231
+],
   "geometry": {"coordinates":[-99.331003,34.650231],"type":"Point"}
 }

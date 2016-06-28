@@ -2,13 +2,14 @@
   "id": 304029205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.527693,35.562408,-97.527693,35.562408",
     "geom:latitude":35.562408,
     "geom:longitude":-97.527693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 NW 90th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304029205,
-    "wof:lastmodified":1449043796,
+    "wof:lastmodified":1466762971,
     "wof:name":"Upholstery Source Inc",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "furniture"
     ]
 },
-  "bbox": [-97.527693,35.562408,-97.527693,35.562408],
+  "bbox": [
+    -97.527693,
+    35.562408,
+    -97.527693,
+    35.562408
+],
   "geometry": {"coordinates":[-97.527693,35.562408],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320397639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.39823,34.594355,-98.39823,34.594355",
     "geom:latitude":34.594355,
     "geom:longitude":-98.39823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 SW Lee Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320397639,
-    "wof:lastmodified":1449012760,
+    "wof:lastmodified":1466765716,
     "wof:name":"Caldtax",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-98.39823,34.594355,-98.39823,34.594355],
+  "bbox": [
+    -98.39823,
+    34.594355,
+    -98.39823,
+    34.594355
+],
   "geometry": {"coordinates":[-98.39823,34.594355],"type":"Point"}
 }

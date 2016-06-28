@@ -2,13 +2,14 @@
   "id": 319899561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.524035,35.500345,-97.524035,35.500345",
     "geom:latitude":35.500345,
     "geom:longitude":-97.524035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3017 N Lee Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":319899561,
-    "wof:lastmodified":1449024845,
+    "wof:lastmodified":1466763518,
     "wof:name":"Chardonnay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.524035,35.500345,-97.524035,35.500345],
+  "bbox": [
+    -97.524035,
+    35.500345,
+    -97.524035,
+    35.500345
+],
   "geometry": {"coordinates":[-97.524035,35.500345],"type":"Point"}
 }

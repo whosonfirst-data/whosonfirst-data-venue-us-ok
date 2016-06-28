@@ -2,13 +2,14 @@
   "id": 337466109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.601071,35.494975,-97.601071,35.494975",
     "geom:latitude":35.494975,
     "geom:longitude":-97.601071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2528 N Meridian Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337466109,
-    "wof:lastmodified":1449027186,
+    "wof:lastmodified":1466762461,
     "wof:name":"Family Dentistry",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-97.601071,35.494975,-97.601071,35.494975],
+  "bbox": [
+    -97.601071,
+    35.494975,
+    -97.601071,
+    35.494975
+],
   "geometry": {"coordinates":[-97.601071,35.494975],"type":"Point"}
 }

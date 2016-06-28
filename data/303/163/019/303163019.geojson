@@ -2,13 +2,14 @@
   "id": 303163019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975918,36.134088,-95.975918,36.134088",
     "geom:latitude":36.134088,
     "geom:longitude":-95.975918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 E 20th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303163019,
-    "wof:lastmodified":1449000514,
+    "wof:lastmodified":1466764404,
     "wof:name":"Sales Training Plus",
     "wof:parent_id":85872479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-95.975918,36.134088,-95.975918,36.134088],
-  "geometry": {"coordinates":[-95.975918,36.134088],"type":"Point"}
+  "bbox": [
+    -95.975918,
+    36.134088,
+    -95.975918,
+    36.134088
+],
+  "geometry": {"coordinates":[-95.97591799999999,36.134088],"type":"Point"}
 }

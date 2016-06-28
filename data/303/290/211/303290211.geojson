@@ -2,13 +2,14 @@
   "id": 303290211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.956746,35.361657,-96.956746,35.361657",
     "geom:latitude":35.361657,
     "geom:longitude":-96.956746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39405 W Macarthur St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303290211,
-    "wof:lastmodified":1448999168,
+    "wof:lastmodified":1466764917,
     "wof:name":"Double H Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-96.956746,35.361657,-96.956746,35.361657],
+  "bbox": [
+    -96.956746,
+    35.361657,
+    -96.956746,
+    35.361657
+],
   "geometry": {"coordinates":[-96.956746,35.361657],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303397241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.558441,35.388078,-97.558441,35.388078",
     "geom:latitude":35.388078,
     "geom:longitude":-97.558441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 SW 77th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303397241,
-    "wof:lastmodified":1448999097,
+    "wof:lastmodified":1466765425,
     "wof:name":"B&B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "ground"
     ]
 },
-  "bbox": [-97.558441,35.388078,-97.558441,35.388078],
+  "bbox": [
+    -97.558441,
+    35.388078,
+    -97.558441,
+    35.388078
+],
   "geometry": {"coordinates":[-97.558441,35.388078],"type":"Point"}
 }

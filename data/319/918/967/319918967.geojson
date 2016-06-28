@@ -2,13 +2,14 @@
   "id": 319918967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.486606,35.436195,-97.486606,35.436195",
     "geom:latitude":35.436195,
     "geom:longitude":-97.486606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2713 S I- 35",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319918967,
-    "wof:lastmodified":1449024609,
+    "wof:lastmodified":1466763829,
     "wof:name":"Gateway Mortgage Group Okc BR",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-97.486606,35.436195,-97.486606,35.436195],
-  "geometry": {"coordinates":[-97.486606,35.436195],"type":"Point"}
+  "bbox": [
+    -97.486606,
+    35.436195,
+    -97.486606,
+    35.436195
+],
+  "geometry": {"coordinates":[-97.48660599999999,35.436195],"type":"Point"}
 }

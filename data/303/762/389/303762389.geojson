@@ -2,13 +2,14 @@
   "id": 303762389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.001927,36.095095,-96.001927,36.095095",
     "geom:latitude":36.095095,
     "geom:longitude":-96.001927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4729 S Maybelle Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303762389,
-    "wof:lastmodified":1448999844,
+    "wof:lastmodified":1466766641,
     "wof:name":"Buds Lawn & Landscaping",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.001927,36.095095,-96.001927,36.095095],
-  "geometry": {"coordinates":[-96.001927,36.095095],"type":"Point"}
+  "bbox": [
+    -96.001927,
+    36.095095,
+    -96.001927,
+    36.095095
+],
+  "geometry": {"coordinates":[-96.00192699999999,36.095095],"type":"Point"}
 }

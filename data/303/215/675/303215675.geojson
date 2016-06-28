@@ -2,13 +2,14 @@
   "id": 303215675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.928566,36.177096,-95.928566,36.177096",
     "geom:latitude":36.177096,
     "geom:longitude":-95.928566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4316 E Pine Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303215675,
-    "wof:lastmodified":1449000136,
+    "wof:lastmodified":1466764534,
     "wof:name":"Apache Machine Co",
     "wof:parent_id":85813737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-95.928566,36.177096,-95.928566,36.177096],
+  "bbox": [
+    -95.928566,
+    36.177096,
+    -95.928566,
+    36.177096
+],
   "geometry": {"coordinates":[-95.928566,36.177096],"type":"Point"}
 }

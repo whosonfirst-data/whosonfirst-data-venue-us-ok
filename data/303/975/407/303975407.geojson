@@ -2,13 +2,14 @@
   "id": 303975407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530246,35.435462,-97.530246,35.435462",
     "geom:latitude":35.435462,
     "geom:longitude":-97.530246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303975407,
-    "wof:lastmodified":1449000225,
+    "wof:lastmodified":1466767109,
     "wof:name":"Platinum Auto Sales",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.530246,35.435462,-97.530246,35.435462],
-  "geometry": {"coordinates":[-97.530246,35.435462],"type":"Point"}
+  "bbox": [
+    -97.530246,
+    35.435462,
+    -97.530246,
+    35.435462
+],
+  "geometry": {"coordinates":[-97.53024600000001,35.435462],"type":"Point"}
 }

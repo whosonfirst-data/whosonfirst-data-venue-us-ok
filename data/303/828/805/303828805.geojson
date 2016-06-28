@@ -2,13 +2,14 @@
   "id": 303828805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.388478,35.439669,-97.388478,35.439669",
     "geom:latitude":35.439669,
     "geom:longitude":-97.388478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 S Midwest Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303828805,
-    "wof:lastmodified":1448999357,
+    "wof:lastmodified":1466766785,
     "wof:name":"Credit Connection Auto Sales",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.388478,35.439669,-97.388478,35.439669],
-  "geometry": {"coordinates":[-97.388478,35.439669],"type":"Point"}
+  "bbox": [
+    -97.388478,
+    35.439669,
+    -97.388478,
+    35.439669
+],
+  "geometry": {"coordinates":[-97.38847800000001,35.439669],"type":"Point"}
 }

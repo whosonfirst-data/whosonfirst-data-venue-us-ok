@@ -2,13 +2,14 @@
   "id": 320818723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.539056,35.614599,-97.539056,35.614599",
     "geom:latitude":35.614599,
     "geom:longitude":-97.539056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 NW 141st St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320818723,
-    "wof:lastmodified":1449013075,
+    "wof:lastmodified":1466766887,
     "wof:name":"Pats of Course",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ready"
     ]
 },
-  "bbox": [-97.539056,35.614599,-97.539056,35.614599],
+  "bbox": [
+    -97.539056,
+    35.614599,
+    -97.539056,
+    35.614599
+],
   "geometry": {"coordinates":[-97.539056,35.614599],"type":"Point"}
 }

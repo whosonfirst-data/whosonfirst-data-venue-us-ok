@@ -2,13 +2,14 @@
   "id": 303165353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.860616,36.12813,-95.860616,36.12813",
     "geom:latitude":36.12813,
     "geom:longitude":-95.860616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2353 S 104th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303165353,
-    "wof:lastmodified":1449000569,
+    "wof:lastmodified":1466764279,
     "wof:name":"Magnificent Mural Designs",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mural"
     ]
 },
-  "bbox": [-95.860616,36.12813,-95.860616,36.12813],
-  "geometry": {"coordinates":[-95.860616,36.12813],"type":"Point"}
+  "bbox": [
+    -95.860616,
+    36.12813,
+    -95.860616,
+    36.12813
+],
+  "geometry": {"coordinates":[-95.86061599999999,36.12813],"type":"Point"}
 }

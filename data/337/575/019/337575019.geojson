@@ -2,13 +2,14 @@
   "id": 337575019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.407789,35.208243,-97.407789,35.208243",
     "geom:latitude":35.208243,
     "geom:longitude":-97.407789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2312 Natchez Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337575019,
-    "wof:lastmodified":1449027177,
+    "wof:lastmodified":1466763069,
     "wof:name":"Douglas Menz Do PC",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopathic"
     ]
 },
-  "bbox": [-97.407789,35.208243,-97.407789,35.208243],
-  "geometry": {"coordinates":[-97.407789,35.208243],"type":"Point"}
+  "bbox": [
+    -97.407789,
+    35.208243,
+    -97.407789,
+    35.208243
+],
+  "geometry": {"coordinates":[-97.40778899999999,35.208243],"type":"Point"}
 }

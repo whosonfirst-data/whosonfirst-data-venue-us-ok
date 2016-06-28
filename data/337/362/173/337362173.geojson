@@ -2,13 +2,14 @@
   "id": 337362173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.298105,35.131436,-97.298105,35.131436",
     "geom:latitude":35.131436,
     "geom:longitude":-97.298105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9801 E Maguire Rd",
     "sg:city":"Noble",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337362173,
-    "wof:lastmodified":1449027479,
+    "wof:lastmodified":1466763726,
     "wof:name":"Maguire Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.298105,35.131436,-97.298105,35.131436],
-  "geometry": {"coordinates":[-97.298105,35.131436],"type":"Point"}
+  "bbox": [
+    -97.298105,
+    35.131436,
+    -97.298105,
+    35.131436
+],
+  "geometry": {"coordinates":[-97.29810500000001,35.131436],"type":"Point"}
 }

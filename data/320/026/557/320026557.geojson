@@ -2,13 +2,14 @@
   "id": 320026557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.736387,35.491701,-97.736387,35.491701",
     "geom:latitude":35.491701,
     "geom:longitude":-97.736387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1840 Ridgeway Dr",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320026557,
-    "wof:lastmodified":1449013460,
+    "wof:lastmodified":1466762679,
     "wof:name":"Avon",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-97.736387,35.491701,-97.736387,35.491701],
-  "geometry": {"coordinates":[-97.736387,35.491701],"type":"Point"}
+  "bbox": [
+    -97.736387,
+    35.491701,
+    -97.736387,
+    35.491701
+],
+  "geometry": {"coordinates":[-97.73638699999999,35.491701],"type":"Point"}
 }

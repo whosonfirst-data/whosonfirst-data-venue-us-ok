@@ -2,13 +2,14 @@
   "id": 320303075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.962037,36.159781,-95.962037,36.159781",
     "geom:latitude":36.159781,
     "geom:longitude":-95.962037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 E Admiral Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320303075,
-    "wof:lastmodified":1449011289,
+    "wof:lastmodified":1466765163,
     "wof:name":"Bill's Jumbo Burgers",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "stand"
     ]
 },
-  "bbox": [-95.962037,36.159781,-95.962037,36.159781],
+  "bbox": [
+    -95.962037,
+    36.159781,
+    -95.962037,
+    36.159781
+],
   "geometry": {"coordinates":[-95.962037,36.159781],"type":"Point"}
 }

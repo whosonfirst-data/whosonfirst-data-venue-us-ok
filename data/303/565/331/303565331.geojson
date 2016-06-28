@@ -2,13 +2,14 @@
   "id": 303565331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.514082,35.481,-97.514082,35.481",
     "geom:latitude":35.481,
     "geom:longitude":-97.514082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 N Broadway Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303565331,
-    "wof:lastmodified":1449000348,
+    "wof:lastmodified":1466766091,
     "wof:name":"Mercedes-Benz Of Oklahoma City",
     "wof:parent_id":85871669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.514082,35.481,-97.514082,35.481],
+  "bbox": [
+    -97.514082,
+    35.481,
+    -97.514082,
+    35.481
+],
   "geometry": {"coordinates":[-97.514082,35.481],"type":"Point"}
 }

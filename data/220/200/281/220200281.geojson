@@ -2,13 +2,14 @@
   "id": 220200281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.851655,36.058753,-95.851655,36.058753",
     "geom:latitude":36.058753,
     "geom:longitude":-95.851655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11111 E 73rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":220200281,
-    "wof:lastmodified":1449074360,
+    "wof:lastmodified":1466762584,
     "wof:name":"Staybridge Suites Tulsa-Woodland Hills",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "hall"
     ]
 },
-  "bbox": [-95.851655,36.058753,-95.851655,36.058753],
-  "geometry": {"coordinates":[-95.851655,36.058753],"type":"Point"}
+  "bbox": [
+    -95.851655,
+    36.058753,
+    -95.851655,
+    36.058753
+],
+  "geometry": {"coordinates":[-95.85165499999999,36.058753],"type":"Point"}
 }

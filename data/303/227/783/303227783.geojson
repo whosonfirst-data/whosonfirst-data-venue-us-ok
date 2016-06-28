@@ -2,13 +2,14 @@
   "id": 303227783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.614365,35.533769,-97.614365,35.533769",
     "geom:latitude":35.533769,
     "geom:longitude":-97.614365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5016 NW 61st Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303227783,
-    "wof:lastmodified":1448998651,
+    "wof:lastmodified":1466764588,
     "wof:name":"Make Connection LLC",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.614365,35.533769,-97.614365,35.533769],
-  "geometry": {"coordinates":[-97.614365,35.533769],"type":"Point"}
+  "bbox": [
+    -97.614365,
+    35.533769,
+    -97.614365,
+    35.533769
+],
+  "geometry": {"coordinates":[-97.61436500000001,35.533769],"type":"Point"}
 }

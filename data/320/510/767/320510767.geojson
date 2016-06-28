@@ -2,13 +2,14 @@
   "id": 320510767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886485,36.075599,-95.886485,36.075599",
     "geom:latitude":36.075599,
     "geom:longitude":-95.886485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6016 S Memorial Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320510767,
-    "wof:lastmodified":1449013501,
+    "wof:lastmodified":1466766079,
     "wof:name":"MLS Publishing",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-95.886485,36.075599,-95.886485,36.075599],
-  "geometry": {"coordinates":[-95.886485,36.075599],"type":"Point"}
+  "bbox": [
+    -95.886485,
+    36.075599,
+    -95.886485,
+    36.075599
+],
+  "geometry": {"coordinates":[-95.88648499999999,36.075599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303120987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.458976,35.529736,-97.458976,35.529736",
     "geom:latitude":35.529736,
     "geom:longitude":-97.458976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 N Bryant Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303120987,
-    "wof:lastmodified":1449000209,
+    "wof:lastmodified":1466763573,
     "wof:name":"Cloer Equipment Co Inc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "field"
     ]
 },
-  "bbox": [-97.458976,35.529736,-97.458976,35.529736],
-  "geometry": {"coordinates":[-97.458976,35.529736],"type":"Point"}
+  "bbox": [
+    -97.458976,
+    35.529736,
+    -97.458976,
+    35.529736
+],
+  "geometry": {"coordinates":[-97.45897600000001,35.529736],"type":"Point"}
 }

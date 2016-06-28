@@ -2,13 +2,14 @@
   "id": 336819595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.695653,36.78148,-94.695653,36.78148",
     "geom:latitude":36.78148,
     "geom:longitude":-94.695653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16176 S Hwy 10",
     "sg:city":"Wyandotte",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336819595,
-    "wof:lastmodified":1448997206,
+    "wof:lastmodified":1466764771,
     "wof:name":"Richard Perry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.695653,36.78148,-94.695653,36.78148],
-  "geometry": {"coordinates":[-94.695653,36.78148],"type":"Point"}
+  "bbox": [
+    -94.695653,
+    36.78148,
+    -94.695653,
+    36.78148
+],
+  "geometry": {"coordinates":[-94.69565299999999,36.78148],"type":"Point"}
 }

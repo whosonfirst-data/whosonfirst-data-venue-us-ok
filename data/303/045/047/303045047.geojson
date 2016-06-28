@@ -2,13 +2,14 @@
   "id": 303045047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.528485,35.540367,-97.528485,35.540367",
     "geom:latitude":35.540367,
     "geom:longitude":-97.528485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6616 N Olie Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303045047,
-    "wof:lastmodified":1449000281,
+    "wof:lastmodified":1466762344,
     "wof:name":"John H White Jr Inc",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-97.528485,35.540367,-97.528485,35.540367],
+  "bbox": [
+    -97.528485,
+    35.540367,
+    -97.528485,
+    35.540367
+],
   "geometry": {"coordinates":[-97.528485,35.540367],"type":"Point"}
 }

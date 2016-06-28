@@ -2,13 +2,14 @@
   "id": 320261185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.410435,35.435227,-97.410435,35.435227",
     "geom:latitude":35.435227,
     "geom:longitude":-97.410435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6601 SE 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320261185,
-    "wof:lastmodified":1449011315,
+    "wof:lastmodified":1466764829,
     "wof:name":"Joe Cooper Ford Sales",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.410435,35.435227,-97.410435,35.435227],
-  "geometry": {"coordinates":[-97.410435,35.435227],"type":"Point"}
+  "bbox": [
+    -97.410435,
+    35.435227,
+    -97.410435,
+    35.435227
+],
+  "geometry": {"coordinates":[-97.41043500000001,35.435227],"type":"Point"}
 }

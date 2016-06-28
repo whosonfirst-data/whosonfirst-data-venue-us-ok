@@ -2,13 +2,14 @@
   "id": 336941079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.283398,36.289754,-97.283398,36.289754",
     "geom:latitude":36.289754,
     "geom:longitude":-97.283398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Fir St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336941079,
-    "wof:lastmodified":1448997583,
+    "wof:lastmodified":1466765400,
     "wof:name":"Dunford Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.283398,36.289754,-97.283398,36.289754],
-  "geometry": {"coordinates":[-97.283398,36.289754],"type":"Point"}
+  "bbox": [
+    -97.283398,
+    36.289754,
+    -97.283398,
+    36.289754
+],
+  "geometry": {"coordinates":[-97.28339800000001,36.289754],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320237661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.909256,36.38007,-95.909256,36.38007",
     "geom:latitude":36.38007,
     "geom:longitude":-95.909256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6420 E 156th St N",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320237661,
-    "wof:lastmodified":1449011353,
+    "wof:lastmodified":1466764779,
     "wof:name":"Jerry Joplin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-95.909256,36.38007,-95.909256,36.38007],
+  "bbox": [
+    -95.909256,
+    36.38007,
+    -95.909256,
+    36.38007
+],
   "geometry": {"coordinates":[-95.909256,36.38007],"type":"Point"}
 }

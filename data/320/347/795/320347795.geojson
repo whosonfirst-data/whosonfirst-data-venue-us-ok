@@ -2,13 +2,14 @@
   "id": 320347795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.953359,36.742573,-95.953359,36.742573",
     "geom:latitude":36.742573,
     "geom:longitude":-95.953359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 SE Adams Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320347795,
-    "wof:lastmodified":1449013068,
+    "wof:lastmodified":1466765337,
     "wof:name":"Crossroads Raceway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.953359,36.742573,-95.953359,36.742573],
-  "geometry": {"coordinates":[-95.953359,36.742573],"type":"Point"}
+  "bbox": [
+    -95.953359,
+    36.742573,
+    -95.953359,
+    36.742573
+],
+  "geometry": {"coordinates":[-95.95335900000001,36.742573],"type":"Point"}
 }

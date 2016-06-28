@@ -2,13 +2,14 @@
   "id": 320296919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.344619,35.451513,-97.344619,35.451513",
     "geom:latitude":35.451513,
     "geom:longitude":-97.344619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1355 S Moore Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320296919,
-    "wof:lastmodified":1449014273,
+    "wof:lastmodified":1466765049,
     "wof:name":"Unique Bridal Creations",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.344619,35.451513,-97.344619,35.451513],
-  "geometry": {"coordinates":[-97.344619,35.451513],"type":"Point"}
+  "bbox": [
+    -97.344619,
+    35.451513,
+    -97.344619,
+    35.451513
+],
+  "geometry": {"coordinates":[-97.34461899999999,35.451513],"type":"Point"}
 }

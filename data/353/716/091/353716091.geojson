@@ -2,13 +2,14 @@
   "id": 353716091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.307473,34.363393,-98.307473,34.363393",
     "geom:latitude":34.363393,
     "geom:longitude":-98.307473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 N 3rd St",
     "sg:city":"Walters",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353716091,
-    "wof:lastmodified":1449018614,
+    "wof:lastmodified":1466764946,
     "wof:name":"Walters Oil Well Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "well"
     ]
 },
-  "bbox": [-98.307473,34.363393,-98.307473,34.363393],
+  "bbox": [
+    -98.307473,
+    34.363393,
+    -98.307473,
+    34.363393
+],
   "geometry": {"coordinates":[-98.307473,34.363393],"type":"Point"}
 }

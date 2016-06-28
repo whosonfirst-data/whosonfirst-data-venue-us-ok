@@ -2,13 +2,14 @@
   "id": 303636007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.68986,34.765893,-96.68986,34.765893",
     "geom:latitude":34.765893,
     "geom:longitude":-96.68986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 S Hickory Ave",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303636007,
-    "wof:lastmodified":1448999091,
+    "wof:lastmodified":1466766405,
     "wof:name":"A Learning Experience",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.68986,34.765893,-96.68986,34.765893],
+  "bbox": [
+    -96.68986,
+    34.765893,
+    -96.68986,
+    34.765893
+],
   "geometry": {"coordinates":[-96.68986,34.765893],"type":"Point"}
 }

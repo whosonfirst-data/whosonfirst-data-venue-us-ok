@@ -2,13 +2,14 @@
   "id": 303672273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.636639,35.487995,-97.636639,35.487995",
     "geom:latitude":35.487995,
     "geom:longitude":-97.636639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 N Rockwell Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303672273,
-    "wof:lastmodified":1448998275,
+    "wof:lastmodified":1466766565,
     "wof:name":"Pine Creek Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.636639,35.487995,-97.636639,35.487995],
+  "bbox": [
+    -97.636639,
+    35.487995,
+    -97.636639,
+    35.487995
+],
   "geometry": {"coordinates":[-97.636639,35.487995],"type":"Point"}
 }

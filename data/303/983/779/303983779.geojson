@@ -2,13 +2,14 @@
   "id": 303983779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.602736,35.428222,-97.602736,35.428222",
     "geom:latitude":35.428222,
     "geom:longitude":-97.602736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3424 Lakeside Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303983779,
-    "wof:lastmodified":1449000360,
+    "wof:lastmodified":1466767077,
     "wof:name":"National Interlock Svc of Okla",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "ignition"
     ]
 },
-  "bbox": [-97.602736,35.428222,-97.602736,35.428222],
-  "geometry": {"coordinates":[-97.602736,35.428222],"type":"Point"}
+  "bbox": [
+    -97.602736,
+    35.428222,
+    -97.602736,
+    35.428222
+],
+  "geometry": {"coordinates":[-97.60273599999999,35.428222],"type":"Point"}
 }

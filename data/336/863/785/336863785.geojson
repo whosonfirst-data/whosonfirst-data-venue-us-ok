@@ -2,13 +2,14 @@
   "id": 336863785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.543257,35.381698,-97.543257,35.381698",
     "geom:latitude":35.381698,
     "geom:longitude":-97.543257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1429 SW 84th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336863785,
-    "wof:lastmodified":1448997674,
+    "wof:lastmodified":1466764995,
     "wof:name":"Midwest Appliance Service",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-97.543257,35.381698,-97.543257,35.381698],
+  "bbox": [
+    -97.543257,
+    35.381698,
+    -97.543257,
+    35.381698
+],
   "geometry": {"coordinates":[-97.543257,35.381698],"type":"Point"}
 }

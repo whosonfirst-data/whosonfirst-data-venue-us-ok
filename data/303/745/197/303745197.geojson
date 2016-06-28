@@ -2,13 +2,14 @@
   "id": 303745197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.74245,35.498378,-97.74245,35.498378",
     "geom:latitude":35.498378,
     "geom:longitude":-97.74245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 S Cornwell Dr",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303745197,
-    "wof:lastmodified":1449000457,
+    "wof:lastmodified":1466766588,
     "wof:name":"Integris Prohealth Physicians",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.74245,35.498378,-97.74245,35.498378],
-  "geometry": {"coordinates":[-97.74245,35.498378],"type":"Point"}
+  "bbox": [
+    -97.74245,
+    35.498378,
+    -97.74245,
+    35.498378
+],
+  "geometry": {"coordinates":[-97.74245000000001,35.498378],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287139981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.457349,35.464106,-97.457349,35.464106",
     "geom:latitude":35.464106,
     "geom:longitude":-97.457349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 E Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":287139981,
-    "wof:lastmodified":1449000734,
+    "wof:lastmodified":1466763643,
     "wof:name":"Northwest Insulation Co Inc",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.457349,35.464106,-97.457349,35.464106],
-  "geometry": {"coordinates":[-97.457349,35.464106],"type":"Point"}
+  "bbox": [
+    -97.457349,
+    35.464106,
+    -97.457349,
+    35.464106
+],
+  "geometry": {"coordinates":[-97.45734899999999,35.464106],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354129643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.843257,36.268212,-95.843257,36.268212",
     "geom:latitude":36.268212,
     "geom:longitude":-95.843257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11701 E 80th St N",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354129643,
-    "wof:lastmodified":1449067309,
+    "wof:lastmodified":1466763619,
     "wof:name":"Larry Bussear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.843257,36.268212,-95.843257,36.268212],
-  "geometry": {"coordinates":[-95.843257,36.268212],"type":"Point"}
+  "bbox": [
+    -95.843257,
+    36.268212,
+    -95.843257,
+    36.268212
+],
+  "geometry": {"coordinates":[-95.84325699999999,36.268212],"type":"Point"}
 }

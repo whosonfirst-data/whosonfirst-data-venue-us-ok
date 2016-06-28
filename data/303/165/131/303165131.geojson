@@ -2,13 +2,14 @@
   "id": 303165131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.294429,36.302544,-97.294429,36.302544",
     "geom:latitude":36.302544,
     "geom:longitude":-97.294429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 N Brookwood Dr",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303165131,
-    "wof:lastmodified":1449000569,
+    "wof:lastmodified":1466764276,
     "wof:name":"Lifetime Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cooking"
     ]
 },
-  "bbox": [-97.294429,36.302544,-97.294429,36.302544],
-  "geometry": {"coordinates":[-97.294429,36.302544],"type":"Point"}
+  "bbox": [
+    -97.294429,
+    36.302544,
+    -97.294429,
+    36.302544
+],
+  "geometry": {"coordinates":[-97.29442899999999,36.302544],"type":"Point"}
 }

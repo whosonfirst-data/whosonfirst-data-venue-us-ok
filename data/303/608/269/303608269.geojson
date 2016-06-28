@@ -2,13 +2,14 @@
   "id": 303608269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.630096,35.493349,-97.630096,35.493349",
     "geom:latitude":35.493349,
     "geom:longitude":-97.630096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6719 NW 23rd St",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303608269,
-    "wof:lastmodified":1448999164,
+    "wof:lastmodified":1466766226,
     "wof:name":"Bethany Church of God Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.630096,35.493349,-97.630096,35.493349],
-  "geometry": {"coordinates":[-97.630096,35.493349],"type":"Point"}
+  "bbox": [
+    -97.630096,
+    35.493349,
+    -97.630096,
+    35.493349
+],
+  "geometry": {"coordinates":[-97.63009599999999,35.493349],"type":"Point"}
 }

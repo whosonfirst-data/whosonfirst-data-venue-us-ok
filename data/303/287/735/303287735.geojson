@@ -2,13 +2,14 @@
   "id": 303287735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.502761,34.875943,-99.502761,34.875943",
     "geom:latitude":34.875943,
     "geom:longitude":-99.502761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 N Louis Tittle Ave",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303287735,
-    "wof:lastmodified":1448998267,
+    "wof:lastmodified":1466764904,
     "wof:name":"Press Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-99.502761,34.875943,-99.502761,34.875943],
-  "geometry": {"coordinates":[-99.502761,34.875943],"type":"Point"}
+  "bbox": [
+    -99.502761,
+    34.875943,
+    -99.502761,
+    34.875943
+],
+  "geometry": {"coordinates":[-99.50276100000001,34.875943],"type":"Point"}
 }

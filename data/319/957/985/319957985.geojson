@@ -2,13 +2,14 @@
   "id": 319957985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.221227,35.078192,-98.221227,35.078192",
     "geom:latitude":35.078192,
     "geom:longitude":-98.221227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Watson Dr",
     "sg:city":"Anadarko",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319957985,
-    "wof:lastmodified":1449024769,
+    "wof:lastmodified":1466764071,
     "wof:name":"Town & Country Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-98.221227,35.078192,-98.221227,35.078192],
+  "bbox": [
+    -98.221227,
+    35.078192,
+    -98.221227,
+    35.078192
+],
   "geometry": {"coordinates":[-98.221227,35.078192],"type":"Point"}
 }

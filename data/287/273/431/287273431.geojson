@@ -2,13 +2,14 @@
   "id": 287273431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.505575,35.671529,-97.505575,35.671529",
     "geom:latitude":35.671529,
     "geom:longitude":-97.505575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 Victoria Pl",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287273431,
-    "wof:lastmodified":1449001119,
+    "wof:lastmodified":1466763040,
     "wof:name":"Weather Coat Painting Company",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.505575,35.671529,-97.505575,35.671529],
-  "geometry": {"coordinates":[-97.505575,35.671529],"type":"Point"}
+  "bbox": [
+    -97.505575,
+    35.671529,
+    -97.505575,
+    35.671529
+],
+  "geometry": {"coordinates":[-97.50557499999999,35.671529],"type":"Point"}
 }

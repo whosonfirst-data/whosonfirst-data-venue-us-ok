@@ -2,13 +2,14 @@
   "id": 354179719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.95788,35.542559,-97.95788,35.542559",
     "geom:latitude":35.542559,
     "geom:longitude":-97.95788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W Kiowa St",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354179719,
-    "wof:lastmodified":1449067497,
+    "wof:lastmodified":1466763812,
     "wof:name":"Duncan Recycling",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-97.95788,35.542559,-97.95788,35.542559],
+  "bbox": [
+    -97.95788,
+    35.542559,
+    -97.95788,
+    35.542559
+],
   "geometry": {"coordinates":[-97.95788,35.542559],"type":"Point"}
 }

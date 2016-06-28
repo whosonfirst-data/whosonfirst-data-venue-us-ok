@@ -2,13 +2,14 @@
   "id": 336697401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.807122,36.042684,-95.807122,36.042684",
     "geom:latitude":36.042684,
     "geom:longitude":-95.807122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 W Knoxville St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336697401,
-    "wof:lastmodified":1448997612,
+    "wof:lastmodified":1466763679,
     "wof:name":"Wedgewood Homeowners Assn",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "membership"
     ]
 },
-  "bbox": [-95.807122,36.042684,-95.807122,36.042684],
-  "geometry": {"coordinates":[-95.807122,36.042684],"type":"Point"}
+  "bbox": [
+    -95.807122,
+    36.042684,
+    -95.807122,
+    36.042684
+],
+  "geometry": {"coordinates":[-95.80712200000001,36.042684],"type":"Point"}
 }

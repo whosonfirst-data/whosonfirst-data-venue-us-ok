@@ -2,13 +2,14 @@
   "id": 303373513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.880791,35.696308,-96.880791,35.696308",
     "geom:latitude":35.696308,
     "geom:longitude":-96.880791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1407 Manvel Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303373513,
-    "wof:lastmodified":1448999386,
+    "wof:lastmodified":1466765209,
     "wof:name":"Durham School Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-96.880791,35.696308,-96.880791,35.696308],
+  "bbox": [
+    -96.880791,
+    35.696308,
+    -96.880791,
+    35.696308
+],
   "geometry": {"coordinates":[-96.880791,35.696308],"type":"Point"}
 }

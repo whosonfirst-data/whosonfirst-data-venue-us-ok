@@ -2,13 +2,14 @@
   "id": 320381781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.969766,36.02455,-95.969766,36.02455",
     "geom:latitude":36.02455,
     "geom:longitude":-95.969766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 W B St",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320381781,
-    "wof:lastmodified":1449011550,
+    "wof:lastmodified":1466765609,
     "wof:name":"Rainbow Plumbing",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.969766,36.02455,-95.969766,36.02455],
-  "geometry": {"coordinates":[-95.969766,36.02455],"type":"Point"}
+  "bbox": [
+    -95.969766,
+    36.02455,
+    -95.969766,
+    36.02455
+],
+  "geometry": {"coordinates":[-95.96976600000001,36.02455],"type":"Point"}
 }

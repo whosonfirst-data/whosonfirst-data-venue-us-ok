@@ -2,13 +2,14 @@
   "id": 303096301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.61234,35.582322,-97.61234,35.582322",
     "geom:latitude":35.582322,
     "geom:longitude":-97.61234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11105 N Ann Arbor Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303096301,
-    "wof:lastmodified":1448998906,
+    "wof:lastmodified":1466763181,
     "wof:name":"Pfenninger of Okla Const",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.61234,35.582322,-97.61234,35.582322],
+  "bbox": [
+    -97.61234,
+    35.582322,
+    -97.61234,
+    35.582322
+],
   "geometry": {"coordinates":[-97.61234,35.582322],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287121849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.234852,35.575413,-95.234852,35.575413",
     "geom:latitude":35.575413,
     "geom:longitude":-95.234852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8400 E 123rd St S",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287121849,
-    "wof:lastmodified":1449001357,
+    "wof:lastmodified":1466763575,
     "wof:name":"Lewis Bibb Trucking",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.234852,35.575413,-95.234852,35.575413],
+  "bbox": [
+    -95.234852,
+    35.575413,
+    -95.234852,
+    35.575413
+],
   "geometry": {"coordinates":[-95.234852,35.575413],"type":"Point"}
 }

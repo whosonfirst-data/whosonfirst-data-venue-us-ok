@@ -2,13 +2,14 @@
   "id": 303828059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.338087,36.662506,-96.338087,36.662506",
     "geom:latitude":36.662506,
     "geom:longitude":-96.338087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Leahy Ave",
     "sg:city":"Pawhuska",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303828059,
-    "wof:lastmodified":1448999357,
+    "wof:lastmodified":1466766650,
     "wof:name":"Palmer & Lamirand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.338087,36.662506,-96.338087,36.662506],
+  "bbox": [
+    -96.338087,
+    36.662506,
+    -96.338087,
+    36.662506
+],
   "geometry": {"coordinates":[-96.338087,36.662506],"type":"Point"}
 }

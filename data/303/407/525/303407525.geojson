@@ -2,13 +2,14 @@
   "id": 303407525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.098161,36.707998,-97.098161,36.707998",
     "geom:latitude":36.707998,
     "geom:longitude":-97.098161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N Sunset St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303407525,
-    "wof:lastmodified":1448999479,
+    "wof:lastmodified":1466765533,
     "wof:name":"Bobbies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.098161,36.707998,-97.098161,36.707998],
+  "bbox": [
+    -97.098161,
+    36.707998,
+    -97.098161,
+    36.707998
+],
   "geometry": {"coordinates":[-97.098161,36.707998],"type":"Point"}
 }

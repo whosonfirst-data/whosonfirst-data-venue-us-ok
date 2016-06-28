@@ -2,13 +2,14 @@
   "id": 303531605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.059121,36.130329,-97.059121,36.130329",
     "geom:latitude":36.130329,
     "geom:longitude":-97.059121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 N Main St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303531605,
-    "wof:lastmodified":1448998688,
+    "wof:lastmodified":1466765969,
     "wof:name":"Buy N' Bye II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.059121,36.130329,-97.059121,36.130329],
+  "bbox": [
+    -97.059121,
+    36.130329,
+    -97.059121,
+    36.130329
+],
   "geometry": {"coordinates":[-97.059121,36.130329],"type":"Point"}
 }

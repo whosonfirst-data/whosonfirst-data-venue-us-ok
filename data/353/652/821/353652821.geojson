@@ -2,13 +2,14 @@
   "id": 353652821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.483364,36.698328,-101.483364,36.698328",
     "geom:latitude":36.698328,
     "geom:longitude":-101.483364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 US Hwy 64",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353652821,
-    "wof:lastmodified":1449019895,
+    "wof:lastmodified":1466764651,
     "wof:name":"C R Anthony Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.483364,36.698328,-101.483364,36.698328],
-  "geometry": {"coordinates":[-101.483364,36.698328],"type":"Point"}
+  "bbox": [
+    -101.483364,
+    36.698328,
+    -101.483364,
+    36.698328
+],
+  "geometry": {"coordinates":[-101.48336399999999,36.698328],"type":"Point"}
 }

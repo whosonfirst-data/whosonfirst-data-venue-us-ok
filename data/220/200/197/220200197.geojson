@@ -2,13 +2,14 @@
   "id": 220200197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.875503,36.051987,-95.875503,36.051987",
     "geom:latitude":36.051987,
     "geom:longitude":-95.875503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9007 E 77th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":220200197,
-    "wof:lastmodified":1449074360,
+    "wof:lastmodified":1466762582,
     "wof:name":"Medical Lgal Rsurce Connection",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "home"
     ]
 },
-  "bbox": [-95.875503,36.051987,-95.875503,36.051987],
-  "geometry": {"coordinates":[-95.875503,36.051987],"type":"Point"}
+  "bbox": [
+    -95.875503,
+    36.051987,
+    -95.875503,
+    36.051987
+],
+  "geometry": {"coordinates":[-95.87550299999999,36.051987],"type":"Point"}
 }

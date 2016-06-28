@@ -2,13 +2,14 @@
   "id": 320538705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.242404,34.272,-98.242404,34.272",
     "geom:latitude":34.272,
     "geom:longitude":-98.242404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"632 W Oregon St",
     "sg:city":"Temple",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320538705,
-    "wof:lastmodified":1449011720,
+    "wof:lastmodified":1466766146,
     "wof:name":"Sands Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.242404,34.272,-98.242404,34.272],
-  "geometry": {"coordinates":[-98.242404,34.272],"type":"Point"}
+  "bbox": [
+    -98.242404,
+    34.272,
+    -98.242404,
+    34.272
+],
+  "geometry": {"coordinates":[-98.24240399999999,34.272],"type":"Point"}
 }

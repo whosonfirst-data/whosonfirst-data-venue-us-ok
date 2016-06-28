@@ -2,13 +2,14 @@
   "id": 303412363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.704018,36.57627,-96.704018,36.57627",
     "geom:latitude":36.57627,
     "geom:longitude":-96.704018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"554 N Main St",
     "sg:city":"Fairfax",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303412363,
-    "wof:lastmodified":1448998615,
+    "wof:lastmodified":1466765486,
     "wof:name":"Roller Inn Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.704018,36.57627,-96.704018,36.57627],
+  "bbox": [
+    -96.704018,
+    36.57627,
+    -96.704018,
+    36.57627
+],
   "geometry": {"coordinates":[-96.704018,36.57627],"type":"Point"}
 }

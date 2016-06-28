@@ -2,13 +2,14 @@
   "id": 320828503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.956849,35.061947,-97.956849,35.061947",
     "geom:latitude":35.061947,
     "geom:longitude":-97.956849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Charles Allen Dr",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320828503,
-    "wof:lastmodified":1449013150,
+    "wof:lastmodified":1466766907,
     "wof:name":"Green Bay Packaging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.956849,35.061947,-97.956849,35.061947],
-  "geometry": {"coordinates":[-97.956849,35.061947],"type":"Point"}
+  "bbox": [
+    -97.956849,
+    35.061947,
+    -97.956849,
+    35.061947
+],
+  "geometry": {"coordinates":[-97.95684900000001,35.061947],"type":"Point"}
 }

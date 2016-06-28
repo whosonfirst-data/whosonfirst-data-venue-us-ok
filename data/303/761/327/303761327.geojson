@@ -2,13 +2,14 @@
   "id": 303761327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.279165,35.435269,-97.279165,35.435269",
     "geom:latitude":35.435269,
     "geom:longitude":-97.279165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14250 SE 29th St",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303761327,
-    "wof:lastmodified":1448999982,
+    "wof:lastmodified":1466766641,
     "wof:name":"Midwest Environmental Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ecological"
     ]
 },
-  "bbox": [-97.279165,35.435269,-97.279165,35.435269],
-  "geometry": {"coordinates":[-97.279165,35.435269],"type":"Point"}
+  "bbox": [
+    -97.279165,
+    35.435269,
+    -97.279165,
+    35.435269
+],
+  "geometry": {"coordinates":[-97.27916500000001,35.435269],"type":"Point"}
 }

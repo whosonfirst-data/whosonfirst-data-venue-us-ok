@@ -2,13 +2,14 @@
   "id": 354130511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.836477,36.372746,-95.836477,36.372746",
     "geom:latitude":36.372746,
     "geom:longitude":-95.836477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 N 10th St",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354130511,
-    "wof:lastmodified":1449066499,
+    "wof:lastmodified":1466763621,
     "wof:name":"Okie Workshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.836477,36.372746,-95.836477,36.372746],
+  "bbox": [
+    -95.836477,
+    36.372746,
+    -95.836477,
+    36.372746
+],
   "geometry": {"coordinates":[-95.836477,36.372746],"type":"Point"}
 }

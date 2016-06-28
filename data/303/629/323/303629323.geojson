@@ -2,13 +2,14 @@
   "id": 303629323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.980927,35.51011,-98.980927,35.51011",
     "geom:latitude":35.51011,
     "geom:longitude":-98.980927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 S 17th St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303629323,
-    "wof:lastmodified":1448999989,
+    "wof:lastmodified":1466766306,
     "wof:name":"Westhaven Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-98.980927,35.51011,-98.980927,35.51011],
-  "geometry": {"coordinates":[-98.980927,35.51011],"type":"Point"}
+  "bbox": [
+    -98.980927,
+    35.51011,
+    -98.980927,
+    35.51011
+],
+  "geometry": {"coordinates":[-98.98092699999999,35.51011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303291695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.025162,34.078626,-96.025162,34.078626",
     "geom:latitude":34.078626,
     "geom:longitude":-96.025162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3547 Cade Hwy",
     "sg:city":"Bennington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303291695,
-    "wof:lastmodified":1448998870,
+    "wof:lastmodified":1466764922,
     "wof:name":"Percell Mechanical Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.025162,34.078626,-96.025162,34.078626],
-  "geometry": {"coordinates":[-96.025162,34.078626],"type":"Point"}
+  "bbox": [
+    -96.025162,
+    34.078626,
+    -96.025162,
+    34.078626
+],
+  "geometry": {"coordinates":[-96.02516199999999,34.078626],"type":"Point"}
 }

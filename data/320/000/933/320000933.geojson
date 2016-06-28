@@ -2,13 +2,14 @@
   "id": 320000933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.925547,35.356399,-96.925547,35.356399",
     "geom:latitude":35.356399,
     "geom:longitude":-96.925547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2102 N Beard Ave",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320000933,
-    "wof:lastmodified":1449011852,
+    "wof:lastmodified":1466762288,
     "wof:name":"Dudley Don Realestate & Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manager"
     ]
 },
-  "bbox": [-96.925547,35.356399,-96.925547,35.356399],
-  "geometry": {"coordinates":[-96.925547,35.356399],"type":"Point"}
+  "bbox": [
+    -96.925547,
+    35.356399,
+    -96.925547,
+    35.356399
+],
+  "geometry": {"coordinates":[-96.92554699999999,35.356399],"type":"Point"}
 }

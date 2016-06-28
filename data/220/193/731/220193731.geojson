@@ -2,13 +2,14 @@
   "id": 220193731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.903055,36.131622,-95.903055,36.131622",
     "geom:latitude":36.131622,
     "geom:longitude":-95.903055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6545 E 21st Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":220193731,
-    "wof:lastmodified":1449074172,
+    "wof:lastmodified":1466762452,
     "wof:name":"Tulsa Auto Spring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -100,6 +102,11 @@
         "campers-repair"
     ]
 },
-  "bbox": [-95.903055,36.131622,-95.903055,36.131622],
-  "geometry": {"coordinates":[-95.903055,36.131622],"type":"Point"}
+  "bbox": [
+    -95.903055,
+    36.131622,
+    -95.903055,
+    36.131622
+],
+  "geometry": {"coordinates":[-95.90305499999999,36.131622],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320680057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.872392,36.088991,-95.872392,36.088991",
     "geom:latitude":36.088991,
     "geom:longitude":-95.872392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5144 S 94th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320680057,
-    "wof:lastmodified":1449013883,
+    "wof:lastmodified":1466766481,
     "wof:name":"Wyatt Engineering LLC",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "instrument"
     ]
 },
-  "bbox": [-95.872392,36.088991,-95.872392,36.088991],
+  "bbox": [
+    -95.872392,
+    36.088991,
+    -95.872392,
+    36.088991
+],
   "geometry": {"coordinates":[-95.872392,36.088991],"type":"Point"}
 }

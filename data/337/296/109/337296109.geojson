@@ -2,13 +2,14 @@
   "id": 337296109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.966979,36.140598,-95.966979,36.140598",
     "geom:latitude":36.140598,
     "geom:longitude":-95.966979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1711 E 15th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":337296109,
-    "wof:lastmodified":1449027592,
+    "wof:lastmodified":1466763695,
     "wof:name":"Tulsa Counseling Svc.",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "counselor"
     ]
 },
-  "bbox": [-95.966979,36.140598,-95.966979,36.140598],
-  "geometry": {"coordinates":[-95.966979,36.140598],"type":"Point"}
+  "bbox": [
+    -95.966979,
+    36.140598,
+    -95.966979,
+    36.140598
+],
+  "geometry": {"coordinates":[-95.96697899999999,36.140598],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320801969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.131569,36.139349,-96.131569,36.139349",
     "geom:latitude":36.139349,
     "geom:longitude":-96.131569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Wellston Park Rd",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320801969,
-    "wof:lastmodified":1449014309,
+    "wof:lastmodified":1466766955,
     "wof:name":"Custom Circuits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "etched"
     ]
 },
-  "bbox": [-96.131569,36.139349,-96.131569,36.139349],
+  "bbox": [
+    -96.131569,
+    36.139349,
+    -96.131569,
+    36.139349
+],
   "geometry": {"coordinates":[-96.131569,36.139349],"type":"Point"}
 }

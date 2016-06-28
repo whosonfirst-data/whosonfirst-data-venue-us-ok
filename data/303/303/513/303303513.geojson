@@ -2,13 +2,14 @@
   "id": 303303513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.419627,35.721198,-97.419627,35.721198",
     "geom:latitude":35.721198,
     "geom:longitude":-97.419627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6433 Boucher Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303303513,
-    "wof:lastmodified":1448998140,
+    "wof:lastmodified":1466764966,
     "wof:name":"Heirloom Woodcrafters",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-97.419627,35.721198,-97.419627,35.721198],
-  "geometry": {"coordinates":[-97.419627,35.721198],"type":"Point"}
+  "bbox": [
+    -97.419627,
+    35.721198,
+    -97.419627,
+    35.721198
+],
+  "geometry": {"coordinates":[-97.41962700000001,35.721198],"type":"Point"}
 }

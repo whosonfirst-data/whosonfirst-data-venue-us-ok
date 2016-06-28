@@ -2,13 +2,14 @@
   "id": 320732033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503396,35.4824,-97.503396,35.4824",
     "geom:latitude":35.4824,
     "geom:longitude":-97.503396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 NE 13th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320732033,
-    "wof:lastmodified":1449015076,
+    "wof:lastmodified":1466766551,
     "wof:name":"Terrance L Stull Dr",
     "wof:parent_id":85871693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.503396,35.4824,-97.503396,35.4824],
+  "bbox": [
+    -97.503396,
+    35.4824,
+    -97.503396,
+    35.4824
+],
   "geometry": {"coordinates":[-97.503396,35.4824],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320610939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.767321,34.928302,-95.767321,34.928302",
     "geom:latitude":34.928302,
     "geom:longitude":-95.767321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 S 3rd St",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320610939,
-    "wof:lastmodified":1449014901,
+    "wof:lastmodified":1466766302,
     "wof:name":"Mc Alester Children's Dental",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-95.767321,34.928302,-95.767321,34.928302],
+  "bbox": [
+    -95.767321,
+    34.928302,
+    -95.767321,
+    34.928302
+],
   "geometry": {"coordinates":[-95.767321,34.928302],"type":"Point"}
 }

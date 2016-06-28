@@ -2,13 +2,14 @@
   "id": 303159453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.536509,36.089863,-95.536509,36.089863",
     "geom:latitude":36.089863,
     "geom:longitude":-95.536509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16583 E 640 Rd",
     "sg:city":"Inola",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303159453,
-    "wof:lastmodified":1448998413,
+    "wof:lastmodified":1466764183,
     "wof:name":"Eagle Retreat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "retreat"
     ]
 },
-  "bbox": [-95.536509,36.089863,-95.536509,36.089863],
+  "bbox": [
+    -95.536509,
+    36.089863,
+    -95.536509,
+    36.089863
+],
   "geometry": {"coordinates":[-95.536509,36.089863],"type":"Point"}
 }

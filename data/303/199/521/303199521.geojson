@@ -2,13 +2,14 @@
   "id": 303199521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.071289,35.991556,-96.071289,35.991556",
     "geom:latitude":35.991556,
     "geom:longitude":-96.071289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Concord Cir",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303199521,
-    "wof:lastmodified":1448998374,
+    "wof:lastmodified":1466764529,
     "wof:name":"Acts Networking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.071289,35.991556,-96.071289,35.991556],
-  "geometry": {"coordinates":[-96.071289,35.991556],"type":"Point"}
+  "bbox": [
+    -96.071289,
+    35.991556,
+    -96.071289,
+    35.991556
+],
+  "geometry": {"coordinates":[-96.07128899999999,35.991556],"type":"Point"}
 }

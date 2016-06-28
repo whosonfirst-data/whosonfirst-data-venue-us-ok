@@ -2,13 +2,14 @@
   "id": 320536637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.571981,35.404879,-97.571981,35.404879",
     "geom:latitude":35.404879,
     "geom:longitude":-97.571981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3121 SW 61st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320536637,
-    "wof:lastmodified":1449013484,
+    "wof:lastmodified":1466766223,
     "wof:name":"Oklahoma Network Solutions",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-97.571981,35.404879,-97.571981,35.404879],
-  "geometry": {"coordinates":[-97.571981,35.404879],"type":"Point"}
+  "bbox": [
+    -97.571981,
+    35.404879,
+    -97.571981,
+    35.404879
+],
+  "geometry": {"coordinates":[-97.57198099999999,35.404879],"type":"Point"}
 }

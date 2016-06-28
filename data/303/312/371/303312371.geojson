@@ -2,13 +2,14 @@
   "id": 303312371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.49882,35.511404,-97.49882,35.511404",
     "geom:latitude":35.511404,
     "geom:longitude":-97.49882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 NE 39th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303312371,
-    "wof:lastmodified":1448999353,
+    "wof:lastmodified":1466765123,
     "wof:name":"Advantage Mktg Systems Inc",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nutritional"
     ]
 },
-  "bbox": [-97.49882,35.511404,-97.49882,35.511404],
-  "geometry": {"coordinates":[-97.49882,35.511404],"type":"Point"}
+  "bbox": [
+    -97.49882,
+    35.511404,
+    -97.49882,
+    35.511404
+],
+  "geometry": {"coordinates":[-97.49881999999999,35.511404],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319895331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.031613,36.115984,-97.031613,36.115984",
     "geom:latitude":36.115984,
     "geom:longitude":-97.031613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 E 6th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319895331,
-    "wof:lastmodified":1449024421,
+    "wof:lastmodified":1466763495,
     "wof:name":"Buy N Bye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.031613,36.115984,-97.031613,36.115984],
-  "geometry": {"coordinates":[-97.031613,36.115984],"type":"Point"}
+  "bbox": [
+    -97.031613,
+    36.115984,
+    -97.031613,
+    36.115984
+],
+  "geometry": {"coordinates":[-97.03161299999999,36.115984],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336654085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.961751,36.260508,-95.961751,36.260508",
     "geom:latitude":36.260508,
     "geom:longitude":-95.961751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2109 E 73rd St N",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336654085,
-    "wof:lastmodified":1448997299,
+    "wof:lastmodified":1466763012,
     "wof:name":"REB Trucking",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.961751,36.260508,-95.961751,36.260508],
-  "geometry": {"coordinates":[-95.961751,36.260508],"type":"Point"}
+  "bbox": [
+    -95.961751,
+    36.260508,
+    -95.961751,
+    36.260508
+],
+  "geometry": {"coordinates":[-95.96175100000001,36.260508],"type":"Point"}
 }

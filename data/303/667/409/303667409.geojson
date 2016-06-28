@@ -2,13 +2,14 @@
   "id": 303667409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.87923,36.87086,-94.87923,36.87086",
     "geom:latitude":36.87086,
     "geom:longitude":-94.87923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Steve Owens Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303667409,
-    "wof:lastmodified":1448999716,
+    "wof:lastmodified":1466766546,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.87923,36.87086,-94.87923,36.87086],
-  "geometry": {"coordinates":[-94.87923,36.87086],"type":"Point"}
+  "bbox": [
+    -94.87923,
+    36.87086,
+    -94.87923,
+    36.87086
+],
+  "geometry": {"coordinates":[-94.87923000000001,36.87086],"type":"Point"}
 }

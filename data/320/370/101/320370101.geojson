@@ -2,13 +2,14 @@
   "id": 320370101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.869057,36.871033,-94.869057,36.871033",
     "geom:latitude":36.871033,
     "geom:longitude":-94.869057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 E Steve Owens Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320370101,
-    "wof:lastmodified":1449013302,
+    "wof:lastmodified":1466765576,
     "wof:name":"Western Finance Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-94.869057,36.871033,-94.869057,36.871033],
+  "bbox": [
+    -94.869057,
+    36.871033,
+    -94.869057,
+    36.871033
+],
   "geometry": {"coordinates":[-94.869057,36.871033],"type":"Point"}
 }

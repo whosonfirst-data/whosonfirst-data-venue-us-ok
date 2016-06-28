@@ -2,13 +2,14 @@
   "id": 320767747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.906137,36.149591,-95.906137,36.149591",
     "geom:latitude":36.149591,
     "geom:longitude":-95.906137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6321 E 9th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320767747,
-    "wof:lastmodified":1449012326,
+    "wof:lastmodified":1466766755,
     "wof:name":"Melrose Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "apartment"
     ]
 },
-  "bbox": [-95.906137,36.149591,-95.906137,36.149591],
+  "bbox": [
+    -95.906137,
+    36.149591,
+    -95.906137,
+    36.149591
+],
   "geometry": {"coordinates":[-95.906137,36.149591],"type":"Point"}
 }

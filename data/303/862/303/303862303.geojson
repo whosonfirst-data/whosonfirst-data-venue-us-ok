@@ -2,13 +2,14 @@
   "id": 303862303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.596021,35.435159,-97.596021,35.435159",
     "geom:latitude":35.435159,
     "geom:longitude":-97.596021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4420 SW 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303862303,
-    "wof:lastmodified":1449000625,
+    "wof:lastmodified":1466766784,
     "wof:name":"Brooks Industries",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [-97.596021,35.435159,-97.596021,35.435159],
-  "geometry": {"coordinates":[-97.596021,35.435159],"type":"Point"}
+  "bbox": [
+    -97.596021,
+    35.435159,
+    -97.596021,
+    35.435159
+],
+  "geometry": {"coordinates":[-97.59602099999999,35.435159],"type":"Point"}
 }

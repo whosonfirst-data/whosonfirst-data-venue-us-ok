@@ -2,13 +2,14 @@
   "id": 303298675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.506014,34.871757,-99.506014,34.871757",
     "geom:latitude":34.871757,
     "geom:longitude":-99.506014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 S Oklahoma Ave",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303298675,
-    "wof:lastmodified":1448998774,
+    "wof:lastmodified":1466764940,
     "wof:name":"Southwest Oklahoma Bail Bonds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-99.506014,34.871757,-99.506014,34.871757],
-  "geometry": {"coordinates":[-99.506014,34.871757],"type":"Point"}
+  "bbox": [
+    -99.506014,
+    34.871757,
+    -99.506014,
+    34.871757
+],
+  "geometry": {"coordinates":[-99.50601399999999,34.871757],"type":"Point"}
 }

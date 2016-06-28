@@ -2,13 +2,14 @@
   "id": 303476375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.962336,36.156551,-95.962336,36.156551",
     "geom:latitude":36.156551,
     "geom:longitude":-95.962336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 E 3rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303476375,
-    "wof:lastmodified":1448999107,
+    "wof:lastmodified":1466765747,
     "wof:name":"Locke Plumbing Supply",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.962336,36.156551,-95.962336,36.156551],
-  "geometry": {"coordinates":[-95.962336,36.156551],"type":"Point"}
+  "bbox": [
+    -95.962336,
+    36.156551,
+    -95.962336,
+    36.156551
+],
+  "geometry": {"coordinates":[-95.96233599999999,36.156551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320148011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.225175,34.244293,-96.225175,34.244293",
     "geom:latitude":34.244293,
     "geom:longitude":-96.225175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"659 W Voca Rd",
     "sg:city":"Caney",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320148011,
-    "wof:lastmodified":1449014387,
+    "wof:lastmodified":1466764469,
     "wof:name":"Voca Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.225175,34.244293,-96.225175,34.244293],
-  "geometry": {"coordinates":[-96.225175,34.244293],"type":"Point"}
+  "bbox": [
+    -96.225175,
+    34.244293,
+    -96.225175,
+    34.244293
+],
+  "geometry": {"coordinates":[-96.22517499999999,34.244293],"type":"Point"}
 }

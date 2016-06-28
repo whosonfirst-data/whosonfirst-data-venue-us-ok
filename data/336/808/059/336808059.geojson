@@ -2,13 +2,14 @@
   "id": 336808059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967891,35.621444,-95.967891,35.621444",
     "geom:latitude":35.621444,
     "geom:longitude":-95.967891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 E 8th St",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336808059,
-    "wof:lastmodified":1448996962,
+    "wof:lastmodified":1466764700,
     "wof:name":"Bill Middleton Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.967891,35.621444,-95.967891,35.621444],
-  "geometry": {"coordinates":[-95.967891,35.621444],"type":"Point"}
+  "bbox": [
+    -95.967891,
+    35.621444,
+    -95.967891,
+    35.621444
+],
+  "geometry": {"coordinates":[-95.96789099999999,35.621444],"type":"Point"}
 }

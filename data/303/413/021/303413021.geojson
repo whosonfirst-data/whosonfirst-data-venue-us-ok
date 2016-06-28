@@ -2,13 +2,14 @@
   "id": 303413021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.80437,36.021551,-95.80437,36.021551",
     "geom:latitude":36.021551,
     "geom:longitude":-95.80437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 W Gary St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303413021,
-    "wof:lastmodified":1448998506,
+    "wof:lastmodified":1466765368,
     "wof:name":"Freeman's Home Improvements",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.80437,36.021551,-95.80437,36.021551],
-  "geometry": {"coordinates":[-95.80437,36.021551],"type":"Point"}
+  "bbox": [
+    -95.80437,
+    36.021551,
+    -95.80437,
+    36.021551
+],
+  "geometry": {"coordinates":[-95.80437000000001,36.021551],"type":"Point"}
 }

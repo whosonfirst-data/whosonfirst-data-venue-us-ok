@@ -2,13 +2,14 @@
   "id": 320032927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.406968,34.618159,-98.406968,34.618159",
     "geom:latitude":34.618159,
     "geom:longitude":-98.406968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 NW Park View Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320032927,
-    "wof:lastmodified":1449013095,
+    "wof:lastmodified":1466762776,
     "wof:name":"Hammer Productions",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.406968,34.618159,-98.406968,34.618159],
-  "geometry": {"coordinates":[-98.406968,34.618159],"type":"Point"}
+  "bbox": [
+    -98.406968,
+    34.618159,
+    -98.406968,
+    34.618159
+],
+  "geometry": {"coordinates":[-98.40696800000001,34.618159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336851553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.687089,35.246503,-96.687089,35.246503",
     "geom:latitude":35.246503,
     "geom:longitude":-96.687089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 Wrangler Blvd",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336851553,
-    "wof:lastmodified":1448997639,
+    "wof:lastmodified":1466764840,
     "wof:name":"Medicus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-96.687089,35.246503,-96.687089,35.246503],
+  "bbox": [
+    -96.687089,
+    35.246503,
+    -96.687089,
+    35.246503
+],
   "geometry": {"coordinates":[-96.687089,35.246503],"type":"Point"}
 }

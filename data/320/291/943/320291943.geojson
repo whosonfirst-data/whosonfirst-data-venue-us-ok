@@ -2,13 +2,14 @@
   "id": 320291943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.84489,36.27845,-95.84489,36.27845",
     "geom:latitude":36.27845,
     "geom:longitude":-95.84489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11616 E 86th St N",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320291943,
-    "wof:lastmodified":1449012419,
+    "wof:lastmodified":1466765117,
     "wof:name":"First Integrity Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.84489,36.27845,-95.84489,36.27845],
-  "geometry": {"coordinates":[-95.84489,36.27845],"type":"Point"}
+  "bbox": [
+    -95.84489,
+    36.27845,
+    -95.84489,
+    36.27845
+],
+  "geometry": {"coordinates":[-95.84489000000001,36.27845],"type":"Point"}
 }

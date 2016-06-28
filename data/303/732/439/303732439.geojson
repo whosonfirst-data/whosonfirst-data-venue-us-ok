@@ -2,13 +2,14 @@
   "id": 303732439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.479048,35.638221,-97.479048,35.638221",
     "geom:latitude":35.638221,
     "geom:longitude":-97.479048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56 E 15th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303732439,
-    "wof:lastmodified":1449000642,
+    "wof:lastmodified":1466766558,
     "wof:name":"M G Novelties",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.479048,35.638221,-97.479048,35.638221],
-  "geometry": {"coordinates":[-97.479048,35.638221],"type":"Point"}
+  "bbox": [
+    -97.479048,
+    35.638221,
+    -97.479048,
+    35.638221
+],
+  "geometry": {"coordinates":[-97.47904800000001,35.638221],"type":"Point"}
 }

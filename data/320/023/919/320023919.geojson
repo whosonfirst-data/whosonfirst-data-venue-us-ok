@@ -2,13 +2,14 @@
   "id": 320023919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.498145,35.219889,-97.498145,35.219889",
     "geom:latitude":35.219889,
     "geom:longitude":-97.498145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3802 Belhaven Cir",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320023919,
-    "wof:lastmodified":1449014599,
+    "wof:lastmodified":1466762640,
     "wof:name":"Focpm",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-97.498145,35.219889,-97.498145,35.219889],
-  "geometry": {"coordinates":[-97.498145,35.219889],"type":"Point"}
+  "bbox": [
+    -97.498145,
+    35.219889,
+    -97.498145,
+    35.219889
+],
+  "geometry": {"coordinates":[-97.49814499999999,35.219889],"type":"Point"}
 }

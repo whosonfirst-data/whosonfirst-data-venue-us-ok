@@ -2,13 +2,14 @@
   "id": 303502197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.482277,35.646989,-97.482277,35.646989",
     "geom:latitude":35.646989,
     "geom:longitude":-97.482277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 S Broadway",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":303502197,
-    "wof:lastmodified":1448999241,
+    "wof:lastmodified":1466765833,
     "wof:name":"Laser Vision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.482277,35.646989,-97.482277,35.646989],
+  "bbox": [
+    -97.482277,
+    35.646989,
+    -97.482277,
+    35.646989
+],
   "geometry": {"coordinates":[-97.482277,35.646989],"type":"Point"}
 }

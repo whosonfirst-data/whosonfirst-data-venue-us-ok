@@ -2,13 +2,14 @@
   "id": 320384283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.407253,35.410598,-99.407253,35.410598",
     "geom:latitude":35.410598,
     "geom:longitude":-99.407253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 W Broadway Ave",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320384283,
-    "wof:lastmodified":1449011714,
+    "wof:lastmodified":1466765501,
     "wof:name":"Fairview School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.407253,35.410598,-99.407253,35.410598],
+  "bbox": [
+    -99.407253,
+    35.410598,
+    -99.407253,
+    35.410598
+],
   "geometry": {"coordinates":[-99.407253,35.410598],"type":"Point"}
 }

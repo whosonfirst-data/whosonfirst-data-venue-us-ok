@@ -2,13 +2,14 @@
   "id": 353648281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.342122,34.662581,-99.342122,34.662581",
     "geom:latitude":34.662581,
     "geom:longitude":-99.342122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1909 N Bluebird Ln",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353648281,
-    "wof:lastmodified":1449018968,
+    "wof:lastmodified":1466764502,
     "wof:name":"Hensley Coin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-99.342122,34.662581,-99.342122,34.662581],
+  "bbox": [
+    -99.342122,
+    34.662581,
+    -99.342122,
+    34.662581
+],
   "geometry": {"coordinates":[-99.342122,34.662581],"type":"Point"}
 }

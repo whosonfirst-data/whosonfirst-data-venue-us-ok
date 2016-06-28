@@ -2,13 +2,14 @@
   "id": 319855885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.649927,35.959007,-95.649927,35.959007",
     "geom:latitude":35.959007,
     "geom:longitude":-95.649927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 E North St",
     "sg:city":"Coweta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319855885,
-    "wof:lastmodified":1449024663,
+    "wof:lastmodified":1466763218,
     "wof:name":"Village Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.649927,35.959007,-95.649927,35.959007],
-  "geometry": {"coordinates":[-95.649927,35.959007],"type":"Point"}
+  "bbox": [
+    -95.649927,
+    35.959007,
+    -95.649927,
+    35.959007
+],
+  "geometry": {"coordinates":[-95.64992700000001,35.959007],"type":"Point"}
 }

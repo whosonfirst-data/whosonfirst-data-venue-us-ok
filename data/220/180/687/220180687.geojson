@@ -2,13 +2,14 @@
   "id": 220180687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.957141,36.175563,-95.957141,36.175563",
     "geom:latitude":36.175563,
     "geom:longitude":-95.957141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 N Lewis Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220180687,
-    "wof:lastmodified":1449074086,
+    "wof:lastmodified":1466762365,
     "wof:name":"Trudy's Cleaning Service",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "maids'"
     ]
 },
-  "bbox": [-95.957141,36.175563,-95.957141,36.175563],
-  "geometry": {"coordinates":[-95.957141,36.175563],"type":"Point"}
+  "bbox": [
+    -95.957141,
+    36.175563,
+    -95.957141,
+    36.175563
+],
+  "geometry": {"coordinates":[-95.95714099999999,36.175563],"type":"Point"}
 }

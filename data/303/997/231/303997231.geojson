@@ -2,13 +2,14 @@
   "id": 303997231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.963056,36.140502,-95.963056,36.140502",
     "geom:latitude":36.140502,
     "geom:longitude":-95.963056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 E 15th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303997231,
-    "wof:lastmodified":1449000126,
+    "wof:lastmodified":1466767082,
     "wof:name":"Cancer Care Associates Inc",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "medical"
     ]
 },
-  "bbox": [-95.963056,36.140502,-95.963056,36.140502],
-  "geometry": {"coordinates":[-95.963056,36.140502],"type":"Point"}
+  "bbox": [
+    -95.963056,
+    36.140502,
+    -95.963056,
+    36.140502
+],
+  "geometry": {"coordinates":[-95.96305599999999,36.140502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320009753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.35971,35.961064,-95.35971,35.961064",
     "geom:latitude":35.961064,
     "geom:longitude":-95.35971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Bulldog Cir",
     "sg:city":"Wagoner",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320009753,
-    "wof:lastmodified":1449014892,
+    "wof:lastmodified":1466762425,
     "wof:name":"Wagoner High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.35971,35.961064,-95.35971,35.961064],
-  "geometry": {"coordinates":[-95.35971,35.961064],"type":"Point"}
+  "bbox": [
+    -95.35971,
+    35.961064,
+    -95.35971,
+    35.961064
+],
+  "geometry": {"coordinates":[-95.35971000000001,35.961064],"type":"Point"}
 }

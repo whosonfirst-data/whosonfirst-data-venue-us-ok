@@ -2,13 +2,14 @@
   "id": 303673895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.890192,36.394653,-97.890192,36.394653",
     "geom:latitude":36.394653,
     "geom:longitude":-97.890192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 S Van Buren St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303673895,
-    "wof:lastmodified":1448999065,
+    "wof:lastmodified":1466766569,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.890192,36.394653,-97.890192,36.394653],
+  "bbox": [
+    -97.890192,
+    36.394653,
+    -97.890192,
+    36.394653
+],
   "geometry": {"coordinates":[-97.890192,36.394653],"type":"Point"}
 }

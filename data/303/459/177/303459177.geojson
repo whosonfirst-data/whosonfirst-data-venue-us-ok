@@ -2,13 +2,14 @@
   "id": 303459177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.880659,35.703451,-96.880659,35.703451",
     "geom:latitude":35.703451,
     "geom:longitude":-96.880659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 Manvel Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303459177,
-    "wof:lastmodified":1448999115,
+    "wof:lastmodified":1466765691,
     "wof:name":"Lincoln County News",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-96.880659,35.703451,-96.880659,35.703451],
-  "geometry": {"coordinates":[-96.880659,35.703451],"type":"Point"}
+  "bbox": [
+    -96.880659,
+    35.703451,
+    -96.880659,
+    35.703451
+],
+  "geometry": {"coordinates":[-96.88065899999999,35.703451],"type":"Point"}
 }

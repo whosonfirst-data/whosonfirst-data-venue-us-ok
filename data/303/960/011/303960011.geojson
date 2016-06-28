@@ -2,13 +2,14 @@
   "id": 303960011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.654223,35.474744,-97.654223,35.474744",
     "geom:latitude":35.474744,
     "geom:longitude":-97.654223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 N Council Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303960011,
-    "wof:lastmodified":1448999876,
+    "wof:lastmodified":1466767100,
     "wof:name":"Council Road Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-97.654223,35.474744,-97.654223,35.474744],
+  "bbox": [
+    -97.654223,
+    35.474744,
+    -97.654223,
+    35.474744
+],
   "geometry": {"coordinates":[-97.654223,35.474744],"type":"Point"}
 }

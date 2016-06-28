@@ -2,13 +2,14 @@
   "id": 320333667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530057,35.351825,-97.530057,35.351825",
     "geom:latitude":35.351825,
     "geom:longitude":-97.530057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11711 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320333667,
-    "wof:lastmodified":1449014699,
+    "wof:lastmodified":1466765377,
     "wof:name":"Edward Jones 02716",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-97.530057,35.351825,-97.530057,35.351825],
+  "bbox": [
+    -97.530057,
+    35.351825,
+    -97.530057,
+    35.351825
+],
   "geometry": {"coordinates":[-97.530057,35.351825],"type":"Point"}
 }

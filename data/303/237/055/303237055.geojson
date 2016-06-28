@@ -2,13 +2,14 @@
   "id": 303237055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565639,35.447877,-97.565639,35.447877",
     "geom:latitude":35.447877,
     "geom:longitude":-97.565639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1829 S May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303237055,
-    "wof:lastmodified":1448998177,
+    "wof:lastmodified":1466764515,
     "wof:name":"ARTT Wood Mfg Co",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.565639,35.447877,-97.565639,35.447877],
+  "bbox": [
+    -97.565639,
+    35.447877,
+    -97.565639,
+    35.447877
+],
   "geometry": {"coordinates":[-97.565639,35.447877],"type":"Point"}
 }

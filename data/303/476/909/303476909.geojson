@@ -2,13 +2,14 @@
   "id": 303476909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.929663,35.448998,-96.929663,35.448998",
     "geom:latitude":35.448998,
     "geom:longitude":-96.929663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11601 N Kickapoo St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303476909,
-    "wof:lastmodified":1448999109,
+    "wof:lastmodified":1466765848,
     "wof:name":"The Old Cellar Man",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.929663,35.448998,-96.929663,35.448998],
-  "geometry": {"coordinates":[-96.929663,35.448998],"type":"Point"}
+  "bbox": [
+    -96.929663,
+    35.448998,
+    -96.929663,
+    35.448998
+],
+  "geometry": {"coordinates":[-96.92966300000001,35.448998],"type":"Point"}
 }

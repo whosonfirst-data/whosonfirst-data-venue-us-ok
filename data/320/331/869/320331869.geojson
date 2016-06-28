@@ -2,13 +2,14 @@
   "id": 320331869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.370996,35.507633,-97.370996,35.507633",
     "geom:latitude":35.507633,
     "geom:longitude":-97.370996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 N Douglas Blvd",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320331869,
-    "wof:lastmodified":1449013523,
+    "wof:lastmodified":1466765368,
     "wof:name":"In & Out Coastal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-97.370996,35.507633,-97.370996,35.507633],
-  "geometry": {"coordinates":[-97.370996,35.507633],"type":"Point"}
+  "bbox": [
+    -97.370996,
+    35.507633,
+    -97.370996,
+    35.507633
+],
+  "geometry": {"coordinates":[-97.37099600000001,35.507633],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320417861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.335896,35.020488,-97.335896,35.020488",
     "geom:latitude":35.020488,
     "geom:longitude":-97.335896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 N Main St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320417861,
-    "wof:lastmodified":1449012800,
+    "wof:lastmodified":1466765794,
     "wof:name":"Lexington Salvage & Wrecker Sv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "used"
     ]
 },
-  "bbox": [-97.335896,35.020488,-97.335896,35.020488],
-  "geometry": {"coordinates":[-97.335896,35.020488],"type":"Point"}
+  "bbox": [
+    -97.335896,
+    35.020488,
+    -97.335896,
+    35.020488
+],
+  "geometry": {"coordinates":[-97.33589600000001,35.020488],"type":"Point"}
 }

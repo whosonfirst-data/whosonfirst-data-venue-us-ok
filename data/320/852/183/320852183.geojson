@@ -2,13 +2,14 @@
   "id": 320852183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.824626,33.884192,-94.824626,33.884192",
     "geom:latitude":33.884192,
     "geom:longitude":-94.824626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 SE D Ave",
     "sg:city":"Idabel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320852183,
-    "wof:lastmodified":1449014338,
+    "wof:lastmodified":1466766973,
     "wof:name":"Miracle Temple",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.824626,33.884192,-94.824626,33.884192],
-  "geometry": {"coordinates":[-94.824626,33.884192],"type":"Point"}
+  "bbox": [
+    -94.824626,
+    33.884192,
+    -94.824626,
+    33.884192
+],
+  "geometry": {"coordinates":[-94.82462599999999,33.884192],"type":"Point"}
 }

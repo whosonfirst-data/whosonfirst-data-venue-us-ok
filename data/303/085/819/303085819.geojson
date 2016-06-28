@@ -2,13 +2,14 @@
   "id": 303085819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.418867,35.885416,-97.418867,35.885416",
     "geom:latitude":35.885416,
     "geom:longitude":-97.418867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 E College Ave",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303085819,
-    "wof:lastmodified":1448998726,
+    "wof:lastmodified":1466763002,
     "wof:name":"Dominion House",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rooms"
     ]
 },
-  "bbox": [-97.418867,35.885416,-97.418867,35.885416],
-  "geometry": {"coordinates":[-97.418867,35.885416],"type":"Point"}
+  "bbox": [
+    -97.418867,
+    35.885416,
+    -97.418867,
+    35.885416
+],
+  "geometry": {"coordinates":[-97.41886700000001,35.885416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320311103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.960027,35.62439,-95.960027,35.62439",
     "geom:latitude":35.62439,
     "geom:longitude":-95.960027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 E 4th St",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320311103,
-    "wof:lastmodified":1449012139,
+    "wof:lastmodified":1466765099,
     "wof:name":"Probation Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "probation"
     ]
 },
-  "bbox": [-95.960027,35.62439,-95.960027,35.62439],
+  "bbox": [
+    -95.960027,
+    35.62439,
+    -95.960027,
+    35.62439
+],
   "geometry": {"coordinates":[-95.960027,35.62439],"type":"Point"}
 }

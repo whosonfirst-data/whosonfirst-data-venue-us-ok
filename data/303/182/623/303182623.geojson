@@ -2,13 +2,14 @@
   "id": 303182623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.9938,36.042413,-95.9938,36.042413",
     "geom:latitude":36.042413,
     "geom:longitude":-95.9938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8702 S Elwood Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303182623,
-    "wof:lastmodified":1448999666,
+    "wof:lastmodified":1466764229,
     "wof:name":"Lemontree Automotive",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-95.9938,36.042413,-95.9938,36.042413],
-  "geometry": {"coordinates":[-95.9938,36.042413],"type":"Point"}
+  "bbox": [
+    -95.9938,
+    36.042413,
+    -95.9938,
+    36.042413
+],
+  "geometry": {"coordinates":[-95.99379999999999,36.042413],"type":"Point"}
 }

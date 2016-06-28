@@ -2,13 +2,14 @@
   "id": 320466011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.7994,36.071144,-95.7994,36.071144",
     "geom:latitude":36.071144,
     "geom:longitude":-95.7994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 SW Expressway Dr",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320466011,
-    "wof:lastmodified":1449012377,
+    "wof:lastmodified":1466765872,
     "wof:name":"Ford Of Tulsa",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.7994,36.071144,-95.7994,36.071144],
-  "geometry": {"coordinates":[-95.7994,36.071144],"type":"Point"}
+  "bbox": [
+    -95.7994,
+    36.071144,
+    -95.7994,
+    36.071144
+],
+  "geometry": {"coordinates":[-95.79940000000001,36.071144],"type":"Point"}
 }

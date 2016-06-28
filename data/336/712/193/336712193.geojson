@@ -2,13 +2,14 @@
   "id": 336712193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.589061,35.511312,-97.589061,35.511312",
     "geom:latitude":35.511312,
     "geom:longitude":-97.589061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 NW 39th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336712193,
-    "wof:lastmodified":1448997409,
+    "wof:lastmodified":1466763910,
     "wof:name":"Sportsmans Country Club",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "membership"
     ]
 },
-  "bbox": [-97.589061,35.511312,-97.589061,35.511312],
+  "bbox": [
+    -97.589061,
+    35.511312,
+    -97.589061,
+    35.511312
+],
   "geometry": {"coordinates":[-97.589061,35.511312],"type":"Point"}
 }

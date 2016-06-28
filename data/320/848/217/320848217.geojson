@@ -2,13 +2,14 @@
   "id": 320848217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507344,35.441418,-97.507344,35.441418",
     "geom:latitude":35.441418,
     "geom:longitude":-97.507344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 SE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320848217,
-    "wof:lastmodified":1449011781,
+    "wof:lastmodified":1466766961,
     "wof:name":"Maxs Barber Shop",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.507344,35.441418,-97.507344,35.441418],
+  "bbox": [
+    -97.507344,
+    35.441418,
+    -97.507344,
+    35.441418
+],
   "geometry": {"coordinates":[-97.507344,35.441418],"type":"Point"}
 }

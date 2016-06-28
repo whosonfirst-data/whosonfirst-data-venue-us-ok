@@ -2,13 +2,14 @@
   "id": 304043705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.509426,35.466546,-97.509426,35.466546",
     "geom:latitude":35.466546,
     "geom:longitude":-97.509426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 E Sheridan Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":304043705,
-    "wof:lastmodified":1449044018,
+    "wof:lastmodified":1466763069,
     "wof:name":"Tap Werks Ale House & Cafe",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "bar"
     ]
 },
-  "bbox": [-97.509426,35.466546,-97.509426,35.466546],
+  "bbox": [
+    -97.509426,
+    35.466546,
+    -97.509426,
+    35.466546
+],
   "geometry": {"coordinates":[-97.509426,35.466546],"type":"Point"}
 }

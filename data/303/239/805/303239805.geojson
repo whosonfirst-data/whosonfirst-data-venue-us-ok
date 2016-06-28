@@ -2,13 +2,14 @@
   "id": 303239805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.863828,36.096795,-95.863828,36.096795",
     "geom:latitude":36.096795,
     "geom:longitude":-95.863828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10007 E 46th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303239805,
-    "wof:lastmodified":1448998356,
+    "wof:lastmodified":1466764538,
     "wof:name":"Western Express Delivery Inc",
     "wof:parent_id":85802911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-95.863828,36.096795,-95.863828,36.096795],
+  "bbox": [
+    -95.863828,
+    36.096795,
+    -95.863828,
+    36.096795
+],
   "geometry": {"coordinates":[-95.863828,36.096795],"type":"Point"}
 }

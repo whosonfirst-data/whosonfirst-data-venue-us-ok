@@ -2,13 +2,14 @@
   "id": 354100151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.496097,35.647381,-97.496097,35.647381",
     "geom:latitude":35.647381,
     "geom:longitude":-97.496097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 S Kelly Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354100151,
-    "wof:lastmodified":1449067213,
+    "wof:lastmodified":1466763506,
     "wof:name":"J Rogers Performing Arts",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dancing"
     ]
 },
-  "bbox": [-97.496097,35.647381,-97.496097,35.647381],
-  "geometry": {"coordinates":[-97.496097,35.647381],"type":"Point"}
+  "bbox": [
+    -97.496097,
+    35.647381,
+    -97.496097,
+    35.647381
+],
+  "geometry": {"coordinates":[-97.49609700000001,35.647381],"type":"Point"}
 }

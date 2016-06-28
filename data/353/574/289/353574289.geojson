@@ -2,13 +2,14 @@
   "id": 353574289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.444918,34.594313,-98.444918,34.594313",
     "geom:latitude":34.594313,
     "geom:longitude":-98.444918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4102 SW Lee Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353574289,
-    "wof:lastmodified":1449018241,
+    "wof:lastmodified":1466764248,
     "wof:name":"Oak Ridge Animal Ctr",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-98.444918,34.594313,-98.444918,34.594313],
+  "bbox": [
+    -98.444918,
+    34.594313,
+    -98.444918,
+    34.594313
+],
   "geometry": {"coordinates":[-98.444918,34.594313],"type":"Point"}
 }

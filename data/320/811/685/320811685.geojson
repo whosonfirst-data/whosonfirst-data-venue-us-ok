@@ -2,13 +2,14 @@
   "id": 320811685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.657006,35.599019,-97.657006,35.599019",
     "geom:latitude":35.599019,
     "geom:longitude":-97.657006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12613 Flagstone Ct",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320811685,
-    "wof:lastmodified":1449013061,
+    "wof:lastmodified":1466766966,
     "wof:name":"Jim Hein Service",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [-97.657006,35.599019,-97.657006,35.599019],
+  "bbox": [
+    -97.657006,
+    35.599019,
+    -97.657006,
+    35.599019
+],
   "geometry": {"coordinates":[-97.657006,35.599019],"type":"Point"}
 }

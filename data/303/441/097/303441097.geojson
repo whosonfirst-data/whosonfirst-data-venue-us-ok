@@ -2,13 +2,14 @@
   "id": 303441097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.298731,34.632547,-99.298731,34.632547",
     "geom:latitude":34.632547,
     "geom:longitude":-99.298731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 S Veterans Dr",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303441097,
-    "wof:lastmodified":1448998307,
+    "wof:lastmodified":1466765737,
     "wof:name":"Oklahoma Boll Weevil Erdctn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.298731,34.632547,-99.298731,34.632547],
+  "bbox": [
+    -99.298731,
+    34.632547,
+    -99.298731,
+    34.632547
+],
   "geometry": {"coordinates":[-99.298731,34.632547],"type":"Point"}
 }

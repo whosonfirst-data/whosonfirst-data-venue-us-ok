@@ -2,13 +2,14 @@
   "id": 336921965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.943716,36.089725,-95.943716,36.089725",
     "geom:latitude":36.089725,
     "geom:longitude":-95.943716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2916 E 51st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336921965,
-    "wof:lastmodified":1448997620,
+    "wof:lastmodified":1466765201,
     "wof:name":"Pennant Development Co",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.943716,36.089725,-95.943716,36.089725],
-  "geometry": {"coordinates":[-95.943716,36.089725],"type":"Point"}
+  "bbox": [
+    -95.943716,
+    36.089725,
+    -95.943716,
+    36.089725
+],
+  "geometry": {"coordinates":[-95.94371599999999,36.089725],"type":"Point"}
 }

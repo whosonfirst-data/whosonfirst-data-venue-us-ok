@@ -2,13 +2,14 @@
   "id": 320578105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.915099,36.069828,-95.915099,36.069828",
     "geom:latitude":36.069828,
     "geom:longitude":-95.915099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6525 S Fulton Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320578105,
-    "wof:lastmodified":1449012201,
+    "wof:lastmodified":1466766150,
     "wof:name":"Pioneer Ranch",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cattle"
     ]
 },
-  "bbox": [-95.915099,36.069828,-95.915099,36.069828],
+  "bbox": [
+    -95.915099,
+    36.069828,
+    -95.915099,
+    36.069828
+],
   "geometry": {"coordinates":[-95.915099,36.069828],"type":"Point"}
 }

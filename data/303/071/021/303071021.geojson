@@ -2,13 +2,14 @@
   "id": 303071021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.927278,36.069984,-95.927278,36.069984",
     "geom:latitude":36.069984,
     "geom:longitude":-95.927278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6212 S Sandusky Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303071021,
-    "wof:lastmodified":1448999658,
+    "wof:lastmodified":1466762759,
     "wof:name":"Msg",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.927278,36.069984,-95.927278,36.069984],
+  "bbox": [
+    -95.927278,
+    36.069984,
+    -95.927278,
+    36.069984
+],
   "geometry": {"coordinates":[-95.927278,36.069984],"type":"Point"}
 }

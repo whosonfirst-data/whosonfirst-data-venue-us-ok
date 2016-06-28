@@ -2,13 +2,14 @@
   "id": 353531103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.482788,36.685866,-101.482788,36.685866",
     "geom:latitude":36.685866,
     "geom:longitude":-101.482788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 N Quinn St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353531103,
-    "wof:lastmodified":1449018853,
+    "wof:lastmodified":1466763579,
     "wof:name":"Pete's Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.482788,36.685866,-101.482788,36.685866],
+  "bbox": [
+    -101.482788,
+    36.685866,
+    -101.482788,
+    36.685866
+],
   "geometry": {"coordinates":[-101.482788,36.685866],"type":"Point"}
 }

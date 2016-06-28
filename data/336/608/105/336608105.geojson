@@ -2,13 +2,14 @@
   "id": 336608105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.661049,34.765915,-96.661049,34.765915",
     "geom:latitude":34.765915,
     "geom:longitude":-96.661049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 S Stadium Dr",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336608105,
-    "wof:lastmodified":1448997407,
+    "wof:lastmodified":1466762294,
     "wof:name":"Central Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.661049,34.765915,-96.661049,34.765915],
-  "geometry": {"coordinates":[-96.661049,34.765915],"type":"Point"}
+  "bbox": [
+    -96.661049,
+    34.765915,
+    -96.661049,
+    34.765915
+],
+  "geometry": {"coordinates":[-96.66104900000001,34.765915],"type":"Point"}
 }

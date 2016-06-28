@@ -2,13 +2,14 @@
   "id": 336945565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.426425,35.878109,-97.426425,35.878109",
     "geom:latitude":35.878109,
     "geom:longitude":-97.426425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 W Oklahoma Ave",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336945565,
-    "wof:lastmodified":1448997021,
+    "wof:lastmodified":1466765409,
     "wof:name":"89er Antique Mall",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.426425,35.878109,-97.426425,35.878109],
-  "geometry": {"coordinates":[-97.426425,35.878109],"type":"Point"}
+  "bbox": [
+    -97.426425,
+    35.878109,
+    -97.426425,
+    35.878109
+],
+  "geometry": {"coordinates":[-97.42642499999999,35.878109],"type":"Point"}
 }

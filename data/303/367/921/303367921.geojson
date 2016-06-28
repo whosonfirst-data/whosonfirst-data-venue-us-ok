@@ -2,13 +2,14 @@
   "id": 303367921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.997588,36.130459,-96.997588,36.130459",
     "geom:latitude":36.130459,
     "geom:longitude":-96.997588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Fairgrounds Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303367921,
-    "wof:lastmodified":1448999565,
+    "wof:lastmodified":1466765173,
     "wof:name":"Denver Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "harvesting"
     ]
 },
-  "bbox": [-96.997588,36.130459,-96.997588,36.130459],
-  "geometry": {"coordinates":[-96.997588,36.130459],"type":"Point"}
+  "bbox": [
+    -96.997588,
+    36.130459,
+    -96.997588,
+    36.130459
+],
+  "geometry": {"coordinates":[-96.99758799999999,36.130459],"type":"Point"}
 }

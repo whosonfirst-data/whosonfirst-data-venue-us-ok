@@ -2,13 +2,14 @@
   "id": 303276009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.918107,36.159737,-95.918107,36.159737",
     "geom:latitude":36.159737,
     "geom:longitude":-95.918107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5041 E Admiral Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303276009,
-    "wof:lastmodified":1448998208,
+    "wof:lastmodified":1466764937,
     "wof:name":"Vanhorns Used Cars",
     "wof:parent_id":85813737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-95.918107,36.159737,-95.918107,36.159737],
-  "geometry": {"coordinates":[-95.918107,36.159737],"type":"Point"}
+  "bbox": [
+    -95.918107,
+    36.159737,
+    -95.918107,
+    36.159737
+],
+  "geometry": {"coordinates":[-95.91810700000001,36.159737],"type":"Point"}
 }

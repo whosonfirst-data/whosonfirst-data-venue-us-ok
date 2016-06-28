@@ -2,13 +2,14 @@
   "id": 303372101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.60126,35.510493,-97.60126,35.510493",
     "geom:latitude":35.510493,
     "geom:longitude":-97.60126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3909 N Meridian Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303372101,
-    "wof:lastmodified":1448999604,
+    "wof:lastmodified":1466765196,
     "wof:name":"Delmars Automotive",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-97.60126,35.510493,-97.60126,35.510493],
+  "bbox": [
+    -97.60126,
+    35.510493,
+    -97.60126,
+    35.510493
+],
   "geometry": {"coordinates":[-97.60126,35.510493],"type":"Point"}
 }

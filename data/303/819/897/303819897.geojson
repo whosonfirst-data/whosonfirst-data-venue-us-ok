@@ -2,13 +2,14 @@
   "id": 303819897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.114345,34.203619,-97.114345,34.203619",
     "geom:latitude":34.203619,
     "geom:longitude":-97.114345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2617 Commerce St NE",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303819897,
-    "wof:lastmodified":1448998694,
+    "wof:lastmodified":1466766764,
     "wof:name":"Mary Kay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-97.114345,34.203619,-97.114345,34.203619],
+  "bbox": [
+    -97.114345,
+    34.203619,
+    -97.114345,
+    34.203619
+],
   "geometry": {"coordinates":[-97.114345,34.203619],"type":"Point"}
 }

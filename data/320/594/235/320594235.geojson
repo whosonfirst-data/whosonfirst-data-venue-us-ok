@@ -2,13 +2,14 @@
   "id": 320594235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.331652,36.669851,-96.331652,36.669851",
     "geom:latitude":36.669851,
     "geom:longitude":-96.331652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Lynn Ave",
     "sg:city":"Pawhuska",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320594235,
-    "wof:lastmodified":1449011792,
+    "wof:lastmodified":1466766270,
     "wof:name":"Pawhuska Bible Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.331652,36.669851,-96.331652,36.669851],
-  "geometry": {"coordinates":[-96.331652,36.669851],"type":"Point"}
+  "bbox": [
+    -96.331652,
+    36.669851,
+    -96.331652,
+    36.669851
+],
+  "geometry": {"coordinates":[-96.33165200000001,36.669851],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304008553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.727453,34.964596,-94.727453,34.964596",
     "geom:latitude":34.964596,
     "geom:longitude":-94.727453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 US Hwy 270",
     "sg:city":"Wister",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304008553,
-    "wof:lastmodified":1449043736,
+    "wof:lastmodified":1466762859,
     "wof:name":"Church Of Nazarene Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.727453,34.964596,-94.727453,34.964596],
+  "bbox": [
+    -94.727453,
+    34.964596,
+    -94.727453,
+    34.964596
+],
   "geometry": {"coordinates":[-94.727453,34.964596],"type":"Point"}
 }

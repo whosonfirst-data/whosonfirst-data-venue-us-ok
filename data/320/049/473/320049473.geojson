@@ -2,13 +2,14 @@
   "id": 320049473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.513655,35.599328,-97.513655,35.599328",
     "geom:latitude":35.599328,
     "geom:longitude":-97.513655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12400 N Santa Fe Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320049473,
-    "wof:lastmodified":1449013111,
+    "wof:lastmodified":1466763022,
     "wof:name":"Inventory",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.513655,35.599328,-97.513655,35.599328],
+  "bbox": [
+    -97.513655,
+    35.599328,
+    -97.513655,
+    35.599328
+],
   "geometry": {"coordinates":[-97.513655,35.599328],"type":"Point"}
 }

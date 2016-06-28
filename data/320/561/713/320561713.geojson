@@ -2,13 +2,14 @@
   "id": 320561713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.435526,36.557416,-95.435526,36.557416",
     "geom:latitude":36.557416,
     "geom:longitude":-95.435526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3531 S 4250 Rd",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320561713,
-    "wof:lastmodified":1449013913,
+    "wof:lastmodified":1466766205,
     "wof:name":"Mark Delozier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-95.435526,36.557416,-95.435526,36.557416],
+  "bbox": [
+    -95.435526,
+    36.557416,
+    -95.435526,
+    36.557416
+],
   "geometry": {"coordinates":[-95.435526,36.557416],"type":"Point"}
 }

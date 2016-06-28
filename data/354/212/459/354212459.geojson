@@ -2,13 +2,14 @@
   "id": 354212459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.870992,36.586009,-98.870992,36.586009",
     "geom:latitude":36.586009,
     "geom:longitude":-98.870992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Lincoln St",
     "sg:city":"Waynoka",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":354212459,
-    "wof:lastmodified":1449067073,
+    "wof:lastmodified":1466763993,
     "wof:name":"Waynoka High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.870992,36.586009,-98.870992,36.586009],
+  "bbox": [
+    -98.870992,
+    36.586009,
+    -98.870992,
+    36.586009
+],
   "geometry": {"coordinates":[-98.870992,36.586009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354050123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.411515,35.471922,-97.411515,35.471922",
     "geom:latitude":35.471922,
     "geom:longitude":-97.411515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 W Silver Meadow Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354050123,
-    "wof:lastmodified":1449066879,
+    "wof:lastmodified":1466763281,
     "wof:name":"Gridiron Graphics LLC",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "work"
     ]
 },
-  "bbox": [-97.411515,35.471922,-97.411515,35.471922],
-  "geometry": {"coordinates":[-97.411515,35.471922],"type":"Point"}
+  "bbox": [
+    -97.411515,
+    35.471922,
+    -97.411515,
+    35.471922
+],
+  "geometry": {"coordinates":[-97.41151499999999,35.471922],"type":"Point"}
 }

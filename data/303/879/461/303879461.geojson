@@ -2,13 +2,14 @@
   "id": 303879461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.238628,35.07134,-98.238628,35.07134",
     "geom:latitude":35.07134,
     "geom:longitude":-98.238628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 E Kentucky Ave",
     "sg:city":"Anadarko",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303879461,
-    "wof:lastmodified":1448998138,
+    "wof:lastmodified":1466766918,
     "wof:name":"Church of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.238628,35.07134,-98.238628,35.07134],
-  "geometry": {"coordinates":[-98.238628,35.07134],"type":"Point"}
+  "bbox": [
+    -98.238628,
+    35.07134,
+    -98.238628,
+    35.07134
+],
+  "geometry": {"coordinates":[-98.23862800000001,35.07134],"type":"Point"}
 }

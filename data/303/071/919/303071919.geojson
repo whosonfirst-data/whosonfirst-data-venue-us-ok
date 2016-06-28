@@ -2,13 +2,14 @@
   "id": 303071919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.382279,34.96161,-99.382279,34.96161",
     "geom:latitude":34.96161,
     "geom:longitude":-99.382279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Granite Ave",
     "sg:city":"Granite",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303071919,
-    "wof:lastmodified":1448999658,
+    "wof:lastmodified":1466762773,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.382279,34.96161,-99.382279,34.96161],
+  "bbox": [
+    -99.382279,
+    34.96161,
+    -99.382279,
+    34.96161
+],
   "geometry": {"coordinates":[-99.382279,34.96161],"type":"Point"}
 }

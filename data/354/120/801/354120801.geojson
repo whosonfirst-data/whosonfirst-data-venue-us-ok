@@ -2,13 +2,14 @@
   "id": 354120801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.126623,35.254492,-95.126623,35.254492",
     "geom:latitude":35.254492,
     "geom:longitude":-95.126623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 W Main St",
     "sg:city":"Stigler",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354120801,
-    "wof:lastmodified":1449067417,
+    "wof:lastmodified":1466763588,
     "wof:name":"Stigler Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.126623,35.254492,-95.126623,35.254492],
+  "bbox": [
+    -95.126623,
+    35.254492,
+    -95.126623,
+    35.254492
+],
   "geometry": {"coordinates":[-95.126623,35.254492],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336722993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.004867,34.402172,-99.004867,34.402172",
     "geom:latitude":34.402172,
     "geom:longitude":-99.004867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 N 19th St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336722993,
-    "wof:lastmodified":1448997304,
+    "wof:lastmodified":1466764073,
     "wof:name":"Phillip Brannon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.004867,34.402172,-99.004867,34.402172],
+  "bbox": [
+    -99.004867,
+    34.402172,
+    -99.004867,
+    34.402172
+],
   "geometry": {"coordinates":[-99.004867,34.402172],"type":"Point"}
 }

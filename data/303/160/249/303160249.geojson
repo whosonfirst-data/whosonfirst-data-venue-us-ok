@@ -2,13 +2,14 @@
   "id": 303160249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.859896,36.083522,-95.859896,36.083522",
     "geom:latitude":36.083522,
     "geom:longitude":-95.859896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10404 E 55th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303160249,
-    "wof:lastmodified":1449000172,
+    "wof:lastmodified":1466764392,
     "wof:name":"Auto Distinctions",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tinting"
     ]
 },
-  "bbox": [-95.859896,36.083522,-95.859896,36.083522],
-  "geometry": {"coordinates":[-95.859896,36.083522],"type":"Point"}
+  "bbox": [
+    -95.859896,
+    36.083522,
+    -95.859896,
+    36.083522
+],
+  "geometry": {"coordinates":[-95.85989600000001,36.083522],"type":"Point"}
 }

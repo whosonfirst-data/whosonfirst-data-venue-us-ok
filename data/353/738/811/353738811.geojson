@@ -2,13 +2,14 @@
   "id": 353738811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.294889,35.562887,-97.294889,35.562887",
     "geom:latitude":35.562887,
     "geom:longitude":-97.294889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"277 SW 6th St",
     "sg:city":"Jones",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353738811,
-    "wof:lastmodified":1449020105,
+    "wof:lastmodified":1466764947,
     "wof:name":"Oak Forest Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.294889,35.562887,-97.294889,35.562887],
+  "bbox": [
+    -97.294889,
+    35.562887,
+    -97.294889,
+    35.562887
+],
   "geometry": {"coordinates":[-97.294889,35.562887],"type":"Point"}
 }

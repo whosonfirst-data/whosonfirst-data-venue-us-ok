@@ -2,13 +2,14 @@
   "id": 303191231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976148,36.062795,-95.976148,36.062795",
     "geom:latitude":36.062795,
     "geom:longitude":-95.976148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6841 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303191231,
-    "wof:lastmodified":1448999601,
+    "wof:lastmodified":1466764384,
     "wof:name":"Professional Therapeutic Ctr",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-95.976148,36.062795,-95.976148,36.062795],
-  "geometry": {"coordinates":[-95.976148,36.062795],"type":"Point"}
+  "bbox": [
+    -95.976148,
+    36.062795,
+    -95.976148,
+    36.062795
+],
+  "geometry": {"coordinates":[-95.97614799999999,36.062795],"type":"Point"}
 }

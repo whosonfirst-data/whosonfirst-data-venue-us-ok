@@ -2,13 +2,14 @@
   "id": 320822783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.891111,36.177146,-95.891111,36.177146",
     "geom:latitude":36.177146,
     "geom:longitude":-95.891111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7543 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320822783,
-    "wof:lastmodified":1449014845,
+    "wof:lastmodified":1466766886,
     "wof:name":"Interstate Truck Rental",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-95.891111,36.177146,-95.891111,36.177146],
+  "bbox": [
+    -95.891111,
+    36.177146,
+    -95.891111,
+    36.177146
+],
   "geometry": {"coordinates":[-95.891111,36.177146],"type":"Point"}
 }

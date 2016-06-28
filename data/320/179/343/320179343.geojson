@@ -2,13 +2,14 @@
   "id": 320179343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.642727,35.591875,-97.642727,35.591875",
     "geom:latitude":35.591875,
     "geom:longitude":-97.642727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 NW 118th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320179343,
-    "wof:lastmodified":1449014579,
+    "wof:lastmodified":1466764495,
     "wof:name":"Monica D Switzer DDS PC",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-97.642727,35.591875,-97.642727,35.591875],
-  "geometry": {"coordinates":[-97.642727,35.591875],"type":"Point"}
+  "bbox": [
+    -97.642727,
+    35.591875,
+    -97.642727,
+    35.591875
+],
+  "geometry": {"coordinates":[-97.64272699999999,35.591875],"type":"Point"}
 }

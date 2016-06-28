@@ -2,13 +2,14 @@
   "id": 304045775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.53408,35.490096,-97.53408,35.490096",
     "geom:latitude":35.490096,
     "geom:longitude":-97.53408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1318 NW 20th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304045775,
-    "wof:lastmodified":1449044094,
+    "wof:lastmodified":1466763091,
     "wof:name":"After 9 Shoes",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woman"
     ]
 },
-  "bbox": [-97.53408,35.490096,-97.53408,35.490096],
+  "bbox": [
+    -97.53408,
+    35.490096,
+    -97.53408,
+    35.490096
+],
   "geometry": {"coordinates":[-97.53408,35.490096],"type":"Point"}
 }

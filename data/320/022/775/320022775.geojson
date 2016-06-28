@@ -2,13 +2,14 @@
   "id": 320022775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.880436,36.585571,-98.880436,36.585571",
     "geom:latitude":36.585571,
     "geom:longitude":-98.880436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 E Cecil St",
     "sg:city":"Waynoka",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":320022775,
-    "wof:lastmodified":1449012513,
+    "wof:lastmodified":1466762624,
     "wof:name":"Frank's Department Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "family"
     ]
 },
-  "bbox": [-98.880436,36.585571,-98.880436,36.585571],
+  "bbox": [
+    -98.880436,
+    36.585571,
+    -98.880436,
+    36.585571
+],
   "geometry": {"coordinates":[-98.880436,36.585571],"type":"Point"}
 }

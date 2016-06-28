@@ -2,13 +2,14 @@
   "id": 303699295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.970738,35.515326,-98.970738,35.515326",
     "geom:latitude":35.515326,
     "geom:longitude":-98.970738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 W Gary Blvd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303699295,
-    "wof:lastmodified":1448998453,
+    "wof:lastmodified":1466766600,
     "wof:name":"Mike Perkins Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.970738,35.515326,-98.970738,35.515326],
+  "bbox": [
+    -98.970738,
+    35.515326,
+    -98.970738,
+    35.515326
+],
   "geometry": {"coordinates":[-98.970738,35.515326],"type":"Point"}
 }

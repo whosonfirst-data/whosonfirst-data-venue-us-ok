@@ -2,13 +2,14 @@
   "id": 303371245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.501121,35.249347,-97.501121,35.249347",
     "geom:latitude":35.249347,
     "geom:longitude":-97.501121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 Hatterly Ln",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303371245,
-    "wof:lastmodified":1449000020,
+    "wof:lastmodified":1466765187,
     "wof:name":"Pinehurst Homes LLC",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.501121,35.249347,-97.501121,35.249347],
+  "bbox": [
+    -97.501121,
+    35.249347,
+    -97.501121,
+    35.249347
+],
   "geometry": {"coordinates":[-97.501121,35.249347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303665837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.765391,35.985117,-96.765391,35.985117",
     "geom:latitude":35.985117,
     "geom:longitude":-96.765391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 E Main St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303665837,
-    "wof:lastmodified":1448998864,
+    "wof:lastmodified":1466766329,
     "wof:name":"R & M Race Trailers LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.765391,35.985117,-96.765391,35.985117],
-  "geometry": {"coordinates":[-96.765391,35.985117],"type":"Point"}
+  "bbox": [
+    -96.765391,
+    35.985117,
+    -96.765391,
+    35.985117
+],
+  "geometry": {"coordinates":[-96.76539099999999,35.985117],"type":"Point"}
 }

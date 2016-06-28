@@ -2,13 +2,14 @@
   "id": 320152047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.941969,35.029481,-97.941969,35.029481",
     "geom:latitude":35.029481,
     "geom:longitude":-97.941969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"759 W Grand Ave",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320152047,
-    "wof:lastmodified":1449014108,
+    "wof:lastmodified":1466764478,
     "wof:name":"Homeland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.941969,35.029481,-97.941969,35.029481],
+  "bbox": [
+    -97.941969,
+    35.029481,
+    -97.941969,
+    35.029481
+],
   "geometry": {"coordinates":[-97.941969,35.029481],"type":"Point"}
 }

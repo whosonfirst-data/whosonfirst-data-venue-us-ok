@@ -2,13 +2,14 @@
   "id": 320437819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.493356,35.420897,-97.493356,35.420897",
     "geom:latitude":35.420897,
     "geom:longitude":-97.493356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 SE 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320437819,
-    "wof:lastmodified":1449013959,
+    "wof:lastmodified":1466765922,
     "wof:name":"Omars Auto Repair",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.493356,35.420897,-97.493356,35.420897],
-  "geometry": {"coordinates":[-97.493356,35.420897],"type":"Point"}
+  "bbox": [
+    -97.493356,
+    35.420897,
+    -97.493356,
+    35.420897
+],
+  "geometry": {"coordinates":[-97.49335600000001,35.420897],"type":"Point"}
 }

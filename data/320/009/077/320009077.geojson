@@ -2,13 +2,14 @@
   "id": 320009077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.862541,36.097184,-95.862541,36.097184",
     "geom:latitude":36.097184,
     "geom:longitude":-95.862541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4573 S 102nd East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320009077,
-    "wof:lastmodified":1449014894,
+    "wof:lastmodified":1466762413,
     "wof:name":"Sundown Custom Pools",
     "wof:parent_id":85802911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-95.862541,36.097184,-95.862541,36.097184],
-  "geometry": {"coordinates":[-95.862541,36.097184],"type":"Point"}
+  "bbox": [
+    -95.862541,
+    36.097184,
+    -95.862541,
+    36.097184
+],
+  "geometry": {"coordinates":[-95.86254099999999,36.097184],"type":"Point"}
 }

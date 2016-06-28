@@ -2,13 +2,14 @@
   "id": 336606005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.973327,36.152142,-95.973327,36.152142",
     "geom:latitude":36.152142,
     "geom:longitude":-95.973327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"552 S Quincy Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336606005,
-    "wof:lastmodified":1448997111,
+    "wof:lastmodified":1466764241,
     "wof:name":"Brown & Hartman Engraving Co",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engraver"
     ]
 },
-  "bbox": [-95.973327,36.152142,-95.973327,36.152142],
+  "bbox": [
+    -95.973327,
+    36.152142,
+    -95.973327,
+    36.152142
+],
   "geometry": {"coordinates":[-95.973327,36.152142],"type":"Point"}
 }

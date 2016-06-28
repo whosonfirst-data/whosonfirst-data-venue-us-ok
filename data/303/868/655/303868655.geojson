@@ -2,13 +2,14 @@
   "id": 303868655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517649,35.505692,-97.517649,35.505692",
     "geom:latitude":35.505692,
     "geom:longitude":-97.517649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 NW 35th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303868655,
-    "wof:lastmodified":1448998228,
+    "wof:lastmodified":1466766900,
     "wof:name":"Carols Workshop Inc",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "playground"
     ]
 },
-  "bbox": [-97.517649,35.505692,-97.517649,35.505692],
-  "geometry": {"coordinates":[-97.517649,35.505692],"type":"Point"}
+  "bbox": [
+    -97.517649,
+    35.505692,
+    -97.517649,
+    35.505692
+],
+  "geometry": {"coordinates":[-97.51764900000001,35.505692],"type":"Point"}
 }

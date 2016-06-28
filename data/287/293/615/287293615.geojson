@@ -2,13 +2,14 @@
   "id": 287293615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.587063,35.594715,-97.587063,35.594715",
     "geom:latitude":35.594715,
     "geom:longitude":-97.587063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 NW 122nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287293615,
-    "wof:lastmodified":1449000836,
+    "wof:lastmodified":1466763335,
     "wof:name":"First Enterprise Bank Inc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-97.587063,35.594715,-97.587063,35.594715],
+  "bbox": [
+    -97.587063,
+    35.594715,
+    -97.587063,
+    35.594715
+],
   "geometry": {"coordinates":[-97.587063,35.594715],"type":"Point"}
 }

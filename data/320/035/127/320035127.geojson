@@ -2,13 +2,14 @@
   "id": 320035127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.884403,36.097871,-95.884403,36.097871",
     "geom:latitude":36.097871,
     "geom:longitude":-95.884403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8155 E 46th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320035127,
-    "wof:lastmodified":1449014251,
+    "wof:lastmodified":1466762808,
     "wof:name":"Onx",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.884403,36.097871,-95.884403,36.097871],
-  "geometry": {"coordinates":[-95.884403,36.097871],"type":"Point"}
+  "bbox": [
+    -95.884403,
+    36.097871,
+    -95.884403,
+    36.097871
+],
+  "geometry": {"coordinates":[-95.88440300000001,36.097871],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320710099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.506533,35.406152,-97.506533,35.406152",
     "geom:latitude":35.406152,
     "geom:longitude":-97.506533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 SE 59th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320710099,
-    "wof:lastmodified":1449011480,
+    "wof:lastmodified":1466766441,
     "wof:name":"Frank Smith's Upholstery",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-97.506533,35.406152,-97.506533,35.406152],
+  "bbox": [
+    -97.506533,
+    35.406152,
+    -97.506533,
+    35.406152
+],
   "geometry": {"coordinates":[-97.506533,35.406152],"type":"Point"}
 }

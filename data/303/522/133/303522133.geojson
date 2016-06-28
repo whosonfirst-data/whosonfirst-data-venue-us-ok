@@ -2,13 +2,14 @@
   "id": 303522133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.958371,36.091086,-95.958371,36.091086",
     "geom:latitude":36.091086,
     "geom:longitude":-95.958371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2241 E Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303522133,
-    "wof:lastmodified":1448999287,
+    "wof:lastmodified":1466765935,
     "wof:name":"Helberg Intl",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.958371,36.091086,-95.958371,36.091086],
+  "bbox": [
+    -95.958371,
+    36.091086,
+    -95.958371,
+    36.091086
+],
   "geometry": {"coordinates":[-95.958371,36.091086],"type":"Point"}
 }

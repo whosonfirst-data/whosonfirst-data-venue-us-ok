@@ -2,13 +2,14 @@
   "id": 220136791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.45745,35.203921,-97.45745,35.203921",
     "geom:latitude":35.203921,
     "geom:longitude":-97.45745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 W Lindsey St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":220136791,
-    "wof:lastmodified":1449074868,
+    "wof:lastmodified":1466763577,
     "wof:name":"Texadelphia",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-97.45745,35.203921,-97.45745,35.203921],
-  "geometry": {"coordinates":[-97.45745,35.203921],"type":"Point"}
+  "bbox": [
+    -97.45745,
+    35.203921,
+    -97.45745,
+    35.203921
+],
+  "geometry": {"coordinates":[-97.45744999999999,35.203921],"type":"Point"}
 }

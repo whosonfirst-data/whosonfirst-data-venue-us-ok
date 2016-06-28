@@ -2,13 +2,14 @@
   "id": 320650501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.992842,36.176978,-95.992842,36.176978",
     "geom:latitude":36.176978,
     "geom:longitude":-95.992842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":320650501,
-    "wof:lastmodified":1449013533,
+    "wof:lastmodified":1466766303,
     "wof:name":"NAACP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.992842,36.176978,-95.992842,36.176978],
+  "bbox": [
+    -95.992842,
+    36.176978,
+    -95.992842,
+    36.176978
+],
   "geometry": {"coordinates":[-95.992842,36.176978],"type":"Point"}
 }

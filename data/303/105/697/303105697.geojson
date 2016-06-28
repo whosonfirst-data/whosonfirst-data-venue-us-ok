@@ -2,13 +2,14 @@
   "id": 303105697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940023,36.060756,-95.940023,36.060756",
     "geom:latitude":36.060756,
     "geom:longitude":-95.940023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303105697,
-    "wof:lastmodified":1448999049,
+    "wof:lastmodified":1466763330,
     "wof:name":"Al Telphone Service",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-95.940023,36.060756,-95.940023,36.060756],
+  "bbox": [
+    -95.940023,
+    36.060756,
+    -95.940023,
+    36.060756
+],
   "geometry": {"coordinates":[-95.940023,36.060756],"type":"Point"}
 }

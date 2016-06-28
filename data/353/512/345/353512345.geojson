@@ -2,13 +2,14 @@
   "id": 353512345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.482264,36.365304,-95.482264,36.365304",
     "geom:latitude":36.365304,
     "geom:longitude":-95.482264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19703 Helt Rd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353512345,
-    "wof:lastmodified":1449020104,
+    "wof:lastmodified":1466763309,
     "wof:name":"Mike's Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-95.482264,36.365304,-95.482264,36.365304],
+  "bbox": [
+    -95.482264,
+    36.365304,
+    -95.482264,
+    36.365304
+],
   "geometry": {"coordinates":[-95.482264,36.365304],"type":"Point"}
 }

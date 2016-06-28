@@ -2,13 +2,14 @@
   "id": 336909937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.661021,35.485588,-97.661021,35.485588",
     "geom:latitude":35.485588,
     "geom:longitude":-97.661021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 N Davis Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336909937,
-    "wof:lastmodified":1448997754,
+    "wof:lastmodified":1466765260,
     "wof:name":"Pioneer Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "easel"
     ]
 },
-  "bbox": [-97.661021,35.485588,-97.661021,35.485588],
-  "geometry": {"coordinates":[-97.661021,35.485588],"type":"Point"}
+  "bbox": [
+    -97.661021,
+    35.485588,
+    -97.661021,
+    35.485588
+],
+  "geometry": {"coordinates":[-97.66102100000001,35.485588],"type":"Point"}
 }

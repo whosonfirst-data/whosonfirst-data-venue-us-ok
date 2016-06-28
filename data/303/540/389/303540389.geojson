@@ -2,13 +2,14 @@
   "id": 303540389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.984019,36.13248,-95.984019,36.13248",
     "geom:latitude":36.13248,
     "geom:longitude":-95.984019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2106 S Cincinnati Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303540389,
-    "wof:lastmodified":1448999082,
+    "wof:lastmodified":1466765906,
     "wof:name":"N-Home Personal Care",
     "wof:parent_id":85872487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-95.984019,36.13248,-95.984019,36.13248],
+  "bbox": [
+    -95.984019,
+    36.13248,
+    -95.984019,
+    36.13248
+],
   "geometry": {"coordinates":[-95.984019,36.13248],"type":"Point"}
 }

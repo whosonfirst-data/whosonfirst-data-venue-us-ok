@@ -2,13 +2,14 @@
   "id": 320581235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.525549,35.440575,-97.525549,35.440575",
     "geom:latitude":35.440575,
     "geom:longitude":-97.525549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 SW 24th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320581235,
-    "wof:lastmodified":1449012042,
+    "wof:lastmodified":1466766258,
     "wof:name":"International Land Svc Inc",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "land"
     ]
 },
-  "bbox": [-97.525549,35.440575,-97.525549,35.440575],
+  "bbox": [
+    -97.525549,
+    35.440575,
+    -97.525549,
+    35.440575
+],
   "geometry": {"coordinates":[-97.525549,35.440575],"type":"Point"}
 }

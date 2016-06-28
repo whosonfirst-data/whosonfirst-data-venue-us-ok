@@ -2,13 +2,14 @@
   "id": 336617241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.983893,36.148,-95.983893,36.148",
     "geom:latitude":36.148,
     "geom:longitude":-95.983893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 S Detroit Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336617241,
-    "wof:lastmodified":1448996949,
+    "wof:lastmodified":1466762444,
     "wof:name":"Insurance Fund",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-95.983893,36.148,-95.983893,36.148],
-  "geometry": {"coordinates":[-95.983893,36.148],"type":"Point"}
+  "bbox": [
+    -95.983893,
+    36.148,
+    -95.983893,
+    36.148
+],
+  "geometry": {"coordinates":[-95.98389299999999,36.148],"type":"Point"}
 }

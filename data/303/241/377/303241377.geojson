@@ -2,13 +2,14 @@
   "id": 303241377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.758609,34.898259,-95.758609,34.898259",
     "geom:latitude":34.898259,
     "geom:longitude":-95.758609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 S George Nigh Expy",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303241377,
-    "wof:lastmodified":1449000502,
+    "wof:lastmodified":1466764666,
     "wof:name":"Nix Chevrolet-Oldsmobile",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.758609,34.898259,-95.758609,34.898259],
-  "geometry": {"coordinates":[-95.758609,34.898259],"type":"Point"}
+  "bbox": [
+    -95.758609,
+    34.898259,
+    -95.758609,
+    34.898259
+],
+  "geometry": {"coordinates":[-95.75860900000001,34.898259],"type":"Point"}
 }

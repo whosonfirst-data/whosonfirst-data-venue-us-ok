@@ -2,13 +2,14 @@
   "id": 353922241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.941524,36.133452,-95.941524,36.133452",
     "geom:latitude":36.133452,
     "geom:longitude":-95.941524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 S Gary Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353922241,
-    "wof:lastmodified":1449018492,
+    "wof:lastmodified":1466765729,
     "wof:name":"Lindquist Reporting",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-95.941524,36.133452,-95.941524,36.133452],
+  "bbox": [
+    -95.941524,
+    36.133452,
+    -95.941524,
+    36.133452
+],
   "geometry": {"coordinates":[-95.941524,36.133452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353813491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.769301,34.935453,-95.769301,34.935453",
     "geom:latitude":34.935453,
     "geom:longitude":-95.769301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 N Main St",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353813491,
-    "wof:lastmodified":1449018917,
+    "wof:lastmodified":1466765287,
     "wof:name":"Long's Auto Sales",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.769301,34.935453,-95.769301,34.935453],
+  "bbox": [
+    -95.769301,
+    34.935453,
+    -95.769301,
+    34.935453
+],
   "geometry": {"coordinates":[-95.769301,34.935453],"type":"Point"}
 }

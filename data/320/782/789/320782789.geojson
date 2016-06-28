@@ -2,13 +2,14 @@
   "id": 320782789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.44129,35.423691,-97.44129,35.423691",
     "geom:latitude":35.423691,
     "geom:longitude":-97.44129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 S Sunnylane Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320782789,
-    "wof:lastmodified":1449011245,
+    "wof:lastmodified":1466766668,
     "wof:name":"Banc First",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.44129,35.423691,-97.44129,35.423691],
+  "bbox": [
+    -97.44129,
+    35.423691,
+    -97.44129,
+    35.423691
+],
   "geometry": {"coordinates":[-97.44129,35.423691],"type":"Point"}
 }

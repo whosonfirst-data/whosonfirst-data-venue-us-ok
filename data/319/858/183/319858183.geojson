@@ -2,13 +2,14 @@
   "id": 319858183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.838087,36.870529,-94.838087,36.870529",
     "geom:latitude":36.870529,
     "geom:longitude":-94.838087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Eastgate Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319858183,
-    "wof:lastmodified":1449024188,
+    "wof:lastmodified":1466763249,
     "wof:name":"Ministerial Alliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.838087,36.870529,-94.838087,36.870529],
+  "bbox": [
+    -94.838087,
+    36.870529,
+    -94.838087,
+    36.870529
+],
   "geometry": {"coordinates":[-94.838087,36.870529],"type":"Point"}
 }

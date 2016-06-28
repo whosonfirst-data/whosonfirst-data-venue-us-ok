@@ -2,13 +2,14 @@
   "id": 320575181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.347387,35.745749,-95.347387,35.745749",
     "geom:latitude":35.745749,
     "geom:longitude":-95.347387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 N S St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320575181,
-    "wof:lastmodified":1449012344,
+    "wof:lastmodified":1466766226,
     "wof:name":"Alice Robertson Middle School",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.347387,35.745749,-95.347387,35.745749],
+  "bbox": [
+    -95.347387,
+    35.745749,
+    -95.347387,
+    35.745749
+],
   "geometry": {"coordinates":[-95.347387,35.745749],"type":"Point"}
 }

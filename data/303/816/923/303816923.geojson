@@ -2,13 +2,14 @@
   "id": 303816923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.256148,35.397138,-97.256148,35.397138",
     "geom:latitude":35.397138,
     "geom:longitude":-97.256148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15408 SE 71st St",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303816923,
-    "wof:lastmodified":1448999546,
+    "wof:lastmodified":1466766827,
     "wof:name":"Hawk Strategies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.256148,35.397138,-97.256148,35.397138],
+  "bbox": [
+    -97.256148,
+    35.397138,
+    -97.256148,
+    35.397138
+],
   "geometry": {"coordinates":[-97.256148,35.397138],"type":"Point"}
 }

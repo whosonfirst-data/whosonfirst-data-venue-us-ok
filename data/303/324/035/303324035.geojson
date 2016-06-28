@@ -2,13 +2,14 @@
   "id": 303324035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.721426,35.392449,-97.721426,35.392449",
     "geom:latitude":35.392449,
     "geom:longitude":-97.721426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 N Trade Center Ter",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303324035,
-    "wof:lastmodified":1448999550,
+    "wof:lastmodified":1466765145,
     "wof:name":"Mustang Munchies",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.721426,35.392449,-97.721426,35.392449],
-  "geometry": {"coordinates":[-97.721426,35.392449],"type":"Point"}
+  "bbox": [
+    -97.721426,
+    35.392449,
+    -97.721426,
+    35.392449
+],
+  "geometry": {"coordinates":[-97.72142599999999,35.392449],"type":"Point"}
 }

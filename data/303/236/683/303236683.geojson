@@ -2,13 +2,14 @@
   "id": 303236683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.970846,34.52173,-97.970846,34.52173",
     "geom:latitude":34.52173,
     "geom:longitude":-97.970846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1927 W Elk Ave",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303236683,
-    "wof:lastmodified":1448998381,
+    "wof:lastmodified":1466764508,
     "wof:name":"Ascog Workforce Development",
     "wof:parent_id":85839261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.970846,34.52173,-97.970846,34.52173],
-  "geometry": {"coordinates":[-97.970846,34.52173],"type":"Point"}
+  "bbox": [
+    -97.970846,
+    34.52173,
+    -97.970846,
+    34.52173
+],
+  "geometry": {"coordinates":[-97.97084599999999,34.52173],"type":"Point"}
 }

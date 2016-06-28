@@ -2,13 +2,14 @@
   "id": 303275415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.166483,36.084082,-96.166483,36.084082",
     "geom:latitude":36.084082,
     "geom:longitude":-96.166483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5656 S 155th W Ave",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303275415,
-    "wof:lastmodified":1448998901,
+    "wof:lastmodified":1466764745,
     "wof:name":"Bryan Burggraf Inc",
     "wof:parent_id":85843055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "iron"
     ]
 },
-  "bbox": [-96.166483,36.084082,-96.166483,36.084082],
+  "bbox": [
+    -96.166483,
+    36.084082,
+    -96.166483,
+    36.084082
+],
   "geometry": {"coordinates":[-96.166483,36.084082],"type":"Point"}
 }

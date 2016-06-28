@@ -2,13 +2,14 @@
   "id": 354063323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.890105,36.033054,-95.890105,36.033054",
     "geom:latitude":36.033054,
     "geom:longitude":-95.890105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9022 S 77th E Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354063323,
-    "wof:lastmodified":1449066076,
+    "wof:lastmodified":1466763358,
     "wof:name":"Duren & Assoc",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.890105,36.033054,-95.890105,36.033054],
-  "geometry": {"coordinates":[-95.890105,36.033054],"type":"Point"}
+  "bbox": [
+    -95.890105,
+    36.033054,
+    -95.890105,
+    36.033054
+],
+  "geometry": {"coordinates":[-95.89010500000001,36.033054],"type":"Point"}
 }

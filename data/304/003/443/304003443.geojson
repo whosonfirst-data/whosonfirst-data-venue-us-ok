@@ -2,13 +2,14 @@
   "id": 304003443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.307881,34.918874,-95.307881,34.918874",
     "geom:latitude":34.918874,
     "geom:longitude":-95.307881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Main St",
     "sg:city":"Wilburton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304003443,
-    "wof:lastmodified":1449044126,
+    "wof:lastmodified":1466762841,
     "wof:name":"Little Dixie Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.307881,34.918874,-95.307881,34.918874],
-  "geometry": {"coordinates":[-95.307881,34.918874],"type":"Point"}
+  "bbox": [
+    -95.307881,
+    34.918874,
+    -95.307881,
+    34.918874
+],
+  "geometry": {"coordinates":[-95.30788099999999,34.918874],"type":"Point"}
 }

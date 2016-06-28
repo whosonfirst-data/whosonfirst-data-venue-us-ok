@@ -2,13 +2,14 @@
   "id": 353810369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.161217,35.406093,-97.161217,35.406093",
     "geom:latitude":35.406093,
     "geom:longitude":-97.161217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20800 SE 59th St",
     "sg:city":"Newalla",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353810369,
-    "wof:lastmodified":1449019016,
+    "wof:lastmodified":1466765382,
     "wof:name":"Newalla First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.161217,35.406093,-97.161217,35.406093],
-  "geometry": {"coordinates":[-97.161217,35.406093],"type":"Point"}
+  "bbox": [
+    -97.161217,
+    35.406093,
+    -97.161217,
+    35.406093
+],
+  "geometry": {"coordinates":[-97.16121699999999,35.406093],"type":"Point"}
 }

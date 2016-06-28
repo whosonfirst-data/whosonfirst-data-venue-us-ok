@@ -2,13 +2,14 @@
   "id": 287138803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.194499,35.228339,-97.194499,35.228339",
     "geom:latitude":35.228339,
     "geom:longitude":-97.194499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 168th Ave NE",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287138803,
-    "wof:lastmodified":1449000901,
+    "wof:lastmodified":1466763636,
     "wof:name":"Little Axe Community Ctr",
     "wof:parent_id":85830865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-97.194499,35.228339,-97.194499,35.228339],
-  "geometry": {"coordinates":[-97.194499,35.228339],"type":"Point"}
+  "bbox": [
+    -97.194499,
+    35.228339,
+    -97.194499,
+    35.228339
+],
+  "geometry": {"coordinates":[-97.19449899999999,35.228339],"type":"Point"}
 }

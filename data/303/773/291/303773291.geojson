@@ -2,13 +2,14 @@
   "id": 303773291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.416627,34.639934,-98.416627,34.639934",
     "geom:latitude":34.639934,
     "geom:longitude":-98.416627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6620 Lucas Ave",
     "sg:city":"Fort Sill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303773291,
-    "wof:lastmodified":1448998428,
+    "wof:lastmodified":1466766665,
     "wof:name":"Jennifer E Legg",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "administrative"
     ]
 },
-  "bbox": [-98.416627,34.639934,-98.416627,34.639934],
-  "geometry": {"coordinates":[-98.416627,34.639934],"type":"Point"}
+  "bbox": [
+    -98.416627,
+    34.639934,
+    -98.416627,
+    34.639934
+],
+  "geometry": {"coordinates":[-98.41662700000001,34.639934],"type":"Point"}
 }

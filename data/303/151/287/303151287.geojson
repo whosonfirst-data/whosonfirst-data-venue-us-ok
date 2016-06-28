@@ -2,13 +2,14 @@
   "id": 303151287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.428122,35.449645,-97.428122,35.449645",
     "geom:latitude":35.449645,
     "geom:longitude":-97.428122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 Howard Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303151287,
-    "wof:lastmodified":1448998142,
+    "wof:lastmodified":1466764061,
     "wof:name":"Northstar Mortgage LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-97.428122,35.449645,-97.428122,35.449645],
+  "bbox": [
+    -97.428122,
+    35.449645,
+    -97.428122,
+    35.449645
+],
   "geometry": {"coordinates":[-97.428122,35.449645],"type":"Point"}
 }

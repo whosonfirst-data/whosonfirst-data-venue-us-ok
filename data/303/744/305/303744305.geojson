@@ -2,13 +2,14 @@
   "id": 303744305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.429471,35.757133,-95.429471,35.757133",
     "geom:latitude":35.757133,
     "geom:longitude":-95.429471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N 54th St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303744305,
-    "wof:lastmodified":1448999000,
+    "wof:lastmodified":1466766682,
     "wof:name":"Pershing Elementary School",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.429471,35.757133,-95.429471,35.757133],
-  "geometry": {"coordinates":[-95.429471,35.757133],"type":"Point"}
+  "bbox": [
+    -95.429471,
+    35.757133,
+    -95.429471,
+    35.757133
+],
+  "geometry": {"coordinates":[-95.42947100000001,35.757133],"type":"Point"}
 }

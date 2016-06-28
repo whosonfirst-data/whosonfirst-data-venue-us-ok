@@ -2,13 +2,14 @@
   "id": 304011191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.367193,35.949906,-95.367193,35.949906",
     "geom:latitude":35.949906,
     "geom:longitude":-95.367193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 S McQuarrie Ave",
     "sg:city":"Wagoner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304011191,
-    "wof:lastmodified":1449044046,
+    "wof:lastmodified":1466762869,
     "wof:name":"Olson Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.367193,35.949906,-95.367193,35.949906],
+  "bbox": [
+    -95.367193,
+    35.949906,
+    -95.367193,
+    35.949906
+],
   "geometry": {"coordinates":[-95.367193,35.949906],"type":"Point"}
 }

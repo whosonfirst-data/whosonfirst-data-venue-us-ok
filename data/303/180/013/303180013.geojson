@@ -2,13 +2,14 @@
   "id": 303180013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.960801,34.50442,-97.960801,34.50442",
     "geom:latitude":34.50442,
     "geom:longitude":-97.960801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 W Oak Ave",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303180013,
-    "wof:lastmodified":1448998216,
+    "wof:lastmodified":1466764219,
     "wof:name":"Dinos Dry Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "power"
     ]
 },
-  "bbox": [-97.960801,34.50442,-97.960801,34.50442],
+  "bbox": [
+    -97.960801,
+    34.50442,
+    -97.960801,
+    34.50442
+],
   "geometry": {"coordinates":[-97.960801,34.50442],"type":"Point"}
 }

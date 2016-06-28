@@ -2,13 +2,14 @@
   "id": 336858583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.958176,36.160503,-95.958176,36.160503",
     "geom:latitude":36.160503,
     "geom:longitude":-95.958176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336858583,
-    "wof:lastmodified":1448997040,
+    "wof:lastmodified":1466764861,
     "wof:name":"Whittier News Stand",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-95.958176,36.160503,-95.958176,36.160503],
-  "geometry": {"coordinates":[-95.958176,36.160503],"type":"Point"}
+  "bbox": [
+    -95.958176,
+    36.160503,
+    -95.958176,
+    36.160503
+],
+  "geometry": {"coordinates":[-95.95817599999999,36.160503],"type":"Point"}
 }

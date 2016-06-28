@@ -2,13 +2,14 @@
   "id": 303940919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.477316,34.630829,-98.477316,34.630829",
     "geom:latitude":34.630829,
     "geom:longitude":-98.477316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6702 US Hwy 62",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303940919,
-    "wof:lastmodified":1448998709,
+    "wof:lastmodified":1466767030,
     "wof:name":"GSB Financial Svc",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-98.477316,34.630829,-98.477316,34.630829],
+  "bbox": [
+    -98.477316,
+    34.630829,
+    -98.477316,
+    34.630829
+],
   "geometry": {"coordinates":[-98.477316,34.630829],"type":"Point"}
 }

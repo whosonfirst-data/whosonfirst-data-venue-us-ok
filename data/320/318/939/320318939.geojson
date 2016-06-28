@@ -2,13 +2,14 @@
   "id": 320318939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.343005,34.642135,-99.343005,34.642135",
     "geom:latitude":34.642135,
     "geom:longitude":-99.343005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 W Sutherland St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320318939,
-    "wof:lastmodified":1449012080,
+    "wof:lastmodified":1466765186,
     "wof:name":"New Hope Out Patient Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-99.343005,34.642135,-99.343005,34.642135],
-  "geometry": {"coordinates":[-99.343005,34.642135],"type":"Point"}
+  "bbox": [
+    -99.343005,
+    34.642135,
+    -99.343005,
+    34.642135
+],
+  "geometry": {"coordinates":[-99.34300500000001,34.642135],"type":"Point"}
 }

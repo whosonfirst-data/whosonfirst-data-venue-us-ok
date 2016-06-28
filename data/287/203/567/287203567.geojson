@@ -2,13 +2,14 @@
   "id": 287203567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.979663,34.505277,-96.979663,34.505277",
     "geom:latitude":34.505277,
     "geom:longitude":-96.979663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W 10th St",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287203567,
-    "wof:lastmodified":1449001056,
+    "wof:lastmodified":1466764002,
     "wof:name":"Murray County Sheriff Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sheriff"
     ]
 },
-  "bbox": [-96.979663,34.505277,-96.979663,34.505277],
+  "bbox": [
+    -96.979663,
+    34.505277,
+    -96.979663,
+    34.505277
+],
   "geometry": {"coordinates":[-96.979663,34.505277],"type":"Point"}
 }

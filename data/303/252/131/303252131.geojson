@@ -2,13 +2,14 @@
   "id": 303252131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975132,35.628847,-95.975132,35.628847",
     "geom:latitude":35.628847,
     "geom:longitude":-95.975132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N Okmulgee Ave",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303252131,
-    "wof:lastmodified":1448998440,
+    "wof:lastmodified":1466764631,
     "wof:name":"Okmulgee Counseling Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty"
     ]
 },
-  "bbox": [-95.975132,35.628847,-95.975132,35.628847],
+  "bbox": [
+    -95.975132,
+    35.628847,
+    -95.975132,
+    35.628847
+],
   "geometry": {"coordinates":[-95.975132,35.628847],"type":"Point"}
 }

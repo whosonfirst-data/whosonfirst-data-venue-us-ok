@@ -2,13 +2,14 @@
   "id": 303984231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.964902,36.056315,-95.964902,36.056315",
     "geom:latitude":36.056315,
     "geom:longitude":-95.964902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 E 74th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303984231,
-    "wof:lastmodified":1448999505,
+    "wof:lastmodified":1466767118,
     "wof:name":"F Oxfire Apartments",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.964902,36.056315,-95.964902,36.056315],
+  "bbox": [
+    -95.964902,
+    36.056315,
+    -95.964902,
+    36.056315
+],
   "geometry": {"coordinates":[-95.964902,36.056315],"type":"Point"}
 }

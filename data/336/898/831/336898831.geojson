@@ -2,13 +2,14 @@
   "id": 336898831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.016995,34.383182,-99.016995,34.383182",
     "geom:latitude":34.383182,
     "geom:longitude":-99.016995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 S Main St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336898831,
-    "wof:lastmodified":1448996902,
+    "wof:lastmodified":1466765210,
     "wof:name":"Jaymar Plumbing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-99.016995,34.383182,-99.016995,34.383182],
-  "geometry": {"coordinates":[-99.016995,34.383182],"type":"Point"}
+  "bbox": [
+    -99.016995,
+    34.383182,
+    -99.016995,
+    34.383182
+],
+  "geometry": {"coordinates":[-99.01699499999999,34.383182],"type":"Point"}
 }

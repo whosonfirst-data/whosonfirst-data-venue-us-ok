@@ -2,13 +2,14 @@
   "id": 303392383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.340295,35.751721,-95.340295,35.751721",
     "geom:latitude":35.751721,
     "geom:longitude":-95.340295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 N York St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303392383,
-    "wof:lastmodified":1449000080,
+    "wof:lastmodified":1466765296,
     "wof:name":"Oklahoma Custom Golf",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.340295,35.751721,-95.340295,35.751721],
+  "bbox": [
+    -95.340295,
+    35.751721,
+    -95.340295,
+    35.751721
+],
   "geometry": {"coordinates":[-95.340295,35.751721],"type":"Point"}
 }

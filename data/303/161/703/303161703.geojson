@@ -2,13 +2,14 @@
   "id": 303161703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.476726,35.483496,-97.476726,35.483496",
     "geom:latitude":35.483496,
     "geom:longitude":-97.476726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 N Martin Luther King Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303161703,
-    "wof:lastmodified":1448999087,
+    "wof:lastmodified":1466764267,
     "wof:name":"Mc Ade LLC",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drafting"
     ]
 },
-  "bbox": [-97.476726,35.483496,-97.476726,35.483496],
+  "bbox": [
+    -97.476726,
+    35.483496,
+    -97.476726,
+    35.483496
+],
   "geometry": {"coordinates":[-97.476726,35.483496],"type":"Point"}
 }

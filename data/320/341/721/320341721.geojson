@@ -2,13 +2,14 @@
   "id": 320341721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.947255,36.170805,-95.947255,36.170805",
     "geom:latitude":36.170805,
     "geom:longitude":-95.947255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 N Delaware Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320341721,
-    "wof:lastmodified":1449014802,
+    "wof:lastmodified":1466765307,
     "wof:name":"Chromium Plating",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plating"
     ]
 },
-  "bbox": [-95.947255,36.170805,-95.947255,36.170805],
+  "bbox": [
+    -95.947255,
+    36.170805,
+    -95.947255,
+    36.170805
+],
   "geometry": {"coordinates":[-95.947255,36.170805],"type":"Point"}
 }

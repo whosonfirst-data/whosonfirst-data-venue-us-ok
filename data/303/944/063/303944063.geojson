@@ -2,13 +2,14 @@
   "id": 303944063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.903752,36.168352,-95.903752,36.168352",
     "geom:latitude":36.168352,
     "geom:longitude":-95.903752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6612 E King St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303944063,
-    "wof:lastmodified":1448999341,
+    "wof:lastmodified":1466767019,
     "wof:name":"Royal Cleaners",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-95.903752,36.168352,-95.903752,36.168352],
+  "bbox": [
+    -95.903752,
+    36.168352,
+    -95.903752,
+    36.168352
+],
   "geometry": {"coordinates":[-95.903752,36.168352],"type":"Point"}
 }

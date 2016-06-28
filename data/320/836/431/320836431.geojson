@@ -2,13 +2,14 @@
   "id": 320836431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.401468,36.436055,-99.401468,36.436055",
     "geom:latitude":36.436055,
     "geom:longitude":-99.401468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Main Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320836431,
-    "wof:lastmodified":1449013739,
+    "wof:lastmodified":1466766995,
     "wof:name":"Ben H Benson DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.401468,36.436055,-99.401468,36.436055],
-  "geometry": {"coordinates":[-99.401468,36.436055],"type":"Point"}
+  "bbox": [
+    -99.401468,
+    36.436055,
+    -99.401468,
+    36.436055
+],
+  "geometry": {"coordinates":[-99.40146799999999,36.436055],"type":"Point"}
 }

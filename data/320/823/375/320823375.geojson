@@ -2,13 +2,14 @@
   "id": 320823375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.971103,34.506839,-96.971103,34.506839",
     "geom:latitude":34.506839,
     "geom:longitude":-96.971103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 W 3rd St",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320823375,
-    "wof:lastmodified":1449014927,
+    "wof:lastmodified":1466766890,
     "wof:name":"Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-96.971103,34.506839,-96.971103,34.506839],
+  "bbox": [
+    -96.971103,
+    34.506839,
+    -96.971103,
+    34.506839
+],
   "geometry": {"coordinates":[-96.971103,34.506839],"type":"Point"}
 }

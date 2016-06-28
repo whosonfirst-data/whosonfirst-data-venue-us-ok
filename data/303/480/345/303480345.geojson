@@ -2,13 +2,14 @@
   "id": 303480345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534236,35.504152,-97.534236,35.504152",
     "geom:latitude":35.504152,
     "geom:longitude":-97.534236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303480345,
-    "wof:lastmodified":1448998914,
+    "wof:lastmodified":1466765771,
     "wof:name":"Neptune Submarine",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.534236,35.504152,-97.534236,35.504152],
-  "geometry": {"coordinates":[-97.534236,35.504152],"type":"Point"}
+  "bbox": [
+    -97.534236,
+    35.504152,
+    -97.534236,
+    35.504152
+],
+  "geometry": {"coordinates":[-97.53423600000001,35.504152],"type":"Point"}
 }

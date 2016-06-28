@@ -2,13 +2,14 @@
   "id": 220200311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.903276,36.060917,-95.903276,36.060917",
     "geom:latitude":36.060917,
     "geom:longitude":-95.903276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6577 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220200311,
-    "wof:lastmodified":1449074358,
+    "wof:lastmodified":1466762585,
     "wof:name":"Bostons Seafood Restaurant",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.903276,36.060917,-95.903276,36.060917],
-  "geometry": {"coordinates":[-95.903276,36.060917],"type":"Point"}
+  "bbox": [
+    -95.903276,
+    36.060917,
+    -95.903276,
+    36.060917
+],
+  "geometry": {"coordinates":[-95.90327600000001,36.060917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353597631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.465406,35.341774,-97.465406,35.341774",
     "geom:latitude":35.341774,
     "geom:longitude":-97.465406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 NE 4th St",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353597631,
-    "wof:lastmodified":1449020744,
+    "wof:lastmodified":1466764371,
     "wof:name":"Moore School District",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.465406,35.341774,-97.465406,35.341774],
+  "bbox": [
+    -97.465406,
+    35.341774,
+    -97.465406,
+    35.341774
+],
   "geometry": {"coordinates":[-97.465406,35.341774],"type":"Point"}
 }

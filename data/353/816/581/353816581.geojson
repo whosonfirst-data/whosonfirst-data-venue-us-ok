@@ -2,13 +2,14 @@
   "id": 353816581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.051527,36.123084,-97.051527,36.123084",
     "geom:latitude":36.123084,
     "geom:longitude":-97.051527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 S Perkins Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353816581,
-    "wof:lastmodified":1449019756,
+    "wof:lastmodified":1466765295,
     "wof:name":"Express Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-97.051527,36.123084,-97.051527,36.123084],
-  "geometry": {"coordinates":[-97.051527,36.123084],"type":"Point"}
+  "bbox": [
+    -97.051527,
+    36.123084,
+    -97.051527,
+    36.123084
+],
+  "geometry": {"coordinates":[-97.05152699999999,36.123084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303260861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.656331,35.593675,-97.656331,35.593675",
     "geom:latitude":35.593675,
     "geom:longitude":-97.656331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12231 N Council Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303260861,
-    "wof:lastmodified":1448998525,
+    "wof:lastmodified":1466764679,
     "wof:name":"Re Max Pros",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.656331,35.593675,-97.656331,35.593675],
-  "geometry": {"coordinates":[-97.656331,35.593675],"type":"Point"}
+  "bbox": [
+    -97.656331,
+    35.593675,
+    -97.656331,
+    35.593675
+],
+  "geometry": {"coordinates":[-97.65633099999999,35.593675],"type":"Point"}
 }

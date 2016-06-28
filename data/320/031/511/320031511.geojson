@@ -2,13 +2,14 @@
   "id": 320031511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.400836,35.74028,-95.400836,35.74028",
     "geom:latitude":35.74028,
     "geom:longitude":-95.400836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 S 28th St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320031511,
-    "wof:lastmodified":1449012667,
+    "wof:lastmodified":1466762757,
     "wof:name":"Isham Tile",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.400836,35.74028,-95.400836,35.74028],
+  "bbox": [
+    -95.400836,
+    35.74028,
+    -95.400836,
+    35.74028
+],
   "geometry": {"coordinates":[-95.400836,35.74028],"type":"Point"}
 }

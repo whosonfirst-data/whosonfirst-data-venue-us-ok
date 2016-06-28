@@ -2,13 +2,14 @@
   "id": 336599201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.44668,35.875029,-97.44668,35.875029",
     "geom:latitude":35.875029,
     "geom:longitude":-97.44668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Lombardy Rd",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336599201,
-    "wof:lastmodified":1448997450,
+    "wof:lastmodified":1466764130,
     "wof:name":"Daycare Provider",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.44668,35.875029,-97.44668,35.875029],
+  "bbox": [
+    -97.44668,
+    35.875029,
+    -97.44668,
+    35.875029
+],
   "geometry": {"coordinates":[-97.44668,35.875029],"type":"Point"}
 }

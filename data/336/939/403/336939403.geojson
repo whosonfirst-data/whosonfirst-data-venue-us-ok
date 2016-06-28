@@ -2,13 +2,14 @@
   "id": 336939403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.392686,33.996194,-96.392686,33.996194",
     "geom:latitude":33.996194,
     "geom:longitude":-96.392686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 W Evergreen St",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336939403,
-    "wof:lastmodified":1448997270,
+    "wof:lastmodified":1466765495,
     "wof:name":"S & W Styling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.392686,33.996194,-96.392686,33.996194],
+  "bbox": [
+    -96.392686,
+    33.996194,
+    -96.392686,
+    33.996194
+],
   "geometry": {"coordinates":[-96.392686,33.996194],"type":"Point"}
 }

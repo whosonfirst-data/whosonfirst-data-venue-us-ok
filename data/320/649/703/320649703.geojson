@@ -2,13 +2,14 @@
   "id": 320649703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.980302,36.112937,-95.980302,36.112937",
     "geom:latitude":36.112937,
     "geom:longitude":-95.980302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 E 35th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320649703,
-    "wof:lastmodified":1449013819,
+    "wof:lastmodified":1466766291,
     "wof:name":"Boston Avenue Travel Inc",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bureau"
     ]
 },
-  "bbox": [-95.980302,36.112937,-95.980302,36.112937],
-  "geometry": {"coordinates":[-95.980302,36.112937],"type":"Point"}
+  "bbox": [
+    -95.980302,
+    36.112937,
+    -95.980302,
+    36.112937
+],
+  "geometry": {"coordinates":[-95.98030199999999,36.112937],"type":"Point"}
 }

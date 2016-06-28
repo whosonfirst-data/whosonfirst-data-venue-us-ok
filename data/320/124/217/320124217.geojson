@@ -2,13 +2,14 @@
   "id": 320124217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.685825,35.540535,-98.685825,35.540535",
     "geom:latitude":35.540535,
     "geom:longitude":-98.685825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Lark St",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320124217,
-    "wof:lastmodified":1449014678,
+    "wof:lastmodified":1466764241,
     "wof:name":"Burcham Primary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.685825,35.540535,-98.685825,35.540535],
-  "geometry": {"coordinates":[-98.685825,35.540535],"type":"Point"}
+  "bbox": [
+    -98.685825,
+    35.540535,
+    -98.685825,
+    35.540535
+],
+  "geometry": {"coordinates":[-98.68582499999999,35.540535],"type":"Point"}
 }

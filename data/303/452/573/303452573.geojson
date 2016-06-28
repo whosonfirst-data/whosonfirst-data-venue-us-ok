@@ -2,13 +2,14 @@
   "id": 303452573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.832585,36.036521,-95.832585,36.036521",
     "geom:latitude":36.036521,
     "geom:longitude":-95.832585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 S Nyssa Pl",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303452573,
-    "wof:lastmodified":1448998687,
+    "wof:lastmodified":1466765669,
     "wof:name":"Siderite Inc",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.832585,36.036521,-95.832585,36.036521],
-  "geometry": {"coordinates":[-95.832585,36.036521],"type":"Point"}
+  "bbox": [
+    -95.832585,
+    36.036521,
+    -95.832585,
+    36.036521
+],
+  "geometry": {"coordinates":[-95.83258499999999,36.036521],"type":"Point"}
 }

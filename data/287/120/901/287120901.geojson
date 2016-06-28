@@ -2,13 +2,14 @@
   "id": 287120901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.963186,36.119964,-95.963186,36.119964",
     "geom:latitude":36.119964,
     "geom:longitude":-95.963186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3006 S Yorktown Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287120901,
-    "wof:lastmodified":1449001446,
+    "wof:lastmodified":1466763572,
     "wof:name":"Consynsus",
     "wof:parent_id":85872479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-95.963186,36.119964,-95.963186,36.119964],
-  "geometry": {"coordinates":[-95.963186,36.119964],"type":"Point"}
+  "bbox": [
+    -95.963186,
+    36.119964,
+    -95.963186,
+    36.119964
+],
+  "geometry": {"coordinates":[-95.96318599999999,36.119964],"type":"Point"}
 }

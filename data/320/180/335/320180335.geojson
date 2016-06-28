@@ -2,13 +2,14 @@
   "id": 320180335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.58385,36.435944,-97.58385,36.435944",
     "geom:latitude":36.435944,
     "geom:longitude":-97.58385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Arapaho St",
     "sg:city":"Garber",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320180335,
-    "wof:lastmodified":1449011411,
+    "wof:lastmodified":1466764495,
     "wof:name":"Immanuel Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.58385,36.435944,-97.58385,36.435944],
+  "bbox": [
+    -97.58385,
+    36.435944,
+    -97.58385,
+    36.435944
+],
   "geometry": {"coordinates":[-97.58385,36.435944],"type":"Point"}
 }

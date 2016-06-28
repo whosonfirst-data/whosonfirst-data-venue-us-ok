@@ -2,13 +2,14 @@
   "id": 287195307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.931939,35.50792,-97.931939,35.50792",
     "geom:latitude":35.50792,
     "geom:longitude":-97.931939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1936 State Hwy 66",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287195307,
-    "wof:lastmodified":1449001268,
+    "wof:lastmodified":1466763949,
     "wof:name":"Drilling Fluids Technology",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "well"
     ]
 },
-  "bbox": [-97.931939,35.50792,-97.931939,35.50792],
+  "bbox": [
+    -97.931939,
+    35.50792,
+    -97.931939,
+    35.50792
+],
   "geometry": {"coordinates":[-97.931939,35.50792],"type":"Point"}
 }

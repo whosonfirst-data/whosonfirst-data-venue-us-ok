@@ -2,13 +2,14 @@
   "id": 303297445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.954675,35.687027,-94.954675,35.687027",
     "geom:latitude":35.687027,
     "geom:longitude":-94.954675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19588 W 916 Rd",
     "sg:city":"Cookson",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303297445,
-    "wof:lastmodified":1448999671,
+    "wof:lastmodified":1466764939,
     "wof:name":"Day Energy Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-94.954675,35.687027,-94.954675,35.687027],
-  "geometry": {"coordinates":[-94.954675,35.687027],"type":"Point"}
+  "bbox": [
+    -94.954675,
+    35.687027,
+    -94.954675,
+    35.687027
+],
+  "geometry": {"coordinates":[-94.95467499999999,35.687027],"type":"Point"}
 }

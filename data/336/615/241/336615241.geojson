@@ -2,13 +2,14 @@
   "id": 336615241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.878233,35.707594,-96.878233,35.707594",
     "geom:latitude":35.707594,
     "geom:longitude":-96.878233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Mickey Clarkson Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336615241,
-    "wof:lastmodified":1448997283,
+    "wof:lastmodified":1466762413,
     "wof:name":"J & J Svc Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-96.878233,35.707594,-96.878233,35.707594],
-  "geometry": {"coordinates":[-96.878233,35.707594],"type":"Point"}
+  "bbox": [
+    -96.878233,
+    35.707594,
+    -96.878233,
+    35.707594
+],
+  "geometry": {"coordinates":[-96.87823299999999,35.707594],"type":"Point"}
 }

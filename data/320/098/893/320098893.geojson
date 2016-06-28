@@ -2,13 +2,14 @@
   "id": 320098893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.449339,35.677528,-97.449339,35.677528",
     "geom:latitude":35.677528,
     "geom:longitude":-97.449339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 Windsong",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320098893,
-    "wof:lastmodified":1449014571,
+    "wof:lastmodified":1466763751,
     "wof:name":"Sequoyah Communications Inc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wiring"
     ]
 },
-  "bbox": [-97.449339,35.677528,-97.449339,35.677528],
-  "geometry": {"coordinates":[-97.449339,35.677528],"type":"Point"}
+  "bbox": [
+    -97.449339,
+    35.677528,
+    -97.449339,
+    35.677528
+],
+  "geometry": {"coordinates":[-97.44933899999999,35.677528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303252213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.887319,36.083292,-95.887319,36.083292",
     "geom:latitude":36.083292,
     "geom:longitude":-95.887319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5566 S 79th East Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303252213,
-    "wof:lastmodified":1448998440,
+    "wof:lastmodified":1466764631,
     "wof:name":"Carter Dental Laboratories",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-95.887319,36.083292,-95.887319,36.083292],
-  "geometry": {"coordinates":[-95.887319,36.083292],"type":"Point"}
+  "bbox": [
+    -95.887319,
+    36.083292,
+    -95.887319,
+    36.083292
+],
+  "geometry": {"coordinates":[-95.88731900000001,36.083292],"type":"Point"}
 }

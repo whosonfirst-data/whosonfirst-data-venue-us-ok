@@ -2,13 +2,14 @@
   "id": 336678245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.646549,35.556757,-97.646549,35.556757",
     "geom:latitude":35.556757,
     "geom:longitude":-97.646549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7408 NW 84th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336678245,
-    "wof:lastmodified":1448997476,
+    "wof:lastmodified":1466763386,
     "wof:name":"RLA Co",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-97.646549,35.556757,-97.646549,35.556757],
-  "geometry": {"coordinates":[-97.646549,35.556757],"type":"Point"}
+  "bbox": [
+    -97.646549,
+    35.556757,
+    -97.646549,
+    35.556757
+],
+  "geometry": {"coordinates":[-97.64654899999999,35.556757],"type":"Point"}
 }

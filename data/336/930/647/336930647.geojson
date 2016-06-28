@@ -2,13 +2,14 @@
   "id": 336930647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.264655,34.127118,-96.264655,34.127118",
     "geom:latitude":34.127118,
     "geom:longitude":-96.264655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Buffalo St",
     "sg:city":"Caddo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336930647,
-    "wof:lastmodified":1448997285,
+    "wof:lastmodified":1466765358,
     "wof:name":"Methodist Church Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-96.264655,34.127118,-96.264655,34.127118],
+  "bbox": [
+    -96.264655,
+    34.127118,
+    -96.264655,
+    34.127118
+],
   "geometry": {"coordinates":[-96.264655,34.127118],"type":"Point"}
 }

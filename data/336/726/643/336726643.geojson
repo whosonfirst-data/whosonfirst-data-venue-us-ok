@@ -2,13 +2,14 @@
   "id": 336726643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.535353,35.587239,-97.535353,35.587239",
     "geom:latitude":35.587239,
     "geom:longitude":-97.535353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 NW 115th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336726643,
-    "wof:lastmodified":1448997664,
+    "wof:lastmodified":1466764126,
     "wof:name":"Area Wide Elderly Center Lt",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "intermediate"
     ]
 },
-  "bbox": [-97.535353,35.587239,-97.535353,35.587239],
+  "bbox": [
+    -97.535353,
+    35.587239,
+    -97.535353,
+    35.587239
+],
   "geometry": {"coordinates":[-97.535353,35.587239],"type":"Point"}
 }

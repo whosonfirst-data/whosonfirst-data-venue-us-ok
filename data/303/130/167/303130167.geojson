@@ -2,13 +2,14 @@
   "id": 303130167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.110299,36.137628,-96.110299,36.137628",
     "geom:latitude":36.137628,
     "geom:longitude":-96.110299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 N Main St",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303130167,
-    "wof:lastmodified":1448998958,
+    "wof:lastmodified":1466763723,
     "wof:name":"Chastain's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.110299,36.137628,-96.110299,36.137628],
+  "bbox": [
+    -96.110299,
+    36.137628,
+    -96.110299,
+    36.137628
+],
   "geometry": {"coordinates":[-96.110299,36.137628],"type":"Point"}
 }

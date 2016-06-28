@@ -2,13 +2,14 @@
   "id": 336665069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.628617,35.5079,-97.628617,35.5079",
     "geom:latitude":35.5079,
     "geom:longitude":-97.628617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6639 NW 36th St",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336665069,
-    "wof:lastmodified":1448997277,
+    "wof:lastmodified":1466763181,
     "wof:name":"Hair Saloon",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.628617,35.5079,-97.628617,35.5079],
-  "geometry": {"coordinates":[-97.628617,35.5079],"type":"Point"}
+  "bbox": [
+    -97.628617,
+    35.5079,
+    -97.628617,
+    35.5079
+],
+  "geometry": {"coordinates":[-97.62861700000001,35.5079],"type":"Point"}
 }

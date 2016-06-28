@@ -2,13 +2,14 @@
   "id": 336856503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.801053,35.305422,-97.801053,35.305422",
     "geom:latitude":35.305422,
     "geom:longitude":-97.801053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 E Tyler Dr",
     "sg:city":"Tuttle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336856503,
-    "wof:lastmodified":1448997258,
+    "wof:lastmodified":1466764849,
     "wof:name":"Plumbline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.801053,35.305422,-97.801053,35.305422],
+  "bbox": [
+    -97.801053,
+    35.305422,
+    -97.801053,
+    35.305422
+],
   "geometry": {"coordinates":[-97.801053,35.305422],"type":"Point"}
 }

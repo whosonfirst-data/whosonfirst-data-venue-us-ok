@@ -2,13 +2,14 @@
   "id": 353543151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.029608,36.055059,-96.029608,36.055059",
     "geom:latitude":36.055059,
     "geom:longitude":-96.029608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7524 S 33rd W Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353543151,
-    "wof:lastmodified":1449018752,
+    "wof:lastmodified":1466763748,
     "wof:name":"HAPM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.029608,36.055059,-96.029608,36.055059],
+  "bbox": [
+    -96.029608,
+    36.055059,
+    -96.029608,
+    36.055059
+],
   "geometry": {"coordinates":[-96.029608,36.055059],"type":"Point"}
 }

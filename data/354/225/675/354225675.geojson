@@ -2,13 +2,14 @@
   "id": 354225675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.765621,34.961935,-95.765621,34.961935",
     "geom:latitude":34.961935,
     "geom:longitude":-95.765621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 W Coal Ave",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354225675,
-    "wof:lastmodified":1449066436,
+    "wof:lastmodified":1466764078,
     "wof:name":"Old Town Welding Shop",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.765621,34.961935,-95.765621,34.961935],
+  "bbox": [
+    -95.765621,
+    34.961935,
+    -95.765621,
+    34.961935
+],
   "geometry": {"coordinates":[-95.765621,34.961935],"type":"Point"}
 }

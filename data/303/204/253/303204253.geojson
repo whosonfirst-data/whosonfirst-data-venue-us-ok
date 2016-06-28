@@ -2,13 +2,14 @@
   "id": 303204253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.342602,35.868929,-99.342602,35.868929",
     "geom:latitude":35.868929,
     "geom:longitude":-99.342602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Broadway St",
     "sg:city":"Cheyenne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303204253,
-    "wof:lastmodified":1449000640,
+    "wof:lastmodified":1466764368,
     "wof:name":"Pyatt Agency Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.342602,35.868929,-99.342602,35.868929],
+  "bbox": [
+    -99.342602,
+    35.868929,
+    -99.342602,
+    35.868929
+],
   "geometry": {"coordinates":[-99.342602,35.868929],"type":"Point"}
 }

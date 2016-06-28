@@ -2,13 +2,14 @@
   "id": 303724445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.420754,35.188004,-97.420754,35.188004",
     "geom:latitude":35.188004,
     "geom:longitude":-97.420754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2919 Classen Blvd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303724445,
-    "wof:lastmodified":1449000516,
+    "wof:lastmodified":1466766526,
     "wof:name":"Green's Auto Sales",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.420754,35.188004,-97.420754,35.188004],
+  "bbox": [
+    -97.420754,
+    35.188004,
+    -97.420754,
+    35.188004
+],
   "geometry": {"coordinates":[-97.420754,35.188004],"type":"Point"}
 }

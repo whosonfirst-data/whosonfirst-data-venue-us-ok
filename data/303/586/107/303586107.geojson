@@ -2,13 +2,14 @@
   "id": 303586107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.088951,36.703752,-97.088951,36.703752",
     "geom:latitude":36.703752,
     "geom:longitude":-97.088951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 W Grand Ave",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303586107,
-    "wof:lastmodified":1449000286,
+    "wof:lastmodified":1466766050,
     "wof:name":"Western Shamrock Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institution"
     ]
 },
-  "bbox": [-97.088951,36.703752,-97.088951,36.703752],
-  "geometry": {"coordinates":[-97.088951,36.703752],"type":"Point"}
+  "bbox": [
+    -97.088951,
+    36.703752,
+    -97.088951,
+    36.703752
+],
+  "geometry": {"coordinates":[-97.08895099999999,36.703752],"type":"Point"}
 }

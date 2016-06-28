@@ -2,13 +2,14 @@
   "id": 303102055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.373934,33.997316,-96.373934,33.997316",
     "geom:latitude":33.997316,
     "geom:longitude":-96.373934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 N 1st Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303102055,
-    "wof:lastmodified":1449000380,
+    "wof:lastmodified":1466763268,
     "wof:name":"Kwik Chek 15",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.373934,33.997316,-96.373934,33.997316],
-  "geometry": {"coordinates":[-96.373934,33.997316],"type":"Point"}
+  "bbox": [
+    -96.373934,
+    33.997316,
+    -96.373934,
+    33.997316
+],
+  "geometry": {"coordinates":[-96.37393400000001,33.997316],"type":"Point"}
 }

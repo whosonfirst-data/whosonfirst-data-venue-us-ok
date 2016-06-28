@@ -2,13 +2,14 @@
   "id": 353760359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.707461,35.478773,-97.707461,35.478773",
     "geom:latitude":35.478773,
     "geom:longitude":-97.707461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10700 NW 10th St",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353760359,
-    "wof:lastmodified":1449020681,
+    "wof:lastmodified":1466765154,
     "wof:name":"Yukon Stone Yard",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.707461,35.478773,-97.707461,35.478773],
+  "bbox": [
+    -97.707461,
+    35.478773,
+    -97.707461,
+    35.478773
+],
   "geometry": {"coordinates":[-97.707461,35.478773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354056419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.998658,36.152018,-95.998658,36.152018",
     "geom:latitude":36.152018,
     "geom:longitude":-95.998658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 W 2nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354056419,
-    "wof:lastmodified":1449066387,
+    "wof:lastmodified":1466763329,
     "wof:name":"Tulsa Cold Storage Inc",
     "wof:parent_id":85872473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-95.998658,36.152018,-95.998658,36.152018],
-  "geometry": {"coordinates":[-95.998658,36.152018],"type":"Point"}
+  "bbox": [
+    -95.998658,
+    36.152018,
+    -95.998658,
+    36.152018
+],
+  "geometry": {"coordinates":[-95.99865800000001,36.152018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336915707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.877384,36.876295,-94.877384,36.876295",
     "geom:latitude":36.876295,
     "geom:longitude":-94.877384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 1st Ave NE",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":336915707,
-    "wof:lastmodified":1448997992,
+    "wof:lastmodified":1466765280,
     "wof:name":"Miami Main Street Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-94.877384,36.876295,-94.877384,36.876295],
-  "geometry": {"coordinates":[-94.877384,36.876295],"type":"Point"}
+  "bbox": [
+    -94.877384,
+    36.876295,
+    -94.877384,
+    36.876295
+],
+  "geometry": {"coordinates":[-94.87738400000001,36.876295],"type":"Point"}
 }

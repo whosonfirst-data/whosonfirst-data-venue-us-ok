@@ -2,13 +2,14 @@
   "id": 303861793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.965012,34.479265,-97.965012,34.479265",
     "geom:latitude":34.479265,
     "geom:longitude":-97.965012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 US Hwy 81",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303861793,
-    "wof:lastmodified":1449000549,
+    "wof:lastmodified":1466766966,
     "wof:name":"Derrick Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.965012,34.479265,-97.965012,34.479265],
+  "bbox": [
+    -97.965012,
+    34.479265,
+    -97.965012,
+    34.479265
+],
   "geometry": {"coordinates":[-97.965012,34.479265],"type":"Point"}
 }

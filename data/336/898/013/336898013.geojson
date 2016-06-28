@@ -2,13 +2,14 @@
   "id": 336898013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.855773,36.099733,-95.855773,36.099733",
     "geom:latitude":36.099733,
     "geom:longitude":-95.855773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10820 E 45th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336898013,
-    "wof:lastmodified":1448996902,
+    "wof:lastmodified":1466765092,
     "wof:name":"Oklahoma Business Brokers",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-95.855773,36.099733,-95.855773,36.099733],
+  "bbox": [
+    -95.855773,
+    36.099733,
+    -95.855773,
+    36.099733
+],
   "geometry": {"coordinates":[-95.855773,36.099733],"type":"Point"}
 }

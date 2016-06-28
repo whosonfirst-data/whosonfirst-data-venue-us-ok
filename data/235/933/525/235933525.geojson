@@ -2,13 +2,14 @@
   "id": 235933525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.937722,36.089849,-95.937722,36.089849",
     "geom:latitude":36.089849,
     "geom:longitude":-95.937722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3350 E 51st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235933525,
-    "wof:lastmodified":1449008331,
+    "wof:lastmodified":1466762404,
     "wof:name":"Mario's NY Style Pizza",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "italian"
     ]
 },
-  "bbox": [-95.937722,36.089849,-95.937722,36.089849],
-  "geometry": {"coordinates":[-95.937722,36.089849],"type":"Point"}
+  "bbox": [
+    -95.937722,
+    36.089849,
+    -95.937722,
+    36.089849
+],
+  "geometry": {"coordinates":[-95.93772199999999,36.089849],"type":"Point"}
 }

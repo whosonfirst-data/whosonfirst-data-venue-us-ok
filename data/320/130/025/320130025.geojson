@@ -2,13 +2,14 @@
   "id": 320130025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.901307,35.944845,-95.901307,35.944845",
     "geom:latitude":35.944845,
     "geom:longitude":-95.901307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6521 E 151st St S",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320130025,
-    "wof:lastmodified":1449012558,
+    "wof:lastmodified":1466764268,
     "wof:name":"Leonard & Marker Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-95.901307,35.944845,-95.901307,35.944845],
+  "bbox": [
+    -95.901307,
+    35.944845,
+    -95.901307,
+    35.944845
+],
   "geometry": {"coordinates":[-95.901307,35.944845],"type":"Point"}
 }

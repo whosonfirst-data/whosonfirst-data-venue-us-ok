@@ -2,13 +2,14 @@
   "id": 303577091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.333982,34.643086,-99.333982,34.643086",
     "geom:latitude":34.643086,
     "geom:longitude":-99.333982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 N Main St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303577091,
-    "wof:lastmodified":1449000641,
+    "wof:lastmodified":1466766127,
     "wof:name":"Custom Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.333982,34.643086,-99.333982,34.643086],
-  "geometry": {"coordinates":[-99.333982,34.643086],"type":"Point"}
+  "bbox": [
+    -99.333982,
+    34.643086,
+    -99.333982,
+    34.643086
+],
+  "geometry": {"coordinates":[-99.33398200000001,34.643086],"type":"Point"}
 }

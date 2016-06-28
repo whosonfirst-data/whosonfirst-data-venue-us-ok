@@ -2,13 +2,14 @@
   "id": 303284993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.511756,36.160554,-95.511756,36.160554",
     "geom:latitude":36.160554,
     "geom:longitude":-95.511756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31402 S 4210 Rd",
     "sg:city":"Inola",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303284993,
-    "wof:lastmodified":1448999639,
+    "wof:lastmodified":1466764892,
     "wof:name":"True Value Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.511756,36.160554,-95.511756,36.160554],
-  "geometry": {"coordinates":[-95.511756,36.160554],"type":"Point"}
+  "bbox": [
+    -95.511756,
+    36.160554,
+    -95.511756,
+    36.160554
+],
+  "geometry": {"coordinates":[-95.51175600000001,36.160554],"type":"Point"}
 }

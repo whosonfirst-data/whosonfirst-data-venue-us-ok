@@ -2,13 +2,14 @@
   "id": 287269611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.727939,35.505006,-97.727939,35.505006",
     "geom:latitude":35.505006,
     "geom:longitude":-97.727939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Industrial Dr",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287269611,
-    "wof:lastmodified":1449001231,
+    "wof:lastmodified":1466762979,
     "wof:name":"Yukon Transmission Repair",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-97.727939,35.505006,-97.727939,35.505006],
-  "geometry": {"coordinates":[-97.727939,35.505006],"type":"Point"}
+  "bbox": [
+    -97.727939,
+    35.505006,
+    -97.727939,
+    35.505006
+],
+  "geometry": {"coordinates":[-97.72793900000001,35.505006],"type":"Point"}
 }

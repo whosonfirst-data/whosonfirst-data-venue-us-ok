@@ -2,13 +2,14 @@
   "id": 354116849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.375179,33.993839,-96.375179,33.993839",
     "geom:latitude":33.993839,
     "geom:longitude":-96.375179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 N 1st Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354116849,
-    "wof:lastmodified":1449066176,
+    "wof:lastmodified":1466763575,
     "wof:name":"Bicycle Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-96.375179,33.993839,-96.375179,33.993839],
+  "bbox": [
+    -96.375179,
+    33.993839,
+    -96.375179,
+    33.993839
+],
   "geometry": {"coordinates":[-96.375179,33.993839],"type":"Point"}
 }

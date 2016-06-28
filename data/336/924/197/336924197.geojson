@@ -2,13 +2,14 @@
   "id": 336924197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.485902,35.247231,-97.485902,35.247231",
     "geom:latitude":35.247231,
     "geom:longitude":-97.485902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2346 N Interstate Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336924197,
-    "wof:lastmodified":1448997246,
+    "wof:lastmodified":1466765303,
     "wof:name":"Salon",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.485902,35.247231,-97.485902,35.247231],
+  "bbox": [
+    -97.485902,
+    35.247231,
+    -97.485902,
+    35.247231
+],
   "geometry": {"coordinates":[-97.485902,35.247231],"type":"Point"}
 }

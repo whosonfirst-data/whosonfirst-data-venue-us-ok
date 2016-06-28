@@ -2,13 +2,14 @@
   "id": 353404329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904033,36.160808,-95.904033,36.160808",
     "geom:latitude":36.160808,
     "geom:longitude":-95.904033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6605 E Admiral Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353404329,
-    "wof:lastmodified":1449019940,
+    "wof:lastmodified":1466762461,
     "wof:name":"Johnny's Tree Svc",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-95.904033,36.160808,-95.904033,36.160808],
+  "bbox": [
+    -95.904033,
+    36.160808,
+    -95.904033,
+    36.160808
+],
   "geometry": {"coordinates":[-95.904033,36.160808],"type":"Point"}
 }

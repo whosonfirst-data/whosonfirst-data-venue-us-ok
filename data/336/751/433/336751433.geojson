@@ -2,13 +2,14 @@
   "id": 336751433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.690745,36.116104,-96.690745,36.116104",
     "geom:latitude":36.116104,
     "geom:longitude":-96.690745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 E Chicago Ave",
     "sg:city":"Yale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336751433,
-    "wof:lastmodified":1448996976,
+    "wof:lastmodified":1466764418,
     "wof:name":"Dairy Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.690745,36.116104,-96.690745,36.116104],
-  "geometry": {"coordinates":[-96.690745,36.116104],"type":"Point"}
+  "bbox": [
+    -96.690745,
+    36.116104,
+    -96.690745,
+    36.116104
+],
+  "geometry": {"coordinates":[-96.69074500000001,36.116104],"type":"Point"}
 }

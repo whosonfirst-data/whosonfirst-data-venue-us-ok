@@ -2,13 +2,14 @@
   "id": 303500749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.618979,35.492299,-97.618979,35.492299",
     "geom:latitude":35.492299,
     "geom:longitude":-97.618979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2304 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303500749,
-    "wof:lastmodified":1448998723,
+    "wof:lastmodified":1466765839,
     "wof:name":"Aasia Boutique",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boutique"
     ]
 },
-  "bbox": [-97.618979,35.492299,-97.618979,35.492299],
+  "bbox": [
+    -97.618979,
+    35.492299,
+    -97.618979,
+    35.492299
+],
   "geometry": {"coordinates":[-97.618979,35.492299],"type":"Point"}
 }

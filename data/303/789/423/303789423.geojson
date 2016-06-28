@@ -2,13 +2,14 @@
   "id": 303789423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.468658,35.681272,-97.468658,35.681272",
     "geom:latitude":35.681272,
     "geom:longitude":-97.468658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Northbrook Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303789423,
-    "wof:lastmodified":1448999222,
+    "wof:lastmodified":1466766716,
     "wof:name":"Gth",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.468658,35.681272,-97.468658,35.681272],
+  "bbox": [
+    -97.468658,
+    35.681272,
+    -97.468658,
+    35.681272
+],
   "geometry": {"coordinates":[-97.468658,35.681272],"type":"Point"}
 }

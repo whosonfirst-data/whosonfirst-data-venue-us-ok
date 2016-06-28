@@ -2,13 +2,14 @@
   "id": 336846043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.527108,35.560357,-97.527108,35.560357",
     "geom:latitude":35.560357,
     "geom:longitude":-97.527108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 NW 88th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336846043,
-    "wof:lastmodified":1448997797,
+    "wof:lastmodified":1466764807,
     "wof:name":"Loving Daycare",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.527108,35.560357,-97.527108,35.560357],
+  "bbox": [
+    -97.527108,
+    35.560357,
+    -97.527108,
+    35.560357
+],
   "geometry": {"coordinates":[-97.527108,35.560357],"type":"Point"}
 }

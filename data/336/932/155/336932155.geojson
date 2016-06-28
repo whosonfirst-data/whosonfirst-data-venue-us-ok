@@ -2,13 +2,14 @@
   "id": 336932155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.936057,36.365716,-95.936057,36.365716",
     "geom:latitude":36.365716,
     "geom:longitude":-95.936057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4444 E 146th St N",
     "sg:city":"Skiatook",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336932155,
-    "wof:lastmodified":1448997339,
+    "wof:lastmodified":1466765374,
     "wof:name":"Lamamco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-95.936057,36.365716,-95.936057,36.365716],
-  "geometry": {"coordinates":[-95.936057,36.365716],"type":"Point"}
+  "bbox": [
+    -95.936057,
+    36.365716,
+    -95.936057,
+    36.365716
+],
+  "geometry": {"coordinates":[-95.93605700000001,36.365716],"type":"Point"}
 }

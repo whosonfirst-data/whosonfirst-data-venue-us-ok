@@ -2,13 +2,14 @@
   "id": 303985355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.743337,34.927434,-95.743337,34.927434",
     "geom:latitude":34.927434,
     "geom:longitude":-95.743337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 E Carl Albert Pkwy",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303985355,
-    "wof:lastmodified":1448999333,
+    "wof:lastmodified":1466767119,
     "wof:name":"Access Wireless",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-95.743337,34.927434,-95.743337,34.927434],
+  "bbox": [
+    -95.743337,
+    34.927434,
+    -95.743337,
+    34.927434
+],
   "geometry": {"coordinates":[-95.743337,34.927434],"type":"Point"}
 }

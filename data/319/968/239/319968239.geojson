@@ -2,13 +2,14 @@
   "id": 319968239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.3361,35.725144,-97.3361,35.725144",
     "geom:latitude":35.725144,
     "geom:longitude":-97.3361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11780 E Waterloo Rd",
     "sg:city":"Arcadia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319968239,
-    "wof:lastmodified":1449024146,
+    "wof:lastmodified":1466764143,
     "wof:name":"Renaissance Vizslas",
     "wof:parent_id":85829129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "animal"
     ]
 },
-  "bbox": [-97.3361,35.725144,-97.3361,35.725144],
+  "bbox": [
+    -97.3361,
+    35.725144,
+    -97.3361,
+    35.725144
+],
   "geometry": {"coordinates":[-97.3361,35.725144],"type":"Point"}
 }

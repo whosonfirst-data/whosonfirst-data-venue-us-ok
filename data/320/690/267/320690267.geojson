@@ -2,13 +2,14 @@
   "id": 320690267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.962909,36.100745,-95.962909,36.100745",
     "geom:latitude":36.100745,
     "geom:longitude":-95.962909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4217 S Wheeling Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320690267,
-    "wof:lastmodified":1449013238,
+    "wof:lastmodified":1466766530,
     "wof:name":"E Engles Place",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.962909,36.100745,-95.962909,36.100745],
+  "bbox": [
+    -95.962909,
+    36.100745,
+    -95.962909,
+    36.100745
+],
   "geometry": {"coordinates":[-95.962909,36.100745],"type":"Point"}
 }

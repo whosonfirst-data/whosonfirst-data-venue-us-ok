@@ -2,13 +2,14 @@
   "id": 354139165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886424,35.949845,-95.886424,35.949845",
     "geom:latitude":35.949845,
     "geom:longitude":-95.886424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14645 S Memorial Dr",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354139165,
-    "wof:lastmodified":1449066089,
+    "wof:lastmodified":1466763651,
     "wof:name":"Bixby Tire Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.886424,35.949845,-95.886424,35.949845],
-  "geometry": {"coordinates":[-95.886424,35.949845],"type":"Point"}
+  "bbox": [
+    -95.886424,
+    35.949845,
+    -95.886424,
+    35.949845
+],
+  "geometry": {"coordinates":[-95.88642400000001,35.949845],"type":"Point"}
 }

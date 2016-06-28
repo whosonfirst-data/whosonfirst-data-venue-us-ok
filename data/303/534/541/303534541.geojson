@@ -2,13 +2,14 @@
   "id": 303534541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.443476,36.44394,-99.443476,36.44394",
     "geom:latitude":36.44394,
     "geom:longitude":-99.443476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 48th St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303534541,
-    "wof:lastmodified":1448998746,
+    "wof:lastmodified":1466766065,
     "wof:name":"Cheyenne Drilling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "well"
     ]
 },
-  "bbox": [-99.443476,36.44394,-99.443476,36.44394],
+  "bbox": [
+    -99.443476,
+    36.44394,
+    -99.443476,
+    36.44394
+],
   "geometry": {"coordinates":[-99.443476,36.44394],"type":"Point"}
 }

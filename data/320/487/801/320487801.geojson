@@ -2,13 +2,14 @@
   "id": 320487801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.459141,35.535055,-97.459141,35.535055",
     "geom:latitude":35.535055,
     "geom:longitude":-97.459141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6203 N Bryant Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320487801,
-    "wof:lastmodified":1449012496,
+    "wof:lastmodified":1466766139,
     "wof:name":"Cross Brand Feed",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-97.459141,35.535055,-97.459141,35.535055],
+  "bbox": [
+    -97.459141,
+    35.535055,
+    -97.459141,
+    35.535055
+],
   "geometry": {"coordinates":[-97.459141,35.535055],"type":"Point"}
 }

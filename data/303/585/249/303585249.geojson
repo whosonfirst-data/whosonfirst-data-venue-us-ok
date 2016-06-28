@@ -2,13 +2,14 @@
   "id": 303585249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.583407,35.508952,-97.583407,35.508952",
     "geom:latitude":35.508952,
     "geom:longitude":-97.583407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 N Portland Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303585249,
-    "wof:lastmodified":1448999742,
+    "wof:lastmodified":1466766038,
     "wof:name":"Twister Motors",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.583407,35.508952,-97.583407,35.508952],
-  "geometry": {"coordinates":[-97.583407,35.508952],"type":"Point"}
+  "bbox": [
+    -97.583407,
+    35.508952,
+    -97.583407,
+    35.508952
+],
+  "geometry": {"coordinates":[-97.58340699999999,35.508952],"type":"Point"}
 }

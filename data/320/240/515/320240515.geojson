@@ -2,13 +2,14 @@
   "id": 320240515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503506,35.509675,-97.503506,35.509675",
     "geom:latitude":35.509675,
     "geom:longitude":-97.503506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 NE 38th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320240515,
-    "wof:lastmodified":1449011628,
+    "wof:lastmodified":1466764713,
     "wof:name":"Pier Drillers Inc",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.503506,35.509675,-97.503506,35.509675],
+  "bbox": [
+    -97.503506,
+    35.509675,
+    -97.503506,
+    35.509675
+],
   "geometry": {"coordinates":[-97.503506,35.509675],"type":"Point"}
 }

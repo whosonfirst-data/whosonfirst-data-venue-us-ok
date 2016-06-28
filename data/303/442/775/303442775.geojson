@@ -2,13 +2,14 @@
   "id": 303442775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503501,35.609081,-97.503501,35.609081",
     "geom:latitude":35.609081,
     "geom:longitude":-97.503501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13408 Railway Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303442775,
-    "wof:lastmodified":1448999192,
+    "wof:lastmodified":1466765640,
     "wof:name":"Trans Core Inc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.503501,35.609081,-97.503501,35.609081],
+  "bbox": [
+    -97.503501,
+    35.609081,
+    -97.503501,
+    35.609081
+],
   "geometry": {"coordinates":[-97.503501,35.609081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303243623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.861661,36.176958,-95.861661,36.176958",
     "geom:latitude":36.176958,
     "geom:longitude":-95.861661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10520 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303243623,
-    "wof:lastmodified":1448998910,
+    "wof:lastmodified":1466764572,
     "wof:name":"Menlo Worldwide Trade Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "customs"
     ]
 },
-  "bbox": [-95.861661,36.176958,-95.861661,36.176958],
+  "bbox": [
+    -95.861661,
+    36.176958,
+    -95.861661,
+    36.176958
+],
   "geometry": {"coordinates":[-95.861661,36.176958],"type":"Point"}
 }

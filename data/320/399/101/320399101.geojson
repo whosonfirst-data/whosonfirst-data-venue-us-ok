@@ -2,13 +2,14 @@
   "id": 320399101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.07306,34.148153,-97.07306,34.148153",
     "geom:latitude":34.148153,
     "geom:longitude":-97.07306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Sandy Ln",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320399101,
-    "wof:lastmodified":1449011919,
+    "wof:lastmodified":1466765578,
     "wof:name":"Oklahoma Tile & Marble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.07306,34.148153,-97.07306,34.148153],
+  "bbox": [
+    -97.07306,
+    34.148153,
+    -97.07306,
+    34.148153
+],
   "geometry": {"coordinates":[-97.07306,34.148153],"type":"Point"}
 }

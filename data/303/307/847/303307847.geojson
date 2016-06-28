@@ -2,13 +2,14 @@
   "id": 303307847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.728735,36.788533,-94.728735,36.788533",
     "geom:latitude":36.788533,
     "geom:longitude":-94.728735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 S 3rd",
     "sg:city":"Wyandotte",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303307847,
-    "wof:lastmodified":1448998744,
+    "wof:lastmodified":1466764995,
     "wof:name":"Childers Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.728735,36.788533,-94.728735,36.788533],
+  "bbox": [
+    -94.728735,
+    36.788533,
+    -94.728735,
+    36.788533
+],
   "geometry": {"coordinates":[-94.728735,36.788533],"type":"Point"}
 }

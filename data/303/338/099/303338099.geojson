@@ -2,13 +2,14 @@
   "id": 303338099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.525427,35.508452,-97.525427,35.508452",
     "geom:latitude":35.508452,
     "geom:longitude":-97.525427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3722 N Shartel Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303338099,
-    "wof:lastmodified":1448998963,
+    "wof:lastmodified":1466765006,
     "wof:name":"Captive Audience Marketing",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "theatrical"
     ]
 },
-  "bbox": [-97.525427,35.508452,-97.525427,35.508452],
-  "geometry": {"coordinates":[-97.525427,35.508452],"type":"Point"}
+  "bbox": [
+    -97.525427,
+    35.508452,
+    -97.525427,
+    35.508452
+],
+  "geometry": {"coordinates":[-97.52542699999999,35.508452],"type":"Point"}
 }

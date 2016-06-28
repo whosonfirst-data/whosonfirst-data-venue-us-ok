@@ -2,13 +2,14 @@
   "id": 303817809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.53418,35.519381,-97.53418,35.519381",
     "geom:latitude":35.519381,
     "geom:longitude":-97.53418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4720 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303817809,
-    "wof:lastmodified":1449000088,
+    "wof:lastmodified":1466766826,
     "wof:name":"Jacob & Associates Inc",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.53418,35.519381,-97.53418,35.519381],
-  "geometry": {"coordinates":[-97.53418,35.519381],"type":"Point"}
+  "bbox": [
+    -97.53418,
+    35.519381,
+    -97.53418,
+    35.519381
+],
+  "geometry": {"coordinates":[-97.53418000000001,35.519381],"type":"Point"}
 }

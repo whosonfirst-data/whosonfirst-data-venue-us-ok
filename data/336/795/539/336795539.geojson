@@ -2,13 +2,14 @@
   "id": 336795539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.540413,35.434415,-97.540413,35.434415",
     "geom:latitude":35.434415,
     "geom:longitude":-97.540413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1345 SW 30th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336795539,
-    "wof:lastmodified":1448997579,
+    "wof:lastmodified":1466764656,
     "wof:name":"Heartland Hall",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-97.540413,35.434415,-97.540413,35.434415],
+  "bbox": [
+    -97.540413,
+    35.434415,
+    -97.540413,
+    35.434415
+],
   "geometry": {"coordinates":[-97.540413,35.434415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304036373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.047329,36.13633,-96.047329,36.13633",
     "geom:latitude":36.13633,
     "geom:longitude":-96.047329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 S 49th W Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304036373,
-    "wof:lastmodified":1449043678,
+    "wof:lastmodified":1466763010,
     "wof:name":"BUILDERS Steel",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "structural"
     ]
 },
-  "bbox": [-96.047329,36.13633,-96.047329,36.13633],
+  "bbox": [
+    -96.047329,
+    36.13633,
+    -96.047329,
+    36.13633
+],
   "geometry": {"coordinates":[-96.047329,36.13633],"type":"Point"}
 }

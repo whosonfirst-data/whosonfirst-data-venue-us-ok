@@ -2,13 +2,14 @@
   "id": 303618565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.92367,36.147867,-95.92367,36.147867",
     "geom:latitude":36.147867,
     "geom:longitude":-95.92367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4705 E 11th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303618565,
-    "wof:lastmodified":1448999642,
+    "wof:lastmodified":1466766242,
     "wof:name":"Naturcare",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-95.92367,36.147867,-95.92367,36.147867],
+  "bbox": [
+    -95.92367,
+    36.147867,
+    -95.92367,
+    36.147867
+],
   "geometry": {"coordinates":[-95.92367,36.147867],"type":"Point"}
 }

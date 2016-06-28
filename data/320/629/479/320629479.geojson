@@ -2,13 +2,14 @@
   "id": 320629479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.120462,34.186087,-97.120462,34.186087",
     "geom:latitude":34.186087,
     "geom:longitude":-97.120462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Sam Noble Pkwy",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320629479,
-    "wof:lastmodified":1449014090,
+    "wof:lastmodified":1466766226,
     "wof:name":"Glasshopper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.120462,34.186087,-97.120462,34.186087],
+  "bbox": [
+    -97.120462,
+    34.186087,
+    -97.120462,
+    34.186087
+],
   "geometry": {"coordinates":[-97.120462,34.186087],"type":"Point"}
 }

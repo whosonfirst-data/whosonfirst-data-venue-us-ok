@@ -2,13 +2,14 @@
   "id": 320016273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.872239,36.089131,-95.872239,36.089131",
     "geom:latitude":36.089131,
     "geom:longitude":-95.872239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5153 S 94th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320016273,
-    "wof:lastmodified":1449011904,
+    "wof:lastmodified":1466762522,
     "wof:name":"RCF Enterprises",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stamping"
     ]
 },
-  "bbox": [-95.872239,36.089131,-95.872239,36.089131],
-  "geometry": {"coordinates":[-95.872239,36.089131],"type":"Point"}
+  "bbox": [
+    -95.872239,
+    36.089131,
+    -95.872239,
+    36.089131
+],
+  "geometry": {"coordinates":[-95.87223899999999,36.089131],"type":"Point"}
 }

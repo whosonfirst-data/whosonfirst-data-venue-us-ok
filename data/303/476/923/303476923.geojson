@@ -2,13 +2,14 @@
   "id": 303476923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.590049,35.478675,-97.590049,35.478675",
     "geom:latitude":35.478675,
     "geom:longitude":-97.590049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4004 NW 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303476923,
-    "wof:lastmodified":1448999109,
+    "wof:lastmodified":1466765755,
     "wof:name":"Rowe Auto Svc",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.590049,35.478675,-97.590049,35.478675],
-  "geometry": {"coordinates":[-97.590049,35.478675],"type":"Point"}
+  "bbox": [
+    -97.590049,
+    35.478675,
+    -97.590049,
+    35.478675
+],
+  "geometry": {"coordinates":[-97.59004899999999,35.478675],"type":"Point"}
 }

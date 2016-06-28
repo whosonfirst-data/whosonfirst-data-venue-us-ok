@@ -2,13 +2,14 @@
   "id": 303376935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.882095,35.709918,-96.882095,35.709918",
     "geom:latitude":35.709918,
     "geom:longitude":-96.882095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Steele Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303376935,
-    "wof:lastmodified":1448998952,
+    "wof:lastmodified":1466765316,
     "wof:name":"Chandler Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-96.882095,35.709918,-96.882095,35.709918],
-  "geometry": {"coordinates":[-96.882095,35.709918],"type":"Point"}
+  "bbox": [
+    -96.882095,
+    35.709918,
+    -96.882095,
+    35.709918
+],
+  "geometry": {"coordinates":[-96.88209500000001,35.709918],"type":"Point"}
 }

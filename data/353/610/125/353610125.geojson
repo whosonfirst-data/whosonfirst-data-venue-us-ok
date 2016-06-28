@@ -2,13 +2,14 @@
   "id": 353610125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.448813,35.682195,-97.448813,35.682195",
     "geom:latitude":35.682195,
     "geom:longitude":-97.448813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 Ashebury Way",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353610125,
-    "wof:lastmodified":1449020736,
+    "wof:lastmodified":1466764424,
     "wof:name":"Tom Vorderlandwehr Inc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.448813,35.682195,-97.448813,35.682195],
+  "bbox": [
+    -97.448813,
+    35.682195,
+    -97.448813,
+    35.682195
+],
   "geometry": {"coordinates":[-97.448813,35.682195],"type":"Point"}
 }

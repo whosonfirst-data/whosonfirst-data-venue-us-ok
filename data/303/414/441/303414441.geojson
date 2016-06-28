@@ -2,13 +2,14 @@
   "id": 303414441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.277177,35.203767,-97.277177,35.203767",
     "geom:latitude":35.203767,
     "geom:longitude":-97.277177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11301 E Lindsey St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303414441,
-    "wof:lastmodified":1448999259,
+    "wof:lastmodified":1466765386,
     "wof:name":"Brittian Electrical",
     "wof:parent_id":85814357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-97.277177,35.203767,-97.277177,35.203767],
-  "geometry": {"coordinates":[-97.277177,35.203767],"type":"Point"}
+  "bbox": [
+    -97.277177,
+    35.203767,
+    -97.277177,
+    35.203767
+],
+  "geometry": {"coordinates":[-97.27717699999999,35.203767],"type":"Point"}
 }

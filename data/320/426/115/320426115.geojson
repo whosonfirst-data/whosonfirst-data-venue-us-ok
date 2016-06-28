@@ -2,13 +2,14 @@
   "id": 320426115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967073,36.173609,-95.967073,36.173609",
     "geom:latitude":36.173609,
     "geom:longitude":-95.967073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 N Utica Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320426115,
-    "wof:lastmodified":1449012050,
+    "wof:lastmodified":1466765851,
     "wof:name":"IROC Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-95.967073,36.173609,-95.967073,36.173609],
+  "bbox": [
+    -95.967073,
+    36.173609,
+    -95.967073,
+    36.173609
+],
   "geometry": {"coordinates":[-95.967073,36.173609],"type":"Point"}
 }

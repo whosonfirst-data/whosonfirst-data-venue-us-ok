@@ -2,13 +2,14 @@
   "id": 336674663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.44155,35.528688,-97.44155,35.528688",
     "geom:latitude":35.528688,
     "geom:longitude":-97.44155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4309 NE 55th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336674663,
-    "wof:lastmodified":1448997745,
+    "wof:lastmodified":1466763331,
     "wof:name":"Bobs Septic Tank Service",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.44155,35.528688,-97.44155,35.528688],
-  "geometry": {"coordinates":[-97.44155,35.528688],"type":"Point"}
+  "bbox": [
+    -97.44155,
+    35.528688,
+    -97.44155,
+    35.528688
+],
+  "geometry": {"coordinates":[-97.44155000000001,35.528688],"type":"Point"}
 }

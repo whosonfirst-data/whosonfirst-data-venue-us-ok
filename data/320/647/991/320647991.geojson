@@ -2,13 +2,14 @@
   "id": 320647991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.359384,35.752748,-95.359384,35.752748",
     "geom:latitude":35.752748,
     "geom:longitude":-95.359384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Houston St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320647991,
-    "wof:lastmodified":1449013024,
+    "wof:lastmodified":1466766388,
     "wof:name":"High Oak Enterprises",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.359384,35.752748,-95.359384,35.752748],
-  "geometry": {"coordinates":[-95.359384,35.752748],"type":"Point"}
+  "bbox": [
+    -95.359384,
+    35.752748,
+    -95.359384,
+    35.752748
+],
+  "geometry": {"coordinates":[-95.35938400000001,35.752748],"type":"Point"}
 }

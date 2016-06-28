@@ -2,13 +2,14 @@
   "id": 303492499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.504951,35.610477,-97.504951,35.610477",
     "geom:latitude":35.610477,
     "geom:longitude":-97.504951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14701 N Lincoln Blvd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303492499,
-    "wof:lastmodified":1448998114,
+    "wof:lastmodified":1466765824,
     "wof:name":"Rockin' Roller Rink",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rink"
     ]
 },
-  "bbox": [-97.504951,35.610477,-97.504951,35.610477],
-  "geometry": {"coordinates":[-97.504951,35.610477],"type":"Point"}
+  "bbox": [
+    -97.504951,
+    35.610477,
+    -97.504951,
+    35.610477
+],
+  "geometry": {"coordinates":[-97.50495100000001,35.610477],"type":"Point"}
 }

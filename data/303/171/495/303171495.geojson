@@ -2,13 +2,14 @@
   "id": 303171495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.556226,35.56469,-97.556226,35.56469",
     "geom:latitude":35.56469,
     "geom:longitude":-97.556226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Sheffield Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303171495,
-    "wof:lastmodified":1449000576,
+    "wof:lastmodified":1466764291,
     "wof:name":"Sooner Security Svc",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [-97.556226,35.56469,-97.556226,35.56469],
+  "bbox": [
+    -97.556226,
+    35.56469,
+    -97.556226,
+    35.56469
+],
   "geometry": {"coordinates":[-97.556226,35.56469],"type":"Point"}
 }

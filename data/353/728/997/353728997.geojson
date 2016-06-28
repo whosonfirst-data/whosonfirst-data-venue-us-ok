@@ -2,13 +2,14 @@
   "id": 353728997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.395219,34.625749,-97.395219,34.625749",
     "geom:latitude":34.625749,
     "geom:longitude":-97.395219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E A St",
     "sg:city":"Elmore City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353728997,
-    "wof:lastmodified":1449018850,
+    "wof:lastmodified":1466764900,
     "wof:name":"Ultimate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.395219,34.625749,-97.395219,34.625749],
+  "bbox": [
+    -97.395219,
+    34.625749,
+    -97.395219,
+    34.625749
+],
   "geometry": {"coordinates":[-97.395219,34.625749],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353722729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.637426,35.527452,-97.637426,35.527452",
     "geom:latitude":35.527452,
     "geom:longitude":-97.637426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5801 Phillip J Rhoads Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":353722729,
-    "wof:lastmodified":1449019147,
+    "wof:lastmodified":1466764973,
     "wof:name":"Dorchester Capital Aviation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [-97.637426,35.527452,-97.637426,35.527452],
+  "bbox": [
+    -97.637426,
+    35.527452,
+    -97.637426,
+    35.527452
+],
   "geometry": {"coordinates":[-97.637426,35.527452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304053353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.980152,36.191468,-95.980152,36.191468",
     "geom:latitude":36.191468,
     "geom:longitude":-95.980152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 E Apache St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304053353,
-    "wof:lastmodified":1449043663,
+    "wof:lastmodified":1466763127,
     "wof:name":"Cannon Engineering",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electric"
     ]
 },
-  "bbox": [-95.980152,36.191468,-95.980152,36.191468],
+  "bbox": [
+    -95.980152,
+    36.191468,
+    -95.980152,
+    36.191468
+],
   "geometry": {"coordinates":[-95.980152,36.191468],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303745951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.404778,34.592376,-98.404778,34.592376",
     "geom:latitude":34.592376,
     "geom:longitude":-98.404778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 SW 11th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303745951,
-    "wof:lastmodified":1449000454,
+    "wof:lastmodified":1466766485,
     "wof:name":"Parks & Recreations",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-98.404778,34.592376,-98.404778,34.592376],
-  "geometry": {"coordinates":[-98.404778,34.592376],"type":"Point"}
+  "bbox": [
+    -98.404778,
+    34.592376,
+    -98.404778,
+    34.592376
+],
+  "geometry": {"coordinates":[-98.40477799999999,34.592376],"type":"Point"}
 }

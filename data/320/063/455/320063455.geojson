@@ -2,13 +2,14 @@
   "id": 320063455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.5184,35.61211,-97.5184,35.61211",
     "geom:latitude":35.61211,
     "geom:longitude":-97.5184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13825 N Harvey Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320063455,
-    "wof:lastmodified":1449011572,
+    "wof:lastmodified":1466763228,
     "wof:name":"Retail Data Solutions",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.5184,35.61211,-97.5184,35.61211],
+  "bbox": [
+    -97.5184,
+    35.61211,
+    -97.5184,
+    35.61211
+],
   "geometry": {"coordinates":[-97.5184,35.61211],"type":"Point"}
 }

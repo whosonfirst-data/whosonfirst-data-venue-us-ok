@@ -2,13 +2,14 @@
   "id": 336593011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.05085,36.188501,-96.05085,36.188501",
     "geom:latitude":36.188501,
     "geom:longitude":-96.05085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2312 N 53rd W Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336593011,
-    "wof:lastmodified":1448997649,
+    "wof:lastmodified":1466764072,
     "wof:name":"Ballard's Backhoe Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.05085,36.188501,-96.05085,36.188501],
+  "bbox": [
+    -96.05085,
+    36.188501,
+    -96.05085,
+    36.188501
+],
   "geometry": {"coordinates":[-96.05085,36.188501],"type":"Point"}
 }

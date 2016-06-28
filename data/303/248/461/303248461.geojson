@@ -2,13 +2,14 @@
   "id": 303248461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.789042,36.266474,-95.789042,36.266474",
     "geom:latitude":36.266474,
     "geom:longitude":-95.789042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16892 E 79th Ct N",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303248461,
-    "wof:lastmodified":1448999461,
+    "wof:lastmodified":1466764707,
     "wof:name":"Airway Neon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.789042,36.266474,-95.789042,36.266474],
-  "geometry": {"coordinates":[-95.789042,36.266474],"type":"Point"}
+  "bbox": [
+    -95.789042,
+    36.266474,
+    -95.789042,
+    36.266474
+],
+  "geometry": {"coordinates":[-95.78904199999999,36.266474],"type":"Point"}
 }

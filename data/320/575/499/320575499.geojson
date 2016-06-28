@@ -2,13 +2,14 @@
   "id": 320575499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.53024,35.40245,-97.53024,35.40245",
     "geom:latitude":35.40245,
     "geom:longitude":-97.53024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6311 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320575499,
-    "wof:lastmodified":1449012343,
+    "wof:lastmodified":1466766350,
     "wof:name":"T & T Food & Gas",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.53024,35.40245,-97.53024,35.40245],
-  "geometry": {"coordinates":[-97.53024,35.40245],"type":"Point"}
+  "bbox": [
+    -97.53024,
+    35.40245,
+    -97.53024,
+    35.40245
+],
+  "geometry": {"coordinates":[-97.53024000000001,35.40245],"type":"Point"}
 }

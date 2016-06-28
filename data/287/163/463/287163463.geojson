@@ -2,13 +2,14 @@
   "id": 287163463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.592144,35.478679,-97.592144,35.478679",
     "geom:latitude":35.478679,
     "geom:longitude":-97.592144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4014 NW 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287163463,
-    "wof:lastmodified":1449001578,
+    "wof:lastmodified":1466763737,
     "wof:name":"Polar Donuts",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.592144,35.478679,-97.592144,35.478679],
+  "bbox": [
+    -97.592144,
+    35.478679,
+    -97.592144,
+    35.478679
+],
   "geometry": {"coordinates":[-97.592144,35.478679],"type":"Point"}
 }

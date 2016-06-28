@@ -2,13 +2,14 @@
   "id": 303491865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.512768,34.007502,-95.512768,34.007502",
     "geom:latitude":34.007502,
     "geom:longitude":-95.512768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 E Main St",
     "sg:city":"Hugo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303491865,
-    "wof:lastmodified":1448998077,
+    "wof:lastmodified":1466765735,
     "wof:name":"Mays Housecall Home Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-95.512768,34.007502,-95.512768,34.007502],
-  "geometry": {"coordinates":[-95.512768,34.007502],"type":"Point"}
+  "bbox": [
+    -95.512768,
+    34.007502,
+    -95.512768,
+    34.007502
+],
+  "geometry": {"coordinates":[-95.51276799999999,34.007502],"type":"Point"}
 }

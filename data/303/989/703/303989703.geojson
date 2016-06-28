@@ -2,13 +2,14 @@
   "id": 303989703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.340444,35.761899,-95.340444,35.761899",
     "geom:latitude":35.761899,
     "geom:longitude":-95.340444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 N York St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303989703,
-    "wof:lastmodified":1448999913,
+    "wof:lastmodified":1466767078,
     "wof:name":"Muskogee Truck & Auto Sales",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.340444,35.761899,-95.340444,35.761899],
-  "geometry": {"coordinates":[-95.340444,35.761899],"type":"Point"}
+  "bbox": [
+    -95.340444,
+    35.761899,
+    -95.340444,
+    35.761899
+],
+  "geometry": {"coordinates":[-95.34044400000001,35.761899],"type":"Point"}
 }

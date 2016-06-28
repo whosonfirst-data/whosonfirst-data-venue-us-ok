@@ -2,13 +2,14 @@
   "id": 354212511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.551635,35.420785,-97.551635,35.420785",
     "geom:latitude":35.420785,
     "geom:longitude":-97.551635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2241 SW 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354212511,
-    "wof:lastmodified":1449067074,
+    "wof:lastmodified":1466763994,
     "wof:name":"Penn 44 Lanes",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-97.551635,35.420785,-97.551635,35.420785],
+  "bbox": [
+    -97.551635,
+    35.420785,
+    -97.551635,
+    35.420785
+],
   "geometry": {"coordinates":[-97.551635,35.420785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303802761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.957873,35.914835,-94.957873,35.914835",
     "geom:latitude":35.914835,
     "geom:longitude":-94.957873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 N Cedar Ave",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303802761,
-    "wof:lastmodified":1449000109,
+    "wof:lastmodified":1466766735,
     "wof:name":"Kathy's Dog Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-94.957873,35.914835,-94.957873,35.914835],
-  "geometry": {"coordinates":[-94.957873,35.914835],"type":"Point"}
+  "bbox": [
+    -94.957873,
+    35.914835,
+    -94.957873,
+    35.914835
+],
+  "geometry": {"coordinates":[-94.95787300000001,35.914835],"type":"Point"}
 }

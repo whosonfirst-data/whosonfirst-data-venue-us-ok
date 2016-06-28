@@ -2,13 +2,14 @@
   "id": 303637993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904437,36.090298,-95.904437,36.090298",
     "geom:latitude":36.090298,
     "geom:longitude":-95.904437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4902 S Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303637993,
-    "wof:lastmodified":1448998117,
+    "wof:lastmodified":1466766322,
     "wof:name":"Uncle Bentley's Pub & Grill",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.904437,36.090298,-95.904437,36.090298],
+  "bbox": [
+    -95.904437,
+    36.090298,
+    -95.904437,
+    36.090298
+],
   "geometry": {"coordinates":[-95.904437,36.090298],"type":"Point"}
 }

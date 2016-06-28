@@ -2,13 +2,14 @@
   "id": 303850887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.355743,33.920113,-96.355743,33.920113",
     "geom:latitude":33.920113,
     "geom:longitude":-96.355743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Chestnut Ln",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303850887,
-    "wof:lastmodified":1448999538,
+    "wof:lastmodified":1466766847,
     "wof:name":"Overhead Door Of Sherman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "door"
     ]
 },
-  "bbox": [-96.355743,33.920113,-96.355743,33.920113],
+  "bbox": [
+    -96.355743,
+    33.920113,
+    -96.355743,
+    33.920113
+],
   "geometry": {"coordinates":[-96.355743,33.920113],"type":"Point"}
 }

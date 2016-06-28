@@ -2,13 +2,14 @@
   "id": 303542241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.680213,34.77227,-96.680213,34.77227",
     "geom:latitude":34.77227,
     "geom:longitude":-96.680213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W 13th St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303542241,
-    "wof:lastmodified":1449000018,
+    "wof:lastmodified":1466765926,
     "wof:name":"Pontotoc County Restitution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.680213,34.77227,-96.680213,34.77227],
-  "geometry": {"coordinates":[-96.680213,34.77227],"type":"Point"}
+  "bbox": [
+    -96.680213,
+    34.77227,
+    -96.680213,
+    34.77227
+],
+  "geometry": {"coordinates":[-96.68021299999999,34.77227],"type":"Point"}
 }

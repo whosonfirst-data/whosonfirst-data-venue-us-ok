@@ -2,13 +2,14 @@
   "id": 303585231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.963226,34.504956,-96.963226,34.504956",
     "geom:latitude":34.504956,
     "geom:longitude":-96.963226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E 3rd St",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303585231,
-    "wof:lastmodified":1448999744,
+    "wof:lastmodified":1466766037,
     "wof:name":"US Transportation Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-96.963226,34.504956,-96.963226,34.504956],
-  "geometry": {"coordinates":[-96.963226,34.504956],"type":"Point"}
+  "bbox": [
+    -96.963226,
+    34.504956,
+    -96.963226,
+    34.504956
+],
+  "geometry": {"coordinates":[-96.96322600000001,34.504956],"type":"Point"}
 }

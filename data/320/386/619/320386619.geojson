@@ -2,13 +2,14 @@
   "id": 320386619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.357014,36.757646,-98.357014,36.757646",
     "geom:latitude":36.757646,
     "geom:longitude":-98.357014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 S Grand Ave",
     "sg:city":"Cherokee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320386619,
-    "wof:lastmodified":1449013219,
+    "wof:lastmodified":1466765506,
     "wof:name":"Timber Dipper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-98.357014,36.757646,-98.357014,36.757646],
-  "geometry": {"coordinates":[-98.357014,36.757646],"type":"Point"}
+  "bbox": [
+    -98.357014,
+    36.757646,
+    -98.357014,
+    36.757646
+],
+  "geometry": {"coordinates":[-98.35701400000001,36.757646],"type":"Point"}
 }

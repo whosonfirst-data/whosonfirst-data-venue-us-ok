@@ -2,13 +2,14 @@
   "id": 303524201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.128769,34.171258,-97.128769,34.171258",
     "geom:latitude":34.171258,
     "geom:longitude":-97.128769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 1st Ave SE",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303524201,
-    "wof:lastmodified":1448998092,
+    "wof:lastmodified":1466765835,
     "wof:name":"Rural Transportation Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "program"
     ]
 },
-  "bbox": [-97.128769,34.171258,-97.128769,34.171258],
-  "geometry": {"coordinates":[-97.128769,34.171258],"type":"Point"}
+  "bbox": [
+    -97.128769,
+    34.171258,
+    -97.128769,
+    34.171258
+],
+  "geometry": {"coordinates":[-97.12876900000001,34.171258],"type":"Point"}
 }

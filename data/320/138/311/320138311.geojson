@@ -2,13 +2,14 @@
   "id": 320138311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.550152,35.513685,-97.550152,35.513685",
     "geom:latitude":35.513685,
     "geom:longitude":-97.550152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 NW 41st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320138311,
-    "wof:lastmodified":1449012338,
+    "wof:lastmodified":1466764331,
     "wof:name":"Philip G Maguire DDS",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-97.550152,35.513685,-97.550152,35.513685],
+  "bbox": [
+    -97.550152,
+    35.513685,
+    -97.550152,
+    35.513685
+],
   "geometry": {"coordinates":[-97.550152,35.513685],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320371583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.320546,36.304507,-95.320546,36.304507",
     "geom:latitude":36.304507,
     "geom:longitude":-95.320546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 SW 2nd St",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320371583,
-    "wof:lastmodified":1449014136,
+    "wof:lastmodified":1466765581,
     "wof:name":"Erwin Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.320546,36.304507,-95.320546,36.304507],
-  "geometry": {"coordinates":[-95.320546,36.304507],"type":"Point"}
+  "bbox": [
+    -95.320546,
+    36.304507,
+    -95.320546,
+    36.304507
+],
+  "geometry": {"coordinates":[-95.32054599999999,36.304507],"type":"Point"}
 }

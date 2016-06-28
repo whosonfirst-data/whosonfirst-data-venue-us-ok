@@ -2,13 +2,14 @@
   "id": 353729777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.820451,35.996548,-95.820451,35.996548",
     "geom:latitude":35.996548,
     "geom:longitude":-95.820451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11333 S 140th East Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353729777,
-    "wof:lastmodified":1449019552,
+    "wof:lastmodified":1466765116,
     "wof:name":"Floors By George",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-95.820451,35.996548,-95.820451,35.996548],
-  "geometry": {"coordinates":[-95.820451,35.996548],"type":"Point"}
+  "bbox": [
+    -95.820451,
+    35.996548,
+    -95.820451,
+    35.996548
+],
+  "geometry": {"coordinates":[-95.82045100000001,35.996548],"type":"Point"}
 }

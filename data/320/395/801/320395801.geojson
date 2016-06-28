@@ -2,13 +2,14 @@
   "id": 320395801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.516492,35.542946,-97.516492,35.542946",
     "geom:latitude":35.542946,
     "geom:longitude":-97.516492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7001 N Robinson Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320395801,
-    "wof:lastmodified":1449014427,
+    "wof:lastmodified":1466765702,
     "wof:name":"Fishmaster Manufacturing Co",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-97.516492,35.542946,-97.516492,35.542946],
+  "bbox": [
+    -97.516492,
+    35.542946,
+    -97.516492,
+    35.542946
+],
   "geometry": {"coordinates":[-97.516492,35.542946],"type":"Point"}
 }

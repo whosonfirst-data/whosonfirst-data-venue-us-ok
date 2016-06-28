@@ -2,13 +2,14 @@
   "id": 320405311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.439073,35.648556,-97.439073,35.648556",
     "geom:latitude":35.648556,
     "geom:longitude":-97.439073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Rimrock Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320405311,
-    "wof:lastmodified":1449014648,
+    "wof:lastmodified":1466765745,
     "wof:name":"Pamperd Chf Indpndt Ktchn Cnst",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.439073,35.648556,-97.439073,35.648556],
-  "geometry": {"coordinates":[-97.439073,35.648556],"type":"Point"}
+  "bbox": [
+    -97.439073,
+    35.648556,
+    -97.439073,
+    35.648556
+],
+  "geometry": {"coordinates":[-97.43907299999999,35.648556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303654255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.671303,35.390101,-97.671303,35.390101",
     "geom:latitude":35.390101,
     "geom:longitude":-97.671303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7481 S County Line Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303654255,
-    "wof:lastmodified":1448998936,
+    "wof:lastmodified":1466766471,
     "wof:name":"Tinker Afb Oklahoma 552nd",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-97.671303,35.390101,-97.671303,35.390101],
-  "geometry": {"coordinates":[-97.671303,35.390101],"type":"Point"}
+  "bbox": [
+    -97.671303,
+    35.390101,
+    -97.671303,
+    35.390101
+],
+  "geometry": {"coordinates":[-97.67130299999999,35.390101],"type":"Point"}
 }

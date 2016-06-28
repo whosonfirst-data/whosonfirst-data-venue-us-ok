@@ -2,13 +2,14 @@
   "id": 336737805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.768448,34.931829,-95.768448,34.931829",
     "geom:latitude":34.931829,
     "geom:longitude":-95.768448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 E Choctaw Ave",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336737805,
-    "wof:lastmodified":1448997192,
+    "wof:lastmodified":1466764330,
     "wof:name":"Zoe's Apparel",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.768448,34.931829,-95.768448,34.931829],
-  "geometry": {"coordinates":[-95.768448,34.931829],"type":"Point"}
+  "bbox": [
+    -95.768448,
+    34.931829,
+    -95.768448,
+    34.931829
+],
+  "geometry": {"coordinates":[-95.76844800000001,34.931829],"type":"Point"}
 }

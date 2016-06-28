@@ -2,13 +2,14 @@
   "id": 320603865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.04855,36.140447,-97.04855,36.140447",
     "geom:latitude":36.140447,
     "geom:longitude":-97.04855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1807 N Hartford St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320603865,
-    "wof:lastmodified":1449014396,
+    "wof:lastmodified":1466766295,
     "wof:name":"Benham Duplex Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.04855,36.140447,-97.04855,36.140447],
-  "geometry": {"coordinates":[-97.04855,36.140447],"type":"Point"}
+  "bbox": [
+    -97.04855,
+    36.140447,
+    -97.04855,
+    36.140447
+],
+  "geometry": {"coordinates":[-97.04855000000001,36.140447],"type":"Point"}
 }

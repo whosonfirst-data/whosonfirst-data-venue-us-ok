@@ -2,13 +2,14 @@
   "id": 353856725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.459804,34.623364,-98.459804,34.623364",
     "geom:latitude":34.623364,
     "geom:longitude":-98.459804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5396 NW Cache Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353856725,
-    "wof:lastmodified":1449018995,
+    "wof:lastmodified":1466765545,
     "wof:name":"Western Hills Health Care Ctr",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-98.459804,34.623364,-98.459804,34.623364],
-  "geometry": {"coordinates":[-98.459804,34.623364],"type":"Point"}
+  "bbox": [
+    -98.459804,
+    34.623364,
+    -98.459804,
+    34.623364
+],
+  "geometry": {"coordinates":[-98.45980400000001,34.623364],"type":"Point"}
 }

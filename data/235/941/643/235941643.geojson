@@ -2,13 +2,14 @@
   "id": 235941643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.856423,36.118912,-95.856423,36.118912",
     "geom:latitude":36.118912,
     "geom:longitude":-95.856423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10802 E 31st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":235941643,
-    "wof:lastmodified":1449008454,
+    "wof:lastmodified":1466762480,
     "wof:name":"Bank of America",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "banking"
     ]
 },
-  "bbox": [-95.856423,36.118912,-95.856423,36.118912],
-  "geometry": {"coordinates":[-95.856423,36.118912],"type":"Point"}
+  "bbox": [
+    -95.856423,
+    36.118912,
+    -95.856423,
+    36.118912
+],
+  "geometry": {"coordinates":[-95.85642300000001,36.118912],"type":"Point"}
 }

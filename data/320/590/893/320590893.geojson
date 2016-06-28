@@ -2,13 +2,14 @@
   "id": 320590893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.480454,36.27219,-98.480454,36.27219",
     "geom:latitude":36.27219,
     "geom:longitude":-98.480454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Ash St",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320590893,
-    "wof:lastmodified":1449013482,
+    "wof:lastmodified":1466766269,
     "wof:name":"W B Johnston Grain Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "elevator"
     ]
 },
-  "bbox": [-98.480454,36.27219,-98.480454,36.27219],
-  "geometry": {"coordinates":[-98.480454,36.27219],"type":"Point"}
+  "bbox": [
+    -98.480454,
+    36.27219,
+    -98.480454,
+    36.27219
+],
+  "geometry": {"coordinates":[-98.48045399999999,36.27219],"type":"Point"}
 }

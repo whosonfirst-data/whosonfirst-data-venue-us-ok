@@ -2,13 +2,14 @@
   "id": 320443825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.415425,35.843395,-98.415425,35.843395",
     "geom:latitude":35.843395,
     "geom:longitude":-98.415425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 W A St",
     "sg:city":"Watonga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320443825,
-    "wof:lastmodified":1449014274,
+    "wof:lastmodified":1466766035,
     "wof:name":"Human Services Oklahoma Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-98.415425,35.843395,-98.415425,35.843395],
+  "bbox": [
+    -98.415425,
+    35.843395,
+    -98.415425,
+    35.843395
+],
   "geometry": {"coordinates":[-98.415425,35.843395],"type":"Point"}
 }

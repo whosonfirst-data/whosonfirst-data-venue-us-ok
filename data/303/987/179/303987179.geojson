@@ -2,13 +2,14 @@
   "id": 303987179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.97539,36.191645,-95.97539,36.191645",
     "geom:latitude":36.191645,
     "geom:longitude":-95.97539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 N Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303987179,
-    "wof:lastmodified":1448999490,
+    "wof:lastmodified":1466767068,
     "wof:name":"Royal Excellence Healthcare",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-95.97539,36.191645,-95.97539,36.191645],
+  "bbox": [
+    -95.97539,
+    36.191645,
+    -95.97539,
+    36.191645
+],
   "geometry": {"coordinates":[-95.97539,36.191645],"type":"Point"}
 }

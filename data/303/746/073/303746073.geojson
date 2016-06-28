@@ -2,13 +2,14 @@
   "id": 303746073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.457836,35.697801,-97.457836,35.697801",
     "geom:latitude":35.697801,
     "geom:longitude":-97.457836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4022 Wagonwheel Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303746073,
-    "wof:lastmodified":1448998094,
+    "wof:lastmodified":1466766602,
     "wof:name":"Motor Home Rental",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.457836,35.697801,-97.457836,35.697801],
+  "bbox": [
+    -97.457836,
+    35.697801,
+    -97.457836,
+    35.697801
+],
   "geometry": {"coordinates":[-97.457836,35.697801],"type":"Point"}
 }

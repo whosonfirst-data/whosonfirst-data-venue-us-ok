@@ -2,13 +2,14 @@
   "id": 303279567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.698304,34.03413,-95.698304,34.03413",
     "geom:latitude":34.03413,
     "geom:longitude":-95.698304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Paris Ave",
     "sg:city":"Soper",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303279567,
-    "wof:lastmodified":1448999243,
+    "wof:lastmodified":1466764863,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.698304,34.03413,-95.698304,34.03413],
-  "geometry": {"coordinates":[-95.698304,34.03413],"type":"Point"}
+  "bbox": [
+    -95.698304,
+    34.03413,
+    -95.698304,
+    34.03413
+],
+  "geometry": {"coordinates":[-95.69830399999999,34.03413],"type":"Point"}
 }

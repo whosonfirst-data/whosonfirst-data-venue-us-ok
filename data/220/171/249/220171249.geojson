@@ -2,13 +2,14 @@
   "id": 220171249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.992962,36.151592,-95.992962,36.151592",
     "geom:latitude":36.151592,
     "geom:longitude":-95.992962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 S Cheyenne Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220171249,
-    "wof:lastmodified":1449074884,
+    "wof:lastmodified":1466762318,
     "wof:name":"Pinnacle Transcription Services",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transcription"
     ]
 },
-  "bbox": [-95.992962,36.151592,-95.992962,36.151592],
-  "geometry": {"coordinates":[-95.992962,36.151592],"type":"Point"}
+  "bbox": [
+    -95.992962,
+    36.151592,
+    -95.992962,
+    36.151592
+],
+  "geometry": {"coordinates":[-95.99296200000001,36.151592],"type":"Point"}
 }

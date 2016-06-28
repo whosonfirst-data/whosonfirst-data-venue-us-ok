@@ -2,13 +2,14 @@
   "id": 303671371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.827633,36.300221,-95.827633,36.300221",
     "geom:latitude":36.300221,
     "geom:longitude":-95.827633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13100 E 101st St N",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303671371,
-    "wof:lastmodified":1448998676,
+    "wof:lastmodified":1466766566,
     "wof:name":"Airtech Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "industrial"
     ]
 },
-  "bbox": [-95.827633,36.300221,-95.827633,36.300221],
-  "geometry": {"coordinates":[-95.827633,36.300221],"type":"Point"}
+  "bbox": [
+    -95.827633,
+    36.300221,
+    -95.827633,
+    36.300221
+],
+  "geometry": {"coordinates":[-95.82763300000001,36.300221],"type":"Point"}
 }

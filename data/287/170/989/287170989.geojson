@@ -2,13 +2,14 @@
   "id": 287170989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.658047,35.462411,-97.658047,35.462411",
     "geom:latitude":35.462411,
     "geom:longitude":-97.658047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8308 SW 3rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287170989,
-    "wof:lastmodified":1449000730,
+    "wof:lastmodified":1466763800,
     "wof:name":"Oklahoma Liquefied Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gas"
     ]
 },
-  "bbox": [-97.658047,35.462411,-97.658047,35.462411],
+  "bbox": [
+    -97.658047,
+    35.462411,
+    -97.658047,
+    35.462411
+],
   "geometry": {"coordinates":[-97.658047,35.462411],"type":"Point"}
 }

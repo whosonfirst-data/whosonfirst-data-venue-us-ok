@@ -2,13 +2,14 @@
   "id": 303232031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.736242,35.489495,-97.736242,35.489495",
     "geom:latitude":35.489495,
     "geom:longitude":-97.736242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1729 Ridgeway Dr",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303232031,
-    "wof:lastmodified":1448998904,
+    "wof:lastmodified":1466764465,
     "wof:name":"Davis Shonda",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.736242,35.489495,-97.736242,35.489495],
+  "bbox": [
+    -97.736242,
+    35.489495,
+    -97.736242,
+    35.489495
+],
   "geometry": {"coordinates":[-97.736242,35.489495],"type":"Point"}
 }

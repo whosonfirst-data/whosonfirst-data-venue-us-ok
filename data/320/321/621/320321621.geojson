@@ -2,13 +2,14 @@
   "id": 320321621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.583346,35.483316,-97.583346,35.483316",
     "geom:latitude":35.483316,
     "geom:longitude":-97.583346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 N Portland Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320321621,
-    "wof:lastmodified":1449011345,
+    "wof:lastmodified":1466765411,
     "wof:name":"Portland Avenue Baptist Church",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.583346,35.483316,-97.583346,35.483316],
-  "geometry": {"coordinates":[-97.583346,35.483316],"type":"Point"}
+  "bbox": [
+    -97.583346,
+    35.483316,
+    -97.583346,
+    35.483316
+],
+  "geometry": {"coordinates":[-97.58334600000001,35.483316],"type":"Point"}
 }

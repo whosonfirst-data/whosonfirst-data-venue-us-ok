@@ -2,13 +2,14 @@
   "id": 303163591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.330671,34.670867,-99.330671,34.670867",
     "geom:latitude":34.670867,
     "geom:longitude":-99.330671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Pintail Cir",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303163591,
-    "wof:lastmodified":1449000514,
+    "wof:lastmodified":1466764274,
     "wof:name":"Jan Baskets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.330671,34.670867,-99.330671,34.670867],
+  "bbox": [
+    -99.330671,
+    34.670867,
+    -99.330671,
+    34.670867
+],
   "geometry": {"coordinates":[-99.330671,34.670867],"type":"Point"}
 }

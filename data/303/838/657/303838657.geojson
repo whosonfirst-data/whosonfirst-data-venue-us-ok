@@ -2,13 +2,14 @@
   "id": 303838657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.508529,36.151799,-95.508529,36.151799",
     "geom:latitude":36.151799,
     "geom:longitude":-95.508529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 E Commercial St",
     "sg:city":"Inola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303838657,
-    "wof:lastmodified":1448998415,
+    "wof:lastmodified":1466766699,
     "wof:name":"Midwest Recovery Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.508529,36.151799,-95.508529,36.151799],
+  "bbox": [
+    -95.508529,
+    36.151799,
+    -95.508529,
+    36.151799
+],
   "geometry": {"coordinates":[-95.508529,36.151799],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303675635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.390561,36.434872,-99.390561,36.434872",
     "geom:latitude":36.434872,
     "geom:longitude":-99.390561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Texas Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303675635,
-    "wof:lastmodified":1448999360,
+    "wof:lastmodified":1466766370,
     "wof:name":"Parkview Furniture Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.390561,36.434872,-99.390561,36.434872],
-  "geometry": {"coordinates":[-99.390561,36.434872],"type":"Point"}
+  "bbox": [
+    -99.390561,
+    36.434872,
+    -99.390561,
+    36.434872
+],
+  "geometry": {"coordinates":[-99.39056100000001,36.434872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303650211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.883246,36.136268,-95.883246,36.136268",
     "geom:latitude":36.136268,
     "geom:longitude":-95.883246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 S 84th E Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303650211,
-    "wof:lastmodified":1448999612,
+    "wof:lastmodified":1466766250,
     "wof:name":"Investigation & Recovery",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-95.883246,36.136268,-95.883246,36.136268],
+  "bbox": [
+    -95.883246,
+    36.136268,
+    -95.883246,
+    36.136268
+],
   "geometry": {"coordinates":[-95.883246,36.136268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303188021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.203698,35.391559,-97.203698,35.391559",
     "geom:latitude":35.391559,
     "geom:longitude":-97.203698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18534 SE 74th St",
     "sg:city":"Newalla",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303188021,
-    "wof:lastmodified":1448999331,
+    "wof:lastmodified":1466764457,
     "wof:name":"Companion Memorial Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cemetery"
     ]
 },
-  "bbox": [-97.203698,35.391559,-97.203698,35.391559],
+  "bbox": [
+    -97.203698,
+    35.391559,
+    -97.203698,
+    35.391559
+],
   "geometry": {"coordinates":[-97.203698,35.391559],"type":"Point"}
 }

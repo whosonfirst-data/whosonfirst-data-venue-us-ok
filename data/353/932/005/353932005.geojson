@@ -2,13 +2,14 @@
   "id": 353932005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.046481,35.389976,-97.046481,35.389976",
     "geom:latitude":35.389976,
     "geom:longitude":-97.046481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Oklahoma Ave",
     "sg:city":"Dale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353932005,
-    "wof:lastmodified":1449019211,
+    "wof:lastmodified":1466765671,
     "wof:name":"Dale Church of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.046481,35.389976,-97.046481,35.389976],
+  "bbox": [
+    -97.046481,
+    35.389976,
+    -97.046481,
+    35.389976
+],
   "geometry": {"coordinates":[-97.046481,35.389976],"type":"Point"}
 }

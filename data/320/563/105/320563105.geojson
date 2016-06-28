@@ -2,13 +2,14 @@
   "id": 320563105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.388573,35.082905,-96.388573,35.082905",
     "geom:latitude":35.082905,
     "geom:longitude":-96.388573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Oliphant St",
     "sg:city":"Holdenville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320563105,
-    "wof:lastmodified":1449011312,
+    "wof:lastmodified":1466766110,
     "wof:name":"Thetford Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.388573,35.082905,-96.388573,35.082905],
-  "geometry": {"coordinates":[-96.388573,35.082905],"type":"Point"}
+  "bbox": [
+    -96.388573,
+    35.082905,
+    -96.388573,
+    35.082905
+],
+  "geometry": {"coordinates":[-96.38857299999999,35.082905],"type":"Point"}
 }

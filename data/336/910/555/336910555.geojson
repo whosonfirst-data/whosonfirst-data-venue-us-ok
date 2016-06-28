@@ -2,13 +2,14 @@
   "id": 336910555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.600055,35.247475,-97.600055,35.247475",
     "geom:latitude":35.247475,
     "geom:longitude":-97.600055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 N Main St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336910555,
-    "wof:lastmodified":1448997393,
+    "wof:lastmodified":1466765265,
     "wof:name":"Branum Law Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.600055,35.247475,-97.600055,35.247475],
+  "bbox": [
+    -97.600055,
+    35.247475,
+    -97.600055,
+    35.247475
+],
   "geometry": {"coordinates":[-97.600055,35.247475],"type":"Point"}
 }

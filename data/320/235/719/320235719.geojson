@@ -2,13 +2,14 @@
   "id": 320235719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.941156,35.041765,-97.941156,35.041765",
     "geom:latitude":35.041765,
     "geom:longitude":-97.941156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 S 7th St",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320235719,
-    "wof:lastmodified":1449011899,
+    "wof:lastmodified":1466764872,
     "wof:name":"Chickasha School of Dance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.941156,35.041765,-97.941156,35.041765],
-  "geometry": {"coordinates":[-97.941156,35.041765],"type":"Point"}
+  "bbox": [
+    -97.941156,
+    35.041765,
+    -97.941156,
+    35.041765
+],
+  "geometry": {"coordinates":[-97.94115600000001,35.041765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303828603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.366036,35.012385,-97.366036,35.012385",
     "geom:latitude":35.012385,
     "geom:longitude":-97.366036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Green Ave",
     "sg:city":"Purcell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303828603,
-    "wof:lastmodified":1448999360,
+    "wof:lastmodified":1466766784,
     "wof:name":"4k Tack & Horse Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.366036,35.012385,-97.366036,35.012385],
-  "geometry": {"coordinates":[-97.366036,35.012385],"type":"Point"}
+  "bbox": [
+    -97.366036,
+    35.012385,
+    -97.366036,
+    35.012385
+],
+  "geometry": {"coordinates":[-97.36603599999999,35.012385],"type":"Point"}
 }

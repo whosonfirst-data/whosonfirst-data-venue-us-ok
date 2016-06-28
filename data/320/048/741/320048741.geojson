@@ -2,13 +2,14 @@
   "id": 320048741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531379,35.492239,-97.531379,35.492239",
     "geom:latitude":35.492239,
     "geom:longitude":-97.531379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 NW 22nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320048741,
-    "wof:lastmodified":1449012568,
+    "wof:lastmodified":1466763011,
     "wof:name":"Gayly Oklahoman",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-97.531379,35.492239,-97.531379,35.492239],
+  "bbox": [
+    -97.531379,
+    35.492239,
+    -97.531379,
+    35.492239
+],
   "geometry": {"coordinates":[-97.531379,35.492239],"type":"Point"}
 }

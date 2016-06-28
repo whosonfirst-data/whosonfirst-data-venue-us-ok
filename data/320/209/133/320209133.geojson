@@ -2,13 +2,14 @@
   "id": 320209133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.983879,35.624774,-95.983879,35.624774",
     "geom:latitude":35.624774,
     "geom:longitude":-95.983879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 W 4th St",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320209133,
-    "wof:lastmodified":1449014566,
+    "wof:lastmodified":1466764513,
     "wof:name":"Franks Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-95.983879,35.624774,-95.983879,35.624774],
+  "bbox": [
+    -95.983879,
+    35.624774,
+    -95.983879,
+    35.624774
+],
   "geometry": {"coordinates":[-95.983879,35.624774],"type":"Point"}
 }

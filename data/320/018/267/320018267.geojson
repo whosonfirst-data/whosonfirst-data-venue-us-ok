@@ -2,13 +2,14 @@
   "id": 320018267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.404177,35.7117,-95.404177,35.7117",
     "geom:latitude":35.7117,
     "geom:longitude":-95.404177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 W Peak Blvd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320018267,
-    "wof:lastmodified":1449013123,
+    "wof:lastmodified":1466762554,
     "wof:name":"Muskogee Indian Smoke Shop",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.404177,35.7117,-95.404177,35.7117],
+  "bbox": [
+    -95.404177,
+    35.7117,
+    -95.404177,
+    35.7117
+],
   "geometry": {"coordinates":[-95.404177,35.7117],"type":"Point"}
 }

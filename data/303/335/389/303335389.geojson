@@ -2,13 +2,14 @@
   "id": 303335389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565472,35.419179,-97.565472,35.419179",
     "geom:latitude":35.419179,
     "geom:longitude":-97.565472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4524 S May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303335389,
-    "wof:lastmodified":1448999732,
+    "wof:lastmodified":1466765215,
     "wof:name":"Spencer For Hire",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "server"
     ]
 },
-  "bbox": [-97.565472,35.419179,-97.565472,35.419179],
+  "bbox": [
+    -97.565472,
+    35.419179,
+    -97.565472,
+    35.419179
+],
   "geometry": {"coordinates":[-97.565472,35.419179],"type":"Point"}
 }

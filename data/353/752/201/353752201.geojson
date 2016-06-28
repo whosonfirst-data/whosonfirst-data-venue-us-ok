@@ -2,13 +2,14 @@
   "id": 353752201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.828843,36.144508,-95.828843,36.144508",
     "geom:latitude":36.144508,
     "geom:longitude":-95.828843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 S 133rd East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353752201,
-    "wof:lastmodified":1449018670,
+    "wof:lastmodified":1466765113,
     "wof:name":"Tsb Realty LLC",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.828843,36.144508,-95.828843,36.144508],
-  "geometry": {"coordinates":[-95.828843,36.144508],"type":"Point"}
+  "bbox": [
+    -95.828843,
+    36.144508,
+    -95.828843,
+    36.144508
+],
+  "geometry": {"coordinates":[-95.82884300000001,36.144508],"type":"Point"}
 }

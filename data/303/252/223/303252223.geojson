@@ -2,13 +2,14 @@
   "id": 303252223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.516154,35.467805,-97.516154,35.467805",
     "geom:latitude":35.467805,
     "geom:longitude":-97.516154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 W Main St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303252223,
-    "wof:lastmodified":1448998439,
+    "wof:lastmodified":1466764717,
     "wof:name":"Sissy's Restaurant",
     "wof:parent_id":85871717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.516154,35.467805,-97.516154,35.467805],
+  "bbox": [
+    -97.516154,
+    35.467805,
+    -97.516154,
+    35.467805
+],
   "geometry": {"coordinates":[-97.516154,35.467805],"type":"Point"}
 }

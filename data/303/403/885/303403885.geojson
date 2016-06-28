@@ -2,13 +2,14 @@
   "id": 303403885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.550122,35.452748,-97.550122,35.452748",
     "geom:latitude":35.452748,
     "geom:longitude":-97.550122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 Exchange Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303403885,
-    "wof:lastmodified":1449000218,
+    "wof:lastmodified":1466765462,
     "wof:name":"In Style Salon",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.550122,35.452748,-97.550122,35.452748],
+  "bbox": [
+    -97.550122,
+    35.452748,
+    -97.550122,
+    35.452748
+],
   "geometry": {"coordinates":[-97.550122,35.452748],"type":"Point"}
 }

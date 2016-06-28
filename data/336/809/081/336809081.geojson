@@ -2,13 +2,14 @@
   "id": 336809081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.492565,35.411082,-97.492565,35.411082",
     "geom:latitude":35.411082,
     "geom:longitude":-97.492565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5354 S I- 35 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336809081,
-    "wof:lastmodified":1448997839,
+    "wof:lastmodified":1466764700,
     "wof:name":"Johnson Crating Svc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "crating"
     ]
 },
-  "bbox": [-97.492565,35.411082,-97.492565,35.411082],
+  "bbox": [
+    -97.492565,
+    35.411082,
+    -97.492565,
+    35.411082
+],
   "geometry": {"coordinates":[-97.492565,35.411082],"type":"Point"}
 }

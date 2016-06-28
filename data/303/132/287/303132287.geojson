@@ -2,13 +2,14 @@
   "id": 303132287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.53136,35.56166,-97.53136,35.56166",
     "geom:latitude":35.56166,
     "geom:longitude":-97.53136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9003 N Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303132287,
-    "wof:lastmodified":1448999314,
+    "wof:lastmodified":1466763758,
     "wof:name":"Nancy's Tailor Shop",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-97.53136,35.56166,-97.53136,35.56166],
-  "geometry": {"coordinates":[-97.53136,35.56166],"type":"Point"}
+  "bbox": [
+    -97.53136,
+    35.56166,
+    -97.53136,
+    35.56166
+],
+  "geometry": {"coordinates":[-97.53136000000001,35.56166],"type":"Point"}
 }

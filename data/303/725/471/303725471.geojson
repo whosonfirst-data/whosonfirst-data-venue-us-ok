@@ -2,13 +2,14 @@
   "id": 303725471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.515077,34.012505,-95.515077,34.012505",
     "geom:latitude":34.012505,
     "geom:longitude":-95.515077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 W Clayton St",
     "sg:city":"Hugo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303725471,
-    "wof:lastmodified":1448998705,
+    "wof:lastmodified":1466766410,
     "wof:name":"R&S Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [-95.515077,34.012505,-95.515077,34.012505],
-  "geometry": {"coordinates":[-95.515077,34.012505],"type":"Point"}
+  "bbox": [
+    -95.515077,
+    34.012505,
+    -95.515077,
+    34.012505
+],
+  "geometry": {"coordinates":[-95.51507700000001,34.012505],"type":"Point"}
 }

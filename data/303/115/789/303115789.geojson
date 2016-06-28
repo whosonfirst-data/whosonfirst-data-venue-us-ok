@@ -2,13 +2,14 @@
   "id": 303115789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.953499,34.647703,-97.953499,34.647703",
     "geom:latitude":34.647703,
     "geom:longitude":-97.953499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 E Main St",
     "sg:city":"Marlow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303115789,
-    "wof:lastmodified":1448998097,
+    "wof:lastmodified":1466763486,
     "wof:name":"Marlow Mercantile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.953499,34.647703,-97.953499,34.647703],
-  "geometry": {"coordinates":[-97.953499,34.647703],"type":"Point"}
+  "bbox": [
+    -97.953499,
+    34.647703,
+    -97.953499,
+    34.647703
+],
+  "geometry": {"coordinates":[-97.95349899999999,34.647703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353985707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.426558,34.603327,-98.426558,34.603327",
     "geom:latitude":34.603327,
     "geom:longitude":-98.426558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2402 SW E Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353985707,
-    "wof:lastmodified":1449019532,
+    "wof:lastmodified":1466765816,
     "wof:name":"Howell Elementary School",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-98.426558,34.603327,-98.426558,34.603327],
+  "bbox": [
+    -98.426558,
+    34.603327,
+    -98.426558,
+    34.603327
+],
   "geometry": {"coordinates":[-98.426558,34.603327],"type":"Point"}
 }

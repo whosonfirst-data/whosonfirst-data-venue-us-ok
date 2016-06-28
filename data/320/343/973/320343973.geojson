@@ -2,13 +2,14 @@
   "id": 320343973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.32011,36.28891,-95.32011,36.28891",
     "geom:latitude":36.28891,
     "geom:longitude":-95.32011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Lakeview Dr",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320343973,
-    "wof:lastmodified":1449013914,
+    "wof:lastmodified":1466765438,
     "wof:name":"Pryor Area Arts & Humanities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.32011,36.28891,-95.32011,36.28891],
+  "bbox": [
+    -95.32011,
+    36.28891,
+    -95.32011,
+    36.28891
+],
   "geometry": {"coordinates":[-95.32011,36.28891],"type":"Point"}
 }

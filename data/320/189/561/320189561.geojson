@@ -2,13 +2,14 @@
   "id": 320189561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.522314,35.457886,-97.522314,35.457886",
     "geom:latitude":35.457886,
     "geom:longitude":-97.522314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 SW 7th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320189561,
-    "wof:lastmodified":1449013902,
+    "wof:lastmodified":1466764548,
     "wof:name":"Aztec Moving & Storage Co",
     "wof:parent_id":85871685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-97.522314,35.457886,-97.522314,35.457886],
-  "geometry": {"coordinates":[-97.522314,35.457886],"type":"Point"}
+  "bbox": [
+    -97.522314,
+    35.457886,
+    -97.522314,
+    35.457886
+],
+  "geometry": {"coordinates":[-97.52231399999999,35.457886],"type":"Point"}
 }

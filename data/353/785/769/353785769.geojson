@@ -2,13 +2,14 @@
   "id": 353785769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.912708,36.086752,-95.912708,36.086752",
     "geom:latitude":36.086752,
     "geom:longitude":-95.912708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5312 S Hudson Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353785769,
-    "wof:lastmodified":1449020386,
+    "wof:lastmodified":1466765376,
     "wof:name":"Zion Real Estate Svc",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.912708,36.086752,-95.912708,36.086752],
-  "geometry": {"coordinates":[-95.912708,36.086752],"type":"Point"}
+  "bbox": [
+    -95.912708,
+    36.086752,
+    -95.912708,
+    36.086752
+],
+  "geometry": {"coordinates":[-95.91270799999999,36.086752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303313683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.370324,35.713528,-95.370324,35.713528",
     "geom:latitude":35.713528,
     "geom:longitude":-95.370324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Kent Dr",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303313683,
-    "wof:lastmodified":1448998192,
+    "wof:lastmodified":1466765018,
     "wof:name":"Tile Works By Kellie",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.370324,35.713528,-95.370324,35.713528],
+  "bbox": [
+    -95.370324,
+    35.713528,
+    -95.370324,
+    35.713528
+],
   "geometry": {"coordinates":[-95.370324,35.713528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303561431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.452176,35.61922,-97.452176,35.61922",
     "geom:latitude":35.61922,
     "geom:longitude":-97.452176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Creek Cir",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303561431,
-    "wof:lastmodified":1448999851,
+    "wof:lastmodified":1466766069,
     "wof:name":"Shumard Designs",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.452176,35.61922,-97.452176,35.61922],
-  "geometry": {"coordinates":[-97.452176,35.61922],"type":"Point"}
+  "bbox": [
+    -97.452176,
+    35.61922,
+    -97.452176,
+    35.61922
+],
+  "geometry": {"coordinates":[-97.45217599999999,35.61922],"type":"Point"}
 }

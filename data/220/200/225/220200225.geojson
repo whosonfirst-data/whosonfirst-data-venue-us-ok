@@ -2,13 +2,14 @@
   "id": 220200225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.890736,36.03186,-95.890736,36.03186",
     "geom:latitude":36.03186,
     "geom:longitude":-95.890736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7718 E 91st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":220200225,
-    "wof:lastmodified":1449074358,
+    "wof:lastmodified":1466762583,
     "wof:name":"Ungerland Chiropractic Clinic",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-95.890736,36.03186,-95.890736,36.03186],
+  "bbox": [
+    -95.890736,
+    36.03186,
+    -95.890736,
+    36.03186
+],
   "geometry": {"coordinates":[-95.890736,36.03186],"type":"Point"}
 }

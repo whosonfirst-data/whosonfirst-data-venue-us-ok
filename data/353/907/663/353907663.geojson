@@ -2,13 +2,14 @@
   "id": 353907663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.165777,36.557187,-96.165777,36.557187",
     "geom:latitude":36.557187,
     "geom:longitude":-96.165777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 8th St",
     "sg:city":"Barnsdall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353907663,
-    "wof:lastmodified":1449020610,
+    "wof:lastmodified":1466765700,
     "wof:name":"Barnsdall Smoke Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.165777,36.557187,-96.165777,36.557187],
-  "geometry": {"coordinates":[-96.165777,36.557187],"type":"Point"}
+  "bbox": [
+    -96.165777,
+    36.557187,
+    -96.165777,
+    36.557187
+],
+  "geometry": {"coordinates":[-96.16577700000001,36.557187],"type":"Point"}
 }

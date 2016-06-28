@@ -2,13 +2,14 @@
   "id": 303282247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.986347,36.137982,-95.986347,36.137982",
     "geom:latitude":36.137982,
     "geom:longitude":-95.986347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 S Baltimore Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303282247,
-    "wof:lastmodified":1448999650,
+    "wof:lastmodified":1466764870,
     "wof:name":"Community Service Council",
     "wof:parent_id":85872487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [-95.986347,36.137982,-95.986347,36.137982],
-  "geometry": {"coordinates":[-95.986347,36.137982],"type":"Point"}
+  "bbox": [
+    -95.986347,
+    36.137982,
+    -95.986347,
+    36.137982
+],
+  "geometry": {"coordinates":[-95.98634699999999,36.137982],"type":"Point"}
 }

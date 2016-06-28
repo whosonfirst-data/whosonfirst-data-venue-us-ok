@@ -2,13 +2,14 @@
   "id": 320859641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.923908,36.764584,-95.923908,36.764584",
     "geom:latitude":36.764584,
     "geom:longitude":-95.923908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4825 Nebraska Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320859641,
-    "wof:lastmodified":1449013938,
+    "wof:lastmodified":1466767061,
     "wof:name":"Dan Hough Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.923908,36.764584,-95.923908,36.764584],
+  "bbox": [
+    -95.923908,
+    36.764584,
+    -95.923908,
+    36.764584
+],
   "geometry": {"coordinates":[-95.923908,36.764584],"type":"Point"}
 }

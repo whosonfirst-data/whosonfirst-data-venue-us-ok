@@ -2,13 +2,14 @@
   "id": 319836441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.521509,35.43639,-97.521509,35.43639",
     "geom:latitude":35.43639,
     "geom:longitude":-97.521509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2813 S Walker Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319836441,
-    "wof:lastmodified":1449024595,
+    "wof:lastmodified":1466763021,
     "wof:name":"Avenue Automall",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.521509,35.43639,-97.521509,35.43639],
-  "geometry": {"coordinates":[-97.521509,35.43639],"type":"Point"}
+  "bbox": [
+    -97.521509,
+    35.43639,
+    -97.521509,
+    35.43639
+],
+  "geometry": {"coordinates":[-97.52150899999999,35.43639],"type":"Point"}
 }

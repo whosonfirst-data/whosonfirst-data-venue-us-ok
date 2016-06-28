@@ -2,13 +2,14 @@
   "id": 304084373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.903567,36.401827,-97.903567,36.401827",
     "geom:latitude":36.401827,
     "geom:longitude":-97.903567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2109 W Oak Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304084373,
-    "wof:lastmodified":1449043618,
+    "wof:lastmodified":1466763311,
     "wof:name":"REM Oklahoma Community Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.903567,36.401827,-97.903567,36.401827],
+  "bbox": [
+    -97.903567,
+    36.401827,
+    -97.903567,
+    36.401827
+],
   "geometry": {"coordinates":[-97.903567,36.401827],"type":"Point"}
 }

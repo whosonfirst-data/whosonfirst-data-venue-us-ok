@@ -2,13 +2,14 @@
   "id": 320788461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.407286,36.441503,-99.407286,36.441503",
     "geom:latitude":36.441503,
     "geom:longitude":-99.407286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 22nd St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320788461,
-    "wof:lastmodified":1449013182,
+    "wof:lastmodified":1466766803,
     "wof:name":"Still N Motion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "picture"
     ]
 },
-  "bbox": [-99.407286,36.441503,-99.407286,36.441503],
+  "bbox": [
+    -99.407286,
+    36.441503,
+    -99.407286,
+    36.441503
+],
   "geometry": {"coordinates":[-99.407286,36.441503],"type":"Point"}
 }

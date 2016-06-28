@@ -2,13 +2,14 @@
   "id": 303928991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.879738,35.985675,-95.879738,35.985675",
     "geom:latitude":35.985675,
     "geom:longitude":-95.879738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8516 E 123rd St S",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303928991,
-    "wof:lastmodified":1449000221,
+    "wof:lastmodified":1466767092,
     "wof:name":"Delphin Water Systems",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.879738,35.985675,-95.879738,35.985675],
+  "bbox": [
+    -95.879738,
+    35.985675,
+    -95.879738,
+    35.985675
+],
   "geometry": {"coordinates":[-95.879738,35.985675],"type":"Point"}
 }

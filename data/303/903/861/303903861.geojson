@@ -2,13 +2,14 @@
   "id": 303903861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.446077,35.599244,-97.446077,35.599244",
     "geom:latitude":35.599244,
     "geom:longitude":-97.446077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4121 Oakdale Forest Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303903861,
-    "wof:lastmodified":1448998265,
+    "wof:lastmodified":1466766881,
     "wof:name":"Pauls Heating & AC",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.446077,35.599244,-97.446077,35.599244],
+  "bbox": [
+    -97.446077,
+    35.599244,
+    -97.446077,
+    35.599244
+],
   "geometry": {"coordinates":[-97.446077,35.599244],"type":"Point"}
 }

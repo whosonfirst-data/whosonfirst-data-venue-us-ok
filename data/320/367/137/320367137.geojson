@@ -2,13 +2,14 @@
   "id": 320367137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.558788,35.583567,-97.558788,35.583567",
     "geom:latitude":35.583567,
     "geom:longitude":-97.558788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 NW 112th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320367137,
-    "wof:lastmodified":1449013466,
+    "wof:lastmodified":1466765570,
     "wof:name":"Stonegate Elementary School",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.558788,35.583567,-97.558788,35.583567],
-  "geometry": {"coordinates":[-97.558788,35.583567],"type":"Point"}
+  "bbox": [
+    -97.558788,
+    35.583567,
+    -97.558788,
+    35.583567
+],
+  "geometry": {"coordinates":[-97.55878800000001,35.583567],"type":"Point"}
 }

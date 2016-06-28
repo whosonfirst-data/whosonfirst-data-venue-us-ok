@@ -2,13 +2,14 @@
   "id": 303222813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.985396,36.373971,-97.985396,36.373971",
     "geom:latitude":36.373971,
     "geom:longitude":-97.985396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Sara Rd",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303222813,
-    "wof:lastmodified":1448999751,
+    "wof:lastmodified":1466764574,
     "wof:name":"Dans Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.985396,36.373971,-97.985396,36.373971],
-  "geometry": {"coordinates":[-97.985396,36.373971],"type":"Point"}
+  "bbox": [
+    -97.985396,
+    36.373971,
+    -97.985396,
+    36.373971
+],
+  "geometry": {"coordinates":[-97.98539599999999,36.373971],"type":"Point"}
 }

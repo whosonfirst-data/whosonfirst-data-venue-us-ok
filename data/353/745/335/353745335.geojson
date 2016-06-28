@@ -2,13 +2,14 @@
   "id": 353745335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.044743,36.116086,-97.044743,36.116086",
     "geom:latitude":36.116086,
     "geom:longitude":-97.044743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 E 6th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353745335,
-    "wof:lastmodified":1449020673,
+    "wof:lastmodified":1466765086,
     "wof:name":"Cowboy Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.044743,36.116086,-97.044743,36.116086],
+  "bbox": [
+    -97.044743,
+    36.116086,
+    -97.044743,
+    36.116086
+],
   "geometry": {"coordinates":[-97.044743,36.116086],"type":"Point"}
 }

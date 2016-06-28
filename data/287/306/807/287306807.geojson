@@ -2,13 +2,14 @@
   "id": 287306807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.422046,34.632443,-98.422046,34.632443",
     "geom:latitude":34.632443,
     "geom:longitude":-98.422046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 NW Smith Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287306807,
-    "wof:lastmodified":1449001544,
+    "wof:lastmodified":1466763517,
     "wof:name":"Tmac Aircraft Svc",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-98.422046,34.632443,-98.422046,34.632443],
-  "geometry": {"coordinates":[-98.422046,34.632443],"type":"Point"}
+  "bbox": [
+    -98.422046,
+    34.632443,
+    -98.422046,
+    34.632443
+],
+  "geometry": {"coordinates":[-98.42204599999999,34.632443],"type":"Point"}
 }

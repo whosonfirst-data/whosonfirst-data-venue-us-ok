@@ -2,13 +2,14 @@
   "id": 336776421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.334072,34.668393,-99.334072,34.668393",
     "geom:latitude":34.668393,
     "geom:longitude":-99.334072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 N Main St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336776421,
-    "wof:lastmodified":1448997187,
+    "wof:lastmodified":1466764545,
     "wof:name":"Osu Cooperative Extension Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "marketing"
     ]
 },
-  "bbox": [-99.334072,34.668393,-99.334072,34.668393],
-  "geometry": {"coordinates":[-99.334072,34.668393],"type":"Point"}
+  "bbox": [
+    -99.334072,
+    34.668393,
+    -99.334072,
+    34.668393
+],
+  "geometry": {"coordinates":[-99.33407200000001,34.668393],"type":"Point"}
 }

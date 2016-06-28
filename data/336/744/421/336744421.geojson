@@ -2,13 +2,14 @@
   "id": 336744421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.429054,34.614061,-98.429054,34.614061",
     "geom:latitude":34.614061,
     "geom:longitude":-98.429054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2602 NW Bell Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336744421,
-    "wof:lastmodified":1448997322,
+    "wof:lastmodified":1466764360,
     "wof:name":"J M S Educational Services",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-98.429054,34.614061,-98.429054,34.614061],
-  "geometry": {"coordinates":[-98.429054,34.614061],"type":"Point"}
+  "bbox": [
+    -98.429054,
+    34.614061,
+    -98.429054,
+    34.614061
+],
+  "geometry": {"coordinates":[-98.42905399999999,34.614061],"type":"Point"}
 }

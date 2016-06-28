@@ -2,13 +2,14 @@
   "id": 353949811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549263,35.49189,-97.549263,35.49189",
     "geom:latitude":35.49189,
     "geom:longitude":-97.549263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 NW 22nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353949811,
-    "wof:lastmodified":1449019854,
+    "wof:lastmodified":1466765824,
     "wof:name":"Emergency Plumbing & Leak",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.549263,35.49189,-97.549263,35.49189],
+  "bbox": [
+    -97.549263,
+    35.49189,
+    -97.549263,
+    35.49189
+],
   "geometry": {"coordinates":[-97.549263,35.49189],"type":"Point"}
 }

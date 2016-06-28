@@ -2,13 +2,14 @@
   "id": 303777383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.596243,35.493241,-97.596243,35.493241",
     "geom:latitude":35.493241,
     "geom:longitude":-97.596243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4215 NW 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303777383,
-    "wof:lastmodified":1448999412,
+    "wof:lastmodified":1466766591,
     "wof:name":"Oklahoma Custom Lending",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-97.596243,35.493241,-97.596243,35.493241],
+  "bbox": [
+    -97.596243,
+    35.493241,
+    -97.596243,
+    35.493241
+],
   "geometry": {"coordinates":[-97.596243,35.493241],"type":"Point"}
 }

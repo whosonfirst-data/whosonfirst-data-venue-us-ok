@@ -2,13 +2,14 @@
   "id": 320072403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.784109,35.984065,-96.784109,35.984065",
     "geom:latitude":35.984065,
     "geom:longitude":-96.784109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 W Walnut St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320072403,
-    "wof:lastmodified":1449013229,
+    "wof:lastmodified":1466763361,
     "wof:name":"Houston's Septic Tank Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-96.784109,35.984065,-96.784109,35.984065],
+  "bbox": [
+    -96.784109,
+    35.984065,
+    -96.784109,
+    35.984065
+],
   "geometry": {"coordinates":[-96.784109,35.984065],"type":"Point"}
 }

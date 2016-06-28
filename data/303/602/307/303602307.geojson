@@ -2,13 +2,14 @@
   "id": 303602307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.485396,35.623423,-97.485396,35.623423",
     "geom:latitude":35.623423,
     "geom:longitude":-97.485396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 E 33rd St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303602307,
-    "wof:lastmodified":1448999266,
+    "wof:lastmodified":1466766187,
     "wof:name":"Paper Warehouse",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-97.485396,35.623423,-97.485396,35.623423],
-  "geometry": {"coordinates":[-97.485396,35.623423],"type":"Point"}
+  "bbox": [
+    -97.485396,
+    35.623423,
+    -97.485396,
+    35.623423
+],
+  "geometry": {"coordinates":[-97.48539599999999,35.623423],"type":"Point"}
 }

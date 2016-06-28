@@ -2,13 +2,14 @@
   "id": 320842087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530129,35.38078,-97.530129,35.38078",
     "geom:latitude":35.38078,
     "geom:longitude":-97.530129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8501 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320842087,
-    "wof:lastmodified":1449011520,
+    "wof:lastmodified":1466766939,
     "wof:name":"Southwestern Pet Clinic",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-97.530129,35.38078,-97.530129,35.38078],
+  "bbox": [
+    -97.530129,
+    35.38078,
+    -97.530129,
+    35.38078
+],
   "geometry": {"coordinates":[-97.530129,35.38078],"type":"Point"}
 }

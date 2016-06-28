@@ -2,13 +2,14 @@
   "id": 353878831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507543,35.469448,-97.507543,35.469448",
     "geom:latitude":35.469448,
     "geom:longitude":-97.507543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 N Central Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353878831,
-    "wof:lastmodified":1449019595,
+    "wof:lastmodified":1466765620,
     "wof:name":"Purpose Publishing",
     "wof:parent_id":85871671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-97.507543,35.469448,-97.507543,35.469448],
+  "bbox": [
+    -97.507543,
+    35.469448,
+    -97.507543,
+    35.469448
+],
   "geometry": {"coordinates":[-97.507543,35.469448],"type":"Point"}
 }

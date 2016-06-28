@@ -2,13 +2,14 @@
   "id": 336805261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.44036,35.879989,-97.44036,35.879989",
     "geom:latitude":35.879989,
     "geom:longitude":-97.44036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1219 W Noble Ave",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336805261,
-    "wof:lastmodified":1448997296,
+    "wof:lastmodified":1466764592,
     "wof:name":"Noble Avenue Baptist Church",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.44036,35.879989,-97.44036,35.879989],
+  "bbox": [
+    -97.44036,
+    35.879989,
+    -97.44036,
+    35.879989
+],
   "geometry": {"coordinates":[-97.44036,35.879989],"type":"Point"}
 }

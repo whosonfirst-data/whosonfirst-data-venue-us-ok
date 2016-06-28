@@ -2,13 +2,14 @@
   "id": 320764223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.058576,36.12187,-97.058576,36.12187",
     "geom:latitude":36.12187,
     "geom:longitude":-97.058576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Main St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320764223,
-    "wof:lastmodified":1449014783,
+    "wof:lastmodified":1466766739,
     "wof:name":"Connecting Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.058576,36.12187,-97.058576,36.12187],
+  "bbox": [
+    -97.058576,
+    36.12187,
+    -97.058576,
+    36.12187
+],
   "geometry": {"coordinates":[-97.058576,36.12187],"type":"Point"}
 }

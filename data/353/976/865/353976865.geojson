@@ -2,13 +2,14 @@
   "id": 353976865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.486445,35.526816,-97.486445,35.526816",
     "geom:latitude":35.526816,
     "geom:longitude":-97.486445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 NE 55th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353976865,
-    "wof:lastmodified":1449019305,
+    "wof:lastmodified":1466765903,
     "wof:name":"A Plus Communications Inc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-97.486445,35.526816,-97.486445,35.526816],
+  "bbox": [
+    -97.486445,
+    35.526816,
+    -97.486445,
+    35.526816
+],
   "geometry": {"coordinates":[-97.486445,35.526816],"type":"Point"}
 }

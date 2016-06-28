@@ -2,13 +2,14 @@
   "id": 303407671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.700024,35.528015,-98.700024,35.528015",
     "geom:latitude":35.528015,
     "geom:longitude":-98.700024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Kansas St",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303407671,
-    "wof:lastmodified":1448999478,
+    "wof:lastmodified":1466765533,
     "wof:name":"Southwestern Memorial Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "community"
     ]
 },
-  "bbox": [-98.700024,35.528015,-98.700024,35.528015],
+  "bbox": [
+    -98.700024,
+    35.528015,
+    -98.700024,
+    35.528015
+],
   "geometry": {"coordinates":[-98.700024,35.528015],"type":"Point"}
 }

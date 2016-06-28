@@ -2,13 +2,14 @@
   "id": 354210001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.669891,34.769218,-96.669891,34.769218",
     "geom:latitude":34.769218,
     "geom:longitude":-96.669891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 E 16th St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354210001,
-    "wof:lastmodified":1449066485,
+    "wof:lastmodified":1466764232,
     "wof:name":"Tip-Top Cleaners & Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "power"
     ]
 },
-  "bbox": [-96.669891,34.769218,-96.669891,34.769218],
-  "geometry": {"coordinates":[-96.669891,34.769218],"type":"Point"}
+  "bbox": [
+    -96.669891,
+    34.769218,
+    -96.669891,
+    34.769218
+],
+  "geometry": {"coordinates":[-96.66989100000001,34.769218],"type":"Point"}
 }

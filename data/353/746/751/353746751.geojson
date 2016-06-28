@@ -2,13 +2,14 @@
   "id": 353746751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.56952,35.398497,-97.56952,35.398497",
     "geom:latitude":35.398497,
     "geom:longitude":-97.56952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 SW 65th Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353746751,
-    "wof:lastmodified":1449018232,
+    "wof:lastmodified":1466765201,
     "wof:name":"G-Style",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-97.56952,35.398497,-97.56952,35.398497],
+  "bbox": [
+    -97.56952,
+    35.398497,
+    -97.56952,
+    35.398497
+],
   "geometry": {"coordinates":[-97.56952,35.398497],"type":"Point"}
 }

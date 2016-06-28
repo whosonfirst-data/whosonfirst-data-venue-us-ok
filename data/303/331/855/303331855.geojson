@@ -2,13 +2,14 @@
   "id": 303331855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.641789,35.531173,-97.641789,35.531173",
     "geom:latitude":35.531173,
     "geom:longitude":-97.641789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5915 Phillip J Rhoads Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":303331855,
-    "wof:lastmodified":1448999606,
+    "wof:lastmodified":1466764980,
     "wof:name":"Department of Airports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.641789,35.531173,-97.641789,35.531173],
+  "bbox": [
+    -97.641789,
+    35.531173,
+    -97.641789,
+    35.531173
+],
   "geometry": {"coordinates":[-97.641789,35.531173],"type":"Point"}
 }

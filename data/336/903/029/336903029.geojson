@@ -2,13 +2,14 @@
   "id": 336903029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531351,35.559418,-97.531351,35.559418",
     "geom:latitude":35.559418,
     "geom:longitude":-97.531351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8703 N Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336903029,
-    "wof:lastmodified":1448996989,
+    "wof:lastmodified":1466765335,
     "wof:name":"Jim's Bobcat & Dump Truck Svc",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.531351,35.559418,-97.531351,35.559418],
+  "bbox": [
+    -97.531351,
+    35.559418,
+    -97.531351,
+    35.559418
+],
   "geometry": {"coordinates":[-97.531351,35.559418],"type":"Point"}
 }

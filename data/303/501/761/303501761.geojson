@@ -2,13 +2,14 @@
   "id": 303501761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.963457,35.361731,-96.963457,35.361731",
     "geom:latitude":35.361731,
     "geom:longitude":-96.963457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39101 W Macarthur St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303501761,
-    "wof:lastmodified":1449000586,
+    "wof:lastmodified":1466765841,
     "wof:name":"Sinclair Pipeline Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "refiner"
     ]
 },
-  "bbox": [-96.963457,35.361731,-96.963457,35.361731],
-  "geometry": {"coordinates":[-96.963457,35.361731],"type":"Point"}
+  "bbox": [
+    -96.963457,
+    35.361731,
+    -96.963457,
+    35.361731
+],
+  "geometry": {"coordinates":[-96.96345700000001,35.361731],"type":"Point"}
 }

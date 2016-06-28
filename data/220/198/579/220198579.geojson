@@ -2,13 +2,14 @@
   "id": 220198579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.88639,36.021619,-95.88639,36.021619",
     "geom:latitude":36.021619,
     "geom:longitude":-95.88639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9809 S Memorial Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":220198579,
-    "wof:lastmodified":1449074314,
+    "wof:lastmodified":1466762543,
     "wof:name":"Jim Norton Toyota",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "repairing"
     ]
 },
-  "bbox": [-95.88639,36.021619,-95.88639,36.021619],
-  "geometry": {"coordinates":[-95.88639,36.021619],"type":"Point"}
+  "bbox": [
+    -95.88639,
+    36.021619,
+    -95.88639,
+    36.021619
+],
+  "geometry": {"coordinates":[-95.88639000000001,36.021619],"type":"Point"}
 }

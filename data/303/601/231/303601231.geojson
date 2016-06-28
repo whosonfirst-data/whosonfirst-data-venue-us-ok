@@ -2,13 +2,14 @@
   "id": 303601231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.255116,35.493223,-97.255116,35.493223",
     "geom:latitude":35.493223,
     "geom:longitude":-97.255116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15515 NE 23rd St",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303601231,
-    "wof:lastmodified":1448999213,
+    "wof:lastmodified":1466766187,
     "wof:name":"Choctaw Florist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.255116,35.493223,-97.255116,35.493223],
+  "bbox": [
+    -97.255116,
+    35.493223,
+    -97.255116,
+    35.493223
+],
   "geometry": {"coordinates":[-97.255116,35.493223],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303088317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.422123,34.629906,-98.422123,34.629906",
     "geom:latitude":34.629906,
     "geom:longitude":-98.422123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2103 NW Sheridan Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303088317,
-    "wof:lastmodified":1449000021,
+    "wof:lastmodified":1466763044,
     "wof:name":"Sooner Barber & Style Shop",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.422123,34.629906,-98.422123,34.629906],
+  "bbox": [
+    -98.422123,
+    34.629906,
+    -98.422123,
+    34.629906
+],
   "geometry": {"coordinates":[-98.422123,34.629906],"type":"Point"}
 }

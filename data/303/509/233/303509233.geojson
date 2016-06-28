@@ -2,13 +2,14 @@
   "id": 303509233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975604,36.746015,-95.975604,36.746015",
     "geom:latitude":36.746015,
     "geom:longitude":-95.975604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 S Osage Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303509233,
-    "wof:lastmodified":1448998221,
+    "wof:lastmodified":1466765985,
     "wof:name":"Bonifazi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "family"
     ]
 },
-  "bbox": [-95.975604,36.746015,-95.975604,36.746015],
+  "bbox": [
+    -95.975604,
+    36.746015,
+    -95.975604,
+    36.746015
+],
   "geometry": {"coordinates":[-95.975604,36.746015],"type":"Point"}
 }

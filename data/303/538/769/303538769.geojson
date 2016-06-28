@@ -2,13 +2,14 @@
   "id": 303538769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.002562,34.5064,-97.002562,34.5064",
     "geom:latitude":34.5064,
     "geom:longitude":-97.002562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 State Hwy 7",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303538769,
-    "wof:lastmodified":1448998427,
+    "wof:lastmodified":1466766087,
     "wof:name":"W R Meat Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-97.002562,34.5064,-97.002562,34.5064],
+  "bbox": [
+    -97.002562,
+    34.5064,
+    -97.002562,
+    34.5064
+],
   "geometry": {"coordinates":[-97.002562,34.5064],"type":"Point"}
 }

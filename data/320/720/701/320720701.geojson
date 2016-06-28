@@ -2,13 +2,14 @@
   "id": 320720701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.669795,35.225483,-96.669795,35.225483",
     "geom:latitude":35.225483,
     "geom:longitude":-96.669795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Oak Ave",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320720701,
-    "wof:lastmodified":1449012158,
+    "wof:lastmodified":1466766598,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.669795,35.225483,-96.669795,35.225483],
-  "geometry": {"coordinates":[-96.669795,35.225483],"type":"Point"}
+  "bbox": [
+    -96.669795,
+    35.225483,
+    -96.669795,
+    35.225483
+],
+  "geometry": {"coordinates":[-96.66979499999999,35.225483],"type":"Point"}
 }

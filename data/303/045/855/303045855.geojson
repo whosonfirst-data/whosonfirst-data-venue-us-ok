@@ -2,13 +2,14 @@
   "id": 303045855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.836608,36.085538,-95.836608,36.085538",
     "geom:latitude":36.085538,
     "geom:longitude":-95.836608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5358 S 125th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303045855,
-    "wof:lastmodified":1449000282,
+    "wof:lastmodified":1466762354,
     "wof:name":"Standard Testing and Engrg Co",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "engineer"
     ]
 },
-  "bbox": [-95.836608,36.085538,-95.836608,36.085538],
+  "bbox": [
+    -95.836608,
+    36.085538,
+    -95.836608,
+    36.085538
+],
   "geometry": {"coordinates":[-95.836608,36.085538],"type":"Point"}
 }

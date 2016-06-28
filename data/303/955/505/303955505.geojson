@@ -2,13 +2,14 @@
   "id": 303955505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530125,35.413012,-97.530125,35.413012",
     "geom:latitude":35.413012,
     "geom:longitude":-97.530125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5350 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303955505,
-    "wof:lastmodified":1448999815,
+    "wof:lastmodified":1466767040,
     "wof:name":"Excell Home Care Inc",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-97.530125,35.413012,-97.530125,35.413012],
+  "bbox": [
+    -97.530125,
+    35.413012,
+    -97.530125,
+    35.413012
+],
   "geometry": {"coordinates":[-97.530125,35.413012],"type":"Point"}
 }

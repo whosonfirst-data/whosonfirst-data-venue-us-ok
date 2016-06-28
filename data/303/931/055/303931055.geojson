@@ -2,13 +2,14 @@
   "id": 303931055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.372841,34.019107,-96.372841,34.019107",
     "geom:latitude":34.019107,
     "geom:longitude":-96.372841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3012 N 1st Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303931055,
-    "wof:lastmodified":1449000346,
+    "wof:lastmodified":1466767013,
     "wof:name":"Red Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.372841,34.019107,-96.372841,34.019107],
-  "geometry": {"coordinates":[-96.372841,34.019107],"type":"Point"}
+  "bbox": [
+    -96.372841,
+    34.019107,
+    -96.372841,
+    34.019107
+],
+  "geometry": {"coordinates":[-96.37284099999999,34.019107],"type":"Point"}
 }

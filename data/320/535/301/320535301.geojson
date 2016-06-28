@@ -2,13 +2,14 @@
   "id": 320535301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.442908,35.649406,-97.442908,35.649406",
     "geom:latitude":35.649406,
     "geom:longitude":-97.442908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Coltrane Pl",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320535301,
-    "wof:lastmodified":1449011931,
+    "wof:lastmodified":1466766134,
     "wof:name":"Resident Agent In Charge OK",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-97.442908,35.649406,-97.442908,35.649406],
+  "bbox": [
+    -97.442908,
+    35.649406,
+    -97.442908,
+    35.649406
+],
   "geometry": {"coordinates":[-97.442908,35.649406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320272417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.953855,35.53484,-97.953855,35.53484",
     "geom:latitude":35.53484,
     "geom:longitude":-97.953855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N Bickford Ave",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320272417,
-    "wof:lastmodified":1449014703,
+    "wof:lastmodified":1466764924,
     "wof:name":"Haley Law Office",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.953855,35.53484,-97.953855,35.53484],
+  "bbox": [
+    -97.953855,
+    35.53484,
+    -97.953855,
+    35.53484
+],
   "geometry": {"coordinates":[-97.953855,35.53484],"type":"Point"}
 }

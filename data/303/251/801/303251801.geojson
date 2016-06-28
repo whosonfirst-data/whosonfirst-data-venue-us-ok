@@ -2,13 +2,14 @@
   "id": 303251801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.515269,35.347675,-97.515269,35.347675",
     "geom:latitude":35.347675,
     "geom:longitude":-97.515269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 NW 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303251801,
-    "wof:lastmodified":1448998164,
+    "wof:lastmodified":1466764804,
     "wof:name":"Barnes Janitorial Svc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-97.515269,35.347675,-97.515269,35.347675],
+  "bbox": [
+    -97.515269,
+    35.347675,
+    -97.515269,
+    35.347675
+],
   "geometry": {"coordinates":[-97.515269,35.347675],"type":"Point"}
 }

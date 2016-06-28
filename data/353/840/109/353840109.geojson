@@ -2,13 +2,14 @@
   "id": 353840109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.972681,35.622437,-95.972681,35.622437",
     "geom:latitude":35.622437,
     "geom:longitude":-95.972681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W 7th St",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353840109,
-    "wof:lastmodified":1449020247,
+    "wof:lastmodified":1466765378,
     "wof:name":"Behavior Health & Substance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-95.972681,35.622437,-95.972681,35.622437],
-  "geometry": {"coordinates":[-95.972681,35.622437],"type":"Point"}
+  "bbox": [
+    -95.972681,
+    35.622437,
+    -95.972681,
+    35.622437
+],
+  "geometry": {"coordinates":[-95.97268099999999,35.622437],"type":"Point"}
 }

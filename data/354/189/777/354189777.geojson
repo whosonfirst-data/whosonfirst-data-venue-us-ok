@@ -2,13 +2,14 @@
   "id": 354189777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975664,36.087779,-95.975664,36.087779",
     "geom:latitude":36.087779,
     "geom:longitude":-95.975664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5151 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354189777,
-    "wof:lastmodified":1449067161,
+    "wof:lastmodified":1466763858,
     "wof:name":"Allen's Coney Island",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.975664,36.087779,-95.975664,36.087779],
-  "geometry": {"coordinates":[-95.975664,36.087779],"type":"Point"}
+  "bbox": [
+    -95.975664,
+    36.087779,
+    -95.975664,
+    36.087779
+],
+  "geometry": {"coordinates":[-95.97566399999999,36.087779],"type":"Point"}
 }

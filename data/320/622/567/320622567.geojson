@@ -2,13 +2,14 @@
   "id": 320622567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.92481,36.040573,-95.92481,36.040573",
     "geom:latitude":36.040573,
     "geom:longitude":-95.92481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8317 S Urbana Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320622567,
-    "wof:lastmodified":1449014299,
+    "wof:lastmodified":1466766336,
     "wof:name":"Residential Repair Inc",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-95.92481,36.040573,-95.92481,36.040573],
-  "geometry": {"coordinates":[-95.92481,36.040573],"type":"Point"}
+  "bbox": [
+    -95.92481,
+    36.040573,
+    -95.92481,
+    36.040573
+],
+  "geometry": {"coordinates":[-95.92480999999999,36.040573],"type":"Point"}
 }

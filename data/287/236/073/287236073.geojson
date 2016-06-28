@@ -2,13 +2,14 @@
   "id": 287236073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.39786,35.753949,-95.39786,35.753949",
     "geom:latitude":35.753949,
     "geom:longitude":-95.39786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 Boston St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":287236073,
-    "wof:lastmodified":1449000749,
+    "wof:lastmodified":1466762477,
     "wof:name":"Lovie & Dodge",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-95.39786,35.753949,-95.39786,35.753949],
-  "geometry": {"coordinates":[-95.39786,35.753949],"type":"Point"}
+  "bbox": [
+    -95.39786,
+    35.753949,
+    -95.39786,
+    35.753949
+],
+  "geometry": {"coordinates":[-95.39785999999999,35.753949],"type":"Point"}
 }

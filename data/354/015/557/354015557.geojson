@@ -2,13 +2,14 @@
   "id": 354015557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.457529,35.444859,-97.457529,35.444859",
     "geom:latitude":35.444859,
     "geom:longitude":-97.457529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 SE 19th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354015557,
-    "wof:lastmodified":1449066319,
+    "wof:lastmodified":1466763036,
     "wof:name":"Log Concepts Inc",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "structural"
     ]
 },
-  "bbox": [-97.457529,35.444859,-97.457529,35.444859],
-  "geometry": {"coordinates":[-97.457529,35.444859],"type":"Point"}
+  "bbox": [
+    -97.457529,
+    35.444859,
+    -97.457529,
+    35.444859
+],
+  "geometry": {"coordinates":[-97.45752899999999,35.444859],"type":"Point"}
 }

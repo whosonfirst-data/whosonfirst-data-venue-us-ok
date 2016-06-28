@@ -2,13 +2,14 @@
   "id": 320037667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.913834,36.049191,-95.913834,36.049191",
     "geom:latitude":36.049191,
     "geom:longitude":-95.913834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7835 S Granite Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320037667,
-    "wof:lastmodified":1449015032,
+    "wof:lastmodified":1466762849,
     "wof:name":"Kunz Janitorial",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-95.913834,36.049191,-95.913834,36.049191],
-  "geometry": {"coordinates":[-95.913834,36.049191],"type":"Point"}
+  "bbox": [
+    -95.913834,
+    36.049191,
+    -95.913834,
+    36.049191
+],
+  "geometry": {"coordinates":[-95.91383399999999,36.049191],"type":"Point"}
 }

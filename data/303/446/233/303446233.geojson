@@ -2,13 +2,14 @@
   "id": 303446233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.982358,36.144486,-95.982358,36.144486",
     "geom:latitude":36.144486,
     "geom:longitude":-95.982358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 S Detroit Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303446233,
-    "wof:lastmodified":1449000359,
+    "wof:lastmodified":1466765657,
     "wof:name":"Boston Auto Svc Inc",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brake"
     ]
 },
-  "bbox": [-95.982358,36.144486,-95.982358,36.144486],
+  "bbox": [
+    -95.982358,
+    36.144486,
+    -95.982358,
+    36.144486
+],
   "geometry": {"coordinates":[-95.982358,36.144486],"type":"Point"}
 }

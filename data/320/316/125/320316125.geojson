@@ -2,13 +2,14 @@
   "id": 320316125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.498489,35.449908,-97.498489,35.449908",
     "geom:latitude":35.449908,
     "geom:longitude":-97.498489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 SE 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320316125,
-    "wof:lastmodified":1449013810,
+    "wof:lastmodified":1466765252,
     "wof:name":"Mike's Muffler Shop",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-97.498489,35.449908,-97.498489,35.449908],
-  "geometry": {"coordinates":[-97.498489,35.449908],"type":"Point"}
+  "bbox": [
+    -97.498489,
+    35.449908,
+    -97.498489,
+    35.449908
+],
+  "geometry": {"coordinates":[-97.49848900000001,35.449908],"type":"Point"}
 }

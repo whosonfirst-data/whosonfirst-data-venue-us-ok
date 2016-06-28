@@ -2,13 +2,14 @@
   "id": 353581217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.985873,36.159554,-95.985873,36.159554",
     "geom:latitude":36.159554,
     "geom:longitude":-95.985873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Greenwood Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":353581217,
-    "wof:lastmodified":1449018801,
+    "wof:lastmodified":1466764298,
     "wof:name":"Tulsa Construction Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-95.985873,36.159554,-95.985873,36.159554],
+  "bbox": [
+    -95.985873,
+    36.159554,
+    -95.985873,
+    36.159554
+],
   "geometry": {"coordinates":[-95.985873,36.159554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320378153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507677,35.512795,-97.507677,35.512795",
     "geom:latitude":35.512795,
     "geom:longitude":-97.507677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 N Walnut Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320378153,
-    "wof:lastmodified":1449013793,
+    "wof:lastmodified":1466765604,
     "wof:name":"Hardesty Team",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.507677,35.512795,-97.507677,35.512795],
+  "bbox": [
+    -97.507677,
+    35.512795,
+    -97.507677,
+    35.512795
+],
   "geometry": {"coordinates":[-97.507677,35.512795],"type":"Point"}
 }

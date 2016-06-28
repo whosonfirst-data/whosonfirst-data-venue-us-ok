@@ -2,13 +2,14 @@
   "id": 336602635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.319955,36.299756,-95.319955,36.299756",
     "geom:latitude":36.299756,
     "geom:longitude":-95.319955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 S Adair St",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336602635,
-    "wof:lastmodified":1448997455,
+    "wof:lastmodified":1466764155,
     "wof:name":"A M & Mary Stanley Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-95.319955,36.299756,-95.319955,36.299756],
-  "geometry": {"coordinates":[-95.319955,36.299756],"type":"Point"}
+  "bbox": [
+    -95.319955,
+    36.299756,
+    -95.319955,
+    36.299756
+],
+  "geometry": {"coordinates":[-95.31995499999999,36.299756],"type":"Point"}
 }

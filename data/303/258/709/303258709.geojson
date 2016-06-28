@@ -2,13 +2,14 @@
   "id": 303258709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.561731,35.464222,-97.561731,35.464222",
     "geom:latitude":35.464222,
     "geom:longitude":-97.561731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2727 W Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303258709,
-    "wof:lastmodified":1449000063,
+    "wof:lastmodified":1466764748,
     "wof:name":"Oklahoma Floor Machine Repair",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-97.561731,35.464222,-97.561731,35.464222],
-  "geometry": {"coordinates":[-97.561731,35.464222],"type":"Point"}
+  "bbox": [
+    -97.561731,
+    35.464222,
+    -97.561731,
+    35.464222
+],
+  "geometry": {"coordinates":[-97.56173099999999,35.464222],"type":"Point"}
 }

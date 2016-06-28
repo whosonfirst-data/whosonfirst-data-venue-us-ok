@@ -2,13 +2,14 @@
   "id": 304040701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.992252,36.146788,-95.992252,36.146788",
     "geom:latitude":36.146788,
     "geom:longitude":-95.992252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 S Denver Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304040701,
-    "wof:lastmodified":1449044140,
+    "wof:lastmodified":1466763050,
     "wof:name":"Diversion Services Inc",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.992252,36.146788,-95.992252,36.146788],
-  "geometry": {"coordinates":[-95.992252,36.146788],"type":"Point"}
+  "bbox": [
+    -95.992252,
+    36.146788,
+    -95.992252,
+    36.146788
+],
+  "geometry": {"coordinates":[-95.99225199999999,36.146788],"type":"Point"}
 }

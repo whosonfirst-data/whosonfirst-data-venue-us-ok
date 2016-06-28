@@ -2,13 +2,14 @@
   "id": 303965497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.83475,36.364572,-95.83475,36.364572",
     "geom:latitude":36.364572,
     "geom:longitude":-95.83475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 W Main St",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303965497,
-    "wof:lastmodified":1448999827,
+    "wof:lastmodified":1466767103,
     "wof:name":"Main Street Auto Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.83475,36.364572,-95.83475,36.364572],
+  "bbox": [
+    -95.83475,
+    36.364572,
+    -95.83475,
+    36.364572
+],
   "geometry": {"coordinates":[-95.83475,36.364572],"type":"Point"}
 }

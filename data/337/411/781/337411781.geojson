@@ -2,13 +2,14 @@
   "id": 337411781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.486853,35.470366,-97.486853,35.470366",
     "geom:latitude":35.470366,
     "geom:longitude":-97.486853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1364 NE 3rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337411781,
-    "wof:lastmodified":1449026977,
+    "wof:lastmodified":1466763994,
     "wof:name":"Friends Of Metro Library Book",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.486853,35.470366,-97.486853,35.470366],
+  "bbox": [
+    -97.486853,
+    35.470366,
+    -97.486853,
+    35.470366
+],
   "geometry": {"coordinates":[-97.486853,35.470366],"type":"Point"}
 }

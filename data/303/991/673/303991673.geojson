@@ -2,13 +2,14 @@
   "id": 303991673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.695309,35.452301,-97.695309,35.452301",
     "geom:latitude":35.452301,
     "geom:longitude":-97.695309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10020 Fairfax Ter",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303991673,
-    "wof:lastmodified":1448998885,
+    "wof:lastmodified":1466767079,
     "wof:name":"Sports Print",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cotton"
     ]
 },
-  "bbox": [-97.695309,35.452301,-97.695309,35.452301],
-  "geometry": {"coordinates":[-97.695309,35.452301],"type":"Point"}
+  "bbox": [
+    -97.695309,
+    35.452301,
+    -97.695309,
+    35.452301
+],
+  "geometry": {"coordinates":[-97.69530899999999,35.452301],"type":"Point"}
 }

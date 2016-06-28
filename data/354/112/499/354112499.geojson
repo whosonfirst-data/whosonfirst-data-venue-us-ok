@@ -2,13 +2,14 @@
   "id": 354112499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.561664,35.520094,-97.561664,35.520094",
     "geom:latitude":35.520094,
     "geom:longitude":-97.561664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 N Miller Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354112499,
-    "wof:lastmodified":1449066698,
+    "wof:lastmodified":1466764209,
     "wof:name":"Paula McGuinness",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.561664,35.520094,-97.561664,35.520094],
-  "geometry": {"coordinates":[-97.561664,35.520094],"type":"Point"}
+  "bbox": [
+    -97.561664,
+    35.520094,
+    -97.561664,
+    35.520094
+],
+  "geometry": {"coordinates":[-97.56166399999999,35.520094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320109551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.683349,34.22844,-98.683349,34.22844",
     "geom:latitude":34.22844,
     "geom:longitude":-98.683349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Main St",
     "sg:city":"Grandfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320109551,
-    "wof:lastmodified":1449012567,
+    "wof:lastmodified":1466763911,
     "wof:name":"Grandfield Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.683349,34.22844,-98.683349,34.22844],
-  "geometry": {"coordinates":[-98.683349,34.22844],"type":"Point"}
+  "bbox": [
+    -98.683349,
+    34.22844,
+    -98.683349,
+    34.22844
+],
+  "geometry": {"coordinates":[-98.68334900000001,34.22844],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303637499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.035079,35.977014,-97.035079,35.977014",
     "geom:latitude":35.977014,
     "geom:longitude":-97.035079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 NW 1st St",
     "sg:city":"Perkins",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303637499,
-    "wof:lastmodified":1448998115,
+    "wof:lastmodified":1466766209,
     "wof:name":"Perkins Athletic Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-97.035079,35.977014,-97.035079,35.977014],
+  "bbox": [
+    -97.035079,
+    35.977014,
+    -97.035079,
+    35.977014
+],
   "geometry": {"coordinates":[-97.035079,35.977014],"type":"Point"}
 }

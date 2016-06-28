@@ -2,13 +2,14 @@
   "id": 336769813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565531,35.465405,-97.565531,35.465405",
     "geom:latitude":35.465405,
     "geom:longitude":-97.565531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 S May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336769813,
-    "wof:lastmodified":1448997290,
+    "wof:lastmodified":1466764509,
     "wof:name":"Clyde Walker Svc & Supply Inc",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [-97.565531,35.465405,-97.565531,35.465405],
-  "geometry": {"coordinates":[-97.565531,35.465405],"type":"Point"}
+  "bbox": [
+    -97.565531,
+    35.465405,
+    -97.565531,
+    35.465405
+],
+  "geometry": {"coordinates":[-97.56553099999999,35.465405],"type":"Point"}
 }

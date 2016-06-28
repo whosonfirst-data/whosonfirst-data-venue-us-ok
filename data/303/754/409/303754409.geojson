@@ -2,13 +2,14 @@
   "id": 303754409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.476472,36.310501,-96.476472,36.310501",
     "geom:latitude":36.310501,
     "geom:longitude":-96.476472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Gilbert Ave",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303754409,
-    "wof:lastmodified":1448999719,
+    "wof:lastmodified":1466766621,
     "wof:name":"Western Heights Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.476472,36.310501,-96.476472,36.310501],
+  "bbox": [
+    -96.476472,
+    36.310501,
+    -96.476472,
+    36.310501
+],
   "geometry": {"coordinates":[-96.476472,36.310501],"type":"Point"}
 }

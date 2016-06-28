@@ -2,13 +2,14 @@
   "id": 353371373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.992996,35.639039,-95.992996,35.639039",
     "geom:latitude":35.639039,
     "geom:longitude":-95.992996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 W Eufaula St",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353371373,
-    "wof:lastmodified":1449020259,
+    "wof:lastmodified":1466762284,
     "wof:name":"Preston's Septic Tank Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trap"
     ]
 },
-  "bbox": [-95.992996,35.639039,-95.992996,35.639039],
-  "geometry": {"coordinates":[-95.992996,35.639039],"type":"Point"}
+  "bbox": [
+    -95.992996,
+    35.639039,
+    -95.992996,
+    35.639039
+],
+  "geometry": {"coordinates":[-95.99299600000001,35.639039],"type":"Point"}
 }

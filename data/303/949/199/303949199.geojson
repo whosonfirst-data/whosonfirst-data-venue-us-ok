@@ -2,13 +2,14 @@
   "id": 303949199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530216,35.44246,-97.530216,35.44246",
     "geom:latitude":35.44246,
     "geom:longitude":-97.530216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303949199,
-    "wof:lastmodified":1448999634,
+    "wof:lastmodified":1466767027,
     "wof:name":"T & T Auto Sales",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.530216,35.44246,-97.530216,35.44246],
+  "bbox": [
+    -97.530216,
+    35.44246,
+    -97.530216,
+    35.44246
+],
   "geometry": {"coordinates":[-97.530216,35.44246],"type":"Point"}
 }

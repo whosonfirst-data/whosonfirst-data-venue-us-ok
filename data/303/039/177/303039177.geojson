@@ -2,13 +2,14 @@
   "id": 303039177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.903636,36.168353,-95.903636,36.168353",
     "geom:latitude":36.168353,
     "geom:longitude":-95.903636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6602 E King St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303039177,
-    "wof:lastmodified":1449000262,
+    "wof:lastmodified":1466764163,
     "wof:name":"That's A Wrap",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.903636,36.168353,-95.903636,36.168353],
-  "geometry": {"coordinates":[-95.903636,36.168353],"type":"Point"}
+  "bbox": [
+    -95.903636,
+    36.168353,
+    -95.903636,
+    36.168353
+],
+  "geometry": {"coordinates":[-95.90363600000001,36.168353],"type":"Point"}
 }

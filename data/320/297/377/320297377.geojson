@@ -2,13 +2,14 @@
   "id": 320297377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.265883,35.358817,-95.265883,35.358817",
     "geom:latitude":35.358817,
     "geom:longitude":-95.265883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Seminole",
     "sg:city":"Porum",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320297377,
-    "wof:lastmodified":1449013635,
+    "wof:lastmodified":1466765153,
     "wof:name":"Porum City Water Works",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "city"
     ]
 },
-  "bbox": [-95.265883,35.358817,-95.265883,35.358817],
+  "bbox": [
+    -95.265883,
+    35.358817,
+    -95.265883,
+    35.358817
+],
   "geometry": {"coordinates":[-95.265883,35.358817],"type":"Point"}
 }

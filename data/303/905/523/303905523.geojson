@@ -2,13 +2,14 @@
   "id": 303905523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.318002,35.340077,-97.318002,35.340077",
     "geom:latitude":35.340077,
     "geom:longitude":-97.318002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12700 S Anderson Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303905523,
-    "wof:lastmodified":1448999073,
+    "wof:lastmodified":1466767053,
     "wof:name":"Aylor Appraisal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.318002,35.340077,-97.318002,35.340077],
-  "geometry": {"coordinates":[-97.318002,35.340077],"type":"Point"}
+  "bbox": [
+    -97.318002,
+    35.340077,
+    -97.318002,
+    35.340077
+],
+  "geometry": {"coordinates":[-97.31800200000001,35.340077],"type":"Point"}
 }

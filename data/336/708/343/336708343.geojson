@@ -2,13 +2,14 @@
   "id": 336708343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.790883,36.032302,-95.790883,36.032302",
     "geom:latitude":36.032302,
     "geom:longitude":-95.790883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 S Main St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336708343,
-    "wof:lastmodified":1448997116,
+    "wof:lastmodified":1466763850,
     "wof:name":"Data Check P C Inc",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.790883,36.032302,-95.790883,36.032302],
-  "geometry": {"coordinates":[-95.790883,36.032302],"type":"Point"}
+  "bbox": [
+    -95.790883,
+    36.032302,
+    -95.790883,
+    36.032302
+],
+  "geometry": {"coordinates":[-95.79088299999999,36.032302],"type":"Point"}
 }

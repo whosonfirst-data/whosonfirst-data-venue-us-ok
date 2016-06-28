@@ -2,13 +2,14 @@
   "id": 303271943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.798752,35.459945,-94.798752,35.459945",
     "geom:latitude":35.459945,
     "geom:longitude":-94.798752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W Cherokee Ave",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303271943,
-    "wof:lastmodified":1448999401,
+    "wof:lastmodified":1466764818,
     "wof:name":"Loftin Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.798752,35.459945,-94.798752,35.459945],
-  "geometry": {"coordinates":[-94.798752,35.459945],"type":"Point"}
+  "bbox": [
+    -94.798752,
+    35.459945,
+    -94.798752,
+    35.459945
+],
+  "geometry": {"coordinates":[-94.79875199999999,35.459945],"type":"Point"}
 }

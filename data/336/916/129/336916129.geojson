@@ -2,13 +2,14 @@
   "id": 336916129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.343305,35.528456,-97.343305,35.528456",
     "geom:latitude":35.528456,
     "geom:longitude":-97.343305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10725 NE 55th St",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336916129,
-    "wof:lastmodified":1448997535,
+    "wof:lastmodified":1466765270,
     "wof:name":"St Paul's Baptist Church",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.343305,35.528456,-97.343305,35.528456],
+  "bbox": [
+    -97.343305,
+    35.528456,
+    -97.343305,
+    35.528456
+],
   "geometry": {"coordinates":[-97.343305,35.528456],"type":"Point"}
 }

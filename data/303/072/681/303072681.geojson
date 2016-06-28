@@ -2,13 +2,14 @@
   "id": 303072681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.720375,35.587794,-97.720375,35.587794",
     "geom:latitude":35.587794,
     "geom:longitude":-97.720375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11121 NW 116th St",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303072681,
-    "wof:lastmodified":1448999410,
+    "wof:lastmodified":1466762788,
     "wof:name":"Morgan Trust",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-97.720375,35.587794,-97.720375,35.587794],
+  "bbox": [
+    -97.720375,
+    35.587794,
+    -97.720375,
+    35.587794
+],
   "geometry": {"coordinates":[-97.720375,35.587794],"type":"Point"}
 }

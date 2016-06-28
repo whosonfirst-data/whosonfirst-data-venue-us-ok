@@ -2,13 +2,14 @@
   "id": 303125721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.389681,36.419512,-96.389681,36.419512",
     "geom:latitude":36.419512,
     "geom:longitude":-96.389681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 N Eastern Ave",
     "sg:city":"Hominy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303125721,
-    "wof:lastmodified":1449000481,
+    "wof:lastmodified":1466763653,
     "wof:name":"Housecalls Home Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-96.389681,36.419512,-96.389681,36.419512],
+  "bbox": [
+    -96.389681,
+    36.419512,
+    -96.389681,
+    36.419512
+],
   "geometry": {"coordinates":[-96.389681,36.419512],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303319119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.386513,34.608746,-98.386513,34.608746",
     "geom:latitude":34.608746,
     "geom:longitude":-98.386513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Gore Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303319119,
-    "wof:lastmodified":1448999116,
+    "wof:lastmodified":1466765141,
     "wof:name":"Robert Tucker Enterprises",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.386513,34.608746,-98.386513,34.608746],
-  "geometry": {"coordinates":[-98.386513,34.608746],"type":"Point"}
+  "bbox": [
+    -98.386513,
+    34.608746,
+    -98.386513,
+    34.608746
+],
+  "geometry": {"coordinates":[-98.38651299999999,34.608746],"type":"Point"}
 }

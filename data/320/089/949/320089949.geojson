@@ -2,13 +2,14 @@
   "id": 320089949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.446008,34.594246,-98.446008,34.594246",
     "geom:latitude":34.594246,
     "geom:longitude":-98.446008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4214 SW Lee Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320089949,
-    "wof:lastmodified":1449012017,
+    "wof:lastmodified":1466763618,
     "wof:name":"Texoma Eye Care Project",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.446008,34.594246,-98.446008,34.594246],
-  "geometry": {"coordinates":[-98.446008,34.594246],"type":"Point"}
+  "bbox": [
+    -98.446008,
+    34.594246,
+    -98.446008,
+    34.594246
+],
+  "geometry": {"coordinates":[-98.44600800000001,34.594246],"type":"Point"}
 }

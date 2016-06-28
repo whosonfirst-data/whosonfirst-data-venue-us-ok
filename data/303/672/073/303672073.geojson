@@ -2,13 +2,14 @@
   "id": 303672073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.97061,36.063508,-95.97061,36.063508",
     "geom:latitude":36.063508,
     "geom:longitude":-95.97061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1578 E 68th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303672073,
-    "wof:lastmodified":1448998274,
+    "wof:lastmodified":1466766563,
     "wof:name":"Besteam Carpet Cleaning",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.97061,36.063508,-95.97061,36.063508],
-  "geometry": {"coordinates":[-95.97061,36.063508],"type":"Point"}
+  "bbox": [
+    -95.97061,
+    36.063508,
+    -95.97061,
+    36.063508
+],
+  "geometry": {"coordinates":[-95.97060999999999,36.063508],"type":"Point"}
 }

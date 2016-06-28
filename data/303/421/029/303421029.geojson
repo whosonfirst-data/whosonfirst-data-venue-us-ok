@@ -2,13 +2,14 @@
   "id": 303421029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.756577,35.377151,-97.756577,35.377151",
     "geom:latitude":35.377151,
     "geom:longitude":-97.756577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 SW 89th St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303421029,
-    "wof:lastmodified":1448999671,
+    "wof:lastmodified":1466765424,
     "wof:name":"Gray Law Firm",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.756577,35.377151,-97.756577,35.377151],
-  "geometry": {"coordinates":[-97.756577,35.377151],"type":"Point"}
+  "bbox": [
+    -97.756577,
+    35.377151,
+    -97.756577,
+    35.377151
+],
+  "geometry": {"coordinates":[-97.75657699999999,35.377151],"type":"Point"}
 }

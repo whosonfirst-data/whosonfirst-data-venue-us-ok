@@ -2,13 +2,14 @@
   "id": 303557501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.974505,35.510875,-98.974505,35.510875",
     "geom:latitude":35.510875,
     "geom:longitude":-98.974505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 S 12th St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303557501,
-    "wof:lastmodified":1448999864,
+    "wof:lastmodified":1466765969,
     "wof:name":"Needful Things",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.974505,35.510875,-98.974505,35.510875],
-  "geometry": {"coordinates":[-98.974505,35.510875],"type":"Point"}
+  "bbox": [
+    -98.974505,
+    35.510875,
+    -98.974505,
+    35.510875
+],
+  "geometry": {"coordinates":[-98.97450499999999,35.510875],"type":"Point"}
 }

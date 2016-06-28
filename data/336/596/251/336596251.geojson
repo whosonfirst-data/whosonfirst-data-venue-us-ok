@@ -2,13 +2,14 @@
   "id": 336596251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.643095,35.419748,-97.643095,35.419748",
     "geom:latitude":35.419748,
     "geom:longitude":-97.643095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 Westpoint Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336596251,
-    "wof:lastmodified":1448997507,
+    "wof:lastmodified":1466764108,
     "wof:name":"Armstrong Relocation",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.643095,35.419748,-97.643095,35.419748],
+  "bbox": [
+    -97.643095,
+    35.419748,
+    -97.643095,
+    35.419748
+],
   "geometry": {"coordinates":[-97.643095,35.419748],"type":"Point"}
 }

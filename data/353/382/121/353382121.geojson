@@ -2,13 +2,14 @@
   "id": 353382121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.87233,36.148079,-95.87233,36.148079",
     "geom:latitude":36.148079,
     "geom:longitude":-95.87233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9347 E 11th St S",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353382121,
-    "wof:lastmodified":1449018947,
+    "wof:lastmodified":1466762342,
     "wof:name":"Shep's Lounge",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "membership"
     ]
 },
-  "bbox": [-95.87233,36.148079,-95.87233,36.148079],
-  "geometry": {"coordinates":[-95.87233,36.148079],"type":"Point"}
+  "bbox": [
+    -95.87233,
+    36.148079,
+    -95.87233,
+    36.148079
+],
+  "geometry": {"coordinates":[-95.87233000000001,36.148079],"type":"Point"}
 }

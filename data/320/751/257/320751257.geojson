@@ -2,13 +2,14 @@
   "id": 320751257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.325507,35.614482,-97.325507,35.614482",
     "geom:latitude":35.614482,
     "geom:longitude":-97.325507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14301 Mallet Dr",
     "sg:city":"Jones",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320751257,
-    "wof:lastmodified":1449011459,
+    "wof:lastmodified":1466766676,
     "wof:name":"Cymar Enterprises LLC",
     "wof:parent_id":85829129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.325507,35.614482,-97.325507,35.614482],
+  "bbox": [
+    -97.325507,
+    35.614482,
+    -97.325507,
+    35.614482
+],
   "geometry": {"coordinates":[-97.325507,35.614482],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353780331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.485383,36.683916,-101.485383,36.683916",
     "geom:latitude":36.683916,
     "geom:longitude":-101.485383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 N Academy St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353780331,
-    "wof:lastmodified":1449020160,
+    "wof:lastmodified":1466765115,
     "wof:name":"Academy Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.485383,36.683916,-101.485383,36.683916],
+  "bbox": [
+    -101.485383,
+    36.683916,
+    -101.485383,
+    36.683916
+],
   "geometry": {"coordinates":[-101.485383,36.683916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320383085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.968809,35.944416,-95.968809,35.944416",
     "geom:latitude":35.944416,
     "geom:longitude":-95.968809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 E 151st St S",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320383085,
-    "wof:lastmodified":1449012841,
+    "wof:lastmodified":1466765602,
     "wof:name":"E R Helms Construction",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.968809,35.944416,-95.968809,35.944416],
-  "geometry": {"coordinates":[-95.968809,35.944416],"type":"Point"}
+  "bbox": [
+    -95.968809,
+    35.944416,
+    -95.968809,
+    35.944416
+],
+  "geometry": {"coordinates":[-95.96880899999999,35.944416],"type":"Point"}
 }

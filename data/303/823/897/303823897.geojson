@@ -2,13 +2,14 @@
   "id": 303823897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.492317,34.619144,-98.492317,34.619144",
     "geom:latitude":34.619144,
     "geom:longitude":-98.492317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 NW 82nd St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":303823897,
-    "wof:lastmodified":1449000545,
+    "wof:lastmodified":1466766772,
     "wof:name":"Holy Family Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.492317,34.619144,-98.492317,34.619144],
+  "bbox": [
+    -98.492317,
+    34.619144,
+    -98.492317,
+    34.619144
+],
   "geometry": {"coordinates":[-98.492317,34.619144],"type":"Point"}
 }

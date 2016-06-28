@@ -2,13 +2,14 @@
   "id": 303301301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975224,35.642048,-95.975224,35.642048",
     "geom:latitude":35.642048,
     "geom:longitude":-95.975224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 N Okmulgee Ave",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303301301,
-    "wof:lastmodified":1448998735,
+    "wof:lastmodified":1466764957,
     "wof:name":"Oxford Place Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.975224,35.642048,-95.975224,35.642048],
+  "bbox": [
+    -95.975224,
+    35.642048,
+    -95.975224,
+    35.642048
+],
   "geometry": {"coordinates":[-95.975224,35.642048],"type":"Point"}
 }

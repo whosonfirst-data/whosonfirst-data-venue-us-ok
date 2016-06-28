@@ -2,13 +2,14 @@
   "id": 320601157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.47311,35.73622,-97.47311,35.73622",
     "geom:latitude":35.73622,
     "geom:longitude":-97.47311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8025 Pleasant Oaks Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320601157,
-    "wof:lastmodified":1449012922,
+    "wof:lastmodified":1466766390,
     "wof:name":"Video Magic Productions Inc",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "taping"
     ]
 },
-  "bbox": [-97.47311,35.73622,-97.47311,35.73622],
-  "geometry": {"coordinates":[-97.47311,35.73622],"type":"Point"}
+  "bbox": [
+    -97.47311,
+    35.73622,
+    -97.47311,
+    35.73622
+],
+  "geometry": {"coordinates":[-97.47311000000001,35.73622],"type":"Point"}
 }

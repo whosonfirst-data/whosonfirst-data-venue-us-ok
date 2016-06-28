@@ -2,13 +2,14 @@
   "id": 354000635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904651,36.194788,-95.904651,36.194788",
     "geom:latitude":36.194788,
     "geom:longitude":-95.904651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2844 N Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354000635,
-    "wof:lastmodified":1449066202,
+    "wof:lastmodified":1466762909,
     "wof:name":"R J Norman Company",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trade"
     ]
 },
-  "bbox": [-95.904651,36.194788,-95.904651,36.194788],
+  "bbox": [
+    -95.904651,
+    36.194788,
+    -95.904651,
+    36.194788
+],
   "geometry": {"coordinates":[-95.904651,36.194788],"type":"Point"}
 }

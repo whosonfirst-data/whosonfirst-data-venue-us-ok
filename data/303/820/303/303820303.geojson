@@ -2,13 +2,14 @@
   "id": 303820303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.958168,36.075206,-95.958168,36.075206",
     "geom:latitude":36.075206,
     "geom:longitude":-95.958168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 E 61st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303820303,
-    "wof:lastmodified":1448999382,
+    "wof:lastmodified":1466766828,
     "wof:name":"Le Pooch",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-95.958168,36.075206,-95.958168,36.075206],
+  "bbox": [
+    -95.958168,
+    36.075206,
+    -95.958168,
+    36.075206
+],
   "geometry": {"coordinates":[-95.958168,36.075206],"type":"Point"}
 }

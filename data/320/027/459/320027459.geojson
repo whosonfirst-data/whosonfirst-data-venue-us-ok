@@ -2,13 +2,14 @@
   "id": 320027459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.965241,35.361736,-96.965241,35.361736",
     "geom:latitude":35.361736,
     "geom:longitude":-96.965241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14001 Acme Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320027459,
-    "wof:lastmodified":1449011954,
+    "wof:lastmodified":1466762693,
     "wof:name":"Carlson & Cottrell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-96.965241,35.361736,-96.965241,35.361736],
-  "geometry": {"coordinates":[-96.965241,35.361736],"type":"Point"}
+  "bbox": [
+    -96.965241,
+    35.361736,
+    -96.965241,
+    35.361736
+],
+  "geometry": {"coordinates":[-96.96524100000001,35.361736],"type":"Point"}
 }

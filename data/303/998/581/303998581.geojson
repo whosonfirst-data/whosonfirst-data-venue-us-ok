@@ -2,13 +2,14 @@
   "id": 303998581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.952277,35.613051,-95.952277,35.613051",
     "geom:latitude":35.613051,
     "geom:longitude":-95.952277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 S Belmont Ave",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303998581,
-    "wof:lastmodified":1448998925,
+    "wof:lastmodified":1466767126,
     "wof:name":"Sanford Family Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.952277,35.613051,-95.952277,35.613051],
+  "bbox": [
+    -95.952277,
+    35.613051,
+    -95.952277,
+    35.613051
+],
   "geometry": {"coordinates":[-95.952277,35.613051],"type":"Point"}
 }

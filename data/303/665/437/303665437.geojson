@@ -2,13 +2,14 @@
   "id": 303665437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530139,35.531514,-97.530139,35.531514",
     "geom:latitude":35.531514,
     "geom:longitude":-97.530139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5801 NW Grand Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303665437,
-    "wof:lastmodified":1448998865,
+    "wof:lastmodified":1466766322,
     "wof:name":"Huff Simmons & Davila",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.530139,35.531514,-97.530139,35.531514],
-  "geometry": {"coordinates":[-97.530139,35.531514],"type":"Point"}
+  "bbox": [
+    -97.530139,
+    35.531514,
+    -97.530139,
+    35.531514
+],
+  "geometry": {"coordinates":[-97.53013900000001,35.531514],"type":"Point"}
 }

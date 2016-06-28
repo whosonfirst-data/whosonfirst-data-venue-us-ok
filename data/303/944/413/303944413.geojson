@@ -2,13 +2,14 @@
   "id": 303944413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565603,35.520827,-97.565603,35.520827",
     "geom:latitude":35.520827,
     "geom:longitude":-97.565603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5028 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303944413,
-    "wof:lastmodified":1448999342,
+    "wof:lastmodified":1466767023,
     "wof:name":"Blue Seven",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.565603,35.520827,-97.565603,35.520827],
+  "bbox": [
+    -97.565603,
+    35.520827,
+    -97.565603,
+    35.520827
+],
   "geometry": {"coordinates":[-97.565603,35.520827],"type":"Point"}
 }

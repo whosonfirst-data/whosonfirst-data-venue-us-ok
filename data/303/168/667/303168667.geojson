@@ -2,13 +2,14 @@
   "id": 303168667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.973976,36.090785,-95.973976,36.090785",
     "geom:latitude":36.090785,
     "geom:longitude":-95.973976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4934 S Quaker Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303168667,
-    "wof:lastmodified":1448999397,
+    "wof:lastmodified":1466764285,
     "wof:name":"Brooke Square",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.973976,36.090785,-95.973976,36.090785],
-  "geometry": {"coordinates":[-95.973976,36.090785],"type":"Point"}
+  "bbox": [
+    -95.973976,
+    36.090785,
+    -95.973976,
+    36.090785
+],
+  "geometry": {"coordinates":[-95.97397599999999,36.090785],"type":"Point"}
 }

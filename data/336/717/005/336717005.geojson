@@ -2,13 +2,14 @@
   "id": 336717005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.67843,36.135208,-95.67843,36.135208",
     "geom:latitude":36.135208,
     "geom:longitude":-95.67843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 S 267th E Ave",
     "sg:city":"Catoosa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336717005,
-    "wof:lastmodified":1448996941,
+    "wof:lastmodified":1466763979,
     "wof:name":"Air Dynamics Of Tulsa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.67843,36.135208,-95.67843,36.135208],
-  "geometry": {"coordinates":[-95.67843,36.135208],"type":"Point"}
+  "bbox": [
+    -95.67843,
+    36.135208,
+    -95.67843,
+    36.135208
+],
+  "geometry": {"coordinates":[-95.67843000000001,36.135208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303739483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.698365,35.290963,-97.698365,35.290963",
     "geom:latitude":35.290963,
     "geom:longitude":-97.698365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6815 State Hwy 37",
     "sg:city":"Tuttle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303739483,
-    "wof:lastmodified":1448999152,
+    "wof:lastmodified":1466766456,
     "wof:name":"Video Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tape"
     ]
 },
-  "bbox": [-97.698365,35.290963,-97.698365,35.290963],
+  "bbox": [
+    -97.698365,
+    35.290963,
+    -97.698365,
+    35.290963
+],
   "geometry": {"coordinates":[-97.698365,35.290963],"type":"Point"}
 }

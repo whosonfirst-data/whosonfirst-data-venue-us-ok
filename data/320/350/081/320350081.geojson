@@ -2,13 +2,14 @@
   "id": 320350081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.962573,36.17702,-95.962573,36.17702",
     "geom:latitude":36.17702,
     "geom:longitude":-95.962573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2008 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320350081,
-    "wof:lastmodified":1449013160,
+    "wof:lastmodified":1466765359,
     "wof:name":"Jones Body Shop",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-95.962573,36.17702,-95.962573,36.17702],
-  "geometry": {"coordinates":[-95.962573,36.17702],"type":"Point"}
+  "bbox": [
+    -95.962573,
+    36.17702,
+    -95.962573,
+    36.17702
+],
+  "geometry": {"coordinates":[-95.96257300000001,36.17702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354174203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.887302,36.097714,-95.887302,36.097714",
     "geom:latitude":36.097714,
     "geom:longitude":-95.887302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7688 E 46th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354174203,
-    "wof:lastmodified":1449066163,
+    "wof:lastmodified":1466763781,
     "wof:name":"Dent Doctor",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-95.887302,36.097714,-95.887302,36.097714],
-  "geometry": {"coordinates":[-95.887302,36.097714],"type":"Point"}
+  "bbox": [
+    -95.887302,
+    36.097714,
+    -95.887302,
+    36.097714
+],
+  "geometry": {"coordinates":[-95.88730200000001,36.097714],"type":"Point"}
 }

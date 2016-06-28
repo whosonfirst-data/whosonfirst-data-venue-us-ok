@@ -2,13 +2,14 @@
   "id": 220192771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.864036,36.148064,-95.864036,36.148064",
     "geom:latitude":36.148064,
     "geom:longitude":-95.864036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10159 E 11th St Rm 600",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -111,10 +112,11 @@
         }
     ],
     "wof:id":220192771,
-    "wof:lastmodified":1449074621,
+    "wof:lastmodified":1466762431,
     "wof:name":"AT&T Advertising Solutions",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -145,6 +147,11 @@
         "interactive"
     ]
 },
-  "bbox": [-95.864036,36.148064,-95.864036,36.148064],
+  "bbox": [
+    -95.864036,
+    36.148064,
+    -95.864036,
+    36.148064
+],
   "geometry": {"coordinates":[-95.864036,36.148064],"type":"Point"}
 }

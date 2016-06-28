@@ -2,13 +2,14 @@
   "id": 353911111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.089364,35.415799,-97.089364,35.415799",
     "geom:latitude":35.415799,
     "geom:longitude":-97.089364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4147 S McLoud Rd",
     "sg:city":"Mcloud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353911111,
-    "wof:lastmodified":1449020409,
+    "wof:lastmodified":1466765702,
     "wof:name":"Don B Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-97.089364,35.415799,-97.089364,35.415799],
+  "bbox": [
+    -97.089364,
+    35.415799,
+    -97.089364,
+    35.415799
+],
   "geometry": {"coordinates":[-97.089364,35.415799],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303530785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.910861,36.181576,-95.910861,36.181576",
     "geom:latitude":36.181576,
     "geom:longitude":-95.910861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5908 E Tecumseh St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303530785,
-    "wof:lastmodified":1448999424,
+    "wof:lastmodified":1466765850,
     "wof:name":"Lowery Well Head",
     "wof:parent_id":85813737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-95.910861,36.181576,-95.910861,36.181576],
+  "bbox": [
+    -95.910861,
+    36.181576,
+    -95.910861,
+    36.181576
+],
   "geometry": {"coordinates":[-95.910861,36.181576],"type":"Point"}
 }

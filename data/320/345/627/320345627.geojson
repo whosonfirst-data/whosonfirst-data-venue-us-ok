@@ -2,13 +2,14 @@
   "id": 320345627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.548899,35.592215,-97.548899,35.592215",
     "geom:latitude":35.592215,
     "geom:longitude":-97.548899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2033 Heritage Park Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320345627,
-    "wof:lastmodified":1449014671,
+    "wof:lastmodified":1466765450,
     "wof:name":"Quan TEM Laboratories",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-97.548899,35.592215,-97.548899,35.592215],
-  "geometry": {"coordinates":[-97.548899,35.592215],"type":"Point"}
+  "bbox": [
+    -97.548899,
+    35.592215,
+    -97.548899,
+    35.592215
+],
+  "geometry": {"coordinates":[-97.54889900000001,35.592215],"type":"Point"}
 }

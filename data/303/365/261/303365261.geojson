@@ -2,13 +2,14 @@
   "id": 303365261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.325023,35.461718,-97.325023,35.461718",
     "geom:latitude":35.461718,
     "geom:longitude":-97.325023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Buckboard Ln",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303365261,
-    "wof:lastmodified":1448998509,
+    "wof:lastmodified":1466765145,
     "wof:name":"Atkinson Appraisals Inc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-97.325023,35.461718,-97.325023,35.461718],
+  "bbox": [
+    -97.325023,
+    35.461718,
+    -97.325023,
+    35.461718
+],
   "geometry": {"coordinates":[-97.325023,35.461718],"type":"Point"}
 }

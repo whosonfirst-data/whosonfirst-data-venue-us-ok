@@ -2,13 +2,14 @@
   "id": 303551899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.909962,36.01933,-95.909962,36.01933",
     "geom:latitude":36.01933,
     "geom:longitude":-95.909962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5915 E 100th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303551899,
-    "wof:lastmodified":1448998607,
+    "wof:lastmodified":1466766044,
     "wof:name":"Oneida Energy Corp",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-95.909962,36.01933,-95.909962,36.01933],
-  "geometry": {"coordinates":[-95.909962,36.01933],"type":"Point"}
+  "bbox": [
+    -95.909962,
+    36.01933,
+    -95.909962,
+    36.01933
+],
+  "geometry": {"coordinates":[-95.90996199999999,36.01933],"type":"Point"}
 }

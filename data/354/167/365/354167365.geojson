@@ -2,13 +2,14 @@
   "id": 354167365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.879526,36.39539,-97.879526,36.39539",
     "geom:latitude":36.39539,
     "geom:longitude":-97.879526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 W Maine St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354167365,
-    "wof:lastmodified":1449066815,
+    "wof:lastmodified":1466763760,
     "wof:name":"Main Street Enid Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.879526,36.39539,-97.879526,36.39539],
+  "bbox": [
+    -97.879526,
+    36.39539,
+    -97.879526,
+    36.39539
+],
   "geometry": {"coordinates":[-97.879526,36.39539],"type":"Point"}
 }

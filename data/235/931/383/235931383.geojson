@@ -2,13 +2,14 @@
   "id": 235931383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.909548,36.118887,-95.909548,36.118887",
     "geom:latitude":36.118887,
     "geom:longitude":-95.909548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5970 E 31st St Ste I",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":235931383,
-    "wof:lastmodified":1449008581,
+    "wof:lastmodified":1466762381,
     "wof:name":"Ewing Music Co",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "instruction-instrumental"
     ]
 },
-  "bbox": [-95.909548,36.118887,-95.909548,36.118887],
+  "bbox": [
+    -95.909548,
+    36.118887,
+    -95.909548,
+    36.118887
+],
   "geometry": {"coordinates":[-95.909548,36.118887],"type":"Point"}
 }

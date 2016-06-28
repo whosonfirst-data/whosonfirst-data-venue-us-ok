@@ -2,13 +2,14 @@
   "id": 303461995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.521146,35.458196,-97.521146,35.458196",
     "geom:latitude":35.458196,
     "geom:longitude":-97.521146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 S Walker Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303461995,
-    "wof:lastmodified":1448999040,
+    "wof:lastmodified":1466765709,
     "wof:name":"Certified Used Autos & Trucks",
     "wof:parent_id":85871685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-97.521146,35.458196,-97.521146,35.458196],
+  "bbox": [
+    -97.521146,
+    35.458196,
+    -97.521146,
+    35.458196
+],
   "geometry": {"coordinates":[-97.521146,35.458196],"type":"Point"}
 }

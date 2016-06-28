@@ -2,13 +2,14 @@
   "id": 287281505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.548013,35.407376,-97.548013,35.407376",
     "geom:latitude":35.407376,
     "geom:longitude":-97.548013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5745 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287281505,
-    "wof:lastmodified":1449001435,
+    "wof:lastmodified":1466763152,
     "wof:name":"Gerald's Donut Shop",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "doughnut"
     ]
 },
-  "bbox": [-97.548013,35.407376,-97.548013,35.407376],
+  "bbox": [
+    -97.548013,
+    35.407376,
+    -97.548013,
+    35.407376
+],
   "geometry": {"coordinates":[-97.548013,35.407376],"type":"Point"}
 }

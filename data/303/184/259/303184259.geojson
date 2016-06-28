@@ -2,13 +2,14 @@
   "id": 303184259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.479892,35.654011,-97.479892,35.654011",
     "geom:latitude":35.654011,
     "geom:longitude":-97.479892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 E 1st St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":303184259,
-    "wof:lastmodified":1448998530,
+    "wof:lastmodified":1466764352,
     "wof:name":"Heartland Data Recovery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "programming"
     ]
 },
-  "bbox": [-97.479892,35.654011,-97.479892,35.654011],
-  "geometry": {"coordinates":[-97.479892,35.654011],"type":"Point"}
+  "bbox": [
+    -97.479892,
+    35.654011,
+    -97.479892,
+    35.654011
+],
+  "geometry": {"coordinates":[-97.47989200000001,35.654011],"type":"Point"}
 }

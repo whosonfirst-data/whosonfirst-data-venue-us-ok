@@ -2,13 +2,14 @@
   "id": 320780031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.349945,35.218363,-97.349945,35.218363",
     "geom:latitude":35.218363,
     "geom:longitude":-97.349945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6235 Alameda St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320780031,
-    "wof:lastmodified":1449014042,
+    "wof:lastmodified":1466766777,
     "wof:name":"Bernies Bookkeeping",
     "wof:parent_id":85814357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"
     ]
 },
-  "bbox": [-97.349945,35.218363,-97.349945,35.218363],
-  "geometry": {"coordinates":[-97.349945,35.218363],"type":"Point"}
+  "bbox": [
+    -97.349945,
+    35.218363,
+    -97.349945,
+    35.218363
+],
+  "geometry": {"coordinates":[-97.34994500000001,35.218363],"type":"Point"}
 }

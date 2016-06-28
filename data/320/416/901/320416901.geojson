@@ -2,13 +2,14 @@
   "id": 320416901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.900691,36.06081,-95.900691,36.06081",
     "geom:latitude":36.06081,
     "geom:longitude":-95.900691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6532 E 71st St S",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320416901,
-    "wof:lastmodified":1449012933,
+    "wof:lastmodified":1466765699,
     "wof:name":"Bordon Books",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-95.900691,36.06081,-95.900691,36.06081],
-  "geometry": {"coordinates":[-95.900691,36.06081],"type":"Point"}
+  "bbox": [
+    -95.900691,
+    36.06081,
+    -95.900691,
+    36.06081
+],
+  "geometry": {"coordinates":[-95.90069099999999,36.06081],"type":"Point"}
 }

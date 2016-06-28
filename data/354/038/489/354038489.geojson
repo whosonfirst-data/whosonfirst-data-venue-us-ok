@@ -2,13 +2,14 @@
   "id": 354038489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.515661,35.439334,-97.515661,35.439334",
     "geom:latitude":35.439334,
     "geom:longitude":-97.515661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 SW 25th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354038489,
-    "wof:lastmodified":1449067061,
+    "wof:lastmodified":1466763205,
     "wof:name":"Beacon Job Printing",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-97.515661,35.439334,-97.515661,35.439334],
-  "geometry": {"coordinates":[-97.515661,35.439334],"type":"Point"}
+  "bbox": [
+    -97.515661,
+    35.439334,
+    -97.515661,
+    35.439334
+],
+  "geometry": {"coordinates":[-97.51566099999999,35.439334],"type":"Point"}
 }

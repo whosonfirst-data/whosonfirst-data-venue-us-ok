@@ -2,13 +2,14 @@
   "id": 303112373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.572037,35.464093,-97.572037,35.464093",
     "geom:latitude":35.464093,
     "geom:longitude":-97.572037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 W Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303112373,
-    "wof:lastmodified":1448999245,
+    "wof:lastmodified":1466763431,
     "wof:name":"Trailer Marketing Inc",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trailer"
     ]
 },
-  "bbox": [-97.572037,35.464093,-97.572037,35.464093],
-  "geometry": {"coordinates":[-97.572037,35.464093],"type":"Point"}
+  "bbox": [
+    -97.572037,
+    35.464093,
+    -97.572037,
+    35.464093
+],
+  "geometry": {"coordinates":[-97.57203699999999,35.464093],"type":"Point"}
 }

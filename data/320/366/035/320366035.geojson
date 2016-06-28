@@ -2,13 +2,14 @@
   "id": 320366035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.939833,36.757933,-95.939833,36.757933",
     "geom:latitude":36.757933,
     "geom:longitude":-95.939833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 NE Howard Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320366035,
-    "wof:lastmodified":1449013984,
+    "wof:lastmodified":1466765549,
     "wof:name":"Monty's Vending Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.939833,36.757933,-95.939833,36.757933],
-  "geometry": {"coordinates":[-95.939833,36.757933],"type":"Point"}
+  "bbox": [
+    -95.939833,
+    36.757933,
+    -95.939833,
+    36.757933
+],
+  "geometry": {"coordinates":[-95.93983299999999,36.757933],"type":"Point"}
 }

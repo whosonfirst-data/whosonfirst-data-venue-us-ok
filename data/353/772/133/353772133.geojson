@@ -2,13 +2,14 @@
   "id": 353772133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.714059,35.970356,-96.714059,35.970356",
     "geom:latitude":35.970356,
     "geom:longitude":-96.714059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 S Norfolk Rd",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353772133,
-    "wof:lastmodified":1449019407,
+    "wof:lastmodified":1466765302,
     "wof:name":"First Data Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.714059,35.970356,-96.714059,35.970356],
-  "geometry": {"coordinates":[-96.714059,35.970356],"type":"Point"}
+  "bbox": [
+    -96.714059,
+    35.970356,
+    -96.714059,
+    35.970356
+],
+  "geometry": {"coordinates":[-96.71405900000001,35.970356],"type":"Point"}
 }

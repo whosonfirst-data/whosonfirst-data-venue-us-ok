@@ -2,13 +2,14 @@
   "id": 303368249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.215809,34.737288,-97.215809,34.737288",
     "geom:latitude":34.737288,
     "geom:longitude":-97.215809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 S Chickasaw St",
     "sg:city":"Pauls Valley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303368249,
-    "wof:lastmodified":1448998672,
+    "wof:lastmodified":1466765259,
     "wof:name":"Larry's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-97.215809,34.737288,-97.215809,34.737288],
-  "geometry": {"coordinates":[-97.215809,34.737288],"type":"Point"}
+  "bbox": [
+    -97.215809,
+    34.737288,
+    -97.215809,
+    34.737288
+],
+  "geometry": {"coordinates":[-97.21580899999999,34.737288],"type":"Point"}
 }

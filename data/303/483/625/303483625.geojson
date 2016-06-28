@@ -2,13 +2,14 @@
   "id": 303483625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.483302,35.487649,-97.483302,35.487649",
     "geom:latitude":35.487649,
     "geom:longitude":-97.483302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1612 NE 18th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303483625,
-    "wof:lastmodified":1449000046,
+    "wof:lastmodified":1466765790,
     "wof:name":"Holy Temple Church Of God In C",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.483302,35.487649,-97.483302,35.487649],
-  "geometry": {"coordinates":[-97.483302,35.487649],"type":"Point"}
+  "bbox": [
+    -97.483302,
+    35.487649,
+    -97.483302,
+    35.487649
+],
+  "geometry": {"coordinates":[-97.48330199999999,35.487649],"type":"Point"}
 }

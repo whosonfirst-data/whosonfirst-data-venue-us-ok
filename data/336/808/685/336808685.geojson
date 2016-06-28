@@ -2,13 +2,14 @@
   "id": 336808685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.496044,35.60726,-97.496044,35.60726",
     "geom:latitude":35.60726,
     "geom:longitude":-97.496044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13101 N Kelley Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336808685,
-    "wof:lastmodified":1448996963,
+    "wof:lastmodified":1466764709,
     "wof:name":"Bob Howard Acura",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.496044,35.60726,-97.496044,35.60726],
+  "bbox": [
+    -97.496044,
+    35.60726,
+    -97.496044,
+    35.60726
+],
   "geometry": {"coordinates":[-97.496044,35.60726],"type":"Point"}
 }

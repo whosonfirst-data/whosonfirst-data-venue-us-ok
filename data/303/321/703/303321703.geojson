@@ -2,13 +2,14 @@
   "id": 303321703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.956159,34.65348,-97.956159,34.65348",
     "geom:latitude":34.65348,
     "geom:longitude":-97.956159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W Payne Ave",
     "sg:city":"Marlow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303321703,
-    "wof:lastmodified":1448998173,
+    "wof:lastmodified":1466765046,
     "wof:name":"Ocean Trader Floral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.956159,34.65348,-97.956159,34.65348],
+  "bbox": [
+    -97.956159,
+    34.65348,
+    -97.956159,
+    34.65348
+],
   "geometry": {"coordinates":[-97.956159,34.65348],"type":"Point"}
 }

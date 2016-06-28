@@ -2,13 +2,14 @@
   "id": 303778887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.403516,36.439175,-99.403516,36.439175",
     "geom:latitude":36.439175,
     "geom:longitude":-99.403516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 19th St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303778887,
-    "wof:lastmodified":1448998167,
+    "wof:lastmodified":1466766687,
     "wof:name":"J & M Cartage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-99.403516,36.439175,-99.403516,36.439175],
+  "bbox": [
+    -99.403516,
+    36.439175,
+    -99.403516,
+    36.439175
+],
   "geometry": {"coordinates":[-99.403516,36.439175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303800201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.868594,36.019474,-95.868594,36.019474",
     "geom:latitude":36.019474,
     "geom:longitude":-95.868594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10030 S Mingo Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303800201,
-    "wof:lastmodified":1448998313,
+    "wof:lastmodified":1466766726,
     "wof:name":"LA Mode Cleaners",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-95.868594,36.019474,-95.868594,36.019474],
+  "bbox": [
+    -95.868594,
+    36.019474,
+    -95.868594,
+    36.019474
+],
   "geometry": {"coordinates":[-95.868594,36.019474],"type":"Point"}
 }

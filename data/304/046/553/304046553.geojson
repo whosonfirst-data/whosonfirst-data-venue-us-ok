@@ -2,13 +2,14 @@
   "id": 304046553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.830311,36.03503,-95.830311,36.03503",
     "geom:latitude":36.03503,
     "geom:longitude":-95.830311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3309 W Toledo St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304046553,
-    "wof:lastmodified":1449043925,
+    "wof:lastmodified":1466763089,
     "wof:name":"DSC Estate Liquidators",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "estate"
     ]
 },
-  "bbox": [-95.830311,36.03503,-95.830311,36.03503],
-  "geometry": {"coordinates":[-95.830311,36.03503],"type":"Point"}
+  "bbox": [
+    -95.830311,
+    36.03503,
+    -95.830311,
+    36.03503
+],
+  "geometry": {"coordinates":[-95.83031099999999,36.03503],"type":"Point"}
 }

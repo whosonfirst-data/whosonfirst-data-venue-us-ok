@@ -2,13 +2,14 @@
   "id": 235937725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.953344,36.046401,-95.953344,36.046401",
     "geom:latitude":36.046401,
     "geom:longitude":-95.953344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2448 E 81st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235937725,
-    "wof:lastmodified":1449008323,
+    "wof:lastmodified":1466762443,
     "wof:name":"Fastbucks Pawn",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-95.953344,36.046401,-95.953344,36.046401],
+  "bbox": [
+    -95.953344,
+    36.046401,
+    -95.953344,
+    36.046401
+],
   "geometry": {"coordinates":[-95.953344,36.046401],"type":"Point"}
 }

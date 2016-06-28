@@ -2,13 +2,14 @@
   "id": 303659851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.995452,35.333165,-96.995452,35.333165",
     "geom:latitude":35.333165,
     "geom:longitude":-96.995452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37106 Lake Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303659851,
-    "wof:lastmodified":1448998384,
+    "wof:lastmodified":1466766395,
     "wof:name":"Farris Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.995452,35.333165,-96.995452,35.333165],
+  "bbox": [
+    -96.995452,
+    35.333165,
+    -96.995452,
+    35.333165
+],
   "geometry": {"coordinates":[-96.995452,35.333165],"type":"Point"}
 }

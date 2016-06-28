@@ -2,13 +2,14 @@
   "id": 353660525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.298225,35.237163,-97.298225,35.237163",
     "geom:latitude":35.237163,
     "geom:longitude":-97.298225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 Mohawk Rd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353660525,
-    "wof:lastmodified":1449020542,
+    "wof:lastmodified":1466764591,
     "wof:name":"Classic Vision",
     "wof:parent_id":85814357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.298225,35.237163,-97.298225,35.237163],
+  "bbox": [
+    -97.298225,
+    35.237163,
+    -97.298225,
+    35.237163
+],
   "geometry": {"coordinates":[-97.298225,35.237163],"type":"Point"}
 }

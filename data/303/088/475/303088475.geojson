@@ -2,13 +2,14 @@
   "id": 303088475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.305986,34.920019,-95.305986,34.920019",
     "geom:latitude":34.920019,
     "geom:longitude":-95.305986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E Ada Ave",
     "sg:city":"Wilburton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303088475,
-    "wof:lastmodified":1449000021,
+    "wof:lastmodified":1466763046,
     "wof:name":"Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.305986,34.920019,-95.305986,34.920019],
+  "bbox": [
+    -95.305986,
+    34.920019,
+    -95.305986,
+    34.920019
+],
   "geometry": {"coordinates":[-95.305986,34.920019],"type":"Point"}
 }

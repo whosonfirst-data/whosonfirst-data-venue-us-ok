@@ -2,13 +2,14 @@
   "id": 354113457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.488296,35.476869,-97.488296,35.476869",
     "geom:latitude":35.476869,
     "geom:longitude":-97.488296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1336 NE 9th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354113457,
-    "wof:lastmodified":1449067524,
+    "wof:lastmodified":1466763559,
     "wof:name":"Ambassador House",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-97.488296,35.476869,-97.488296,35.476869],
-  "geometry": {"coordinates":[-97.488296,35.476869],"type":"Point"}
+  "bbox": [
+    -97.488296,
+    35.476869,
+    -97.488296,
+    35.476869
+],
+  "geometry": {"coordinates":[-97.48829600000001,35.476869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303720071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530161,35.439437,-97.530161,35.439437",
     "geom:latitude":35.439437,
     "geom:longitude":-97.530161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303720071,
-    "wof:lastmodified":1448998695,
+    "wof:lastmodified":1466766518,
     "wof:name":"S & S Textile Inc",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trimming"
     ]
 },
-  "bbox": [-97.530161,35.439437,-97.530161,35.439437],
-  "geometry": {"coordinates":[-97.530161,35.439437],"type":"Point"}
+  "bbox": [
+    -97.530161,
+    35.439437,
+    -97.530161,
+    35.439437
+],
+  "geometry": {"coordinates":[-97.53016100000001,35.439437],"type":"Point"}
 }

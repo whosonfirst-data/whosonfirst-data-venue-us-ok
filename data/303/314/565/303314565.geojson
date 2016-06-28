@@ -2,13 +2,14 @@
   "id": 303314565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.775021,35.981133,-96.775021,35.981133",
     "geom:latitude":35.981133,
     "geom:longitude":-96.775021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 W Moses St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303314565,
-    "wof:lastmodified":1449000462,
+    "wof:lastmodified":1466765019,
     "wof:name":"Colonial Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.775021,35.981133,-96.775021,35.981133],
+  "bbox": [
+    -96.775021,
+    35.981133,
+    -96.775021,
+    35.981133
+],
   "geometry": {"coordinates":[-96.775021,35.981133],"type":"Point"}
 }

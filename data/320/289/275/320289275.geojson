@@ -2,13 +2,14 @@
   "id": 320289275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.261447,34.828346,-97.261447,34.828346",
     "geom:latitude":34.828346,
     "geom:longitude":-97.261447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Dulin Dr",
     "sg:city":"Paoli",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320289275,
-    "wof:lastmodified":1449014354,
+    "wof:lastmodified":1466765104,
     "wof:name":"Paoli Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.261447,34.828346,-97.261447,34.828346],
+  "bbox": [
+    -97.261447,
+    34.828346,
+    -97.261447,
+    34.828346
+],
   "geometry": {"coordinates":[-97.261447,34.828346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303369017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.745089,34.913533,-95.745089,34.913533",
     "geom:latitude":34.913533,
     "geom:longitude":-95.745089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 S George Nigh Expy",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303369017,
-    "wof:lastmodified":1449000440,
+    "wof:lastmodified":1466765388,
     "wof:name":"International Software Conslnt",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-95.745089,34.913533,-95.745089,34.913533],
-  "geometry": {"coordinates":[-95.745089,34.913533],"type":"Point"}
+  "bbox": [
+    -95.745089,
+    34.913533,
+    -95.745089,
+    34.913533
+],
+  "geometry": {"coordinates":[-95.74508899999999,34.913533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304009023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.505618,35.389518,-97.505618,35.389518",
     "geom:latitude":35.389518,
     "geom:longitude":-97.505618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7700 S Shields Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304009023,
-    "wof:lastmodified":1449044154,
+    "wof:lastmodified":1466762864,
     "wof:name":"Amax Automotive",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.505618,35.389518,-97.505618,35.389518],
+  "bbox": [
+    -97.505618,
+    35.389518,
+    -97.505618,
+    35.389518
+],
   "geometry": {"coordinates":[-97.505618,35.389518],"type":"Point"}
 }

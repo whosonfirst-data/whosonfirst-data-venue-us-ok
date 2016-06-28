@@ -2,13 +2,14 @@
   "id": 303267493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.8864,35.995861,-95.8864,35.995861",
     "geom:latitude":35.995861,
     "geom:longitude":-95.8864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11643 S Memorial Dr",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303267493,
-    "wof:lastmodified":1449000342,
+    "wof:lastmodified":1466764710,
     "wof:name":"Express Lane Car Sales",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.8864,35.995861,-95.8864,35.995861],
-  "geometry": {"coordinates":[-95.8864,35.995861],"type":"Point"}
+  "bbox": [
+    -95.8864,
+    35.995861,
+    -95.8864,
+    35.995861
+],
+  "geometry": {"coordinates":[-95.88639999999999,35.995861],"type":"Point"}
 }

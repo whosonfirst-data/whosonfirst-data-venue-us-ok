@@ -2,13 +2,14 @@
   "id": 320644659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.009304,36.078146,-96.009304,36.078146",
     "geom:latitude":36.078146,
     "geom:longitude":-96.009304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1663 W 59th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320644659,
-    "wof:lastmodified":1449013392,
+    "wof:lastmodified":1466766375,
     "wof:name":"Parkview Recreation Ctr",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-96.009304,36.078146,-96.009304,36.078146],
+  "bbox": [
+    -96.009304,
+    36.078146,
+    -96.009304,
+    36.078146
+],
   "geometry": {"coordinates":[-96.009304,36.078146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320838329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547395,35.399031,-97.547395,35.399031",
     "geom:latitude":35.399031,
     "geom:longitude":-97.547395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 SW 66th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320838329,
-    "wof:lastmodified":1449011699,
+    "wof:lastmodified":1466766825,
     "wof:name":"Bill's Wallcovering",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.547395,35.399031,-97.547395,35.399031],
-  "geometry": {"coordinates":[-97.547395,35.399031],"type":"Point"}
+  "bbox": [
+    -97.547395,
+    35.399031,
+    -97.547395,
+    35.399031
+],
+  "geometry": {"coordinates":[-97.54739499999999,35.399031],"type":"Point"}
 }

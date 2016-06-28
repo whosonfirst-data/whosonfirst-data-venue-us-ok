@@ -2,13 +2,14 @@
   "id": 303921077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.426487,35.877959,-97.426487,35.877959",
     "geom:latitude":35.877959,
     "geom:longitude":-97.426487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 W Oklahoma Ave",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303921077,
-    "wof:lastmodified":1448999687,
+    "wof:lastmodified":1466767007,
     "wof:name":"Scrapbook Fever",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.426487,35.877959,-97.426487,35.877959],
-  "geometry": {"coordinates":[-97.426487,35.877959],"type":"Point"}
+  "bbox": [
+    -97.426487,
+    35.877959,
+    -97.426487,
+    35.877959
+],
+  "geometry": {"coordinates":[-97.42648699999999,35.877959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303188585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749942,35.507934,-97.749942,35.507934",
     "geom:latitude":35.507934,
     "geom:longitude":-97.749942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 W Main St",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303188585,
-    "wof:lastmodified":1448999331,
+    "wof:lastmodified":1466764373,
     "wof:name":"United Color Press Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-97.749942,35.507934,-97.749942,35.507934],
+  "bbox": [
+    -97.749942,
+    35.507934,
+    -97.749942,
+    35.507934
+],
   "geometry": {"coordinates":[-97.749942,35.507934],"type":"Point"}
 }

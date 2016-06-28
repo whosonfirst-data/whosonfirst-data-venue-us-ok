@@ -2,13 +2,14 @@
   "id": 319991735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.653922,35.56477,-97.653922,35.56477",
     "geom:latitude":35.56477,
     "geom:longitude":-97.653922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7801 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319991735,
-    "wof:lastmodified":1449024319,
+    "wof:lastmodified":1466762575,
     "wof:name":"Resurrection Memorial Cemetery",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-97.653922,35.56477,-97.653922,35.56477],
-  "geometry": {"coordinates":[-97.653922,35.56477],"type":"Point"}
+  "bbox": [
+    -97.653922,
+    35.56477,
+    -97.653922,
+    35.56477
+],
+  "geometry": {"coordinates":[-97.65392199999999,35.56477],"type":"Point"}
 }

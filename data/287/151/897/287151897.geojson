@@ -2,13 +2,14 @@
   "id": 287151897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.44137,35.410148,-97.44137,35.410148",
     "geom:latitude":35.410148,
     "geom:longitude":-97.44137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5537 S Sunnylane Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287151897,
-    "wof:lastmodified":1449000672,
+    "wof:lastmodified":1466763689,
     "wof:name":"Aspen Walk Apartments",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.44137,35.410148,-97.44137,35.410148],
-  "geometry": {"coordinates":[-97.44137,35.410148],"type":"Point"}
+  "bbox": [
+    -97.44137,
+    35.410148,
+    -97.44137,
+    35.410148
+],
+  "geometry": {"coordinates":[-97.44137000000001,35.410148],"type":"Point"}
 }

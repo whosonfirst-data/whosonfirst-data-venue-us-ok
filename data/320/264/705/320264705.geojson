@@ -2,13 +2,14 @@
   "id": 320264705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.489398,34.618349,-98.489398,34.618349",
     "geom:latitude":34.618349,
     "geom:longitude":-98.489398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7640 NW Folkstone Way",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":320264705,
-    "wof:lastmodified":1449013692,
+    "wof:lastmodified":1466764978,
     "wof:name":"Mary Kaye Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "sales"
     ]
 },
-  "bbox": [-98.489398,34.618349,-98.489398,34.618349],
-  "geometry": {"coordinates":[-98.489398,34.618349],"type":"Point"}
+  "bbox": [
+    -98.489398,
+    34.618349,
+    -98.489398,
+    34.618349
+],
+  "geometry": {"coordinates":[-98.48939799999999,34.618349],"type":"Point"}
 }

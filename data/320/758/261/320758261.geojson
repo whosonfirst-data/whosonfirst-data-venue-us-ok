@@ -2,13 +2,14 @@
   "id": 320758261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.970751,36.140554,-95.970751,36.140554",
     "geom:latitude":36.140554,
     "geom:longitude":-95.970751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 E 15th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320758261,
-    "wof:lastmodified":1449012394,
+    "wof:lastmodified":1466766809,
     "wof:name":"Utica Cleaners & Alterations",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-95.970751,36.140554,-95.970751,36.140554],
-  "geometry": {"coordinates":[-95.970751,36.140554],"type":"Point"}
+  "bbox": [
+    -95.970751,
+    36.140554,
+    -95.970751,
+    36.140554
+],
+  "geometry": {"coordinates":[-95.97075100000001,36.140554],"type":"Point"}
 }

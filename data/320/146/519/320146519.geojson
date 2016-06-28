@@ -2,13 +2,14 @@
   "id": 320146519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.328009,34.650478,-99.328009,34.650478",
     "geom:latitude":34.650478,
     "geom:longitude":-99.328009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Falcon Rd",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320146519,
-    "wof:lastmodified":1449012813,
+    "wof:lastmodified":1466764375,
     "wof:name":"Reservoir Park Community Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-99.328009,34.650478,-99.328009,34.650478],
-  "geometry": {"coordinates":[-99.328009,34.650478],"type":"Point"}
+  "bbox": [
+    -99.328009,
+    34.650478,
+    -99.328009,
+    34.650478
+],
+  "geometry": {"coordinates":[-99.32800899999999,34.650478],"type":"Point"}
 }

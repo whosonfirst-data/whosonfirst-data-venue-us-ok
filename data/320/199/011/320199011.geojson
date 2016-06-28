@@ -2,13 +2,14 @@
   "id": 320199011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.474708,34.618016,-98.474708,34.618016",
     "geom:latitude":34.618016,
     "geom:longitude":-98.474708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 NW 67th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320199011,
-    "wof:lastmodified":1449011626,
+    "wof:lastmodified":1466764593,
     "wof:name":"Patrick R Montgomery DDS",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-98.474708,34.618016,-98.474708,34.618016],
-  "geometry": {"coordinates":[-98.474708,34.618016],"type":"Point"}
+  "bbox": [
+    -98.474708,
+    34.618016,
+    -98.474708,
+    34.618016
+],
+  "geometry": {"coordinates":[-98.47470800000001,34.618016],"type":"Point"}
 }

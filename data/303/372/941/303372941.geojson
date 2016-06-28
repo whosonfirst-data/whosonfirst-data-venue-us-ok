@@ -2,13 +2,14 @@
   "id": 303372941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.957075,35.519316,-97.957075,35.519316",
     "geom:latitude":35.519316,
     "geom:longitude":-97.957075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 S Jensen Ave",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303372941,
-    "wof:lastmodified":1448999605,
+    "wof:lastmodified":1466765204,
     "wof:name":"D3 Properties",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.957075,35.519316,-97.957075,35.519316],
+  "bbox": [
+    -97.957075,
+    35.519316,
+    -97.957075,
+    35.519316
+],
   "geometry": {"coordinates":[-97.957075,35.519316],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336909333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.64678,36.34084,-95.64678,36.34084",
     "geom:latitude":36.34084,
     "geom:longitude":-95.64678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9845 E Northlea",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336909333,
-    "wof:lastmodified":1448997755,
+    "wof:lastmodified":1466765173,
     "wof:name":"National Assoc of College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.64678,36.34084,-95.64678,36.34084],
-  "geometry": {"coordinates":[-95.64678,36.34084],"type":"Point"}
+  "bbox": [
+    -95.64678,
+    36.34084,
+    -95.64678,
+    36.34084
+],
+  "geometry": {"coordinates":[-95.64678000000001,36.34084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220178515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.034866,36.094349,-96.034866,36.094349",
     "geom:latitude":36.094349,
     "geom:longitude":-96.034866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 Southwest Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":220178515,
-    "wof:lastmodified":1449074627,
+    "wof:lastmodified":1466762344,
     "wof:name":"Hajoca Corporation",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "saw"
     ]
 },
-  "bbox": [-96.034866,36.094349,-96.034866,36.094349],
-  "geometry": {"coordinates":[-96.034866,36.094349],"type":"Point"}
+  "bbox": [
+    -96.034866,
+    36.094349,
+    -96.034866,
+    36.094349
+],
+  "geometry": {"coordinates":[-96.03486599999999,36.094349],"type":"Point"}
 }

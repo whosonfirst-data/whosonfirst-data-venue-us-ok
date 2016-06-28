@@ -2,13 +2,14 @@
   "id": 354107355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.000814,35.328991,-97.000814,35.328991",
     "geom:latitude":35.328991,
     "geom:longitude":-97.000814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16300 Gaddy Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354107355,
-    "wof:lastmodified":1449065932,
+    "wof:lastmodified":1466763535,
     "wof:name":"Sure Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.000814,35.328991,-97.000814,35.328991],
-  "geometry": {"coordinates":[-97.000814,35.328991],"type":"Point"}
+  "bbox": [
+    -97.000814,
+    35.328991,
+    -97.000814,
+    35.328991
+],
+  "geometry": {"coordinates":[-97.00081400000001,35.328991],"type":"Point"}
 }

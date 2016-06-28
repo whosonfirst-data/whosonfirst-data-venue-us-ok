@@ -2,13 +2,14 @@
   "id": 304043919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.50441,34.872256,-99.50441,34.872256",
     "geom:latitude":34.872256,
     "geom:longitude":-99.50441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Pennsylvania Ave",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304043919,
-    "wof:lastmodified":1449044018,
+    "wof:lastmodified":1466763075,
     "wof:name":"Nazarene Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-99.50441,34.872256,-99.50441,34.872256],
-  "geometry": {"coordinates":[-99.50441,34.872256],"type":"Point"}
+  "bbox": [
+    -99.50441,
+    34.872256,
+    -99.50441,
+    34.872256
+],
+  "geometry": {"coordinates":[-99.50440999999999,34.872256],"type":"Point"}
 }

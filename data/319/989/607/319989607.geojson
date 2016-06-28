@@ -2,13 +2,14 @@
   "id": 319989607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.560409,36.376368,-95.560409,36.376368",
     "geom:latitude":36.376368,
     "geom:longitude":-95.560409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15995 S Hwy 66",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":319989607,
-    "wof:lastmodified":1449024658,
+    "wof:lastmodified":1466762541,
     "wof:name":"Bank Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.560409,36.376368,-95.560409,36.376368],
-  "geometry": {"coordinates":[-95.560409,36.376368],"type":"Point"}
+  "bbox": [
+    -95.560409,
+    36.376368,
+    -95.560409,
+    36.376368
+],
+  "geometry": {"coordinates":[-95.56040900000001,36.376368],"type":"Point"}
 }

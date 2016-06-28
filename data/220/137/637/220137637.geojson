@@ -2,13 +2,14 @@
   "id": 220137637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494942,35.348441,-97.494942,35.348441",
     "geom:latitude":35.348441,
     "geom:longitude":-97.494942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 S Service Rd",
     "sg:city":"Moore",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220137637,
-    "wof:lastmodified":1449074764,
+    "wof:lastmodified":1466763543,
     "wof:name":"Louie's Grill & Bar",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.494942,35.348441,-97.494942,35.348441],
-  "geometry": {"coordinates":[-97.494942,35.348441],"type":"Point"}
+  "bbox": [
+    -97.494942,
+    35.348441,
+    -97.494942,
+    35.348441
+],
+  "geometry": {"coordinates":[-97.49494199999999,35.348441],"type":"Point"}
 }

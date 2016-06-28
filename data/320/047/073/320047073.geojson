@@ -2,13 +2,14 @@
   "id": 320047073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.430602,33.937808,-96.430602,33.937808",
     "geom:latitude":33.937808,
     "geom:longitude":-96.430602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N 5th St",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320047073,
-    "wof:lastmodified":1449013672,
+    "wof:lastmodified":1466762985,
     "wof:name":"Risky Business",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.430602,33.937808,-96.430602,33.937808],
-  "geometry": {"coordinates":[-96.430602,33.937808],"type":"Point"}
+  "bbox": [
+    -96.430602,
+    33.937808,
+    -96.430602,
+    33.937808
+],
+  "geometry": {"coordinates":[-96.43060199999999,33.937808],"type":"Point"}
 }

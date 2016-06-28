@@ -2,13 +2,14 @@
   "id": 336811099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886559,36.145337,-95.886559,36.145337",
     "geom:latitude":36.145337,
     "geom:longitude":-95.886559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1229 S Memorial Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336811099,
-    "wof:lastmodified":1448997473,
+    "wof:lastmodified":1466764714,
     "wof:name":"Three Frogs Lounge",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.886559,36.145337,-95.886559,36.145337],
-  "geometry": {"coordinates":[-95.886559,36.145337],"type":"Point"}
+  "bbox": [
+    -95.886559,
+    36.145337,
+    -95.886559,
+    36.145337
+],
+  "geometry": {"coordinates":[-95.88655900000001,36.145337],"type":"Point"}
 }

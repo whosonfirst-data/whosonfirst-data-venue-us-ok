@@ -2,13 +2,14 @@
   "id": 220177721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.041056,36.100827,-96.041056,36.100827",
     "geom:latitude":36.100827,
     "geom:longitude":-96.041056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4319 W 43rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":220177721,
-    "wof:lastmodified":1449074880,
+    "wof:lastmodified":1466762348,
     "wof:name":"Kelly-Moore Paints",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.041056,36.100827,-96.041056,36.100827],
+  "bbox": [
+    -96.041056,
+    36.100827,
+    -96.041056,
+    36.100827
+],
   "geometry": {"coordinates":[-96.041056,36.100827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287277899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.86576,36.871133,-94.86576,36.871133",
     "geom:latitude":36.871133,
     "geom:longitude":-94.86576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 E Steve Owens Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287277899,
-    "wof:lastmodified":1449000762,
+    "wof:lastmodified":1466763101,
     "wof:name":"Joe's Tire & Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-94.86576,36.871133,-94.86576,36.871133],
-  "geometry": {"coordinates":[-94.86576,36.871133],"type":"Point"}
+  "bbox": [
+    -94.86576,
+    36.871133,
+    -94.86576,
+    36.871133
+],
+  "geometry": {"coordinates":[-94.86575999999999,36.871133],"type":"Point"}
 }

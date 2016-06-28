@@ -2,13 +2,14 @@
   "id": 320096505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.543005,35.435293,-97.543005,35.435293",
     "geom:latitude":35.435293,
     "geom:longitude":-97.543005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 SW 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320096505,
-    "wof:lastmodified":1449012482,
+    "wof:lastmodified":1466763714,
     "wof:name":"T & N Wholesale Restaurant Sup",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "oriental"
     ]
 },
-  "bbox": [-97.543005,35.435293,-97.543005,35.435293],
-  "geometry": {"coordinates":[-97.543005,35.435293],"type":"Point"}
+  "bbox": [
+    -97.543005,
+    35.435293,
+    -97.543005,
+    35.435293
+],
+  "geometry": {"coordinates":[-97.54300499999999,35.435293],"type":"Point"}
 }

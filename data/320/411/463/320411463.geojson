@@ -2,13 +2,14 @@
   "id": 320411463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.974425,36.73155,-95.974425,36.73155",
     "geom:latitude":36.73155,
     "geom:longitude":-95.974425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 Hillcrest Dr",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320411463,
-    "wof:lastmodified":1449011429,
+    "wof:lastmodified":1466765866,
     "wof:name":"Men's Room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.974425,36.73155,-95.974425,36.73155],
+  "bbox": [
+    -95.974425,
+    36.73155,
+    -95.974425,
+    36.73155
+],
   "geometry": {"coordinates":[-95.974425,36.73155],"type":"Point"}
 }

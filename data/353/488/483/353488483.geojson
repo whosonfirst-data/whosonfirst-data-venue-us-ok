@@ -2,13 +2,14 @@
   "id": 353488483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.37303,35.750198,-95.37303,35.750198",
     "geom:latitude":35.750198,
     "geom:longitude":-95.37303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 W Broadway St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353488483,
-    "wof:lastmodified":1449020702,
+    "wof:lastmodified":1466762958,
     "wof:name":"Fence Me In",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.37303,35.750198,-95.37303,35.750198],
+  "bbox": [
+    -95.37303,
+    35.750198,
+    -95.37303,
+    35.750198
+],
   "geometry": {"coordinates":[-95.37303,35.750198],"type":"Point"}
 }

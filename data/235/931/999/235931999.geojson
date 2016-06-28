@@ -2,13 +2,14 @@
   "id": 235931999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.928328,36.082614,-95.928328,36.082614",
     "geom:latitude":36.082614,
     "geom:longitude":-95.928328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4312 E 56th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235931999,
-    "wof:lastmodified":1449008585,
+    "wof:lastmodified":1466762395,
     "wof:name":"Physicians Custom Laundry",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laundries-self"
     ]
 },
-  "bbox": [-95.928328,36.082614,-95.928328,36.082614],
-  "geometry": {"coordinates":[-95.928328,36.082614],"type":"Point"}
+  "bbox": [
+    -95.928328,
+    36.082614,
+    -95.928328,
+    36.082614
+],
+  "geometry": {"coordinates":[-95.92832799999999,36.082614],"type":"Point"}
 }

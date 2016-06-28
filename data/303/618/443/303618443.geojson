@@ -2,13 +2,14 @@
   "id": 303618443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.567807,35.53421,-97.567807,35.53421",
     "geom:latitude":35.53421,
     "geom:longitude":-97.567807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6051 N Brookline Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303618443,
-    "wof:lastmodified":1448999641,
+    "wof:lastmodified":1466766241,
     "wof:name":"Oklahoma City Assn",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.567807,35.53421,-97.567807,35.53421],
+  "bbox": [
+    -97.567807,
+    35.53421,
+    -97.567807,
+    35.53421
+],
   "geometry": {"coordinates":[-97.567807,35.53421],"type":"Point"}
 }

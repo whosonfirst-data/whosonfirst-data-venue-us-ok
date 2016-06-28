@@ -2,13 +2,14 @@
   "id": 303778505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.43493,35.652633,-97.43493,35.652633",
     "geom:latitude":35.652633,
     "geom:longitude":-97.43493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3724 E 2nd St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303778505,
-    "wof:lastmodified":1448998167,
+    "wof:lastmodified":1466766686,
     "wof:name":"Designer Impressions Inc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-97.43493,35.652633,-97.43493,35.652633],
-  "geometry": {"coordinates":[-97.43493,35.652633],"type":"Point"}
+  "bbox": [
+    -97.43493,
+    35.652633,
+    -97.43493,
+    35.652633
+],
+  "geometry": {"coordinates":[-97.43492999999999,35.652633],"type":"Point"}
 }

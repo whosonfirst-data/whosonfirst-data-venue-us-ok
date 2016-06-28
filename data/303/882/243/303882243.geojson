@@ -2,13 +2,14 @@
   "id": 303882243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.690348,34.760806,-96.690348,34.760806",
     "geom:latitude":34.760806,
     "geom:longitude":-96.690348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 W 24th St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303882243,
-    "wof:lastmodified":1448998554,
+    "wof:lastmodified":1466766926,
     "wof:name":"Bill's Appliance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-96.690348,34.760806,-96.690348,34.760806],
+  "bbox": [
+    -96.690348,
+    34.760806,
+    -96.690348,
+    34.760806
+],
   "geometry": {"coordinates":[-96.690348,34.760806],"type":"Point"}
 }

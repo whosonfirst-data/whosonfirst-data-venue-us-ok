@@ -2,13 +2,14 @@
   "id": 303523149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.154047,36.649777,-95.154047,36.649777",
     "geom:latitude":36.649777,
     "geom:longitude":-95.154047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 W Clyde Ave",
     "sg:city":"Vinita",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303523149,
-    "wof:lastmodified":1448999529,
+    "wof:lastmodified":1466765819,
     "wof:name":"Hall Halsell School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.154047,36.649777,-95.154047,36.649777],
-  "geometry": {"coordinates":[-95.154047,36.649777],"type":"Point"}
+  "bbox": [
+    -95.154047,
+    36.649777,
+    -95.154047,
+    36.649777
+],
+  "geometry": {"coordinates":[-95.15404700000001,36.649777],"type":"Point"}
 }

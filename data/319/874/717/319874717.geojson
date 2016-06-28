@@ -2,13 +2,14 @@
   "id": 319874717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.355555,35.470506,-97.355555,35.470506",
     "geom:latitude":35.470506,
     "geom:longitude":-97.355555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9709 NE 3rd Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319874717,
-    "wof:lastmodified":1449024837,
+    "wof:lastmodified":1466763385,
     "wof:name":"Accounting Lifeline",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-97.355555,35.470506,-97.355555,35.470506],
+  "bbox": [
+    -97.355555,
+    35.470506,
+    -97.355555,
+    35.470506
+],
   "geometry": {"coordinates":[-97.355555,35.470506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303438449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.313678,34.362172,-98.313678,34.362172",
     "geom:latitude":34.362172,
     "geom:longitude":-98.313678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 W Missouri Ave",
     "sg:city":"Walters",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303438449,
-    "wof:lastmodified":1448998945,
+    "wof:lastmodified":1466765734,
     "wof:name":"Walters Co-Op Elevator Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "elevator"
     ]
 },
-  "bbox": [-98.313678,34.362172,-98.313678,34.362172],
+  "bbox": [
+    -98.313678,
+    34.362172,
+    -98.313678,
+    34.362172
+],
   "geometry": {"coordinates":[-98.313678,34.362172],"type":"Point"}
 }

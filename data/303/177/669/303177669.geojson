@@ -2,13 +2,14 @@
   "id": 303177669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494325,35.31785,-97.494325,35.31785",
     "geom:latitude":35.31785,
     "geom:longitude":-97.494325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 S Telephone Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303177669,
-    "wof:lastmodified":1449000563,
+    "wof:lastmodified":1466764313,
     "wof:name":"U-Auto Wash",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-97.494325,35.31785,-97.494325,35.31785],
+  "bbox": [
+    -97.494325,
+    35.31785,
+    -97.494325,
+    35.31785
+],
   "geometry": {"coordinates":[-97.494325,35.31785],"type":"Point"}
 }

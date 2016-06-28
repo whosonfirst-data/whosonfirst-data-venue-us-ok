@@ -2,13 +2,14 @@
   "id": 336751923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.078468,36.703483,-97.078468,36.703483",
     "geom:latitude":36.703483,
     "geom:longitude":-97.078468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 E Grand Ave",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336751923,
-    "wof:lastmodified":1448996977,
+    "wof:lastmodified":1466764420,
     "wof:name":"Ponca City Manager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-97.078468,36.703483,-97.078468,36.703483],
+  "bbox": [
+    -97.078468,
+    36.703483,
+    -97.078468,
+    36.703483
+],
   "geometry": {"coordinates":[-97.078468,36.703483],"type":"Point"}
 }

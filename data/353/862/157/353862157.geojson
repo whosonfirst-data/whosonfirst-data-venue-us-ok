@@ -2,13 +2,14 @@
   "id": 353862157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.362673,35.012233,-97.362673,35.012233",
     "geom:latitude":35.012233,
     "geom:longitude":-97.362673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S 3rd Ave",
     "sg:city":"Purcell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353862157,
-    "wof:lastmodified":1449020881,
+    "wof:lastmodified":1466765551,
     "wof:name":"Purcell Crime Stoppers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "line"
     ]
 },
-  "bbox": [-97.362673,35.012233,-97.362673,35.012233],
+  "bbox": [
+    -97.362673,
+    35.012233,
+    -97.362673,
+    35.012233
+],
   "geometry": {"coordinates":[-97.362673,35.012233],"type":"Point"}
 }

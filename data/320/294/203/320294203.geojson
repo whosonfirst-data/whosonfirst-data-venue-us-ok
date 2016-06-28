@@ -2,13 +2,14 @@
   "id": 320294203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.052782,36.075486,-96.052782,36.075486",
     "geom:latitude":36.075486,
     "geom:longitude":-96.052782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6100 New Sapulpa Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320294203,
-    "wof:lastmodified":1449013921,
+    "wof:lastmodified":1466765130,
     "wof:name":"66 Auto Salvage",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-96.052782,36.075486,-96.052782,36.075486],
-  "geometry": {"coordinates":[-96.052782,36.075486],"type":"Point"}
+  "bbox": [
+    -96.052782,
+    36.075486,
+    -96.052782,
+    36.075486
+],
+  "geometry": {"coordinates":[-96.05278199999999,36.075486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336821987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.40061,35.081672,-96.40061,35.081672",
     "geom:latitude":35.081672,
     "geom:longitude":-96.40061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 E Main St",
     "sg:city":"Holdenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336821987,
-    "wof:lastmodified":1448997531,
+    "wof:lastmodified":1466764790,
     "wof:name":"Johnson Tire Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-96.40061,35.081672,-96.40061,35.081672],
+  "bbox": [
+    -96.40061,
+    35.081672,
+    -96.40061,
+    35.081672
+],
   "geometry": {"coordinates":[-96.40061,35.081672],"type":"Point"}
 }

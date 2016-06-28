@@ -2,13 +2,14 @@
   "id": 303241733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.006927,36.108656,-96.006927,36.108656",
     "geom:latitude":36.108656,
     "geom:longitude":-96.006927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1326 W 37th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303241733,
-    "wof:lastmodified":1449000502,
+    "wof:lastmodified":1466764671,
     "wof:name":"Rust-Oleum Concrete Protection",
     "wof:parent_id":85821015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "floor"
     ]
 },
-  "bbox": [-96.006927,36.108656,-96.006927,36.108656],
+  "bbox": [
+    -96.006927,
+    36.108656,
+    -96.006927,
+    36.108656
+],
   "geometry": {"coordinates":[-96.006927,36.108656],"type":"Point"}
 }

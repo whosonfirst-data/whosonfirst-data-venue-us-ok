@@ -2,13 +2,14 @@
   "id": 336655189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750931,35.391795,-97.750931,35.391795",
     "geom:latitude":35.391795,
     "geom:longitude":-97.750931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 State Hwy 152",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336655189,
-    "wof:lastmodified":1448997555,
+    "wof:lastmodified":1466763031,
     "wof:name":"Waddell & Reed Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-97.750931,35.391795,-97.750931,35.391795],
-  "geometry": {"coordinates":[-97.750931,35.391795],"type":"Point"}
+  "bbox": [
+    -97.750931,
+    35.391795,
+    -97.750931,
+    35.391795
+],
+  "geometry": {"coordinates":[-97.75093099999999,35.391795],"type":"Point"}
 }

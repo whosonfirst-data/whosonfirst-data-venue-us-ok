@@ -2,13 +2,14 @@
   "id": 287144113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.584297,36.333704,-95.584297,36.333704",
     "geom:latitude":36.333704,
     "geom:longitude":-95.584297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Easy St",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287144113,
-    "wof:lastmodified":1449001330,
+    "wof:lastmodified":1466763649,
     "wof:name":"Tom W Kelley Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.584297,36.333704,-95.584297,36.333704],
-  "geometry": {"coordinates":[-95.584297,36.333704],"type":"Point"}
+  "bbox": [
+    -95.584297,
+    36.333704,
+    -95.584297,
+    36.333704
+],
+  "geometry": {"coordinates":[-95.58429700000001,36.333704],"type":"Point"}
 }

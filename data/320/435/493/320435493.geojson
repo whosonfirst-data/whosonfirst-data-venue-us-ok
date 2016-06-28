@@ -2,13 +2,14 @@
   "id": 320435493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.959504,34.503219,-97.959504,34.503219",
     "geom:latitude":34.503219,
     "geom:longitude":-97.959504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 W Walnut Ave",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320435493,
-    "wof:lastmodified":1449014619,
+    "wof:lastmodified":1466765789,
     "wof:name":"Duncan Chamber Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commerce"
     ]
 },
-  "bbox": [-97.959504,34.503219,-97.959504,34.503219],
+  "bbox": [
+    -97.959504,
+    34.503219,
+    -97.959504,
+    34.503219
+],
   "geometry": {"coordinates":[-97.959504,34.503219],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304065575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.010221,36.205301,-96.010221,36.205301",
     "geom:latitude":36.205301,
     "geom:longitude":-96.010221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 W 36th St N",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":304065575,
-    "wof:lastmodified":1449044156,
+    "wof:lastmodified":1466763195,
     "wof:name":"Mc Junkin Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pipe"
     ]
 },
-  "bbox": [-96.010221,36.205301,-96.010221,36.205301],
+  "bbox": [
+    -96.010221,
+    36.205301,
+    -96.010221,
+    36.205301
+],
   "geometry": {"coordinates":[-96.010221,36.205301],"type":"Point"}
 }

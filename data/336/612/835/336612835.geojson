@@ -2,13 +2,14 @@
   "id": 336612835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.4063,35.495942,-97.4063,35.495942",
     "geom:latitude":35.495942,
     "geom:longitude":-97.4063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 N Air Depot Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336612835,
-    "wof:lastmodified":1448997425,
+    "wof:lastmodified":1466762376,
     "wof:name":"Drivers License Station",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-97.4063,35.495942,-97.4063,35.495942],
+  "bbox": [
+    -97.4063,
+    35.495942,
+    -97.4063,
+    35.495942
+],
   "geometry": {"coordinates":[-97.4063,35.495942],"type":"Point"}
 }

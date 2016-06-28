@@ -2,13 +2,14 @@
   "id": 320065489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480913,35.65821,-97.480913,35.65821",
     "geom:latitude":35.65821,
     "geom:longitude":-97.480913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 N Broadway",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":320065489,
-    "wof:lastmodified":1449014921,
+    "wof:lastmodified":1466763259,
     "wof:name":"Edmond Coins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.480913,35.65821,-97.480913,35.65821],
+  "bbox": [
+    -97.480913,
+    35.65821,
+    -97.480913,
+    35.65821
+],
   "geometry": {"coordinates":[-97.480913,35.65821],"type":"Point"}
 }

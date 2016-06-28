@@ -2,13 +2,14 @@
   "id": 303434609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.043943,36.100911,-96.043943,36.100911",
     "geom:latitude":36.100911,
     "geom:longitude":-96.043943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4505 W 43rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303434609,
-    "wof:lastmodified":1448998644,
+    "wof:lastmodified":1466765726,
     "wof:name":"B & M Towing",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-96.043943,36.100911,-96.043943,36.100911],
+  "bbox": [
+    -96.043943,
+    36.100911,
+    -96.043943,
+    36.100911
+],
   "geometry": {"coordinates":[-96.043943,36.100911],"type":"Point"}
 }

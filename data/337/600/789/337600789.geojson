@@ -2,13 +2,14 @@
   "id": 337600789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.979532,35.441816,-95.979532,35.441816",
     "geom:latitude":35.441816,
     "geom:longitude":-95.979532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N B St",
     "sg:city":"Henryetta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337600789,
-    "wof:lastmodified":1449027018,
+    "wof:lastmodified":1466763220,
     "wof:name":"Bill's Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.979532,35.441816,-95.979532,35.441816],
-  "geometry": {"coordinates":[-95.979532,35.441816],"type":"Point"}
+  "bbox": [
+    -95.979532,
+    35.441816,
+    -95.979532,
+    35.441816
+],
+  "geometry": {"coordinates":[-95.97953200000001,35.441816],"type":"Point"}
 }

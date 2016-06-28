@@ -2,13 +2,14 @@
   "id": 303421925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.364212,34.609429,-98.364212,34.609429",
     "geom:latitude":34.609429,
     "geom:longitude":-98.364212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 NE 20th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303421925,
-    "wof:lastmodified":1448999669,
+    "wof:lastmodified":1466765515,
     "wof:name":"St Behavioral Medicine",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-98.364212,34.609429,-98.364212,34.609429],
-  "geometry": {"coordinates":[-98.364212,34.609429],"type":"Point"}
+  "bbox": [
+    -98.364212,
+    34.609429,
+    -98.364212,
+    34.609429
+],
+  "geometry": {"coordinates":[-98.36421199999999,34.609429],"type":"Point"}
 }

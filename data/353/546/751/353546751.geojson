@@ -2,13 +2,14 @@
   "id": 353546751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.855321,36.316746,-95.855321,36.316746",
     "geom:latitude":36.316746,
     "geom:longitude":-95.855321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10614 E 112th Pl N",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353546751,
-    "wof:lastmodified":1449018249,
+    "wof:lastmodified":1466763802,
     "wof:name":"John M Deville",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-95.855321,36.316746,-95.855321,36.316746],
+  "bbox": [
+    -95.855321,
+    36.316746,
+    -95.855321,
+    36.316746
+],
   "geometry": {"coordinates":[-95.855321,36.316746],"type":"Point"}
 }

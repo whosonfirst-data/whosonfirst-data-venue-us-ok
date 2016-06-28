@@ -2,13 +2,14 @@
   "id": 336634171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.07512,36.735379,-97.07512,36.735379",
     "geom:latitude":36.735379,
     "geom:longitude":-97.07512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 N 5th St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336634171,
-    "wof:lastmodified":1448997468,
+    "wof:lastmodified":1466762702,
     "wof:name":"LDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.07512,36.735379,-97.07512,36.735379],
+  "bbox": [
+    -97.07512,
+    36.735379,
+    -97.07512,
+    36.735379
+],
   "geometry": {"coordinates":[-97.07512,36.735379],"type":"Point"}
 }

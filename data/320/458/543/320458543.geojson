@@ -2,13 +2,14 @@
   "id": 320458543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.606819,34.889728,-94.606819,34.889728",
     "geom:latitude":34.889728,
     "geom:longitude":-94.606819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 W Ave C",
     "sg:city":"Heavener",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320458543,
-    "wof:lastmodified":1449013916,
+    "wof:lastmodified":1466765970,
     "wof:name":"United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.606819,34.889728,-94.606819,34.889728],
+  "bbox": [
+    -94.606819,
+    34.889728,
+    -94.606819,
+    34.889728
+],
   "geometry": {"coordinates":[-94.606819,34.889728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353430107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.659343,35.496518,-97.659343,35.496518",
     "geom:latitude":35.496518,
     "geom:longitude":-97.659343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 N Terry Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353430107,
-    "wof:lastmodified":1449019869,
+    "wof:lastmodified":1466762600,
     "wof:name":"Spangler & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-97.659343,35.496518,-97.659343,35.496518],
-  "geometry": {"coordinates":[-97.659343,35.496518],"type":"Point"}
+  "bbox": [
+    -97.659343,
+    35.496518,
+    -97.659343,
+    35.496518
+],
+  "geometry": {"coordinates":[-97.65934300000001,35.496518],"type":"Point"}
 }

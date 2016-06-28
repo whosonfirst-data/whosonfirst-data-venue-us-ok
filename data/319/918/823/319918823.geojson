@@ -2,13 +2,14 @@
   "id": 319918823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.850973,36.088482,-95.850973,36.088482",
     "geom:latitude":36.088482,
     "geom:longitude":-95.850973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5125 S Garnett Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319918823,
-    "wof:lastmodified":1449024608,
+    "wof:lastmodified":1466763827,
     "wof:name":"Rockwell Automation",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automation"
     ]
 },
-  "bbox": [-95.850973,36.088482,-95.850973,36.088482],
+  "bbox": [
+    -95.850973,
+    36.088482,
+    -95.850973,
+    36.088482
+],
   "geometry": {"coordinates":[-95.850973,36.088482],"type":"Point"}
 }

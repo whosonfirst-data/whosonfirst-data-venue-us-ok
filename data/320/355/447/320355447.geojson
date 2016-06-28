@@ -2,13 +2,14 @@
   "id": 320355447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.308561,36.679793,-97.308561,36.679793",
     "geom:latitude":36.679793,
     "geom:longitude":-97.308561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Tonkawa Ave",
     "sg:city":"Tonkawa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320355447,
-    "wof:lastmodified":1449012303,
+    "wof:lastmodified":1466765416,
     "wof:name":"Foodworld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.308561,36.679793,-97.308561,36.679793],
+  "bbox": [
+    -97.308561,
+    36.679793,
+    -97.308561,
+    36.679793
+],
   "geometry": {"coordinates":[-97.308561,36.679793],"type":"Point"}
 }

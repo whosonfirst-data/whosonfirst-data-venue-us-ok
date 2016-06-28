@@ -2,13 +2,14 @@
   "id": 353586877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.240885,35.203095,-97.240885,35.203095",
     "geom:latitude":35.203095,
     "geom:longitude":-97.240885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Clear Bay Ave",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353586877,
-    "wof:lastmodified":1449020511,
+    "wof:lastmodified":1466764436,
     "wof:name":"Thunderbird State Park",
     "wof:parent_id":85814357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-97.240885,35.203095,-97.240885,35.203095],
-  "geometry": {"coordinates":[-97.240885,35.203095],"type":"Point"}
+  "bbox": [
+    -97.240885,
+    35.203095,
+    -97.240885,
+    35.203095
+],
+  "geometry": {"coordinates":[-97.24088500000001,35.203095],"type":"Point"}
 }

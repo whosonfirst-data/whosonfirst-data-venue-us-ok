@@ -2,13 +2,14 @@
   "id": 320676481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.61781,36.298385,-95.61781,36.298385",
     "geom:latitude":36.298385,
     "geom:longitude":-95.61781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Cowell St",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320676481,
-    "wof:lastmodified":1449013661,
+    "wof:lastmodified":1466766489,
     "wof:name":"C D Hays Painting & Cnstr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.61781,36.298385,-95.61781,36.298385],
-  "geometry": {"coordinates":[-95.61781,36.298385],"type":"Point"}
+  "bbox": [
+    -95.61781,
+    36.298385,
+    -95.61781,
+    36.298385
+],
+  "geometry": {"coordinates":[-95.61781000000001,36.298385],"type":"Point"}
 }

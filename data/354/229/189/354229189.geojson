@@ -2,13 +2,14 @@
   "id": 354229189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.880345,36.583555,-98.880345,36.583555",
     "geom:latitude":36.583555,
     "geom:longitude":-98.880345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Main St",
     "sg:city":"Waynoka",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":354229189,
-    "wof:lastmodified":1449067290,
+    "wof:lastmodified":1466764101,
     "wof:name":"Quilter's Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sewing"
     ]
 },
-  "bbox": [-98.880345,36.583555,-98.880345,36.583555],
-  "geometry": {"coordinates":[-98.880345,36.583555],"type":"Point"}
+  "bbox": [
+    -98.880345,
+    36.583555,
+    -98.880345,
+    36.583555
+],
+  "geometry": {"coordinates":[-98.88034500000001,36.583555],"type":"Point"}
 }

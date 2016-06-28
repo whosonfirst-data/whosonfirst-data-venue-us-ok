@@ -2,13 +2,14 @@
   "id": 303165177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.113771,36.766321,-99.113771,36.766321",
     "geom:latitude":36.766321,
     "geom:longitude":-99.113771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Tumbleweed Ln",
     "sg:city":"Freedom",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303165177,
-    "wof:lastmodified":1449000571,
+    "wof:lastmodified":1466764276,
     "wof:name":"Rocking A Rodeo Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rodeo"
     ]
 },
-  "bbox": [-99.113771,36.766321,-99.113771,36.766321],
+  "bbox": [
+    -99.113771,
+    36.766321,
+    -99.113771,
+    36.766321
+],
   "geometry": {"coordinates":[-99.113771,36.766321],"type":"Point"}
 }

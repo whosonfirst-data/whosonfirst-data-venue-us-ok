@@ -2,13 +2,14 @@
   "id": 303692081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.017066,34.382402,-99.017066,34.382402",
     "geom:latitude":34.382402,
     "geom:longitude":-99.017066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 S Main St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303692081,
-    "wof:lastmodified":1448998761,
+    "wof:lastmodified":1466766465,
     "wof:name":"Scottish Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.017066,34.382402,-99.017066,34.382402],
+  "bbox": [
+    -99.017066,
+    34.382402,
+    -99.017066,
+    34.382402
+],
   "geometry": {"coordinates":[-99.017066,34.382402],"type":"Point"}
 }

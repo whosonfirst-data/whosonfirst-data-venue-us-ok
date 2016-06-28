@@ -2,13 +2,14 @@
   "id": 303941301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.730624,36.322064,-95.730624,36.322064",
     "geom:latitude":36.322064,
     "geom:longitude":-95.730624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5262 E Hwy 20",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303941301,
-    "wof:lastmodified":1448999580,
+    "wof:lastmodified":1466767097,
     "wof:name":"Limestone Fire Protection Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-95.730624,36.322064,-95.730624,36.322064],
-  "geometry": {"coordinates":[-95.730624,36.322064],"type":"Point"}
+  "bbox": [
+    -95.730624,
+    36.322064,
+    -95.730624,
+    36.322064
+],
+  "geometry": {"coordinates":[-95.73062400000001,36.322064],"type":"Point"}
 }

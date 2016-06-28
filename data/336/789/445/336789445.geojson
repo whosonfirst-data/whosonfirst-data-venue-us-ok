@@ -2,13 +2,14 @@
   "id": 336789445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.624901,36.316135,-95.624901,36.316135",
     "geom:latitude":36.316135,
     "geom:longitude":-95.624901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 W Will Rogers Blvd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336789445,
-    "wof:lastmodified":1448997436,
+    "wof:lastmodified":1466764621,
     "wof:name":"Access Wireless Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-95.624901,36.316135,-95.624901,36.316135],
-  "geometry": {"coordinates":[-95.624901,36.316135],"type":"Point"}
+  "bbox": [
+    -95.624901,
+    36.316135,
+    -95.624901,
+    36.316135
+],
+  "geometry": {"coordinates":[-95.62490099999999,36.316135],"type":"Point"}
 }

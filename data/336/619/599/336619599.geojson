@@ -2,13 +2,14 @@
   "id": 336619599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.008329,36.116223,-97.008329,36.116223",
     "geom:latitude":36.116223,
     "geom:longitude":-97.008329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4002 E 6th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336619599,
-    "wof:lastmodified":1448997136,
+    "wof:lastmodified":1466762487,
     "wof:name":"Oakes Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.008329,36.116223,-97.008329,36.116223],
+  "bbox": [
+    -97.008329,
+    36.116223,
+    -97.008329,
+    36.116223
+],
   "geometry": {"coordinates":[-97.008329,36.116223],"type":"Point"}
 }

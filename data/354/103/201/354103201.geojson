@@ -2,13 +2,14 @@
   "id": 354103201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.910511,36.076889,-95.910511,36.076889",
     "geom:latitude":36.076889,
     "geom:longitude":-95.910511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5838 S Joplin Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354103201,
-    "wof:lastmodified":1449067016,
+    "wof:lastmodified":1466763518,
     "wof:name":"CHI Bella Salon",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-95.910511,36.076889,-95.910511,36.076889],
+  "bbox": [
+    -95.910511,
+    36.076889,
+    -95.910511,
+    36.076889
+],
   "geometry": {"coordinates":[-95.910511,36.076889],"type":"Point"}
 }

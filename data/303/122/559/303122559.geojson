@@ -2,13 +2,14 @@
   "id": 303122559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.405761,34.623135,-98.405761,34.623135",
     "geom:latitude":34.623135,
     "geom:longitude":-98.405761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 NW Cache Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303122559,
-    "wof:lastmodified":1448999510,
+    "wof:lastmodified":1466763600,
     "wof:name":"German Restaurant",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-98.405761,34.623135,-98.405761,34.623135],
+  "bbox": [
+    -98.405761,
+    34.623135,
+    -98.405761,
+    34.623135
+],
   "geometry": {"coordinates":[-98.405761,34.623135],"type":"Point"}
 }

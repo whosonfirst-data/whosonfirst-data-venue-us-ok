@@ -2,13 +2,14 @@
   "id": 353522129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.6807,35.487672,-96.6807,35.487672",
     "geom:latitude":35.487672,
     "geom:longitude":-96.6807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Ayars Ave",
     "sg:city":"Prague",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353522129,
-    "wof:lastmodified":1449019480,
+    "wof:lastmodified":1466763457,
     "wof:name":"Prague Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-96.6807,35.487672,-96.6807,35.487672],
+  "bbox": [
+    -96.6807,
+    35.487672,
+    -96.6807,
+    35.487672
+],
   "geometry": {"coordinates":[-96.6807,35.487672],"type":"Point"}
 }

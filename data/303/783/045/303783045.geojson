@@ -2,13 +2,14 @@
   "id": 303783045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.880433,36.584378,-98.880433,36.584378",
     "geom:latitude":36.584378,
     "geom:longitude":-98.880433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 S Main St",
     "sg:city":"Waynoka",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303783045,
-    "wof:lastmodified":1448998197,
+    "wof:lastmodified":1466766695,
     "wof:name":"Waynoka Chamber of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "commerce"
     ]
 },
-  "bbox": [-98.880433,36.584378,-98.880433,36.584378],
+  "bbox": [
+    -98.880433,
+    36.584378,
+    -98.880433,
+    36.584378
+],
   "geometry": {"coordinates":[-98.880433,36.584378],"type":"Point"}
 }

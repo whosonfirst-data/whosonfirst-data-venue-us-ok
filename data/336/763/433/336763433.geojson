@@ -2,13 +2,14 @@
   "id": 336763433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.920803,35.329664,-96.920803,35.329664",
     "geom:latitude":35.329664,
     "geom:longitude":-96.920803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 N Union Ave",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336763433,
-    "wof:lastmodified":1448998007,
+    "wof:lastmodified":1466764458,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.920803,35.329664,-96.920803,35.329664],
-  "geometry": {"coordinates":[-96.920803,35.329664],"type":"Point"}
+  "bbox": [
+    -96.920803,
+    35.329664,
+    -96.920803,
+    35.329664
+],
+  "geometry": {"coordinates":[-96.92080300000001,35.329664],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303782497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990626,35.439711,-95.990626,35.439711",
     "geom:latitude":35.439711,
     "geom:longitude":-95.990626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 W Main St",
     "sg:city":"Henryetta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303782497,
-    "wof:lastmodified":1448998108,
+    "wof:lastmodified":1466766702,
     "wof:name":"Beymer Motor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-95.990626,35.439711,-95.990626,35.439711],
-  "geometry": {"coordinates":[-95.990626,35.439711],"type":"Point"}
+  "bbox": [
+    -95.990626,
+    35.439711,
+    -95.990626,
+    35.439711
+],
+  "geometry": {"coordinates":[-95.99062600000001,35.439711],"type":"Point"}
 }

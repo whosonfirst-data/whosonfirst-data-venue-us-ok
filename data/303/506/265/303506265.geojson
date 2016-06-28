@@ -2,13 +2,14 @@
   "id": 303506265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967235,36.144964,-95.967235,36.144964",
     "geom:latitude":36.144964,
     "geom:longitude":-95.967235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1244 S Utica Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303506265,
-    "wof:lastmodified":1448998170,
+    "wof:lastmodified":1466765761,
     "wof:name":"Tulsa Senior Nutrition Program",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "citizen"
     ]
 },
-  "bbox": [-95.967235,36.144964,-95.967235,36.144964],
+  "bbox": [
+    -95.967235,
+    36.144964,
+    -95.967235,
+    36.144964
+],
   "geometry": {"coordinates":[-95.967235,36.144964],"type":"Point"}
 }

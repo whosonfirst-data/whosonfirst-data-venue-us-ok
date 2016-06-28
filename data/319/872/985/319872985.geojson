@@ -2,13 +2,14 @@
   "id": 319872985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530125,35.412987,-97.530125,35.412987",
     "geom:latitude":35.412987,
     "geom:longitude":-97.530125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5304 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319872985,
-    "wof:lastmodified":1449024171,
+    "wof:lastmodified":1466763374,
     "wof:name":"Infor Med",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.530125,35.412987,-97.530125,35.412987],
+  "bbox": [
+    -97.530125,
+    35.412987,
+    -97.530125,
+    35.412987
+],
   "geometry": {"coordinates":[-97.530125,35.412987],"type":"Point"}
 }

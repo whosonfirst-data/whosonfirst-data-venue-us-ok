@@ -2,13 +2,14 @@
   "id": 353925193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.465021,34.626179,-98.465021,34.626179",
     "geom:latitude":34.626179,
     "geom:longitude":-98.465021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 NW Beechwood Dr",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353925193,
-    "wof:lastmodified":1449018281,
+    "wof:lastmodified":1466765636,
     "wof:name":"Gifts For All Seasons",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.465021,34.626179,-98.465021,34.626179],
-  "geometry": {"coordinates":[-98.465021,34.626179],"type":"Point"}
+  "bbox": [
+    -98.465021,
+    34.626179,
+    -98.465021,
+    34.626179
+],
+  "geometry": {"coordinates":[-98.46502099999999,34.626179],"type":"Point"}
 }

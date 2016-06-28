@@ -2,13 +2,14 @@
   "id": 354036007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.505906,35.49103,-97.505906,35.49103",
     "geom:latitude":35.49103,
     "geom:longitude":-97.505906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 N Stiles Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354036007,
-    "wof:lastmodified":1449066300,
+    "wof:lastmodified":1466764196,
     "wof:name":"Administrative Ofc-Judiciary",
     "wof:parent_id":85871695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-97.505906,35.49103,-97.505906,35.49103],
+  "bbox": [
+    -97.505906,
+    35.49103,
+    -97.505906,
+    35.49103
+],
   "geometry": {"coordinates":[-97.505906,35.49103],"type":"Point"}
 }

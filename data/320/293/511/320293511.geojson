@@ -2,13 +2,14 @@
   "id": 320293511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.654363,35.472861,-97.654363,35.472861",
     "geom:latitude":35.472861,
     "geom:longitude":-97.654363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 N Council Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320293511,
-    "wof:lastmodified":1449011991,
+    "wof:lastmodified":1466765012,
     "wof:name":"Riverside Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.654363,35.472861,-97.654363,35.472861],
+  "bbox": [
+    -97.654363,
+    35.472861,
+    -97.654363,
+    35.472861
+],
   "geometry": {"coordinates":[-97.654363,35.472861],"type":"Point"}
 }

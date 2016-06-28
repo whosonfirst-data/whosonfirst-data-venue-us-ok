@@ -2,13 +2,14 @@
   "id": 303956205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.829591,36.056095,-95.829591,36.056095",
     "geom:latitude":36.056095,
     "geom:longitude":-95.829591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3312 W Elgin St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303956205,
-    "wof:lastmodified":1448998533,
+    "wof:lastmodified":1466767036,
     "wof:name":"Sierra Delta Inc",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.829591,36.056095,-95.829591,36.056095],
-  "geometry": {"coordinates":[-95.829591,36.056095],"type":"Point"}
+  "bbox": [
+    -95.829591,
+    36.056095,
+    -95.829591,
+    36.056095
+],
+  "geometry": {"coordinates":[-95.82959099999999,36.056095],"type":"Point"}
 }

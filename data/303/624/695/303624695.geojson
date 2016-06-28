@@ -2,13 +2,14 @@
   "id": 303624695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.973718,36.292213,-95.973718,36.292213",
     "geom:latitude":36.292213,
     "geom:longitude":-95.973718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9400 N Peoria Ave",
     "sg:city":"Sperry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303624695,
-    "wof:lastmodified":1448999796,
+    "wof:lastmodified":1466766165,
     "wof:name":"J K Auto Sales",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-95.973718,36.292213,-95.973718,36.292213],
-  "geometry": {"coordinates":[-95.973718,36.292213],"type":"Point"}
+  "bbox": [
+    -95.973718,
+    36.292213,
+    -95.973718,
+    36.292213
+],
+  "geometry": {"coordinates":[-95.97371800000001,36.292213],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320479195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.08513,36.726547,-97.08513,36.726547",
     "geom:latitude":36.726547,
     "geom:longitude":-97.08513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 N Union St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320479195,
-    "wof:lastmodified":1449013831,
+    "wof:lastmodified":1466766006,
     "wof:name":"Rainbo Baking Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-97.08513,36.726547,-97.08513,36.726547],
-  "geometry": {"coordinates":[-97.08513,36.726547],"type":"Point"}
+  "bbox": [
+    -97.08513,
+    36.726547,
+    -97.08513,
+    36.726547
+],
+  "geometry": {"coordinates":[-97.08513000000001,36.726547],"type":"Point"}
 }

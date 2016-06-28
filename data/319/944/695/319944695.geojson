@@ -2,13 +2,14 @@
   "id": 319944695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.648244,35.509625,-97.648244,35.509625",
     "geom:latitude":35.509625,
     "geom:longitude":-97.648244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7609 NW 38th St",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319944695,
-    "wof:lastmodified":1449024472,
+    "wof:lastmodified":1466763993,
     "wof:name":"Benn Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.648244,35.509625,-97.648244,35.509625],
-  "geometry": {"coordinates":[-97.648244,35.509625],"type":"Point"}
+  "bbox": [
+    -97.648244,
+    35.509625,
+    -97.648244,
+    35.509625
+],
+  "geometry": {"coordinates":[-97.64824400000001,35.509625],"type":"Point"}
 }

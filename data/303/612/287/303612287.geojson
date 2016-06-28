@@ -2,13 +2,14 @@
   "id": 303612287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.085929,36.040649,-96.085929,36.040649",
     "geom:latitude":36.040649,
     "geom:longitude":-96.085929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8622 S Regency Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303612287,
-    "wof:lastmodified":1448999198,
+    "wof:lastmodified":1466766238,
     "wof:name":"Tims Bottling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.085929,36.040649,-96.085929,36.040649],
-  "geometry": {"coordinates":[-96.085929,36.040649],"type":"Point"}
+  "bbox": [
+    -96.085929,
+    36.040649,
+    -96.085929,
+    36.040649
+],
+  "geometry": {"coordinates":[-96.08592899999999,36.040649],"type":"Point"}
 }

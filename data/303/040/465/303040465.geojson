@@ -2,13 +2,14 @@
   "id": 303040465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.613127,36.317291,-95.613127,36.317291",
     "geom:latitude":36.317291,
     "geom:longitude":-95.613127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 W 8th St",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303040465,
-    "wof:lastmodified":1449000497,
+    "wof:lastmodified":1466764173,
     "wof:name":"Claremore Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.613127,36.317291,-95.613127,36.317291],
-  "geometry": {"coordinates":[-95.613127,36.317291],"type":"Point"}
+  "bbox": [
+    -95.613127,
+    36.317291,
+    -95.613127,
+    36.317291
+],
+  "geometry": {"coordinates":[-95.61312700000001,36.317291],"type":"Point"}
 }

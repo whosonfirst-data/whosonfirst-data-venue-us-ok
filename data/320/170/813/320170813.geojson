@@ -2,13 +2,14 @@
   "id": 320170813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.956849,35.522402,-97.956849,35.522402",
     "geom:latitude":35.522402,
     "geom:longitude":-97.956849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 W Elm St",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320170813,
-    "wof:lastmodified":1449011586,
+    "wof:lastmodified":1466764475,
     "wof:name":"Hubbard's Liquor Store",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-97.956849,35.522402,-97.956849,35.522402],
-  "geometry": {"coordinates":[-97.956849,35.522402],"type":"Point"}
+  "bbox": [
+    -97.956849,
+    35.522402,
+    -97.956849,
+    35.522402
+],
+  "geometry": {"coordinates":[-97.95684900000001,35.522402],"type":"Point"}
 }

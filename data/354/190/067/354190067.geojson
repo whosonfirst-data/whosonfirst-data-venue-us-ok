@@ -2,13 +2,14 @@
   "id": 354190067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534332,35.520626,-97.534332,35.520626",
     "geom:latitude":35.520626,
     "geom:longitude":-97.534332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354190067,
-    "wof:lastmodified":1449067566,
+    "wof:lastmodified":1466763849,
     "wof:name":"Edwards Daniel DDS PC",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.534332,35.520626,-97.534332,35.520626],
-  "geometry": {"coordinates":[-97.534332,35.520626],"type":"Point"}
+  "bbox": [
+    -97.534332,
+    35.520626,
+    -97.534332,
+    35.520626
+],
+  "geometry": {"coordinates":[-97.53433200000001,35.520626],"type":"Point"}
 }

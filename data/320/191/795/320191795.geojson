@@ -2,13 +2,14 @@
   "id": 320191795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.317478,36.310096,-95.317478,36.310096",
     "geom:latitude":36.310096,
     "geom:longitude":-95.317478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 NE 1st St",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320191795,
-    "wof:lastmodified":1449013511,
+    "wof:lastmodified":1466764563,
     "wof:name":"Mayes County Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-95.317478,36.310096,-95.317478,36.310096],
-  "geometry": {"coordinates":[-95.317478,36.310096],"type":"Point"}
+  "bbox": [
+    -95.317478,
+    36.310096,
+    -95.317478,
+    36.310096
+],
+  "geometry": {"coordinates":[-95.31747799999999,36.310096],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336679935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.718255,35.510486,-97.718255,35.510486",
     "geom:latitude":35.510486,
     "geom:longitude":-97.718255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 E Main St",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336679935,
-    "wof:lastmodified":1448997623,
+    "wof:lastmodified":1466763407,
     "wof:name":"First Place Motors",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.718255,35.510486,-97.718255,35.510486],
+  "bbox": [
+    -97.718255,
+    35.510486,
+    -97.718255,
+    35.510486
+],
   "geometry": {"coordinates":[-97.718255,35.510486],"type":"Point"}
 }

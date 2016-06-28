@@ -2,13 +2,14 @@
   "id": 303318915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.883333,35.942454,-95.883333,35.942454",
     "geom:latitude":35.942454,
     "geom:longitude":-95.883333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 W Dawes Ave",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303318915,
-    "wof:lastmodified":1448998657,
+    "wof:lastmodified":1466764927,
     "wof:name":"Show N Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-95.883333,35.942454,-95.883333,35.942454],
-  "geometry": {"coordinates":[-95.883333,35.942454],"type":"Point"}
+  "bbox": [
+    -95.883333,
+    35.942454,
+    -95.883333,
+    35.942454
+],
+  "geometry": {"coordinates":[-95.88333299999999,35.942454],"type":"Point"}
 }

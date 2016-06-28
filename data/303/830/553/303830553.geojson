@@ -2,13 +2,14 @@
   "id": 303830553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.516602,35.415234,-97.516602,35.415234",
     "geom:latitude":35.415234,
     "geom:longitude":-97.516602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 SW 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303830553,
-    "wof:lastmodified":1448998633,
+    "wof:lastmodified":1466766661,
     "wof:name":"Upton Farms",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-97.516602,35.415234,-97.516602,35.415234],
-  "geometry": {"coordinates":[-97.516602,35.415234],"type":"Point"}
+  "bbox": [
+    -97.516602,
+    35.415234,
+    -97.516602,
+    35.415234
+],
+  "geometry": {"coordinates":[-97.51660200000001,35.415234],"type":"Point"}
 }

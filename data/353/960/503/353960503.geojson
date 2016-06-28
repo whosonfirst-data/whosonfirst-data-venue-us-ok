@@ -2,13 +2,14 @@
   "id": 353960503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.439394,35.410947,-99.439394,35.410947",
     "geom:latitude":35.410947,
     "geom:longitude":-99.439394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Janets Way",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353960503,
-    "wof:lastmodified":1449020080,
+    "wof:lastmodified":1466765853,
     "wof:name":"Juvenile Service Unit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-99.439394,35.410947,-99.439394,35.410947],
-  "geometry": {"coordinates":[-99.439394,35.410947],"type":"Point"}
+  "bbox": [
+    -99.439394,
+    35.410947,
+    -99.439394,
+    35.410947
+],
+  "geometry": {"coordinates":[-99.43939399999999,35.410947],"type":"Point"}
 }

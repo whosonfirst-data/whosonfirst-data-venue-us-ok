@@ -2,13 +2,14 @@
   "id": 303568603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.583981,35.283412,-95.583981,35.283412",
     "geom:latitude":35.283412,
     "geom:longitude":-95.583981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Oak Ave",
     "sg:city":"Eufaula",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303568603,
-    "wof:lastmodified":1448998059,
+    "wof:lastmodified":1466766103,
     "wof:name":"Paintballistx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.583981,35.283412,-95.583981,35.283412],
-  "geometry": {"coordinates":[-95.583981,35.283412],"type":"Point"}
+  "bbox": [
+    -95.583981,
+    35.283412,
+    -95.583981,
+    35.283412
+],
+  "geometry": {"coordinates":[-95.58398099999999,35.283412],"type":"Point"}
 }

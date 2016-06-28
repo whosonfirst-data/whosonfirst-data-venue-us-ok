@@ -2,13 +2,14 @@
   "id": 220183219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.974124,36.128334,-95.974124,36.128334",
     "geom:latitude":36.128334,
     "geom:longitude":-95.974124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 E 25th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220183219,
-    "wof:lastmodified":1449074482,
+    "wof:lastmodified":1466762357,
     "wof:name":"Swimmer Group",
     "wof:parent_id":85872479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-95.974124,36.128334,-95.974124,36.128334],
+  "bbox": [
+    -95.974124,
+    36.128334,
+    -95.974124,
+    36.128334
+],
   "geometry": {"coordinates":[-95.974124,36.128334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336629679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.292415,35.493221,-97.292415,35.493221",
     "geom:latitude":35.493221,
     "geom:longitude":-97.292415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13421 NE 23rd St",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336629679,
-    "wof:lastmodified":1448997782,
+    "wof:lastmodified":1466762651,
     "wof:name":"Becker CPA Review",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.292415,35.493221,-97.292415,35.493221],
-  "geometry": {"coordinates":[-97.292415,35.493221],"type":"Point"}
+  "bbox": [
+    -97.292415,
+    35.493221,
+    -97.292415,
+    35.493221
+],
+  "geometry": {"coordinates":[-97.29241500000001,35.493221],"type":"Point"}
 }

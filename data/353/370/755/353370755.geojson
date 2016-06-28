@@ -2,13 +2,14 @@
   "id": 353370755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547766,35.501672,-97.547766,35.501672",
     "geom:latitude":35.501672,
     "geom:longitude":-97.547766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3117 N Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353370755,
-    "wof:lastmodified":1449019652,
+    "wof:lastmodified":1466762280,
     "wof:name":"North Star Valet Svc",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garage"
     ]
 },
-  "bbox": [-97.547766,35.501672,-97.547766,35.501672],
+  "bbox": [
+    -97.547766,
+    35.501672,
+    -97.547766,
+    35.501672
+],
   "geometry": {"coordinates":[-97.547766,35.501672],"type":"Point"}
 }

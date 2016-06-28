@@ -2,13 +2,14 @@
   "id": 320018797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.569995,35.49324,-97.569995,35.49324",
     "geom:latitude":35.49324,
     "geom:longitude":-97.569995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3009 NW 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320018797,
-    "wof:lastmodified":1449013123,
+    "wof:lastmodified":1466762563,
     "wof:name":"Drexel Cleaners",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-97.569995,35.49324,-97.569995,35.49324],
-  "geometry": {"coordinates":[-97.569995,35.49324],"type":"Point"}
+  "bbox": [
+    -97.569995,
+    35.49324,
+    -97.569995,
+    35.49324
+],
+  "geometry": {"coordinates":[-97.56999500000001,35.49324],"type":"Point"}
 }

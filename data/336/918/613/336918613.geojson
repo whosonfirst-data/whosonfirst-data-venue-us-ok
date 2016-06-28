@@ -2,13 +2,14 @@
   "id": 336918613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.60111,35.510459,-97.60111,35.510459",
     "geom:latitude":35.510459,
     "geom:longitude":-97.60111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3912 N Meridian Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336918613,
-    "wof:lastmodified":1448997656,
+    "wof:lastmodified":1466765282,
     "wof:name":"Bens Auto Detail Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-97.60111,35.510459,-97.60111,35.510459],
-  "geometry": {"coordinates":[-97.60111,35.510459],"type":"Point"}
+  "bbox": [
+    -97.60111,
+    35.510459,
+    -97.60111,
+    35.510459
+],
+  "geometry": {"coordinates":[-97.60111000000001,35.510459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320390677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.557699,35.524565,-97.557699,35.524565",
     "geom:latitude":35.524565,
     "geom:longitude":-97.557699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2548 NW Expwy Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320390677,
-    "wof:lastmodified":1449015006,
+    "wof:lastmodified":1466765675,
     "wof:name":"Michael W Jackson",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.557699,35.524565,-97.557699,35.524565],
+  "bbox": [
+    -97.557699,
+    35.524565,
+    -97.557699,
+    35.524565
+],
   "geometry": {"coordinates":[-97.557699,35.524565],"type":"Point"}
 }

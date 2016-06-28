@@ -2,13 +2,14 @@
   "id": 320226693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.038461,36.133592,-97.038461,36.133592",
     "geom:latitude":36.133592,
     "geom:longitude":-97.038461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1595 Cimarron Dr",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320226693,
-    "wof:lastmodified":1449013962,
+    "wof:lastmodified":1466764718,
     "wof:name":"Aqua Zone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-97.038461,36.133592,-97.038461,36.133592],
+  "bbox": [
+    -97.038461,
+    36.133592,
+    -97.038461,
+    36.133592
+],
   "geometry": {"coordinates":[-97.038461,36.133592],"type":"Point"}
 }

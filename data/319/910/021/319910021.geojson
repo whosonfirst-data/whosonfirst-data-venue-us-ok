@@ -2,13 +2,14 @@
   "id": 319910021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.875254,36.898243,-94.875254,36.898243",
     "geom:latitude":36.898243,
     "geom:longitude":-94.875254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 B St NE",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319910021,
-    "wof:lastmodified":1449024411,
+    "wof:lastmodified":1466764221,
     "wof:name":"Mark Billings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.875254,36.898243,-94.875254,36.898243],
+  "bbox": [
+    -94.875254,
+    36.898243,
+    -94.875254,
+    36.898243
+],
   "geometry": {"coordinates":[-94.875254,36.898243],"type":"Point"}
 }

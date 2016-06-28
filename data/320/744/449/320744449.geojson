@@ -2,13 +2,14 @@
   "id": 320744449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.477319,36.677453,-101.477319,36.677453",
     "geom:latitude":36.677453,
     "geom:longitude":-101.477319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 US Hwy 54",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320744449,
-    "wof:lastmodified":1449012624,
+    "wof:lastmodified":1466766673,
     "wof:name":"Mobil Oil Co Wholesale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-101.477319,36.677453,-101.477319,36.677453],
-  "geometry": {"coordinates":[-101.477319,36.677453],"type":"Point"}
+  "bbox": [
+    -101.477319,
+    36.677453,
+    -101.477319,
+    36.677453
+],
+  "geometry": {"coordinates":[-101.47731899999999,36.677453],"type":"Point"}
 }

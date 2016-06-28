@@ -2,13 +2,14 @@
   "id": 303346131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.911555,36.160674,-95.911555,36.160674",
     "geom:latitude":36.160674,
     "geom:longitude":-95.911555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5730 E Admiral Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303346131,
-    "wof:lastmodified":1448998103,
+    "wof:lastmodified":1466765137,
     "wof:name":"Overhead Door Corp",
     "wof:parent_id":85813737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "door"
     ]
 },
-  "bbox": [-95.911555,36.160674,-95.911555,36.160674],
-  "geometry": {"coordinates":[-95.911555,36.160674],"type":"Point"}
+  "bbox": [
+    -95.911555,
+    36.160674,
+    -95.911555,
+    36.160674
+],
+  "geometry": {"coordinates":[-95.91155500000001,36.160674],"type":"Point"}
 }

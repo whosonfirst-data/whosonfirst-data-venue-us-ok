@@ -2,13 +2,14 @@
   "id": 220197711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.864257,36.062678,-95.864257,36.062678",
     "geom:latitude":36.062678,
     "geom:longitude":-95.864257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6910 S 101st East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220197711,
-    "wof:lastmodified":1449074770,
+    "wof:lastmodified":1466762508,
     "wof:name":"Tulsa Ice Arena",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rinks-ice"
     ]
 },
-  "bbox": [-95.864257,36.062678,-95.864257,36.062678],
-  "geometry": {"coordinates":[-95.864257,36.062678],"type":"Point"}
+  "bbox": [
+    -95.864257,
+    36.062678,
+    -95.864257,
+    36.062678
+],
+  "geometry": {"coordinates":[-95.86425699999999,36.062678],"type":"Point"}
 }

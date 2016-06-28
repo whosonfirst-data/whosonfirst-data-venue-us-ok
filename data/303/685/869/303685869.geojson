@@ -2,13 +2,14 @@
   "id": 303685869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.541488,35.420654,-97.541488,35.420654",
     "geom:latitude":35.420654,
     "geom:longitude":-97.541488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1436 SW 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303685869,
-    "wof:lastmodified":1449000509,
+    "wof:lastmodified":1466766455,
     "wof:name":"Wakely & Wakely",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.541488,35.420654,-97.541488,35.420654],
+  "bbox": [
+    -97.541488,
+    35.420654,
+    -97.541488,
+    35.420654
+],
   "geometry": {"coordinates":[-97.541488,35.420654],"type":"Point"}
 }

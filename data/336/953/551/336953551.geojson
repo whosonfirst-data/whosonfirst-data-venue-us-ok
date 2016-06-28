@@ -2,13 +2,14 @@
   "id": 336953551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.780819,35.463395,-94.780819,35.463395",
     "geom:latitude":35.463395,
     "geom:longitude":-94.780819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 E Redwood Ave",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336953551,
-    "wof:lastmodified":1448997667,
+    "wof:lastmodified":1466765344,
     "wof:name":"Redwood Family Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "medical"
     ]
 },
-  "bbox": [-94.780819,35.463395,-94.780819,35.463395],
-  "geometry": {"coordinates":[-94.780819,35.463395],"type":"Point"}
+  "bbox": [
+    -94.780819,
+    35.463395,
+    -94.780819,
+    35.463395
+],
+  "geometry": {"coordinates":[-94.78081899999999,35.463395],"type":"Point"}
 }

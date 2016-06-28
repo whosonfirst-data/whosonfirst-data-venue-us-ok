@@ -2,13 +2,14 @@
   "id": 220183311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.957699,36.13322,-95.957699,36.13322",
     "geom:latitude":36.13322,
     "geom:longitude":-95.957699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2424 E 21st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":220183311,
-    "wof:lastmodified":1449074478,
+    "wof:lastmodified":1466762360,
     "wof:name":"D J Shubeck Company Inc",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "manufacturers'"
     ]
 },
-  "bbox": [-95.957699,36.13322,-95.957699,36.13322],
-  "geometry": {"coordinates":[-95.957699,36.13322],"type":"Point"}
+  "bbox": [
+    -95.957699,
+    36.13322,
+    -95.957699,
+    36.13322
+],
+  "geometry": {"coordinates":[-95.95769900000001,36.13322],"type":"Point"}
 }

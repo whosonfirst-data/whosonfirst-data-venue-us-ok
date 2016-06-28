@@ -2,13 +2,14 @@
   "id": 354174031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.887335,36.189093,-95.887335,36.189093",
     "geom:latitude":36.189093,
     "geom:longitude":-95.887335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 N Cargo Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354174031,
-    "wof:lastmodified":1449066163,
+    "wof:lastmodified":1466764222,
     "wof:name":"Bombardier Aerospace",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "aerospace"
     ]
 },
-  "bbox": [-95.887335,36.189093,-95.887335,36.189093],
-  "geometry": {"coordinates":[-95.887335,36.189093],"type":"Point"}
+  "bbox": [
+    -95.887335,
+    36.189093,
+    -95.887335,
+    36.189093
+],
+  "geometry": {"coordinates":[-95.88733499999999,36.189093],"type":"Point"}
 }

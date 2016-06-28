@@ -2,13 +2,14 @@
   "id": 320300501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.488176,35.338318,-97.488176,35.338318",
     "geom:latitude":35.338318,
     "geom:longitude":-97.488176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 W Main St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320300501,
-    "wof:lastmodified":1449013363,
+    "wof:lastmodified":1466765165,
     "wof:name":"Country Collections By Hart",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "quilting"
     ]
 },
-  "bbox": [-97.488176,35.338318,-97.488176,35.338318],
+  "bbox": [
+    -97.488176,
+    35.338318,
+    -97.488176,
+    35.338318
+],
   "geometry": {"coordinates":[-97.488176,35.338318],"type":"Point"}
 }

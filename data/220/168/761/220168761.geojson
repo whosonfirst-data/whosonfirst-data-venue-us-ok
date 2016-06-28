@@ -2,13 +2,14 @@
   "id": 220168761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.991414,36.378778,-95.991414,36.378778",
     "geom:latitude":36.378778,
     "geom:longitude":-95.991414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15340 N Cincinnati Ave",
     "sg:city":"Skiatook",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220168761,
-    "wof:lastmodified":1449074462,
+    "wof:lastmodified":1466762314,
     "wof:name":"Stan Keller Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "landscape"
     ]
 },
-  "bbox": [-95.991414,36.378778,-95.991414,36.378778],
-  "geometry": {"coordinates":[-95.991414,36.378778],"type":"Point"}
+  "bbox": [
+    -95.991414,
+    36.378778,
+    -95.991414,
+    36.378778
+],
+  "geometry": {"coordinates":[-95.99141400000001,36.378778],"type":"Point"}
 }

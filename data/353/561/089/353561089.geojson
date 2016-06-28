@@ -2,13 +2,14 @@
   "id": 353561089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.86383,36.088113,-95.86383,36.088113",
     "geom:latitude":36.088113,
     "geom:longitude":-95.86383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10318 E 52nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353561089,
-    "wof:lastmodified":1449020057,
+    "wof:lastmodified":1466764032,
     "wof:name":"Joseph W Turner & Assoc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.86383,36.088113,-95.86383,36.088113],
-  "geometry": {"coordinates":[-95.86383,36.088113],"type":"Point"}
+  "bbox": [
+    -95.86383,
+    36.088113,
+    -95.86383,
+    36.088113
+],
+  "geometry": {"coordinates":[-95.86382999999999,36.088113],"type":"Point"}
 }

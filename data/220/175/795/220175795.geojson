@@ -2,13 +2,14 @@
   "id": 220175795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967891,36.109217,-95.967891,36.109217",
     "geom:latitude":36.109217,
     "geom:longitude":-95.967891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1635 E 37th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220175795,
-    "wof:lastmodified":1449074610,
+    "wof:lastmodified":1466762348,
     "wof:name":"Jfc Leasing",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-95.967891,36.109217,-95.967891,36.109217],
-  "geometry": {"coordinates":[-95.967891,36.109217],"type":"Point"}
+  "bbox": [
+    -95.967891,
+    36.109217,
+    -95.967891,
+    36.109217
+],
+  "geometry": {"coordinates":[-95.96789099999999,36.109217],"type":"Point"}
 }

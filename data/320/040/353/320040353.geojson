@@ -2,13 +2,14 @@
   "id": 320040353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.407565,34.594314,-98.407565,34.594314",
     "geom:latitude":34.594314,
     "geom:longitude":-98.407565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 SW Lee Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320040353,
-    "wof:lastmodified":1449014856,
+    "wof:lastmodified":1466762887,
     "wof:name":"Hot Wok Chinese Restaurant",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.407565,34.594314,-98.407565,34.594314],
-  "geometry": {"coordinates":[-98.407565,34.594314],"type":"Point"}
+  "bbox": [
+    -98.407565,
+    34.594314,
+    -98.407565,
+    34.594314
+],
+  "geometry": {"coordinates":[-98.40756500000001,34.594314],"type":"Point"}
 }

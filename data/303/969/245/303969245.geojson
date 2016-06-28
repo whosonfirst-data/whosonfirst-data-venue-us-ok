@@ -2,13 +2,14 @@
   "id": 303969245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.581758,35.595251,-97.581758,35.595251",
     "geom:latitude":35.595251,
     "geom:longitude":-97.581758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Quail Creek Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303969245,
-    "wof:lastmodified":1448998698,
+    "wof:lastmodified":1466767105,
     "wof:name":"Oklahoma City Audubon Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.581758,35.595251,-97.581758,35.595251],
-  "geometry": {"coordinates":[-97.581758,35.595251],"type":"Point"}
+  "bbox": [
+    -97.581758,
+    35.595251,
+    -97.581758,
+    35.595251
+],
+  "geometry": {"coordinates":[-97.58175799999999,35.595251],"type":"Point"}
 }

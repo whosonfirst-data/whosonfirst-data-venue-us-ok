@@ -2,13 +2,14 @@
   "id": 320648295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.509921,35.49567,-97.509921,35.49567",
     "geom:latitude":35.49567,
     "geom:longitude":-97.509921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2524 N Oklahoma Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320648295,
-    "wof:lastmodified":1449012275,
+    "wof:lastmodified":1466766283,
     "wof:name":"3 Stage Welding",
     "wof:parent_id":85871695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.509921,35.49567,-97.509921,35.49567],
-  "geometry": {"coordinates":[-97.509921,35.49567],"type":"Point"}
+  "bbox": [
+    -97.509921,
+    35.49567,
+    -97.509921,
+    35.49567
+],
+  "geometry": {"coordinates":[-97.50992100000001,35.49567],"type":"Point"}
 }

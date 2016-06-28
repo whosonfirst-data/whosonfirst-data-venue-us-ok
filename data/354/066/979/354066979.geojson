@@ -2,13 +2,14 @@
   "id": 354066979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.528845,35.469486,-97.528845,35.469486",
     "geom:latitude":35.469486,
     "geom:longitude":-97.528845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354066979,
-    "wof:lastmodified":1449066397,
+    "wof:lastmodified":1466763387,
     "wof:name":"Rent It Co",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "devices"
     ]
 },
-  "bbox": [-97.528845,35.469486,-97.528845,35.469486],
+  "bbox": [
+    -97.528845,
+    35.469486,
+    -97.528845,
+    35.469486
+],
   "geometry": {"coordinates":[-97.528845,35.469486],"type":"Point"}
 }

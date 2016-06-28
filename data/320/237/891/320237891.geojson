@@ -2,13 +2,14 @@
   "id": 320237891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.308527,36.679608,-97.308527,36.679608",
     "geom:latitude":36.679608,
     "geom:longitude":-97.308527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N 7th St",
     "sg:city":"Tonkawa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320237891,
-    "wof:lastmodified":1449011350,
+    "wof:lastmodified":1466764876,
     "wof:name":"Tonkawa News",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-97.308527,36.679608,-97.308527,36.679608],
+  "bbox": [
+    -97.308527,
+    36.679608,
+    -97.308527,
+    36.679608
+],
   "geometry": {"coordinates":[-97.308527,36.679608],"type":"Point"}
 }

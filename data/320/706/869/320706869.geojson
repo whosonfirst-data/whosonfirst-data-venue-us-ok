@@ -2,13 +2,14 @@
   "id": 320706869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.910737,35.391282,-95.910737,35.391282",
     "geom:latitude":35.391282,
     "geom:longitude":-95.910737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15751 Locust Rd",
     "sg:city":"Henryetta",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320706869,
-    "wof:lastmodified":1449011512,
+    "wof:lastmodified":1466766565,
     "wof:name":"Mitchell Horses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-95.910737,35.391282,-95.910737,35.391282],
+  "bbox": [
+    -95.910737,
+    35.391282,
+    -95.910737,
+    35.391282
+],
   "geometry": {"coordinates":[-95.910737,35.391282],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303974783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.936035,35.50807,-97.936035,35.50807",
     "geom:latitude":35.50807,
     "geom:longitude":-97.936035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1635 State Hwy 66",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303974783,
-    "wof:lastmodified":1449000243,
+    "wof:lastmodified":1466767110,
     "wof:name":"Thompson Vehicle Sales LLC",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.936035,35.50807,-97.936035,35.50807],
+  "bbox": [
+    -97.936035,
+    35.50807,
+    -97.936035,
+    35.50807
+],
   "geometry": {"coordinates":[-97.936035,35.50807],"type":"Point"}
 }

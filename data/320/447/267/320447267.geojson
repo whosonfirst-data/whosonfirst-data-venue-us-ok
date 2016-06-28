@@ -2,13 +2,14 @@
   "id": 320447267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.971905,36.750252,-95.971905,36.750252",
     "geom:latitude":36.750252,
     "geom:longitude":-95.971905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 SE Delaware Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320447267,
-    "wof:lastmodified":1449013892,
+    "wof:lastmodified":1466765934,
     "wof:name":"John Horn Consultant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-95.971905,36.750252,-95.971905,36.750252],
-  "geometry": {"coordinates":[-95.971905,36.750252],"type":"Point"}
+  "bbox": [
+    -95.971905,
+    36.750252,
+    -95.971905,
+    36.750252
+],
+  "geometry": {"coordinates":[-95.97190500000001,36.750252],"type":"Point"}
 }

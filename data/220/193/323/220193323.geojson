@@ -2,13 +2,14 @@
   "id": 220193323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.845901,36.1478,-95.845901,36.1478",
     "geom:latitude":36.1478,
     "geom:longitude":-95.845901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11740 E 11th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220193323,
-    "wof:lastmodified":1449074169,
+    "wof:lastmodified":1466762443,
     "wof:name":"Imperial Coffee Service",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-95.845901,36.1478,-95.845901,36.1478],
+  "bbox": [
+    -95.845901,
+    36.1478,
+    -95.845901,
+    36.1478
+],
   "geometry": {"coordinates":[-95.845901,36.1478],"type":"Point"}
 }

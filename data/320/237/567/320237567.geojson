@@ -2,13 +2,14 @@
   "id": 320237567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.851081,36.13023,-95.851081,36.13023",
     "geom:latitude":36.13023,
     "geom:longitude":-95.851081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 S Garnett Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320237567,
-    "wof:lastmodified":1449011352,
+    "wof:lastmodified":1466764777,
     "wof:name":"Insultion Specialists of Tulsa",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.851081,36.13023,-95.851081,36.13023],
-  "geometry": {"coordinates":[-95.851081,36.13023],"type":"Point"}
+  "bbox": [
+    -95.851081,
+    36.13023,
+    -95.851081,
+    36.13023
+],
+  "geometry": {"coordinates":[-95.85108099999999,36.13023],"type":"Point"}
 }

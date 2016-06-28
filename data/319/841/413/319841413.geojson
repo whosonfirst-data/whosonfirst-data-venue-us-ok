@@ -2,13 +2,14 @@
   "id": 319841413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.815284,36.017332,-95.815284,36.017332",
     "geom:latitude":36.017332,
     "geom:longitude":-95.815284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 W New Orleans St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319841413,
-    "wof:lastmodified":1449024262,
+    "wof:lastmodified":1466763066,
     "wof:name":"Compadres Grill & Cantina",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.815284,36.017332,-95.815284,36.017332],
-  "geometry": {"coordinates":[-95.815284,36.017332],"type":"Point"}
+  "bbox": [
+    -95.815284,
+    36.017332,
+    -95.815284,
+    36.017332
+],
+  "geometry": {"coordinates":[-95.81528400000001,36.017332],"type":"Point"}
 }

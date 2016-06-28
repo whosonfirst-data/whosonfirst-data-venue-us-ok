@@ -2,13 +2,14 @@
   "id": 320752969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.462149,34.623514,-98.462149,34.623514",
     "geom:latitude":34.623514,
     "geom:longitude":-98.462149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5535 NW Cache Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320752969,
-    "wof:lastmodified":1449011885,
+    "wof:lastmodified":1466766601,
     "wof:name":"Crosby Park Apts",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-98.462149,34.623514,-98.462149,34.623514],
+  "bbox": [
+    -98.462149,
+    34.623514,
+    -98.462149,
+    34.623514
+],
   "geometry": {"coordinates":[-98.462149,34.623514],"type":"Point"}
 }

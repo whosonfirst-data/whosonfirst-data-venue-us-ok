@@ -2,13 +2,14 @@
   "id": 353890757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.093291,35.015724,-99.093291,35.015724",
     "geom:latitude":35.015724,
     "geom:longitude":-99.093291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W 11th St",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353890757,
-    "wof:lastmodified":1449018827,
+    "wof:lastmodified":1466765739,
     "wof:name":"Parts Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-99.093291,35.015724,-99.093291,35.015724],
-  "geometry": {"coordinates":[-99.093291,35.015724],"type":"Point"}
+  "bbox": [
+    -99.093291,
+    35.015724,
+    -99.093291,
+    35.015724
+],
+  "geometry": {"coordinates":[-99.09329099999999,35.015724],"type":"Point"}
 }

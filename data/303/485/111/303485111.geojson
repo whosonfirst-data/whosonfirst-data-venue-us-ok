@@ -2,13 +2,14 @@
   "id": 303485111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.569273,35.602964,-97.569273,35.602964",
     "geom:latitude":35.602964,
     "geom:longitude":-97.569273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2924 Willow Branch Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303485111,
-    "wof:lastmodified":1448999610,
+    "wof:lastmodified":1466765699,
     "wof:name":"John C & Diane R Wynne",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trust"
     ]
 },
-  "bbox": [-97.569273,35.602964,-97.569273,35.602964],
+  "bbox": [
+    -97.569273,
+    35.602964,
+    -97.569273,
+    35.602964
+],
   "geometry": {"coordinates":[-97.569273,35.602964],"type":"Point"}
 }

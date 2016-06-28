@@ -2,13 +2,14 @@
   "id": 220163477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.847397,36.2658,-95.847397,36.2658",
     "geom:latitude":36.2658,
     "geom:longitude":-95.847397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7801 N Owasso Expy",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220163477,
-    "wof:lastmodified":1449074856,
+    "wof:lastmodified":1466762304,
     "wof:name":"Mill Creek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-95.847397,36.2658,-95.847397,36.2658],
+  "bbox": [
+    -95.847397,
+    36.2658,
+    -95.847397,
+    36.2658
+],
   "geometry": {"coordinates":[-95.847397,36.2658],"type":"Point"}
 }

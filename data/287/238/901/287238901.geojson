@@ -2,13 +2,14 @@
   "id": 287238901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.402487,35.410652,-99.402487,35.410652",
     "geom:latitude":35.410652,
     "geom:longitude":-99.402487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Monroe Ave",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287238901,
-    "wof:lastmodified":1449001002,
+    "wof:lastmodified":1466762527,
     "wof:name":"MTMJ Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trust"
     ]
 },
-  "bbox": [-99.402487,35.410652,-99.402487,35.410652],
-  "geometry": {"coordinates":[-99.402487,35.410652],"type":"Point"}
+  "bbox": [
+    -99.402487,
+    35.410652,
+    -99.402487,
+    35.410652
+],
+  "geometry": {"coordinates":[-99.40248699999999,35.410652],"type":"Point"}
 }

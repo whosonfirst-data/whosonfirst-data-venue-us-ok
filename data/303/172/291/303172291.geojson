@@ -2,13 +2,14 @@
   "id": 303172291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.412473,34.608863,-98.412473,34.608863",
     "geom:latitude":34.608863,
     "geom:longitude":-98.412473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1529 W Gore Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303172291,
-    "wof:lastmodified":1448999103,
+    "wof:lastmodified":1466764304,
     "wof:name":"EZ Finance Inc",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "institution"
     ]
 },
-  "bbox": [-98.412473,34.608863,-98.412473,34.608863],
-  "geometry": {"coordinates":[-98.412473,34.608863],"type":"Point"}
+  "bbox": [
+    -98.412473,
+    34.608863,
+    -98.412473,
+    34.608863
+],
+  "geometry": {"coordinates":[-98.41247300000001,34.608863],"type":"Point"}
 }

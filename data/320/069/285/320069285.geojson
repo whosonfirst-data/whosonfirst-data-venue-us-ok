@@ -2,13 +2,14 @@
   "id": 320069285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.951342,34.501387,-97.951342,34.501387",
     "geom:latitude":34.501387,
     "geom:longitude":-97.951342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 W Main St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320069285,
-    "wof:lastmodified":1449013616,
+    "wof:lastmodified":1466763313,
     "wof:name":"Safe Room Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-97.951342,34.501387,-97.951342,34.501387],
+  "bbox": [
+    -97.951342,
+    34.501387,
+    -97.951342,
+    34.501387
+],
   "geometry": {"coordinates":[-97.951342,34.501387],"type":"Point"}
 }

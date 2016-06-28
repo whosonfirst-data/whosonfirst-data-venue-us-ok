@@ -2,13 +2,14 @@
   "id": 320614935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77262,35.979883,-96.77262,35.979883",
     "geom:latitude":35.979883,
     "geom:longitude":-96.77262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S Cleveland Ave",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320614935,
-    "wof:lastmodified":1449015064,
+    "wof:lastmodified":1466766193,
     "wof:name":"Downtowner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.77262,35.979883,-96.77262,35.979883],
+  "bbox": [
+    -96.77262,
+    35.979883,
+    -96.77262,
+    35.979883
+],
   "geometry": {"coordinates":[-96.77262,35.979883],"type":"Point"}
 }

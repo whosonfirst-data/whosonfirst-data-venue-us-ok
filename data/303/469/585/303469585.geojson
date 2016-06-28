@@ -2,13 +2,14 @@
   "id": 303469585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.030365,34.656083,-96.030365,34.656083",
     "geom:latitude":34.656083,
     "geom:longitude":-96.030365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Main St",
     "sg:city":"Wardville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303469585,
-    "wof:lastmodified":1449000630,
+    "wof:lastmodified":1466765621,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.030365,34.656083,-96.030365,34.656083],
+  "bbox": [
+    -96.030365,
+    34.656083,
+    -96.030365,
+    34.656083
+],
   "geometry": {"coordinates":[-96.030365,34.656083],"type":"Point"}
 }

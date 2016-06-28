@@ -2,13 +2,14 @@
   "id": 353530131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.086665,36.721907,-97.086665,36.721907",
     "geom:latitude":36.721907,
     "geom:longitude":-97.086665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 W Emporia Ave",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353530131,
-    "wof:lastmodified":1449019619,
+    "wof:lastmodified":1466763567,
     "wof:name":"Central Med Ems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"
     ]
 },
-  "bbox": [-97.086665,36.721907,-97.086665,36.721907],
+  "bbox": [
+    -97.086665,
+    36.721907,
+    -97.086665,
+    36.721907
+],
   "geometry": {"coordinates":[-97.086665,36.721907],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303865379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.815425,36.171535,-95.815425,36.171535",
     "geom:latitude":36.171535,
     "geom:longitude":-95.815425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 N 145th E Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303865379,
-    "wof:lastmodified":1448999964,
+    "wof:lastmodified":1466766790,
     "wof:name":"Jim Looney Trucking Inc",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.815425,36.171535,-95.815425,36.171535],
+  "bbox": [
+    -95.815425,
+    36.171535,
+    -95.815425,
+    36.171535
+],
   "geometry": {"coordinates":[-95.815425,36.171535],"type":"Point"}
 }

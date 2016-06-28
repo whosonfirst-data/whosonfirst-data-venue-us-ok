@@ -2,13 +2,14 @@
   "id": 303205715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.514243,35.475815,-97.514243,35.475815",
     "geom:latitude":35.475815,
     "geom:longitude":-97.514243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 N Broadway Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303205715,
-    "wof:lastmodified":1448999600,
+    "wof:lastmodified":1466764468,
     "wof:name":"Curricula LLC",
     "wof:parent_id":85871669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-97.514243,35.475815,-97.514243,35.475815],
-  "geometry": {"coordinates":[-97.514243,35.475815],"type":"Point"}
+  "bbox": [
+    -97.514243,
+    35.475815,
+    -97.514243,
+    35.475815
+],
+  "geometry": {"coordinates":[-97.51424299999999,35.475815],"type":"Point"}
 }

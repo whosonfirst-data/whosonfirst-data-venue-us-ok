@@ -2,13 +2,14 @@
   "id": 303431743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.929862,35.867326,-97.929862,35.867326",
     "geom:latitude":35.867326,
     "geom:longitude":-97.929862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E C Ave",
     "sg:city":"Kingfisher",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303431743,
-    "wof:lastmodified":1448998450,
+    "wof:lastmodified":1466765588,
     "wof:name":"Pilgrim Rest Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.929862,35.867326,-97.929862,35.867326],
+  "bbox": [
+    -97.929862,
+    35.867326,
+    -97.929862,
+    35.867326
+],
   "geometry": {"coordinates":[-97.929862,35.867326],"type":"Point"}
 }

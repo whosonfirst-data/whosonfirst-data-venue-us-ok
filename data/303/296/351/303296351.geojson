@@ -2,13 +2,14 @@
   "id": 303296351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.625949,36.321974,-95.625949,36.321974",
     "geom:latitude":36.321974,
     "geom:longitude":-95.625949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 W Blue Starr Dr",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303296351,
-    "wof:lastmodified":1449000111,
+    "wof:lastmodified":1466764935,
     "wof:name":"Kevin L Winters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-95.625949,36.321974,-95.625949,36.321974],
-  "geometry": {"coordinates":[-95.625949,36.321974],"type":"Point"}
+  "bbox": [
+    -95.625949,
+    36.321974,
+    -95.625949,
+    36.321974
+],
+  "geometry": {"coordinates":[-95.62594900000001,36.321974],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353747137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.602702,35.511221,-97.602702,35.511221",
     "geom:latitude":35.511221,
     "geom:longitude":-97.602702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4615 NW 39th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353747137,
-    "wof:lastmodified":1449018712,
+    "wof:lastmodified":1466765199,
     "wof:name":"Dealer One Auto Group",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.602702,35.511221,-97.602702,35.511221],
-  "geometry": {"coordinates":[-97.602702,35.511221],"type":"Point"}
+  "bbox": [
+    -97.602702,
+    35.511221,
+    -97.602702,
+    35.511221
+],
+  "geometry": {"coordinates":[-97.60270199999999,35.511221],"type":"Point"}
 }

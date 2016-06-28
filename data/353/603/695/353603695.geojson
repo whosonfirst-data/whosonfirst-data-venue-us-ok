@@ -2,13 +2,14 @@
   "id": 353603695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.463956,36.30893,-96.463956,36.30893",
     "geom:latitude":36.30893,
     "geom:longitude":-96.463956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Broadway St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353603695,
-    "wof:lastmodified":1449020426,
+    "wof:lastmodified":1466764266,
     "wof:name":"Todd Thomas MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-96.463956,36.30893,-96.463956,36.30893],
+  "bbox": [
+    -96.463956,
+    36.30893,
+    -96.463956,
+    36.30893
+],
   "geometry": {"coordinates":[-96.463956,36.30893],"type":"Point"}
 }

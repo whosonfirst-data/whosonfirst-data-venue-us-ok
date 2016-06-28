@@ -2,13 +2,14 @@
   "id": 303303131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.169633,35.15656,-99.169633,35.15656",
     "geom:latitude":35.15656,
     "geom:longitude":-99.169633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 8th St",
     "sg:city":"Sentinel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303303131,
-    "wof:lastmodified":1448998140,
+    "wof:lastmodified":1466764848,
     "wof:name":"Jerry E & Nancy C Brown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-99.169633,35.15656,-99.169633,35.15656],
+  "bbox": [
+    -99.169633,
+    35.15656,
+    -99.169633,
+    35.15656
+],
   "geometry": {"coordinates":[-99.169633,35.15656],"type":"Point"}
 }

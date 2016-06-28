@@ -2,13 +2,14 @@
   "id": 320035069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.740023,36.803921,-97.740023,36.803921",
     "geom:latitude":36.803921,
     "geom:longitude":-97.740023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 W Apache St",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320035069,
-    "wof:lastmodified":1449014249,
+    "wof:lastmodified":1466762808,
     "wof:name":"Reimer Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-97.740023,36.803921,-97.740023,36.803921],
-  "geometry": {"coordinates":[-97.740023,36.803921],"type":"Point"}
+  "bbox": [
+    -97.740023,
+    36.803921,
+    -97.740023,
+    36.803921
+],
+  "geometry": {"coordinates":[-97.74002299999999,36.803921],"type":"Point"}
 }

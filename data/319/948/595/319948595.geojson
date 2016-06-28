@@ -2,13 +2,14 @@
   "id": 319948595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.551916,35.522256,-97.551916,35.522256",
     "geom:latitude":35.522256,
     "geom:longitude":-97.551916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 NW 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":319948595,
-    "wof:lastmodified":1449024721,
+    "wof:lastmodified":1466764011,
     "wof:name":"Winningham & Stein",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.551916,35.522256,-97.551916,35.522256],
-  "geometry": {"coordinates":[-97.551916,35.522256],"type":"Point"}
+  "bbox": [
+    -97.551916,
+    35.522256,
+    -97.551916,
+    35.522256
+],
+  "geometry": {"coordinates":[-97.55191600000001,35.522256],"type":"Point"}
 }

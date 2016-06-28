@@ -2,13 +2,14 @@
   "id": 353628669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.058557,36.117763,-97.058557,36.117763",
     "geom:latitude":36.117763,
     "geom:longitude":-97.058557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 S Main St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353628669,
-    "wof:lastmodified":1449020340,
+    "wof:lastmodified":1466764524,
     "wof:name":"Stillwater Convention & Vstrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tourist"
     ]
 },
-  "bbox": [-97.058557,36.117763,-97.058557,36.117763],
-  "geometry": {"coordinates":[-97.058557,36.117763],"type":"Point"}
+  "bbox": [
+    -97.058557,
+    36.117763,
+    -97.058557,
+    36.117763
+],
+  "geometry": {"coordinates":[-97.05855699999999,36.117763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320739911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.961706,35.615949,-95.961706,35.615949",
     "geom:latitude":35.615949,
     "geom:longitude":-95.961706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 S Wood Dr",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320739911,
-    "wof:lastmodified":1449012837,
+    "wof:lastmodified":1466766663,
     "wof:name":"Locke Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.961706,35.615949,-95.961706,35.615949],
-  "geometry": {"coordinates":[-95.961706,35.615949],"type":"Point"}
+  "bbox": [
+    -95.961706,
+    35.615949,
+    -95.961706,
+    35.615949
+],
+  "geometry": {"coordinates":[-95.96170600000001,35.615949],"type":"Point"}
 }

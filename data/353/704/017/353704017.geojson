@@ -2,13 +2,14 @@
   "id": 353704017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.64191,35.583775,-97.64191,35.583775",
     "geom:latitude":35.583775,
     "geom:longitude":-97.64191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7142 NW 112th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353704017,
-    "wof:lastmodified":1449018928,
+    "wof:lastmodified":1466764998,
     "wof:name":"Phillip Goode",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.64191,35.583775,-97.64191,35.583775],
+  "bbox": [
+    -97.64191,
+    35.583775,
+    -97.64191,
+    35.583775
+],
   "geometry": {"coordinates":[-97.64191,35.583775],"type":"Point"}
 }

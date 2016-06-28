@@ -2,13 +2,14 @@
   "id": 353907119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.63872,35.30335,-99.63872,35.30335",
     "geom:latitude":35.30335,
     "geom:longitude":-99.63872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 N Broadway St",
     "sg:city":"Sayre",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353907119,
-    "wof:lastmodified":1449020609,
+    "wof:lastmodified":1466765695,
     "wof:name":"Sayre Community Work Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "village"
     ]
 },
-  "bbox": [-99.63872,35.30335,-99.63872,35.30335],
-  "geometry": {"coordinates":[-99.63872,35.30335],"type":"Point"}
+  "bbox": [
+    -99.63872,
+    35.30335,
+    -99.63872,
+    35.30335
+],
+  "geometry": {"coordinates":[-99.63872000000001,35.30335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320105089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.850727,36.264128,-95.850727,36.264128",
     "geom:latitude":36.264128,
     "geom:longitude":-95.850727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 E 2nd Ave",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320105089,
-    "wof:lastmodified":1449012701,
+    "wof:lastmodified":1466763841,
     "wof:name":"John Hausam Realtors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.850727,36.264128,-95.850727,36.264128],
-  "geometry": {"coordinates":[-95.850727,36.264128],"type":"Point"}
+  "bbox": [
+    -95.850727,
+    36.264128,
+    -95.850727,
+    36.264128
+],
+  "geometry": {"coordinates":[-95.85072700000001,36.264128],"type":"Point"}
 }

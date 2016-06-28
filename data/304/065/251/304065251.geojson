@@ -2,13 +2,14 @@
   "id": 304065251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.988391,34.506337,-96.988391,34.506337",
     "geom:latitude":34.506337,
     "geom:longitude":-96.988391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 W Broadway Ave",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":304065251,
-    "wof:lastmodified":1449044154,
+    "wof:lastmodified":1466763191,
     "wof:name":"Kings Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.988391,34.506337,-96.988391,34.506337],
-  "geometry": {"coordinates":[-96.988391,34.506337],"type":"Point"}
+  "bbox": [
+    -96.988391,
+    34.506337,
+    -96.988391,
+    34.506337
+],
+  "geometry": {"coordinates":[-96.98839099999999,34.506337],"type":"Point"}
 }

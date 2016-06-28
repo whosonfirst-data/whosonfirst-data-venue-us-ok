@@ -2,13 +2,14 @@
   "id": 303145667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.382996,35.75281,-95.382996,35.75281",
     "geom:latitude":35.75281,
     "geom:longitude":-95.382996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 W Okmulgee Ave",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303145667,
-    "wof:lastmodified":1448998861,
+    "wof:lastmodified":1466763973,
     "wof:name":"Dolly Madison",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-95.382996,35.75281,-95.382996,35.75281],
-  "geometry": {"coordinates":[-95.382996,35.75281],"type":"Point"}
+  "bbox": [
+    -95.382996,
+    35.75281,
+    -95.382996,
+    35.75281
+],
+  "geometry": {"coordinates":[-95.38299600000001,35.75281],"type":"Point"}
 }

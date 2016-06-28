@@ -2,13 +2,14 @@
   "id": 220190171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.983905,36.147768,-95.983905,36.147768",
     "geom:latitude":36.147768,
     "geom:longitude":-95.983905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 S Detroit Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220190171,
-    "wof:lastmodified":1449074840,
+    "wof:lastmodified":1466762412,
     "wof:name":"Sanders & Associates PC",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "law"
     ]
 },
-  "bbox": [-95.983905,36.147768,-95.983905,36.147768],
-  "geometry": {"coordinates":[-95.983905,36.147768],"type":"Point"}
+  "bbox": [
+    -95.983905,
+    36.147768,
+    -95.983905,
+    36.147768
+],
+  "geometry": {"coordinates":[-95.98390499999999,36.147768],"type":"Point"}
 }

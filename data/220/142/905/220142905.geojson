@@ -2,13 +2,14 @@
   "id": 220142905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.002845,34.162831,-98.002845,34.162831",
     "geom:latitude":34.162831,
     "geom:longitude":-98.002845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 W Anderson Ave",
     "sg:city":"Waurika",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220142905,
-    "wof:lastmodified":1449074676,
+    "wof:lastmodified":1466763866,
     "wof:name":"Magg Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.002845,34.162831,-98.002845,34.162831],
-  "geometry": {"coordinates":[-98.002845,34.162831],"type":"Point"}
+  "bbox": [
+    -98.002845,
+    34.162831,
+    -98.002845,
+    34.162831
+],
+  "geometry": {"coordinates":[-98.00284499999999,34.162831],"type":"Point"}
 }

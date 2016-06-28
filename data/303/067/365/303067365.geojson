@@ -2,13 +2,14 @@
   "id": 303067365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.83832,36.113167,-95.83832,36.113167",
     "geom:latitude":36.113167,
     "geom:longitude":-95.83832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12432 E 34th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303067365,
-    "wof:lastmodified":1448998276,
+    "wof:lastmodified":1466762700,
     "wof:name":"Mission Mowing",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.83832,36.113167,-95.83832,36.113167],
+  "bbox": [
+    -95.83832,
+    36.113167,
+    -95.83832,
+    36.113167
+],
   "geometry": {"coordinates":[-95.83832,36.113167],"type":"Point"}
 }

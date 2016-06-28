@@ -2,13 +2,14 @@
   "id": 287190913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.85774,36.901789,-94.85774,36.901789",
     "geom:latitude":36.901789,
     "geom:longitude":-94.85774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2306 Birch Ln",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287190913,
-    "wof:lastmodified":1449001532,
+    "wof:lastmodified":1466763924,
     "wof:name":"Ford Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-94.85774,36.901789,-94.85774,36.901789],
-  "geometry": {"coordinates":[-94.85774,36.901789],"type":"Point"}
+  "bbox": [
+    -94.85774,
+    36.901789,
+    -94.85774,
+    36.901789
+],
+  "geometry": {"coordinates":[-94.85774000000001,36.901789],"type":"Point"}
 }

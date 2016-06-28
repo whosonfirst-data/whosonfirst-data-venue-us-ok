@@ -2,13 +2,14 @@
   "id": 303913609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.407386,35.415375,-99.407386,35.415375",
     "geom:latitude":35.415375,
     "geom:longitude":-99.407386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 N Adams Ave",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303913609,
-    "wof:lastmodified":1448999062,
+    "wof:lastmodified":1466767066,
     "wof:name":"Rogers Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.407386,35.415375,-99.407386,35.415375],
+  "bbox": [
+    -99.407386,
+    35.415375,
+    -99.407386,
+    35.415375
+],
   "geometry": {"coordinates":[-99.407386,35.415375],"type":"Point"}
 }

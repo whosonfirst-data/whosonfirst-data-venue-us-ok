@@ -2,13 +2,14 @@
   "id": 303511191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.891588,36.016113,-95.891588,36.016113",
     "geom:latitude":36.016113,
     "geom:longitude":-95.891588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10198 S 77th Ave E",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303511191,
-    "wof:lastmodified":1448999248,
+    "wof:lastmodified":1466765875,
     "wof:name":"Carter Energy Co",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-95.891588,36.016113,-95.891588,36.016113],
+  "bbox": [
+    -95.891588,
+    36.016113,
+    -95.891588,
+    36.016113
+],
   "geometry": {"coordinates":[-95.891588,36.016113],"type":"Point"}
 }

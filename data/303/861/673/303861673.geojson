@@ -2,13 +2,14 @@
   "id": 303861673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.784645,36.954892,-94.784645,36.954892",
     "geom:latitude":36.954892,
     "geom:longitude":-94.784645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Seneca St",
     "sg:city":"Quapaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303861673,
-    "wof:lastmodified":1449000549,
+    "wof:lastmodified":1466766872,
     "wof:name":"Quapaw City Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-94.784645,36.954892,-94.784645,36.954892],
+  "bbox": [
+    -94.784645,
+    36.954892,
+    -94.784645,
+    36.954892
+],
   "geometry": {"coordinates":[-94.784645,36.954892],"type":"Point"}
 }

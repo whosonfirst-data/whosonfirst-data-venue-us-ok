@@ -2,13 +2,14 @@
   "id": 319951753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.942116,36.003198,-95.942116,36.003198",
     "geom:latitude":36.003198,
     "geom:longitude":-95.942116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10717 S Delaware Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319951753,
-    "wof:lastmodified":1449024127,
+    "wof:lastmodified":1466764034,
     "wof:name":"Tulsa Grass & Sod",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grass"
     ]
 },
-  "bbox": [-95.942116,36.003198,-95.942116,36.003198],
+  "bbox": [
+    -95.942116,
+    36.003198,
+    -95.942116,
+    36.003198
+],
   "geometry": {"coordinates":[-95.942116,36.003198],"type":"Point"}
 }

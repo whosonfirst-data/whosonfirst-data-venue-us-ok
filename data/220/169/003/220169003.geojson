@@ -2,13 +2,14 @@
   "id": 220169003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.991698,36.296535,-95.991698,36.296535",
     "geom:latitude":36.296535,
     "geom:longitude":-95.991698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 N Cincinnati Ave",
     "sg:city":"Sperry",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220169003,
-    "wof:lastmodified":1449074532,
+    "wof:lastmodified":1466764179,
     "wof:name":"USPS - United States Post Office - Sperry Main Office",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-95.991698,36.296535,-95.991698,36.296535],
+  "bbox": [
+    -95.991698,
+    36.296535,
+    -95.991698,
+    36.296535
+],
   "geometry": {"coordinates":[-95.991698,36.296535],"type":"Point"}
 }

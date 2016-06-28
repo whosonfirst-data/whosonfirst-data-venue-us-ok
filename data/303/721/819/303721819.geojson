@@ -2,13 +2,14 @@
   "id": 303721819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.126339,33.932671,-97.126339,33.932671",
     "geom:latitude":33.932671,
     "geom:longitude":-97.126339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 US Hwy 77",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303721819,
-    "wof:lastmodified":1449000559,
+    "wof:lastmodified":1466766610,
     "wof:name":"LA Roca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.126339,33.932671,-97.126339,33.932671],
+  "bbox": [
+    -97.126339,
+    33.932671,
+    -97.126339,
+    33.932671
+],
   "geometry": {"coordinates":[-97.126339,33.932671],"type":"Point"}
 }

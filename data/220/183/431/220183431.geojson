@@ -2,13 +2,14 @@
   "id": 220183431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.747318,36.147992,-95.747318,36.147992",
     "geom:latitude":36.147992,
     "geom:longitude":-95.747318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6902 E 11th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220183431,
-    "wof:lastmodified":1449074476,
+    "wof:lastmodified":1466762361,
     "wof:name":"Express Imports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-95.747318,36.147992,-95.747318,36.147992],
-  "geometry": {"coordinates":[-95.747318,36.147992],"type":"Point"}
+  "bbox": [
+    -95.747318,
+    36.147992,
+    -95.747318,
+    36.147992
+],
+  "geometry": {"coordinates":[-95.74731800000001,36.147992],"type":"Point"}
 }

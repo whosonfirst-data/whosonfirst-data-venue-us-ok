@@ -2,13 +2,14 @@
   "id": 320170593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.46698,35.221318,-97.46698,35.221318",
     "geom:latitude":35.221318,
     "geom:longitude":-97.46698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Crestmont Ave",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320170593,
-    "wof:lastmodified":1449011586,
+    "wof:lastmodified":1466764391,
     "wof:name":"Brookfield Custom Homes LLC",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.46698,35.221318,-97.46698,35.221318],
-  "geometry": {"coordinates":[-97.46698,35.221318],"type":"Point"}
+  "bbox": [
+    -97.46698,
+    35.221318,
+    -97.46698,
+    35.221318
+],
+  "geometry": {"coordinates":[-97.46698000000001,35.221318],"type":"Point"}
 }

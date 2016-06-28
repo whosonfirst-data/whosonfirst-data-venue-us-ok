@@ -2,13 +2,14 @@
   "id": 354145233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.864867,36.411371,-97.864867,36.411371",
     "geom:latitude":36.411371,
     "geom:longitude":-97.864867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 E Cherry Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354145233,
-    "wof:lastmodified":1449066427,
+    "wof:lastmodified":1466763673,
     "wof:name":"Burlington Northern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "line"
     ]
 },
-  "bbox": [-97.864867,36.411371,-97.864867,36.411371],
+  "bbox": [
+    -97.864867,
+    36.411371,
+    -97.864867,
+    36.411371
+],
   "geometry": {"coordinates":[-97.864867,36.411371],"type":"Point"}
 }

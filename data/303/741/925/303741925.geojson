@@ -2,13 +2,14 @@
   "id": 303741925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.637239,35.530594,-97.637239,35.530594",
     "geom:latitude":35.530594,
     "geom:longitude":-97.637239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5811 Monroney St",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303741925,
-    "wof:lastmodified":1448998249,
+    "wof:lastmodified":1466766476,
     "wof:name":"Bill White & Assoc Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-97.637239,35.530594,-97.637239,35.530594],
-  "geometry": {"coordinates":[-97.637239,35.530594],"type":"Point"}
+  "bbox": [
+    -97.637239,
+    35.530594,
+    -97.637239,
+    35.530594
+],
+  "geometry": {"coordinates":[-97.63723899999999,35.530594],"type":"Point"}
 }

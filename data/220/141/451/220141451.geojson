@@ -2,13 +2,14 @@
   "id": 220141451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.917065,34.69252,-99.917065,34.69252",
     "geom:latitude":34.69252,
     "geom:longitude":-99.917065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 E Walnut St",
     "sg:city":"Hollis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220141451,
-    "wof:lastmodified":1449074302,
+    "wof:lastmodified":1466763661,
     "wof:name":"Dryden Cemetery Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-99.917065,34.69252,-99.917065,34.69252],
-  "geometry": {"coordinates":[-99.917065,34.69252],"type":"Point"}
+  "bbox": [
+    -99.917065,
+    34.69252,
+    -99.917065,
+    34.69252
+],
+  "geometry": {"coordinates":[-99.91706499999999,34.69252],"type":"Point"}
 }

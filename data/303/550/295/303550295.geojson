@@ -2,13 +2,14 @@
   "id": 303550295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.470737,36.275096,-98.470737,36.275096",
     "geom:latitude":36.275096,
     "geom:longitude":-98.470737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 E State Rd",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303550295,
-    "wof:lastmodified":1448999442,
+    "wof:lastmodified":1466766149,
     "wof:name":"Karl's Apple Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-98.470737,36.275096,-98.470737,36.275096],
+  "bbox": [
+    -98.470737,
+    36.275096,
+    -98.470737,
+    36.275096
+],
   "geometry": {"coordinates":[-98.470737,36.275096],"type":"Point"}
 }

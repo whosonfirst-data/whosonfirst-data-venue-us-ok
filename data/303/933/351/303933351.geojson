@@ -2,13 +2,14 @@
   "id": 303933351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.698675,35.528279,-98.698675,35.528279",
     "geom:latitude":35.528279,
     "geom:longitude":-98.698675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 N Bryan St",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303933351,
-    "wof:lastmodified":1448998619,
+    "wof:lastmodified":1466767017,
     "wof:name":"Briarwood Guest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.698675,35.528279,-98.698675,35.528279],
-  "geometry": {"coordinates":[-98.698675,35.528279],"type":"Point"}
+  "bbox": [
+    -98.698675,
+    35.528279,
+    -98.698675,
+    35.528279
+],
+  "geometry": {"coordinates":[-98.69867499999999,35.528279],"type":"Point"}
 }

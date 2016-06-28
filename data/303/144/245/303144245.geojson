@@ -2,13 +2,14 @@
   "id": 303144245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.880632,35.70143,-96.880632,35.70143",
     "geom:latitude":35.70143,
     "geom:longitude":-96.880632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Manvel Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303144245,
-    "wof:lastmodified":1448999907,
+    "wof:lastmodified":1466763948,
     "wof:name":"Pete's Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.880632,35.70143,-96.880632,35.70143],
-  "geometry": {"coordinates":[-96.880632,35.70143],"type":"Point"}
+  "bbox": [
+    -96.880632,
+    35.70143,
+    -96.880632,
+    35.70143
+],
+  "geometry": {"coordinates":[-96.88063200000001,35.70143],"type":"Point"}
 }

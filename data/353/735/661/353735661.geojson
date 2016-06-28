@@ -2,13 +2,14 @@
   "id": 353735661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.330358,35.697128,-95.330358,35.697128",
     "geom:latitude":35.697128,
     "geom:longitude":-95.330358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3340 E Smith Ferry Rd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353735661,
-    "wof:lastmodified":1449020715,
+    "wof:lastmodified":1466765148,
     "wof:name":"Toms",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vended"
     ]
 },
-  "bbox": [-95.330358,35.697128,-95.330358,35.697128],
+  "bbox": [
+    -95.330358,
+    35.697128,
+    -95.330358,
+    35.697128
+],
   "geometry": {"coordinates":[-95.330358,35.697128],"type":"Point"}
 }

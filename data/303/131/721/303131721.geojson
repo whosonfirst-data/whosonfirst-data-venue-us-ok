@@ -2,13 +2,14 @@
   "id": 303131721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.422117,34.619536,-98.422117,34.619536",
     "geom:latitude":34.619536,
     "geom:longitude":-98.422117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 NW Sheridan Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303131721,
-    "wof:lastmodified":1448998854,
+    "wof:lastmodified":1466763750,
     "wof:name":"Evans Auto Apparel",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-98.422117,34.619536,-98.422117,34.619536],
+  "bbox": [
+    -98.422117,
+    34.619536,
+    -98.422117,
+    34.619536
+],
   "geometry": {"coordinates":[-98.422117,34.619536],"type":"Point"}
 }

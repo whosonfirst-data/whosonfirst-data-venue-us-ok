@@ -2,13 +2,14 @@
   "id": 320725283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531886,35.522421,-97.531886,35.522421",
     "geom:latitude":35.522421,
     "geom:longitude":-97.531886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 NW 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320725283,
-    "wof:lastmodified":1449012170,
+    "wof:lastmodified":1466766607,
     "wof:name":"Appraisal Resources Inc",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-97.531886,35.522421,-97.531886,35.522421],
+  "bbox": [
+    -97.531886,
+    35.522421,
+    -97.531886,
+    35.522421
+],
   "geometry": {"coordinates":[-97.531886,35.522421],"type":"Point"}
 }

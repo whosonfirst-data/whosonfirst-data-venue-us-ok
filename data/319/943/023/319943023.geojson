@@ -2,13 +2,14 @@
   "id": 319943023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.370959,35.749744,-95.370959,35.749744",
     "geom:latitude":35.749744,
     "geom:longitude":-95.370959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N 3rd St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319943023,
-    "wof:lastmodified":1449024294,
+    "wof:lastmodified":1466763978,
     "wof:name":"Club Lunch",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.370959,35.749744,-95.370959,35.749744],
+  "bbox": [
+    -95.370959,
+    35.749744,
+    -95.370959,
+    35.749744
+],
   "geometry": {"coordinates":[-95.370959,35.749744],"type":"Point"}
 }

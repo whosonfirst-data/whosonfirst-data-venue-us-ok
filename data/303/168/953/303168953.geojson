@@ -2,13 +2,14 @@
   "id": 303168953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.359547,35.011327,-97.359547,35.011327",
     "geom:latitude":35.011327,
     "geom:longitude":-97.359547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 S Canadian Ave",
     "sg:city":"Purcell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303168953,
-    "wof:lastmodified":1448999398,
+    "wof:lastmodified":1466764416,
     "wof:name":"Wilson-Little Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-97.359547,35.011327,-97.359547,35.011327],
-  "geometry": {"coordinates":[-97.359547,35.011327],"type":"Point"}
+  "bbox": [
+    -97.359547,
+    35.011327,
+    -97.359547,
+    35.011327
+],
+  "geometry": {"coordinates":[-97.35954700000001,35.011327],"type":"Point"}
 }

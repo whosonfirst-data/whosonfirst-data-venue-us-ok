@@ -2,13 +2,14 @@
   "id": 303558005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.392148,34.006064,-96.392148,34.006064",
     "geom:latitude":34.006064,
     "geom:longitude":-96.392148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1323 N 16th Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303558005,
-    "wof:lastmodified":1448998778,
+    "wof:lastmodified":1466766158,
     "wof:name":"Lonestar Urology Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.392148,34.006064,-96.392148,34.006064],
-  "geometry": {"coordinates":[-96.392148,34.006064],"type":"Point"}
+  "bbox": [
+    -96.392148,
+    34.006064,
+    -96.392148,
+    34.006064
+],
+  "geometry": {"coordinates":[-96.39214800000001,34.006064],"type":"Point"}
 }

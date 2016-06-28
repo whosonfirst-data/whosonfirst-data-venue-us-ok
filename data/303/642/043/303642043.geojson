@@ -2,13 +2,14 @@
   "id": 303642043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549288,35.592064,-97.549288,35.592064",
     "geom:latitude":35.592064,
     "geom:longitude":-97.549288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11912 N Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303642043,
-    "wof:lastmodified":1448998262,
+    "wof:lastmodified":1466766413,
     "wof:name":"Morgan & Morgan Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.549288,35.592064,-97.549288,35.592064],
+  "bbox": [
+    -97.549288,
+    35.592064,
+    -97.549288,
+    35.592064
+],
   "geometry": {"coordinates":[-97.549288,35.592064],"type":"Point"}
 }

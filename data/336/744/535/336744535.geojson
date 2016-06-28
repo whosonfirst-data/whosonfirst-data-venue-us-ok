@@ -2,13 +2,14 @@
   "id": 336744535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.984524,36.149101,-95.984524,36.149101",
     "geom:latitude":36.149101,
     "geom:longitude":-95.984524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 S Detroit Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336744535,
-    "wof:lastmodified":1448997322,
+    "wof:lastmodified":1466764361,
     "wof:name":"Tulsa Transit",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.984524,36.149101,-95.984524,36.149101],
-  "geometry": {"coordinates":[-95.984524,36.149101],"type":"Point"}
+  "bbox": [
+    -95.984524,
+    36.149101,
+    -95.984524,
+    36.149101
+],
+  "geometry": {"coordinates":[-95.98452399999999,36.149101],"type":"Point"}
 }

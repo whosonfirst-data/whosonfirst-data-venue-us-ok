@@ -2,13 +2,14 @@
   "id": 353557723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.970112,36.749719,-95.970112,36.749719",
     "geom:latitude":36.749719,
     "geom:longitude":-95.970112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Wyandotte Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353557723,
-    "wof:lastmodified":1449020063,
+    "wof:lastmodified":1466763977,
     "wof:name":"West Of Boston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-95.970112,36.749719,-95.970112,36.749719],
+  "bbox": [
+    -95.970112,
+    36.749719,
+    -95.970112,
+    36.749719
+],
   "geometry": {"coordinates":[-95.970112,36.749719],"type":"Point"}
 }

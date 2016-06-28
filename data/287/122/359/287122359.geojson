@@ -2,13 +2,14 @@
   "id": 287122359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503469,35.382407,-97.503469,35.382407",
     "geom:latitude":35.382407,
     "geom:longitude":-97.503469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8442 S Shields Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287122359,
-    "wof:lastmodified":1449001175,
+    "wof:lastmodified":1466764210,
     "wof:name":"Auto Value",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.503469,35.382407,-97.503469,35.382407],
+  "bbox": [
+    -97.503469,
+    35.382407,
+    -97.503469,
+    35.382407
+],
   "geometry": {"coordinates":[-97.503469,35.382407],"type":"Point"}
 }

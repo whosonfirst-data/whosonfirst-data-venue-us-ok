@@ -2,13 +2,14 @@
   "id": 303829777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.996575,35.445093,-95.996575,35.445093",
     "geom:latitude":35.445093,
     "geom:longitude":-95.996575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 W Merrick St",
     "sg:city":"Henryetta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303829777,
-    "wof:lastmodified":1449000404,
+    "wof:lastmodified":1466766877,
     "wof:name":"Barrett Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spraying"
     ]
 },
-  "bbox": [-95.996575,35.445093,-95.996575,35.445093],
-  "geometry": {"coordinates":[-95.996575,35.445093],"type":"Point"}
+  "bbox": [
+    -95.996575,
+    35.445093,
+    -95.996575,
+    35.445093
+],
+  "geometry": {"coordinates":[-95.99657500000001,35.445093],"type":"Point"}
 }

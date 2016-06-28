@@ -2,13 +2,14 @@
   "id": 303880499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990372,35.447399,-95.990372,35.447399",
     "geom:latitude":35.447399,
     "geom:longitude":-95.990372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Grandview Dr",
     "sg:city":"Henryetta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303880499,
-    "wof:lastmodified":1449000587,
+    "wof:lastmodified":1466766925,
     "wof:name":"Matric LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-95.990372,35.447399,-95.990372,35.447399],
-  "geometry": {"coordinates":[-95.990372,35.447399],"type":"Point"}
+  "bbox": [
+    -95.990372,
+    35.447399,
+    -95.990372,
+    35.447399
+],
+  "geometry": {"coordinates":[-95.99037199999999,35.447399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303592315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.588642,35.35463,-97.588642,35.35463",
     "geom:latitude":35.35463,
     "geom:longitude":-97.588642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3808 SW 113th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303592315,
-    "wof:lastmodified":1448999526,
+    "wof:lastmodified":1466766283,
     "wof:name":"N & J Lube Inc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.588642,35.35463,-97.588642,35.35463],
-  "geometry": {"coordinates":[-97.588642,35.35463],"type":"Point"}
+  "bbox": [
+    -97.588642,
+    35.35463,
+    -97.588642,
+    35.35463
+],
+  "geometry": {"coordinates":[-97.58864199999999,35.35463],"type":"Point"}
 }

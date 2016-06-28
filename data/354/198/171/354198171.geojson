@@ -2,13 +2,14 @@
   "id": 354198171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.590541,35.478752,-97.590541,35.478752",
     "geom:latitude":35.478752,
     "geom:longitude":-97.590541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 NW 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354198171,
-    "wof:lastmodified":1449066533,
+    "wof:lastmodified":1466763899,
     "wof:name":"Quality Snacks",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-97.590541,35.478752,-97.590541,35.478752],
+  "bbox": [
+    -97.590541,
+    35.478752,
+    -97.590541,
+    35.478752
+],
   "geometry": {"coordinates":[-97.590541,35.478752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303881991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.506031,34.878488,-99.506031,34.878488",
     "geom:latitude":34.878488,
     "geom:longitude":-99.506031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Oklahoma Ave",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303881991,
-    "wof:lastmodified":1448999540,
+    "wof:lastmodified":1466766999,
     "wof:name":"Mangum Junior High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.506031,34.878488,-99.506031,34.878488],
-  "geometry": {"coordinates":[-99.506031,34.878488],"type":"Point"}
+  "bbox": [
+    -99.506031,
+    34.878488,
+    -99.506031,
+    34.878488
+],
+  "geometry": {"coordinates":[-99.50603099999999,34.878488],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303188313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.39321,35.464126,-97.39321,35.464126",
     "geom:latitude":35.464126,
     "geom:longitude":-97.39321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2828 Parklawn Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303188313,
-    "wof:lastmodified":1448999330,
+    "wof:lastmodified":1466764370,
     "wof:name":"William G Bozalis DDS",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-97.39321,35.464126,-97.39321,35.464126],
+  "bbox": [
+    -97.39321,
+    35.464126,
+    -97.39321,
+    35.464126
+],
   "geometry": {"coordinates":[-97.39321,35.464126],"type":"Point"}
 }

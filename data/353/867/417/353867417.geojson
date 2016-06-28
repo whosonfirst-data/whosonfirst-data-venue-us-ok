@@ -2,13 +2,14 @@
   "id": 353867417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.924656,35.328765,-96.924656,35.328765",
     "geom:latitude":35.328765,
     "geom:longitude":-96.924656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 W 9th St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353867417,
-    "wof:lastmodified":1449019355,
+    "wof:lastmodified":1466765699,
     "wof:name":"Shawnee Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-96.924656,35.328765,-96.924656,35.328765],
+  "bbox": [
+    -96.924656,
+    35.328765,
+    -96.924656,
+    35.328765
+],
   "geometry": {"coordinates":[-96.924656,35.328765],"type":"Point"}
 }

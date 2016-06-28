@@ -2,13 +2,14 @@
   "id": 320358921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.991419,36.151022,-95.991419,36.151022",
     "geom:latitude":36.151022,
     "geom:longitude":-95.991419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 S Boulder Ave W",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320358921,
-    "wof:lastmodified":1449012828,
+    "wof:lastmodified":1466765671,
     "wof:name":"Barbara Ann Bartlett",
     "wof:parent_id":85872473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-95.991419,36.151022,-95.991419,36.151022],
-  "geometry": {"coordinates":[-95.991419,36.151022],"type":"Point"}
+  "bbox": [
+    -95.991419,
+    36.151022,
+    -95.991419,
+    36.151022
+],
+  "geometry": {"coordinates":[-95.99141899999999,36.151022],"type":"Point"}
 }

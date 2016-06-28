@@ -2,13 +2,14 @@
   "id": 303902103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517691,35.440559,-97.517691,35.440559",
     "geom:latitude":35.440559,
     "geom:longitude":-97.517691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 SW 24th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303902103,
-    "wof:lastmodified":1448999929,
+    "wof:lastmodified":1466766962,
     "wof:name":"Jim's Barbecue",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbecue"
     ]
 },
-  "bbox": [-97.517691,35.440559,-97.517691,35.440559],
+  "bbox": [
+    -97.517691,
+    35.440559,
+    -97.517691,
+    35.440559
+],
   "geometry": {"coordinates":[-97.517691,35.440559],"type":"Point"}
 }

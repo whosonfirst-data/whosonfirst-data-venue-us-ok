@@ -2,13 +2,14 @@
   "id": 353999265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.394966,34.601244,-98.394966,34.601244",
     "geom:latitude":34.601244,
     "geom:longitude":-98.394966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 SW 5th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353999265,
-    "wof:lastmodified":1449020490,
+    "wof:lastmodified":1466765904,
     "wof:name":"Burlington Northern",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "line"
     ]
 },
-  "bbox": [-98.394966,34.601244,-98.394966,34.601244],
+  "bbox": [
+    -98.394966,
+    34.601244,
+    -98.394966,
+    34.601244
+],
   "geometry": {"coordinates":[-98.394966,34.601244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320053435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.941549,35.535066,-97.941549,35.535066",
     "geom:latitude":35.535066,
     "geom:longitude":-97.941549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N L Ave",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320053435,
-    "wof:lastmodified":1449011964,
+    "wof:lastmodified":1466763080,
     "wof:name":"Indian Education",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.941549,35.535066,-97.941549,35.535066],
-  "geometry": {"coordinates":[-97.941549,35.535066],"type":"Point"}
+  "bbox": [
+    -97.941549,
+    35.535066,
+    -97.941549,
+    35.535066
+],
+  "geometry": {"coordinates":[-97.94154899999999,35.535066],"type":"Point"}
 }

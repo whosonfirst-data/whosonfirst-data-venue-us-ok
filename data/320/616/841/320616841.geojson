@@ -2,13 +2,14 @@
   "id": 320616841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.495919,35.637809,-97.495919,35.637809",
     "geom:latitude":35.637809,
     "geom:longitude":-97.495919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 S Kelly Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320616841,
-    "wof:lastmodified":1449013998,
+    "wof:lastmodified":1466766409,
     "wof:name":"LA Perla Mexican Store",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.495919,35.637809,-97.495919,35.637809],
+  "bbox": [
+    -97.495919,
+    35.637809,
+    -97.495919,
+    35.637809
+],
   "geometry": {"coordinates":[-97.495919,35.637809],"type":"Point"}
 }

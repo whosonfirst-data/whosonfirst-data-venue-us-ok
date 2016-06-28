@@ -2,13 +2,14 @@
   "id": 303753479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.689805,34.763885,-96.689805,34.763885",
     "geom:latitude":34.763885,
     "geom:longitude":-96.689805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W 21st St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303753479,
-    "wof:lastmodified":1448998408,
+    "wof:lastmodified":1466766762,
     "wof:name":"Breeden Grain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.689805,34.763885,-96.689805,34.763885],
-  "geometry": {"coordinates":[-96.689805,34.763885],"type":"Point"}
+  "bbox": [
+    -96.689805,
+    34.763885,
+    -96.689805,
+    34.763885
+],
+  "geometry": {"coordinates":[-96.68980500000001,34.763885],"type":"Point"}
 }

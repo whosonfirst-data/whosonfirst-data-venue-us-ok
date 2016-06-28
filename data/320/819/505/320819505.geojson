@@ -2,13 +2,14 @@
   "id": 320819505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.908296,36.097338,-95.908296,36.097338",
     "geom:latitude":36.097338,
     "geom:longitude":-95.908296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4530 S Lakewood Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320819505,
-    "wof:lastmodified":1449012152,
+    "wof:lastmodified":1466766886,
     "wof:name":"Paula Robinson Interior Design",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-95.908296,36.097338,-95.908296,36.097338],
-  "geometry": {"coordinates":[-95.908296,36.097338],"type":"Point"}
+  "bbox": [
+    -95.908296,
+    36.097338,
+    -95.908296,
+    36.097338
+],
+  "geometry": {"coordinates":[-95.90829600000001,36.097338],"type":"Point"}
 }

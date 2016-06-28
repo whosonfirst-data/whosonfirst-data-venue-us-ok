@@ -2,13 +2,14 @@
   "id": 353861821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.679111,35.968498,-95.679111,35.968498",
     "geom:latitude":35.968498,
     "geom:longitude":-95.679111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13297 S 267th East Ave",
     "sg:city":"Coweta",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353861821,
-    "wof:lastmodified":1449020766,
+    "wof:lastmodified":1466765561,
     "wof:name":"Usborne Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "book"
     ]
 },
-  "bbox": [-95.679111,35.968498,-95.679111,35.968498],
-  "geometry": {"coordinates":[-95.679111,35.968498],"type":"Point"}
+  "bbox": [
+    -95.679111,
+    35.968498,
+    -95.679111,
+    35.968498
+],
+  "geometry": {"coordinates":[-95.67911100000001,35.968498],"type":"Point"}
 }

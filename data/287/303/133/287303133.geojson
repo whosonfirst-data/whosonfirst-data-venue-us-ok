@@ -2,13 +2,14 @@
   "id": 287303133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.561102,35.473089,-97.561102,35.473089",
     "geom:latitude":35.473089,
     "geom:longitude":-97.561102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N Miller Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287303133,
-    "wof:lastmodified":1449000670,
+    "wof:lastmodified":1466763468,
     "wof:name":"Scott Manufacturing Inc",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.561102,35.473089,-97.561102,35.473089],
-  "geometry": {"coordinates":[-97.561102,35.473089],"type":"Point"}
+  "bbox": [
+    -97.561102,
+    35.473089,
+    -97.561102,
+    35.473089
+],
+  "geometry": {"coordinates":[-97.56110200000001,35.473089],"type":"Point"}
 }

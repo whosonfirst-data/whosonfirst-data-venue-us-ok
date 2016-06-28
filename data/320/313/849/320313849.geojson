@@ -2,13 +2,14 @@
   "id": 320313849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.797361,36.046535,-95.797361,36.046535",
     "geom:latitude":36.046535,
     "geom:longitude":-95.797361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 S Elm Pl",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320313849,
-    "wof:lastmodified":1449011371,
+    "wof:lastmodified":1466765126,
     "wof:name":"Wachovia Securities LLC",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-95.797361,36.046535,-95.797361,36.046535],
+  "bbox": [
+    -95.797361,
+    36.046535,
+    -95.797361,
+    36.046535
+],
   "geometry": {"coordinates":[-95.797361,36.046535],"type":"Point"}
 }

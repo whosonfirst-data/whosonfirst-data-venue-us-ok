@@ -2,13 +2,14 @@
   "id": 287238493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.481501,36.684097,-101.481501,36.684097",
     "geom:latitude":36.684097,
     "geom:longitude":-101.481501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 N Main St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287238493,
-    "wof:lastmodified":1449001002,
+    "wof:lastmodified":1466762520,
     "wof:name":"Computer Decisions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.481501,36.684097,-101.481501,36.684097],
-  "geometry": {"coordinates":[-101.481501,36.684097],"type":"Point"}
+  "bbox": [
+    -101.481501,
+    36.684097,
+    -101.481501,
+    36.684097
+],
+  "geometry": {"coordinates":[-101.48150099999999,36.684097],"type":"Point"}
 }

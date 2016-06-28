@@ -2,13 +2,14 @@
   "id": 337538931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.414971,35.506722,-97.414971,35.506722",
     "geom:latitude":35.506722,
     "geom:longitude":-97.414971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 Mosley Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337538931,
-    "wof:lastmodified":1449027037,
+    "wof:lastmodified":1466762872,
     "wof:name":"East Oak Landfill",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landfill"
     ]
 },
-  "bbox": [-97.414971,35.506722,-97.414971,35.506722],
-  "geometry": {"coordinates":[-97.414971,35.506722],"type":"Point"}
+  "bbox": [
+    -97.414971,
+    35.506722,
+    -97.414971,
+    35.506722
+],
+  "geometry": {"coordinates":[-97.41497099999999,35.506722],"type":"Point"}
 }

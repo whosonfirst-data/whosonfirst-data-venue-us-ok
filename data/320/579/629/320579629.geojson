@@ -2,13 +2,14 @@
   "id": 320579629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.899231,36.090817,-95.899231,36.090817",
     "geom:latitude":36.090817,
     "geom:longitude":-95.899231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4812 S 70th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320579629,
-    "wof:lastmodified":1449012461,
+    "wof:lastmodified":1466766248,
     "wof:name":"Vernon Wayne Co",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.899231,36.090817,-95.899231,36.090817],
+  "bbox": [
+    -95.899231,
+    36.090817,
+    -95.899231,
+    36.090817
+],
   "geometry": {"coordinates":[-95.899231,36.090817],"type":"Point"}
 }

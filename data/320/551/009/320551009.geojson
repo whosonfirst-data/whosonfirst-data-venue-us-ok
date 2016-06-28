@@ -2,13 +2,14 @@
   "id": 320551009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.90215,36.119004,-95.90215,36.119004",
     "geom:latitude":36.119004,
     "geom:longitude":-95.90215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6555 E 31st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320551009,
-    "wof:lastmodified":1449012014,
+    "wof:lastmodified":1466766091,
     "wof:name":"One Block East Apartments",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.90215,36.119004,-95.90215,36.119004],
-  "geometry": {"coordinates":[-95.90215,36.119004],"type":"Point"}
+  "bbox": [
+    -95.90215,
+    36.119004,
+    -95.90215,
+    36.119004
+],
+  "geometry": {"coordinates":[-95.90215000000001,36.119004],"type":"Point"}
 }

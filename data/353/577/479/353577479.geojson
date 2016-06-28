@@ -2,13 +2,14 @@
   "id": 353577479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.405459,35.412826,-99.405459,35.412826",
     "geom:latitude":35.412826,
     "geom:longitude":-99.405459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W 2nd St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353577479,
-    "wof:lastmodified":1449020892,
+    "wof:lastmodified":1466764189,
     "wof:name":"Rogers Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.405459,35.412826,-99.405459,35.412826],
-  "geometry": {"coordinates":[-99.405459,35.412826],"type":"Point"}
+  "bbox": [
+    -99.405459,
+    35.412826,
+    -99.405459,
+    35.412826
+],
+  "geometry": {"coordinates":[-99.40545899999999,35.412826],"type":"Point"}
 }

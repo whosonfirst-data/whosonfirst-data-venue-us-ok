@@ -2,13 +2,14 @@
   "id": 303385793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.54274,35.421769,-97.54274,35.421769",
     "geom:latitude":35.421769,
     "geom:longitude":-97.54274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Magdalena Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303385793,
-    "wof:lastmodified":1448999574,
+    "wof:lastmodified":1466765364,
     "wof:name":"My Favorite Place",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.54274,35.421769,-97.54274,35.421769],
-  "geometry": {"coordinates":[-97.54274,35.421769],"type":"Point"}
+  "bbox": [
+    -97.54274,
+    35.421769,
+    -97.54274,
+    35.421769
+],
+  "geometry": {"coordinates":[-97.54273999999999,35.421769],"type":"Point"}
 }

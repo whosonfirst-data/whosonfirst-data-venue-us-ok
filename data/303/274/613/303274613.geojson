@@ -2,13 +2,14 @@
   "id": 303274613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.834472,36.147923,-95.834472,36.147923",
     "geom:latitude":36.147923,
     "geom:longitude":-95.834472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12828 E 11th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303274613,
-    "wof:lastmodified":1448998417,
+    "wof:lastmodified":1466764946,
     "wof:name":"Curt's Oil Co",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-95.834472,36.147923,-95.834472,36.147923],
-  "geometry": {"coordinates":[-95.834472,36.147923],"type":"Point"}
+  "bbox": [
+    -95.834472,
+    36.147923,
+    -95.834472,
+    36.147923
+],
+  "geometry": {"coordinates":[-95.83447200000001,36.147923],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353929429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.946537,35.967455,-94.946537,35.967455",
     "geom:latitude":35.967455,
     "geom:longitude":-94.946537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14445 N 525 Rd",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353929429,
-    "wof:lastmodified":1449019244,
+    "wof:lastmodified":1466765757,
     "wof:name":"Robbins Wrecker Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-94.946537,35.967455,-94.946537,35.967455],
-  "geometry": {"coordinates":[-94.946537,35.967455],"type":"Point"}
+  "bbox": [
+    -94.946537,
+    35.967455,
+    -94.946537,
+    35.967455
+],
+  "geometry": {"coordinates":[-94.94653700000001,35.967455],"type":"Point"}
 }

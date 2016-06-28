@@ -2,13 +2,14 @@
   "id": 320267023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935145,36.729166,-95.935145,36.729166",
     "geom:latitude":36.729166,
     "geom:longitude":-95.935145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1631 SE Washington Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320267023,
-    "wof:lastmodified":1449014627,
+    "wof:lastmodified":1466764878,
     "wof:name":"Bartlesville Podiatry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.935145,36.729166,-95.935145,36.729166],
-  "geometry": {"coordinates":[-95.935145,36.729166],"type":"Point"}
+  "bbox": [
+    -95.935145,
+    36.729166,
+    -95.935145,
+    36.729166
+],
+  "geometry": {"coordinates":[-95.93514500000001,36.729166],"type":"Point"}
 }

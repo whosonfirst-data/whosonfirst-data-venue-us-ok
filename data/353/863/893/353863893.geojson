@@ -2,13 +2,14 @@
   "id": 353863893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.438471,35.433373,-97.438471,35.433373",
     "geom:latitude":35.433373,
     "geom:longitude":-97.438471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4428 SE 31st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353863893,
-    "wof:lastmodified":1449020006,
+    "wof:lastmodified":1466765561,
     "wof:name":"City Collision Repair",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-97.438471,35.433373,-97.438471,35.433373],
-  "geometry": {"coordinates":[-97.438471,35.433373],"type":"Point"}
+  "bbox": [
+    -97.438471,
+    35.433373,
+    -97.438471,
+    35.433373
+],
+  "geometry": {"coordinates":[-97.43847100000001,35.433373],"type":"Point"}
 }

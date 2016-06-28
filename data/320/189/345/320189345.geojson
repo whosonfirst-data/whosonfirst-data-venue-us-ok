@@ -2,13 +2,14 @@
   "id": 320189345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.019834,36.365547,-96.019834,36.365547",
     "geom:latitude":36.365547,
     "geom:longitude":-96.019834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 S Hominy Ave",
     "sg:city":"Skiatook",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320189345,
-    "wof:lastmodified":1449013903,
+    "wof:lastmodified":1466764547,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.019834,36.365547,-96.019834,36.365547],
+  "bbox": [
+    -96.019834,
+    36.365547,
+    -96.019834,
+    36.365547
+],
   "geometry": {"coordinates":[-96.019834,36.365547],"type":"Point"}
 }

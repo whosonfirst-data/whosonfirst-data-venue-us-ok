@@ -2,13 +2,14 @@
   "id": 354156181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.670008,34.751358,-96.670008,34.751358",
     "geom:latitude":34.751358,
     "geom:longitude":-96.670008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Kerr Lab Rd",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":354156181,
-    "wof:lastmodified":1449066270,
+    "wof:lastmodified":1466763717,
     "wof:name":"French Dental Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-96.670008,34.751358,-96.670008,34.751358],
+  "bbox": [
+    -96.670008,
+    34.751358,
+    -96.670008,
+    34.751358
+],
   "geometry": {"coordinates":[-96.670008,34.751358],"type":"Point"}
 }

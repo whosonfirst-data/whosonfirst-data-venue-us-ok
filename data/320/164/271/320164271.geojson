@@ -2,13 +2,14 @@
   "id": 320164271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530631,35.609105,-97.530631,35.609105",
     "geom:latitude":35.609105,
     "geom:longitude":-97.530631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 W Memorial Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320164271,
-    "wof:lastmodified":1449011690,
+    "wof:lastmodified":1466764435,
     "wof:name":"Memorial West Phillips 66",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "oil"
     ]
 },
-  "bbox": [-97.530631,35.609105,-97.530631,35.609105],
+  "bbox": [
+    -97.530631,
+    35.609105,
+    -97.530631,
+    35.609105
+],
   "geometry": {"coordinates":[-97.530631,35.609105],"type":"Point"}
 }

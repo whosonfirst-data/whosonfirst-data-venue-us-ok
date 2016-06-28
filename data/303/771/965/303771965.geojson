@@ -2,13 +2,14 @@
   "id": 303771965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.901553,36.077341,-95.901553,36.077341",
     "geom:latitude":36.077341,
     "geom:longitude":-95.901553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5852 S 67th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303771965,
-    "wof:lastmodified":1448999447,
+    "wof:lastmodified":1466766790,
     "wof:name":"Weaver Chemical Co Inc",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "treatment"
     ]
 },
-  "bbox": [-95.901553,36.077341,-95.901553,36.077341],
-  "geometry": {"coordinates":[-95.901553,36.077341],"type":"Point"}
+  "bbox": [
+    -95.901553,
+    36.077341,
+    -95.901553,
+    36.077341
+],
+  "geometry": {"coordinates":[-95.90155300000001,36.077341],"type":"Point"}
 }

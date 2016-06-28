@@ -2,13 +2,14 @@
   "id": 353799091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.06855,36.173841,-97.06855,36.173841",
     "geom:latitude":36.173841,
     "geom:longitude":-97.06855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 W Richmond Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353799091,
-    "wof:lastmodified":1449020801,
+    "wof:lastmodified":1466765331,
     "wof:name":"Countryside Gardener",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-97.06855,36.173841,-97.06855,36.173841],
+  "bbox": [
+    -97.06855,
+    36.173841,
+    -97.06855,
+    36.173841
+],
   "geometry": {"coordinates":[-97.06855,36.173841],"type":"Point"}
 }

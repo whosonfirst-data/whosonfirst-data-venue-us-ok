@@ -2,13 +2,14 @@
   "id": 354016337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.719782,33.998206,-96.719782,33.998206",
     "geom:latitude":33.998206,
     "geom:longitude":-96.719782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 US Hwy 70 E",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354016337,
-    "wof:lastmodified":1449066233,
+    "wof:lastmodified":1466763037,
     "wof:name":"Kingston's Greenhouse Retail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-96.719782,33.998206,-96.719782,33.998206],
+  "bbox": [
+    -96.719782,
+    33.998206,
+    -96.719782,
+    33.998206
+],
   "geometry": {"coordinates":[-96.719782,33.998206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320712279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.735621,36.160069,-95.735621,36.160069",
     "geom:latitude":36.160069,
     "geom:longitude":-95.735621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20505 E Admiral Pl",
     "sg:city":"Catoosa",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320712279,
-    "wof:lastmodified":1449012860,
+    "wof:lastmodified":1466766580,
     "wof:name":"National Cranes Of Oklahoma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crane"
     ]
 },
-  "bbox": [-95.735621,36.160069,-95.735621,36.160069],
-  "geometry": {"coordinates":[-95.735621,36.160069],"type":"Point"}
+  "bbox": [
+    -95.735621,
+    36.160069,
+    -95.735621,
+    36.160069
+],
+  "geometry": {"coordinates":[-95.73562099999999,36.160069],"type":"Point"}
 }

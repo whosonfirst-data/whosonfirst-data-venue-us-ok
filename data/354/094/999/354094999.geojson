@@ -2,13 +2,14 @@
   "id": 354094999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.44083,35.436331,-97.44083,35.436331",
     "geom:latitude":35.436331,
     "geom:longitude":-97.44083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4335 SE 28th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354094999,
-    "wof:lastmodified":1449067025,
+    "wof:lastmodified":1466763490,
     "wof:name":"Masters Asset Management Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.44083,35.436331,-97.44083,35.436331],
-  "geometry": {"coordinates":[-97.44083,35.436331],"type":"Point"}
+  "bbox": [
+    -97.44083,
+    35.436331,
+    -97.44083,
+    35.436331
+],
+  "geometry": {"coordinates":[-97.44083000000001,35.436331],"type":"Point"}
 }

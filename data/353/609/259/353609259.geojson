@@ -2,13 +2,14 @@
   "id": 353609259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.60097,35.437681,-97.60097,35.437681",
     "geom:latitude":35.437681,
     "geom:longitude":-97.60097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2708 S Meridian Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353609259,
-    "wof:lastmodified":1449019212,
+    "wof:lastmodified":1466764427,
     "wof:name":"Air Liquide America Corp",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "gas"
     ]
 },
-  "bbox": [-97.60097,35.437681,-97.60097,35.437681],
+  "bbox": [
+    -97.60097,
+    35.437681,
+    -97.60097,
+    35.437681
+],
   "geometry": {"coordinates":[-97.60097,35.437681],"type":"Point"}
 }

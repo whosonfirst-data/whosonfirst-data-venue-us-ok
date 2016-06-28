@@ -2,13 +2,14 @@
   "id": 303154503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.930466,36.140485,-95.930466,36.140485",
     "geom:latitude":36.140485,
     "geom:longitude":-95.930466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4116 E 15th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":303154503,
-    "wof:lastmodified":1449000600,
+    "wof:lastmodified":1466764112,
     "wof:name":"Tulsa County OSU Extension",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.930466,36.140485,-95.930466,36.140485],
+  "bbox": [
+    -95.930466,
+    36.140485,
+    -95.930466,
+    36.140485
+],
   "geometry": {"coordinates":[-95.930466,36.140485],"type":"Point"}
 }

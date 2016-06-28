@@ -2,13 +2,14 @@
   "id": 303522505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.403442,36.437014,-99.403442,36.437014",
     "geom:latitude":36.437014,
     "geom:longitude":-99.403442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 19th St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303522505,
-    "wof:lastmodified":1448999287,
+    "wof:lastmodified":1466765941,
     "wof:name":"Raulston Oil & Gas Leases",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lease"
     ]
 },
-  "bbox": [-99.403442,36.437014,-99.403442,36.437014],
+  "bbox": [
+    -99.403442,
+    36.437014,
+    -99.403442,
+    36.437014
+],
   "geometry": {"coordinates":[-99.403442,36.437014],"type":"Point"}
 }

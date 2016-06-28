@@ -2,13 +2,14 @@
   "id": 320356407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.412422,36.433389,-99.412422,36.433389",
     "geom:latitude":36.433389,
     "geom:longitude":-99.412422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2523 Oklahoma Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320356407,
-    "wof:lastmodified":1449014304,
+    "wof:lastmodified":1466765422,
     "wof:name":"Mary's Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.412422,36.433389,-99.412422,36.433389],
-  "geometry": {"coordinates":[-99.412422,36.433389],"type":"Point"}
+  "bbox": [
+    -99.412422,
+    36.433389,
+    -99.412422,
+    36.433389
+],
+  "geometry": {"coordinates":[-99.41242200000001,36.433389],"type":"Point"}
 }

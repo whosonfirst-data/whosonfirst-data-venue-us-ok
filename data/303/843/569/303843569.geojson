@@ -2,13 +2,14 @@
   "id": 303843569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.097384,35.038664,-99.097384,35.038664",
     "geom:latitude":35.038664,
     "geom:longitude":-99.097384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Forest Ln",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303843569,
-    "wof:lastmodified":1448998336,
+    "wof:lastmodified":1466766746,
     "wof:name":"Regional Radiology Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-99.097384,35.038664,-99.097384,35.038664],
-  "geometry": {"coordinates":[-99.097384,35.038664],"type":"Point"}
+  "bbox": [
+    -99.097384,
+    35.038664,
+    -99.097384,
+    35.038664
+],
+  "geometry": {"coordinates":[-99.09738400000001,35.038664],"type":"Point"}
 }

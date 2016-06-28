@@ -2,13 +2,14 @@
   "id": 303316933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.396031,35.826645,-96.396031,35.826645",
     "geom:latitude":35.826645,
     "geom:longitude":-96.396031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 Industrial Rd",
     "sg:city":"Mannford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303316933,
-    "wof:lastmodified":1448999773,
+    "wof:lastmodified":1466765124,
     "wof:name":"Mannford Animal Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "animal"
     ]
 },
-  "bbox": [-96.396031,35.826645,-96.396031,35.826645],
-  "geometry": {"coordinates":[-96.396031,35.826645],"type":"Point"}
+  "bbox": [
+    -96.396031,
+    35.826645,
+    -96.396031,
+    35.826645
+],
+  "geometry": {"coordinates":[-96.39603099999999,35.826645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319842417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.482675,36.681882,-101.482675,36.681882",
     "geom:latitude":36.681882,
     "geom:longitude":-101.482675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 NW 4th St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319842417,
-    "wof:lastmodified":1449024157,
+    "wof:lastmodified":1466763073,
     "wof:name":"Guymac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-101.482675,36.681882,-101.482675,36.681882],
+  "bbox": [
+    -101.482675,
+    36.681882,
+    -101.482675,
+    36.681882
+],
   "geometry": {"coordinates":[-101.482675,36.681882],"type":"Point"}
 }

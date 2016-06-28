@@ -2,13 +2,14 @@
   "id": 320687461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.000703,36.776365,-96.000703,36.776365",
     "geom:latitude":36.776365,
     "geom:longitude":-96.000703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Sooner Rd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320687461,
-    "wof:lastmodified":1449012304,
+    "wof:lastmodified":1466766515,
     "wof:name":"Oak Park Barber & Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.000703,36.776365,-96.000703,36.776365],
+  "bbox": [
+    -96.000703,
+    36.776365,
+    -96.000703,
+    36.776365
+],
   "geometry": {"coordinates":[-96.000703,36.776365],"type":"Point"}
 }

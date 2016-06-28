@@ -2,13 +2,14 @@
   "id": 235930107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.815201,36.117298,-95.815201,36.117298",
     "geom:latitude":36.117298,
     "geom:longitude":-95.815201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3235 S 145th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235930107,
-    "wof:lastmodified":1449008362,
+    "wof:lastmodified":1466762372,
     "wof:name":"Lucky Stop",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.815201,36.117298,-95.815201,36.117298],
+  "bbox": [
+    -95.815201,
+    36.117298,
+    -95.815201,
+    36.117298
+],
   "geometry": {"coordinates":[-95.815201,36.117298],"type":"Point"}
 }

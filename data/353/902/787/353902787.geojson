@@ -2,13 +2,14 @@
   "id": 353902787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.839678,36.03527,-95.839678,36.03527",
     "geom:latitude":36.03527,
     "geom:longitude":-95.839678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4217 W Toledo St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353902787,
-    "wof:lastmodified":1449020141,
+    "wof:lastmodified":1466765692,
     "wof:name":"Slippy Designs",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-95.839678,36.03527,-95.839678,36.03527],
-  "geometry": {"coordinates":[-95.839678,36.03527],"type":"Point"}
+  "bbox": [
+    -95.839678,
+    36.03527,
+    -95.839678,
+    36.03527
+],
+  "geometry": {"coordinates":[-95.83967800000001,36.03527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354063513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935173,36.712844,-95.935173,36.712844",
     "geom:latitude":36.712844,
     "geom:longitude":-95.935173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 SE Washington Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354063513,
-    "wof:lastmodified":1449066080,
+    "wof:lastmodified":1466763361,
     "wof:name":"Archer Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-95.935173,36.712844,-95.935173,36.712844],
-  "geometry": {"coordinates":[-95.935173,36.712844],"type":"Point"}
+  "bbox": [
+    -95.935173,
+    36.712844,
+    -95.935173,
+    36.712844
+],
+  "geometry": {"coordinates":[-95.93517300000001,36.712844],"type":"Point"}
 }

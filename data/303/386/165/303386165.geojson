@@ -2,13 +2,14 @@
   "id": 303386165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.055015,36.157219,-97.055015,36.157219",
     "geom:latitude":36.157219,
     "geom:longitude":-97.055015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 N Park Dr",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303386165,
-    "wof:lastmodified":1448999406,
+    "wof:lastmodified":1466765477,
     "wof:name":"Dallas Miller Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logistics"
     ]
 },
-  "bbox": [-97.055015,36.157219,-97.055015,36.157219],
+  "bbox": [
+    -97.055015,
+    36.157219,
+    -97.055015,
+    36.157219
+],
   "geometry": {"coordinates":[-97.055015,36.157219],"type":"Point"}
 }

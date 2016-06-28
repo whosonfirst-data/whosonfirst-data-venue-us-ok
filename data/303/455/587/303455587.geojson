@@ -2,13 +2,14 @@
   "id": 303455587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.958,36.06167,-95.958,36.06167",
     "geom:latitude":36.06167,
     "geom:longitude":-95.958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6920 S Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303455587,
-    "wof:lastmodified":1449000168,
+    "wof:lastmodified":1466765683,
     "wof:name":"Kirkland Properties",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-95.958,36.06167,-95.958,36.06167],
+  "bbox": [
+    -95.958,
+    36.06167,
+    -95.958,
+    36.06167
+],
   "geometry": {"coordinates":[-95.958,36.06167],"type":"Point"}
 }

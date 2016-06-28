@@ -2,13 +2,14 @@
   "id": 304065759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.397259,36.418958,-99.397259,36.418958",
     "geom:latitude":36.418958,
     "geom:longitude":-99.397259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Downs Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304065759,
-    "wof:lastmodified":1449044162,
+    "wof:lastmodified":1466763197,
     "wof:name":"Gary's Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-99.397259,36.418958,-99.397259,36.418958],
-  "geometry": {"coordinates":[-99.397259,36.418958],"type":"Point"}
+  "bbox": [
+    -99.397259,
+    36.418958,
+    -99.397259,
+    36.418958
+],
+  "geometry": {"coordinates":[-99.39725900000001,36.418958],"type":"Point"}
 }

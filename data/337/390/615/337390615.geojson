@@ -2,13 +2,14 @@
   "id": 337390615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990749,36.139765,-95.990749,36.139765",
     "geom:latitude":36.139765,
     "geom:longitude":-95.990749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 S Carson Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337390615,
-    "wof:lastmodified":1449027742,
+    "wof:lastmodified":1466764228,
     "wof:name":"J Andrew Enlow",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-95.990749,36.139765,-95.990749,36.139765],
-  "geometry": {"coordinates":[-95.990749,36.139765],"type":"Point"}
+  "bbox": [
+    -95.990749,
+    36.139765,
+    -95.990749,
+    36.139765
+],
+  "geometry": {"coordinates":[-95.99074899999999,36.139765],"type":"Point"}
 }

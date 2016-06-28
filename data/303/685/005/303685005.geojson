@@ -2,13 +2,14 @@
   "id": 303685005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.422703,35.464135,-97.422703,35.464135",
     "geom:latitude":35.464135,
     "geom:longitude":-97.422703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5701 E Reno Ave",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303685005,
-    "wof:lastmodified":1449000509,
+    "wof:lastmodified":1466766574,
     "wof:name":"Dabblers",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.422703,35.464135,-97.422703,35.464135],
+  "bbox": [
+    -97.422703,
+    35.464135,
+    -97.422703,
+    35.464135
+],
   "geometry": {"coordinates":[-97.422703,35.464135],"type":"Point"}
 }

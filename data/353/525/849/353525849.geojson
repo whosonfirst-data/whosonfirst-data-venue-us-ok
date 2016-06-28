@@ -2,13 +2,14 @@
   "id": 353525849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.979177,36.748823,-95.979177,36.748823",
     "geom:latitude":36.748823,
     "geom:longitude":-95.979177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 S Keeler Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353525849,
-    "wof:lastmodified":1449020289,
+    "wof:lastmodified":1466763510,
     "wof:name":"Fat Bubba Eats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.979177,36.748823,-95.979177,36.748823],
-  "geometry": {"coordinates":[-95.979177,36.748823],"type":"Point"}
+  "bbox": [
+    -95.979177,
+    36.748823,
+    -95.979177,
+    36.748823
+],
+  "geometry": {"coordinates":[-95.97917700000001,36.748823],"type":"Point"}
 }

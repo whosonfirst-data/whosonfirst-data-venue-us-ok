@@ -2,13 +2,14 @@
   "id": 353510131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.429744,35.449663,-97.429744,35.449663",
     "geom:latitude":35.449663,
     "geom:longitude":-97.429744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 SE 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353510131,
-    "wof:lastmodified":1449019815,
+    "wof:lastmodified":1466763276,
     "wof:name":"Shell Service Stations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.429744,35.449663,-97.429744,35.449663],
+  "bbox": [
+    -97.429744,
+    35.449663,
+    -97.429744,
+    35.449663
+],
   "geometry": {"coordinates":[-97.429744,35.449663],"type":"Point"}
 }

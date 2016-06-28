@@ -2,13 +2,14 @@
   "id": 336599461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.95799,36.068439,-95.95799,36.068439",
     "geom:latitude":36.068439,
     "geom:longitude":-95.95799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6628 S Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336599461,
-    "wof:lastmodified":1448997450,
+    "wof:lastmodified":1466764133,
     "wof:name":"Comet Cleaners",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-95.95799,36.068439,-95.95799,36.068439],
+  "bbox": [
+    -95.95799,
+    36.068439,
+    -95.95799,
+    36.068439
+],
   "geometry": {"coordinates":[-95.95799,36.068439],"type":"Point"}
 }

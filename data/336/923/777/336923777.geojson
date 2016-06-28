@@ -2,13 +2,14 @@
   "id": 336923777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.357177,36.758603,-98.357177,36.758603",
     "geom:latitude":36.758603,
     "geom:longitude":-98.357177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Grand Ave",
     "sg:city":"Cherokee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336923777,
-    "wof:lastmodified":1448997966,
+    "wof:lastmodified":1466765305,
     "wof:name":"City of Cherokee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-98.357177,36.758603,-98.357177,36.758603],
-  "geometry": {"coordinates":[-98.357177,36.758603],"type":"Point"}
+  "bbox": [
+    -98.357177,
+    36.758603,
+    -98.357177,
+    36.758603
+],
+  "geometry": {"coordinates":[-98.35717699999999,36.758603],"type":"Point"}
 }

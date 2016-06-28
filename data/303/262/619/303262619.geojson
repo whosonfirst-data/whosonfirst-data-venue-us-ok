@@ -2,13 +2,14 @@
   "id": 303262619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.520087,35.551198,-97.520087,35.551198",
     "geom:latitude":35.551198,
     "geom:longitude":-97.520087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 W Wilshire Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303262619,
-    "wof:lastmodified":1448999634,
+    "wof:lastmodified":1466764688,
     "wof:name":"Central Business Machines",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.520087,35.551198,-97.520087,35.551198],
+  "bbox": [
+    -97.520087,
+    35.551198,
+    -97.520087,
+    35.551198
+],
   "geometry": {"coordinates":[-97.520087,35.551198],"type":"Point"}
 }

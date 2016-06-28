@@ -2,13 +2,14 @@
   "id": 303706249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.423314,35.852323,-98.423314,35.852323",
     "geom:latitude":35.852323,
     "geom:longitude":-98.423314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Villa Dr",
     "sg:city":"Watonga",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303706249,
-    "wof:lastmodified":1448998293,
+    "wof:lastmodified":1466766498,
     "wof:name":"D & D Processing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "meat"
     ]
 },
-  "bbox": [-98.423314,35.852323,-98.423314,35.852323],
+  "bbox": [
+    -98.423314,
+    35.852323,
+    -98.423314,
+    35.852323
+],
   "geometry": {"coordinates":[-98.423314,35.852323],"type":"Point"}
 }

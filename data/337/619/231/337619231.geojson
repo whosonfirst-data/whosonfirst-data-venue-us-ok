@@ -2,13 +2,14 @@
   "id": 337619231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.335322,34.64102,-99.335322,34.64102",
     "geom:latitude":34.64102,
     "geom:longitude":-99.335322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 N Hudson St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337619231,
-    "wof:lastmodified":1449027072,
+    "wof:lastmodified":1466763326,
     "wof:name":"Taliaferro Comm Mental Helth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.335322,34.64102,-99.335322,34.64102],
-  "geometry": {"coordinates":[-99.335322,34.64102],"type":"Point"}
+  "bbox": [
+    -99.335322,
+    34.64102,
+    -99.335322,
+    34.64102
+],
+  "geometry": {"coordinates":[-99.33532200000001,34.64102],"type":"Point"}
 }

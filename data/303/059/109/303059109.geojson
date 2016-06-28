@@ -2,13 +2,14 @@
   "id": 303059109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.017067,34.382664,-99.017067,34.382664",
     "geom:latitude":34.382664,
     "geom:longitude":-99.017067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 S Main St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303059109,
-    "wof:lastmodified":1448998781,
+    "wof:lastmodified":1466762566,
     "wof:name":"Miller Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-99.017067,34.382664,-99.017067,34.382664],
+  "bbox": [
+    -99.017067,
+    34.382664,
+    -99.017067,
+    34.382664
+],
   "geometry": {"coordinates":[-99.017067,34.382664],"type":"Point"}
 }

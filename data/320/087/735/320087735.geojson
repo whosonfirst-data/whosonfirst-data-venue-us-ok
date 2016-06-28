@@ -2,13 +2,14 @@
   "id": 320087735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507923,35.416947,-97.507923,35.416947",
     "geom:latitude":35.416947,
     "geom:longitude":-97.507923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4816 S Shields Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320087735,
-    "wof:lastmodified":1449012982,
+    "wof:lastmodified":1466763581,
     "wof:name":"Crossroads Auto Mall",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.507923,35.416947,-97.507923,35.416947],
-  "geometry": {"coordinates":[-97.507923,35.416947],"type":"Point"}
+  "bbox": [
+    -97.507923,
+    35.416947,
+    -97.507923,
+    35.416947
+],
+  "geometry": {"coordinates":[-97.50792300000001,35.416947],"type":"Point"}
 }

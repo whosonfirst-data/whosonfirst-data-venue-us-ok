@@ -2,13 +2,14 @@
   "id": 287230547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.331025,34.637892,-99.331025,34.637892",
     "geom:latitude":34.637892,
     "geom:longitude":-99.331025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 E Broadway St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287230547,
-    "wof:lastmodified":1449001335,
+    "wof:lastmodified":1466762386,
     "wof:name":"S & P Total",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gasoline"
     ]
 },
-  "bbox": [-99.331025,34.637892,-99.331025,34.637892],
+  "bbox": [
+    -99.331025,
+    34.637892,
+    -99.331025,
+    34.637892
+],
   "geometry": {"coordinates":[-99.331025,34.637892],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303516835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.111838,34.184326,-97.111838,34.184326",
     "geom:latitude":34.184326,
     "geom:longitude":-97.111838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Sam Noble Pkwy",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303516835,
-    "wof:lastmodified":1448998582,
+    "wof:lastmodified":1466765913,
     "wof:name":"O K Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.111838,34.184326,-97.111838,34.184326],
-  "geometry": {"coordinates":[-97.111838,34.184326],"type":"Point"}
+  "bbox": [
+    -97.111838,
+    34.184326,
+    -97.111838,
+    34.184326
+],
+  "geometry": {"coordinates":[-97.11183800000001,34.184326],"type":"Point"}
 }

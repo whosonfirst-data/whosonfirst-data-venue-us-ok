@@ -2,13 +2,14 @@
   "id": 320124819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.729136,35.587102,-97.729136,35.587102",
     "geom:latitude":35.587102,
     "geom:longitude":-97.729136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11520 Hackney Ln",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320124819,
-    "wof:lastmodified":1449014677,
+    "wof:lastmodified":1466764169,
     "wof:name":"Tucker Virginia",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.729136,35.587102,-97.729136,35.587102],
+  "bbox": [
+    -97.729136,
+    35.587102,
+    -97.729136,
+    35.587102
+],
   "geometry": {"coordinates":[-97.729136,35.587102],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353932217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.742169,35.507742,-97.742169,35.507742",
     "geom:latitude":35.507742,
     "geom:longitude":-97.742169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 E Main St",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353932217,
-    "wof:lastmodified":1449019210,
+    "wof:lastmodified":1466765674,
     "wof:name":"Sid's Diner",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.742169,35.507742,-97.742169,35.507742],
+  "bbox": [
+    -97.742169,
+    35.507742,
+    -97.742169,
+    35.507742
+],
   "geometry": {"coordinates":[-97.742169,35.507742],"type":"Point"}
 }

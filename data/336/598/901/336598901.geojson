@@ -2,13 +2,14 @@
   "id": 336598901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.353738,36.402104,-99.353738,36.402104",
     "geom:latitude":36.402104,
     "geom:longitude":-99.353738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4650 Hunter Rd",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336598901,
-    "wof:lastmodified":1448996968,
+    "wof:lastmodified":1466764137,
     "wof:name":"Hartzell Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.353738,36.402104,-99.353738,36.402104],
-  "geometry": {"coordinates":[-99.353738,36.402104],"type":"Point"}
+  "bbox": [
+    -99.353738,
+    36.402104,
+    -99.353738,
+    36.402104
+],
+  "geometry": {"coordinates":[-99.35373800000001,36.402104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303458605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406124,35.445246,-97.406124,35.445246",
     "geom:latitude":35.445246,
     "geom:longitude":-97.406124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2029 S Air Depot Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303458605,
-    "wof:lastmodified":1448999857,
+    "wof:lastmodified":1466765785,
     "wof:name":"Bill's Southeast Automotive",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-97.406124,35.445246,-97.406124,35.445246],
-  "geometry": {"coordinates":[-97.406124,35.445246],"type":"Point"}
+  "bbox": [
+    -97.406124,
+    35.445246,
+    -97.406124,
+    35.445246
+],
+  "geometry": {"coordinates":[-97.40612400000001,35.445246],"type":"Point"}
 }

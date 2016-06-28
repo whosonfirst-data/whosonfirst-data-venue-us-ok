@@ -2,13 +2,14 @@
   "id": 303302123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.800538,36.024903,-95.800538,36.024903",
     "geom:latitude":36.024903,
     "geom:longitude":-95.800538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 W Canton St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303302123,
-    "wof:lastmodified":1448998940,
+    "wof:lastmodified":1466764956,
     "wof:name":"Gilliland Roofing",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.800538,36.024903,-95.800538,36.024903],
+  "bbox": [
+    -95.800538,
+    36.024903,
+    -95.800538,
+    36.024903
+],
   "geometry": {"coordinates":[-95.800538,36.024903],"type":"Point"}
 }

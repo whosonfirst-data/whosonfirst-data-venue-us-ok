@@ -2,13 +2,14 @@
   "id": 304064269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.79531,36.871115,-94.79531,36.871115",
     "geom:latitude":36.871115,
     "geom:longitude":-94.79531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60599 E 100 Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":304064269,
-    "wof:lastmodified":1449043763,
+    "wof:lastmodified":1466763192,
     "wof:name":"Rex Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.79531,36.871115,-94.79531,36.871115],
+  "bbox": [
+    -94.79531,
+    36.871115,
+    -94.79531,
+    36.871115
+],
   "geometry": {"coordinates":[-94.79531,36.871115],"type":"Point"}
 }

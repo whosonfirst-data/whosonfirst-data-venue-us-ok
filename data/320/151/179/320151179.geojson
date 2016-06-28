@@ -2,13 +2,14 @@
   "id": 320151179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.37107,35.439368,-97.37107,35.439368",
     "geom:latitude":35.439368,
     "geom:longitude":-97.37107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 S Douglas Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320151179,
-    "wof:lastmodified":1449011295,
+    "wof:lastmodified":1466764398,
     "wof:name":"Jeff Johnson Auto Sales",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.37107,35.439368,-97.37107,35.439368],
+  "bbox": [
+    -97.37107,
+    35.439368,
+    -97.37107,
+    35.439368
+],
   "geometry": {"coordinates":[-97.37107,35.439368],"type":"Point"}
 }

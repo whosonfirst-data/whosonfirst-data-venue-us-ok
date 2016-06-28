@@ -2,13 +2,14 @@
   "id": 320190979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.915506,36.090147,-95.915506,36.090147",
     "geom:latitude":36.090147,
     "geom:longitude":-95.915506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4835 S Fulton Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320190979,
-    "wof:lastmodified":1449014720,
+    "wof:lastmodified":1466764570,
     "wof:name":"John A Bower DDS",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.915506,36.090147,-95.915506,36.090147],
-  "geometry": {"coordinates":[-95.915506,36.090147],"type":"Point"}
+  "bbox": [
+    -95.915506,
+    36.090147,
+    -95.915506,
+    36.090147
+],
+  "geometry": {"coordinates":[-95.91550599999999,36.090147],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303649807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.520508,35.479938,-97.520508,35.479938",
     "geom:latitude":35.479938,
     "geom:longitude":-97.520508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 NW 11th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303649807,
-    "wof:lastmodified":1448999783,
+    "wof:lastmodified":1466766243,
     "wof:name":"Murray Cox & Murray",
     "wof:parent_id":85871701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.520508,35.479938,-97.520508,35.479938],
-  "geometry": {"coordinates":[-97.520508,35.479938],"type":"Point"}
+  "bbox": [
+    -97.520508,
+    35.479938,
+    -97.520508,
+    35.479938
+],
+  "geometry": {"coordinates":[-97.52050800000001,35.479938],"type":"Point"}
 }

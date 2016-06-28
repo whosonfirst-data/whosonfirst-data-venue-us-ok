@@ -2,13 +2,14 @@
   "id": 319887667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.558241,35.359492,-97.558241,35.359492",
     "geom:latitude":35.359492,
     "geom:longitude":-97.558241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 SW 108th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319887667,
-    "wof:lastmodified":1449024724,
+    "wof:lastmodified":1466763457,
     "wof:name":"Legacy Developers",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.558241,35.359492,-97.558241,35.359492],
+  "bbox": [
+    -97.558241,
+    35.359492,
+    -97.558241,
+    35.359492
+],
   "geometry": {"coordinates":[-97.558241,35.359492],"type":"Point"}
 }

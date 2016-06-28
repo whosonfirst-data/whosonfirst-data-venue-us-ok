@@ -2,13 +2,14 @@
   "id": 303240799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.668882,34.765257,-96.668882,34.765257",
     "geom:latitude":34.765257,
     "geom:longitude":-96.668882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Cradduck Rd",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303240799,
-    "wof:lastmodified":1448998378,
+    "wof:lastmodified":1466764664,
     "wof:name":"Langley Vernon Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-96.668882,34.765257,-96.668882,34.765257],
+  "bbox": [
+    -96.668882,
+    34.765257,
+    -96.668882,
+    34.765257
+],
   "geometry": {"coordinates":[-96.668882,34.765257],"type":"Point"}
 }

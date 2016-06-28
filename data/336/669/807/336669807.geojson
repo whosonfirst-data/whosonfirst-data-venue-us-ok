@@ -2,13 +2,14 @@
   "id": 336669807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.53411,35.474869,-97.53411,35.474869",
     "geom:latitude":35.474869,
     "geom:longitude":-97.53411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1327 Linwood Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336669807,
-    "wof:lastmodified":1448997053,
+    "wof:lastmodified":1466763251,
     "wof:name":"Eric Reynolds Attorney At Law",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.53411,35.474869,-97.53411,35.474869],
+  "bbox": [
+    -97.53411,
+    35.474869,
+    -97.53411,
+    35.474869
+],
   "geometry": {"coordinates":[-97.53411,35.474869],"type":"Point"}
 }

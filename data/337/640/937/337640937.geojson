@@ -2,13 +2,14 @@
   "id": 337640937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.463968,36.309978,-96.463968,36.309978",
     "geom:latitude":36.309978,
     "geom:longitude":-96.463968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N Broadway St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337640937,
-    "wof:lastmodified":1449027293,
+    "wof:lastmodified":1466763435,
     "wof:name":"Video Showcase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-96.463968,36.309978,-96.463968,36.309978],
-  "geometry": {"coordinates":[-96.463968,36.309978],"type":"Point"}
+  "bbox": [
+    -96.463968,
+    36.309978,
+    -96.463968,
+    36.309978
+],
+  "geometry": {"coordinates":[-96.46396799999999,36.309978],"type":"Point"}
 }

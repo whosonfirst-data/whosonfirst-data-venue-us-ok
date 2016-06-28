@@ -2,13 +2,14 @@
   "id": 303851287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.437017,35.667132,-97.437017,35.667132",
     "geom:latitude":35.667132,
     "geom:longitude":-97.437017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 E Danforth Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303851287,
-    "wof:lastmodified":1448999726,
+    "wof:lastmodified":1466766956,
     "wof:name":"Wood Creek",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wood"
     ]
 },
-  "bbox": [-97.437017,35.667132,-97.437017,35.667132],
+  "bbox": [
+    -97.437017,
+    35.667132,
+    -97.437017,
+    35.667132
+],
   "geometry": {"coordinates":[-97.437017,35.667132],"type":"Point"}
 }

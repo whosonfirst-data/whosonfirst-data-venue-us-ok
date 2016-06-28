@@ -2,13 +2,14 @@
   "id": 320104259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.866122,36.280772,-95.866122,36.280772",
     "geom:latitude":36.280772,
     "geom:longitude":-95.866122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8751 N 97th East Ave",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320104259,
-    "wof:lastmodified":1449012807,
+    "wof:lastmodified":1466763828,
     "wof:name":"P V Aero",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-95.866122,36.280772,-95.866122,36.280772],
+  "bbox": [
+    -95.866122,
+    36.280772,
+    -95.866122,
+    36.280772
+],
   "geometry": {"coordinates":[-95.866122,36.280772],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336601915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990614,36.751381,-95.990614,36.751381",
     "geom:latitude":36.751381,
     "geom:longitude":-95.990614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 S Penn Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336601915,
-    "wof:lastmodified":1448997432,
+    "wof:lastmodified":1466764156,
     "wof:name":"Tuesday House Thrift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.990614,36.751381,-95.990614,36.751381],
-  "geometry": {"coordinates":[-95.990614,36.751381],"type":"Point"}
+  "bbox": [
+    -95.990614,
+    36.751381,
+    -95.990614,
+    36.751381
+],
+  "geometry": {"coordinates":[-95.99061399999999,36.751381],"type":"Point"}
 }

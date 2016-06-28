@@ -2,13 +2,14 @@
   "id": 303998205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.96454,35.623943,-95.96454,35.623943",
     "geom:latitude":35.623943,
     "geom:longitude":-95.96454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 E 5th St",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303998205,
-    "wof:lastmodified":1448998925,
+    "wof:lastmodified":1466767083,
     "wof:name":"Burlington Northern Santa Fe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.96454,35.623943,-95.96454,35.623943],
+  "bbox": [
+    -95.96454,
+    35.623943,
+    -95.96454,
+    35.623943
+],
   "geometry": {"coordinates":[-95.96454,35.623943],"type":"Point"}
 }

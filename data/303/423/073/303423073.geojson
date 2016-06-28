@@ -2,13 +2,14 @@
   "id": 303423073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.886451,36.889013,-94.886451,36.889013",
     "geom:latitude":36.889013,
     "geom:longitude":-94.886451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Goodrich Blvd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303423073,
-    "wof:lastmodified":1448998520,
+    "wof:lastmodified":1466765671,
     "wof:name":"Kays Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-94.886451,36.889013,-94.886451,36.889013],
-  "geometry": {"coordinates":[-94.886451,36.889013],"type":"Point"}
+  "bbox": [
+    -94.886451,
+    36.889013,
+    -94.886451,
+    36.889013
+],
+  "geometry": {"coordinates":[-94.88645099999999,36.889013],"type":"Point"}
 }

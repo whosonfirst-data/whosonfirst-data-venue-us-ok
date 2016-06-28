@@ -2,13 +2,14 @@
   "id": 354079105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.40469,36.435896,-99.40469,36.435896",
     "geom:latitude":36.435896,
     "geom:longitude":-99.40469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 Main Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354079105,
-    "wof:lastmodified":1449067363,
+    "wof:lastmodified":1466763428,
     "wof:name":"Northwest Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.40469,36.435896,-99.40469,36.435896],
+  "bbox": [
+    -99.40469,
+    36.435896,
+    -99.40469,
+    36.435896
+],
   "geometry": {"coordinates":[-99.40469,36.435896],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320408309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.899122,36.100136,-95.899122,36.100136",
     "geom:latitude":36.100136,
     "geom:longitude":-95.899122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 E 44th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320408309,
-    "wof:lastmodified":1449011707,
+    "wof:lastmodified":1466765760,
     "wof:name":"Plastic Engineering Co",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.899122,36.100136,-95.899122,36.100136],
-  "geometry": {"coordinates":[-95.899122,36.100136],"type":"Point"}
+  "bbox": [
+    -95.899122,
+    36.100136,
+    -95.899122,
+    36.100136
+],
+  "geometry": {"coordinates":[-95.89912200000001,36.100136],"type":"Point"}
 }

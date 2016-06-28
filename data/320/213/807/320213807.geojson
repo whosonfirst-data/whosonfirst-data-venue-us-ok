@@ -2,13 +2,14 @@
   "id": 320213807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406326,35.478581,-97.406326,35.478581",
     "geom:latitude":35.478581,
     "geom:longitude":-97.406326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 N Air Depot Blvd",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320213807,
-    "wof:lastmodified":1449011298,
+    "wof:lastmodified":1466764545,
     "wof:name":"Psychiatric Associates Inc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.406326,35.478581,-97.406326,35.478581],
-  "geometry": {"coordinates":[-97.406326,35.478581],"type":"Point"}
+  "bbox": [
+    -97.406326,
+    35.478581,
+    -97.406326,
+    35.478581
+],
+  "geometry": {"coordinates":[-97.40632600000001,35.478581],"type":"Point"}
 }

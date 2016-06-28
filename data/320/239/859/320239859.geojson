@@ -2,13 +2,14 @@
   "id": 320239859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.7905,35.812801,-95.7905,35.812801",
     "geom:latitude":35.812801,
     "geom:longitude":-95.7905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22675 Ferguson Rd",
     "sg:city":"Haskell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320239859,
-    "wof:lastmodified":1449011597,
+    "wof:lastmodified":1466764706,
     "wof:name":"Monty Hobbs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-95.7905,35.812801,-95.7905,35.812801],
-  "geometry": {"coordinates":[-95.7905,35.812801],"type":"Point"}
+  "bbox": [
+    -95.7905,
+    35.812801,
+    -95.7905,
+    35.812801
+],
+  "geometry": {"coordinates":[-95.79049999999999,35.812801],"type":"Point"}
 }

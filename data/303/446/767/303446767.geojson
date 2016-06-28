@@ -2,13 +2,14 @@
   "id": 303446767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.636564,35.47247,-97.636564,35.47247",
     "geom:latitude":35.47247,
     "geom:longitude":-97.636564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 N Rockwell Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303446767,
-    "wof:lastmodified":1449000358,
+    "wof:lastmodified":1466765665,
     "wof:name":"Rockwell Terrace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.636564,35.47247,-97.636564,35.47247],
-  "geometry": {"coordinates":[-97.636564,35.47247],"type":"Point"}
+  "bbox": [
+    -97.636564,
+    35.47247,
+    -97.636564,
+    35.47247
+],
+  "geometry": {"coordinates":[-97.63656400000001,35.47247],"type":"Point"}
 }

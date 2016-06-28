@@ -2,13 +2,14 @@
   "id": 303609477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.311725,34.354781,-98.311725,34.354781",
     "geom:latitude":34.354781,
     "geom:longitude":-98.311725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 W Nevada Ave",
     "sg:city":"Walters",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303609477,
-    "wof:lastmodified":1448999028,
+    "wof:lastmodified":1466766229,
     "wof:name":"Walters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tourist"
     ]
 },
-  "bbox": [-98.311725,34.354781,-98.311725,34.354781],
+  "bbox": [
+    -98.311725,
+    34.354781,
+    -98.311725,
+    34.354781
+],
   "geometry": {"coordinates":[-98.311725,34.354781],"type":"Point"}
 }

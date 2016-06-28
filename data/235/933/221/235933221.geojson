@@ -2,13 +2,14 @@
   "id": 235933221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.906753,36.089182,-95.906753,36.089182",
     "geom:latitude":36.089182,
     "geom:longitude":-95.906753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6110 E 51st Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":235933221,
-    "wof:lastmodified":1449008328,
+    "wof:lastmodified":1466762398,
     "wof:name":"USPS - United States Post Office - Sheridan Station",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.906753,36.089182,-95.906753,36.089182],
-  "geometry": {"coordinates":[-95.906753,36.089182],"type":"Point"}
+  "bbox": [
+    -95.906753,
+    36.089182,
+    -95.906753,
+    36.089182
+],
+  "geometry": {"coordinates":[-95.90675299999999,36.089182],"type":"Point"}
 }

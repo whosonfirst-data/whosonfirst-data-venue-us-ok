@@ -2,13 +2,14 @@
   "id": 353876123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406231,35.455535,-97.406231,35.455535",
     "geom:latitude":35.455535,
     "geom:longitude":-97.406231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 S Air Depot Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353876123,
-    "wof:lastmodified":1449018770,
+    "wof:lastmodified":1466765598,
     "wof:name":"Blockbuster",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-97.406231,35.455535,-97.406231,35.455535],
-  "geometry": {"coordinates":[-97.406231,35.455535],"type":"Point"}
+  "bbox": [
+    -97.406231,
+    35.455535,
+    -97.406231,
+    35.455535
+],
+  "geometry": {"coordinates":[-97.40623100000001,35.455535],"type":"Point"}
 }

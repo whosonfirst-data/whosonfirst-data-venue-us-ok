@@ -2,13 +2,14 @@
   "id": 303156597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.543382,35.470963,-97.543382,35.470963",
     "geom:latitude":35.470963,
     "geom:longitude":-97.543382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 NW 3rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303156597,
-    "wof:lastmodified":1448998600,
+    "wof:lastmodified":1466764140,
     "wof:name":"National Web Envelope Corp",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-97.543382,35.470963,-97.543382,35.470963],
-  "geometry": {"coordinates":[-97.543382,35.470963],"type":"Point"}
+  "bbox": [
+    -97.543382,
+    35.470963,
+    -97.543382,
+    35.470963
+],
+  "geometry": {"coordinates":[-97.54338199999999,35.470963],"type":"Point"}
 }

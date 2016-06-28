@@ -2,13 +2,14 @@
   "id": 354083377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565542,35.467863,-97.565542,35.467863",
     "geom:latitude":35.467863,
     "geom:longitude":-97.565542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354083377,
-    "wof:lastmodified":1449066727,
+    "wof:lastmodified":1466763449,
     "wof:name":"Woodcrest Realty",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.565542,35.467863,-97.565542,35.467863],
-  "geometry": {"coordinates":[-97.565542,35.467863],"type":"Point"}
+  "bbox": [
+    -97.565542,
+    35.467863,
+    -97.565542,
+    35.467863
+],
+  "geometry": {"coordinates":[-97.56554199999999,35.467863],"type":"Point"}
 }

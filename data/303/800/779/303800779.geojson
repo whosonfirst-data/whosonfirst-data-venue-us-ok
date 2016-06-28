@@ -2,13 +2,14 @@
   "id": 303800779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.47656,35.402942,-97.47656,35.402942",
     "geom:latitude":35.402942,
     "geom:longitude":-97.47656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6408 S Eastern Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303800779,
-    "wof:lastmodified":1448998312,
+    "wof:lastmodified":1466766733,
     "wof:name":"Strategic Energy Partnr Co",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-97.47656,35.402942,-97.47656,35.402942],
-  "geometry": {"coordinates":[-97.47656,35.402942],"type":"Point"}
+  "bbox": [
+    -97.47656,
+    35.402942,
+    -97.47656,
+    35.402942
+],
+  "geometry": {"coordinates":[-97.47656000000001,35.402942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304063865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.920888,36.396052,-97.920888,36.396052",
     "geom:latitude":36.396052,
     "geom:longitude":-97.920888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 S Jane Ln",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":304063865,
-    "wof:lastmodified":1449043614,
+    "wof:lastmodified":1466763196,
     "wof:name":"Majaco Office Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.920888,36.396052,-97.920888,36.396052],
-  "geometry": {"coordinates":[-97.920888,36.396052],"type":"Point"}
+  "bbox": [
+    -97.920888,
+    36.396052,
+    -97.920888,
+    36.396052
+],
+  "geometry": {"coordinates":[-97.92088800000001,36.396052],"type":"Point"}
 }

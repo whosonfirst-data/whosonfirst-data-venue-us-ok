@@ -2,13 +2,14 @@
   "id": 320269029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.917371,36.047253,-95.917371,36.047253",
     "geom:latitude":36.047253,
     "geom:longitude":-95.917371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8004 S Darlington Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320269029,
-    "wof:lastmodified":1449013598,
+    "wof:lastmodified":1466764901,
     "wof:name":"John D Fisher PC",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-95.917371,36.047253,-95.917371,36.047253],
+  "bbox": [
+    -95.917371,
+    36.047253,
+    -95.917371,
+    36.047253
+],
   "geometry": {"coordinates":[-95.917371,36.047253],"type":"Point"}
 }

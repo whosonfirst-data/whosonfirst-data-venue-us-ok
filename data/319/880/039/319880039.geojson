@@ -2,13 +2,14 @@
   "id": 319880039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.972177,35.522465,-97.972177,35.522465",
     "geom:latitude":35.522465,
     "geom:longitude":-97.972177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 W Elm St",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319880039,
-    "wof:lastmodified":1449024882,
+    "wof:lastmodified":1466763413,
     "wof:name":"LA Villa Apartments",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.972177,35.522465,-97.972177,35.522465],
+  "bbox": [
+    -97.972177,
+    35.522465,
+    -97.972177,
+    35.522465
+],
   "geometry": {"coordinates":[-97.972177,35.522465],"type":"Point"}
 }

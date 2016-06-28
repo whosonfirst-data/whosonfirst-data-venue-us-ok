@@ -2,13 +2,14 @@
   "id": 303289037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.258102,35.167516,-97.258102,35.167516",
     "geom:latitude":35.167516,
     "geom:longitude":-97.258102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12415 Nelson Ln",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303289037,
-    "wof:lastmodified":1449000157,
+    "wof:lastmodified":1466764802,
     "wof:name":"Suttle Building Co",
     "wof:parent_id":85814357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.258102,35.167516,-97.258102,35.167516],
-  "geometry": {"coordinates":[-97.258102,35.167516],"type":"Point"}
+  "bbox": [
+    -97.258102,
+    35.167516,
+    -97.258102,
+    35.167516
+],
+  "geometry": {"coordinates":[-97.25810199999999,35.167516],"type":"Point"}
 }

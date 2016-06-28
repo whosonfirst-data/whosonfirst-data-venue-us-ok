@@ -2,13 +2,14 @@
   "id": 303100905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.794617,36.05133,-95.794617,36.05133",
     "geom:latitude":36.05133,
     "geom:longitude":-95.794617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 W Commercial St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303100905,
-    "wof:lastmodified":1448999930,
+    "wof:lastmodified":1466763250,
     "wof:name":"Taylor Welding",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-95.794617,36.05133,-95.794617,36.05133],
+  "bbox": [
+    -95.794617,
+    36.05133,
+    -95.794617,
+    36.05133
+],
   "geometry": {"coordinates":[-95.794617,36.05133],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303456135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.813644,36.333159,-96.813644,36.333159",
     "geom:latitude":36.333159,
     "geom:longitude":-96.813644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Pawnee Bill Rd",
     "sg:city":"Pawnee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303456135,
-    "wof:lastmodified":1448998842,
+    "wof:lastmodified":1466765681,
     "wof:name":"Ferguson Workshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.813644,36.333159,-96.813644,36.333159],
+  "bbox": [
+    -96.813644,
+    36.333159,
+    -96.813644,
+    36.333159
+],
   "geometry": {"coordinates":[-96.813644,36.333159],"type":"Point"}
 }

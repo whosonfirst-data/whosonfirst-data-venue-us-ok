@@ -2,13 +2,14 @@
   "id": 320841041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.130345,36.141248,-96.130345,36.141248",
     "geom:latitude":36.141248,
     "geom:longitude":-96.130345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Keystone Expy",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320841041,
-    "wof:lastmodified":1449012040,
+    "wof:lastmodified":1466766939,
     "wof:name":"Ozark Legends Racing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.130345,36.141248,-96.130345,36.141248],
-  "geometry": {"coordinates":[-96.130345,36.141248],"type":"Point"}
+  "bbox": [
+    -96.130345,
+    36.141248,
+    -96.130345,
+    36.141248
+],
+  "geometry": {"coordinates":[-96.13034500000001,36.141248],"type":"Point"}
 }

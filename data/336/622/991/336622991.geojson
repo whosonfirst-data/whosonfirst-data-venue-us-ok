@@ -2,13 +2,14 @@
   "id": 336622991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.824857,36.105069,-95.824857,36.105069",
     "geom:latitude":36.105069,
     "geom:longitude":-95.824857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13515 E 40th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336622991,
-    "wof:lastmodified":1448997835,
+    "wof:lastmodified":1466762542,
     "wof:name":"BJM Consulting Inc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-95.824857,36.105069,-95.824857,36.105069],
-  "geometry": {"coordinates":[-95.824857,36.105069],"type":"Point"}
+  "bbox": [
+    -95.824857,
+    36.105069,
+    -95.824857,
+    36.105069
+],
+  "geometry": {"coordinates":[-95.82485699999999,36.105069],"type":"Point"}
 }

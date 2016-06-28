@@ -2,13 +2,14 @@
   "id": 336614083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10149,35.427497,-97.10149,35.427497",
     "geom:latitude":35.427497,
     "geom:longitude":-97.10149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 W Seikel Blvd",
     "sg:city":"Dale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336614083,
-    "wof:lastmodified":1448998049,
+    "wof:lastmodified":1466762396,
     "wof:name":"Plum Creek Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.10149,35.427497,-97.10149,35.427497],
+  "bbox": [
+    -97.10149,
+    35.427497,
+    -97.10149,
+    35.427497
+],
   "geometry": {"coordinates":[-97.10149,35.427497],"type":"Point"}
 }

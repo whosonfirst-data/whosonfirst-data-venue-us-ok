@@ -2,13 +2,14 @@
   "id": 304080995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.789657,36.051301,-95.789657,36.051301",
     "geom:latitude":36.051301,
     "geom:longitude":-95.789657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 E Commercial St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304080995,
-    "wof:lastmodified":1449044149,
+    "wof:lastmodified":1466763306,
     "wof:name":"Broken Arrow Assembly of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.789657,36.051301,-95.789657,36.051301],
-  "geometry": {"coordinates":[-95.789657,36.051301],"type":"Point"}
+  "bbox": [
+    -95.789657,
+    36.051301,
+    -95.789657,
+    36.051301
+],
+  "geometry": {"coordinates":[-95.78965700000001,36.051301],"type":"Point"}
 }

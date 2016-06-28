@@ -2,13 +2,14 @@
   "id": 320332399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.862288,36.060972,-95.862288,36.060972",
     "geom:latitude":36.060972,
     "geom:longitude":-95.862288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10303 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320332399,
-    "wof:lastmodified":1449013339,
+    "wof:lastmodified":1466765364,
     "wof:name":"Seasonal Concepts Inc",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "florist"
     ]
 },
-  "bbox": [-95.862288,36.060972,-95.862288,36.060972],
-  "geometry": {"coordinates":[-95.862288,36.060972],"type":"Point"}
+  "bbox": [
+    -95.862288,
+    36.060972,
+    -95.862288,
+    36.060972
+],
+  "geometry": {"coordinates":[-95.86228800000001,36.060972],"type":"Point"}
 }

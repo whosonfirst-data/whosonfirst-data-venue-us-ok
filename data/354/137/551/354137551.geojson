@@ -2,13 +2,14 @@
   "id": 354137551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.407342,36.399273,-99.407342,36.399273",
     "geom:latitude":36.399273,
     "geom:longitude":-99.407342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4848 22nd St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354137551,
-    "wof:lastmodified":1449067428,
+    "wof:lastmodified":1466763649,
     "wof:name":"Northwest Overhead Door",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.407342,36.399273,-99.407342,36.399273],
+  "bbox": [
+    -99.407342,
+    36.399273,
+    -99.407342,
+    36.399273
+],
   "geometry": {"coordinates":[-99.407342,36.399273],"type":"Point"}
 }

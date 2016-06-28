@@ -2,13 +2,14 @@
   "id": 353637697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.601069,35.443941,-97.601069,35.443941",
     "geom:latitude":35.443941,
     "geom:longitude":-97.601069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 S Meridian Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353637697,
-    "wof:lastmodified":1449018264,
+    "wof:lastmodified":1466764592,
     "wof:name":"Wingate Inn",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-97.601069,35.443941,-97.601069,35.443941],
+  "bbox": [
+    -97.601069,
+    35.443941,
+    -97.601069,
+    35.443941
+],
   "geometry": {"coordinates":[-97.601069,35.443941],"type":"Point"}
 }

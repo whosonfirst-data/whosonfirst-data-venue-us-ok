@@ -2,13 +2,14 @@
   "id": 320158481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.499827,35.395004,-97.499827,35.395004",
     "geom:latitude":35.395004,
     "geom:longitude":-97.499827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 SE 71st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320158481,
-    "wof:lastmodified":1449013762,
+    "wof:lastmodified":1466764278,
     "wof:name":"W & W Construction",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "foundation"
     ]
 },
-  "bbox": [-97.499827,35.395004,-97.499827,35.395004],
+  "bbox": [
+    -97.499827,
+    35.395004,
+    -97.499827,
+    35.395004
+],
   "geometry": {"coordinates":[-97.499827,35.395004],"type":"Point"}
 }

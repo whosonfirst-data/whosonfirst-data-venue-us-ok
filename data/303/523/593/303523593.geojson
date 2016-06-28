@@ -2,13 +2,14 @@
   "id": 303523593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.470756,35.673142,-97.470756,35.673142",
     "geom:latitude":35.673142,
     "geom:longitude":-97.470756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Quail Ridge Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303523593,
-    "wof:lastmodified":1448999530,
+    "wof:lastmodified":1466765940,
     "wof:name":"Portfolio Inc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.470756,35.673142,-97.470756,35.673142],
-  "geometry": {"coordinates":[-97.470756,35.673142],"type":"Point"}
+  "bbox": [
+    -97.470756,
+    35.673142,
+    -97.470756,
+    35.673142
+],
+  "geometry": {"coordinates":[-97.47075599999999,35.673142],"type":"Point"}
 }

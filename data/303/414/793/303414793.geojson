@@ -2,13 +2,14 @@
   "id": 303414793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.911945,36.134645,-95.911945,36.134645",
     "geom:latitude":36.134645,
     "geom:longitude":-95.911945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1827 S Irvington Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303414793,
-    "wof:lastmodified":1448999260,
+    "wof:lastmodified":1466765389,
     "wof:name":"Tulsa Exteriors Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.911945,36.134645,-95.911945,36.134645],
+  "bbox": [
+    -95.911945,
+    36.134645,
+    -95.911945,
+    36.134645
+],
   "geometry": {"coordinates":[-95.911945,36.134645],"type":"Point"}
 }

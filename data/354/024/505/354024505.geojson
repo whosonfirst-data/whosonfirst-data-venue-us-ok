@@ -2,13 +2,14 @@
   "id": 354024505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.940123,34.550763,-97.940123,34.550763",
     "geom:latitude":34.550763,
     "geom:longitude":-97.940123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 E Camelback Rd",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354024505,
-    "wof:lastmodified":1449066733,
+    "wof:lastmodified":1466763097,
     "wof:name":"Miller's Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.940123,34.550763,-97.940123,34.550763],
+  "bbox": [
+    -97.940123,
+    34.550763,
+    -97.940123,
+    34.550763
+],
   "geometry": {"coordinates":[-97.940123,34.550763],"type":"Point"}
 }

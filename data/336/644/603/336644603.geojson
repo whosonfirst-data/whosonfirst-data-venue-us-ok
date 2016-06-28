@@ -2,13 +2,14 @@
   "id": 336644603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.985481,36.145352,-95.985481,36.145352",
     "geom:latitude":36.145352,
     "geom:longitude":-95.985481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 S Boston Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336644603,
-    "wof:lastmodified":1448997550,
+    "wof:lastmodified":1466762868,
     "wof:name":"Yale Manor Apartments",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-95.985481,36.145352,-95.985481,36.145352],
-  "geometry": {"coordinates":[-95.985481,36.145352],"type":"Point"}
+  "bbox": [
+    -95.985481,
+    36.145352,
+    -95.985481,
+    36.145352
+],
+  "geometry": {"coordinates":[-95.98548099999999,36.145352],"type":"Point"}
 }

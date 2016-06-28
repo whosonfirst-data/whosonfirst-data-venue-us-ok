@@ -2,13 +2,14 @@
   "id": 320371715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.427327,34.601845,-98.427327,34.601845",
     "geom:latitude":34.601845,
     "geom:longitude":-98.427327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 SW 25th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320371715,
-    "wof:lastmodified":1449014136,
+    "wof:lastmodified":1466765583,
     "wof:name":"Hunting Horse United Methodist",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.427327,34.601845,-98.427327,34.601845],
-  "geometry": {"coordinates":[-98.427327,34.601845],"type":"Point"}
+  "bbox": [
+    -98.427327,
+    34.601845,
+    -98.427327,
+    34.601845
+],
+  "geometry": {"coordinates":[-98.42732700000001,34.601845],"type":"Point"}
 }

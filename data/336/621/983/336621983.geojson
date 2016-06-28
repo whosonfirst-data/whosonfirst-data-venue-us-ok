@@ -2,13 +2,14 @@
   "id": 336621983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.583415,35.44185,-97.583415,35.44185",
     "geom:latitude":35.44185,
     "geom:longitude":-97.583415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2203 S Portland Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336621983,
-    "wof:lastmodified":1448997894,
+    "wof:lastmodified":1466762523,
     "wof:name":"Adventure Truck Repair & Svc",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-97.583415,35.44185,-97.583415,35.44185],
+  "bbox": [
+    -97.583415,
+    35.44185,
+    -97.583415,
+    35.44185
+],
   "geometry": {"coordinates":[-97.583415,35.44185],"type":"Point"}
 }

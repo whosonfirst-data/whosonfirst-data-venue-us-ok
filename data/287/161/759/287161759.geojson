@@ -2,13 +2,14 @@
   "id": 287161759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.129551,35.261504,-95.129551,35.261504",
     "geom:latitude":35.261504,
     "geom:longitude":-95.129551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 NW 5th St",
     "sg:city":"Stigler",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287161759,
-    "wof:lastmodified":1449001020,
+    "wof:lastmodified":1466763726,
     "wof:name":"Woodson Family Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.129551,35.261504,-95.129551,35.261504],
-  "geometry": {"coordinates":[-95.129551,35.261504],"type":"Point"}
+  "bbox": [
+    -95.129551,
+    35.261504,
+    -95.129551,
+    35.261504
+],
+  "geometry": {"coordinates":[-95.12955100000001,35.261504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353879713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.912607,36.181679,-95.912607,36.181679",
     "geom:latitude":36.181679,
     "geom:longitude":-95.912607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5519 E Tecumseh St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":353879713,
-    "wof:lastmodified":1449018291,
+    "wof:lastmodified":1466765733,
     "wof:name":"Dawson Building Supply & Salv",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.912607,36.181679,-95.912607,36.181679],
-  "geometry": {"coordinates":[-95.912607,36.181679],"type":"Point"}
+  "bbox": [
+    -95.912607,
+    36.181679,
+    -95.912607,
+    36.181679
+],
+  "geometry": {"coordinates":[-95.91260699999999,36.181679],"type":"Point"}
 }

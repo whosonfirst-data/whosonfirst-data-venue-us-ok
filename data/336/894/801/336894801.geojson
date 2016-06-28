@@ -2,13 +2,14 @@
   "id": 336894801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.628085,35.072874,-94.628085,35.072874",
     "geom:latitude":35.072874,
     "geom:longitude":-94.628085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Coggins St",
     "sg:city":"Poteau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336894801,
-    "wof:lastmodified":1448997390,
+    "wof:lastmodified":1466765063,
     "wof:name":"In Tower Drive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drive"
     ]
 },
-  "bbox": [-94.628085,35.072874,-94.628085,35.072874],
+  "bbox": [
+    -94.628085,
+    35.072874,
+    -94.628085,
+    35.072874
+],
   "geometry": {"coordinates":[-94.628085,35.072874],"type":"Point"}
 }

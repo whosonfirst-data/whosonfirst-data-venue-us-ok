@@ -2,13 +2,14 @@
   "id": 320077105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.865049,36.096641,-95.865049,36.096641",
     "geom:latitude":36.096641,
     "geom:longitude":-95.865049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9708 E 46th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320077105,
-    "wof:lastmodified":1449011848,
+    "wof:lastmodified":1466763432,
     "wof:name":"Auto Interiors",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-95.865049,36.096641,-95.865049,36.096641],
+  "bbox": [
+    -95.865049,
+    36.096641,
+    -95.865049,
+    36.096641
+],
   "geometry": {"coordinates":[-95.865049,36.096641],"type":"Point"}
 }

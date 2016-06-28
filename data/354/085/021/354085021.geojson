@@ -2,13 +2,14 @@
   "id": 354085021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.449429,35.098229,-97.449429,35.098229",
     "geom:latitude":35.098229,
     "geom:longitude":-97.449429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3776 Pine Ln N",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354085021,
-    "wof:lastmodified":1449066338,
+    "wof:lastmodified":1466764203,
     "wof:name":"J & J Jewerely",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-97.449429,35.098229,-97.449429,35.098229],
-  "geometry": {"coordinates":[-97.449429,35.098229],"type":"Point"}
+  "bbox": [
+    -97.449429,
+    35.098229,
+    -97.449429,
+    35.098229
+],
+  "geometry": {"coordinates":[-97.44942899999999,35.098229],"type":"Point"}
 }

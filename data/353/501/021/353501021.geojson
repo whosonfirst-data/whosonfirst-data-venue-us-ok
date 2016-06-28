@@ -2,13 +2,14 @@
   "id": 353501021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.754668,36.312546,-95.754668,36.312546",
     "geom:latitude":36.312546,
     "geom:longitude":-95.754668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19555 E 108th St N",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353501021,
-    "wof:lastmodified":1449020819,
+    "wof:lastmodified":1466763131,
     "wof:name":"Forensic Photograph",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-95.754668,36.312546,-95.754668,36.312546],
+  "bbox": [
+    -95.754668,
+    36.312546,
+    -95.754668,
+    36.312546
+],
   "geometry": {"coordinates":[-95.754668,36.312546],"type":"Point"}
 }

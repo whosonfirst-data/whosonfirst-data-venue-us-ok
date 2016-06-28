@@ -2,13 +2,14 @@
   "id": 303515899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749199,35.391647,-97.749199,35.391647",
     "geom:latitude":35.391647,
     "geom:longitude":-97.749199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 State Hwy 152",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303515899,
-    "wof:lastmodified":1448998679,
+    "wof:lastmodified":1466765910,
     "wof:name":"Mike Hale Auto Sales Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.749199,35.391647,-97.749199,35.391647],
+  "bbox": [
+    -97.749199,
+    35.391647,
+    -97.749199,
+    35.391647
+],
   "geometry": {"coordinates":[-97.749199,35.391647],"type":"Point"}
 }

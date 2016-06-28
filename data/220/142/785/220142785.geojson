@@ -2,13 +2,14 @@
   "id": 220142785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.85244,34.82843,-99.85244,34.82843",
     "geom:latitude":34.82843,
     "geom:longitude":-99.85244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14473 N 1740 Rd",
     "sg:city":"Vinson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220142785,
-    "wof:lastmodified":1449074678,
+    "wof:lastmodified":1466763847,
     "wof:name":"Vinson Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-99.85244,34.82843,-99.85244,34.82843],
+  "bbox": [
+    -99.85244,
+    34.82843,
+    -99.85244,
+    34.82843
+],
   "geometry": {"coordinates":[-99.85244,34.82843],"type":"Point"}
 }

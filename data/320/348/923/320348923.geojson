@@ -2,13 +2,14 @@
   "id": 320348923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.984134,36.153677,-95.984134,36.153677",
     "geom:latitude":36.153677,
     "geom:longitude":-95.984134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 S Frankfort Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320348923,
-    "wof:lastmodified":1449011424,
+    "wof:lastmodified":1466765345,
     "wof:name":"Tulsa Fire Dept",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-95.984134,36.153677,-95.984134,36.153677],
+  "bbox": [
+    -95.984134,
+    36.153677,
+    -95.984134,
+    36.153677
+],
   "geometry": {"coordinates":[-95.984134,36.153677],"type":"Point"}
 }

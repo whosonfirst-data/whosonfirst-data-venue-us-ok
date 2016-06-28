@@ -2,13 +2,14 @@
   "id": 336645827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.601036,35.43525,-97.601036,35.43525",
     "geom:latitude":35.43525,
     "geom:longitude":-97.601036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 S Meridian Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336645827,
-    "wof:lastmodified":1448997044,
+    "wof:lastmodified":1466762887,
     "wof:name":"Szabinas Strike Zone Pro Shop",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-97.601036,35.43525,-97.601036,35.43525],
-  "geometry": {"coordinates":[-97.601036,35.43525],"type":"Point"}
+  "bbox": [
+    -97.601036,
+    35.43525,
+    -97.601036,
+    35.43525
+],
+  "geometry": {"coordinates":[-97.60103599999999,35.43525],"type":"Point"}
 }

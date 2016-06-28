@@ -2,13 +2,14 @@
   "id": 303485195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.053599,36.885079,-97.053599,36.885079",
     "geom:latitude":36.885079,
     "geom:longitude":-97.053599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Main St",
     "sg:city":"Newkirk",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303485195,
-    "wof:lastmodified":1448999610,
+    "wof:lastmodified":1466765700,
     "wof:name":"Horinek's Wrecker Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-97.053599,36.885079,-97.053599,36.885079],
-  "geometry": {"coordinates":[-97.053599,36.885079],"type":"Point"}
+  "bbox": [
+    -97.053599,
+    36.885079,
+    -97.053599,
+    36.885079
+],
+  "geometry": {"coordinates":[-97.05359900000001,36.885079],"type":"Point"}
 }

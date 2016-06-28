@@ -2,13 +2,14 @@
   "id": 353574465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.505796,34.872182,-99.505796,34.872182",
     "geom:latitude":34.872182,
     "geom:longitude":-99.505796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E Lincoln St",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353574465,
-    "wof:lastmodified":1449018240,
+    "wof:lastmodified":1466764250,
     "wof:name":"Busy Bee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.505796,34.872182,-99.505796,34.872182],
+  "bbox": [
+    -99.505796,
+    34.872182,
+    -99.505796,
+    34.872182
+],
   "geometry": {"coordinates":[-99.505796,34.872182],"type":"Point"}
 }

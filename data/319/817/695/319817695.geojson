@@ -2,13 +2,14 @@
   "id": 319817695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530053,35.351077,-97.530053,35.351077",
     "geom:latitude":35.351077,
     "geom:longitude":-97.530053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11635 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319817695,
-    "wof:lastmodified":1449024728,
+    "wof:lastmodified":1466764188,
     "wof:name":"Spotted Leopard",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.530053,35.351077,-97.530053,35.351077],
+  "bbox": [
+    -97.530053,
+    35.351077,
+    -97.530053,
+    35.351077
+],
   "geometry": {"coordinates":[-97.530053,35.351077],"type":"Point"}
 }

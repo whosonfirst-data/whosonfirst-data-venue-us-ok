@@ -2,13 +2,14 @@
   "id": 336842959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.980157,36.028624,-95.980157,36.028624",
     "geom:latitude":36.028624,
     "geom:longitude":-95.980157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 W G St",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336842959,
-    "wof:lastmodified":1448997007,
+    "wof:lastmodified":1466764885,
     "wof:name":"Omega Data Svc",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-95.980157,36.028624,-95.980157,36.028624],
-  "geometry": {"coordinates":[-95.980157,36.028624],"type":"Point"}
+  "bbox": [
+    -95.980157,
+    36.028624,
+    -95.980157,
+    36.028624
+],
+  "geometry": {"coordinates":[-95.98015700000001,36.028624],"type":"Point"}
 }

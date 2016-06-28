@@ -2,13 +2,14 @@
   "id": 320809651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.339171,36.665362,-96.339171,36.665362",
     "geom:latitude":36.665362,
     "geom:longitude":-96.339171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Kihekah Ave",
     "sg:city":"Pawhuska",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320809651,
-    "wof:lastmodified":1449014299,
+    "wof:lastmodified":1466766965,
     "wof:name":"New Wave Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-96.339171,36.665362,-96.339171,36.665362],
-  "geometry": {"coordinates":[-96.339171,36.665362],"type":"Point"}
+  "bbox": [
+    -96.339171,
+    36.665362,
+    -96.339171,
+    36.665362
+],
+  "geometry": {"coordinates":[-96.33917099999999,36.665362],"type":"Point"}
 }

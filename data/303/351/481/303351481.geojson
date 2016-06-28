@@ -2,13 +2,14 @@
   "id": 303351481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.64407,35.583116,-97.64407,35.583116",
     "geom:latitude":35.583116,
     "geom:longitude":-97.64407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7321 NW 111th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303351481,
-    "wof:lastmodified":1449000195,
+    "wof:lastmodified":1466765179,
     "wof:name":"Provident Technologies Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "custom"
     ]
 },
-  "bbox": [-97.64407,35.583116,-97.64407,35.583116],
+  "bbox": [
+    -97.64407,
+    35.583116,
+    -97.64407,
+    35.583116
+],
   "geometry": {"coordinates":[-97.64407,35.583116],"type":"Point"}
 }

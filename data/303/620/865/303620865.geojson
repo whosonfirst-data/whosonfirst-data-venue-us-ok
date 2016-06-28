@@ -2,13 +2,14 @@
   "id": 303620865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.892423,35.365845,-96.892423,35.365845",
     "geom:latitude":35.365845,
     "geom:longitude":-96.892423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Briarwood Dr",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303620865,
-    "wof:lastmodified":1449000355,
+    "wof:lastmodified":1466766255,
     "wof:name":"Shawnee Cabinet Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-96.892423,35.365845,-96.892423,35.365845],
-  "geometry": {"coordinates":[-96.892423,35.365845],"type":"Point"}
+  "bbox": [
+    -96.892423,
+    35.365845,
+    -96.892423,
+    35.365845
+],
+  "geometry": {"coordinates":[-96.89242299999999,35.365845],"type":"Point"}
 }

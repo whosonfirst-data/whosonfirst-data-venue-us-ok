@@ -2,13 +2,14 @@
   "id": 303606147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.640828,35.147343,-97.640828,35.147343",
     "geom:latitude":35.147343,
     "geom:longitude":-97.640828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Oak Dr",
     "sg:city":"Blanchard",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303606147,
-    "wof:lastmodified":1448998498,
+    "wof:lastmodified":1466766120,
     "wof:name":"Box Investments LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-97.640828,35.147343,-97.640828,35.147343],
+  "bbox": [
+    -97.640828,
+    35.147343,
+    -97.640828,
+    35.147343
+],
   "geometry": {"coordinates":[-97.640828,35.147343],"type":"Point"}
 }

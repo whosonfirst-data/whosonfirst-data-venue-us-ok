@@ -2,13 +2,14 @@
   "id": 353684541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.969355,36.801132,-94.969355,36.801132",
     "geom:latitude":36.801132,
     "geom:longitude":-94.969355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50701 E 150 Rd",
     "sg:city":"Bluejacket",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":353684541,
-    "wof:lastmodified":1449018896,
+    "wof:lastmodified":1466764806,
     "wof:name":"Stuff and Wrap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "market"
     ]
 },
-  "bbox": [-94.969355,36.801132,-94.969355,36.801132],
-  "geometry": {"coordinates":[-94.969355,36.801132],"type":"Point"}
+  "bbox": [
+    -94.969355,
+    36.801132,
+    -94.969355,
+    36.801132
+],
+  "geometry": {"coordinates":[-94.96935499999999,36.801132],"type":"Point"}
 }

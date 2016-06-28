@@ -2,13 +2,14 @@
   "id": 320639339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.551597,35.611681,-97.551597,35.611681",
     "geom:latitude":35.611681,
     "geom:longitude":-97.551597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 NW 138th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320639339,
-    "wof:lastmodified":1449014947,
+    "wof:lastmodified":1466766366,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.551597,35.611681,-97.551597,35.611681],
+  "bbox": [
+    -97.551597,
+    35.611681,
+    -97.551597,
+    35.611681
+],
   "geometry": {"coordinates":[-97.551597,35.611681],"type":"Point"}
 }

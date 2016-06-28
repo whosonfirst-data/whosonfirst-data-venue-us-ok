@@ -2,13 +2,14 @@
   "id": 353856023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.385051,34.598682,-98.385051,34.598682",
     "geom:latitude":34.598682,
     "geom:longitude":-98.385051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"838 SE 1st St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353856023,
-    "wof:lastmodified":1449018996,
+    "wof:lastmodified":1466765687,
     "wof:name":"Millers Marble & Granite",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marble"
     ]
 },
-  "bbox": [-98.385051,34.598682,-98.385051,34.598682],
+  "bbox": [
+    -98.385051,
+    34.598682,
+    -98.385051,
+    34.598682
+],
   "geometry": {"coordinates":[-98.385051,34.598682],"type":"Point"}
 }

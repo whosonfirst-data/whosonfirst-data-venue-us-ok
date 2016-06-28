@@ -2,13 +2,14 @@
   "id": 353687089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.518718,35.224372,-97.518718,35.224372",
     "geom:latitude":35.224372,
     "geom:longitude":-97.518718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Avon Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353687089,
-    "wof:lastmodified":1449018980,
+    "wof:lastmodified":1466764745,
     "wof:name":"West Environmental",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [-97.518718,35.224372,-97.518718,35.224372],
-  "geometry": {"coordinates":[-97.518718,35.224372],"type":"Point"}
+  "bbox": [
+    -97.518718,
+    35.224372,
+    -97.518718,
+    35.224372
+],
+  "geometry": {"coordinates":[-97.51871800000001,35.224372],"type":"Point"}
 }

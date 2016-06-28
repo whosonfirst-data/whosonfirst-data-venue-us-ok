@@ -2,13 +2,14 @@
   "id": 303332891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.796147,35.460198,-94.796147,35.460198",
     "geom:latitude":35.460198,
     "geom:longitude":-94.796147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 W Cherokee Ave",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303332891,
-    "wof:lastmodified":1448999480,
+    "wof:lastmodified":1466765093,
     "wof:name":"Cox's Corner Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.796147,35.460198,-94.796147,35.460198],
+  "bbox": [
+    -94.796147,
+    35.460198,
+    -94.796147,
+    35.460198
+],
   "geometry": {"coordinates":[-94.796147,35.460198],"type":"Point"}
 }

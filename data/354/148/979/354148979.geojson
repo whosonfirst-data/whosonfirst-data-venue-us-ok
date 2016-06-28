@@ -2,13 +2,14 @@
   "id": 354148979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.947507,36.02296,-95.947507,36.02296",
     "geom:latitude":36.02296,
     "geom:longitude":-95.947507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2909 E 97th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354148979,
-    "wof:lastmodified":1449067383,
+    "wof:lastmodified":1466763693,
     "wof:name":"Cell Site Construction Svc",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-95.947507,36.02296,-95.947507,36.02296],
+  "bbox": [
+    -95.947507,
+    36.02296,
+    -95.947507,
+    36.02296
+],
   "geometry": {"coordinates":[-95.947507,36.02296],"type":"Point"}
 }

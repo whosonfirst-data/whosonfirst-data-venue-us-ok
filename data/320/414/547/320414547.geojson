@@ -2,13 +2,14 @@
   "id": 320414547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.979371,34.506363,-96.979371,34.506363",
     "geom:latitude":34.506363,
     "geom:longitude":-96.979371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 W Broadway Ave",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320414547,
-    "wof:lastmodified":1449013002,
+    "wof:lastmodified":1466765681,
     "wof:name":"Pick of Day",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.979371,34.506363,-96.979371,34.506363],
+  "bbox": [
+    -96.979371,
+    34.506363,
+    -96.979371,
+    34.506363
+],
   "geometry": {"coordinates":[-96.979371,34.506363],"type":"Point"}
 }

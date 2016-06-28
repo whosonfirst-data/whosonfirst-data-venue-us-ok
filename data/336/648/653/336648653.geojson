@@ -2,13 +2,14 @@
   "id": 336648653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.514368,35.459973,-97.514368,35.459973",
     "geom:latitude":35.459973,
     "geom:longitude":-97.514368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 SW 5th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336648653,
-    "wof:lastmodified":1448997239,
+    "wof:lastmodified":1466762929,
     "wof:name":"Phillips O C Dst Fed Cr Un",
     "wof:parent_id":85871685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-97.514368,35.459973,-97.514368,35.459973],
+  "bbox": [
+    -97.514368,
+    35.459973,
+    -97.514368,
+    35.459973
+],
   "geometry": {"coordinates":[-97.514368,35.459973],"type":"Point"}
 }

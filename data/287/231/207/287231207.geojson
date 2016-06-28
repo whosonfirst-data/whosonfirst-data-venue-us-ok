@@ -2,13 +2,14 @@
   "id": 287231207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.508631,34.010171,-95.508631,34.010171",
     "geom:latitude":34.010171,
     "geom:longitude":-95.508631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N 4th St",
     "sg:city":"Hugo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287231207,
-    "wof:lastmodified":1449001113,
+    "wof:lastmodified":1466762396,
     "wof:name":"Mental Health Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-95.508631,34.010171,-95.508631,34.010171],
-  "geometry": {"coordinates":[-95.508631,34.010171],"type":"Point"}
+  "bbox": [
+    -95.508631,
+    34.010171,
+    -95.508631,
+    34.010171
+],
+  "geometry": {"coordinates":[-95.50863099999999,34.010171],"type":"Point"}
 }

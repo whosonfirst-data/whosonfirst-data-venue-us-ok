@@ -2,13 +2,14 @@
   "id": 303408025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.40989,35.464132,-97.40989,35.464132",
     "geom:latitude":35.464132,
     "geom:longitude":-97.40989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6737 E Reno Ave",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303408025,
-    "wof:lastmodified":1448998422,
+    "wof:lastmodified":1466765337,
     "wof:name":"Central Oklahoma Healthy Start",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-97.40989,35.464132,-97.40989,35.464132],
+  "bbox": [
+    -97.40989,
+    35.464132,
+    -97.40989,
+    35.464132
+],
   "geometry": {"coordinates":[-97.40989,35.464132],"type":"Point"}
 }

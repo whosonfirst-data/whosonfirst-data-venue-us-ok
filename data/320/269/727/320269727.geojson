@@ -2,13 +2,14 @@
   "id": 320269727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.532441,35.543714,-97.532441,35.543714",
     "geom:latitude":35.543714,
     "geom:longitude":-97.532441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6610 Trenton Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320269727,
-    "wof:lastmodified":1449013597,
+    "wof:lastmodified":1466765005,
     "wof:name":"Canadian Resources",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.532441,35.543714,-97.532441,35.543714],
-  "geometry": {"coordinates":[-97.532441,35.543714],"type":"Point"}
+  "bbox": [
+    -97.532441,
+    35.543714,
+    -97.532441,
+    35.543714
+],
+  "geometry": {"coordinates":[-97.53244100000001,35.543714],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320135439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.407828,34.609768,-98.407828,34.609768",
     "geom:latitude":34.609768,
     "geom:longitude":-98.407828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 NW Arlington Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320135439,
-    "wof:lastmodified":1449012708,
+    "wof:lastmodified":1466764206,
     "wof:name":"Marie Detty",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "child"
     ]
 },
-  "bbox": [-98.407828,34.609768,-98.407828,34.609768],
-  "geometry": {"coordinates":[-98.407828,34.609768],"type":"Point"}
+  "bbox": [
+    -98.407828,
+    34.609768,
+    -98.407828,
+    34.609768
+],
+  "geometry": {"coordinates":[-98.40782799999999,34.609768],"type":"Point"}
 }

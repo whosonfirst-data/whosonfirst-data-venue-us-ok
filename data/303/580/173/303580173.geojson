@@ -2,13 +2,14 @@
   "id": 303580173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.593474,35.501791,-97.593474,35.501791",
     "geom:latitude":35.501791,
     "geom:longitude":-97.593474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4122 NW 31st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303580173,
-    "wof:lastmodified":1448999766,
+    "wof:lastmodified":1466766139,
     "wof:name":"Frasiers Catering",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.593474,35.501791,-97.593474,35.501791],
+  "bbox": [
+    -97.593474,
+    35.501791,
+    -97.593474,
+    35.501791
+],
   "geometry": {"coordinates":[-97.593474,35.501791],"type":"Point"}
 }

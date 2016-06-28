@@ -2,13 +2,14 @@
   "id": 320528373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.542588,35.474834,-97.542588,35.474834",
     "geom:latitude":35.474834,
     "geom:longitude":-97.542588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1839 Linwood Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320528373,
-    "wof:lastmodified":1449012259,
+    "wof:lastmodified":1466766123,
     "wof:name":"All State Electric Motors Inc",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "motor"
     ]
 },
-  "bbox": [-97.542588,35.474834,-97.542588,35.474834],
-  "geometry": {"coordinates":[-97.542588,35.474834],"type":"Point"}
+  "bbox": [
+    -97.542588,
+    35.474834,
+    -97.542588,
+    35.474834
+],
+  "geometry": {"coordinates":[-97.54258799999999,35.474834],"type":"Point"}
 }

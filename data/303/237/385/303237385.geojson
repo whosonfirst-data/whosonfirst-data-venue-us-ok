@@ -2,13 +2,14 @@
   "id": 303237385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.015239,36.176524,-96.015239,36.176524",
     "geom:latitude":36.176524,
     "geom:longitude":-96.015239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 N Xenophon Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303237385,
-    "wof:lastmodified":1448998178,
+    "wof:lastmodified":1466764643,
     "wof:name":"Sherman Mary J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.015239,36.176524,-96.015239,36.176524],
-  "geometry": {"coordinates":[-96.015239,36.176524],"type":"Point"}
+  "bbox": [
+    -96.015239,
+    36.176524,
+    -96.015239,
+    36.176524
+],
+  "geometry": {"coordinates":[-96.01523899999999,36.176524],"type":"Point"}
 }

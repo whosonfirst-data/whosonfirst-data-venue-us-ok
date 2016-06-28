@@ -2,13 +2,14 @@
   "id": 336598471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.635985,35.576847,-97.635985,35.576847",
     "geom:latitude":35.576847,
     "geom:longitude":-97.635985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6812 Cricket Canyon Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336598471,
-    "wof:lastmodified":1448996968,
+    "wof:lastmodified":1466764131,
     "wof:name":"Dni",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "technology"
     ]
 },
-  "bbox": [-97.635985,35.576847,-97.635985,35.576847],
-  "geometry": {"coordinates":[-97.635985,35.576847],"type":"Point"}
+  "bbox": [
+    -97.635985,
+    35.576847,
+    -97.635985,
+    35.576847
+],
+  "geometry": {"coordinates":[-97.63598500000001,35.576847],"type":"Point"}
 }

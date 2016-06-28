@@ -2,13 +2,14 @@
   "id": 320842815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.469234,35.499174,-97.469234,35.499174",
     "geom:latitude":35.499174,
     "geom:longitude":-97.469234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Creston Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320842815,
-    "wof:lastmodified":1449011521,
+    "wof:lastmodified":1466766945,
     "wof:name":"Property Distribution",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agency"
     ]
 },
-  "bbox": [-97.469234,35.499174,-97.469234,35.499174],
+  "bbox": [
+    -97.469234,
+    35.499174,
+    -97.469234,
+    35.499174
+],
   "geometry": {"coordinates":[-97.469234,35.499174],"type":"Point"}
 }

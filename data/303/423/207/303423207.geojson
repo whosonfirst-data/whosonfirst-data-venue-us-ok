@@ -2,13 +2,14 @@
   "id": 303423207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.391028,35.832629,-96.391028,35.832629",
     "geom:latitude":35.832629,
     "geom:longitude":-96.391028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 S Main St",
     "sg:city":"Bristow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303423207,
-    "wof:lastmodified":1448998521,
+    "wof:lastmodified":1466765523,
     "wof:name":"Headquarters Hair Salon Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.391028,35.832629,-96.391028,35.832629],
-  "geometry": {"coordinates":[-96.391028,35.832629],"type":"Point"}
+  "bbox": [
+    -96.391028,
+    35.832629,
+    -96.391028,
+    35.832629
+],
+  "geometry": {"coordinates":[-96.39102800000001,35.832629],"type":"Point"}
 }

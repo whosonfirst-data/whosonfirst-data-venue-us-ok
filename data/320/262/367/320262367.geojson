@@ -2,13 +2,14 @@
   "id": 320262367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.481152,36.690611,-101.481152,36.690611",
     "geom:latitude":36.690611,
     "geom:longitude":-101.481152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Medical Dr",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320262367,
-    "wof:lastmodified":1449013567,
+    "wof:lastmodified":1466764840,
     "wof:name":"Pracht Dr Robert L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cattle"
     ]
 },
-  "bbox": [-101.481152,36.690611,-101.481152,36.690611],
-  "geometry": {"coordinates":[-101.481152,36.690611],"type":"Point"}
+  "bbox": [
+    -101.481152,
+    36.690611,
+    -101.481152,
+    36.690611
+],
+  "geometry": {"coordinates":[-101.48115199999999,36.690611],"type":"Point"}
 }

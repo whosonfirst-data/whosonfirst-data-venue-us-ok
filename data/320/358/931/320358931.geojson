@@ -2,13 +2,14 @@
   "id": 320358931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.979065,36.140708,-95.979065,36.140708",
     "geom:latitude":36.140708,
     "geom:longitude":-95.979065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1443 S Norfolk Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320358931,
-    "wof:lastmodified":1449012833,
+    "wof:lastmodified":1466765671,
     "wof:name":"Belport Oil",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exploration"
     ]
 },
-  "bbox": [-95.979065,36.140708,-95.979065,36.140708],
-  "geometry": {"coordinates":[-95.979065,36.140708],"type":"Point"}
+  "bbox": [
+    -95.979065,
+    36.140708,
+    -95.979065,
+    36.140708
+],
+  "geometry": {"coordinates":[-95.97906500000001,36.140708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235937095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.915658,36.031868,-95.915658,36.031868",
     "geom:latitude":36.031868,
     "geom:longitude":-95.915658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5434 E 91st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":235937095,
-    "wof:lastmodified":1449008326,
+    "wof:lastmodified":1466762429,
     "wof:name":"Fellowship Bibles Church Of Tulsa",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "denomination"
     ]
 },
-  "bbox": [-95.915658,36.031868,-95.915658,36.031868],
-  "geometry": {"coordinates":[-95.915658,36.031868],"type":"Point"}
+  "bbox": [
+    -95.915658,
+    36.031868,
+    -95.915658,
+    36.031868
+],
+  "geometry": {"coordinates":[-95.91565799999999,36.031868],"type":"Point"}
 }

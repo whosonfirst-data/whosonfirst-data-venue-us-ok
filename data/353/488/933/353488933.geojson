@@ -2,13 +2,14 @@
   "id": 353488933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.992748,35.970536,-95.992748,35.970536",
     "geom:latitude":35.970536,
     "geom:longitude":-95.992748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1039 E 133rd St",
     "sg:city":"Glenpool",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353488933,
-    "wof:lastmodified":1449020701,
+    "wof:lastmodified":1466762966,
     "wof:name":"E-Tulsacom",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "application"
     ]
 },
-  "bbox": [-95.992748,35.970536,-95.992748,35.970536],
-  "geometry": {"coordinates":[-95.992748,35.970536],"type":"Point"}
+  "bbox": [
+    -95.992748,
+    35.970536,
+    -95.992748,
+    35.970536
+],
+  "geometry": {"coordinates":[-95.99274800000001,35.970536],"type":"Point"}
 }

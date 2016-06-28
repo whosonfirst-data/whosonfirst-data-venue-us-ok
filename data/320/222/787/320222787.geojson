@@ -2,13 +2,14 @@
   "id": 320222787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.916688,36.177163,-95.916688,36.177163",
     "geom:latitude":36.177163,
     "geom:longitude":-95.916688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5307 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320222787,
-    "wof:lastmodified":1449013771,
+    "wof:lastmodified":1466764707,
     "wof:name":"Base Inc",
     "wof:parent_id":85813737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.916688,36.177163,-95.916688,36.177163],
-  "geometry": {"coordinates":[-95.916688,36.177163],"type":"Point"}
+  "bbox": [
+    -95.916688,
+    36.177163,
+    -95.916688,
+    36.177163
+],
+  "geometry": {"coordinates":[-95.91668799999999,36.177163],"type":"Point"}
 }

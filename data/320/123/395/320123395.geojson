@@ -2,13 +2,14 @@
   "id": 320123395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.660905,35.477903,-97.660905,35.477903",
     "geom:latitude":35.477903,
     "geom:longitude":-97.660905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Davis Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320123395,
-    "wof:lastmodified":1449012382,
+    "wof:lastmodified":1466764145,
     "wof:name":"New Frontiers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "disabled"
     ]
 },
-  "bbox": [-97.660905,35.477903,-97.660905,35.477903],
+  "bbox": [
+    -97.660905,
+    35.477903,
+    -97.660905,
+    35.477903
+],
   "geometry": {"coordinates":[-97.660905,35.477903],"type":"Point"}
 }

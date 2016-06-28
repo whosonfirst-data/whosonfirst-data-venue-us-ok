@@ -2,13 +2,14 @@
   "id": 303261493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.410919,35.45623,-97.410919,35.45623",
     "geom:latitude":35.45623,
     "geom:longitude":-97.410919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Holloway Dr",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303261493,
-    "wof:lastmodified":1448998157,
+    "wof:lastmodified":1466764767,
     "wof:name":"R & R Heating & Air Cond",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.410919,35.45623,-97.410919,35.45623],
-  "geometry": {"coordinates":[-97.410919,35.45623],"type":"Point"}
+  "bbox": [
+    -97.410919,
+    35.45623,
+    -97.410919,
+    35.45623
+],
+  "geometry": {"coordinates":[-97.41091900000001,35.45623],"type":"Point"}
 }

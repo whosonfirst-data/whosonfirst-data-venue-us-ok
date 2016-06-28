@@ -2,13 +2,14 @@
   "id": 220196387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.890525,36.071716,-95.890525,36.071716",
     "geom:latitude":36.071716,
     "geom:longitude":-95.890525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7615 E 63rd Pl Ste 250",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220196387,
-    "wof:lastmodified":1449074223,
+    "wof:lastmodified":1466762481,
     "wof:name":"Tulsa Resident Office",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "rescue"
     ]
 },
-  "bbox": [-95.890525,36.071716,-95.890525,36.071716],
+  "bbox": [
+    -95.890525,
+    36.071716,
+    -95.890525,
+    36.071716
+],
   "geometry": {"coordinates":[-95.890525,36.071716],"type":"Point"}
 }

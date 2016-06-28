@@ -2,13 +2,14 @@
   "id": 303756863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.556831,35.431641,-97.556831,35.431641",
     "geom:latitude":35.431641,
     "geom:longitude":-97.556831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 SW 32nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303756863,
-    "wof:lastmodified":1448999584,
+    "wof:lastmodified":1466766633,
     "wof:name":"Cross Of Calvary Baptist Chr",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.556831,35.431641,-97.556831,35.431641],
+  "bbox": [
+    -97.556831,
+    35.431641,
+    -97.556831,
+    35.431641
+],
   "geometry": {"coordinates":[-97.556831,35.431641],"type":"Point"}
 }

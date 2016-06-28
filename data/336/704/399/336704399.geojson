@@ -2,13 +2,14 @@
   "id": 336704399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.016889,34.391895,-99.016889,34.391895",
     "geom:latitude":34.391895,
     "geom:longitude":-99.016889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 E Gladstone Ave",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336704399,
-    "wof:lastmodified":1448997230,
+    "wof:lastmodified":1466763790,
     "wof:name":"Tillman County District Judge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-99.016889,34.391895,-99.016889,34.391895],
-  "geometry": {"coordinates":[-99.016889,34.391895],"type":"Point"}
+  "bbox": [
+    -99.016889,
+    34.391895,
+    -99.016889,
+    34.391895
+],
+  "geometry": {"coordinates":[-99.01688900000001,34.391895],"type":"Point"}
 }

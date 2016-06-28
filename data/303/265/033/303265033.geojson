@@ -2,13 +2,14 @@
   "id": 303265033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.808838,36.337807,-96.808838,36.337807",
     "geom:latitude":36.337807,
     "geom:longitude":-96.808838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Harrison St",
     "sg:city":"Pawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303265033,
-    "wof:lastmodified":1448998949,
+    "wof:lastmodified":1466764781,
     "wof:name":"Dept of Public Safety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-96.808838,36.337807,-96.808838,36.337807],
-  "geometry": {"coordinates":[-96.808838,36.337807],"type":"Point"}
+  "bbox": [
+    -96.808838,
+    36.337807,
+    -96.808838,
+    36.337807
+],
+  "geometry": {"coordinates":[-96.80883799999999,36.337807],"type":"Point"}
 }

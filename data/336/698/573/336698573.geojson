@@ -2,13 +2,14 @@
   "id": 336698573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.523292,35.500324,-97.523292,35.500324",
     "geom:latitude":35.500324,
     "geom:longitude":-97.523292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3017 Paseo St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":336698573,
-    "wof:lastmodified":1448997947,
+    "wof:lastmodified":1466763698,
     "wof:name":"Paseo Pottery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.523292,35.500324,-97.523292,35.500324],
+  "bbox": [
+    -97.523292,
+    35.500324,
+    -97.523292,
+    35.500324
+],
   "geometry": {"coordinates":[-97.523292,35.500324],"type":"Point"}
 }

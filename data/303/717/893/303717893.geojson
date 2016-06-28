@@ -2,13 +2,14 @@
   "id": 303717893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.393052,35.08403,-96.393052,35.08403",
     "geom:latitude":35.08403,
     "geom:longitude":-96.393052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N Hinckley St",
     "sg:city":"Holdenville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303717893,
-    "wof:lastmodified":1448998183,
+    "wof:lastmodified":1466766609,
     "wof:name":"Tag Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-96.393052,35.08403,-96.393052,35.08403],
+  "bbox": [
+    -96.393052,
+    35.08403,
+    -96.393052,
+    35.08403
+],
   "geometry": {"coordinates":[-96.393052,35.08403],"type":"Point"}
 }

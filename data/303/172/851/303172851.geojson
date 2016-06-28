@@ -2,13 +2,14 @@
   "id": 303172851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.548016,35.422605,-97.548016,35.422605",
     "geom:latitude":35.422605,
     "geom:longitude":-97.548016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4321 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303172851,
-    "wof:lastmodified":1448999103,
+    "wof:lastmodified":1466764315,
     "wof:name":"Ebella",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.548016,35.422605,-97.548016,35.422605],
+  "bbox": [
+    -97.548016,
+    35.422605,
+    -97.548016,
+    35.422605
+],
   "geometry": {"coordinates":[-97.548016,35.422605],"type":"Point"}
 }

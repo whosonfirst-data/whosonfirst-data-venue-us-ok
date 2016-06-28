@@ -2,13 +2,14 @@
   "id": 303179891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.581221,35.49133,-97.581221,35.49133",
     "geom:latitude":35.49133,
     "geom:longitude":-97.581221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3521 NW 21st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303179891,
-    "wof:lastmodified":1449000317,
+    "wof:lastmodified":1466764327,
     "wof:name":"Reliable Referring Svc",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sitting"
     ]
 },
-  "bbox": [-97.581221,35.49133,-97.581221,35.49133],
+  "bbox": [
+    -97.581221,
+    35.49133,
+    -97.581221,
+    35.49133
+],
   "geometry": {"coordinates":[-97.581221,35.49133],"type":"Point"}
 }

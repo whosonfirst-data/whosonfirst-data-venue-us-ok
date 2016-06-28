@@ -2,13 +2,14 @@
   "id": 304054075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480472,35.651068,-97.480472,35.651068",
     "geom:latitude":35.651068,
     "geom:longitude":-97.480472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 E 4th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":304054075,
-    "wof:lastmodified":1449043813,
+    "wof:lastmodified":1466763131,
     "wof:name":"Bella Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.480472,35.651068,-97.480472,35.651068],
-  "geometry": {"coordinates":[-97.480472,35.651068],"type":"Point"}
+  "bbox": [
+    -97.480472,
+    35.651068,
+    -97.480472,
+    35.651068
+],
+  "geometry": {"coordinates":[-97.48047200000001,35.651068],"type":"Point"}
 }

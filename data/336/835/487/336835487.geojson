@@ -2,13 +2,14 @@
   "id": 336835487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.379011,35.51817,-97.379011,35.51817",
     "geom:latitude":35.51817,
     "geom:longitude":-97.379011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8734 Silver Creek Dr",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336835487,
-    "wof:lastmodified":1448997090,
+    "wof:lastmodified":1466764828,
     "wof:name":"Exact Edge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.379011,35.51817,-97.379011,35.51817],
-  "geometry": {"coordinates":[-97.379011,35.51817],"type":"Point"}
+  "bbox": [
+    -97.379011,
+    35.51817,
+    -97.379011,
+    35.51817
+],
+  "geometry": {"coordinates":[-97.37901100000001,35.51817],"type":"Point"}
 }

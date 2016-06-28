@@ -2,13 +2,14 @@
   "id": 303478177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.00322,34.385886,-99.00322,34.385886",
     "geom:latitude":34.385886,
     "geom:longitude":-99.00322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 S 21st St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303478177,
-    "wof:lastmodified":1448998200,
+    "wof:lastmodified":1466765657,
     "wof:name":"Boren Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-99.00322,34.385886,-99.00322,34.385886],
+  "bbox": [
+    -99.00322,
+    34.385886,
+    -99.00322,
+    34.385886
+],
   "geometry": {"coordinates":[-99.00322,34.385886],"type":"Point"}
 }

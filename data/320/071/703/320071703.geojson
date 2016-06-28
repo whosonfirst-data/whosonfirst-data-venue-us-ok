@@ -2,13 +2,14 @@
   "id": 320071703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.884652,35.708626,-96.884652,35.708626",
     "geom:latitude":35.708626,
     "geom:longitude":-96.884652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 S Price Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320071703,
-    "wof:lastmodified":1449013603,
+    "wof:lastmodified":1466763348,
     "wof:name":"Friends Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.884652,35.708626,-96.884652,35.708626],
+  "bbox": [
+    -96.884652,
+    35.708626,
+    -96.884652,
+    35.708626
+],
   "geometry": {"coordinates":[-96.884652,35.708626],"type":"Point"}
 }

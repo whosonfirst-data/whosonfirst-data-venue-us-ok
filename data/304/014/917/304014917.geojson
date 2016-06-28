@@ -2,13 +2,14 @@
   "id": 304014917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.967188,35.521097,-98.967188,35.521097",
     "geom:latitude":35.521097,
     "geom:longitude":-98.967188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 N 6th St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304014917,
-    "wof:lastmodified":1449043851,
+    "wof:lastmodified":1466762897,
     "wof:name":"North Side Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.967188,35.521097,-98.967188,35.521097],
-  "geometry": {"coordinates":[-98.967188,35.521097],"type":"Point"}
+  "bbox": [
+    -98.967188,
+    35.521097,
+    -98.967188,
+    35.521097
+],
+  "geometry": {"coordinates":[-98.96718799999999,35.521097],"type":"Point"}
 }

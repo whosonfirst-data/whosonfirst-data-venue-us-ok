@@ -2,13 +2,14 @@
   "id": 353608827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.498837,35.508686,-97.498837,35.508686",
     "geom:latitude":35.508686,
     "geom:longitude":-97.498837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 NE 37th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353608827,
-    "wof:lastmodified":1449019340,
+    "wof:lastmodified":1466764312,
     "wof:name":"Capitol Chamber Of Commerce",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-97.498837,35.508686,-97.498837,35.508686],
-  "geometry": {"coordinates":[-97.498837,35.508686],"type":"Point"}
+  "bbox": [
+    -97.498837,
+    35.508686,
+    -97.498837,
+    35.508686
+],
+  "geometry": {"coordinates":[-97.49883699999999,35.508686],"type":"Point"}
 }

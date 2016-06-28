@@ -2,13 +2,14 @@
   "id": 336717569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.947876,36.033679,-95.947876,36.033679",
     "geom:latitude":36.033679,
     "geom:longitude":-95.947876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 E 90th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336717569,
-    "wof:lastmodified":1448996941,
+    "wof:lastmodified":1466763989,
     "wof:name":"US Develpment Contracting",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "management"
     ]
 },
-  "bbox": [-95.947876,36.033679,-95.947876,36.033679],
-  "geometry": {"coordinates":[-95.947876,36.033679],"type":"Point"}
+  "bbox": [
+    -95.947876,
+    36.033679,
+    -95.947876,
+    36.033679
+],
+  "geometry": {"coordinates":[-95.94787599999999,36.033679],"type":"Point"}
 }

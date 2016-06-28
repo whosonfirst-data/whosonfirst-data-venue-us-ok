@@ -2,13 +2,14 @@
   "id": 353687241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.477387,35.207536,-97.477387,35.207536",
     "geom:latitude":35.207536,
     "geom:longitude":-97.477387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 W Brooks St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353687241,
-    "wof:lastmodified":1449018983,
+    "wof:lastmodified":1466764835,
     "wof:name":"Royal Orleans Apartments",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.477387,35.207536,-97.477387,35.207536],
-  "geometry": {"coordinates":[-97.477387,35.207536],"type":"Point"}
+  "bbox": [
+    -97.477387,
+    35.207536,
+    -97.477387,
+    35.207536
+],
+  "geometry": {"coordinates":[-97.47738699999999,35.207536],"type":"Point"}
 }

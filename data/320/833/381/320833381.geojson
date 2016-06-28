@@ -2,13 +2,14 @@
   "id": 320833381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.643549,35.33392,-97.643549,35.33392",
     "geom:latitude":35.33392,
     "geom:longitude":-97.643549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7377 SW 134th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320833381,
-    "wof:lastmodified":1449011727,
+    "wof:lastmodified":1466766919,
     "wof:name":"Warren Rowland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-97.643549,35.33392,-97.643549,35.33392],
-  "geometry": {"coordinates":[-97.643549,35.33392],"type":"Point"}
+  "bbox": [
+    -97.643549,
+    35.33392,
+    -97.643549,
+    35.33392
+],
+  "geometry": {"coordinates":[-97.64354899999999,35.33392],"type":"Point"}
 }

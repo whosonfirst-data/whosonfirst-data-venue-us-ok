@@ -2,13 +2,14 @@
   "id": 303355667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.265048,35.177653,-97.265048,35.177653",
     "geom:latitude":35.177653,
     "geom:longitude":-97.265048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 120th Ave SE",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":303355667,
-    "wof:lastmodified":1448998795,
+    "wof:lastmodified":1466765090,
     "wof:name":"Little River Zoo Inc",
     "wof:parent_id":85814357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "zoo"
     ]
 },
-  "bbox": [-97.265048,35.177653,-97.265048,35.177653],
-  "geometry": {"coordinates":[-97.265048,35.177653],"type":"Point"}
+  "bbox": [
+    -97.265048,
+    35.177653,
+    -97.265048,
+    35.177653
+],
+  "geometry": {"coordinates":[-97.26504799999999,35.177653],"type":"Point"}
 }

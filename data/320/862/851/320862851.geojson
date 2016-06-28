@@ -2,13 +2,14 @@
   "id": 320862851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.677326,34.773338,-96.677326,34.773338",
     "geom:latitude":34.773338,
     "geom:longitude":-96.677326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 E 12th St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320862851,
-    "wof:lastmodified":1449015050,
+    "wof:lastmodified":1466766987,
     "wof:name":"Ada Federal Employees CU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.677326,34.773338,-96.677326,34.773338],
-  "geometry": {"coordinates":[-96.677326,34.773338],"type":"Point"}
+  "bbox": [
+    -96.677326,
+    34.773338,
+    -96.677326,
+    34.773338
+],
+  "geometry": {"coordinates":[-96.67732599999999,34.773338],"type":"Point"}
 }

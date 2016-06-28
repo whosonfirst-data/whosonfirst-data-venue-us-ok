@@ -2,13 +2,14 @@
   "id": 303379309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.196047,35.493212,-97.196047,35.493212",
     "geom:latitude":35.493212,
     "geom:longitude":-97.196047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18889 NE 23rd St",
     "sg:city":"Harrah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303379309,
-    "wof:lastmodified":1448999544,
+    "wof:lastmodified":1466765314,
     "wof:name":"Wheelman OK",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.196047,35.493212,-97.196047,35.493212],
-  "geometry": {"coordinates":[-97.196047,35.493212],"type":"Point"}
+  "bbox": [
+    -97.196047,
+    35.493212,
+    -97.196047,
+    35.493212
+],
+  "geometry": {"coordinates":[-97.19604699999999,35.493212],"type":"Point"}
 }

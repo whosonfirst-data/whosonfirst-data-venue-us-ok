@@ -2,13 +2,14 @@
   "id": 320270919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.687376,35.472785,-97.687376,35.472785",
     "geom:latitude":35.472785,
     "geom:longitude":-97.687376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9700 NW 4th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320270919,
-    "wof:lastmodified":1449011923,
+    "wof:lastmodified":1466765024,
     "wof:name":"Central Burial Vaults Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vault"
     ]
 },
-  "bbox": [-97.687376,35.472785,-97.687376,35.472785],
+  "bbox": [
+    -97.687376,
+    35.472785,
+    -97.687376,
+    35.472785
+],
   "geometry": {"coordinates":[-97.687376,35.472785],"type":"Point"}
 }

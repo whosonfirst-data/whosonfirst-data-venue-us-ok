@@ -2,13 +2,14 @@
   "id": 336911743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.518828,35.47993,-97.518828,35.47993",
     "geom:latitude":35.47993,
     "geom:longitude":-97.518828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 NW 11th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336911743,
-    "wof:lastmodified":1448997859,
+    "wof:lastmodified":1466765265,
     "wof:name":"Capital Guttering",
     "wof:parent_id":85871701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gutter"
     ]
 },
-  "bbox": [-97.518828,35.47993,-97.518828,35.47993],
+  "bbox": [
+    -97.518828,
+    35.47993,
+    -97.518828,
+    35.47993
+],
   "geometry": {"coordinates":[-97.518828,35.47993],"type":"Point"}
 }

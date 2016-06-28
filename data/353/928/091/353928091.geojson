@@ -2,13 +2,14 @@
   "id": 353928091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.513843,35.575669,-97.513843,35.575669",
     "geom:latitude":35.575669,
     "geom:longitude":-97.513843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9701 Broadway Exn",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353928091,
-    "wof:lastmodified":1449020450,
+    "wof:lastmodified":1466765654,
     "wof:name":"Gulf Exploration Corp",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exploration"
     ]
 },
-  "bbox": [-97.513843,35.575669,-97.513843,35.575669],
-  "geometry": {"coordinates":[-97.513843,35.575669],"type":"Point"}
+  "bbox": [
+    -97.513843,
+    35.575669,
+    -97.513843,
+    35.575669
+],
+  "geometry": {"coordinates":[-97.51384299999999,35.575669],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220173567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.95829,36.142021,-95.95829,36.142021",
     "geom:latitude":36.142021,
     "geom:longitude":-95.95829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 S Lewis Ave Unit Hm",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220173567,
-    "wof:lastmodified":1449074198,
+    "wof:lastmodified":1466762328,
     "wof:name":"University Properties",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-95.95829,36.142021,-95.95829,36.142021],
-  "geometry": {"coordinates":[-95.95829,36.142021],"type":"Point"}
+  "bbox": [
+    -95.95829,
+    36.142021,
+    -95.95829,
+    36.142021
+],
+  "geometry": {"coordinates":[-95.95829000000001,36.142021],"type":"Point"}
 }

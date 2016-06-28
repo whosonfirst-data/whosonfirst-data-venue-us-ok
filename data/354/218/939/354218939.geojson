@@ -2,13 +2,14 @@
   "id": 354218939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.212753,35.36469,-97.212753,35.36469",
     "geom:latitude":35.36469,
     "geom:longitude":-97.212753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10300 S Peebly Rd",
     "sg:city":"Newalla",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354218939,
-    "wof:lastmodified":1449067047,
+    "wof:lastmodified":1466764034,
     "wof:name":"Executive Lawn Svc Inc",
     "wof:parent_id":85830865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-97.212753,35.36469,-97.212753,35.36469],
-  "geometry": {"coordinates":[-97.212753,35.36469],"type":"Point"}
+  "bbox": [
+    -97.212753,
+    35.36469,
+    -97.212753,
+    35.36469
+],
+  "geometry": {"coordinates":[-97.21275300000001,35.36469],"type":"Point"}
 }

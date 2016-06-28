@@ -2,13 +2,14 @@
   "id": 320838937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.645793,35.478737,-97.645793,35.478737",
     "geom:latitude":35.478737,
     "geom:longitude":-97.645793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7536 NW 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320838937,
-    "wof:lastmodified":1449011698,
+    "wof:lastmodified":1466766937,
     "wof:name":"Timberline Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.645793,35.478737,-97.645793,35.478737],
+  "bbox": [
+    -97.645793,
+    35.478737,
+    -97.645793,
+    35.478737
+],
   "geometry": {"coordinates":[-97.645793,35.478737],"type":"Point"}
 }

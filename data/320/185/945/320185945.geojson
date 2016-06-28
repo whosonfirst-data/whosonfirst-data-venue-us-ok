@@ -2,13 +2,14 @@
   "id": 320185945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.535058,35.574945,-97.535058,35.574945",
     "geom:latitude":35.574945,
     "geom:longitude":-97.535058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 NW 103rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320185945,
-    "wof:lastmodified":1449011869,
+    "wof:lastmodified":1466764520,
     "wof:name":"Patti Cakes Home Day Care",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.535058,35.574945,-97.535058,35.574945],
-  "geometry": {"coordinates":[-97.535058,35.574945],"type":"Point"}
+  "bbox": [
+    -97.535058,
+    35.574945,
+    -97.535058,
+    35.574945
+],
+  "geometry": {"coordinates":[-97.53505800000001,35.574945],"type":"Point"}
 }

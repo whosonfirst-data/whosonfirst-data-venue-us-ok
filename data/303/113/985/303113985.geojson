@@ -2,13 +2,14 @@
   "id": 303113985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.679155,34.235866,-96.679155,34.235866",
     "geom:latitude":34.235866,
     "geom:longitude":-96.679155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 W Main St",
     "sg:city":"Tishomingo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303113985,
-    "wof:lastmodified":1449000366,
+    "wof:lastmodified":1466763459,
     "wof:name":"Ryan Randy DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.679155,34.235866,-96.679155,34.235866],
-  "geometry": {"coordinates":[-96.679155,34.235866],"type":"Point"}
+  "bbox": [
+    -96.679155,
+    34.235866,
+    -96.679155,
+    34.235866
+],
+  "geometry": {"coordinates":[-96.67915499999999,34.235866],"type":"Point"}
 }

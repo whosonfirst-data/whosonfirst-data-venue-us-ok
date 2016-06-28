@@ -2,13 +2,14 @@
   "id": 353932813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.525203,34.01311,-95.525203,34.01311",
     "geom:latitude":34.01311,
     "geom:longitude":-95.525203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 W Clayton St",
     "sg:city":"Hugo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353932813,
-    "wof:lastmodified":1449019205,
+    "wof:lastmodified":1466765770,
     "wof:name":"Hugo Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "swimming"
     ]
 },
-  "bbox": [-95.525203,34.01311,-95.525203,34.01311],
+  "bbox": [
+    -95.525203,
+    34.01311,
+    -95.525203,
+    34.01311
+],
   "geometry": {"coordinates":[-95.525203,34.01311],"type":"Point"}
 }

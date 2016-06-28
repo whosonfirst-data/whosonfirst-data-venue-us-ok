@@ -2,13 +2,14 @@
   "id": 320407923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.407295,35.410598,-99.407295,35.410598",
     "geom:latitude":35.410598,
     "geom:longitude":-99.407295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 W Broadway Ave",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320407923,
-    "wof:lastmodified":1449013339,
+    "wof:lastmodified":1466765758,
     "wof:name":"Old World Villa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "interior"
     ]
 },
-  "bbox": [-99.407295,35.410598,-99.407295,35.410598],
+  "bbox": [
+    -99.407295,
+    35.410598,
+    -99.407295,
+    35.410598
+],
   "geometry": {"coordinates":[-99.407295,35.410598],"type":"Point"}
 }

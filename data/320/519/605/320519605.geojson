@@ -2,13 +2,14 @@
   "id": 320519605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.941898,35.458337,-95.941898,35.458337",
     "geom:latitude":35.458337,
     "geom:longitude":-95.941898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 US Hwy 266",
     "sg:city":"Dewar",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320519605,
-    "wof:lastmodified":1449014712,
+    "wof:lastmodified":1466766099,
     "wof:name":"Dewar Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.941898,35.458337,-95.941898,35.458337],
-  "geometry": {"coordinates":[-95.941898,35.458337],"type":"Point"}
+  "bbox": [
+    -95.941898,
+    35.458337,
+    -95.941898,
+    35.458337
+],
+  "geometry": {"coordinates":[-95.94189799999999,35.458337],"type":"Point"}
 }

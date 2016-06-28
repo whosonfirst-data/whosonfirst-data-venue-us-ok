@@ -2,13 +2,14 @@
   "id": 220177227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.982194,36.173501,-95.982194,36.173501",
     "geom:latitude":36.173501,
     "geom:longitude":-95.982194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 N Kenosha Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[],
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":220177227,
-    "wof:lastmodified":1449074875,
+    "wof:lastmodified":1466762340,
     "wof:name":"Community Food Bank of Eastern Oklahoma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.982194,36.173501,-95.982194,36.173501],
-  "geometry": {"coordinates":[-95.982194,36.173501],"type":"Point"}
+  "bbox": [
+    -95.982194,
+    36.173501,
+    -95.982194,
+    36.173501
+],
+  "geometry": {"coordinates":[-95.98219400000001,36.173501],"type":"Point"}
 }

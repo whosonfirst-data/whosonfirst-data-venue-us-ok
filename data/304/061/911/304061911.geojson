@@ -2,13 +2,14 @@
   "id": 304061911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.476613,35.510961,-97.476613,35.510961",
     "geom:latitude":35.510961,
     "geom:longitude":-97.476613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 N Martin Luther King Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304061911,
-    "wof:lastmodified":1449044006,
+    "wof:lastmodified":1466763185,
     "wof:name":"Eastside Ymca",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-97.476613,35.510961,-97.476613,35.510961],
+  "bbox": [
+    -97.476613,
+    35.510961,
+    -97.476613,
+    35.510961
+],
   "geometry": {"coordinates":[-97.476613,35.510961],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353570703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.993659,35.513077,-98.993659,35.513077",
     "geom:latitude":35.513077,
     "geom:longitude":-98.993659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 S 28th St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353570703,
-    "wof:lastmodified":1449019780,
+    "wof:lastmodified":1466764245,
     "wof:name":"Wheatland Ridge Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-98.993659,35.513077,-98.993659,35.513077],
-  "geometry": {"coordinates":[-98.993659,35.513077],"type":"Point"}
+  "bbox": [
+    -98.993659,
+    35.513077,
+    -98.993659,
+    35.513077
+],
+  "geometry": {"coordinates":[-98.99365899999999,35.513077],"type":"Point"}
 }

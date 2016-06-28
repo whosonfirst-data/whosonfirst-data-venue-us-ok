@@ -2,13 +2,14 @@
   "id": 320493119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.486371,35.626992,-97.486371,35.626992",
     "geom:latitude":35.626992,
     "geom:longitude":-97.486371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Broadway Ct",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320493119,
-    "wof:lastmodified":1449012458,
+    "wof:lastmodified":1466766044,
     "wof:name":"Audio Land",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "home"
     ]
 },
-  "bbox": [-97.486371,35.626992,-97.486371,35.626992],
-  "geometry": {"coordinates":[-97.486371,35.626992],"type":"Point"}
+  "bbox": [
+    -97.486371,
+    35.626992,
+    -97.486371,
+    35.626992
+],
+  "geometry": {"coordinates":[-97.48637100000001,35.626992],"type":"Point"}
 }

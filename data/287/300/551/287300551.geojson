@@ -2,13 +2,14 @@
   "id": 287300551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.361974,35.715504,-95.361974,35.715504",
     "geom:latitude":35.715504,
     "geom:longitude":-95.361974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Grand View Blvd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287300551,
-    "wof:lastmodified":1449001173,
+    "wof:lastmodified":1466763433,
     "wof:name":"Magic Wok Inc",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.361974,35.715504,-95.361974,35.715504],
+  "bbox": [
+    -95.361974,
+    35.715504,
+    -95.361974,
+    35.715504
+],
   "geometry": {"coordinates":[-95.361974,35.715504],"type":"Point"}
 }

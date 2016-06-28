@@ -2,13 +2,14 @@
   "id": 320425565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.96385,34.502366,-97.96385,34.502366",
     "geom:latitude":34.502366,
     "geom:longitude":-97.96385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 W Main St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320425565,
-    "wof:lastmodified":1449012595,
+    "wof:lastmodified":1466765858,
     "wof:name":"Whitten Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.96385,34.502366,-97.96385,34.502366],
-  "geometry": {"coordinates":[-97.96385,34.502366],"type":"Point"}
+  "bbox": [
+    -97.96385,
+    34.502366,
+    -97.96385,
+    34.502366
+],
+  "geometry": {"coordinates":[-97.96384999999999,34.502366],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353399167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.404653,34.605285,-98.404653,34.605285",
     "geom:latitude":34.605285,
     "geom:longitude":-98.404653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 SW C Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353399167,
-    "wof:lastmodified":1449018693,
+    "wof:lastmodified":1466762433,
     "wof:name":"Hair Depot",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.404653,34.605285,-98.404653,34.605285],
+  "bbox": [
+    -98.404653,
+    34.605285,
+    -98.404653,
+    34.605285
+],
   "geometry": {"coordinates":[-98.404653,34.605285],"type":"Point"}
 }

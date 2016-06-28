@@ -2,13 +2,14 @@
   "id": 353501579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.658736,35.971244,-96.658736,35.971244",
     "geom:latitude":35.971244,
     "geom:longitude":-96.658736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7320 E 9th St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353501579,
-    "wof:lastmodified":1449020818,
+    "wof:lastmodified":1466763140,
     "wof:name":"Cargill Feed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-96.658736,35.971244,-96.658736,35.971244],
+  "bbox": [
+    -96.658736,
+    35.971244,
+    -96.658736,
+    35.971244
+],
   "geometry": {"coordinates":[-96.658736,35.971244],"type":"Point"}
 }

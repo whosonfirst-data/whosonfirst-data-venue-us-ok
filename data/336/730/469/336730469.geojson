@@ -2,13 +2,14 @@
   "id": 336730469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.060521,36.148153,-96.060521,36.148153",
     "geom:latitude":36.148153,
     "geom:longitude":-96.060521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5920 Charles Page Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336730469,
-    "wof:lastmodified":1448997865,
+    "wof:lastmodified":1466764244,
     "wof:name":"B & L Bottle Shop",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-96.060521,36.148153,-96.060521,36.148153],
-  "geometry": {"coordinates":[-96.060521,36.148153],"type":"Point"}
+  "bbox": [
+    -96.060521,
+    36.148153,
+    -96.060521,
+    36.148153
+],
+  "geometry": {"coordinates":[-96.06052099999999,36.148153],"type":"Point"}
 }

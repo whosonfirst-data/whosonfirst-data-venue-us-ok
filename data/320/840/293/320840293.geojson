@@ -2,13 +2,14 @@
   "id": 320840293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.105049,36.103387,-97.105049,36.103387",
     "geom:latitude":36.103387,
     "geom:longitude":-97.105049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 S Sangre Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320840293,
-    "wof:lastmodified":1449014121,
+    "wof:lastmodified":1466766941,
     "wof:name":"Linden Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.105049,36.103387,-97.105049,36.103387],
-  "geometry": {"coordinates":[-97.105049,36.103387],"type":"Point"}
+  "bbox": [
+    -97.105049,
+    36.103387,
+    -97.105049,
+    36.103387
+],
+  "geometry": {"coordinates":[-97.10504899999999,36.103387],"type":"Point"}
 }

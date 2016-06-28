@@ -2,13 +2,14 @@
   "id": 303872559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.409852,35.392943,-99.409852,35.392943",
     "geom:latitude":35.392943,
     "geom:longitude":-99.409852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 W 20th St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303872559,
-    "wof:lastmodified":1448998337,
+    "wof:lastmodified":1466766803,
     "wof:name":"20th Street Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-99.409852,35.392943,-99.409852,35.392943],
+  "bbox": [
+    -99.409852,
+    35.392943,
+    -99.409852,
+    35.392943
+],
   "geometry": {"coordinates":[-99.409852,35.392943],"type":"Point"}
 }

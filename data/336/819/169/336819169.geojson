@@ -2,13 +2,14 @@
   "id": 336819169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.490277,34.230787,-97.490277,34.230787",
     "geom:latitude":34.230787,
     "geom:longitude":-97.490277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 S 6th St",
     "sg:city":"Healdton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336819169,
-    "wof:lastmodified":1448997206,
+    "wof:lastmodified":1466764684,
     "wof:name":"Red White & Balloons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "artist"
     ]
 },
-  "bbox": [-97.490277,34.230787,-97.490277,34.230787],
-  "geometry": {"coordinates":[-97.490277,34.230787],"type":"Point"}
+  "bbox": [
+    -97.490277,
+    34.230787,
+    -97.490277,
+    34.230787
+],
+  "geometry": {"coordinates":[-97.49027700000001,34.230787],"type":"Point"}
 }

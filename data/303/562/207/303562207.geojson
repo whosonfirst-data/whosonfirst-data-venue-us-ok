@@ -2,13 +2,14 @@
   "id": 303562207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.525748,35.469609,-97.525748,35.469609",
     "geom:latitude":35.469609,
     "geom:longitude":-97.525748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Couch Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303562207,
-    "wof:lastmodified":1448999418,
+    "wof:lastmodified":1466766071,
     "wof:name":"Jami Jarnigan",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "municipal"
     ]
 },
-  "bbox": [-97.525748,35.469609,-97.525748,35.469609],
-  "geometry": {"coordinates":[-97.525748,35.469609],"type":"Point"}
+  "bbox": [
+    -97.525748,
+    35.469609,
+    -97.525748,
+    35.469609
+],
+  "geometry": {"coordinates":[-97.52574799999999,35.469609],"type":"Point"}
 }

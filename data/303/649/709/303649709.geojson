@@ -2,13 +2,14 @@
   "id": 303649709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.124162,34.183486,-97.124162,34.183486",
     "geom:latitude":34.183486,
     "geom:longitude":-97.124162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 N Washington St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303649709,
-    "wof:lastmodified":1448999783,
+    "wof:lastmodified":1466766242,
     "wof:name":"Goddard Appraisal Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraisal"
     ]
 },
-  "bbox": [-97.124162,34.183486,-97.124162,34.183486],
+  "bbox": [
+    -97.124162,
+    34.183486,
+    -97.124162,
+    34.183486
+],
   "geometry": {"coordinates":[-97.124162,34.183486],"type":"Point"}
 }

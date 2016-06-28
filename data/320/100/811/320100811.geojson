@@ -2,13 +2,14 @@
   "id": 320100811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.646707,34.781521,-96.646707,34.781521",
     "geom:latitude":34.781521,
     "geom:longitude":-96.646707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 Arlington St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320100811,
-    "wof:lastmodified":1449014022,
+    "wof:lastmodified":1466763779,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.646707,34.781521,-96.646707,34.781521],
-  "geometry": {"coordinates":[-96.646707,34.781521],"type":"Point"}
+  "bbox": [
+    -96.646707,
+    34.781521,
+    -96.646707,
+    34.781521
+],
+  "geometry": {"coordinates":[-96.64670700000001,34.781521],"type":"Point"}
 }

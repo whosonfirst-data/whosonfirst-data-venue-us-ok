@@ -2,13 +2,14 @@
   "id": 303163723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.596416,35.464187,-97.596416,35.464187",
     "geom:latitude":35.464187,
     "geom:longitude":-97.596416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4127 W Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303163723,
-    "wof:lastmodified":1449000514,
+    "wof:lastmodified":1466764276,
     "wof:name":"ICM Of Oklahoma City",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.596416,35.464187,-97.596416,35.464187],
+  "bbox": [
+    -97.596416,
+    35.464187,
+    -97.596416,
+    35.464187
+],
   "geometry": {"coordinates":[-97.596416,35.464187],"type":"Point"}
 }

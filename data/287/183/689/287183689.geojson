@@ -2,13 +2,14 @@
   "id": 287183689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.341102,34.653162,-99.341102,34.653162",
     "geom:latitude":34.653162,
     "geom:longitude":-99.341102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Kathy Ave",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287183689,
-    "wof:lastmodified":1449001146,
+    "wof:lastmodified":1466763878,
     "wof:name":"Altus Parks and Recreation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-99.341102,34.653162,-99.341102,34.653162],
-  "geometry": {"coordinates":[-99.341102,34.653162],"type":"Point"}
+  "bbox": [
+    -99.341102,
+    34.653162,
+    -99.341102,
+    34.653162
+],
+  "geometry": {"coordinates":[-99.34110200000001,34.653162],"type":"Point"}
 }

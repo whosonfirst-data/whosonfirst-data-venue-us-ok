@@ -2,13 +2,14 @@
   "id": 320172465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.604166,35.540658,-97.604166,35.540658",
     "geom:latitude":35.540658,
     "geom:longitude":-97.604166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 N Harvard Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320172465,
-    "wof:lastmodified":1449012772,
+    "wof:lastmodified":1466764400,
     "wof:name":"Landmark Graphics Corporation",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-97.604166,35.540658,-97.604166,35.540658],
-  "geometry": {"coordinates":[-97.604166,35.540658],"type":"Point"}
+  "bbox": [
+    -97.604166,
+    35.540658,
+    -97.604166,
+    35.540658
+],
+  "geometry": {"coordinates":[-97.60416600000001,35.540658],"type":"Point"}
 }

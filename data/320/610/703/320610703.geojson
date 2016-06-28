@@ -2,13 +2,14 @@
   "id": 320610703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886498,35.992545,-95.886498,35.992545",
     "geom:latitude":35.992545,
     "geom:longitude":-95.886498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11907 S Memorial Dr",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320610703,
-    "wof:lastmodified":1449014902,
+    "wof:lastmodified":1466766300,
     "wof:name":"Intertech Filtration",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gas"
     ]
 },
-  "bbox": [-95.886498,35.992545,-95.886498,35.992545],
+  "bbox": [
+    -95.886498,
+    35.992545,
+    -95.886498,
+    35.992545
+],
   "geometry": {"coordinates":[-95.886498,35.992545],"type":"Point"}
 }

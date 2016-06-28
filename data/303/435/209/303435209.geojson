@@ -2,13 +2,14 @@
   "id": 303435209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.679117,36.801375,-98.679117,36.801375",
     "geom:latitude":36.801375,
     "geom:longitude":-98.679117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 Church St",
     "sg:city":"Alva",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303435209,
-    "wof:lastmodified":1449000340,
+    "wof:lastmodified":1466765592,
     "wof:name":"Marty Koppitz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-98.679117,36.801375,-98.679117,36.801375],
-  "geometry": {"coordinates":[-98.679117,36.801375],"type":"Point"}
+  "bbox": [
+    -98.679117,
+    36.801375,
+    -98.679117,
+    36.801375
+],
+  "geometry": {"coordinates":[-98.67911700000001,36.801375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303892599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.485852,35.608996,-97.485852,35.608996",
     "geom:latitude":35.608996,
     "geom:longitude":-97.485852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 E Memorial Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303892599,
-    "wof:lastmodified":1448998481,
+    "wof:lastmodified":1466766827,
     "wof:name":"7-Eleven",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.485852,35.608996,-97.485852,35.608996],
-  "geometry": {"coordinates":[-97.485852,35.608996],"type":"Point"}
+  "bbox": [
+    -97.485852,
+    35.608996,
+    -97.485852,
+    35.608996
+],
+  "geometry": {"coordinates":[-97.48585199999999,35.608996],"type":"Point"}
 }

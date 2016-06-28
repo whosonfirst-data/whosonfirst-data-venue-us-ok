@@ -2,13 +2,14 @@
   "id": 303783677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.637571,35.522457,-97.637571,35.522457",
     "geom:latitude":35.522457,
     "geom:longitude":-97.637571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7301 NW 50th St",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":303783677,
-    "wof:lastmodified":1448998196,
+    "wof:lastmodified":1466766810,
     "wof:name":"Servicecenter Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-97.637571,35.522457,-97.637571,35.522457],
-  "geometry": {"coordinates":[-97.637571,35.522457],"type":"Point"}
+  "bbox": [
+    -97.637571,
+    35.522457,
+    -97.637571,
+    35.522457
+],
+  "geometry": {"coordinates":[-97.63757099999999,35.522457],"type":"Point"}
 }

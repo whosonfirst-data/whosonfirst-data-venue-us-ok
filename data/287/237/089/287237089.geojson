@@ -2,13 +2,14 @@
   "id": 287237089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.416551,35.456543,-97.416551,35.456543",
     "geom:latitude":35.456543,
     "geom:longitude":-97.416551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6209 SE 8th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287237089,
-    "wof:lastmodified":1449000689,
+    "wof:lastmodified":1466762495,
     "wof:name":"Cahill Land Surveying",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-97.416551,35.456543,-97.416551,35.456543],
+  "bbox": [
+    -97.416551,
+    35.456543,
+    -97.416551,
+    35.456543
+],
   "geometry": {"coordinates":[-97.416551,35.456543],"type":"Point"}
 }

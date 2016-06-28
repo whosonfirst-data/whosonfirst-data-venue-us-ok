@@ -2,13 +2,14 @@
   "id": 304028935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.760472,34.918246,-95.760472,34.918246",
     "geom:latitude":34.918246,
     "geom:longitude":-95.760472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 E Seneca Ave",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304028935,
-    "wof:lastmodified":1449043911,
+    "wof:lastmodified":1466762974,
     "wof:name":"Churchhill Properties LLC",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-95.760472,34.918246,-95.760472,34.918246],
-  "geometry": {"coordinates":[-95.760472,34.918246],"type":"Point"}
+  "bbox": [
+    -95.760472,
+    34.918246,
+    -95.760472,
+    34.918246
+],
+  "geometry": {"coordinates":[-95.76047199999999,34.918246],"type":"Point"}
 }

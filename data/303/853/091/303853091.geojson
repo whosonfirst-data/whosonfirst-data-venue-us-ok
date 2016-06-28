@@ -2,13 +2,14 @@
   "id": 303853091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507927,35.240575,-97.507927,35.240575",
     "geom:latitude":35.240575,
     "geom:longitude":-97.507927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 Robin Ridge Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303853091,
-    "wof:lastmodified":1448999104,
+    "wof:lastmodified":1466766851,
     "wof:name":"John C Leatherman",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.507927,35.240575,-97.507927,35.240575],
+  "bbox": [
+    -97.507927,
+    35.240575,
+    -97.507927,
+    35.240575
+],
   "geometry": {"coordinates":[-97.507927,35.240575],"type":"Point"}
 }

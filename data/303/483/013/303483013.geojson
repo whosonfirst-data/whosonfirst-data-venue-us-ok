@@ -2,13 +2,14 @@
   "id": 303483013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.539084,35.420733,-97.539084,35.420733",
     "geom:latitude":35.420733,
     "geom:longitude":-97.539084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 SW 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303483013,
-    "wof:lastmodified":1449000045,
+    "wof:lastmodified":1466765899,
     "wof:name":"George R Hanks",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.539084,35.420733,-97.539084,35.420733],
+  "bbox": [
+    -97.539084,
+    35.420733,
+    -97.539084,
+    35.420733
+],
   "geometry": {"coordinates":[-97.539084,35.420733],"type":"Point"}
 }

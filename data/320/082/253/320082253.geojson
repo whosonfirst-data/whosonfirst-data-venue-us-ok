@@ -2,13 +2,14 @@
   "id": 320082253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.063855,35.690294,-97.063855,35.690294",
     "geom:latitude":35.690294,
     "geom:longitude":-97.063855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Birch Ave",
     "sg:city":"Wellston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320082253,
-    "wof:lastmodified":1449011353,
+    "wof:lastmodified":1466763508,
     "wof:name":"Wellston School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.063855,35.690294,-97.063855,35.690294],
+  "bbox": [
+    -97.063855,
+    35.690294,
+    -97.063855,
+    35.690294
+],
   "geometry": {"coordinates":[-97.063855,35.690294],"type":"Point"}
 }

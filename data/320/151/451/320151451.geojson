@@ -2,13 +2,14 @@
   "id": 320151451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.423567,35.391983,-97.423567,35.391983",
     "geom:latitude":35.391983,
     "geom:longitude":-97.423567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 SE 74th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320151451,
-    "wof:lastmodified":1449011293,
+    "wof:lastmodified":1466764401,
     "wof:name":"Freedom Airparts",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.423567,35.391983,-97.423567,35.391983],
-  "geometry": {"coordinates":[-97.423567,35.391983],"type":"Point"}
+  "bbox": [
+    -97.423567,
+    35.391983,
+    -97.423567,
+    35.391983
+],
+  "geometry": {"coordinates":[-97.42356700000001,35.391983],"type":"Point"}
 }

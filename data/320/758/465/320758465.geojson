@@ -2,13 +2,14 @@
   "id": 320758465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.332283,35.750797,-95.332283,35.750797",
     "geom:latitude":35.750797,
     "geom:longitude":-95.332283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 N Anthony St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320758465,
-    "wof:lastmodified":1449012397,
+    "wof:lastmodified":1466766809,
     "wof:name":"Air Pro",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.332283,35.750797,-95.332283,35.750797],
+  "bbox": [
+    -95.332283,
+    35.750797,
+    -95.332283,
+    35.750797
+],
   "geometry": {"coordinates":[-95.332283,35.750797],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354036895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.492313,34.593849,-98.492313,34.593849",
     "geom:latitude":34.593849,
     "geom:longitude":-98.492313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 SW 82nd St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354036895,
-    "wof:lastmodified":1449066298,
+    "wof:lastmodified":1466763187,
     "wof:name":"M R Transmission",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-98.492313,34.593849,-98.492313,34.593849],
+  "bbox": [
+    -98.492313,
+    34.593849,
+    -98.492313,
+    34.593849
+],
   "geometry": {"coordinates":[-98.492313,34.593849],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336777999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.487603,35.612061,-97.487603,35.612061",
     "geom:latitude":35.612061,
     "geom:longitude":-97.487603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13826 Crossing Way E",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336777999,
-    "wof:lastmodified":1448997521,
+    "wof:lastmodified":1466764582,
     "wof:name":"Magicmouse Studio",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-97.487603,35.612061,-97.487603,35.612061],
-  "geometry": {"coordinates":[-97.487603,35.612061],"type":"Point"}
+  "bbox": [
+    -97.487603,
+    35.612061,
+    -97.487603,
+    35.612061
+],
+  "geometry": {"coordinates":[-97.48760299999999,35.612061],"type":"Point"}
 }

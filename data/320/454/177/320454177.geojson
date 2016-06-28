@@ -2,13 +2,14 @@
   "id": 320454177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.966978,34.647774,-97.966978,34.647774",
     "geom:latitude":34.647774,
     "geom:longitude":-97.966978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N 9th St",
     "sg:city":"Marlow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320454177,
-    "wof:lastmodified":1449014612,
+    "wof:lastmodified":1466765950,
     "wof:name":"West Wind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "intermediate"
     ]
 },
-  "bbox": [-97.966978,34.647774,-97.966978,34.647774],
+  "bbox": [
+    -97.966978,
+    34.647774,
+    -97.966978,
+    34.647774
+],
   "geometry": {"coordinates":[-97.966978,34.647774],"type":"Point"}
 }

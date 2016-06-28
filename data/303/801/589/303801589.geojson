@@ -2,13 +2,14 @@
   "id": 303801589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547938,35.409121,-97.547938,35.409121",
     "geom:latitude":35.409121,
     "geom:longitude":-97.547938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303801589,
-    "wof:lastmodified":1449000133,
+    "wof:lastmodified":1466766731,
     "wof:name":"Rio Grande Mexican Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-97.547938,35.409121,-97.547938,35.409121],
+  "bbox": [
+    -97.547938,
+    35.409121,
+    -97.547938,
+    35.409121
+],
   "geometry": {"coordinates":[-97.547938,35.409121],"type":"Point"}
 }

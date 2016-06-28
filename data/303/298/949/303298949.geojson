@@ -2,13 +2,14 @@
   "id": 303298949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.984176,34.650213,-97.984176,34.650213",
     "geom:latitude":34.650213,
     "geom:longitude":-97.984176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 N McKinley Rd",
     "sg:city":"Marlow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303298949,
-    "wof:lastmodified":1448998773,
+    "wof:lastmodified":1466764944,
     "wof:name":"Hammond Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-97.984176,34.650213,-97.984176,34.650213],
-  "geometry": {"coordinates":[-97.984176,34.650213],"type":"Point"}
+  "bbox": [
+    -97.984176,
+    34.650213,
+    -97.984176,
+    34.650213
+],
+  "geometry": {"coordinates":[-97.98417600000001,34.650213],"type":"Point"}
 }

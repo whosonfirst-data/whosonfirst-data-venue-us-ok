@@ -2,13 +2,14 @@
   "id": 336953465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.33683,35.406383,-97.33683,35.406383",
     "geom:latitude":35.406383,
     "geom:longitude":-97.33683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10925 SE 59th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336953465,
-    "wof:lastmodified":1448997668,
+    "wof:lastmodified":1466765470,
     "wof:name":"Breeden Enterprises",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.33683,35.406383,-97.33683,35.406383],
-  "geometry": {"coordinates":[-97.33683,35.406383],"type":"Point"}
+  "bbox": [
+    -97.33683,
+    35.406383,
+    -97.33683,
+    35.406383
+],
+  "geometry": {"coordinates":[-97.33683000000001,35.406383],"type":"Point"}
 }

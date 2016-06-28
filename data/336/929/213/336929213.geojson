@@ -2,13 +2,14 @@
   "id": 336929213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.405834,35.435302,-97.405834,35.435302",
     "geom:latitude":35.435302,
     "geom:longitude":-97.405834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7025 SE 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336929213,
-    "wof:lastmodified":1448997359,
+    "wof:lastmodified":1466765245,
     "wof:name":"S & S Muffler Center",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exhaust"
     ]
 },
-  "bbox": [-97.405834,35.435302,-97.405834,35.435302],
+  "bbox": [
+    -97.405834,
+    35.435302,
+    -97.405834,
+    35.435302
+],
   "geometry": {"coordinates":[-97.405834,35.435302],"type":"Point"}
 }

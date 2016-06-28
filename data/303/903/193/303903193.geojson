@@ -2,13 +2,14 @@
   "id": 303903193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.335375,34.594081,-98.335375,34.594081",
     "geom:latitude":34.594081,
     "geom:longitude":-98.335375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4469 SE Lee Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303903193,
-    "wof:lastmodified":1448998263,
+    "wof:lastmodified":1466766874,
     "wof:name":"Eastside Daycare",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.335375,34.594081,-98.335375,34.594081],
+  "bbox": [
+    -98.335375,
+    34.594081,
+    -98.335375,
+    34.594081
+],
   "geometry": {"coordinates":[-98.335375,34.594081],"type":"Point"}
 }

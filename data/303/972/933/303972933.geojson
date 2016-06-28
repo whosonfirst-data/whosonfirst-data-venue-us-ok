@@ -2,13 +2,14 @@
   "id": 303972933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.671061,36.871379,-94.671061,36.871379",
     "geom:latitude":36.871379,
     "geom:longitude":-94.671061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67501 E 100 Rd",
     "sg:city":"Wyandotte",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303972933,
-    "wof:lastmodified":1448999344,
+    "wof:lastmodified":1466767108,
     "wof:name":"Cline's Electric Heating & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.671061,36.871379,-94.671061,36.871379],
-  "geometry": {"coordinates":[-94.671061,36.871379],"type":"Point"}
+  "bbox": [
+    -94.671061,
+    36.871379,
+    -94.671061,
+    36.871379
+],
+  "geometry": {"coordinates":[-94.67106099999999,36.871379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303901117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.272189,35.476213,-97.272189,35.476213",
     "geom:latitude":35.476213,
     "geom:longitude":-97.272189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"790 Oak Hill Rd",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303901117,
-    "wof:lastmodified":1448999146,
+    "wof:lastmodified":1466766855,
     "wof:name":"Control Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-97.272189,35.476213,-97.272189,35.476213],
+  "bbox": [
+    -97.272189,
+    35.476213,
+    -97.272189,
+    35.476213
+],
   "geometry": {"coordinates":[-97.272189,35.476213],"type":"Point"}
 }

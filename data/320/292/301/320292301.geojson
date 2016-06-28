@@ -2,13 +2,14 @@
   "id": 320292301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.563487,35.435131,-97.563487,35.435131",
     "geom:latitude":35.435131,
     "geom:longitude":-97.563487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 SW 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320292301,
-    "wof:lastmodified":1449011558,
+    "wof:lastmodified":1466765229,
     "wof:name":"GRIDER FOODS COST LESS",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supermarket"
     ]
 },
-  "bbox": [-97.563487,35.435131,-97.563487,35.435131],
-  "geometry": {"coordinates":[-97.563487,35.435131],"type":"Point"}
+  "bbox": [
+    -97.563487,
+    35.435131,
+    -97.563487,
+    35.435131
+],
+  "geometry": {"coordinates":[-97.56348699999999,35.435131],"type":"Point"}
 }

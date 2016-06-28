@@ -2,13 +2,14 @@
   "id": 304046391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517564,35.538667,-97.517564,35.538667",
     "geom:latitude":35.538667,
     "geom:longitude":-97.517564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 N Harvey Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304046391,
-    "wof:lastmodified":1449043928,
+    "wof:lastmodified":1466763086,
     "wof:name":"Osbi",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "investigation"
     ]
 },
-  "bbox": [-97.517564,35.538667,-97.517564,35.538667],
-  "geometry": {"coordinates":[-97.517564,35.538667],"type":"Point"}
+  "bbox": [
+    -97.517564,
+    35.538667,
+    -97.517564,
+    35.538667
+],
+  "geometry": {"coordinates":[-97.51756399999999,35.538667],"type":"Point"}
 }

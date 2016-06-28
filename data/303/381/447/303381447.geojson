@@ -2,13 +2,14 @@
   "id": 303381447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.01011,35.906408,-96.01011,35.906408",
     "geom:latitude":35.906408,
     "geom:longitude":-96.01011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17737 S Santa Fe Pl",
     "sg:city":"Mounds",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303381447,
-    "wof:lastmodified":1448998319,
+    "wof:lastmodified":1466765334,
     "wof:name":"Stone Bluff Stitchery",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.01011,35.906408,-96.01011,35.906408],
+  "bbox": [
+    -96.01011,
+    35.906408,
+    -96.01011,
+    35.906408
+],
   "geometry": {"coordinates":[-96.01011,35.906408],"type":"Point"}
 }

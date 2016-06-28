@@ -2,13 +2,14 @@
   "id": 320064747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.58325,35.446744,-97.58325,35.446744",
     "geom:latitude":35.446744,
     "geom:longitude":-97.58325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 S Portland Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320064747,
-    "wof:lastmodified":1449012586,
+    "wof:lastmodified":1466763247,
     "wof:name":"Quality Used Trailers Inc",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-97.58325,35.446744,-97.58325,35.446744],
-  "geometry": {"coordinates":[-97.58325,35.446744],"type":"Point"}
+  "bbox": [
+    -97.58325,
+    35.446744,
+    -97.58325,
+    35.446744
+],
+  "geometry": {"coordinates":[-97.58325000000001,35.446744],"type":"Point"}
 }

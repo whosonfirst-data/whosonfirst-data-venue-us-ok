@@ -2,13 +2,14 @@
   "id": 303163925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.444143,35.696237,-97.444143,35.696237",
     "geom:latitude":35.696237,
     "geom:longitude":-97.444143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 E Coffee Creek Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303163925,
-    "wof:lastmodified":1449000511,
+    "wof:lastmodified":1466764281,
     "wof:name":"Ranch Limited Co",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.444143,35.696237,-97.444143,35.696237],
+  "bbox": [
+    -97.444143,
+    35.696237,
+    -97.444143,
+    35.696237
+],
   "geometry": {"coordinates":[-97.444143,35.696237],"type":"Point"}
 }

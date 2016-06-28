@@ -2,13 +2,14 @@
   "id": 220193817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.847702,36.121899,-95.847702,36.121899",
     "geom:latitude":36.121899,
     "geom:longitude":-95.847702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 S 116th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220193817,
-    "wof:lastmodified":1449074172,
+    "wof:lastmodified":1466762455,
     "wof:name":"Tulsa Housing Authority",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.847702,36.121899,-95.847702,36.121899],
+  "bbox": [
+    -95.847702,
+    36.121899,
+    -95.847702,
+    36.121899
+],
   "geometry": {"coordinates":[-95.847702,36.121899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320123081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.953123,34.501553,-97.953123,34.501553",
     "geom:latitude":34.501553,
     "geom:longitude":-97.953123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 W Main St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320123081,
-    "wof:lastmodified":1449012378,
+    "wof:lastmodified":1466764139,
     "wof:name":"Allied Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-97.953123,34.501553,-97.953123,34.501553],
-  "geometry": {"coordinates":[-97.953123,34.501553],"type":"Point"}
+  "bbox": [
+    -97.953123,
+    34.501553,
+    -97.953123,
+    34.501553
+],
+  "geometry": {"coordinates":[-97.95312300000001,34.501553],"type":"Point"}
 }

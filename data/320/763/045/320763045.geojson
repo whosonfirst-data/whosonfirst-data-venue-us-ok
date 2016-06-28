@@ -2,13 +2,14 @@
   "id": 320763045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480729,35.469014,-97.480729,35.469014",
     "geom:latitude":35.469014,
     "geom:longitude":-97.480729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 NE 3rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320763045,
-    "wof:lastmodified":1449014955,
+    "wof:lastmodified":1466766817,
     "wof:name":"Aramark Uniform Svc",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.480729,35.469014,-97.480729,35.469014],
+  "bbox": [
+    -97.480729,
+    35.469014,
+    -97.480729,
+    35.469014
+],
   "geometry": {"coordinates":[-97.480729,35.469014],"type":"Point"}
 }

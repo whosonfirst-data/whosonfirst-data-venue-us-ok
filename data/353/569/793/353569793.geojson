@@ -2,13 +2,14 @@
   "id": 353569793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.388637,35.449575,-97.388637,35.449575",
     "geom:latitude":35.449575,
     "geom:longitude":-97.388637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7556 SE 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353569793,
-    "wof:lastmodified":1449020676,
+    "wof:lastmodified":1466764173,
     "wof:name":"Receptions Remembered",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-97.388637,35.449575,-97.388637,35.449575],
+  "bbox": [
+    -97.388637,
+    35.449575,
+    -97.388637,
+    35.449575
+],
   "geometry": {"coordinates":[-97.388637,35.449575],"type":"Point"}
 }

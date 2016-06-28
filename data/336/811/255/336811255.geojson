@@ -2,13 +2,14 @@
   "id": 336811255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.320687,35.491354,-95.320687,35.491354",
     "geom:latitude":35.491354,
     "geom:longitude":-95.320687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 W 2nd St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336811255,
-    "wof:lastmodified":1448997470,
+    "wof:lastmodified":1466764714,
     "wof:name":"Cingular Access Wireless",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-95.320687,35.491354,-95.320687,35.491354],
-  "geometry": {"coordinates":[-95.320687,35.491354],"type":"Point"}
+  "bbox": [
+    -95.320687,
+    35.491354,
+    -95.320687,
+    35.491354
+],
+  "geometry": {"coordinates":[-95.32068700000001,35.491354],"type":"Point"}
 }

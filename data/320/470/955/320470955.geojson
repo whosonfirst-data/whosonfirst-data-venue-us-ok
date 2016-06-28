@@ -2,13 +2,14 @@
   "id": 320470955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886505,35.988299,-95.886505,35.988299",
     "geom:latitude":35.988299,
     "geom:longitude":-95.886505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11911 S Memorial Dr",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320470955,
-    "wof:lastmodified":1449012169,
+    "wof:lastmodified":1466766013,
     "wof:name":"Springer Clinic",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.886505,35.988299,-95.886505,35.988299],
+  "bbox": [
+    -95.886505,
+    35.988299,
+    -95.886505,
+    35.988299
+],
   "geometry": {"coordinates":[-95.886505,35.988299],"type":"Point"}
 }

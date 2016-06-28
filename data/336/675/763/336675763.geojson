@@ -2,13 +2,14 @@
   "id": 336675763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.973331,35.904033,-94.973331,35.904033",
     "geom:latitude":35.904033,
     "geom:longitude":-94.973331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E 1st St",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336675763,
-    "wof:lastmodified":1448997506,
+    "wof:lastmodified":1466763349,
     "wof:name":"Men of Tahlequah",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothing"
     ]
 },
-  "bbox": [-94.973331,35.904033,-94.973331,35.904033],
+  "bbox": [
+    -94.973331,
+    35.904033,
+    -94.973331,
+    35.904033
+],
   "geometry": {"coordinates":[-94.973331,35.904033],"type":"Point"}
 }

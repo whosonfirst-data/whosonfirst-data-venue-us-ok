@@ -2,13 +2,14 @@
   "id": 303422707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.858477,36.336557,-95.858477,36.336557",
     "geom:latitude":36.336557,
     "geom:longitude":-95.858477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10524 E 126th St N",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303422707,
-    "wof:lastmodified":1448998292,
+    "wof:lastmodified":1466765443,
     "wof:name":"Creeks Asphalt & Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.858477,36.336557,-95.858477,36.336557],
-  "geometry": {"coordinates":[-95.858477,36.336557],"type":"Point"}
+  "bbox": [
+    -95.858477,
+    36.336557,
+    -95.858477,
+    36.336557
+],
+  "geometry": {"coordinates":[-95.85847699999999,36.336557],"type":"Point"}
 }

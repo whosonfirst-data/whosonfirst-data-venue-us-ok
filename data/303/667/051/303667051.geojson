@@ -2,13 +2,14 @@
   "id": 303667051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.992435,36.140609,-95.992435,36.140609",
     "geom:latitude":36.140609,
     "geom:longitude":-95.992435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 W 15th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303667051,
-    "wof:lastmodified":1448999718,
+    "wof:lastmodified":1466766543,
     "wof:name":"Surety Bail Bonding",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-95.992435,36.140609,-95.992435,36.140609],
+  "bbox": [
+    -95.992435,
+    36.140609,
+    -95.992435,
+    36.140609
+],
   "geometry": {"coordinates":[-95.992435,36.140609],"type":"Point"}
 }

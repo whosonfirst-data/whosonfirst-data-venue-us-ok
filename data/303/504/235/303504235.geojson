@@ -2,13 +2,14 @@
   "id": 303504235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.455159,35.242221,-97.455159,35.242221",
     "geom:latitude":35.242221,
     "geom:longitude":-97.455159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 Industrial Blvd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303504235,
-    "wof:lastmodified":1448998545,
+    "wof:lastmodified":1466765753,
     "wof:name":"Oklahoma Geological Survey",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.455159,35.242221,-97.455159,35.242221],
-  "geometry": {"coordinates":[-97.455159,35.242221],"type":"Point"}
+  "bbox": [
+    -97.455159,
+    35.242221,
+    -97.455159,
+    35.242221
+],
+  "geometry": {"coordinates":[-97.45515899999999,35.242221],"type":"Point"}
 }

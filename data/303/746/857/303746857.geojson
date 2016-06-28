@@ -2,13 +2,14 @@
   "id": 303746857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.014333,36.072496,-97.014333,36.072496",
     "geom:latitude":36.072496,
     "geom:longitude":-97.014333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3523 E 44th St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303746857,
-    "wof:lastmodified":1448998096,
+    "wof:lastmodified":1466766499,
     "wof:name":"Maehs Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.014333,36.072496,-97.014333,36.072496],
-  "geometry": {"coordinates":[-97.014333,36.072496],"type":"Point"}
+  "bbox": [
+    -97.014333,
+    36.072496,
+    -97.014333,
+    36.072496
+],
+  "geometry": {"coordinates":[-97.01433299999999,36.072496],"type":"Point"}
 }

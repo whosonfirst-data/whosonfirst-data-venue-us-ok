@@ -2,13 +2,14 @@
   "id": 354205613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.610071,35.468981,-97.610071,35.468981",
     "geom:latitude":35.468981,
     "geom:longitude":-97.610071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Ann Arbor Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":354205613,
-    "wof:lastmodified":1449066962,
+    "wof:lastmodified":1466763954,
     "wof:name":"Mill-Rite",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shutter"
     ]
 },
-  "bbox": [-97.610071,35.468981,-97.610071,35.468981],
+  "bbox": [
+    -97.610071,
+    35.468981,
+    -97.610071,
+    35.468981
+],
   "geometry": {"coordinates":[-97.610071,35.468981],"type":"Point"}
 }

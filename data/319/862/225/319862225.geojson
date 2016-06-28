@@ -2,13 +2,14 @@
   "id": 319862225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503576,35.609153,-97.503576,35.609153",
     "geom:latitude":35.609153,
     "geom:longitude":-97.503576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Memorial Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319862225,
-    "wof:lastmodified":1449024904,
+    "wof:lastmodified":1466763282,
     "wof:name":"Acme Brick Co",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brick"
     ]
 },
-  "bbox": [-97.503576,35.609153,-97.503576,35.609153],
+  "bbox": [
+    -97.503576,
+    35.609153,
+    -97.503576,
+    35.609153
+],
   "geometry": {"coordinates":[-97.503576,35.609153],"type":"Point"}
 }

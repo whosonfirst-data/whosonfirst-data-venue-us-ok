@@ -2,13 +2,14 @@
   "id": 304039725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.971068,34.507233,-96.971068,34.507233",
     "geom:latitude":34.507233,
     "geom:longitude":-96.971068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Muskogee Ave",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304039725,
-    "wof:lastmodified":1449044083,
+    "wof:lastmodified":1466763045,
     "wof:name":"Artist of The Arbuckles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-96.971068,34.507233,-96.971068,34.507233],
+  "bbox": [
+    -96.971068,
+    34.507233,
+    -96.971068,
+    34.507233
+],
   "geometry": {"coordinates":[-96.971068,34.507233],"type":"Point"}
 }

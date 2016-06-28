@@ -2,13 +2,14 @@
   "id": 320245085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.34028,35.753527,-95.34028,35.753527",
     "geom:latitude":35.753527,
     "geom:longitude":-95.34028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1054 N York St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320245085,
-    "wof:lastmodified":1449014839,
+    "wof:lastmodified":1466764819,
     "wof:name":"Beacon Drive Inn",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.34028,35.753527,-95.34028,35.753527],
-  "geometry": {"coordinates":[-95.34028,35.753527],"type":"Point"}
+  "bbox": [
+    -95.34028,
+    35.753527,
+    -95.34028,
+    35.753527
+],
+  "geometry": {"coordinates":[-95.34028000000001,35.753527],"type":"Point"}
 }

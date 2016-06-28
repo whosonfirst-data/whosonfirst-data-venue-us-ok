@@ -2,13 +2,14 @@
   "id": 336743463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549652,35.519068,-97.549652,35.519068",
     "geom:latitude":35.519068,
     "geom:longitude":-97.549652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 NW 47th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336743463,
-    "wof:lastmodified":1448998002,
+    "wof:lastmodified":1466764362,
     "wof:name":"Seven Oaks Apts",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.549652,35.519068,-97.549652,35.519068],
-  "geometry": {"coordinates":[-97.549652,35.519068],"type":"Point"}
+  "bbox": [
+    -97.549652,
+    35.519068,
+    -97.549652,
+    35.519068
+],
+  "geometry": {"coordinates":[-97.54965199999999,35.519068],"type":"Point"}
 }

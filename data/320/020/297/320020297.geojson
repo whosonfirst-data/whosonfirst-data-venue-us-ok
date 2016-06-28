@@ -2,13 +2,14 @@
   "id": 320020297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.973251,36.027364,-95.973251,36.027364",
     "geom:latitude":36.027364,
     "geom:longitude":-95.973251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 N Cedar St",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320020297,
-    "wof:lastmodified":1449013000,
+    "wof:lastmodified":1466762586,
     "wof:name":"Windows Window Cleaning",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-95.973251,36.027364,-95.973251,36.027364],
+  "bbox": [
+    -95.973251,
+    36.027364,
+    -95.973251,
+    36.027364
+],
   "geometry": {"coordinates":[-95.973251,36.027364],"type":"Point"}
 }

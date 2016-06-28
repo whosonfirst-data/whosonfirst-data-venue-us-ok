@@ -2,13 +2,14 @@
   "id": 303975903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.678485,34.768237,-96.678485,34.768237",
     "geom:latitude":34.768237,
     "geom:longitude":-96.678485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E 17th St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303975903,
-    "wof:lastmodified":1449000225,
+    "wof:lastmodified":1466767111,
     "wof:name":"St Lukes Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.678485,34.768237,-96.678485,34.768237],
-  "geometry": {"coordinates":[-96.678485,34.768237],"type":"Point"}
+  "bbox": [
+    -96.678485,
+    34.768237,
+    -96.678485,
+    34.768237
+],
+  "geometry": {"coordinates":[-96.67848499999999,34.768237],"type":"Point"}
 }

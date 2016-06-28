@@ -2,13 +2,14 @@
   "id": 303693371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549395,35.583596,-97.549395,35.583596",
     "geom:latitude":35.583596,
     "geom:longitude":-97.549395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11003 N Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303693371,
-    "wof:lastmodified":1448998259,
+    "wof:lastmodified":1466766579,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.549395,35.583596,-97.549395,35.583596],
+  "bbox": [
+    -97.549395,
+    35.583596,
+    -97.549395,
+    35.583596
+],
   "geometry": {"coordinates":[-97.549395,35.583596],"type":"Point"}
 }

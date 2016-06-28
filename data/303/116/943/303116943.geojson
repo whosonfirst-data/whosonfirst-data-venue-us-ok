@@ -2,13 +2,14 @@
   "id": 303116943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.212963,35.374009,-97.212963,35.374009",
     "geom:latitude":35.374009,
     "geom:longitude":-97.212963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9401 S Peebly Rd",
     "sg:city":"Newalla",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303116943,
-    "wof:lastmodified":1448998474,
+    "wof:lastmodified":1466763508,
     "wof:name":"S & H Transport",
     "wof:parent_id":85830865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.212963,35.374009,-97.212963,35.374009],
+  "bbox": [
+    -97.212963,
+    35.374009,
+    -97.212963,
+    35.374009
+],
   "geometry": {"coordinates":[-97.212963,35.374009],"type":"Point"}
 }

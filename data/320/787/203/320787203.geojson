@@ -2,13 +2,14 @@
   "id": 320787203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.078759,35.431727,-97.078759,35.431727",
     "geom:latitude":35.431727,
     "geom:longitude":-97.078759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32461 S Hwy 270",
     "sg:city":"Dale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320787203,
-    "wof:lastmodified":1449012941,
+    "wof:lastmodified":1466766801,
     "wof:name":"Buzzards Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-97.078759,35.431727,-97.078759,35.431727],
-  "geometry": {"coordinates":[-97.078759,35.431727],"type":"Point"}
+  "bbox": [
+    -97.078759,
+    35.431727,
+    -97.078759,
+    35.431727
+],
+  "geometry": {"coordinates":[-97.07875900000001,35.431727],"type":"Point"}
 }

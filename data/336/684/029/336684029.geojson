@@ -2,13 +2,14 @@
   "id": 336684029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.522611,35.513677,-97.522611,35.513677",
     "geom:latitude":35.513677,
     "geom:longitude":-97.522611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 NW 41st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336684029,
-    "wof:lastmodified":1448997218,
+    "wof:lastmodified":1466763475,
     "wof:name":"William & Mary Design",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-97.522611,35.513677,-97.522611,35.513677],
+  "bbox": [
+    -97.522611,
+    35.513677,
+    -97.522611,
+    35.513677
+],
   "geometry": {"coordinates":[-97.522611,35.513677],"type":"Point"}
 }

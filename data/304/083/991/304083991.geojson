@@ -2,13 +2,14 @@
   "id": 304083991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.935482,35.044018,-97.935482,35.044018",
     "geom:latitude":35.044018,
     "geom:longitude":-97.935482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 S 3rd St",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304083991,
-    "wof:lastmodified":1449043822,
+    "wof:lastmodified":1466763320,
     "wof:name":"Munchies & More Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.935482,35.044018,-97.935482,35.044018],
-  "geometry": {"coordinates":[-97.935482,35.044018],"type":"Point"}
+  "bbox": [
+    -97.935482,
+    35.044018,
+    -97.935482,
+    35.044018
+],
+  "geometry": {"coordinates":[-97.93548199999999,35.044018],"type":"Point"}
 }

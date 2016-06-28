@@ -2,13 +2,14 @@
   "id": 303069277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.971021,35.88533,-94.971021,35.88533",
     "geom:latitude":35.88533,
     "geom:longitude":-94.971021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E Ballentine Rd",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303069277,
-    "wof:lastmodified":1448999660,
+    "wof:lastmodified":1466762732,
     "wof:name":"Cherrys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [-94.971021,35.88533,-94.971021,35.88533],
-  "geometry": {"coordinates":[-94.971021,35.88533],"type":"Point"}
+  "bbox": [
+    -94.971021,
+    35.88533,
+    -94.971021,
+    35.88533
+],
+  "geometry": {"coordinates":[-94.97102099999999,35.88533],"type":"Point"}
 }

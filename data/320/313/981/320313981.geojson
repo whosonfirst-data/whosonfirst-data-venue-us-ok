@@ -2,13 +2,14 @@
   "id": 320313981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.898792,36.140768,-95.898792,36.140768",
     "geom:latitude":36.140768,
     "geom:longitude":-95.898792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7043 E 15th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320313981,
-    "wof:lastmodified":1449011375,
+    "wof:lastmodified":1466765233,
     "wof:name":"Voice Stream Engineering Off",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-95.898792,36.140768,-95.898792,36.140768],
+  "bbox": [
+    -95.898792,
+    36.140768,
+    -95.898792,
+    36.140768
+],
   "geometry": {"coordinates":[-95.898792,36.140768],"type":"Point"}
 }

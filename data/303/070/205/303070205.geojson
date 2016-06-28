@@ -2,13 +2,14 @@
   "id": 303070205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.281634,36.269421,-97.281634,36.269421",
     "geom:latitude":36.269421,
     "geom:longitude":-97.281634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24200 Co Rd 110",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303070205,
-    "wof:lastmodified":1448999313,
+    "wof:lastmodified":1466762749,
     "wof:name":"Dixon Archery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.281634,36.269421,-97.281634,36.269421],
+  "bbox": [
+    -97.281634,
+    36.269421,
+    -97.281634,
+    36.269421
+],
   "geometry": {"coordinates":[-97.281634,36.269421],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220176709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.97222,36.181283,-95.97222,36.181283",
     "geom:latitude":36.181283,
     "geom:longitude":-95.97222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 N Rockford Ave Apt D",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":220176709,
-    "wof:lastmodified":1449074582,
+    "wof:lastmodified":1466762348,
     "wof:name":"Tulsa Housing Authority",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "finder"
     ]
 },
-  "bbox": [-95.97222,36.181283,-95.97222,36.181283],
-  "geometry": {"coordinates":[-95.97222,36.181283],"type":"Point"}
+  "bbox": [
+    -95.97222,
+    36.181283,
+    -95.97222,
+    36.181283
+],
+  "geometry": {"coordinates":[-95.97221999999999,36.181283],"type":"Point"}
 }

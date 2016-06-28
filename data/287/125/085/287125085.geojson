@@ -2,13 +2,14 @@
   "id": 287125085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.925215,35.052261,-97.925215,35.052261",
     "geom:latitude":35.052261,
     "geom:longitude":-97.925215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 E Choctaw Ave",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287125085,
-    "wof:lastmodified":1449001555,
+    "wof:lastmodified":1466764211,
     "wof:name":"Total Turnaround",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.925215,35.052261,-97.925215,35.052261],
-  "geometry": {"coordinates":[-97.925215,35.052261],"type":"Point"}
+  "bbox": [
+    -97.925215,
+    35.052261,
+    -97.925215,
+    35.052261
+],
+  "geometry": {"coordinates":[-97.92521499999999,35.052261],"type":"Point"}
 }

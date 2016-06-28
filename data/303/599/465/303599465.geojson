@@ -2,13 +2,14 @@
   "id": 303599465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.354191,35.44632,-97.354191,35.44632",
     "geom:latitude":35.44632,
     "geom:longitude":-97.354191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9920 Crest Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303599465,
-    "wof:lastmodified":1448999257,
+    "wof:lastmodified":1466766090,
     "wof:name":"Oklahoma Jazz Vocal",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.354191,35.44632,-97.354191,35.44632],
+  "bbox": [
+    -97.354191,
+    35.44632,
+    -97.354191,
+    35.44632
+],
   "geometry": {"coordinates":[-97.354191,35.44632],"type":"Point"}
 }

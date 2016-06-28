@@ -2,13 +2,14 @@
   "id": 354083601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.127304,35.273578,-99.127304,35.273578",
     "geom:latitude":35.273578,
     "geom:longitude":-99.127304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 E 10th Ave",
     "sg:city":"Dill City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354083601,
-    "wof:lastmodified":1449066727,
+    "wof:lastmodified":1466763453,
     "wof:name":"Dill City Answering Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.127304,35.273578,-99.127304,35.273578],
+  "bbox": [
+    -99.127304,
+    35.273578,
+    -99.127304,
+    35.273578
+],
   "geometry": {"coordinates":[-99.127304,35.273578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336710629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.931008,36.095562,-95.931008,36.095562",
     "geom:latitude":36.095562,
     "geom:longitude":-95.931008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4131 E 47th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336710629,
-    "wof:lastmodified":1448996992,
+    "wof:lastmodified":1466763886,
     "wof:name":"Vesley N L",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-95.931008,36.095562,-95.931008,36.095562],
-  "geometry": {"coordinates":[-95.931008,36.095562],"type":"Point"}
+  "bbox": [
+    -95.931008,
+    36.095562,
+    -95.931008,
+    36.095562
+],
+  "geometry": {"coordinates":[-95.93100800000001,36.095562],"type":"Point"}
 }

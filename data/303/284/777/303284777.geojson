@@ -2,13 +2,14 @@
   "id": 303284777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.930499,36.871496,-95.930499,36.871496",
     "geom:latitude":36.871496,
     "geom:longitude":-95.930499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10041 N 3975 Rd",
     "sg:city":"Copan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303284777,
-    "wof:lastmodified":1448999639,
+    "wof:lastmodified":1466764888,
     "wof:name":"Smith Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leveling"
     ]
 },
-  "bbox": [-95.930499,36.871496,-95.930499,36.871496],
+  "bbox": [
+    -95.930499,
+    36.871496,
+    -95.930499,
+    36.871496
+],
   "geometry": {"coordinates":[-95.930499,36.871496],"type":"Point"}
 }

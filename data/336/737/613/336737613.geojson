@@ -2,13 +2,14 @@
   "id": 336737613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.830512,36.03196,-95.830512,36.03196",
     "geom:latitude":36.03196,
     "geom:longitude":-95.830512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3316 W Washington St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336737613,
-    "wof:lastmodified":1448997193,
+    "wof:lastmodified":1466764329,
     "wof:name":"Panera Bread Catering",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-95.830512,36.03196,-95.830512,36.03196],
+  "bbox": [
+    -95.830512,
+    36.03196,
+    -95.830512,
+    36.03196
+],
   "geometry": {"coordinates":[-95.830512,36.03196],"type":"Point"}
 }

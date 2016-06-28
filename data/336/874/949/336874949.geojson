@@ -2,13 +2,14 @@
   "id": 336874949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.411206,35.493129,-97.411206,35.493129",
     "geom:latitude":35.493129,
     "geom:longitude":-97.411206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6720 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336874949,
-    "wof:lastmodified":1448997941,
+    "wof:lastmodified":1466765195,
     "wof:name":"Crutcho Baptist Church",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.411206,35.493129,-97.411206,35.493129],
-  "geometry": {"coordinates":[-97.411206,35.493129],"type":"Point"}
+  "bbox": [
+    -97.411206,
+    35.493129,
+    -97.411206,
+    35.493129
+],
+  "geometry": {"coordinates":[-97.41120600000001,35.493129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353787785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.512541,34.010792,-95.512541,34.010792",
     "geom:latitude":34.010792,
     "geom:longitude":-95.512541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 E Jackson St",
     "sg:city":"Hugo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353787785,
-    "wof:lastmodified":1449019416,
+    "wof:lastmodified":1466765263,
     "wof:name":"Hugo Daily News",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-95.512541,34.010792,-95.512541,34.010792],
+  "bbox": [
+    -95.512541,
+    34.010792,
+    -95.512541,
+    34.010792
+],
   "geometry": {"coordinates":[-95.512541,34.010792],"type":"Point"}
 }

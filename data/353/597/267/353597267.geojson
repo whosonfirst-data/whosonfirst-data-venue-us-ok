@@ -2,13 +2,14 @@
   "id": 353597267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.791376,35.458459,-94.791376,35.458459",
     "geom:latitude":35.458459,
     "geom:longitude":-94.791376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Chickasaw Ave",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353597267,
-    "wof:lastmodified":1449020744,
+    "wof:lastmodified":1466764367,
     "wof:name":"Sallisaw Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-94.791376,35.458459,-94.791376,35.458459],
+  "bbox": [
+    -94.791376,
+    35.458459,
+    -94.791376,
+    35.458459
+],
   "geometry": {"coordinates":[-94.791376,35.458459],"type":"Point"}
 }

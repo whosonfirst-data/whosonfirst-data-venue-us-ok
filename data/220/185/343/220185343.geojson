@@ -2,13 +2,14 @@
   "id": 220185343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.893403,36.177411,-95.893403,36.177411",
     "geom:latitude":36.177411,
     "geom:longitude":-95.893403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1526 N 75th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":220185343,
-    "wof:lastmodified":1449074174,
+    "wof:lastmodified":1466762379,
     "wof:name":"Geodata Logging Services Inc",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "library"
     ]
 },
-  "bbox": [-95.893403,36.177411,-95.893403,36.177411],
-  "geometry": {"coordinates":[-95.893403,36.177411],"type":"Point"}
+  "bbox": [
+    -95.893403,
+    36.177411,
+    -95.893403,
+    36.177411
+],
+  "geometry": {"coordinates":[-95.89340300000001,36.177411],"type":"Point"}
 }

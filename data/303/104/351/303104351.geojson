@@ -2,13 +2,14 @@
   "id": 303104351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.768274,34.925831,-95.768274,34.925831",
     "geom:latitude":34.925831,
     "geom:longitude":-95.768274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 S 3rd St",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303104351,
-    "wof:lastmodified":1448999126,
+    "wof:lastmodified":1466763307,
     "wof:name":"Yvonne Collins Dentistry",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-95.768274,34.925831,-95.768274,34.925831],
-  "geometry": {"coordinates":[-95.768274,34.925831],"type":"Point"}
+  "bbox": [
+    -95.768274,
+    34.925831,
+    -95.768274,
+    34.925831
+],
+  "geometry": {"coordinates":[-95.76827400000001,34.925831],"type":"Point"}
 }

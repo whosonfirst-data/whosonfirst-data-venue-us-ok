@@ -2,13 +2,14 @@
   "id": 303503249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.433715,35.411627,-99.433715,35.411627",
     "geom:latitude":35.411627,
     "geom:longitude":-99.433715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2314 W 3rd St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303503249,
-    "wof:lastmodified":1449000573,
+    "wof:lastmodified":1466765833,
     "wof:name":"Wilson Music Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-99.433715,35.411627,-99.433715,35.411627],
-  "geometry": {"coordinates":[-99.433715,35.411627],"type":"Point"}
+  "bbox": [
+    -99.433715,
+    35.411627,
+    -99.433715,
+    35.411627
+],
+  "geometry": {"coordinates":[-99.43371500000001,35.411627],"type":"Point"}
 }

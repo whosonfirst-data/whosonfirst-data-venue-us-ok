@@ -2,13 +2,14 @@
   "id": 353860051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517683,35.476154,-97.517683,35.476154",
     "geom:latitude":35.476154,
     "geom:longitude":-97.517683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 N Harvey Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353860051,
-    "wof:lastmodified":1449019396,
+    "wof:lastmodified":1466765550,
     "wof:name":"South Western Bell Telephone",
     "wof:parent_id":85871669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-97.517683,35.476154,-97.517683,35.476154],
-  "geometry": {"coordinates":[-97.517683,35.476154],"type":"Point"}
+  "bbox": [
+    -97.517683,
+    35.476154,
+    -97.517683,
+    35.476154
+],
+  "geometry": {"coordinates":[-97.51768300000001,35.476154],"type":"Point"}
 }

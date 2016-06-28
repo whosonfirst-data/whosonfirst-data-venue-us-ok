@@ -2,13 +2,14 @@
   "id": 320777099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.810357,35.998429,-95.810357,35.998429",
     "geom:latitude":35.998429,
     "geom:longitude":-95.810357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 S Redbud Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320777099,
-    "wof:lastmodified":1449013232,
+    "wof:lastmodified":1466766857,
     "wof:name":"Universal Staffing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.810357,35.998429,-95.810357,35.998429],
+  "bbox": [
+    -95.810357,
+    35.998429,
+    -95.810357,
+    35.998429
+],
   "geometry": {"coordinates":[-95.810357,35.998429],"type":"Point"}
 }

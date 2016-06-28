@@ -2,13 +2,14 @@
   "id": 303115861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.908108,35.829137,-95.908108,35.829137",
     "geom:latitude":35.829137,
     "geom:longitude":-95.908108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16025 Coolidge Rd",
     "sg:city":"Mounds",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303115861,
-    "wof:lastmodified":1448998099,
+    "wof:lastmodified":1466763486,
     "wof:name":"Whismans Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.908108,35.829137,-95.908108,35.829137],
+  "bbox": [
+    -95.908108,
+    35.829137,
+    -95.908108,
+    35.829137
+],
   "geometry": {"coordinates":[-95.908108,35.829137],"type":"Point"}
 }

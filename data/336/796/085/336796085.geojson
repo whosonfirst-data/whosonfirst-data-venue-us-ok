@@ -2,13 +2,14 @@
   "id": 336796085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.545023,35.535543,-97.545023,35.535543",
     "geom:latitude":35.535543,
     "geom:longitude":-97.545023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6303 Waterford Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336796085,
-    "wof:lastmodified":1448997458,
+    "wof:lastmodified":1466764653,
     "wof:name":"John W Dunn Jr",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.545023,35.535543,-97.545023,35.535543],
+  "bbox": [
+    -97.545023,
+    35.535543,
+    -97.545023,
+    35.535543
+],
   "geometry": {"coordinates":[-97.545023,35.535543],"type":"Point"}
 }

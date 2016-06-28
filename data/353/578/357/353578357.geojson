@@ -2,13 +2,14 @@
   "id": 353578357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547863,35.383393,-97.547863,35.383393",
     "geom:latitude":35.383393,
     "geom:longitude":-97.547863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8305 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353578357,
-    "wof:lastmodified":1449018910,
+    "wof:lastmodified":1466764193,
     "wof:name":"David W Elshire Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-97.547863,35.383393,-97.547863,35.383393],
-  "geometry": {"coordinates":[-97.547863,35.383393],"type":"Point"}
+  "bbox": [
+    -97.547863,
+    35.383393,
+    -97.547863,
+    35.383393
+],
+  "geometry": {"coordinates":[-97.54786300000001,35.383393],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320480769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.622589,35.550879,-97.622589,35.550879",
     "geom:latitude":35.550879,
     "geom:longitude":-97.622589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6040 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320480769,
-    "wof:lastmodified":1449012491,
+    "wof:lastmodified":1466766015,
     "wof:name":"Cedar Lake Estates Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-97.622589,35.550879,-97.622589,35.550879],
+  "bbox": [
+    -97.622589,
+    35.550879,
+    -97.622589,
+    35.550879
+],
   "geometry": {"coordinates":[-97.622589,35.550879],"type":"Point"}
 }

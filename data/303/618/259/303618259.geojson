@@ -2,13 +2,14 @@
   "id": 303618259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.238937,35.072346,-98.238937,35.072346",
     "geom:latitude":35.072346,
     "geom:longitude":-98.238937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 E Central Blvd",
     "sg:city":"Anadarko",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303618259,
-    "wof:lastmodified":1448999640,
+    "wof:lastmodified":1466766240,
     "wof:name":"John F Reese Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.238937,35.072346,-98.238937,35.072346],
-  "geometry": {"coordinates":[-98.238937,35.072346],"type":"Point"}
+  "bbox": [
+    -98.238937,
+    35.072346,
+    -98.238937,
+    35.072346
+],
+  "geometry": {"coordinates":[-98.23893700000001,35.072346],"type":"Point"}
 }

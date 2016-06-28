@@ -2,13 +2,14 @@
   "id": 320587915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.430189,35.464082,-97.430189,35.464082",
     "geom:latitude":35.464082,
     "geom:longitude":-97.430189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4803 E Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320587915,
-    "wof:lastmodified":1449012557,
+    "wof:lastmodified":1466766268,
     "wof:name":"7-Eleven",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.430189,35.464082,-97.430189,35.464082],
+  "bbox": [
+    -97.430189,
+    35.464082,
+    -97.430189,
+    35.464082
+],
   "geometry": {"coordinates":[-97.430189,35.464082],"type":"Point"}
 }

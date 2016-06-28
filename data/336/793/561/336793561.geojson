@@ -2,13 +2,14 @@
   "id": 336793561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.64227,35.559459,-97.64227,35.559459",
     "geom:latitude":35.559459,
     "geom:longitude":-97.64227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7230 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336793561,
-    "wof:lastmodified":1448997538,
+    "wof:lastmodified":1466764647,
     "wof:name":"FAA Employees Credit Union",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.64227,35.559459,-97.64227,35.559459],
+  "bbox": [
+    -97.64227,
+    35.559459,
+    -97.64227,
+    35.559459
+],
   "geometry": {"coordinates":[-97.64227,35.559459],"type":"Point"}
 }

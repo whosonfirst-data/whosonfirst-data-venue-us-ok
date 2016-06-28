@@ -2,13 +2,14 @@
   "id": 336899219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.604074,35.409541,-94.604074,35.409541",
     "geom:latitude":35.409541,
     "geom:longitude":-94.604074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Vian St",
     "sg:city":"Muldrow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336899219,
-    "wof:lastmodified":1448997951,
+    "wof:lastmodified":1466765213,
     "wof:name":"ADL Storage & Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-94.604074,35.409541,-94.604074,35.409541],
+  "bbox": [
+    -94.604074,
+    35.409541,
+    -94.604074,
+    35.409541
+],
   "geometry": {"coordinates":[-94.604074,35.409541],"type":"Point"}
 }

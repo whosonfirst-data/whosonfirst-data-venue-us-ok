@@ -2,13 +2,14 @@
   "id": 303651129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.748374,34.903652,-95.748374,34.903652",
     "geom:latitude":34.903652,
     "geom:longitude":-95.748374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 S George Nigh Expy",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303651129,
-    "wof:lastmodified":1448998601,
+    "wof:lastmodified":1466766263,
     "wof:name":"Lakewood Christian Church",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.748374,34.903652,-95.748374,34.903652],
+  "bbox": [
+    -95.748374,
+    34.903652,
+    -95.748374,
+    34.903652
+],
   "geometry": {"coordinates":[-95.748374,34.903652],"type":"Point"}
 }

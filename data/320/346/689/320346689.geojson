@@ -2,13 +2,14 @@
   "id": 320346689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.471032,34.623718,-98.471032,34.623718",
     "geom:latitude":34.623718,
     "geom:longitude":-98.471032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 NW Great Plains Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320346689,
-    "wof:lastmodified":1449011242,
+    "wof:lastmodified":1466765454,
     "wof:name":"Richard A Jones CPA",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-98.471032,34.623718,-98.471032,34.623718],
-  "geometry": {"coordinates":[-98.471032,34.623718],"type":"Point"}
+  "bbox": [
+    -98.471032,
+    34.623718,
+    -98.471032,
+    34.623718
+],
+  "geometry": {"coordinates":[-98.47103199999999,34.623718],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303857263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.52981,35.334213,-97.52981,35.334213",
     "geom:latitude":35.334213,
     "geom:longitude":-97.52981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 SW 134th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303857263,
-    "wof:lastmodified":1448999705,
+    "wof:lastmodified":1466766857,
     "wof:name":"Studio 824",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.52981,35.334213,-97.52981,35.334213],
+  "bbox": [
+    -97.52981,
+    35.334213,
+    -97.52981,
+    35.334213
+],
   "geometry": {"coordinates":[-97.52981,35.334213],"type":"Point"}
 }

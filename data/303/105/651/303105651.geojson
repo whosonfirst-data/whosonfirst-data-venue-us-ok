@@ -2,13 +2,14 @@
   "id": 303105651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.335246,34.641109,-99.335246,34.641109",
     "geom:latitude":34.641109,
     "geom:longitude":-99.335246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Hudson St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303105651,
-    "wof:lastmodified":1448999047,
+    "wof:lastmodified":1466763329,
     "wof:name":"Curves of Altus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-99.335246,34.641109,-99.335246,34.641109],
+  "bbox": [
+    -99.335246,
+    34.641109,
+    -99.335246,
+    34.641109
+],
   "geometry": {"coordinates":[-99.335246,34.641109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303670073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.437874,35.220861,-97.437874,35.220861",
     "geom:latitude":35.220861,
     "geom:longitude":-97.437874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 S Porter Ave",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303670073,
-    "wof:lastmodified":1448998484,
+    "wof:lastmodified":1466766354,
     "wof:name":"Womack Auto Sales Inc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.437874,35.220861,-97.437874,35.220861],
-  "geometry": {"coordinates":[-97.437874,35.220861],"type":"Point"}
+  "bbox": [
+    -97.437874,
+    35.220861,
+    -97.437874,
+    35.220861
+],
+  "geometry": {"coordinates":[-97.43787399999999,35.220861],"type":"Point"}
 }

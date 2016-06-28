@@ -2,13 +2,14 @@
   "id": 337515753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.404746,34.589193,-98.404746,34.589193",
     "geom:latitude":34.589193,
     "geom:longitude":-98.404746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1711 SW 11th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":337515753,
-    "wof:lastmodified":1449027109,
+    "wof:lastmodified":1466762737,
     "wof:name":"O R O Development",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.404746,34.589193,-98.404746,34.589193],
+  "bbox": [
+    -98.404746,
+    34.589193,
+    -98.404746,
+    34.589193
+],
   "geometry": {"coordinates":[-98.404746,34.589193],"type":"Point"}
 }

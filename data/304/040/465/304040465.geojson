@@ -2,13 +2,14 @@
   "id": 304040465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.597819,35.401554,-97.597819,35.401554",
     "geom:latitude":35.401554,
     "geom:longitude":-97.597819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6300 Terminal Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304040465,
-    "wof:lastmodified":1449044139,
+    "wof:lastmodified":1466763045,
     "wof:name":"Sheraton",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.597819,35.401554,-97.597819,35.401554],
+  "bbox": [
+    -97.597819,
+    35.401554,
+    -97.597819,
+    35.401554
+],
   "geometry": {"coordinates":[-97.597819,35.401554],"type":"Point"}
 }

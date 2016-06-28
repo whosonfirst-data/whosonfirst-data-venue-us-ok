@@ -2,13 +2,14 @@
   "id": 320672245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.971826,35.62384,-95.971826,35.62384",
     "geom:latitude":35.62384,
     "geom:longitude":-95.971826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 N Grand Ave",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320672245,
-    "wof:lastmodified":1449011483,
+    "wof:lastmodified":1466766460,
     "wof:name":"Iris L Brownfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-95.971826,35.62384,-95.971826,35.62384],
-  "geometry": {"coordinates":[-95.971826,35.62384],"type":"Point"}
+  "bbox": [
+    -95.971826,
+    35.62384,
+    -95.971826,
+    35.62384
+],
+  "geometry": {"coordinates":[-95.97182599999999,35.62384],"type":"Point"}
 }

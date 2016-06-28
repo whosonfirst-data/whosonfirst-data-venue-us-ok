@@ -2,13 +2,14 @@
   "id": 303248371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.868615,36.085187,-95.868615,36.085187",
     "geom:latitude":36.085187,
     "geom:longitude":-95.868615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5330 S Mingo Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303248371,
-    "wof:lastmodified":1448999462,
+    "wof:lastmodified":1466764705,
     "wof:name":"M G M Fire Systems Inc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "sprinkling"
     ]
 },
-  "bbox": [-95.868615,36.085187,-95.868615,36.085187],
-  "geometry": {"coordinates":[-95.868615,36.085187],"type":"Point"}
+  "bbox": [
+    -95.868615,
+    36.085187,
+    -95.868615,
+    36.085187
+],
+  "geometry": {"coordinates":[-95.86861500000001,36.085187],"type":"Point"}
 }

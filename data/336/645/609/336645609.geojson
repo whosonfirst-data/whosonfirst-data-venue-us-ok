@@ -2,13 +2,14 @@
   "id": 336645609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534239,35.442389,-97.534239,35.442389",
     "geom:latitude":35.442389,
     "geom:longitude":-97.534239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 SW 22nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336645609,
-    "wof:lastmodified":1448997045,
+    "wof:lastmodified":1466762884,
     "wof:name":"Southside Seat Covers",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-97.534239,35.442389,-97.534239,35.442389],
+  "bbox": [
+    -97.534239,
+    35.442389,
+    -97.534239,
+    35.442389
+],
   "geometry": {"coordinates":[-97.534239,35.442389],"type":"Point"}
 }

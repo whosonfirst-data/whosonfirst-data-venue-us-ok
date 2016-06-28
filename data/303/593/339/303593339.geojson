@@ -2,13 +2,14 @@
   "id": 303593339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.42245,34.620481,-98.42245,34.620481",
     "geom:latitude":34.620481,
     "geom:longitude":-98.42245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 NW Sheridan Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303593339,
-    "wof:lastmodified":1448999738,
+    "wof:lastmodified":1466766171,
     "wof:name":"Miller-Mcclung",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.42245,34.620481,-98.42245,34.620481],
+  "bbox": [
+    -98.42245,
+    34.620481,
+    -98.42245,
+    34.620481
+],
   "geometry": {"coordinates":[-98.42245,34.620481],"type":"Point"}
 }

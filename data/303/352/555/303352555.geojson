@@ -2,13 +2,14 @@
   "id": 303352555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.999435,36.750582,-95.999435,36.750582",
     "geom:latitude":36.750582,
     "geom:longitude":-95.999435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1849 W 4th St",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303352555,
-    "wof:lastmodified":1448999624,
+    "wof:lastmodified":1466765072,
     "wof:name":"United Supermarkets Of Ok",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-95.999435,36.750582,-95.999435,36.750582],
-  "geometry": {"coordinates":[-95.999435,36.750582],"type":"Point"}
+  "bbox": [
+    -95.999435,
+    36.750582,
+    -95.999435,
+    36.750582
+],
+  "geometry": {"coordinates":[-95.99943500000001,36.750582],"type":"Point"}
 }

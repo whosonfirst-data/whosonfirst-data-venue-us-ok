@@ -2,13 +2,14 @@
   "id": 303081901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494564,35.494017,-97.494564,35.494017",
     "geom:latitude":35.494017,
     "geom:longitude":-97.494564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2409 N Kelley Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303081901,
-    "wof:lastmodified":1448998873,
+    "wof:lastmodified":1466762936,
     "wof:name":"Human Services Oklahoma Dept",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "human"
     ]
 },
-  "bbox": [-97.494564,35.494017,-97.494564,35.494017],
+  "bbox": [
+    -97.494564,
+    35.494017,
+    -97.494564,
+    35.494017
+],
   "geometry": {"coordinates":[-97.494564,35.494017],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303814309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.1205,34.186019,-97.1205,34.186019",
     "geom:latitude":34.186019,
     "geom:longitude":-97.1205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Sam Noble Pkwy",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303814309,
-    "wof:lastmodified":1448998565,
+    "wof:lastmodified":1466766742,
     "wof:name":"Kips Klunkers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.1205,34.186019,-97.1205,34.186019],
-  "geometry": {"coordinates":[-97.1205,34.186019],"type":"Point"}
+  "bbox": [
+    -97.1205,
+    34.186019,
+    -97.1205,
+    34.186019
+],
+  "geometry": {"coordinates":[-97.12050000000001,34.186019],"type":"Point"}
 }

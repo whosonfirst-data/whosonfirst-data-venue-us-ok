@@ -2,13 +2,14 @@
   "id": 337430099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.329017,36.665629,-96.329017,36.665629",
     "geom:latitude":36.665629,
     "geom:longitude":-96.329017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 E 8th St",
     "sg:city":"Pawhuska",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337430099,
-    "wof:lastmodified":1449027475,
+    "wof:lastmodified":1466764137,
     "wof:name":"National Guard Armory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-96.329017,36.665629,-96.329017,36.665629],
-  "geometry": {"coordinates":[-96.329017,36.665629],"type":"Point"}
+  "bbox": [
+    -96.329017,
+    36.665629,
+    -96.329017,
+    36.665629
+],
+  "geometry": {"coordinates":[-96.32901699999999,36.665629],"type":"Point"}
 }

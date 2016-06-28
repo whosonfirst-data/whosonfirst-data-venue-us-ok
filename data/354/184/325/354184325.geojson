@@ -2,13 +2,14 @@
   "id": 354184325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.421968,35.411636,-99.421968,35.411636",
     "geom:latitude":35.411636,
     "geom:longitude":-99.421968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 W 3rd St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354184325,
-    "wof:lastmodified":1449066225,
+    "wof:lastmodified":1466763825,
     "wof:name":"Tool Box",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.421968,35.411636,-99.421968,35.411636],
-  "geometry": {"coordinates":[-99.421968,35.411636],"type":"Point"}
+  "bbox": [
+    -99.421968,
+    35.411636,
+    -99.421968,
+    35.411636
+],
+  "geometry": {"coordinates":[-99.42196800000001,35.411636],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320683721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.604412,35.491242,-97.604412,35.491242",
     "geom:latitude":35.491242,
     "geom:longitude":-97.604412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2316 N Minnie Ln",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320683721,
-    "wof:lastmodified":1449012656,
+    "wof:lastmodified":1466766507,
     "wof:name":"Able Movers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-97.604412,35.491242,-97.604412,35.491242],
+  "bbox": [
+    -97.604412,
+    35.491242,
+    -97.604412,
+    35.491242
+],
   "geometry": {"coordinates":[-97.604412,35.491242],"type":"Point"}
 }

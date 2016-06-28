@@ -2,13 +2,14 @@
   "id": 304023529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.114955,34.378024,-96.114955,34.378024",
     "geom:latitude":34.378024,
     "geom:longitude":-96.114955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 E 10th St",
     "sg:city":"Atoka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304023529,
-    "wof:lastmodified":1449044106,
+    "wof:lastmodified":1466762939,
     "wof:name":"Loans Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-96.114955,34.378024,-96.114955,34.378024],
-  "geometry": {"coordinates":[-96.114955,34.378024],"type":"Point"}
+  "bbox": [
+    -96.114955,
+    34.378024,
+    -96.114955,
+    34.378024
+],
+  "geometry": {"coordinates":[-96.11495499999999,34.378024],"type":"Point"}
 }

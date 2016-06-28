@@ -2,13 +2,14 @@
   "id": 303097703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.35143,34.631361,-99.35143,34.631361",
     "geom:latitude":34.631361,
     "geom:longitude":-99.35143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 S Carver Rd",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303097703,
-    "wof:lastmodified":1448999084,
+    "wof:lastmodified":1466763202,
     "wof:name":"Headstart Lincoln Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.35143,34.631361,-99.35143,34.631361],
-  "geometry": {"coordinates":[-99.35143,34.631361],"type":"Point"}
+  "bbox": [
+    -99.35143,
+    34.631361,
+    -99.35143,
+    34.631361
+],
+  "geometry": {"coordinates":[-99.35142999999999,34.631361],"type":"Point"}
 }

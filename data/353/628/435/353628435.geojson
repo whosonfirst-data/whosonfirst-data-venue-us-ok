@@ -2,13 +2,14 @@
   "id": 353628435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.413378,35.586562,-97.413378,35.586562",
     "geom:latitude":35.586562,
     "geom:longitude":-97.413378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6501 NE 113th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353628435,
-    "wof:lastmodified":1449020342,
+    "wof:lastmodified":1466764522,
     "wof:name":"Henry Lyndsay Ltd Co",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-97.413378,35.586562,-97.413378,35.586562],
-  "geometry": {"coordinates":[-97.413378,35.586562],"type":"Point"}
+  "bbox": [
+    -97.413378,
+    35.586562,
+    -97.413378,
+    35.586562
+],
+  "geometry": {"coordinates":[-97.41337799999999,35.586562],"type":"Point"}
 }

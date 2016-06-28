@@ -2,13 +2,14 @@
   "id": 320196359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503233,35.511389,-97.503233,35.511389",
     "geom:latitude":35.511389,
     "geom:longitude":-97.503233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3925 N Lincoln Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320196359,
-    "wof:lastmodified":1449012098,
+    "wof:lastmodified":1466764450,
     "wof:name":"Fresh Start Seafood",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-97.503233,35.511389,-97.503233,35.511389],
-  "geometry": {"coordinates":[-97.503233,35.511389],"type":"Point"}
+  "bbox": [
+    -97.503233,
+    35.511389,
+    -97.503233,
+    35.511389
+],
+  "geometry": {"coordinates":[-97.50323299999999,35.511389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336881677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.367291,35.948765,-95.367291,35.948765",
     "geom:latitude":35.948765,
     "geom:longitude":-95.367291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 S McQuarrie Ave",
     "sg:city":"Wagoner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336881677,
-    "wof:lastmodified":1448997563,
+    "wof:lastmodified":1466765012,
     "wof:name":"Green Country Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-95.367291,35.948765,-95.367291,35.948765],
-  "geometry": {"coordinates":[-95.367291,35.948765],"type":"Point"}
+  "bbox": [
+    -95.367291,
+    35.948765,
+    -95.367291,
+    35.948765
+],
+  "geometry": {"coordinates":[-95.36729099999999,35.948765],"type":"Point"}
 }

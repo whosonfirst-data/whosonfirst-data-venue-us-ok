@@ -2,13 +2,14 @@
   "id": 336817263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.080243,34.949802,-95.080243,34.949802",
     "geom:latitude":34.949802,
     "geom:longitude":-95.080243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Main St",
     "sg:city":"Bromide",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336817263,
-    "wof:lastmodified":1448997821,
+    "wof:lastmodified":1466764673,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.080243,34.949802,-95.080243,34.949802],
+  "bbox": [
+    -95.080243,
+    34.949802,
+    -95.080243,
+    34.949802
+],
   "geometry": {"coordinates":[-95.080243,34.949802],"type":"Point"}
 }

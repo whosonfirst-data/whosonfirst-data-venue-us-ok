@@ -2,13 +2,14 @@
   "id": 320837241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.860471,36.178246,-95.860471,36.178246",
     "geom:latitude":36.178246,
     "geom:longitude":-95.860471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 N 105th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320837241,
-    "wof:lastmodified":1449011839,
+    "wof:lastmodified":1466766924,
     "wof:name":"Darrough Heating & Cooling",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.860471,36.178246,-95.860471,36.178246],
+  "bbox": [
+    -95.860471,
+    36.178246,
+    -95.860471,
+    36.178246
+],
   "geometry": {"coordinates":[-95.860471,36.178246],"type":"Point"}
 }

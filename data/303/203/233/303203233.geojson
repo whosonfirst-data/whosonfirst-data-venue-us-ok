@@ -2,13 +2,14 @@
   "id": 303203233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.407791,34.614457,-98.407791,34.614457",
     "geom:latitude":34.614457,
     "geom:longitude":-98.407791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 NW 13th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303203233,
-    "wof:lastmodified":1448999207,
+    "wof:lastmodified":1466764357,
     "wof:name":"Harris Dental Lab",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-98.407791,34.614457,-98.407791,34.614457],
+  "bbox": [
+    -98.407791,
+    34.614457,
+    -98.407791,
+    34.614457
+],
   "geometry": {"coordinates":[-98.407791,34.614457],"type":"Point"}
 }

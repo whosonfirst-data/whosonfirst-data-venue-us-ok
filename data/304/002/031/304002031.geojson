@@ -2,13 +2,14 @@
   "id": 304002031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.568429,35.995536,-94.568429,35.995536",
     "geom:latitude":35.995536,
     "geom:longitude":-94.568429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Williams Ave",
     "sg:city":"Westville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304002031,
-    "wof:lastmodified":1449044051,
+    "wof:lastmodified":1466762833,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.568429,35.995536,-94.568429,35.995536],
-  "geometry": {"coordinates":[-94.568429,35.995536],"type":"Point"}
+  "bbox": [
+    -94.568429,
+    35.995536,
+    -94.568429,
+    35.995536
+],
+  "geometry": {"coordinates":[-94.56842899999999,35.995536],"type":"Point"}
 }

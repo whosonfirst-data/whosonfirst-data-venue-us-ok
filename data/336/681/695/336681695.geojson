@@ -2,13 +2,14 @@
   "id": 336681695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.971443,35.912086,-94.971443,35.912086",
     "geom:latitude":35.912086,
     "geom:longitude":-94.971443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 S Muskogee Ave",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336681695,
-    "wof:lastmodified":1448997598,
+    "wof:lastmodified":1466763438,
     "wof:name":"Cherokee Loans Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institution"
     ]
 },
-  "bbox": [-94.971443,35.912086,-94.971443,35.912086],
-  "geometry": {"coordinates":[-94.971443,35.912086],"type":"Point"}
+  "bbox": [
+    -94.971443,
+    35.912086,
+    -94.971443,
+    35.912086
+],
+  "geometry": {"coordinates":[-94.97144299999999,35.912086],"type":"Point"}
 }

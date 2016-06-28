@@ -2,13 +2,14 @@
   "id": 303141683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.358549,35.022624,-97.358549,35.022624",
     "geom:latitude":35.022624,
     "geom:longitude":-97.358549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 N Canadian Ave",
     "sg:city":"Purcell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303141683,
-    "wof:lastmodified":1448998975,
+    "wof:lastmodified":1466763911,
     "wof:name":"A & A Tire Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "road"
     ]
 },
-  "bbox": [-97.358549,35.022624,-97.358549,35.022624],
+  "bbox": [
+    -97.358549,
+    35.022624,
+    -97.358549,
+    35.022624
+],
   "geometry": {"coordinates":[-97.358549,35.022624],"type":"Point"}
 }

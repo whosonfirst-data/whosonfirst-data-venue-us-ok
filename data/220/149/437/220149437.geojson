@@ -2,13 +2,14 @@
   "id": 220149437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.747278,36.181825,-95.747278,36.181825",
     "geom:latitude":36.181825,
     "geom:longitude":-95.747278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1875 N Highway 66 Ste D",
     "sg:city":"Catoosa",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":220149437,
-    "wof:lastmodified":1449074063,
+    "wof:lastmodified":1466762281,
     "wof:name":"St John Urgent Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-95.747278,36.181825,-95.747278,36.181825],
-  "geometry": {"coordinates":[-95.747278,36.181825],"type":"Point"}
+  "bbox": [
+    -95.747278,
+    36.181825,
+    -95.747278,
+    36.181825
+],
+  "geometry": {"coordinates":[-95.74727799999999,36.181825],"type":"Point"}
 }

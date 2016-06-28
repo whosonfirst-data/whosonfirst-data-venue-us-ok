@@ -2,13 +2,14 @@
   "id": 353382989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.448642,34.621211,-98.448642,34.621211",
     "geom:latitude":34.621211,
     "geom:longitude":-98.448642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 NW 47th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353382989,
-    "wof:lastmodified":1449018948,
+    "wof:lastmodified":1466762348,
     "wof:name":"Meadowbrook Warehousing",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-98.448642,34.621211,-98.448642,34.621211],
-  "geometry": {"coordinates":[-98.448642,34.621211],"type":"Point"}
+  "bbox": [
+    -98.448642,
+    34.621211,
+    -98.448642,
+    34.621211
+],
+  "geometry": {"coordinates":[-98.44864200000001,34.621211],"type":"Point"}
 }

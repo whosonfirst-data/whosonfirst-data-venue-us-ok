@@ -2,13 +2,14 @@
   "id": 320487459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.485538,36.685024,-101.485538,36.685024",
     "geom:latitude":36.685024,
     "geom:longitude":-101.485538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 N Academy St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320487459,
-    "wof:lastmodified":1449012494,
+    "wof:lastmodified":1466766031,
     "wof:name":"High Plains Institute Of Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institute"
     ]
 },
-  "bbox": [-101.485538,36.685024,-101.485538,36.685024],
-  "geometry": {"coordinates":[-101.485538,36.685024],"type":"Point"}
+  "bbox": [
+    -101.485538,
+    36.685024,
+    -101.485538,
+    36.685024
+],
+  "geometry": {"coordinates":[-101.48553800000001,36.685024],"type":"Point"}
 }

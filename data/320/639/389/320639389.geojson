@@ -2,13 +2,14 @@
   "id": 320639389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.85781,36.080029,-95.85781,36.080029",
     "geom:latitude":36.080029,
     "geom:longitude":-95.85781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5808 S 107th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320639389,
-    "wof:lastmodified":1449014948,
+    "wof:lastmodified":1466766366,
     "wof:name":"Custom Swimming Pool Svc",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-95.85781,36.080029,-95.85781,36.080029],
+  "bbox": [
+    -95.85781,
+    36.080029,
+    -95.85781,
+    36.080029
+],
   "geometry": {"coordinates":[-95.85781,36.080029],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303447961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.951738,36.20621,-95.951738,36.20621",
     "geom:latitude":36.20621,
     "geom:longitude":-95.951738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2623 E 36th St N",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303447961,
-    "wof:lastmodified":1448999840,
+    "wof:lastmodified":1466765666,
     "wof:name":"Crackshot Corp",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clothing"
     ]
 },
-  "bbox": [-95.951738,36.20621,-95.951738,36.20621],
-  "geometry": {"coordinates":[-95.951738,36.20621],"type":"Point"}
+  "bbox": [
+    -95.951738,
+    36.20621,
+    -95.951738,
+    36.20621
+],
+  "geometry": {"coordinates":[-95.95173800000001,36.20621],"type":"Point"}
 }

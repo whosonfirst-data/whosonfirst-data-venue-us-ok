@@ -2,13 +2,14 @@
   "id": 320858021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.991572,35.917358,-94.991572,35.917358",
     "geom:latitude":35.917358,
     "geom:longitude":-94.991572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1306 W Choctaw St",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320858021,
-    "wof:lastmodified":1449011607,
+    "wof:lastmodified":1466767059,
     "wof:name":"Hilltop Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.991572,35.917358,-94.991572,35.917358],
-  "geometry": {"coordinates":[-94.991572,35.917358],"type":"Point"}
+  "bbox": [
+    -94.991572,
+    35.917358,
+    -94.991572,
+    35.917358
+],
+  "geometry": {"coordinates":[-94.99157200000001,35.917358],"type":"Point"}
 }

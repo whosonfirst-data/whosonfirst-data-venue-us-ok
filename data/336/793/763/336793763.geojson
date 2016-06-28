@@ -2,13 +2,14 @@
   "id": 336793763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.837887,36.133385,-95.837887,36.133385",
     "geom:latitude":36.133385,
     "geom:longitude":-95.837887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12310 E 21st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336793763,
-    "wof:lastmodified":1448997538,
+    "wof:lastmodified":1466764649,
     "wof:name":"Eastland Assembly Of God",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.837887,36.133385,-95.837887,36.133385],
-  "geometry": {"coordinates":[-95.837887,36.133385],"type":"Point"}
+  "bbox": [
+    -95.837887,
+    36.133385,
+    -95.837887,
+    36.133385
+],
+  "geometry": {"coordinates":[-95.83788699999999,36.133385],"type":"Point"}
 }

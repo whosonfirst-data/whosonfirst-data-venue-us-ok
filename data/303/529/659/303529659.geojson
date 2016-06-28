@@ -2,13 +2,14 @@
   "id": 303529659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.724658,35.395282,-97.724658,35.395282",
     "geom:latitude":35.395282,
     "geom:longitude":-97.724658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"553 N Mustang Rd",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303529659,
-    "wof:lastmodified":1448999188,
+    "wof:lastmodified":1466766041,
     "wof:name":"Mustang Times",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-97.724658,35.395282,-97.724658,35.395282],
-  "geometry": {"coordinates":[-97.724658,35.395282],"type":"Point"}
+  "bbox": [
+    -97.724658,
+    35.395282,
+    -97.724658,
+    35.395282
+],
+  "geometry": {"coordinates":[-97.72465800000001,35.395282],"type":"Point"}
 }

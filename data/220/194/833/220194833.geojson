@@ -2,13 +2,14 @@
   "id": 220194833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.95439,36.235118,-95.95439,36.235118",
     "geom:latitude":36.235118,
     "geom:longitude":-95.95439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 E 56th St N",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220194833,
-    "wof:lastmodified":1449074752,
+    "wof:lastmodified":1466762470,
     "wof:name":"North Tulsa Farmers Market",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farm"
     ]
 },
-  "bbox": [-95.95439,36.235118,-95.95439,36.235118],
+  "bbox": [
+    -95.95439,
+    36.235118,
+    -95.95439,
+    36.235118
+],
   "geometry": {"coordinates":[-95.95439,36.235118],"type":"Point"}
 }

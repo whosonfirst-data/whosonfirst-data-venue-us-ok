@@ -2,13 +2,14 @@
   "id": 303510055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.953854,35.53499,-97.953854,35.53499",
     "geom:latitude":35.53499,
     "geom:longitude":-97.953854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N Bickford Ave",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303510055,
-    "wof:lastmodified":1448999590,
+    "wof:lastmodified":1466765874,
     "wof:name":"Community Action Agcy of Okc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.953854,35.53499,-97.953854,35.53499],
-  "geometry": {"coordinates":[-97.953854,35.53499],"type":"Point"}
+  "bbox": [
+    -97.953854,
+    35.53499,
+    -97.953854,
+    35.53499
+],
+  "geometry": {"coordinates":[-97.95385400000001,35.53499],"type":"Point"}
 }

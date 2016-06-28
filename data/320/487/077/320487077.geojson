@@ -2,13 +2,14 @@
   "id": 320487077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.377319,35.609234,-97.377319,35.609234",
     "geom:latitude":35.609234,
     "geom:longitude":-97.377319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14224 Edmond Lake Rd",
     "sg:city":"Jones",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320487077,
-    "wof:lastmodified":1449012494,
+    "wof:lastmodified":1466766028,
     "wof:name":"STUMP Grinding",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-97.377319,35.609234,-97.377319,35.609234],
+  "bbox": [
+    -97.377319,
+    35.609234,
+    -97.377319,
+    35.609234
+],
   "geometry": {"coordinates":[-97.377319,35.609234],"type":"Point"}
 }

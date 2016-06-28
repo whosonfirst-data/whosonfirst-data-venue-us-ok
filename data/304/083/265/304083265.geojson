@@ -2,13 +2,14 @@
   "id": 304083265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.368949,35.748515,-95.368949,35.748515",
     "geom:latitude":35.748515,
     "geom:longitude":-95.368949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N Main St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304083265,
-    "wof:lastmodified":1449043821,
+    "wof:lastmodified":1466763311,
     "wof:name":"Palmer Supply Co",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-95.368949,35.748515,-95.368949,35.748515],
+  "bbox": [
+    -95.368949,
+    35.748515,
+    -95.368949,
+    35.748515
+],
   "geometry": {"coordinates":[-95.368949,35.748515],"type":"Point"}
 }

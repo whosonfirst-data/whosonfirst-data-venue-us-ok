@@ -2,13 +2,14 @@
   "id": 320295335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.25505,35.066695,-98.25505,35.066695",
     "geom:latitude":35.066695,
     "geom:longitude":-98.25505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 W Texas Ave",
     "sg:city":"Anadarko",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320295335,
-    "wof:lastmodified":1449012786,
+    "wof:lastmodified":1466765030,
     "wof:name":"M & M Garage Doors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-98.25505,35.066695,-98.25505,35.066695],
+  "bbox": [
+    -98.25505,
+    35.066695,
+    -98.25505,
+    35.066695
+],
   "geometry": {"coordinates":[-98.25505,35.066695],"type":"Point"}
 }

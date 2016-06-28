@@ -2,13 +2,14 @@
   "id": 336712853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.49436,35.388011,-97.49436,35.388011",
     "geom:latitude":35.388011,
     "geom:longitude":-97.49436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 S I- 35 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336712853,
-    "wof:lastmodified":1448997409,
+    "wof:lastmodified":1466763920,
     "wof:name":"Blazers Ice Centre",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rink"
     ]
 },
-  "bbox": [-97.49436,35.388011,-97.49436,35.388011],
+  "bbox": [
+    -97.49436,
+    35.388011,
+    -97.49436,
+    35.388011
+],
   "geometry": {"coordinates":[-97.49436,35.388011],"type":"Point"}
 }

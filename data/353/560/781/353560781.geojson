@@ -2,13 +2,14 @@
   "id": 353560781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.963613,36.162491,-95.963613,36.162491",
     "geom:latitude":36.162491,
     "geom:longitude":-95.963613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 E Archer St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353560781,
-    "wof:lastmodified":1449020208,
+    "wof:lastmodified":1466764027,
     "wof:name":"Church Of The Open Door",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.963613,36.162491,-95.963613,36.162491],
+  "bbox": [
+    -95.963613,
+    36.162491,
+    -95.963613,
+    36.162491
+],
   "geometry": {"coordinates":[-95.963613,36.162491],"type":"Point"}
 }

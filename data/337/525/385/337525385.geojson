@@ -2,13 +2,14 @@
   "id": 337525385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.952519,34.501432,-97.952519,34.501432",
     "geom:latitude":34.501432,
     "geom:longitude":-97.952519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 W Main St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337525385,
-    "wof:lastmodified":1449027584,
+    "wof:lastmodified":1466762795,
     "wof:name":"Capital Advance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-97.952519,34.501432,-97.952519,34.501432],
+  "bbox": [
+    -97.952519,
+    34.501432,
+    -97.952519,
+    34.501432
+],
   "geometry": {"coordinates":[-97.952519,34.501432],"type":"Point"}
 }

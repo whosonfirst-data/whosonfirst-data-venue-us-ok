@@ -2,13 +2,14 @@
   "id": 303423461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.972028,36.099877,-95.972028,36.099877",
     "geom:latitude":36.099877,
     "geom:longitude":-95.972028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1349 E 43rd Ct",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303423461,
-    "wof:lastmodified":1448998522,
+    "wof:lastmodified":1466765525,
     "wof:name":"Diamond Homes",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-95.972028,36.099877,-95.972028,36.099877],
-  "geometry": {"coordinates":[-95.972028,36.099877],"type":"Point"}
+  "bbox": [
+    -95.972028,
+    36.099877,
+    -95.972028,
+    36.099877
+],
+  "geometry": {"coordinates":[-95.97202799999999,36.099877],"type":"Point"}
 }

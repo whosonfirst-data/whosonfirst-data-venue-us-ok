@@ -2,13 +2,14 @@
   "id": 320161181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.88143,36.269797,-99.88143,36.269797",
     "geom:latitude":36.269797,
     "geom:longitude":-99.88143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Main St",
     "sg:city":"Shattuck",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320161181,
-    "wof:lastmodified":1449012746,
+    "wof:lastmodified":1466764423,
     "wof:name":"Shauttuck Flowers & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.88143,36.269797,-99.88143,36.269797],
-  "geometry": {"coordinates":[-99.88143,36.269797],"type":"Point"}
+  "bbox": [
+    -99.88143,
+    36.269797,
+    -99.88143,
+    36.269797
+],
+  "geometry": {"coordinates":[-99.88142999999999,36.269797],"type":"Point"}
 }

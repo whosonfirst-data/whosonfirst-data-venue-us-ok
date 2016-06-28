@@ -2,13 +2,14 @@
   "id": 336913207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.389305,36.43459,-99.389305,36.43459",
     "geom:latitude":36.43459,
     "geom:longitude":-99.389305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 8th St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336913207,
-    "wof:lastmodified":1448997366,
+    "wof:lastmodified":1466765270,
     "wof:name":"Jan's Soil Testing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-99.389305,36.43459,-99.389305,36.43459],
-  "geometry": {"coordinates":[-99.389305,36.43459],"type":"Point"}
+  "bbox": [
+    -99.389305,
+    36.43459,
+    -99.389305,
+    36.43459
+],
+  "geometry": {"coordinates":[-99.38930499999999,36.43459],"type":"Point"}
 }

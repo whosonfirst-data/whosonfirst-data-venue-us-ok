@@ -2,13 +2,14 @@
   "id": 303318713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.452315,35.672864,-97.452315,35.672864",
     "geom:latitude":35.672864,
     "geom:longitude":-97.452315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 Eagle Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303318713,
-    "wof:lastmodified":1448998657,
+    "wof:lastmodified":1466764925,
     "wof:name":"Country Classic",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-97.452315,35.672864,-97.452315,35.672864],
+  "bbox": [
+    -97.452315,
+    35.672864,
+    -97.452315,
+    35.672864
+],
   "geometry": {"coordinates":[-97.452315,35.672864],"type":"Point"}
 }

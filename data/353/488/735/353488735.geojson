@@ -2,13 +2,14 @@
   "id": 353488735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.949463,36.076209,-95.949463,36.076209",
     "geom:latitude":36.076209,
     "geom:longitude":-95.949463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2636 E 61st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353488735,
-    "wof:lastmodified":1449020707,
+    "wof:lastmodified":1466762962,
     "wof:name":"Southern Hills Country Club",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.949463,36.076209,-95.949463,36.076209],
-  "geometry": {"coordinates":[-95.949463,36.076209],"type":"Point"}
+  "bbox": [
+    -95.949463,
+    36.076209,
+    -95.949463,
+    36.076209
+],
+  "geometry": {"coordinates":[-95.94946299999999,36.076209],"type":"Point"}
 }

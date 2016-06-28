@@ -2,13 +2,14 @@
   "id": 303388665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.02382,35.333057,-97.02382,35.333057",
     "geom:latitude":35.333057,
     "geom:longitude":-97.02382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35807 Lake Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303388665,
-    "wof:lastmodified":1448998209,
+    "wof:lastmodified":1466765385,
     "wof:name":"A Rooter Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.02382,35.333057,-97.02382,35.333057],
+  "bbox": [
+    -97.02382,
+    35.333057,
+    -97.02382,
+    35.333057
+],
   "geometry": {"coordinates":[-97.02382,35.333057],"type":"Point"}
 }

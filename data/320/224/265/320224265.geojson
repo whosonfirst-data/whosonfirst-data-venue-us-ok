@@ -2,13 +2,14 @@
   "id": 320224265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.370885,35.444578,-97.370885,35.444578",
     "geom:latitude":35.444578,
     "geom:longitude":-97.370885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2113 S Douglas Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320224265,
-    "wof:lastmodified":1449013985,
+    "wof:lastmodified":1466764790,
     "wof:name":"H20 Concepts",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-97.370885,35.444578,-97.370885,35.444578],
+  "bbox": [
+    -97.370885,
+    35.444578,
+    -97.370885,
+    35.444578
+],
   "geometry": {"coordinates":[-97.370885,35.444578],"type":"Point"}
 }

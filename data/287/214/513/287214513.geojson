@@ -2,13 +2,14 @@
   "id": 287214513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.932854,36.010959,-95.932854,36.010959",
     "geom:latitude":36.010959,
     "geom:longitude":-95.932854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3738 E 105th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287214513,
-    "wof:lastmodified":1449001562,
+    "wof:lastmodified":1466764080,
     "wof:name":"Brown Enterprises",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "establishment"
     ]
 },
-  "bbox": [-95.932854,36.010959,-95.932854,36.010959],
-  "geometry": {"coordinates":[-95.932854,36.010959],"type":"Point"}
+  "bbox": [
+    -95.932854,
+    36.010959,
+    -95.932854,
+    36.010959
+],
+  "geometry": {"coordinates":[-95.93285400000001,36.010959],"type":"Point"}
 }

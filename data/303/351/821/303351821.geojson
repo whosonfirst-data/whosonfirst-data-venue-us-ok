@@ -2,13 +2,14 @@
   "id": 303351821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.445397,36.529281,-97.445397,36.529281",
     "geom:latitude":36.529281,
     "geom:longitude":-97.445397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Broadway St",
     "sg:city":"Billings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303351821,
-    "wof:lastmodified":1449000195,
+    "wof:lastmodified":1466765063,
     "wof:name":"R & H Hardware & Lumber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-97.445397,36.529281,-97.445397,36.529281],
+  "bbox": [
+    -97.445397,
+    36.529281,
+    -97.445397,
+    36.529281
+],
   "geometry": {"coordinates":[-97.445397,36.529281],"type":"Point"}
 }

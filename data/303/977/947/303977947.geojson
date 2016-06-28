@@ -2,13 +2,14 @@
   "id": 303977947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.726376,35.518627,-97.726376,35.518627",
     "geom:latitude":35.518627,
     "geom:longitude":-97.726376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1087 Raintree Mansion",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303977947,
-    "wof:lastmodified":1449000624,
+    "wof:lastmodified":1466767112,
     "wof:name":"Harolds Electric",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-97.726376,35.518627,-97.726376,35.518627],
+  "bbox": [
+    -97.726376,
+    35.518627,
+    -97.726376,
+    35.518627
+],
   "geometry": {"coordinates":[-97.726376,35.518627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354139311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.790869,36.052439,-95.790869,36.052439",
     "geom:latitude":36.052439,
     "geom:longitude":-95.790869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Main St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354139311,
-    "wof:lastmodified":1449066086,
+    "wof:lastmodified":1466763652,
     "wof:name":"Bills Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-95.790869,36.052439,-95.790869,36.052439],
+  "bbox": [
+    -95.790869,
+    36.052439,
+    -95.790869,
+    36.052439
+],
   "geometry": {"coordinates":[-95.790869,36.052439],"type":"Point"}
 }

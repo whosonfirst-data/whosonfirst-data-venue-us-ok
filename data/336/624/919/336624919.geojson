@@ -2,13 +2,14 @@
   "id": 336624919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.738576,35.489095,-97.738576,35.489095",
     "geom:latitude":35.489095,
     "geom:longitude":-97.738576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Choctaw Pl",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336624919,
-    "wof:lastmodified":1448997666,
+    "wof:lastmodified":1466762578,
     "wof:name":"Davis Heating & AC",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.738576,35.489095,-97.738576,35.489095],
-  "geometry": {"coordinates":[-97.738576,35.489095],"type":"Point"}
+  "bbox": [
+    -97.738576,
+    35.489095,
+    -97.738576,
+    35.489095
+],
+  "geometry": {"coordinates":[-97.73857599999999,35.489095],"type":"Point"}
 }

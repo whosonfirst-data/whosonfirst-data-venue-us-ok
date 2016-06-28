@@ -2,13 +2,14 @@
   "id": 320480881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.42409,34.605342,-98.42409,34.605342",
     "geom:latitude":34.605342,
     "geom:longitude":-98.42409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 SW 23rd Pl",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320480881,
-    "wof:lastmodified":1449012490,
+    "wof:lastmodified":1466766016,
     "wof:name":"Southwest Stone Co",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-98.42409,34.605342,-98.42409,34.605342],
-  "geometry": {"coordinates":[-98.42409,34.605342],"type":"Point"}
+  "bbox": [
+    -98.42409,
+    34.605342,
+    -98.42409,
+    34.605342
+],
+  "geometry": {"coordinates":[-98.42409000000001,34.605342],"type":"Point"}
 }

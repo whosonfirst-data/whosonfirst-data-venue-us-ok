@@ -2,13 +2,14 @@
   "id": 303524917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.061805,35.510419,-99.061805,35.510419",
     "geom:latitude":35.510419,
     "geom:longitude":-99.061805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Canyon Ridge Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303524917,
-    "wof:lastmodified":1448998093,
+    "wof:lastmodified":1466765845,
     "wof:name":"Cheyenne & Arapaho Hsing Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "native"
     ]
 },
-  "bbox": [-99.061805,35.510419,-99.061805,35.510419],
-  "geometry": {"coordinates":[-99.061805,35.510419],"type":"Point"}
+  "bbox": [
+    -99.061805,
+    35.510419,
+    -99.061805,
+    35.510419
+],
+  "geometry": {"coordinates":[-99.06180500000001,35.510419],"type":"Point"}
 }

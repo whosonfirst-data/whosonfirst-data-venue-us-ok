@@ -2,13 +2,14 @@
   "id": 303149111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.866184,36.084267,-95.866184,36.084267",
     "geom:latitude":36.084267,
     "geom:longitude":-95.866184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5425 S 99th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303149111,
-    "wof:lastmodified":1448998123,
+    "wof:lastmodified":1466764026,
     "wof:name":"OConnor Company Inc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "heating"
     ]
 },
-  "bbox": [-95.866184,36.084267,-95.866184,36.084267],
+  "bbox": [
+    -95.866184,
+    36.084267,
+    -95.866184,
+    36.084267
+],
   "geometry": {"coordinates":[-95.866184,36.084267],"type":"Point"}
 }

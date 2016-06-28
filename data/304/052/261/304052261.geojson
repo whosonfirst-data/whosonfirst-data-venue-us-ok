@@ -2,13 +2,14 @@
   "id": 304052261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.959782,34.501986,-97.959782,34.501986",
     "geom:latitude":34.501986,
     "geom:longitude":-97.959782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 W Main St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304052261,
-    "wof:lastmodified":1449043796,
+    "wof:lastmodified":1466763122,
     "wof:name":"Eatons Jewelry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jewelry"
     ]
 },
-  "bbox": [-97.959782,34.501986,-97.959782,34.501986],
+  "bbox": [
+    -97.959782,
+    34.501986,
+    -97.959782,
+    34.501986
+],
   "geometry": {"coordinates":[-97.959782,34.501986],"type":"Point"}
 }

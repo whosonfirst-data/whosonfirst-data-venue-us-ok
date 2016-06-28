@@ -2,13 +2,14 @@
   "id": 354045595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.48984,35.232803,-97.48984,35.232803",
     "geom:latitude":35.232803,
     "geom:longitude":-97.48984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3250 W Robinson St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354045595,
-    "wof:lastmodified":1449067476,
+    "wof:lastmodified":1466763255,
     "wof:name":"Auto Valet Full Svc Carwash",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-97.48984,35.232803,-97.48984,35.232803],
+  "bbox": [
+    -97.48984,
+    35.232803,
+    -97.48984,
+    35.232803
+],
   "geometry": {"coordinates":[-97.48984,35.232803],"type":"Point"}
 }

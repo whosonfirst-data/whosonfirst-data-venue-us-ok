@@ -2,13 +2,14 @@
   "id": 303739779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.401439,34.603979,-98.401439,34.603979",
     "geom:latitude":34.603979,
     "geom:longitude":-98.401439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 SW D Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303739779,
-    "wof:lastmodified":1448999151,
+    "wof:lastmodified":1466766460,
     "wof:name":"Ronald Williams",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-98.401439,34.603979,-98.401439,34.603979],
+  "bbox": [
+    -98.401439,
+    34.603979,
+    -98.401439,
+    34.603979
+],
   "geometry": {"coordinates":[-98.401439,34.603979],"type":"Point"}
 }

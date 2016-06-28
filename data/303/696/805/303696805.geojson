@@ -2,13 +2,14 @@
   "id": 303696805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.768639,34.93189,-95.768639,34.93189",
     "geom:latitude":34.93189,
     "geom:longitude":-95.768639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 E Choctaw Ave",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":303696805,
-    "wof:lastmodified":1448998300,
+    "wof:lastmodified":1466766601,
     "wof:name":"Meeting Place Restaurant Th E",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.768639,34.93189,-95.768639,34.93189],
-  "geometry": {"coordinates":[-95.768639,34.93189],"type":"Point"}
+  "bbox": [
+    -95.768639,
+    34.93189,
+    -95.768639,
+    34.93189
+],
+  "geometry": {"coordinates":[-95.76863899999999,34.93189],"type":"Point"}
 }

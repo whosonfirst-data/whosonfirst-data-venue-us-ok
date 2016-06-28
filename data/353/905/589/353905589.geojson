@@ -2,13 +2,14 @@
   "id": 353905589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.823293,36.002886,-95.823293,36.002886",
     "geom:latitude":36.002886,
     "geom:longitude":-95.823293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13600 E 111th St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353905589,
-    "wof:lastmodified":1449019270,
+    "wof:lastmodified":1466765558,
     "wof:name":"Hood Construction",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-95.823293,36.002886,-95.823293,36.002886],
-  "geometry": {"coordinates":[-95.823293,36.002886],"type":"Point"}
+  "bbox": [
+    -95.823293,
+    36.002886,
+    -95.823293,
+    36.002886
+],
+  "geometry": {"coordinates":[-95.82329300000001,36.002886],"type":"Point"}
 }

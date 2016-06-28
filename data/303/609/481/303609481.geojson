@@ -2,13 +2,14 @@
   "id": 303609481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.902953,36.075773,-95.902953,36.075773",
     "geom:latitude":36.075773,
     "geom:longitude":-95.902953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6030 S 66th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303609481,
-    "wof:lastmodified":1448999030,
+    "wof:lastmodified":1466766142,
     "wof:name":"Center For Dental Excellence",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-95.902953,36.075773,-95.902953,36.075773],
+  "bbox": [
+    -95.902953,
+    36.075773,
+    -95.902953,
+    36.075773
+],
   "geometry": {"coordinates":[-95.902953,36.075773],"type":"Point"}
 }

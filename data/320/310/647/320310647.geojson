@@ -2,13 +2,14 @@
   "id": 320310647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.343962,35.493093,-97.343962,35.493093",
     "geom:latitude":35.493093,
     "geom:longitude":-97.343962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10735 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320310647,
-    "wof:lastmodified":1449013554,
+    "wof:lastmodified":1466765203,
     "wof:name":"Harris House Moving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.343962,35.493093,-97.343962,35.493093],
+  "bbox": [
+    -97.343962,
+    35.493093,
+    -97.343962,
+    35.493093
+],
   "geometry": {"coordinates":[-97.343962,35.493093],"type":"Point"}
 }

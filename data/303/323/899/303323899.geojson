@@ -2,13 +2,14 @@
   "id": 303323899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.311696,34.91864,-95.311696,34.91864",
     "geom:latitude":34.91864,
     "geom:longitude":-95.311696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W Main St",
     "sg:city":"Wilburton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303323899,
-    "wof:lastmodified":1448998330,
+    "wof:lastmodified":1466765047,
     "wof:name":"Richard Ingram DC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.311696,34.91864,-95.311696,34.91864],
+  "bbox": [
+    -95.311696,
+    34.91864,
+    -95.311696,
+    34.91864
+],
   "geometry": {"coordinates":[-95.311696,34.91864],"type":"Point"}
 }

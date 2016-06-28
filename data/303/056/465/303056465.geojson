@@ -2,13 +2,14 @@
   "id": 303056465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.560882,35.525243,-97.560882,35.525243",
     "geom:latitude":35.525243,
     "geom:longitude":-97.560882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2630 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303056465,
-    "wof:lastmodified":1448998815,
+    "wof:lastmodified":1466762525,
     "wof:name":"Clear Choice Team",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.560882,35.525243,-97.560882,35.525243],
-  "geometry": {"coordinates":[-97.560882,35.525243],"type":"Point"}
+  "bbox": [
+    -97.560882,
+    35.525243,
+    -97.560882,
+    35.525243
+],
+  "geometry": {"coordinates":[-97.56088200000001,35.525243],"type":"Point"}
 }

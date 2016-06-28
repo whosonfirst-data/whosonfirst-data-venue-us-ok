@@ -2,13 +2,14 @@
   "id": 354020845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507787,35.494178,-97.507787,35.494178",
     "geom:latitude":35.494178,
     "geom:longitude":-97.507787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Madison St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354020845,
-    "wof:lastmodified":1449066710,
+    "wof:lastmodified":1466763072,
     "wof:name":"Appliance Services",
     "wof:parent_id":85871695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-97.507787,35.494178,-97.507787,35.494178],
-  "geometry": {"coordinates":[-97.507787,35.494178],"type":"Point"}
+  "bbox": [
+    -97.507787,
+    35.494178,
+    -97.507787,
+    35.494178
+],
+  "geometry": {"coordinates":[-97.50778699999999,35.494178],"type":"Point"}
 }

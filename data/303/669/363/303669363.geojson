@@ -2,13 +2,14 @@
   "id": 303669363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.368782,35.667857,-95.368782,35.667857",
     "geom:latitude":35.667857,
     "geom:longitude":-95.368782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"661 E Davis Field Rd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303669363,
-    "wof:lastmodified":1448998400,
+    "wof:lastmodified":1466766420,
     "wof:name":"NATIONAL Guard",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-95.368782,35.667857,-95.368782,35.667857],
+  "bbox": [
+    -95.368782,
+    35.667857,
+    -95.368782,
+    35.667857
+],
   "geometry": {"coordinates":[-95.368782,35.667857],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303636977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.766749,34.932593,-95.766749,34.932593",
     "geom:latitude":34.932593,
     "geom:longitude":-95.766749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E Carl Albert Pkwy",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303636977,
-    "wof:lastmodified":1448999092,
+    "wof:lastmodified":1466766329,
     "wof:name":"Jeffrey A Sellmeyer",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-95.766749,34.932593,-95.766749,34.932593],
+  "bbox": [
+    -95.766749,
+    34.932593,
+    -95.766749,
+    34.932593
+],
   "geometry": {"coordinates":[-95.766749,34.932593],"type":"Point"}
 }

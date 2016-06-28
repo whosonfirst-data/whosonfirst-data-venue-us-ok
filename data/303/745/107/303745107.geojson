@@ -2,13 +2,14 @@
   "id": 303745107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.100539,35.380315,-97.100539,35.380315",
     "geom:latitude":35.380315,
     "geom:longitude":-97.100539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Dusty Rd",
     "sg:city":"Mcloud",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303745107,
-    "wof:lastmodified":1449000454,
+    "wof:lastmodified":1466766478,
     "wof:name":"Dunagan Backhoe & Dumptruck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.100539,35.380315,-97.100539,35.380315],
+  "bbox": [
+    -97.100539,
+    35.380315,
+    -97.100539,
+    35.380315
+],
   "geometry": {"coordinates":[-97.100539,35.380315],"type":"Point"}
 }

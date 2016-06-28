@@ -2,13 +2,14 @@
   "id": 353823567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.618085,36.30935,-95.618085,36.30935",
     "geom:latitude":36.30935,
     "geom:longitude":-95.618085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 S Lynn Riggs Blvd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353823567,
-    "wof:lastmodified":1449020761,
+    "wof:lastmodified":1466765432,
     "wof:name":"Crystal Clean Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.618085,36.30935,-95.618085,36.30935],
-  "geometry": {"coordinates":[-95.618085,36.30935],"type":"Point"}
+  "bbox": [
+    -95.618085,
+    36.30935,
+    -95.618085,
+    36.30935
+],
+  "geometry": {"coordinates":[-95.61808499999999,36.30935],"type":"Point"}
 }

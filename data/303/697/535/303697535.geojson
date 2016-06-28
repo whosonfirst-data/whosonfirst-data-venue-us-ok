@@ -2,13 +2,14 @@
   "id": 303697535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975854,36.071095,-95.975854,36.071095",
     "geom:latitude":36.071095,
     "geom:longitude":-95.975854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6324 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303697535,
-    "wof:lastmodified":1448999659,
+    "wof:lastmodified":1466766478,
     "wof:name":"LA Guadalutana Bakery",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-95.975854,36.071095,-95.975854,36.071095],
+  "bbox": [
+    -95.975854,
+    36.071095,
+    -95.975854,
+    36.071095
+],
   "geometry": {"coordinates":[-95.975854,36.071095],"type":"Point"}
 }

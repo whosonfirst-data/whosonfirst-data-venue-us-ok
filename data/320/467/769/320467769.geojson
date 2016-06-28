@@ -2,13 +2,14 @@
   "id": 320467769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.395096,34.594197,-98.395096,34.594197",
     "geom:latitude":34.594197,
     "geom:longitude":-98.395096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 SW Lee Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320467769,
-    "wof:lastmodified":1449014167,
+    "wof:lastmodified":1466765888,
     "wof:name":"HGH Headquarters",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.395096,34.594197,-98.395096,34.594197],
+  "bbox": [
+    -98.395096,
+    34.594197,
+    -98.395096,
+    34.594197
+],
   "geometry": {"coordinates":[-98.395096,34.594197],"type":"Point"}
 }

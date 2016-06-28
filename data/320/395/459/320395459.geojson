@@ -2,13 +2,14 @@
   "id": 320395459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.502596,34.882637,-99.502596,34.882637",
     "geom:latitude":34.882637,
     "geom:longitude":-99.502596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 N Louis Tittle Ave",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320395459,
-    "wof:lastmodified":1449014426,
+    "wof:lastmodified":1466765698,
     "wof:name":"Home Medical Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-99.502596,34.882637,-99.502596,34.882637],
+  "bbox": [
+    -99.502596,
+    34.882637,
+    -99.502596,
+    34.882637
+],
   "geometry": {"coordinates":[-99.502596,34.882637],"type":"Point"}
 }

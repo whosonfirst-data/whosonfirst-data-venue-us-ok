@@ -2,13 +2,14 @@
   "id": 303276923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.351846,35.464133,-97.351846,35.464133",
     "geom:latitude":35.464133,
     "geom:longitude":-97.351846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10101 E Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303276923,
-    "wof:lastmodified":1448998208,
+    "wof:lastmodified":1466764843,
     "wof:name":"Our Lord's Bible Church",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.351846,35.464133,-97.351846,35.464133],
-  "geometry": {"coordinates":[-97.351846,35.464133],"type":"Point"}
+  "bbox": [
+    -97.351846,
+    35.464133,
+    -97.351846,
+    35.464133
+],
+  "geometry": {"coordinates":[-97.35184599999999,35.464133],"type":"Point"}
 }

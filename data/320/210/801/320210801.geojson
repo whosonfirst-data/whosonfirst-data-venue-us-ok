@@ -2,13 +2,14 @@
   "id": 320210801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.286195,36.289588,-97.286195,36.289588",
     "geom:latitude":36.289588,
     "geom:longitude":-97.286195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 Fir St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320210801,
-    "wof:lastmodified":1449012544,
+    "wof:lastmodified":1466764737,
     "wof:name":"Fir Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-97.286195,36.289588,-97.286195,36.289588],
-  "geometry": {"coordinates":[-97.286195,36.289588],"type":"Point"}
+  "bbox": [
+    -97.286195,
+    36.289588,
+    -97.286195,
+    36.289588
+],
+  "geometry": {"coordinates":[-97.28619500000001,36.289588],"type":"Point"}
 }

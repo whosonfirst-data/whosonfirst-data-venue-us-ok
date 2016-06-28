@@ -2,13 +2,14 @@
   "id": 336642623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549439,35.592077,-97.549439,35.592077",
     "geom:latitude":35.592077,
     "geom:longitude":-97.549439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11911 N Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336642623,
-    "wof:lastmodified":1448996984,
+    "wof:lastmodified":1466762834,
     "wof:name":"Fun Skate Center",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "operates"
     ]
 },
-  "bbox": [-97.549439,35.592077,-97.549439,35.592077],
-  "geometry": {"coordinates":[-97.549439,35.592077],"type":"Point"}
+  "bbox": [
+    -97.549439,
+    35.592077,
+    -97.549439,
+    35.592077
+],
+  "geometry": {"coordinates":[-97.54943900000001,35.592077],"type":"Point"}
 }

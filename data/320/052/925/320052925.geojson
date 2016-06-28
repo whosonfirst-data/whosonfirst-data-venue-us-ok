@@ -2,13 +2,14 @@
   "id": 320052925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.851833,36.089915,-95.851833,36.089915",
     "geom:latitude":36.089915,
     "geom:longitude":-95.851833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11008 E 51st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320052925,
-    "wof:lastmodified":1449012948,
+    "wof:lastmodified":1466763071,
     "wof:name":"IDS Engineering Inc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.851833,36.089915,-95.851833,36.089915],
+  "bbox": [
+    -95.851833,
+    36.089915,
+    -95.851833,
+    36.089915
+],
   "geometry": {"coordinates":[-95.851833,36.089915],"type":"Point"}
 }

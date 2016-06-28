@@ -2,13 +2,14 @@
   "id": 304021297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.845796,36.396304,-97.845796,36.396304",
     "geom:latitude":36.396304,
     "geom:longitude":-97.845796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S University Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304021297,
-    "wof:lastmodified":1449043970,
+    "wof:lastmodified":1466762928,
     "wof:name":"Northern Oklahoma College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "school"
     ]
 },
-  "bbox": [-97.845796,36.396304,-97.845796,36.396304],
-  "geometry": {"coordinates":[-97.845796,36.396304],"type":"Point"}
+  "bbox": [
+    -97.845796,
+    36.396304,
+    -97.845796,
+    36.396304
+],
+  "geometry": {"coordinates":[-97.84579600000001,36.396304],"type":"Point"}
 }

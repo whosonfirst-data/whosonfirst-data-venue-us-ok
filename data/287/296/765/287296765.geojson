@@ -2,13 +2,14 @@
   "id": 287296765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.973081,35.987615,-95.973081,35.987615",
     "geom:latitude":35.987615,
     "geom:longitude":-95.973081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12313 S Cedar Ave",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287296765,
-    "wof:lastmodified":1449001393,
+    "wof:lastmodified":1466763379,
     "wof:name":"Cosmic Productions",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-95.973081,35.987615,-95.973081,35.987615],
-  "geometry": {"coordinates":[-95.973081,35.987615],"type":"Point"}
+  "bbox": [
+    -95.973081,
+    35.987615,
+    -95.973081,
+    35.987615
+],
+  "geometry": {"coordinates":[-95.97308099999999,35.987615],"type":"Point"}
 }

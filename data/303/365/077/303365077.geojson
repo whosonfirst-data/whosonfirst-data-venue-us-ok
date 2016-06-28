@@ -2,13 +2,14 @@
   "id": 303365077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.65842,35.464117,-97.65842,35.464117",
     "geom:latitude":35.464117,
     "geom:longitude":-97.65842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8248 W Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303365077,
-    "wof:lastmodified":1448998509,
+    "wof:lastmodified":1466765143,
     "wof:name":"American Racing Equipment Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.65842,35.464117,-97.65842,35.464117],
-  "geometry": {"coordinates":[-97.65842,35.464117],"type":"Point"}
+  "bbox": [
+    -97.65842,
+    35.464117,
+    -97.65842,
+    35.464117
+],
+  "geometry": {"coordinates":[-97.65842000000001,35.464117],"type":"Point"}
 }

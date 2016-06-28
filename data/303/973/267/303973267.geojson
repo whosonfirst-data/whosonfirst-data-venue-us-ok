@@ -2,13 +2,14 @@
   "id": 303973267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.776708,35.461277,-94.776708,35.461277",
     "geom:latitude":35.461277,
     "geom:longitude":-94.776708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 E Cherokee Ave",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303973267,
-    "wof:lastmodified":1448999588,
+    "wof:lastmodified":1466766987,
     "wof:name":"Green Country Wholesale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [-94.776708,35.461277,-94.776708,35.461277],
+  "bbox": [
+    -94.776708,
+    35.461277,
+    -94.776708,
+    35.461277
+],
   "geometry": {"coordinates":[-94.776708,35.461277],"type":"Point"}
 }

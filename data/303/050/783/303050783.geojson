@@ -2,13 +2,14 @@
   "id": 303050783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.981513,36.156782,-95.981513,36.156782",
     "geom:latitude":36.156782,
     "geom:longitude":-95.981513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 E 3rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303050783,
-    "wof:lastmodified":1448999467,
+    "wof:lastmodified":1466762434,
     "wof:name":"Maverick Machine",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-95.981513,36.156782,-95.981513,36.156782],
-  "geometry": {"coordinates":[-95.981513,36.156782],"type":"Point"}
+  "bbox": [
+    -95.981513,
+    36.156782,
+    -95.981513,
+    36.156782
+],
+  "geometry": {"coordinates":[-95.98151300000001,36.156782],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220151017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.7416,36.230598,-95.7416,36.230598",
     "geom:latitude":36.230598,
     "geom:longitude":-95.7416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5350 Cimarron Rd",
     "sg:city":"Catoosa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220151017,
-    "wof:lastmodified":1449074070,
+    "wof:lastmodified":1466764174,
     "wof:name":"Tulsa Port of Catoosa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.7416,36.230598,-95.7416,36.230598],
-  "geometry": {"coordinates":[-95.7416,36.230598],"type":"Point"}
+  "bbox": [
+    -95.7416,
+    36.230598,
+    -95.7416,
+    36.230598
+],
+  "geometry": {"coordinates":[-95.74160000000001,36.230598],"type":"Point"}
 }

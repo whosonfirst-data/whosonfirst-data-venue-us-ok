@@ -2,13 +2,14 @@
   "id": 303719213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.199428,35.937102,-96.199428,35.937102",
     "geom:latitude":35.937102,
     "geom:longitude":-96.199428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18502 W 156th St S",
     "sg:city":"Kellyville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303719213,
-    "wof:lastmodified":1448998434,
+    "wof:lastmodified":1466766518,
     "wof:name":"Wards Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.199428,35.937102,-96.199428,35.937102],
+  "bbox": [
+    -96.199428,
+    35.937102,
+    -96.199428,
+    35.937102
+],
   "geometry": {"coordinates":[-96.199428,35.937102],"type":"Point"}
 }

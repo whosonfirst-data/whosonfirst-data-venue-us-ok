@@ -2,13 +2,14 @@
   "id": 303134359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.522303,35.482454,-97.522303,35.482454",
     "geom:latitude":35.482454,
     "geom:longitude":-97.522303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 NW 13th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303134359,
-    "wof:lastmodified":1449000429,
+    "wof:lastmodified":1466763795,
     "wof:name":"American Society For Training",
     "wof:parent_id":85871701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [-97.522303,35.482454,-97.522303,35.482454],
-  "geometry": {"coordinates":[-97.522303,35.482454],"type":"Point"}
+  "bbox": [
+    -97.522303,
+    35.482454,
+    -97.522303,
+    35.482454
+],
+  "geometry": {"coordinates":[-97.52230299999999,35.482454],"type":"Point"}
 }

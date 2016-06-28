@@ -2,13 +2,14 @@
   "id": 320724685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.07999,36.143198,-96.07999,36.143198",
     "geom:latitude":36.143198,
     "geom:longitude":-96.07999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7910 Charles Page Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320724685,
-    "wof:lastmodified":1449014893,
+    "wof:lastmodified":1466766604,
     "wof:name":"Silver Wolf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.07999,36.143198,-96.07999,36.143198],
+  "bbox": [
+    -96.07999,
+    36.143198,
+    -96.07999,
+    36.143198
+],
   "geometry": {"coordinates":[-96.07999,36.143198],"type":"Point"}
 }

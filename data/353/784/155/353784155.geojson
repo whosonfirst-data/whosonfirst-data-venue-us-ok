@@ -2,13 +2,14 @@
   "id": 353784155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.539239,35.486001,-97.539239,35.486001",
     "geom:latitude":35.486001,
     "geom:longitude":-97.539239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 NW 16th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353784155,
-    "wof:lastmodified":1449019951,
+    "wof:lastmodified":1466765151,
     "wof:name":"Stanley's Garage",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-97.539239,35.486001,-97.539239,35.486001],
-  "geometry": {"coordinates":[-97.539239,35.486001],"type":"Point"}
+  "bbox": [
+    -97.539239,
+    35.486001,
+    -97.539239,
+    35.486001
+],
+  "geometry": {"coordinates":[-97.53923899999999,35.486001],"type":"Point"}
 }

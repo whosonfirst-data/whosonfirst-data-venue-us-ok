@@ -2,13 +2,14 @@
   "id": 320247933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.492685,35.661888,-97.492685,35.661888",
     "geom:latitude":35.661888,
     "geom:longitude":-97.492685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Willow Ridge Pl",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320247933,
-    "wof:lastmodified":1449013444,
+    "wof:lastmodified":1466764954,
     "wof:name":"Hamilton Enterprises Inc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gas"
     ]
 },
-  "bbox": [-97.492685,35.661888,-97.492685,35.661888],
-  "geometry": {"coordinates":[-97.492685,35.661888],"type":"Point"}
+  "bbox": [
+    -97.492685,
+    35.661888,
+    -97.492685,
+    35.661888
+],
+  "geometry": {"coordinates":[-97.49268499999999,35.661888],"type":"Point"}
 }

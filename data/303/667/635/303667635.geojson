@@ -2,13 +2,14 @@
   "id": 303667635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.485709,35.428002,-97.485709,35.428002",
     "geom:latitude":35.428002,
     "geom:longitude":-97.485709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1534 SE Grand Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303667635,
-    "wof:lastmodified":1448999717,
+    "wof:lastmodified":1466766547,
     "wof:name":"Oklahoma Archery",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.485709,35.428002,-97.485709,35.428002],
+  "bbox": [
+    -97.485709,
+    35.428002,
+    -97.485709,
+    35.428002
+],
   "geometry": {"coordinates":[-97.485709,35.428002],"type":"Point"}
 }

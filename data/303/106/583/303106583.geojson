@@ -2,13 +2,14 @@
   "id": 303106583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.612509,35.430594,-97.612509,35.430594",
     "geom:latitude":35.430594,
     "geom:longitude":-97.612509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 SW 33rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303106583,
-    "wof:lastmodified":1448998080,
+    "wof:lastmodified":1466763342,
     "wof:name":"Eagle Brand Beers",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ale"
     ]
 },
-  "bbox": [-97.612509,35.430594,-97.612509,35.430594],
+  "bbox": [
+    -97.612509,
+    35.430594,
+    -97.612509,
+    35.430594
+],
   "geometry": {"coordinates":[-97.612509,35.430594],"type":"Point"}
 }

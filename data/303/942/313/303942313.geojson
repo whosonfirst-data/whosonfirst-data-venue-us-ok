@@ -2,13 +2,14 @@
   "id": 303942313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.932356,36.752112,-95.932356,36.752112",
     "geom:latitude":36.752112,
     "geom:longitude":-95.932356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 SE Avondale Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303942313,
-    "wof:lastmodified":1448999233,
+    "wof:lastmodified":1466767024,
     "wof:name":"Green Country Movers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-95.932356,36.752112,-95.932356,36.752112],
+  "bbox": [
+    -95.932356,
+    36.752112,
+    -95.932356,
+    36.752112
+],
   "geometry": {"coordinates":[-95.932356,36.752112],"type":"Point"}
 }

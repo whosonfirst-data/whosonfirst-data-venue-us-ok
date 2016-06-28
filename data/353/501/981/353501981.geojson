@@ -2,13 +2,14 @@
   "id": 353501981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.556244,35.519107,-97.556244,35.519107",
     "geom:latitude":35.519107,
     "geom:longitude":-97.556244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2417 NW 47th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353501981,
-    "wof:lastmodified":1449020820,
+    "wof:lastmodified":1466763148,
     "wof:name":"Nidoma Inc",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-97.556244,35.519107,-97.556244,35.519107],
-  "geometry": {"coordinates":[-97.556244,35.519107],"type":"Point"}
+  "bbox": [
+    -97.556244,
+    35.519107,
+    -97.556244,
+    35.519107
+],
+  "geometry": {"coordinates":[-97.55624400000001,35.519107],"type":"Point"}
 }

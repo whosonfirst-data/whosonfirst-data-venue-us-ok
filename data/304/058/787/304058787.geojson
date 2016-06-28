@@ -2,13 +2,14 @@
   "id": 304058787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.557929,35.461899,-97.557929,35.461899",
     "geom:latitude":35.461899,
     "geom:longitude":-97.557929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2602 W I- 40 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304058787,
-    "wof:lastmodified":1449043635,
+    "wof:lastmodified":1466763166,
     "wof:name":"Branski Brothers House/Window",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-97.557929,35.461899,-97.557929,35.461899],
+  "bbox": [
+    -97.557929,
+    35.461899,
+    -97.557929,
+    35.461899
+],
   "geometry": {"coordinates":[-97.557929,35.461899],"type":"Point"}
 }

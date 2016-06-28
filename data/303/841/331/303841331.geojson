@@ -2,13 +2,14 @@
   "id": 303841331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.939372,36.061363,-95.939372,36.061363",
     "geom:latitude":36.061363,
     "geom:longitude":-95.939372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7032 S Indianapolis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303841331,
-    "wof:lastmodified":1448998629,
+    "wof:lastmodified":1466766923,
     "wof:name":"Chester Simms",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-95.939372,36.061363,-95.939372,36.061363],
-  "geometry": {"coordinates":[-95.939372,36.061363],"type":"Point"}
+  "bbox": [
+    -95.939372,
+    36.061363,
+    -95.939372,
+    36.061363
+],
+  "geometry": {"coordinates":[-95.93937200000001,36.061363],"type":"Point"}
 }

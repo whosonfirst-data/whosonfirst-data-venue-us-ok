@@ -2,13 +2,14 @@
   "id": 304042609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.471762,36.69471,-101.471762,36.69471",
     "geom:latitude":36.69471,
     "geom:longitude":-101.471762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Key St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304042609,
-    "wof:lastmodified":1449044019,
+    "wof:lastmodified":1466763060,
     "wof:name":"Guymon Municipal Airport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.471762,36.69471,-101.471762,36.69471],
+  "bbox": [
+    -101.471762,
+    36.69471,
+    -101.471762,
+    36.69471
+],
   "geometry": {"coordinates":[-101.471762,36.69471],"type":"Point"}
 }

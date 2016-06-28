@@ -2,13 +2,14 @@
   "id": 319933747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.115418,34.501421,-97.115418,34.501421",
     "geom:latitude":34.501421,
     "geom:longitude":-97.115418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E Atlanta Ave",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319933747,
-    "wof:lastmodified":1449024250,
+    "wof:lastmodified":1466763921,
     "wof:name":"Davis Elementary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-97.115418,34.501421,-97.115418,34.501421],
-  "geometry": {"coordinates":[-97.115418,34.501421],"type":"Point"}
+  "bbox": [
+    -97.115418,
+    34.501421,
+    -97.115418,
+    34.501421
+],
+  "geometry": {"coordinates":[-97.11541800000001,34.501421],"type":"Point"}
 }

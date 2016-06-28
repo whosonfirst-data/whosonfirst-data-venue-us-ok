@@ -2,13 +2,14 @@
   "id": 320365803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.141399,34.174364,-97.141399,34.174364",
     "geom:latitude":34.174364,
     "geom:longitude":-97.141399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 W Broadway St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320365803,
-    "wof:lastmodified":1449011859,
+    "wof:lastmodified":1466765547,
     "wof:name":"Dna Solutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "testing"
     ]
 },
-  "bbox": [-97.141399,34.174364,-97.141399,34.174364],
-  "geometry": {"coordinates":[-97.141399,34.174364],"type":"Point"}
+  "bbox": [
+    -97.141399,
+    34.174364,
+    -97.141399,
+    34.174364
+],
+  "geometry": {"coordinates":[-97.14139900000001,34.174364],"type":"Point"}
 }

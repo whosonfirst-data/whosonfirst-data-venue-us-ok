@@ -2,13 +2,14 @@
   "id": 303075631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.031411,36.660414,-97.031411,36.660414",
     "geom:latitude":36.660414,
     "geom:longitude":-97.031411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4431 Mc Cord Rd",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303075631,
-    "wof:lastmodified":1448999445,
+    "wof:lastmodified":1466762835,
     "wof:name":"Shanghai Sound",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.031411,36.660414,-97.031411,36.660414],
-  "geometry": {"coordinates":[-97.031411,36.660414],"type":"Point"}
+  "bbox": [
+    -97.031411,
+    36.660414,
+    -97.031411,
+    36.660414
+],
+  "geometry": {"coordinates":[-97.03141100000001,36.660414],"type":"Point"}
 }

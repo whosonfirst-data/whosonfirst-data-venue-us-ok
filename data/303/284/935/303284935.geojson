@@ -2,13 +2,14 @@
   "id": 303284935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.605186,35.516664,-97.605186,35.516664",
     "geom:latitude":35.516664,
     "geom:longitude":-97.605186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4409 N Libby Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303284935,
-    "wof:lastmodified":1448999639,
+    "wof:lastmodified":1466764891,
     "wof:name":"Lakeside Golf Course",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-97.605186,35.516664,-97.605186,35.516664],
+  "bbox": [
+    -97.605186,
+    35.516664,
+    -97.605186,
+    35.516664
+],
   "geometry": {"coordinates":[-97.605186,35.516664],"type":"Point"}
 }

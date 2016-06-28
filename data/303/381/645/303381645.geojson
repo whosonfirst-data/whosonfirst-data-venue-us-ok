@@ -2,13 +2,14 @@
   "id": 303381645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.50351,35.361545,-97.50351,35.361545",
     "geom:latitude":35.361545,
     "geom:longitude":-97.50351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 N Janeway Ave",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303381645,
-    "wof:lastmodified":1448998318,
+    "wof:lastmodified":1466765234,
     "wof:name":"Rich Tire Co",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-97.50351,35.361545,-97.50351,35.361545],
-  "geometry": {"coordinates":[-97.50351,35.361545],"type":"Point"}
+  "bbox": [
+    -97.50351,
+    35.361545,
+    -97.50351,
+    35.361545
+],
+  "geometry": {"coordinates":[-97.50351000000001,35.361545],"type":"Point"}
 }

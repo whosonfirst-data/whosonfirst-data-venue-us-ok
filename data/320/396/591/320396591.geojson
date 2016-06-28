@@ -2,13 +2,14 @@
   "id": 320396591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.520914,35.48009,-97.520914,35.48009",
     "geom:latitude":35.48009,
     "geom:longitude":-97.520914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 NW 11th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320396591,
-    "wof:lastmodified":1449013719,
+    "wof:lastmodified":1466765713,
     "wof:name":"Clay Opthamologists Inc",
     "wof:parent_id":85871701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.520914,35.48009,-97.520914,35.48009],
+  "bbox": [
+    -97.520914,
+    35.48009,
+    -97.520914,
+    35.48009
+],
   "geometry": {"coordinates":[-97.520914,35.48009],"type":"Point"}
 }

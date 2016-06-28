@@ -2,13 +2,14 @@
   "id": 303357925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.404704,35.740339,-97.404704,35.740339",
     "geom:latitude":35.740339,
     "geom:longitude":-97.404704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13051 Kittyhawk Ln",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303357925,
-    "wof:lastmodified":1449000266,
+    "wof:lastmodified":1466765323,
     "wof:name":"Zerbel & Associates",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "financing"
     ]
 },
-  "bbox": [-97.404704,35.740339,-97.404704,35.740339],
+  "bbox": [
+    -97.404704,
+    35.740339,
+    -97.404704,
+    35.740339
+],
   "geometry": {"coordinates":[-97.404704,35.740339],"type":"Point"}
 }

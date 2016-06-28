@@ -2,13 +2,14 @@
   "id": 353923549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.45501,34.623462,-98.45501,34.623462",
     "geom:latitude":34.623462,
     "geom:longitude":-98.45501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 NW Cache Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353923549,
-    "wof:lastmodified":1449020692,
+    "wof:lastmodified":1466765622,
     "wof:name":"Summit Corp",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.45501,34.623462,-98.45501,34.623462],
+  "bbox": [
+    -98.45501,
+    34.623462,
+    -98.45501,
+    34.623462
+],
   "geometry": {"coordinates":[-98.45501,34.623462],"type":"Point"}
 }

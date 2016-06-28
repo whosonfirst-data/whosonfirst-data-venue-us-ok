@@ -2,13 +2,14 @@
   "id": 304002079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.582799,33.878928,-96.582799,33.878928",
     "geom:latitude":33.878928,
     "geom:longitude":-96.582799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Cove Rd",
     "sg:city":"Fort Towson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":304002079,
-    "wof:lastmodified":1449044053,
+    "wof:lastmodified":1466762833,
     "wof:name":"Point Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.582799,33.878928,-96.582799,33.878928],
-  "geometry": {"coordinates":[-96.582799,33.878928],"type":"Point"}
+  "bbox": [
+    -96.582799,
+    33.878928,
+    -96.582799,
+    33.878928
+],
+  "geometry": {"coordinates":[-96.58279899999999,33.878928],"type":"Point"}
 }

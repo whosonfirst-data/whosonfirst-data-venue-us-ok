@@ -2,13 +2,14 @@
   "id": 303638777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.40842,35.401931,-99.40842,35.401931",
     "geom:latitude":35.401931,
     "geom:longitude":-99.40842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 W 12th St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303638777,
-    "wof:lastmodified":1448998254,
+    "wof:lastmodified":1466766334,
     "wof:name":"Sooner Rubber Products Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "industrial"
     ]
 },
-  "bbox": [-99.40842,35.401931,-99.40842,35.401931],
-  "geometry": {"coordinates":[-99.40842,35.401931],"type":"Point"}
+  "bbox": [
+    -99.40842,
+    35.401931,
+    -99.40842,
+    35.401931
+],
+  "geometry": {"coordinates":[-99.40842000000001,35.401931],"type":"Point"}
 }

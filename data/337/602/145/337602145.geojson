@@ -2,13 +2,14 @@
   "id": 337602145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.993896,36.751531,-95.993896,36.751531",
     "geom:latitude":36.751531,
     "geom:longitude":-95.993896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 SW Frank Phillips Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337602145,
-    "wof:lastmodified":1449027335,
+    "wof:lastmodified":1466763227,
     "wof:name":"Sharp's Pawn Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pawn"
     ]
 },
-  "bbox": [-95.993896,36.751531,-95.993896,36.751531],
-  "geometry": {"coordinates":[-95.993896,36.751531],"type":"Point"}
+  "bbox": [
+    -95.993896,
+    36.751531,
+    -95.993896,
+    36.751531
+],
+  "geometry": {"coordinates":[-95.99389600000001,36.751531],"type":"Point"}
 }

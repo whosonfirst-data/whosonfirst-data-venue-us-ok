@@ -2,13 +2,14 @@
   "id": 337523675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.724765,35.456052,-97.724765,35.456052",
     "geom:latitude":35.456052,
     "geom:longitude":-97.724765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 S Mustang Rd",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":337523675,
-    "wof:lastmodified":1449027417,
+    "wof:lastmodified":1466762785,
     "wof:name":"Hometeam Inspection Service",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-97.724765,35.456052,-97.724765,35.456052],
+  "bbox": [
+    -97.724765,
+    35.456052,
+    -97.724765,
+    35.456052
+],
   "geometry": {"coordinates":[-97.724765,35.456052],"type":"Point"}
 }

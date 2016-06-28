@@ -2,13 +2,14 @@
   "id": 353888835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.944096,35.852418,-97.944096,35.852418",
     "geom:latitude":35.852418,
     "geom:longitude":-97.944096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Park Pl",
     "sg:city":"Kingfisher",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353888835,
-    "wof:lastmodified":1449019859,
+    "wof:lastmodified":1466765647,
     "wof:name":"Pioneer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.944096,35.852418,-97.944096,35.852418],
+  "bbox": [
+    -97.944096,
+    35.852418,
+    -97.944096,
+    35.852418
+],
   "geometry": {"coordinates":[-97.944096,35.852418],"type":"Point"}
 }

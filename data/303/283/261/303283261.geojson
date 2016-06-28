@@ -2,13 +2,14 @@
   "id": 303283261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.875026,36.050264,-95.875026,36.050264",
     "geom:latitude":36.050264,
     "geom:longitude":-95.875026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7727 S 91st Ave E",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303283261,
-    "wof:lastmodified":1448998835,
+    "wof:lastmodified":1466764782,
     "wof:name":"Locker Consulting  Inc",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-95.875026,36.050264,-95.875026,36.050264],
-  "geometry": {"coordinates":[-95.875026,36.050264],"type":"Point"}
+  "bbox": [
+    -95.875026,
+    36.050264,
+    -95.875026,
+    36.050264
+],
+  "geometry": {"coordinates":[-95.87502600000001,36.050264],"type":"Point"}
 }

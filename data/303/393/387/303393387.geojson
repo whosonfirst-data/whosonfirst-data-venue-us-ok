@@ -2,13 +2,14 @@
   "id": 303393387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.398131,34.602813,-98.398131,34.602813",
     "geom:latitude":34.602813,
     "geom:longitude":-98.398131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 SW E Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303393387,
-    "wof:lastmodified":1448998884,
+    "wof:lastmodified":1466765506,
     "wof:name":"Southwest Environmental Svc",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ecological"
     ]
 },
-  "bbox": [-98.398131,34.602813,-98.398131,34.602813],
-  "geometry": {"coordinates":[-98.398131,34.602813],"type":"Point"}
+  "bbox": [
+    -98.398131,
+    34.602813,
+    -98.398131,
+    34.602813
+],
+  "geometry": {"coordinates":[-98.39813100000001,34.602813],"type":"Point"}
 }

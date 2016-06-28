@@ -2,13 +2,14 @@
   "id": 320033239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.380019,35.117534,-97.380019,35.117534",
     "geom:latitude":35.117534,
     "geom:longitude":-97.380019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 US Hwy 77",
     "sg:city":"Noble",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320033239,
-    "wof:lastmodified":1449012025,
+    "wof:lastmodified":1466762781,
     "wof:name":"N Shots",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-97.380019,35.117534,-97.380019,35.117534],
+  "bbox": [
+    -97.380019,
+    35.117534,
+    -97.380019,
+    35.117534
+],
   "geometry": {"coordinates":[-97.380019,35.117534],"type":"Point"}
 }

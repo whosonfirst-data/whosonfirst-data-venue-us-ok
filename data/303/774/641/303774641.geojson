@@ -2,13 +2,14 @@
   "id": 303774641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.556367,35.533043,-97.556367,35.533043",
     "geom:latitude":35.533043,
     "geom:longitude":-97.556367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6010 N Villa Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303774641,
-    "wof:lastmodified":1448999067,
+    "wof:lastmodified":1466766790,
     "wof:name":"Omega Development Company LLC",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-97.556367,35.533043,-97.556367,35.533043],
-  "geometry": {"coordinates":[-97.556367,35.533043],"type":"Point"}
+  "bbox": [
+    -97.556367,
+    35.533043,
+    -97.556367,
+    35.533043
+],
+  "geometry": {"coordinates":[-97.55636699999999,35.533043],"type":"Point"}
 }

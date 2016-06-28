@@ -2,13 +2,14 @@
   "id": 303405377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.790673,36.011673,-95.790673,36.011673",
     "geom:latitude":36.011673,
     "geom:longitude":-95.790673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4121 S Birch Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303405377,
-    "wof:lastmodified":1449000364,
+    "wof:lastmodified":1466765335,
     "wof:name":"Tax Pro of Broken Arrow",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-95.790673,36.011673,-95.790673,36.011673],
+  "bbox": [
+    -95.790673,
+    36.011673,
+    -95.790673,
+    36.011673
+],
   "geometry": {"coordinates":[-95.790673,36.011673],"type":"Point"}
 }

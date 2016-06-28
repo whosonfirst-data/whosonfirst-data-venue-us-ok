@@ -2,13 +2,14 @@
   "id": 303069279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.371752,35.748474,-95.371752,35.748474",
     "geom:latitude":35.748474,
     "geom:longitude":-95.371752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 S 3rd St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303069279,
-    "wof:lastmodified":1448999663,
+    "wof:lastmodified":1466762732,
     "wof:name":"Municipal Police Court Clerk",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-95.371752,35.748474,-95.371752,35.748474],
+  "bbox": [
+    -95.371752,
+    35.748474,
+    -95.371752,
+    35.748474
+],
   "geometry": {"coordinates":[-95.371752,35.748474],"type":"Point"}
 }

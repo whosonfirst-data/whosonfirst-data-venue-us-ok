@@ -2,13 +2,14 @@
   "id": 354011731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.436051,35.754948,-95.436051,35.754948",
     "geom:latitude":35.754948,
     "geom:longitude":-95.436051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 W Okmulgee Ave",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354011731,
-    "wof:lastmodified":1449067331,
+    "wof:lastmodified":1466763009,
     "wof:name":"A-A Westside Storage Inc",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-95.436051,35.754948,-95.436051,35.754948],
-  "geometry": {"coordinates":[-95.436051,35.754948],"type":"Point"}
+  "bbox": [
+    -95.436051,
+    35.754948,
+    -95.436051,
+    35.754948
+],
+  "geometry": {"coordinates":[-95.43605100000001,35.754948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353494551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.359865,35.483237,-97.359865,35.483237",
     "geom:latitude":35.483237,
     "geom:longitude":-97.359865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 N Christine Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353494551,
-    "wof:lastmodified":1449020524,
+    "wof:lastmodified":1466763041,
     "wof:name":"Wolverton Construction",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "project"
     ]
 },
-  "bbox": [-97.359865,35.483237,-97.359865,35.483237],
+  "bbox": [
+    -97.359865,
+    35.483237,
+    -97.359865,
+    35.483237
+],
   "geometry": {"coordinates":[-97.359865,35.483237],"type":"Point"}
 }

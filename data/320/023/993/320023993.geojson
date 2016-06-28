@@ -2,13 +2,14 @@
   "id": 320023993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.765758,34.931126,-95.765758,34.931126",
     "geom:latitude":34.931126,
     "geom:longitude":-95.765758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 E Choctaw Ave",
     "sg:city":"Bache",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320023993,
-    "wof:lastmodified":1449014596,
+    "wof:lastmodified":1466762641,
     "wof:name":"Majestic Barber Shop",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.765758,34.931126,-95.765758,34.931126],
-  "geometry": {"coordinates":[-95.765758,34.931126],"type":"Point"}
+  "bbox": [
+    -95.765758,
+    34.931126,
+    -95.765758,
+    34.931126
+],
+  "geometry": {"coordinates":[-95.76575800000001,34.931126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303518257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.593257,35.606786,-97.593257,35.606786",
     "geom:latitude":35.606786,
     "geom:longitude":-97.593257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13523 Pinehurst Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303518257,
-    "wof:lastmodified":1448999503,
+    "wof:lastmodified":1466766021,
     "wof:name":"Omni Hardwoods",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hardwood"
     ]
 },
-  "bbox": [-97.593257,35.606786,-97.593257,35.606786],
-  "geometry": {"coordinates":[-97.593257,35.606786],"type":"Point"}
+  "bbox": [
+    -97.593257,
+    35.606786,
+    -97.593257,
+    35.606786
+],
+  "geometry": {"coordinates":[-97.59325699999999,35.606786],"type":"Point"}
 }

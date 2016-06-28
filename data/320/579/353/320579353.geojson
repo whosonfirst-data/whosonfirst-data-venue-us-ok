@@ -2,13 +2,14 @@
   "id": 320579353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.618978,35.492208,-97.618978,35.492208",
     "geom:latitude":35.492208,
     "geom:longitude":-97.618978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2314 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320579353,
-    "wof:lastmodified":1449012460,
+    "wof:lastmodified":1466766243,
     "wof:name":"Books Etc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.618978,35.492208,-97.618978,35.492208],
+  "bbox": [
+    -97.618978,
+    35.492208,
+    -97.618978,
+    35.492208
+],
   "geometry": {"coordinates":[-97.618978,35.492208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304016007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.878454,36.416212,-97.878454,36.416212",
     "geom:latitude":36.416212,
     "geom:longitude":-97.878454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2006 N Grand Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304016007,
-    "wof:lastmodified":1449043659,
+    "wof:lastmodified":1466764189,
     "wof:name":"Pete's Farmers Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.878454,36.416212,-97.878454,36.416212],
+  "bbox": [
+    -97.878454,
+    36.416212,
+    -97.878454,
+    36.416212
+],
   "geometry": {"coordinates":[-97.878454,36.416212],"type":"Point"}
 }

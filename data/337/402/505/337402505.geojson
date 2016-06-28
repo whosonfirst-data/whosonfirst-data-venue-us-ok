@@ -2,13 +2,14 @@
   "id": 337402505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.371732,35.75108,-95.371732,35.75108",
     "geom:latitude":35.75108,
     "geom:longitude":-95.371732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 Court St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337402505,
-    "wof:lastmodified":1449027207,
+    "wof:lastmodified":1466763957,
     "wof:name":"Matthew Bonds Law Firm",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-95.371732,35.75108,-95.371732,35.75108],
-  "geometry": {"coordinates":[-95.371732,35.75108],"type":"Point"}
+  "bbox": [
+    -95.371732,
+    35.75108,
+    -95.371732,
+    35.75108
+],
+  "geometry": {"coordinates":[-95.37173199999999,35.75108],"type":"Point"}
 }

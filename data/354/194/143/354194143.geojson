@@ -2,13 +2,14 @@
   "id": 354194143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.95275,35.531189,-97.95275,35.531189",
     "geom:latitude":35.531189,
     "geom:longitude":-97.95275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 S Rock Island Ave",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354194143,
-    "wof:lastmodified":1449067414,
+    "wof:lastmodified":1466763875,
     "wof:name":"Rock Island Credit Union",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-97.95275,35.531189,-97.95275,35.531189],
-  "geometry": {"coordinates":[-97.95275,35.531189],"type":"Point"}
+  "bbox": [
+    -97.95275,
+    35.531189,
+    -97.95275,
+    35.531189
+],
+  "geometry": {"coordinates":[-97.95274999999999,35.531189],"type":"Point"}
 }

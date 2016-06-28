@@ -2,13 +2,14 @@
   "id": 303722863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.789279,35.457382,-94.789279,35.457382",
     "geom:latitude":35.457382,
     "geom:longitude":-94.789279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Elm St",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303722863,
-    "wof:lastmodified":1448998977,
+    "wof:lastmodified":1466766527,
     "wof:name":"Kibois Area Transit System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "line"
     ]
 },
-  "bbox": [-94.789279,35.457382,-94.789279,35.457382],
-  "geometry": {"coordinates":[-94.789279,35.457382],"type":"Point"}
+  "bbox": [
+    -94.789279,
+    35.457382,
+    -94.789279,
+    35.457382
+],
+  "geometry": {"coordinates":[-94.78927899999999,35.457382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320150023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.755616,35.985077,-96.755616,35.985077",
     "geom:latitude":35.985077,
     "geom:longitude":-96.755616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1148 E Main St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320150023,
-    "wof:lastmodified":1449011306,
+    "wof:lastmodified":1466764258,
     "wof:name":"First Free Will Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.755616,35.985077,-96.755616,35.985077],
+  "bbox": [
+    -96.755616,
+    35.985077,
+    -96.755616,
+    35.985077
+],
   "geometry": {"coordinates":[-96.755616,35.985077],"type":"Point"}
 }

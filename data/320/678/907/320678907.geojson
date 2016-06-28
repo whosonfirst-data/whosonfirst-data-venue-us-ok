@@ -2,13 +2,14 @@
   "id": 320678907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904638,36.162285,-95.904638,36.162285",
     "geom:latitude":36.162285,
     "geom:longitude":-95.904638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 N Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320678907,
-    "wof:lastmodified":1449013062,
+    "wof:lastmodified":1466766492,
     "wof:name":"Top Dollar Jewelry & Pawn",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-95.904638,36.162285,-95.904638,36.162285],
-  "geometry": {"coordinates":[-95.904638,36.162285],"type":"Point"}
+  "bbox": [
+    -95.904638,
+    36.162285,
+    -95.904638,
+    36.162285
+],
+  "geometry": {"coordinates":[-95.90463800000001,36.162285],"type":"Point"}
 }

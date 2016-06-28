@@ -2,13 +2,14 @@
   "id": 320433747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.77183,36.289673,-95.77183,36.289673",
     "geom:latitude":36.289673,
     "geom:longitude":-95.77183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17912 E 94th St N",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320433747,
-    "wof:lastmodified":1449011675,
+    "wof:lastmodified":1466765785,
     "wof:name":"A A Estate Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "estate"
     ]
 },
-  "bbox": [-95.77183,36.289673,-95.77183,36.289673],
-  "geometry": {"coordinates":[-95.77183,36.289673],"type":"Point"}
+  "bbox": [
+    -95.77183,
+    36.289673,
+    -95.77183,
+    36.289673
+],
+  "geometry": {"coordinates":[-95.77182999999999,36.289673],"type":"Point"}
 }

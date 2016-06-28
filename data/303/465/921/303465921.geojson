@@ -2,13 +2,14 @@
   "id": 303465921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.74535,34.909383,-95.74535,34.909383",
     "geom:latitude":34.909383,
     "geom:longitude":-95.74535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 S George Nigh Expy",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303465921,
-    "wof:lastmodified":1448999763,
+    "wof:lastmodified":1466765589,
     "wof:name":"Banc First",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.74535,34.909383,-95.74535,34.909383],
+  "bbox": [
+    -95.74535,
+    34.909383,
+    -95.74535,
+    34.909383
+],
   "geometry": {"coordinates":[-95.74535,34.909383],"type":"Point"}
 }

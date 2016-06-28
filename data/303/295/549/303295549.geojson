@@ -2,13 +2,14 @@
   "id": 303295549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.736596,35.465028,-97.736596,35.465028",
     "geom:latitude":35.465028,
     "geom:longitude":-97.736596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11815 Sagamore Dr",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303295549,
-    "wof:lastmodified":1448999110,
+    "wof:lastmodified":1466764930,
     "wof:name":"Harold D Collins",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.736596,35.465028,-97.736596,35.465028],
-  "geometry": {"coordinates":[-97.736596,35.465028],"type":"Point"}
+  "bbox": [
+    -97.736596,
+    35.465028,
+    -97.736596,
+    35.465028
+],
+  "geometry": {"coordinates":[-97.73659600000001,35.465028],"type":"Point"}
 }

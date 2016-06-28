@@ -2,13 +2,14 @@
   "id": 320093125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.634757,34.77887,-96.634757,34.77887",
     "geom:latitude":34.77887,
     "geom:longitude":-96.634757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Monte Vista St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320093125,
-    "wof:lastmodified":1449011268,
+    "wof:lastmodified":1466763665,
     "wof:name":"Medicine Chest Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.634757,34.77887,-96.634757,34.77887],
-  "geometry": {"coordinates":[-96.634757,34.77887],"type":"Point"}
+  "bbox": [
+    -96.634757,
+    34.77887,
+    -96.634757,
+    34.77887
+],
+  "geometry": {"coordinates":[-96.63475699999999,34.77887],"type":"Point"}
 }

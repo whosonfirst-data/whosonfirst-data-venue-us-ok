@@ -2,13 +2,14 @@
   "id": 303056879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.620759,35.578271,-97.620759,35.578271",
     "geom:latitude":35.578271,
     "geom:longitude":-97.620759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10809 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303056879,
-    "wof:lastmodified":1448998811,
+    "wof:lastmodified":1466762532,
     "wof:name":"David A Kroll Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.620759,35.578271,-97.620759,35.578271],
-  "geometry": {"coordinates":[-97.620759,35.578271],"type":"Point"}
+  "bbox": [
+    -97.620759,
+    35.578271,
+    -97.620759,
+    35.578271
+],
+  "geometry": {"coordinates":[-97.62075900000001,35.578271],"type":"Point"}
 }

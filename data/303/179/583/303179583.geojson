@@ -2,13 +2,14 @@
   "id": 303179583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.336487,34.780449,-99.336487,34.780449",
     "geom:latitude":34.780449,
     "geom:longitude":-99.336487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Main St",
     "sg:city":"Blair",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303179583,
-    "wof:lastmodified":1449000318,
+    "wof:lastmodified":1466764326,
     "wof:name":"Tag Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-99.336487,34.780449,-99.336487,34.780449],
-  "geometry": {"coordinates":[-99.336487,34.780449],"type":"Point"}
+  "bbox": [
+    -99.336487,
+    34.780449,
+    -99.336487,
+    34.780449
+],
+  "geometry": {"coordinates":[-99.33648700000001,34.780449],"type":"Point"}
 }

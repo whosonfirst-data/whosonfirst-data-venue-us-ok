@@ -2,13 +2,14 @@
   "id": 320406095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.006848,36.13191,-96.006848,36.13191",
     "geom:latitude":36.13191,
     "geom:longitude":-96.006848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2119 Southwest Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320406095,
-    "wof:lastmodified":1449013261,
+    "wof:lastmodified":1466765649,
     "wof:name":"Bloom and Proper Foundation",
     "wof:parent_id":85872487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aid"
     ]
 },
-  "bbox": [-96.006848,36.13191,-96.006848,36.13191],
-  "geometry": {"coordinates":[-96.006848,36.13191],"type":"Point"}
+  "bbox": [
+    -96.006848,
+    36.13191,
+    -96.006848,
+    36.13191
+],
+  "geometry": {"coordinates":[-96.00684800000001,36.13191],"type":"Point"}
 }

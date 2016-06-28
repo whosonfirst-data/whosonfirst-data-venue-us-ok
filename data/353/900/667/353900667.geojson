@@ -2,13 +2,14 @@
   "id": 353900667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.400329,35.467689,-97.400329,35.467689",
     "geom:latitude":35.467689,
     "geom:longitude":-97.400329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Guy Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353900667,
-    "wof:lastmodified":1449019352,
+    "wof:lastmodified":1466765687,
     "wof:name":"BJ Consulting",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-97.400329,35.467689,-97.400329,35.467689],
+  "bbox": [
+    -97.400329,
+    35.467689,
+    -97.400329,
+    35.467689
+],
   "geometry": {"coordinates":[-97.400329,35.467689],"type":"Point"}
 }

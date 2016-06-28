@@ -2,13 +2,14 @@
   "id": 303080433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.415966,35.710659,-97.415966,35.710659",
     "geom:latitude":35.710659,
     "geom:longitude":-97.415966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5032 E Sorghum Mill Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303080433,
-    "wof:lastmodified":1449000497,
+    "wof:lastmodified":1466762911,
     "wof:name":"Okwifi",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-97.415966,35.710659,-97.415966,35.710659],
+  "bbox": [
+    -97.415966,
+    35.710659,
+    -97.415966,
+    35.710659
+],
   "geometry": {"coordinates":[-97.415966,35.710659],"type":"Point"}
 }

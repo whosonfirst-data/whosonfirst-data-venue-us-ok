@@ -2,13 +2,14 @@
   "id": 303153099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.890886,36.419854,-97.890886,36.419854",
     "geom:latitude":36.419854,
     "geom:longitude":-97.890886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 W Willow Rd",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303153099,
-    "wof:lastmodified":1448999802,
+    "wof:lastmodified":1466764089,
     "wof:name":"US Oncology  Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialty"
     ]
 },
-  "bbox": [-97.890886,36.419854,-97.890886,36.419854],
-  "geometry": {"coordinates":[-97.890886,36.419854],"type":"Point"}
+  "bbox": [
+    -97.890886,
+    36.419854,
+    -97.890886,
+    36.419854
+],
+  "geometry": {"coordinates":[-97.89088599999999,36.419854],"type":"Point"}
 }

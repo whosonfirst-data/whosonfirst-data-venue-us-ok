@@ -2,13 +2,14 @@
   "id": 353718035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.388381,35.447105,-97.388381,35.447105",
     "geom:latitude":35.447105,
     "geom:longitude":-97.388381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1840 S Midwest Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353718035,
-    "wof:lastmodified":1449018817,
+    "wof:lastmodified":1466764845,
     "wof:name":"Midwest Food Mart",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-97.388381,35.447105,-97.388381,35.447105],
+  "bbox": [
+    -97.388381,
+    35.447105,
+    -97.388381,
+    35.447105
+],
   "geometry": {"coordinates":[-97.388381,35.447105],"type":"Point"}
 }

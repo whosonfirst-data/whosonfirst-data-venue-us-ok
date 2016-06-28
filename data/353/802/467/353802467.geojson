@@ -2,13 +2,14 @@
   "id": 353802467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.528333,35.468967,-97.528333,35.468967",
     "geom:latitude":35.468967,
     "geom:longitude":-97.528333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 NW 1st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353802467,
-    "wof:lastmodified":1449020350,
+    "wof:lastmodified":1466765471,
     "wof:name":"Okla Transmission Supply Inc",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-97.528333,35.468967,-97.528333,35.468967],
+  "bbox": [
+    -97.528333,
+    35.468967,
+    -97.528333,
+    35.468967
+],
   "geometry": {"coordinates":[-97.528333,35.468967],"type":"Point"}
 }

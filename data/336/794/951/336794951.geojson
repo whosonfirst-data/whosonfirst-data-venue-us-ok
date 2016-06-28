@@ -2,13 +2,14 @@
   "id": 336794951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.752221,35.510784,-97.752221,35.510784",
     "geom:latitude":35.510784,
     "geom:longitude":-97.752221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Inla Ave",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336794951,
-    "wof:lastmodified":1448997468,
+    "wof:lastmodified":1466764525,
     "wof:name":"Yukon Animal Shelter",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-97.752221,35.510784,-97.752221,35.510784],
-  "geometry": {"coordinates":[-97.752221,35.510784],"type":"Point"}
+  "bbox": [
+    -97.752221,
+    35.510784,
+    -97.752221,
+    35.510784
+],
+  "geometry": {"coordinates":[-97.75222100000001,35.510784],"type":"Point"}
 }

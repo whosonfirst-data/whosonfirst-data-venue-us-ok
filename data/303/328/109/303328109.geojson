@@ -2,13 +2,14 @@
   "id": 303328109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.877445,36.875834,-94.877445,36.875834",
     "geom:latitude":36.875834,
     "geom:longitude":-94.877445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 N Main St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303328109,
-    "wof:lastmodified":1448999562,
+    "wof:lastmodified":1466765065,
     "wof:name":"Regional Education Service Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "administrative"
     ]
 },
-  "bbox": [-94.877445,36.875834,-94.877445,36.875834],
-  "geometry": {"coordinates":[-94.877445,36.875834],"type":"Point"}
+  "bbox": [
+    -94.877445,
+    36.875834,
+    -94.877445,
+    36.875834
+],
+  "geometry": {"coordinates":[-94.87744499999999,36.875834],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320234327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.051348,36.133413,-96.051348,36.133413",
     "geom:latitude":36.133413,
     "geom:longitude":-96.051348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5220 W 21st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320234327,
-    "wof:lastmodified":1449014756,
+    "wof:lastmodified":1466764865,
     "wof:name":"H & H Steel Fabricators",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.051348,36.133413,-96.051348,36.133413],
+  "bbox": [
+    -96.051348,
+    36.133413,
+    -96.051348,
+    36.133413
+],
   "geometry": {"coordinates":[-96.051348,36.133413],"type":"Point"}
 }

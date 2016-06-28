@@ -2,13 +2,14 @@
   "id": 287153105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.481582,35.406198,-97.481582,35.406198",
     "geom:latitude":35.406198,
     "geom:longitude":-97.481582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 SE 59th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287153105,
-    "wof:lastmodified":1449001295,
+    "wof:lastmodified":1466763681,
     "wof:name":"Valley Brook Municipal Bldg",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-97.481582,35.406198,-97.481582,35.406198],
+  "bbox": [
+    -97.481582,
+    35.406198,
+    -97.481582,
+    35.406198
+],
   "geometry": {"coordinates":[-97.481582,35.406198],"type":"Point"}
 }

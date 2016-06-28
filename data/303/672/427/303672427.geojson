@@ -2,13 +2,14 @@
   "id": 303672427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.917076,36.191651,-95.917076,36.191651",
     "geom:latitude":36.191651,
     "geom:longitude":-95.917076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5315 E Apache St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303672427,
-    "wof:lastmodified":1448998275,
+    "wof:lastmodified":1466766429,
     "wof:name":"Carefree Highway Trucking Co",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-95.917076,36.191651,-95.917076,36.191651],
-  "geometry": {"coordinates":[-95.917076,36.191651],"type":"Point"}
+  "bbox": [
+    -95.917076,
+    36.191651,
+    -95.917076,
+    36.191651
+],
+  "geometry": {"coordinates":[-95.91707599999999,36.191651],"type":"Point"}
 }

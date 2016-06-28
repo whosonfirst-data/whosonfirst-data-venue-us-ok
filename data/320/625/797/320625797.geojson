@@ -2,13 +2,14 @@
   "id": 320625797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975659,36.173487,-95.975659,36.173487",
     "geom:latitude":36.173487,
     "geom:longitude":-95.975659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 N Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":320625797,
-    "wof:lastmodified":1449015025,
+    "wof:lastmodified":1466766347,
     "wof:name":"Brainerd Chemical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.975659,36.173487,-95.975659,36.173487],
-  "geometry": {"coordinates":[-95.975659,36.173487],"type":"Point"}
+  "bbox": [
+    -95.975659,
+    36.173487,
+    -95.975659,
+    36.173487
+],
+  "geometry": {"coordinates":[-95.97565899999999,36.173487],"type":"Point"}
 }

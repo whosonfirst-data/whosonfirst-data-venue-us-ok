@@ -2,13 +2,14 @@
   "id": 220160801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.855013,36.265837,-95.855013,36.265837",
     "geom:latitude":36.265837,
     "geom:longitude":-95.855013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 S Main St",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220160801,
-    "wof:lastmodified":1449074738,
+    "wof:lastmodified":1466762297,
     "wof:name":"Owasso Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "historical"
     ]
 },
-  "bbox": [-95.855013,36.265837,-95.855013,36.265837],
+  "bbox": [
+    -95.855013,
+    36.265837,
+    -95.855013,
+    36.265837
+],
   "geometry": {"coordinates":[-95.855013,36.265837],"type":"Point"}
 }

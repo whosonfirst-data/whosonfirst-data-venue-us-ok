@@ -2,13 +2,14 @@
   "id": 287197285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.341957,36.190804,-95.341957,36.190804",
     "geom:latitude":36.190804,
     "geom:longitude":-95.341957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 US Hwy 69",
     "sg:city":"Chouteau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287197285,
-    "wof:lastmodified":1449001459,
+    "wof:lastmodified":1466763966,
     "wof:name":"Hair Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.341957,36.190804,-95.341957,36.190804],
-  "geometry": {"coordinates":[-95.341957,36.190804],"type":"Point"}
+  "bbox": [
+    -95.341957,
+    36.190804,
+    -95.341957,
+    36.190804
+],
+  "geometry": {"coordinates":[-95.34195699999999,36.190804],"type":"Point"}
 }

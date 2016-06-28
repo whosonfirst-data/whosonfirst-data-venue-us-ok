@@ -2,13 +2,14 @@
   "id": 303589901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.481571,36.687889,-101.481571,36.687889",
     "geom:latitude":36.687889,
     "geom:longitude":-101.481571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 N Main St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303589901,
-    "wof:lastmodified":1448999425,
+    "wof:lastmodified":1466766170,
     "wof:name":"Huckins Insurance Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.481571,36.687889,-101.481571,36.687889],
+  "bbox": [
+    -101.481571,
+    36.687889,
+    -101.481571,
+    36.687889
+],
   "geometry": {"coordinates":[-101.481571,36.687889],"type":"Point"}
 }

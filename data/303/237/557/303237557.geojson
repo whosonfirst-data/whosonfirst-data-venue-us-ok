@@ -2,13 +2,14 @@
   "id": 303237557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.765085,35.985114,-96.765085,35.985114",
     "geom:latitude":35.985114,
     "geom:longitude":-96.765085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 E Main St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303237557,
-    "wof:lastmodified":1448998178,
+    "wof:lastmodified":1466764643,
     "wof:name":"Oklahoma Farmers Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.765085,35.985114,-96.765085,35.985114],
+  "bbox": [
+    -96.765085,
+    35.985114,
+    -96.765085,
+    35.985114
+],
   "geometry": {"coordinates":[-96.765085,35.985114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320857243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.845628,36.160543,-95.845628,36.160543",
     "geom:latitude":36.160543,
     "geom:longitude":-95.845628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11714 E Admiral Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320857243,
-    "wof:lastmodified":1449013688,
+    "wof:lastmodified":1466767060,
     "wof:name":"Jack's 66",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-95.845628,36.160543,-95.845628,36.160543],
+  "bbox": [
+    -95.845628,
+    36.160543,
+    -95.845628,
+    36.160543
+],
   "geometry": {"coordinates":[-95.845628,36.160543],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220191771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.029282,36.1507,-96.029282,36.1507",
     "geom:latitude":36.1507,
     "geom:longitude":-96.029282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 W 5th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":220191771,
-    "wof:lastmodified":1449074523,
+    "wof:lastmodified":1466762423,
     "wof:name":"Knotty Pine Barbeque",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "steak"
     ]
 },
-  "bbox": [-96.029282,36.1507,-96.029282,36.1507],
-  "geometry": {"coordinates":[-96.029282,36.1507],"type":"Point"}
+  "bbox": [
+    -96.029282,
+    36.1507,
+    -96.029282,
+    36.1507
+],
+  "geometry": {"coordinates":[-96.02928199999999,36.1507],"type":"Point"}
 }

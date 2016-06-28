@@ -2,13 +2,14 @@
   "id": 303972711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.536616,35.420822,-97.536616,35.420822",
     "geom:latitude":35.420822,
     "geom:longitude":-97.536616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 SW 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303972711,
-    "wof:lastmodified":1448999345,
+    "wof:lastmodified":1466767108,
     "wof:name":"Wood Insurance",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.536616,35.420822,-97.536616,35.420822],
+  "bbox": [
+    -97.536616,
+    35.420822,
+    -97.536616,
+    35.420822
+],
   "geometry": {"coordinates":[-97.536616,35.420822],"type":"Point"}
 }

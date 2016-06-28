@@ -2,13 +2,14 @@
   "id": 303419073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.474812,34.610745,-98.474812,34.610745",
     "geom:latitude":34.610745,
     "geom:longitude":-98.474812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 NW 67th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303419073,
-    "wof:lastmodified":1449000521,
+    "wof:lastmodified":1466765414,
     "wof:name":"Mega Cleaners",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-98.474812,34.610745,-98.474812,34.610745],
+  "bbox": [
+    -98.474812,
+    34.610745,
+    -98.474812,
+    34.610745
+],
   "geometry": {"coordinates":[-98.474812,34.610745],"type":"Point"}
 }

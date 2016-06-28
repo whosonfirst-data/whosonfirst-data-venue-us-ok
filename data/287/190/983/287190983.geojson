@@ -2,13 +2,14 @@
   "id": 287190983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.619021,35.513513,-97.619021,35.513513",
     "geom:latitude":35.513513,
     "geom:longitude":-97.619021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4121 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":287190983,
-    "wof:lastmodified":1449001533,
+    "wof:lastmodified":1466763925,
     "wof:name":"Central Power Equipment Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mower"
     ]
 },
-  "bbox": [-97.619021,35.513513,-97.619021,35.513513],
+  "bbox": [
+    -97.619021,
+    35.513513,
+    -97.619021,
+    35.513513
+],
   "geometry": {"coordinates":[-97.619021,35.513513],"type":"Point"}
 }

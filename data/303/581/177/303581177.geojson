@@ -2,13 +2,14 @@
   "id": 303581177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.878346,36.413022,-97.878346,36.413022",
     "geom:latitude":36.413022,
     "geom:longitude":-97.878346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 N Grand Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303581177,
-    "wof:lastmodified":1448998632,
+    "wof:lastmodified":1466766145,
     "wof:name":"Grand Auto Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "clean"
     ]
 },
-  "bbox": [-97.878346,36.413022,-97.878346,36.413022],
-  "geometry": {"coordinates":[-97.878346,36.413022],"type":"Point"}
+  "bbox": [
+    -97.878346,
+    36.413022,
+    -97.878346,
+    36.413022
+],
+  "geometry": {"coordinates":[-97.87834599999999,36.413022],"type":"Point"}
 }

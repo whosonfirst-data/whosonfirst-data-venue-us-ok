@@ -2,13 +2,14 @@
   "id": 220181219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.950691,36.171139,-95.950691,36.171139",
     "geom:latitude":36.171139,
     "geom:longitude":-95.950691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2703 Dawson Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220181219,
-    "wof:lastmodified":1449074526,
+    "wof:lastmodified":1466762356,
     "wof:name":"Integrated Tower Systems",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "communication"
     ]
 },
-  "bbox": [-95.950691,36.171139,-95.950691,36.171139],
-  "geometry": {"coordinates":[-95.950691,36.171139],"type":"Point"}
+  "bbox": [
+    -95.950691,
+    36.171139,
+    -95.950691,
+    36.171139
+],
+  "geometry": {"coordinates":[-95.95069100000001,36.171139],"type":"Point"}
 }

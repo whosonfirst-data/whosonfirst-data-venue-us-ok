@@ -2,13 +2,14 @@
   "id": 303662165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.544664,35.563925,-97.544664,35.563925",
     "geom:latitude":35.563925,
     "geom:longitude":-97.544664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Downing St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303662165,
-    "wof:lastmodified":1448999773,
+    "wof:lastmodified":1466766308,
     "wof:name":"Tropic Heat & Air",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.544664,35.563925,-97.544664,35.563925],
+  "bbox": [
+    -97.544664,
+    35.563925,
+    -97.544664,
+    35.563925
+],
   "geometry": {"coordinates":[-97.544664,35.563925],"type":"Point"}
 }

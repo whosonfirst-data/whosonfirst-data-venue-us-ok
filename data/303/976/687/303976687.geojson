@@ -2,13 +2,14 @@
   "id": 303976687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.509291,35.466397,-97.509291,35.466397",
     "geom:latitude":35.466397,
     "geom:longitude":-97.509291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 E Sheridan Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303976687,
-    "wof:lastmodified":1448999131,
+    "wof:lastmodified":1466767067,
     "wof:name":"Griffin Reynolds & Trout",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.509291,35.466397,-97.509291,35.466397],
+  "bbox": [
+    -97.509291,
+    35.466397,
+    -97.509291,
+    35.466397
+],
   "geometry": {"coordinates":[-97.509291,35.466397],"type":"Point"}
 }

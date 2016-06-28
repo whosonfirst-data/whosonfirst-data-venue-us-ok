@@ -2,13 +2,14 @@
   "id": 303989109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.542396,35.473034,-97.542396,35.473034",
     "geom:latitude":35.473034,
     "geom:longitude":-97.542396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1644 NW 5th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303989109,
-    "wof:lastmodified":1448999913,
+    "wof:lastmodified":1466767073,
     "wof:name":"Rus",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "matting"
     ]
 },
-  "bbox": [-97.542396,35.473034,-97.542396,35.473034],
+  "bbox": [
+    -97.542396,
+    35.473034,
+    -97.542396,
+    35.473034
+],
   "geometry": {"coordinates":[-97.542396,35.473034],"type":"Point"}
 }

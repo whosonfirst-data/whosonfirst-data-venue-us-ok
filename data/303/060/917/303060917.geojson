@@ -2,13 +2,14 @@
   "id": 303060917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.472649,35.572661,-97.472649,35.572661",
     "geom:latitude":35.572661,
     "geom:longitude":-97.472649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2012 NE 100th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303060917,
-    "wof:lastmodified":1449000341,
+    "wof:lastmodified":1466762597,
     "wof:name":"Ann & Ed's Antiques",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-97.472649,35.572661,-97.472649,35.572661],
+  "bbox": [
+    -97.472649,
+    35.572661,
+    -97.472649,
+    35.572661
+],
   "geometry": {"coordinates":[-97.472649,35.572661],"type":"Point"}
 }

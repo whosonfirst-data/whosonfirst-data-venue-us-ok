@@ -2,13 +2,14 @@
   "id": 303103151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.920656,36.157455,-95.920656,36.157455",
     "geom:latitude":36.157455,
     "geom:longitude":-95.920656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4921 E 3rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303103151,
-    "wof:lastmodified":1448999645,
+    "wof:lastmodified":1466763285,
     "wof:name":"Campbell Landscape Co",
     "wof:parent_id":85813737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.920656,36.157455,-95.920656,36.157455],
-  "geometry": {"coordinates":[-95.920656,36.157455],"type":"Point"}
+  "bbox": [
+    -95.920656,
+    36.157455,
+    -95.920656,
+    36.157455
+],
+  "geometry": {"coordinates":[-95.92065599999999,36.157455],"type":"Point"}
 }

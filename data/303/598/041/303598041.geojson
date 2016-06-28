@@ -2,13 +2,14 @@
   "id": 303598041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.741555,34.999536,-95.741555,34.999536",
     "geom:latitude":34.999536,
     "geom:longitude":-95.741555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 State Hwy 113",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303598041,
-    "wof:lastmodified":1448998246,
+    "wof:lastmodified":1466766293,
     "wof:name":"Oklahoma Sign Co",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.741555,34.999536,-95.741555,34.999536],
-  "geometry": {"coordinates":[-95.741555,34.999536],"type":"Point"}
+  "bbox": [
+    -95.741555,
+    34.999536,
+    -95.741555,
+    34.999536
+],
+  "geometry": {"coordinates":[-95.74155500000001,34.999536],"type":"Point"}
 }

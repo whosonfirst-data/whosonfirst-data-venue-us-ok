@@ -2,13 +2,14 @@
   "id": 303986795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.880285,36.584676,-98.880285,36.584676",
     "geom:latitude":36.584676,
     "geom:longitude":-98.880285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 N Main St",
     "sg:city":"Waynoka",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":303986795,
-    "wof:lastmodified":1449000091,
+    "wof:lastmodified":1466767074,
     "wof:name":"Dean's Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-98.880285,36.584676,-98.880285,36.584676],
+  "bbox": [
+    -98.880285,
+    36.584676,
+    -98.880285,
+    36.584676
+],
   "geometry": {"coordinates":[-98.880285,36.584676],"type":"Point"}
 }

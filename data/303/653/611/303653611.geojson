@@ -2,13 +2,14 @@
   "id": 303653611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.960967,36.154109,-95.960967,36.154109",
     "geom:latitude":36.154109,
     "geom:longitude":-95.960967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 S Zunis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303653611,
-    "wof:lastmodified":1448998298,
+    "wof:lastmodified":1466766473,
     "wof:name":"Tulsa Toy Trains",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.960967,36.154109,-95.960967,36.154109],
+  "bbox": [
+    -95.960967,
+    36.154109,
+    -95.960967,
+    36.154109
+],
   "geometry": {"coordinates":[-95.960967,36.154109],"type":"Point"}
 }

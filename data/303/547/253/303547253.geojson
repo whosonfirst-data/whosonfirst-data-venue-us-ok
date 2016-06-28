@@ -2,13 +2,14 @@
   "id": 303547253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.392661,36.415481,-96.392661,36.415481",
     "geom:latitude":36.415481,
     "geom:longitude":-96.392661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Wood Ave",
     "sg:city":"Hominy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303547253,
-    "wof:lastmodified":1448998371,
+    "wof:lastmodified":1466766147,
     "wof:name":"Hominy Donut Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "doughnut"
     ]
 },
-  "bbox": [-96.392661,36.415481,-96.392661,36.415481],
+  "bbox": [
+    -96.392661,
+    36.415481,
+    -96.392661,
+    36.415481
+],
   "geometry": {"coordinates":[-96.392661,36.415481],"type":"Point"}
 }

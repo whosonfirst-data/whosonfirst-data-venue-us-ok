@@ -2,13 +2,14 @@
   "id": 353586381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.330132,35.732123,-95.330132,35.732123",
     "geom:latitude":35.732123,
     "geom:longitude":-95.330132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3012 Hilltop Ave",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353586381,
-    "wof:lastmodified":1449020510,
+    "wof:lastmodified":1466764431,
     "wof:name":"OMT Plumbing",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.330132,35.732123,-95.330132,35.732123],
-  "geometry": {"coordinates":[-95.330132,35.732123],"type":"Point"}
+  "bbox": [
+    -95.330132,
+    35.732123,
+    -95.330132,
+    35.732123
+],
+  "geometry": {"coordinates":[-95.33013200000001,35.732123],"type":"Point"}
 }

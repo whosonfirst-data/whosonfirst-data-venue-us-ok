@@ -2,13 +2,14 @@
   "id": 337453961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534297,35.521356,-97.534297,35.521356",
     "geom:latitude":35.521356,
     "geom:longitude":-97.534297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4912 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337453961,
-    "wof:lastmodified":1449027555,
+    "wof:lastmodified":1466762383,
     "wof:name":"Roadstar Import Car Repair",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-97.534297,35.521356,-97.534297,35.521356],
+  "bbox": [
+    -97.534297,
+    35.521356,
+    -97.534297,
+    35.521356
+],
   "geometry": {"coordinates":[-97.534297,35.521356],"type":"Point"}
 }

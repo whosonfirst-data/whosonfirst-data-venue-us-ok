@@ -2,13 +2,14 @@
   "id": 353983001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.981569,36.137954,-95.981569,36.137954",
     "geom:latitude":36.137954,
     "geom:longitude":-95.981569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 S Detroit Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353983001,
-    "wof:lastmodified":1449020598,
+    "wof:lastmodified":1466766021,
     "wof:name":"Presentations By Sarah",
     "wof:parent_id":85872487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "architectural"
     ]
 },
-  "bbox": [-95.981569,36.137954,-95.981569,36.137954],
-  "geometry": {"coordinates":[-95.981569,36.137954],"type":"Point"}
+  "bbox": [
+    -95.981569,
+    36.137954,
+    -95.981569,
+    36.137954
+],
+  "geometry": {"coordinates":[-95.98156899999999,36.137954],"type":"Point"}
 }

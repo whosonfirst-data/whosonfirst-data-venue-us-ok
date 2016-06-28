@@ -2,13 +2,14 @@
   "id": 303735263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.45584,35.675522,-97.45584,35.675522",
     "geom:latitude":35.675522,
     "geom:longitude":-97.45584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Rolling Creek Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303735263,
-    "wof:lastmodified":1449000511,
+    "wof:lastmodified":1466766556,
     "wof:name":"Kautz Construction Inc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.45584,35.675522,-97.45584,35.675522],
-  "geometry": {"coordinates":[-97.45584,35.675522],"type":"Point"}
+  "bbox": [
+    -97.45584,
+    35.675522,
+    -97.45584,
+    35.675522
+],
+  "geometry": {"coordinates":[-97.45583999999999,35.675522],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303914011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.590253,36.307303,-97.590253,36.307303",
     "geom:latitude":36.307303,
     "geom:longitude":-97.590253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 4th St",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303914011,
-    "wof:lastmodified":1448999053,
+    "wof:lastmodified":1466766922,
     "wof:name":"Red Brick Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.590253,36.307303,-97.590253,36.307303],
+  "bbox": [
+    -97.590253,
+    36.307303,
+    -97.590253,
+    36.307303
+],
   "geometry": {"coordinates":[-97.590253,36.307303],"type":"Point"}
 }

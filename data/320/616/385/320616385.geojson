@@ -2,13 +2,14 @@
   "id": 320616385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.477155,35.507591,-97.477155,35.507591",
     "geom:latitude":35.507591,
     "geom:longitude":-97.477155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1732 NE 36th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320616385,
-    "wof:lastmodified":1449013997,
+    "wof:lastmodified":1466766322,
     "wof:name":"Diamond Sound Recording Studio",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "studio"
     ]
 },
-  "bbox": [-97.477155,35.507591,-97.477155,35.507591],
+  "bbox": [
+    -97.477155,
+    35.507591,
+    -97.477155,
+    35.507591
+],
   "geometry": {"coordinates":[-97.477155,35.507591],"type":"Point"}
 }

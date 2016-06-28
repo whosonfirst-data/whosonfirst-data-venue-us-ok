@@ -2,13 +2,14 @@
   "id": 320388033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.836378,36.049734,-95.836378,36.049734",
     "geom:latitude":36.049734,
     "geom:longitude":-95.836378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3812 W el Paso St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320388033,
-    "wof:lastmodified":1449011401,
+    "wof:lastmodified":1466765654,
     "wof:name":"Driver Software Design",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "datum"
     ]
 },
-  "bbox": [-95.836378,36.049734,-95.836378,36.049734],
+  "bbox": [
+    -95.836378,
+    36.049734,
+    -95.836378,
+    36.049734
+],
   "geometry": {"coordinates":[-95.836378,36.049734],"type":"Point"}
 }

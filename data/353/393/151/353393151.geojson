@@ -2,13 +2,14 @@
   "id": 353393151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.666311,36.309179,-95.666311,36.309179",
     "geom:latitude":36.309179,
     "geom:longitude":-95.666311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9095 E Salem Dr",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353393151,
-    "wof:lastmodified":1449019050,
+    "wof:lastmodified":1466762396,
     "wof:name":"Precision Concrete Cnstr LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.666311,36.309179,-95.666311,36.309179],
-  "geometry": {"coordinates":[-95.666311,36.309179],"type":"Point"}
+  "bbox": [
+    -95.666311,
+    36.309179,
+    -95.666311,
+    36.309179
+],
+  "geometry": {"coordinates":[-95.66631099999999,36.309179],"type":"Point"}
 }

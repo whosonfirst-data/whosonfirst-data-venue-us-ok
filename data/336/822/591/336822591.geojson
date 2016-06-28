@@ -2,13 +2,14 @@
   "id": 336822591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.460979,35.617899,-97.460979,35.617899",
     "geom:latitude":35.617899,
     "geom:longitude":-97.460979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Sims Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336822591,
-    "wof:lastmodified":1448997968,
+    "wof:lastmodified":1466764787,
     "wof:name":"Methvin Holdings Inc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-97.460979,35.617899,-97.460979,35.617899],
-  "geometry": {"coordinates":[-97.460979,35.617899],"type":"Point"}
+  "bbox": [
+    -97.460979,
+    35.617899,
+    -97.460979,
+    35.617899
+],
+  "geometry": {"coordinates":[-97.46097899999999,35.617899],"type":"Point"}
 }

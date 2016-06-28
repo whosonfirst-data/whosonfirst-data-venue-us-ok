@@ -2,13 +2,14 @@
   "id": 320178467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.13255,36.111277,-97.13255,36.111277",
     "geom:latitude":36.111277,
     "geom:longitude":-97.13255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Greystone St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320178467,
-    "wof:lastmodified":1449013946,
+    "wof:lastmodified":1466764496,
     "wof:name":"Linda Hunter and Tom Hunt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.13255,36.111277,-97.13255,36.111277],
-  "geometry": {"coordinates":[-97.13255,36.111277],"type":"Point"}
+  "bbox": [
+    -97.13255,
+    36.111277,
+    -97.13255,
+    36.111277
+],
+  "geometry": {"coordinates":[-97.13254999999999,36.111277],"type":"Point"}
 }

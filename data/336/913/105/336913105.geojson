@@ -2,13 +2,14 @@
   "id": 336913105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.95482,35.534914,-97.95482,35.534914",
     "geom:latitude":35.534914,
     "geom:longitude":-97.95482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N Choctaw Ave",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336913105,
-    "wof:lastmodified":1448997366,
+    "wof:lastmodified":1466765268,
     "wof:name":"Henricksen & Henricksen",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.95482,35.534914,-97.95482,35.534914],
+  "bbox": [
+    -97.95482,
+    35.534914,
+    -97.95482,
+    35.534914
+],
   "geometry": {"coordinates":[-97.95482,35.534914],"type":"Point"}
 }

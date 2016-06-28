@@ -2,13 +2,14 @@
   "id": 303166397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.510308,34.884313,-99.510308,34.884313",
     "geom:latitude":34.884313,
     "geom:longitude":-99.510308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Washington St",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303166397,
-    "wof:lastmodified":1448999485,
+    "wof:lastmodified":1466764281,
     "wof:name":"Mosley Butch Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parts"
     ]
 },
-  "bbox": [-99.510308,34.884313,-99.510308,34.884313],
-  "geometry": {"coordinates":[-99.510308,34.884313],"type":"Point"}
+  "bbox": [
+    -99.510308,
+    34.884313,
+    -99.510308,
+    34.884313
+],
+  "geometry": {"coordinates":[-99.51030799999999,34.884313],"type":"Point"}
 }

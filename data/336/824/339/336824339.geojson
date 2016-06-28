@@ -2,13 +2,14 @@
   "id": 336824339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480181,35.231681,-97.480181,35.231681",
     "geom:latitude":35.231681,
     "geom:longitude":-97.480181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 Westport Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336824339,
-    "wof:lastmodified":1448997309,
+    "wof:lastmodified":1466764795,
     "wof:name":"Westwood Tennis Ctr",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-97.480181,35.231681,-97.480181,35.231681],
+  "bbox": [
+    -97.480181,
+    35.231681,
+    -97.480181,
+    35.231681
+],
   "geometry": {"coordinates":[-97.480181,35.231681],"type":"Point"}
 }

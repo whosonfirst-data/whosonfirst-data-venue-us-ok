@@ -2,13 +2,14 @@
   "id": 303965023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.537061,35.474704,-97.537061,35.474704",
     "geom:latitude":35.474704,
     "geom:longitude":-97.537061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 Linwood Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303965023,
-    "wof:lastmodified":1448999826,
+    "wof:lastmodified":1466767102,
     "wof:name":"Spaan Baldridge Heat & Air",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.537061,35.474704,-97.537061,35.474704],
-  "geometry": {"coordinates":[-97.537061,35.474704],"type":"Point"}
+  "bbox": [
+    -97.537061,
+    35.474704,
+    -97.537061,
+    35.474704
+],
+  "geometry": {"coordinates":[-97.53706099999999,35.474704],"type":"Point"}
 }

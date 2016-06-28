@@ -2,13 +2,14 @@
   "id": 304070735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.315428,34.916776,-97.315428,34.916776",
     "geom:latitude":34.916776,
     "geom:longitude":-97.315428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Shannon St",
     "sg:city":"Wayne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304070735,
-    "wof:lastmodified":1449043839,
+    "wof:lastmodified":1466763228,
     "wof:name":"King's Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-97.315428,34.916776,-97.315428,34.916776],
+  "bbox": [
+    -97.315428,
+    34.916776,
+    -97.315428,
+    34.916776
+],
   "geometry": {"coordinates":[-97.315428,34.916776],"type":"Point"}
 }

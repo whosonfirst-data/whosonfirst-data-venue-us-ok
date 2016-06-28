@@ -2,13 +2,14 @@
   "id": 320788905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.83601,36.104584,-95.83601,36.104584",
     "geom:latitude":36.104584,
     "geom:longitude":-95.83601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12525 E 41st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320788905,
-    "wof:lastmodified":1449013182,
+    "wof:lastmodified":1466766908,
     "wof:name":"Alexis Park Apartments",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-95.83601,36.104584,-95.83601,36.104584],
+  "bbox": [
+    -95.83601,
+    36.104584,
+    -95.83601,
+    36.104584
+],
   "geometry": {"coordinates":[-95.83601,36.104584],"type":"Point"}
 }

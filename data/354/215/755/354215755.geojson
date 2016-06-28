@@ -2,13 +2,14 @@
   "id": 354215755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.601069,35.493984,-97.601069,35.493984",
     "geom:latitude":35.493984,
     "geom:longitude":-97.601069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2626 N Meridian Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -60,16 +61,22 @@
         }
     ],
     "wof:id":354215755,
-    "wof:lastmodified":1449067346,
+    "wof:lastmodified":1466764017,
     "wof:name":"Brittany Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.601069,35.493984,-97.601069,35.493984],
+  "bbox": [
+    -97.601069,
+    35.493984,
+    -97.601069,
+    35.493984
+],
   "geometry": {"coordinates":[-97.601069,35.493984],"type":"Point"}
 }

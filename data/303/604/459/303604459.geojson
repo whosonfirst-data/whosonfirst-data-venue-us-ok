@@ -2,13 +2,14 @@
   "id": 303604459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.316581,34.362166,-98.316581,34.362166",
     "geom:latitude":34.362166,
     "geom:longitude":-98.316581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 W Missouri Ave",
     "sg:city":"Walters",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303604459,
-    "wof:lastmodified":1449000282,
+    "wof:lastmodified":1466766206,
     "wof:name":"National Guard Armory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.316581,34.362166,-98.316581,34.362166],
+  "bbox": [
+    -98.316581,
+    34.362166,
+    -98.316581,
+    34.362166
+],
   "geometry": {"coordinates":[-98.316581,34.362166],"type":"Point"}
 }

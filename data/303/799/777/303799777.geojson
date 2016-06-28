@@ -2,13 +2,14 @@
   "id": 303799777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.658675,36.80777,-98.658675,36.80777",
     "geom:latitude":36.80777,
     "geom:longitude":-98.658675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 1st St",
     "sg:city":"Hopeton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303799777,
-    "wof:lastmodified":1449000579,
+    "wof:lastmodified":1466766816,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.658675,36.80777,-98.658675,36.80777],
+  "bbox": [
+    -98.658675,
+    36.80777,
+    -98.658675,
+    36.80777
+],
   "geometry": {"coordinates":[-98.658675,36.80777],"type":"Point"}
 }

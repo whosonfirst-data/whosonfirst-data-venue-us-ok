@@ -2,13 +2,14 @@
   "id": 336733435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.058084,36.064616,-96.058084,36.064616",
     "geom:latitude":36.064616,
     "geom:longitude":-96.058084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 S 68th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336733435,
-    "wof:lastmodified":1448997083,
+    "wof:lastmodified":1466764272,
     "wof:name":"Accurate By Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.058084,36.064616,-96.058084,36.064616],
-  "geometry": {"coordinates":[-96.058084,36.064616],"type":"Point"}
+  "bbox": [
+    -96.058084,
+    36.064616,
+    -96.058084,
+    36.064616
+],
+  "geometry": {"coordinates":[-96.05808399999999,36.064616],"type":"Point"}
 }

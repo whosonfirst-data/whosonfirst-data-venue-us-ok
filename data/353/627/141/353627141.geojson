@@ -2,13 +2,14 @@
   "id": 353627141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774526,34.089738,-96.774526,34.089738",
     "geom:latitude":34.089738,
     "geom:longitude":-96.774526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Taliaferro St",
     "sg:city":"Madill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353627141,
-    "wof:lastmodified":1449020862,
+    "wof:lastmodified":1466764513,
     "wof:name":"Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.774526,34.089738,-96.774526,34.089738],
-  "geometry": {"coordinates":[-96.774526,34.089738],"type":"Point"}
+  "bbox": [
+    -96.774526,
+    34.089738,
+    -96.774526,
+    34.089738
+],
+  "geometry": {"coordinates":[-96.77452599999999,34.089738],"type":"Point"}
 }

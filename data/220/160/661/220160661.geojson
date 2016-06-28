@@ -2,13 +2,14 @@
   "id": 220160661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.06071,35.876767,-96.06071,35.876767",
     "geom:latitude":35.876767,
     "geom:longitude":-96.06071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 Commercial",
     "sg:city":"Mounds",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220160661,
-    "wof:lastmodified":1449074738,
+    "wof:lastmodified":1466762295,
     "wof:name":"Mounds Police Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-96.06071,35.876767,-96.06071,35.876767],
+  "bbox": [
+    -96.06071,
+    35.876767,
+    -96.06071,
+    35.876767
+],
   "geometry": {"coordinates":[-96.06071,35.876767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320288875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.573394,35.420776,-97.573394,35.420776",
     "geom:latitude":35.420776,
     "geom:longitude":-97.573394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3233 SW 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320288875,
-    "wof:lastmodified":1449011634,
+    "wof:lastmodified":1466765216,
     "wof:name":"Roosevelt Middle School",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.573394,35.420776,-97.573394,35.420776],
-  "geometry": {"coordinates":[-97.573394,35.420776],"type":"Point"}
+  "bbox": [
+    -97.573394,
+    35.420776,
+    -97.573394,
+    35.420776
+],
+  "geometry": {"coordinates":[-97.57339399999999,35.420776],"type":"Point"}
 }

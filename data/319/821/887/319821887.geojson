@@ -2,13 +2,14 @@
   "id": 319821887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.620774,35.569485,-97.620774,35.569485",
     "geom:latitude":35.569485,
     "geom:longitude":-97.620774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9501 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319821887,
-    "wof:lastmodified":1449024507,
+    "wof:lastmodified":1466762893,
     "wof:name":"Home Dynamics",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.620774,35.569485,-97.620774,35.569485],
+  "bbox": [
+    -97.620774,
+    35.569485,
+    -97.620774,
+    35.569485
+],
   "geometry": {"coordinates":[-97.620774,35.569485],"type":"Point"}
 }

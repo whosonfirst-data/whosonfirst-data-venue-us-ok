@@ -2,13 +2,14 @@
   "id": 337583633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.848941,36.13001,-95.848941,36.13001",
     "geom:latitude":36.13001,
     "geom:longitude":-95.848941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11327 E 23rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337583633,
-    "wof:lastmodified":1449027583,
+    "wof:lastmodified":1466763116,
     "wof:name":"Village East Apartments",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-95.848941,36.13001,-95.848941,36.13001],
+  "bbox": [
+    -95.848941,
+    36.13001,
+    -95.848941,
+    36.13001
+],
   "geometry": {"coordinates":[-95.848941,36.13001],"type":"Point"}
 }

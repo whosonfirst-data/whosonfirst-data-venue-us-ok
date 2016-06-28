@@ -2,13 +2,14 @@
   "id": 320619403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.954529,35.039065,-97.954529,35.039065",
     "geom:latitude":35.039065,
     "geom:longitude":-97.954529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 S 17th St",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320619403,
-    "wof:lastmodified":1449011930,
+    "wof:lastmodified":1466766322,
     "wof:name":"West Coast Martial Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instruction"
     ]
 },
-  "bbox": [-97.954529,35.039065,-97.954529,35.039065],
-  "geometry": {"coordinates":[-97.954529,35.039065],"type":"Point"}
+  "bbox": [
+    -97.954529,
+    35.039065,
+    -97.954529,
+    35.039065
+],
+  "geometry": {"coordinates":[-97.95452899999999,35.039065],"type":"Point"}
 }

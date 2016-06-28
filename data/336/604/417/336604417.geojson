@@ -2,13 +2,14 @@
   "id": 336604417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.456831,35.232879,-97.456831,35.232879",
     "geom:latitude":35.232879,
     "geom:longitude":-97.456831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 W Robinson St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336604417,
-    "wof:lastmodified":1448997895,
+    "wof:lastmodified":1466764163,
     "wof:name":"Stage Door Theatrical Company",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "production"
     ]
 },
-  "bbox": [-97.456831,35.232879,-97.456831,35.232879],
-  "geometry": {"coordinates":[-97.456831,35.232879],"type":"Point"}
+  "bbox": [
+    -97.456831,
+    35.232879,
+    -97.456831,
+    35.232879
+],
+  "geometry": {"coordinates":[-97.45683099999999,35.232879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354201261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.333235,35.459121,-97.333235,35.459121",
     "geom:latitude":35.459121,
     "geom:longitude":-97.333235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 S Friendly Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354201261,
-    "wof:lastmodified":1449067437,
+    "wof:lastmodified":1466763924,
     "wof:name":"Ed Horn",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.333235,35.459121,-97.333235,35.459121],
+  "bbox": [
+    -97.333235,
+    35.459121,
+    -97.333235,
+    35.459121
+],
   "geometry": {"coordinates":[-97.333235,35.459121],"type":"Point"}
 }

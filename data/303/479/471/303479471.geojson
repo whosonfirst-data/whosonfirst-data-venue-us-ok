@@ -2,13 +2,14 @@
   "id": 303479471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.89969,36.010655,-95.89969,36.010655",
     "geom:latitude":36.010655,
     "geom:longitude":-95.89969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6822 E 106th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303479471,
-    "wof:lastmodified":1448999789,
+    "wof:lastmodified":1466765762,
     "wof:name":"Cruises Only Inc",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cruise"
     ]
 },
-  "bbox": [-95.89969,36.010655,-95.89969,36.010655],
-  "geometry": {"coordinates":[-95.89969,36.010655],"type":"Point"}
+  "bbox": [
+    -95.89969,
+    36.010655,
+    -95.89969,
+    36.010655
+],
+  "geometry": {"coordinates":[-95.89969000000001,36.010655],"type":"Point"}
 }

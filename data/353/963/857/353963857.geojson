@@ -2,13 +2,14 @@
   "id": 353963857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.031969,36.101449,-96.031969,36.101449",
     "geom:latitude":36.101449,
     "geom:longitude":-96.031969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3408 W 42th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353963857,
-    "wof:lastmodified":1449018504,
+    "wof:lastmodified":1466765766,
     "wof:name":"US Post Office",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.031969,36.101449,-96.031969,36.101449],
+  "bbox": [
+    -96.031969,
+    36.101449,
+    -96.031969,
+    36.101449
+],
   "geometry": {"coordinates":[-96.031969,36.101449],"type":"Point"}
 }

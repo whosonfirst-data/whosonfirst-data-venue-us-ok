@@ -2,13 +2,14 @@
   "id": 320226717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.665492,35.561131,-97.665492,35.561131",
     "geom:latitude":35.561131,
     "geom:longitude":-97.665492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8620 Raven Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320226717,
-    "wof:lastmodified":1449013962,
+    "wof:lastmodified":1466764633,
     "wof:name":"Lawn Salon",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.665492,35.561131,-97.665492,35.561131],
+  "bbox": [
+    -97.665492,
+    35.561131,
+    -97.665492,
+    35.561131
+],
   "geometry": {"coordinates":[-97.665492,35.561131],"type":"Point"}
 }

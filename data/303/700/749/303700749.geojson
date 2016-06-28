@@ -2,13 +2,14 @@
   "id": 303700749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.519309,35.474098,-97.519309,35.474098",
     "geom:latitude":35.474098,
     "geom:longitude":-97.519309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 NW 6th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303700749,
-    "wof:lastmodified":1449000351,
+    "wof:lastmodified":1466766491,
     "wof:name":"Small Business ADM US",
     "wof:parent_id":85871687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-97.519309,35.474098,-97.519309,35.474098],
-  "geometry": {"coordinates":[-97.519309,35.474098],"type":"Point"}
+  "bbox": [
+    -97.519309,
+    35.474098,
+    -97.519309,
+    35.474098
+],
+  "geometry": {"coordinates":[-97.51930900000001,35.474098],"type":"Point"}
 }

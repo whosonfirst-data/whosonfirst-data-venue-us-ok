@@ -2,13 +2,14 @@
   "id": 303138123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.030358,36.098662,-96.030358,36.098662",
     "geom:latitude":36.098662,
     "geom:longitude":-96.030358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3332 W 45th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303138123,
-    "wof:lastmodified":1448998820,
+    "wof:lastmodified":1466763851,
     "wof:name":"Damar Manufacturing Co Inc",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.030358,36.098662,-96.030358,36.098662],
-  "geometry": {"coordinates":[-96.030358,36.098662],"type":"Point"}
+  "bbox": [
+    -96.030358,
+    36.098662,
+    -96.030358,
+    36.098662
+],
+  "geometry": {"coordinates":[-96.03035800000001,36.098662],"type":"Point"}
 }

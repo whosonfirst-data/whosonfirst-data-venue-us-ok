@@ -2,13 +2,14 @@
   "id": 303609269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.895035,36.20282,-95.895035,36.20282",
     "geom:latitude":36.20282,
     "geom:longitude":-95.895035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3322 N 74th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303609269,
-    "wof:lastmodified":1448999029,
+    "wof:lastmodified":1466766141,
     "wof:name":"Intercontinental Jet Corp",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-95.895035,36.20282,-95.895035,36.20282],
-  "geometry": {"coordinates":[-95.895035,36.20282],"type":"Point"}
+  "bbox": [
+    -95.895035,
+    36.20282,
+    -95.895035,
+    36.20282
+],
+  "geometry": {"coordinates":[-95.89503499999999,36.20282],"type":"Point"}
 }

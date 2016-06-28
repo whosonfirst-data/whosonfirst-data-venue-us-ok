@@ -2,13 +2,14 @@
   "id": 303568049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.706734,35.398146,-97.706734,35.398146",
     "geom:latitude":35.398146,
     "geom:longitude":-97.706734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 N Sara Rd",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303568049,
-    "wof:lastmodified":1448998059,
+    "wof:lastmodified":1466766208,
     "wof:name":"Religious Education Office",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-97.706734,35.398146,-97.706734,35.398146],
+  "bbox": [
+    -97.706734,
+    35.398146,
+    -97.706734,
+    35.398146
+],
   "geometry": {"coordinates":[-97.706734,35.398146],"type":"Point"}
 }

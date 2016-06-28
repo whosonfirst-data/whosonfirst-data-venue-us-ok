@@ -2,13 +2,14 @@
   "id": 304059511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.318626,34.627772,-99.318626,34.627772",
     "geom:latitude":34.627772,
     "geom:longitude":-99.318626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 E Katy Dr",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304059511,
-    "wof:lastmodified":1449043715,
+    "wof:lastmodified":1466763166,
     "wof:name":"Phillip Lanbey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.318626,34.627772,-99.318626,34.627772],
-  "geometry": {"coordinates":[-99.318626,34.627772],"type":"Point"}
+  "bbox": [
+    -99.318626,
+    34.627772,
+    -99.318626,
+    34.627772
+],
+  "geometry": {"coordinates":[-99.31862599999999,34.627772],"type":"Point"}
 }

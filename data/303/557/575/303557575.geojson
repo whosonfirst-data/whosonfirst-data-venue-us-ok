@@ -2,13 +2,14 @@
   "id": 303557575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.554122,35.450779,-97.554122,35.450779",
     "geom:latitude":35.450779,
     "geom:longitude":-97.554122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2235 SW 14th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303557575,
-    "wof:lastmodified":1448999863,
+    "wof:lastmodified":1466765970,
     "wof:name":"Panaderia La Herradura",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.554122,35.450779,-97.554122,35.450779],
-  "geometry": {"coordinates":[-97.554122,35.450779],"type":"Point"}
+  "bbox": [
+    -97.554122,
+    35.450779,
+    -97.554122,
+    35.450779
+],
+  "geometry": {"coordinates":[-97.55412200000001,35.450779],"type":"Point"}
 }

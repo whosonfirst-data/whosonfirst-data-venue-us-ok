@@ -2,13 +2,14 @@
   "id": 336916281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.297458,36.289573,-97.297458,36.289573",
     "geom:latitude":36.289573,
     "geom:longitude":-97.297458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 Fir St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336916281,
-    "wof:lastmodified":1448997535,
+    "wof:lastmodified":1466765272,
     "wof:name":"Razors Edge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.297458,36.289573,-97.297458,36.289573],
-  "geometry": {"coordinates":[-97.297458,36.289573],"type":"Point"}
+  "bbox": [
+    -97.297458,
+    36.289573,
+    -97.297458,
+    36.289573
+],
+  "geometry": {"coordinates":[-97.29745800000001,36.289573],"type":"Point"}
 }

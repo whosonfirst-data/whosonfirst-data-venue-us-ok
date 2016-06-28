@@ -2,13 +2,14 @@
   "id": 303739747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.460372,35.640375,-97.460372,35.640375",
     "geom:latitude":35.640375,
     "geom:longitude":-97.460372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1448 S Bryant Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303739747,
-    "wof:lastmodified":1448999151,
+    "wof:lastmodified":1466766459,
     "wof:name":"LA Tee Da",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.460372,35.640375,-97.460372,35.640375],
-  "geometry": {"coordinates":[-97.460372,35.640375],"type":"Point"}
+  "bbox": [
+    -97.460372,
+    35.640375,
+    -97.460372,
+    35.640375
+],
+  "geometry": {"coordinates":[-97.46037200000001,35.640375],"type":"Point"}
 }

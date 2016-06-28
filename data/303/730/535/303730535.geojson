@@ -2,13 +2,14 @@
   "id": 303730535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531231,35.488987,-97.531231,35.488987",
     "geom:latitude":35.488987,
     "geom:longitude":-97.531231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303730535,
-    "wof:lastmodified":1449000165,
+    "wof:lastmodified":1466766552,
     "wof:name":"Hair Rage Salon",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.531231,35.488987,-97.531231,35.488987],
-  "geometry": {"coordinates":[-97.531231,35.488987],"type":"Point"}
+  "bbox": [
+    -97.531231,
+    35.488987,
+    -97.531231,
+    35.488987
+],
+  "geometry": {"coordinates":[-97.53123100000001,35.488987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353707031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.596392,36.057787,-98.596392,36.057787",
     "geom:latitude":36.057787,
     "geom:longitude":-98.596392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 W Pine St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353707031,
-    "wof:lastmodified":1449020423,
+    "wof:lastmodified":1466764792,
     "wof:name":"Owens Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.596392,36.057787,-98.596392,36.057787],
-  "geometry": {"coordinates":[-98.596392,36.057787],"type":"Point"}
+  "bbox": [
+    -98.596392,
+    36.057787,
+    -98.596392,
+    36.057787
+],
+  "geometry": {"coordinates":[-98.59639199999999,36.057787],"type":"Point"}
 }

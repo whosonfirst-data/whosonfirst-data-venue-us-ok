@@ -2,13 +2,14 @@
   "id": 220182839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940357,36.139691,-95.940357,36.139691",
     "geom:latitude":36.139691,
     "geom:longitude":-95.940357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1547 S Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220182839,
-    "wof:lastmodified":1449074565,
+    "wof:lastmodified":1466762369,
     "wof:name":"Bovaird Supply Company",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supplies-wholesale"
     ]
 },
-  "bbox": [-95.940357,36.139691,-95.940357,36.139691],
-  "geometry": {"coordinates":[-95.940357,36.139691],"type":"Point"}
+  "bbox": [
+    -95.940357,
+    36.139691,
+    -95.940357,
+    36.139691
+],
+  "geometry": {"coordinates":[-95.94035700000001,36.139691],"type":"Point"}
 }

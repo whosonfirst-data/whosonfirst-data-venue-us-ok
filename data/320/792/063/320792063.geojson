@@ -2,13 +2,14 @@
   "id": 320792063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.051505,36.143615,-97.051505,36.143615",
     "geom:latitude":36.143615,
     "geom:longitude":-97.051505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 N Perkins Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320792063,
-    "wof:lastmodified":1449012057,
+    "wof:lastmodified":1466766711,
     "wof:name":"Atwoods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.051505,36.143615,-97.051505,36.143615],
-  "geometry": {"coordinates":[-97.051505,36.143615],"type":"Point"}
+  "bbox": [
+    -97.051505,
+    36.143615,
+    -97.051505,
+    36.143615
+],
+  "geometry": {"coordinates":[-97.05150500000001,36.143615],"type":"Point"}
 }

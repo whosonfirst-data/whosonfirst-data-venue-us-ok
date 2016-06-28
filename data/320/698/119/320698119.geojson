@@ -2,13 +2,14 @@
   "id": 320698119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.243326,33.77288,-96.243326,33.77288",
     "geom:latitude":33.77288,
     "geom:longitude":-96.243326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Beshirs Rd",
     "sg:city":"Hendrix",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320698119,
-    "wof:lastmodified":1449014733,
+    "wof:lastmodified":1466766545,
     "wof:name":"Jerry Cheshier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.243326,33.77288,-96.243326,33.77288],
+  "bbox": [
+    -96.243326,
+    33.77288,
+    -96.243326,
+    33.77288
+],
   "geometry": {"coordinates":[-96.243326,33.77288],"type":"Point"}
 }

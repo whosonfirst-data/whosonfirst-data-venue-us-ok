@@ -2,13 +2,14 @@
   "id": 320326781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.568588,34.847394,-95.568588,34.847394",
     "geom:latitude":34.847394,
     "geom:longitude":-95.568588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S 3rd St",
     "sg:city":"Hartshorne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320326781,
-    "wof:lastmodified":1449012847,
+    "wof:lastmodified":1466765467,
     "wof:name":"Klaus Flooring",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.568588,34.847394,-95.568588,34.847394],
-  "geometry": {"coordinates":[-95.568588,34.847394],"type":"Point"}
+  "bbox": [
+    -95.568588,
+    34.847394,
+    -95.568588,
+    34.847394
+],
+  "geometry": {"coordinates":[-95.56858800000001,34.847394],"type":"Point"}
 }

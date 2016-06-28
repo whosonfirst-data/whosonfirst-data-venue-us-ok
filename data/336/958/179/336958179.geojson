@@ -2,13 +2,14 @@
   "id": 336958179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.663157,35.421136,-97.663157,35.421136",
     "geom:latitude":35.421136,
     "geom:longitude":-97.663157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4416 Western Heights Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336958179,
-    "wof:lastmodified":1448997799,
+    "wof:lastmodified":1466765399,
     "wof:name":"Larry Greb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guard"
     ]
 },
-  "bbox": [-97.663157,35.421136,-97.663157,35.421136],
+  "bbox": [
+    -97.663157,
+    35.421136,
+    -97.663157,
+    35.421136
+],
   "geometry": {"coordinates":[-97.663157,35.421136],"type":"Point"}
 }

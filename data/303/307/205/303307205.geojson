@@ -2,13 +2,14 @@
   "id": 303307205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.551637,35.522143,-97.551637,35.522143",
     "geom:latitude":35.522143,
     "geom:longitude":-97.551637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 NW 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303307205,
-    "wof:lastmodified":1448998745,
+    "wof:lastmodified":1466764993,
     "wof:name":"Odyssey Health Care",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-97.551637,35.522143,-97.551637,35.522143],
+  "bbox": [
+    -97.551637,
+    35.522143,
+    -97.551637,
+    35.522143
+],
   "geometry": {"coordinates":[-97.551637,35.522143],"type":"Point"}
 }

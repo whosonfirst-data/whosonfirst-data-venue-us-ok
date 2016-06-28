@@ -2,13 +2,14 @@
   "id": 320232279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.676832,34.774584,-96.676832,34.774584",
     "geom:latitude":34.774584,
     "geom:longitude":-96.676832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 E Main St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320232279,
-    "wof:lastmodified":1449012476,
+    "wof:lastmodified":1466764673,
     "wof:name":"Main Event",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.676832,34.774584,-96.676832,34.774584],
+  "bbox": [
+    -96.676832,
+    34.774584,
+    -96.676832,
+    34.774584
+],
   "geometry": {"coordinates":[-96.676832,34.774584],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303376233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.990593,35.389949,-98.990593,35.389949",
     "geom:latitude":35.389949,
     "geom:longitude":-98.990593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Madison St",
     "sg:city":"Bessie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303376233,
-    "wof:lastmodified":1448998955,
+    "wof:lastmodified":1466765308,
     "wof:name":"Armstrong Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "indian"
     ]
 },
-  "bbox": [-98.990593,35.389949,-98.990593,35.389949],
+  "bbox": [
+    -98.990593,
+    35.389949,
+    -98.990593,
+    35.389949
+],
   "geometry": {"coordinates":[-98.990593,35.389949],"type":"Point"}
 }

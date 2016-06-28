@@ -2,13 +2,14 @@
   "id": 336680575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.332568,34.645453,-99.332568,34.645453",
     "geom:latitude":34.645453,
     "geom:longitude":-99.332568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 N Grady St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336680575,
-    "wof:lastmodified":1448997687,
+    "wof:lastmodified":1466763418,
     "wof:name":"Willis Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "air"
     ]
 },
-  "bbox": [-99.332568,34.645453,-99.332568,34.645453],
-  "geometry": {"coordinates":[-99.332568,34.645453],"type":"Point"}
+  "bbox": [
+    -99.332568,
+    34.645453,
+    -99.332568,
+    34.645453
+],
+  "geometry": {"coordinates":[-99.33256799999999,34.645453],"type":"Point"}
 }

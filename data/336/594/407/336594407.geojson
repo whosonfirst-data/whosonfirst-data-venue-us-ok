@@ -2,13 +2,14 @@
   "id": 336594407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.87166,36.061004,-95.87166,36.061004",
     "geom:latitude":36.061004,
     "geom:longitude":-95.87166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9311 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336594407,
-    "wof:lastmodified":1448997094,
+    "wof:lastmodified":1466764091,
     "wof:name":"Schlotzsky's Deli",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.87166,36.061004,-95.87166,36.061004],
-  "geometry": {"coordinates":[-95.87166,36.061004],"type":"Point"}
+  "bbox": [
+    -95.87166,
+    36.061004,
+    -95.87166,
+    36.061004
+],
+  "geometry": {"coordinates":[-95.87166000000001,36.061004],"type":"Point"}
 }

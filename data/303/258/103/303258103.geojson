@@ -2,13 +2,14 @@
   "id": 303258103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.568159,35.516334,-97.568159,35.516334",
     "geom:latitude":35.516334,
     "geom:longitude":-97.568159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3037 NW 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303258103,
-    "wof:lastmodified":1449000063,
+    "wof:lastmodified":1466764659,
     "wof:name":"Excell Paint & Drywall",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-97.568159,35.516334,-97.568159,35.516334],
-  "geometry": {"coordinates":[-97.568159,35.516334],"type":"Point"}
+  "bbox": [
+    -97.568159,
+    35.516334,
+    -97.568159,
+    35.516334
+],
+  "geometry": {"coordinates":[-97.56815899999999,35.516334],"type":"Point"}
 }

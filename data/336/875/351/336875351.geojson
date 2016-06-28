@@ -2,13 +2,14 @@
   "id": 336875351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.861033,35.507274,-97.861033,35.507274",
     "geom:latitude":35.507274,
     "geom:longitude":-97.861033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2914 Dyer Dr",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336875351,
-    "wof:lastmodified":1448997740,
+    "wof:lastmodified":1466764973,
     "wof:name":"Whitman Sales Co",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-97.861033,35.507274,-97.861033,35.507274],
-  "geometry": {"coordinates":[-97.861033,35.507274],"type":"Point"}
+  "bbox": [
+    -97.861033,
+    35.507274,
+    -97.861033,
+    35.507274
+],
+  "geometry": {"coordinates":[-97.86103300000001,35.507274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304050801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.977251,36.751973,-95.977251,36.751973",
     "geom:latitude":36.751973,
     "geom:longitude":-95.977251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 S Johnstone Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304050801,
-    "wof:lastmodified":1449043924,
+    "wof:lastmodified":1466763115,
     "wof:name":"One Tiny Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.977251,36.751973,-95.977251,36.751973],
+  "bbox": [
+    -95.977251,
+    36.751973,
+    -95.977251,
+    36.751973
+],
   "geometry": {"coordinates":[-95.977251,36.751973],"type":"Point"}
 }

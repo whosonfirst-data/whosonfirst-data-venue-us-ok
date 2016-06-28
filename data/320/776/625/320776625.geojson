@@ -2,13 +2,14 @@
   "id": 320776625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.445138,34.608696,-98.445138,34.608696",
     "geom:latitude":34.608696,
     "geom:longitude":-98.445138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4121 W Gore Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320776625,
-    "wof:lastmodified":1449012076,
+    "wof:lastmodified":1466766780,
     "wof:name":"Healthback Homehealth",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-98.445138,34.608696,-98.445138,34.608696],
+  "bbox": [
+    -98.445138,
+    34.608696,
+    -98.445138,
+    34.608696
+],
   "geometry": {"coordinates":[-98.445138,34.608696],"type":"Point"}
 }

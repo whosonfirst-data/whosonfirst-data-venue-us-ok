@@ -2,13 +2,14 @@
   "id": 303071227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.083581,36.705885,-97.083581,36.705885",
     "geom:latitude":36.705885,
     "geom:longitude":-97.083581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Chestnut Ave",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303071227,
-    "wof:lastmodified":1448999657,
+    "wof:lastmodified":1466762764,
     "wof:name":"Meneely & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "reporter"
     ]
 },
-  "bbox": [-97.083581,36.705885,-97.083581,36.705885],
+  "bbox": [
+    -97.083581,
+    36.705885,
+    -97.083581,
+    36.705885
+],
   "geometry": {"coordinates":[-97.083581,36.705885],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336803525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.299275,36.286557,-97.299275,36.286557",
     "geom:latitude":36.286557,
     "geom:longitude":-97.299275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 N 14th St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336803525,
-    "wof:lastmodified":1448998025,
+    "wof:lastmodified":1466764681,
     "wof:name":"National Guard Armory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-97.299275,36.286557,-97.299275,36.286557],
-  "geometry": {"coordinates":[-97.299275,36.286557],"type":"Point"}
+  "bbox": [
+    -97.299275,
+    36.286557,
+    -97.299275,
+    36.286557
+],
+  "geometry": {"coordinates":[-97.29927499999999,36.286557],"type":"Point"}
 }

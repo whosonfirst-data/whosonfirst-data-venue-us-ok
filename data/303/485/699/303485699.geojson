@@ -2,13 +2,14 @@
   "id": 303485699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.045112,36.147932,-96.045112,36.147932",
     "geom:latitude":36.147932,
     "geom:longitude":-96.045112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4728 Charles Page Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303485699,
-    "wof:lastmodified":1448999609,
+    "wof:lastmodified":1466765790,
     "wof:name":"Family Praise Ctr",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.045112,36.147932,-96.045112,36.147932],
+  "bbox": [
+    -96.045112,
+    36.147932,
+    -96.045112,
+    36.147932
+],
   "geometry": {"coordinates":[-96.045112,36.147932],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303890601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494724,35.464389,-97.494724,35.464389",
     "geom:latitude":35.464389,
     "geom:longitude":-97.494724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 E Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303890601,
-    "wof:lastmodified":1448998649,
+    "wof:lastmodified":1466767003,
     "wof:name":"Central Freight Lines Inc",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.494724,35.464389,-97.494724,35.464389],
-  "geometry": {"coordinates":[-97.494724,35.464389],"type":"Point"}
+  "bbox": [
+    -97.494724,
+    35.464389,
+    -97.494724,
+    35.464389
+],
+  "geometry": {"coordinates":[-97.49472400000001,35.464389],"type":"Point"}
 }

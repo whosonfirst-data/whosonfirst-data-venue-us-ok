@@ -2,13 +2,14 @@
   "id": 304076221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.868066,36.055766,-95.868066,36.055766",
     "geom:latitude":36.055766,
     "geom:longitude":-95.868066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9713 E 75th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304076221,
-    "wof:lastmodified":1449044029,
+    "wof:lastmodified":1466763253,
     "wof:name":"Cedar Grey Apts",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-95.868066,36.055766,-95.868066,36.055766],
+  "bbox": [
+    -95.868066,
+    36.055766,
+    -95.868066,
+    36.055766
+],
   "geometry": {"coordinates":[-95.868066,36.055766],"type":"Point"}
 }

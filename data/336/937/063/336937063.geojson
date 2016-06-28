@@ -2,13 +2,14 @@
   "id": 336937063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.849145,36.396562,-97.849145,36.396562",
     "geom:latitude":36.396562,
     "geom:longitude":-97.849145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 E Broadway Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336937063,
-    "wof:lastmodified":1448997155,
+    "wof:lastmodified":1466765384,
     "wof:name":"KICKS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.849145,36.396562,-97.849145,36.396562],
-  "geometry": {"coordinates":[-97.849145,36.396562],"type":"Point"}
+  "bbox": [
+    -97.849145,
+    36.396562,
+    -97.849145,
+    36.396562
+],
+  "geometry": {"coordinates":[-97.84914499999999,36.396562],"type":"Point"}
 }

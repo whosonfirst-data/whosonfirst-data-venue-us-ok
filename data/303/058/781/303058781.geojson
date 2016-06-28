@@ -2,13 +2,14 @@
   "id": 303058781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.34726,35.867897,-99.34726,35.867897",
     "geom:latitude":35.867897,
     "geom:longitude":-99.34726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 S Main St",
     "sg:city":"Leedey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303058781,
-    "wof:lastmodified":1448998477,
+    "wof:lastmodified":1466762561,
     "wof:name":"Timms Equipment Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-99.34726,35.867897,-99.34726,35.867897],
-  "geometry": {"coordinates":[-99.34726,35.867897],"type":"Point"}
+  "bbox": [
+    -99.34726,
+    35.867897,
+    -99.34726,
+    35.867897
+],
+  "geometry": {"coordinates":[-99.34726000000001,35.867897],"type":"Point"}
 }

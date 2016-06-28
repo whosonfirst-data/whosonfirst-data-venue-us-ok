@@ -2,13 +2,14 @@
   "id": 354044879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.482931,34.620598,-98.482931,34.620598",
     "geom:latitude":34.620598,
     "geom:longitude":-98.482931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 NW 75th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354044879,
-    "wof:lastmodified":1449066816,
+    "wof:lastmodified":1466763255,
     "wof:name":"Wisteria Stained Glass",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.482931,34.620598,-98.482931,34.620598],
-  "geometry": {"coordinates":[-98.482931,34.620598],"type":"Point"}
+  "bbox": [
+    -98.482931,
+    34.620598,
+    -98.482931,
+    34.620598
+],
+  "geometry": {"coordinates":[-98.48293099999999,34.620598],"type":"Point"}
 }

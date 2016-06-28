@@ -2,13 +2,14 @@
   "id": 336608261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.866397,36.144033,-95.866397,36.144033",
     "geom:latitude":36.144033,
     "geom:longitude":-95.866397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9755 E 13th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336608261,
-    "wof:lastmodified":1448997404,
+    "wof:lastmodified":1466762296,
     "wof:name":"Sunor Inc",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-95.866397,36.144033,-95.866397,36.144033],
-  "geometry": {"coordinates":[-95.866397,36.144033],"type":"Point"}
+  "bbox": [
+    -95.866397,
+    36.144033,
+    -95.866397,
+    36.144033
+],
+  "geometry": {"coordinates":[-95.86639700000001,36.144033],"type":"Point"}
 }

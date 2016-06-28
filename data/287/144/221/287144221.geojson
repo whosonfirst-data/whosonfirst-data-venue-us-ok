@@ -2,13 +2,14 @@
   "id": 287144221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.738042,35.506746,-97.738042,35.506746",
     "geom:latitude":35.506746,
     "geom:longitude":-97.738042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 S Ranchwood Blvd",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287144221,
-    "wof:lastmodified":1449001330,
+    "wof:lastmodified":1466763651,
     "wof:name":"J & M Marine",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-97.738042,35.506746,-97.738042,35.506746],
-  "geometry": {"coordinates":[-97.738042,35.506746],"type":"Point"}
+  "bbox": [
+    -97.738042,
+    35.506746,
+    -97.738042,
+    35.506746
+],
+  "geometry": {"coordinates":[-97.73804199999999,35.506746],"type":"Point"}
 }

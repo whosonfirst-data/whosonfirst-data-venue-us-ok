@@ -2,13 +2,14 @@
   "id": 320004429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.393274,36.418965,-99.393274,36.418965",
     "geom:latitude":36.418965,
     "geom:longitude":-99.393274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Downs Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320004429,
-    "wof:lastmodified":1449012641,
+    "wof:lastmodified":1466762340,
     "wof:name":"Woodward Security Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-99.393274,36.418965,-99.393274,36.418965],
-  "geometry": {"coordinates":[-99.393274,36.418965],"type":"Point"}
+  "bbox": [
+    -99.393274,
+    36.418965,
+    -99.393274,
+    36.418965
+],
+  "geometry": {"coordinates":[-99.39327400000001,36.418965],"type":"Point"}
 }

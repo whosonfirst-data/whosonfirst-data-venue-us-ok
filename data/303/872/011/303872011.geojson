@@ -2,13 +2,14 @@
   "id": 303872011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.978496,36.752237,-95.978496,36.752237",
     "geom:latitude":36.752237,
     "geom:longitude":-95.978496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 S Keeler Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303872011,
-    "wof:lastmodified":1448998337,
+    "wof:lastmodified":1466766798,
     "wof:name":"Bartlesville Development Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "agency"
     ]
 },
-  "bbox": [-95.978496,36.752237,-95.978496,36.752237],
-  "geometry": {"coordinates":[-95.978496,36.752237],"type":"Point"}
+  "bbox": [
+    -95.978496,
+    36.752237,
+    -95.978496,
+    36.752237
+],
+  "geometry": {"coordinates":[-95.97849600000001,36.752237],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320148677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.585411,35.43528,-97.585411,35.43528",
     "geom:latitude":35.43528,
     "geom:longitude":-97.585411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3711 SW 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320148677,
-    "wof:lastmodified":1449014386,
+    "wof:lastmodified":1466764390,
     "wof:name":"Window Wear",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "blind"
     ]
 },
-  "bbox": [-97.585411,35.43528,-97.585411,35.43528],
-  "geometry": {"coordinates":[-97.585411,35.43528],"type":"Point"}
+  "bbox": [
+    -97.585411,
+    35.43528,
+    -97.585411,
+    35.43528
+],
+  "geometry": {"coordinates":[-97.58541099999999,35.43528],"type":"Point"}
 }

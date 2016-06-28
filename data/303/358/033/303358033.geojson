@@ -2,13 +2,14 @@
   "id": 303358033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.521071,35.473155,-97.521071,35.473155",
     "geom:latitude":35.473155,
     "geom:longitude":-97.521071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 NW 5th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303358033,
-    "wof:lastmodified":1448999149,
+    "wof:lastmodified":1466765103,
     "wof:name":"Parents Assistance Center",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "referral"
     ]
 },
-  "bbox": [-97.521071,35.473155,-97.521071,35.473155],
-  "geometry": {"coordinates":[-97.521071,35.473155],"type":"Point"}
+  "bbox": [
+    -97.521071,
+    35.473155,
+    -97.521071,
+    35.473155
+],
+  "geometry": {"coordinates":[-97.52107100000001,35.473155],"type":"Point"}
 }

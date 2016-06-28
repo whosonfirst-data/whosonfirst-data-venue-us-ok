@@ -2,13 +2,14 @@
   "id": 303981293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.511952,35.53762,-97.511952,35.53762",
     "geom:latitude":35.53762,
     "geom:longitude":-97.511952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6416 N Santa Fe Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303981293,
-    "wof:lastmodified":1449000610,
+    "wof:lastmodified":1466767117,
     "wof:name":"Hunton Oil & Gas Corp",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exploration"
     ]
 },
-  "bbox": [-97.511952,35.53762,-97.511952,35.53762],
-  "geometry": {"coordinates":[-97.511952,35.53762],"type":"Point"}
+  "bbox": [
+    -97.511952,
+    35.53762,
+    -97.511952,
+    35.53762
+],
+  "geometry": {"coordinates":[-97.51195199999999,35.53762],"type":"Point"}
 }

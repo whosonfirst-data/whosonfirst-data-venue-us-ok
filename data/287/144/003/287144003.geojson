@@ -2,13 +2,14 @@
   "id": 287144003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.938269,35.051226,-97.938269,35.051226",
     "geom:latitude":35.051226,
     "geom:longitude":-97.938269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 W Chickasha Ave",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287144003,
-    "wof:lastmodified":1449001330,
+    "wof:lastmodified":1466764215,
     "wof:name":"World Acceptance Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-97.938269,35.051226,-97.938269,35.051226],
-  "geometry": {"coordinates":[-97.938269,35.051226],"type":"Point"}
+  "bbox": [
+    -97.938269,
+    35.051226,
+    -97.938269,
+    35.051226
+],
+  "geometry": {"coordinates":[-97.93826900000001,35.051226],"type":"Point"}
 }

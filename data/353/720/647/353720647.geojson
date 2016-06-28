@@ -2,13 +2,14 @@
   "id": 353720647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.813307,33.895216,-94.813307,33.895216",
     "geom:latitude":33.895216,
     "geom:longitude":-94.813307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 SE N Ave",
     "sg:city":"Idabel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353720647,
-    "wof:lastmodified":1449018861,
+    "wof:lastmodified":1466764854,
     "wof:name":"Rainbow Home Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-94.813307,33.895216,-94.813307,33.895216],
-  "geometry": {"coordinates":[-94.813307,33.895216],"type":"Point"}
+  "bbox": [
+    -94.813307,
+    33.895216,
+    -94.813307,
+    33.895216
+],
+  "geometry": {"coordinates":[-94.81330699999999,33.895216],"type":"Point"}
 }

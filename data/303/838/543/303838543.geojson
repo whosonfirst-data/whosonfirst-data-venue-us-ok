@@ -2,13 +2,14 @@
   "id": 303838543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.618916,35.472361,-97.618916,35.472361",
     "geom:latitude":35.472361,
     "geom:longitude":-97.618916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303838543,
-    "wof:lastmodified":1448998415,
+    "wof:lastmodified":1466766810,
     "wof:name":"Smico Manufacturing Co",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "screening"
     ]
 },
-  "bbox": [-97.618916,35.472361,-97.618916,35.472361],
+  "bbox": [
+    -97.618916,
+    35.472361,
+    -97.618916,
+    35.472361
+],
   "geometry": {"coordinates":[-97.618916,35.472361],"type":"Point"}
 }

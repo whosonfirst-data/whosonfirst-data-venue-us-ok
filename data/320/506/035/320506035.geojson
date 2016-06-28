@@ -2,13 +2,14 @@
   "id": 320506035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.498384,35.55613,-97.498384,35.55613",
     "geom:latitude":35.55613,
     "geom:longitude":-97.498384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Musgrave Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320506035,
-    "wof:lastmodified":1449011342,
+    "wof:lastmodified":1466766072,
     "wof:name":"Cheadle & Wright Transport Inc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.498384,35.55613,-97.498384,35.55613],
+  "bbox": [
+    -97.498384,
+    35.55613,
+    -97.498384,
+    35.55613
+],
   "geometry": {"coordinates":[-97.498384,35.55613],"type":"Point"}
 }

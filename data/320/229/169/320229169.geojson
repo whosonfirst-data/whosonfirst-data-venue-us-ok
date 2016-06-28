@@ -2,13 +2,14 @@
   "id": 320229169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.671298,35.383534,-97.671298,35.383534",
     "geom:latitude":35.383534,
     "geom:longitude":-97.671298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8220 S County Line Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320229169,
-    "wof:lastmodified":1449014212,
+    "wof:lastmodified":1466764647,
     "wof:name":"Williamson Barrell Horses",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [-97.671298,35.383534,-97.671298,35.383534],
-  "geometry": {"coordinates":[-97.671298,35.383534],"type":"Point"}
+  "bbox": [
+    -97.671298,
+    35.383534,
+    -97.671298,
+    35.383534
+],
+  "geometry": {"coordinates":[-97.67129799999999,35.383534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354105565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.592656,34.175324,-97.592656,34.175324",
     "geom:latitude":34.175324,
     "geom:longitude":-97.592656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 S 5th St",
     "sg:city":"Ringling",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354105565,
-    "wof:lastmodified":1449066566,
+    "wof:lastmodified":1466763528,
     "wof:name":"R & J Quick Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.592656,34.175324,-97.592656,34.175324],
-  "geometry": {"coordinates":[-97.592656,34.175324],"type":"Point"}
+  "bbox": [
+    -97.592656,
+    34.175324,
+    -97.592656,
+    34.175324
+],
+  "geometry": {"coordinates":[-97.59265600000001,34.175324],"type":"Point"}
 }

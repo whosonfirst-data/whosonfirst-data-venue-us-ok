@@ -2,13 +2,14 @@
   "id": 320848115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534167,35.47384,-97.534167,35.47384",
     "geom:latitude":35.47384,
     "geom:longitude":-97.534167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1322 NW 6th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320848115,
-    "wof:lastmodified":1449011776,
+    "wof:lastmodified":1466766961,
     "wof:name":"ABC Welding Co",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.534167,35.47384,-97.534167,35.47384],
+  "bbox": [
+    -97.534167,
+    35.47384,
+    -97.534167,
+    35.47384
+],
   "geometry": {"coordinates":[-97.534167,35.47384],"type":"Point"}
 }

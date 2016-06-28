@@ -2,13 +2,14 @@
   "id": 303526385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534291,35.486952,-97.534291,35.486952",
     "geom:latitude":35.486952,
     "geom:longitude":-97.534291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 NW 17th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303526385,
-    "wof:lastmodified":1448998866,
+    "wof:lastmodified":1466765954,
     "wof:name":"Timecraft",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-97.534291,35.486952,-97.534291,35.486952],
+  "bbox": [
+    -97.534291,
+    35.486952,
+    -97.534291,
+    35.486952
+],
   "geometry": {"coordinates":[-97.534291,35.486952],"type":"Point"}
 }

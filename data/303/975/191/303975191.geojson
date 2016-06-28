@@ -2,13 +2,14 @@
   "id": 303975191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.525307,35.504259,-97.525307,35.504259",
     "geom:latitude":35.504259,
     "geom:longitude":-97.525307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 NW 33rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303975191,
-    "wof:lastmodified":1449000225,
+    "wof:lastmodified":1466767109,
     "wof:name":"Dan's Custom Canvas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.525307,35.504259,-97.525307,35.504259],
+  "bbox": [
+    -97.525307,
+    35.504259,
+    -97.525307,
+    35.504259
+],
   "geometry": {"coordinates":[-97.525307,35.504259],"type":"Point"}
 }

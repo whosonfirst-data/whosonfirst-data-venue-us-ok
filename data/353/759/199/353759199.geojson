@@ -2,13 +2,14 @@
   "id": 353759199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.026725,36.303496,-96.026725,36.303496",
     "geom:latitude":36.303496,
     "geom:longitude":-96.026725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 W 103rd St N",
     "sg:city":"Sperry",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353759199,
-    "wof:lastmodified":1449020837,
+    "wof:lastmodified":1466765042,
     "wof:name":"Fisher Medical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.026725,36.303496,-96.026725,36.303496],
+  "bbox": [
+    -96.026725,
+    36.303496,
+    -96.026725,
+    36.303496
+],
   "geometry": {"coordinates":[-96.026725,36.303496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320432613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.124556,34.182437,-97.124556,34.182437",
     "geom:latitude":34.182437,
     "geom:longitude":-97.124556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 N Washington St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320432613,
-    "wof:lastmodified":1449011193,
+    "wof:lastmodified":1466765885,
     "wof:name":"Washington Dental Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.124556,34.182437,-97.124556,34.182437],
+  "bbox": [
+    -97.124556,
+    34.182437,
+    -97.124556,
+    34.182437
+],
   "geometry": {"coordinates":[-97.124556,34.182437],"type":"Point"}
 }

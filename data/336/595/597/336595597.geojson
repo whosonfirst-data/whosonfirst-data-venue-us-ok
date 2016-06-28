@@ -2,13 +2,14 @@
   "id": 336595597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.481323,36.697423,-101.481323,36.697423",
     "geom:latitude":36.697423,
     "geom:longitude":-101.481323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 N Main St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336595597,
-    "wof:lastmodified":1448997918,
+    "wof:lastmodified":1466764100,
     "wof:name":"Kristi Ritter DVM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-101.481323,36.697423,-101.481323,36.697423],
+  "bbox": [
+    -101.481323,
+    36.697423,
+    -101.481323,
+    36.697423
+],
   "geometry": {"coordinates":[-101.481323,36.697423],"type":"Point"}
 }

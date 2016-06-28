@@ -2,13 +2,14 @@
   "id": 320660915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.331025,34.637742,-99.331025,34.637742",
     "geom:latitude":34.637742,
     "geom:longitude":-99.331025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E Broadway St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320660915,
-    "wof:lastmodified":1449014577,
+    "wof:lastmodified":1466766423,
     "wof:name":"Roberts Drive-Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-99.331025,34.637742,-99.331025,34.637742],
+  "bbox": [
+    -99.331025,
+    34.637742,
+    -99.331025,
+    34.637742
+],
   "geometry": {"coordinates":[-99.331025,34.637742],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319882155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.422123,34.62733,-98.422123,34.62733",
     "geom:latitude":34.62733,
     "geom:longitude":-98.422123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 NW Sheridan Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319882155,
-    "wof:lastmodified":1449024234,
+    "wof:lastmodified":1466763420,
     "wof:name":"Wheel & Deal Tire",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-98.422123,34.62733,-98.422123,34.62733],
+  "bbox": [
+    -98.422123,
+    34.62733,
+    -98.422123,
+    34.62733
+],
   "geometry": {"coordinates":[-98.422123,34.62733],"type":"Point"}
 }

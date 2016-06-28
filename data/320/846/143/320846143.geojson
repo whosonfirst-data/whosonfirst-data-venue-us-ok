@@ -2,13 +2,14 @@
   "id": 320846143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.848377,35.478881,-97.848377,35.478881",
     "geom:latitude":35.478881,
     "geom:longitude":-97.848377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16913 NW 10th St",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320846143,
-    "wof:lastmodified":1449014128,
+    "wof:lastmodified":1466766833,
     "wof:name":"Edward Rubes",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.848377,35.478881,-97.848377,35.478881],
+  "bbox": [
+    -97.848377,
+    35.478881,
+    -97.848377,
+    35.478881
+],
   "geometry": {"coordinates":[-97.848377,35.478881],"type":"Point"}
 }

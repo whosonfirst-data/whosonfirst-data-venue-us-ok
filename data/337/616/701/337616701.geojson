@@ -2,13 +2,14 @@
   "id": 337616701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.408429,35.880249,-97.408429,35.880249",
     "geom:latitude":35.880249,
     "geom:longitude":-97.408429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 E Noble Ave",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":337616701,
-    "wof:lastmodified":1449027548,
+    "wof:lastmodified":1466763309,
     "wof:name":"Maker's Glass Shop",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mirror"
     ]
 },
-  "bbox": [-97.408429,35.880249,-97.408429,35.880249],
+  "bbox": [
+    -97.408429,
+    35.880249,
+    -97.408429,
+    35.880249
+],
   "geometry": {"coordinates":[-97.408429,35.880249],"type":"Point"}
 }

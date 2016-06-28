@@ -2,13 +2,14 @@
   "id": 320742101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.945014,36.037946,-95.945014,36.037946",
     "geom:latitude":36.037946,
     "geom:longitude":-95.945014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8703 S College Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320742101,
-    "wof:lastmodified":1449011492,
+    "wof:lastmodified":1466766654,
     "wof:name":"Fire Detection Systems",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.945014,36.037946,-95.945014,36.037946],
+  "bbox": [
+    -95.945014,
+    36.037946,
+    -95.945014,
+    36.037946
+],
   "geometry": {"coordinates":[-95.945014,36.037946],"type":"Point"}
 }

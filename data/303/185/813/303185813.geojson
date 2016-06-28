@@ -2,13 +2,14 @@
   "id": 303185813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.797488,36.015628,-95.797488,36.015628",
     "geom:latitude":36.015628,
     "geom:longitude":-95.797488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3728 S Elm Pl",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303185813,
-    "wof:lastmodified":1448998518,
+    "wof:lastmodified":1466764361,
     "wof:name":"Moments of Truth Inc",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.797488,36.015628,-95.797488,36.015628],
+  "bbox": [
+    -95.797488,
+    36.015628,
+    -95.797488,
+    36.015628
+],
   "geometry": {"coordinates":[-95.797488,36.015628],"type":"Point"}
 }

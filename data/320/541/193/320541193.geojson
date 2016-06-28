@@ -2,13 +2,14 @@
   "id": 320541193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.678718,34.780253,-96.678718,34.780253",
     "geom:latitude":34.780253,
     "geom:longitude":-96.678718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 N Broadway Ave",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320541193,
-    "wof:lastmodified":1449011656,
+    "wof:lastmodified":1466766038,
     "wof:name":"Broadway Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-96.678718,34.780253,-96.678718,34.780253],
+  "bbox": [
+    -96.678718,
+    34.780253,
+    -96.678718,
+    34.780253
+],
   "geometry": {"coordinates":[-96.678718,34.780253],"type":"Point"}
 }

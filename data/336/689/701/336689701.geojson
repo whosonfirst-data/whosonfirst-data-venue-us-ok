@@ -2,13 +2,14 @@
   "id": 336689701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.854914,36.15785,-95.854914,36.15785",
     "geom:latitude":36.15785,
     "geom:longitude":-95.854914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S 109th East Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336689701,
-    "wof:lastmodified":1448997854,
+    "wof:lastmodified":1466763562,
     "wof:name":"Power & Control Engr Slltns",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-95.854914,36.15785,-95.854914,36.15785],
-  "geometry": {"coordinates":[-95.854914,36.15785],"type":"Point"}
+  "bbox": [
+    -95.854914,
+    36.15785,
+    -95.854914,
+    36.15785
+],
+  "geometry": {"coordinates":[-95.85491399999999,36.15785],"type":"Point"}
 }

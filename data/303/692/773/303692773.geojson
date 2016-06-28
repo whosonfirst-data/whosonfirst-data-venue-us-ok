@@ -2,13 +2,14 @@
   "id": 303692773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.854009,36.060811,-95.854009,36.060811",
     "geom:latitude":36.060811,
     "geom:longitude":-95.854009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11234 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303692773,
-    "wof:lastmodified":1448998761,
+    "wof:lastmodified":1466766473,
     "wof:name":"Super Nails",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-95.854009,36.060811,-95.854009,36.060811],
+  "bbox": [
+    -95.854009,
+    36.060811,
+    -95.854009,
+    36.060811
+],
   "geometry": {"coordinates":[-95.854009,36.060811],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304072507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.493448,35.488949,-97.493448,35.488949",
     "geom:latitude":35.488949,
     "geom:longitude":-97.493448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 NE 19th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304072507,
-    "wof:lastmodified":1449043887,
+    "wof:lastmodified":1466763239,
     "wof:name":"Asigma Printing Inc",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-97.493448,35.488949,-97.493448,35.488949],
+  "bbox": [
+    -97.493448,
+    35.488949,
+    -97.493448,
+    35.488949
+],
   "geometry": {"coordinates":[-97.493448,35.488949],"type":"Point"}
 }

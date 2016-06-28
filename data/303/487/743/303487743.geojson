@@ -2,13 +2,14 @@
   "id": 303487743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.423269,34.621122,-98.423269,34.621122",
     "geom:latitude":34.621122,
     "geom:longitude":-98.423269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2315 NW Erwin Ln",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303487743,
-    "wof:lastmodified":1448998915,
+    "wof:lastmodified":1466765716,
     "wof:name":"Red Scissors",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.423269,34.621122,-98.423269,34.621122],
+  "bbox": [
+    -98.423269,
+    34.621122,
+    -98.423269,
+    34.621122
+],
   "geometry": {"coordinates":[-98.423269,34.621122],"type":"Point"}
 }

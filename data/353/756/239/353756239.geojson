@@ -2,13 +2,14 @@
   "id": 353756239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.006966,35.963407,-96.006966,35.963407",
     "geom:latitude":35.963407,
     "geom:longitude":-96.006966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 E Glenpool Blvd",
     "sg:city":"Glenpool",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353756239,
-    "wof:lastmodified":1449019802,
+    "wof:lastmodified":1466765130,
     "wof:name":"Barretts Sports Spec",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.006966,35.963407,-96.006966,35.963407],
-  "geometry": {"coordinates":[-96.006966,35.963407],"type":"Point"}
+  "bbox": [
+    -96.006966,
+    35.963407,
+    -96.006966,
+    35.963407
+],
+  "geometry": {"coordinates":[-96.00696600000001,35.963407],"type":"Point"}
 }

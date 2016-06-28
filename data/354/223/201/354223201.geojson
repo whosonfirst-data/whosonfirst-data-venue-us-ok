@@ -2,13 +2,14 @@
   "id": 354223201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.78857,35.459523,-94.78857,35.459523",
     "geom:latitude":35.459523,
     "geom:longitude":-94.78857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 E Choctaw Ave",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354223201,
-    "wof:lastmodified":1449066054,
+    "wof:lastmodified":1466764057,
     "wof:name":"Onhl Home Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.78857,35.459523,-94.78857,35.459523],
-  "geometry": {"coordinates":[-94.78857,35.459523],"type":"Point"}
+  "bbox": [
+    -94.78857,
+    35.459523,
+    -94.78857,
+    35.459523
+],
+  "geometry": {"coordinates":[-94.78857000000001,35.459523],"type":"Point"}
 }

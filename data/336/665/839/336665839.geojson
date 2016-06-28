@@ -2,13 +2,14 @@
   "id": 336665839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.444725,35.21247,-97.444725,35.21247",
     "geom:latitude":35.21247,
     "geom:longitude":-97.444725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 Buchanan Ave",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336665839,
-    "wof:lastmodified":1448997276,
+    "wof:lastmodified":1466763192,
     "wof:name":"Candid Color",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-97.444725,35.21247,-97.444725,35.21247],
-  "geometry": {"coordinates":[-97.444725,35.21247],"type":"Point"}
+  "bbox": [
+    -97.444725,
+    35.21247,
+    -97.444725,
+    35.21247
+],
+  "geometry": {"coordinates":[-97.44472500000001,35.21247],"type":"Point"}
 }

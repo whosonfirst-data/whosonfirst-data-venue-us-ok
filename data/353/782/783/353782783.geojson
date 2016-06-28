@@ -2,13 +2,14 @@
   "id": 353782783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.57004,35.424642,-97.57004,35.424642",
     "geom:latitude":35.424642,
     "geom:longitude":-97.57004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3036 SW 40th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353782783,
-    "wof:lastmodified":1449018241,
+    "wof:lastmodified":1466765140,
     "wof:name":"RLV Refurbishing Inc",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.57004,35.424642,-97.57004,35.424642],
-  "geometry": {"coordinates":[-97.57004,35.424642],"type":"Point"}
+  "bbox": [
+    -97.57004,
+    35.424642,
+    -97.57004,
+    35.424642
+],
+  "geometry": {"coordinates":[-97.57004000000001,35.424642],"type":"Point"}
 }

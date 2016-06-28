@@ -2,13 +2,14 @@
   "id": 320732317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.121034,36.069286,-96.121034,36.069286",
     "geom:latitude":36.069286,
     "geom:longitude":-96.121034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6442 S 115th W Ave",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320732317,
-    "wof:lastmodified":1449015078,
+    "wof:lastmodified":1466766628,
     "wof:name":"Sugar Bears",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.121034,36.069286,-96.121034,36.069286],
-  "geometry": {"coordinates":[-96.121034,36.069286],"type":"Point"}
+  "bbox": [
+    -96.121034,
+    36.069286,
+    -96.121034,
+    36.069286
+],
+  "geometry": {"coordinates":[-96.12103399999999,36.069286],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303938853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.911254,36.142936,-95.911254,36.142936",
     "geom:latitude":36.142936,
     "geom:longitude":-95.911254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 S Joplin Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":303938853,
-    "wof:lastmodified":1448999942,
+    "wof:lastmodified":1466767018,
     "wof:name":"Equus Metals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-95.911254,36.142936,-95.911254,36.142936],
+  "bbox": [
+    -95.911254,
+    36.142936,
+    -95.911254,
+    36.142936
+],
   "geometry": {"coordinates":[-95.911254,36.142936],"type":"Point"}
 }

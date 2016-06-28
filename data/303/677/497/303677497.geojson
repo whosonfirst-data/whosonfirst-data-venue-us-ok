@@ -2,13 +2,14 @@
   "id": 303677497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.31906,36.31102,-95.31906,36.31102",
     "geom:latitude":36.31102,
     "geom:longitude":-95.31906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Taylor St",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303677497,
-    "wof:lastmodified":1448999000,
+    "wof:lastmodified":1466766438,
     "wof:name":"Champion Collision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-95.31906,36.31102,-95.31906,36.31102],
-  "geometry": {"coordinates":[-95.31906,36.31102],"type":"Point"}
+  "bbox": [
+    -95.31906,
+    36.31102,
+    -95.31906,
+    36.31102
+],
+  "geometry": {"coordinates":[-95.31905999999999,36.31102],"type":"Point"}
 }

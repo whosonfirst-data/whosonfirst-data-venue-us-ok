@@ -2,13 +2,14 @@
   "id": 303123643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.989446,35.439861,-95.989446,35.439861",
     "geom:latitude":35.439861,
     "geom:longitude":-95.989446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 W Main St",
     "sg:city":"Henryetta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303123643,
-    "wof:lastmodified":1448998848,
+    "wof:lastmodified":1466763617,
     "wof:name":"Adams & Son General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.989446,35.439861,-95.989446,35.439861],
+  "bbox": [
+    -95.989446,
+    35.439861,
+    -95.989446,
+    35.439861
+],
   "geometry": {"coordinates":[-95.989446,35.439861],"type":"Point"}
 }

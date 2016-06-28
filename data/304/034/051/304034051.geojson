@@ -2,13 +2,14 @@
   "id": 304034051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.15654,36.87132,-97.15654,36.87132",
     "geom:latitude":36.87132,
     "geom:longitude":-97.15654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 N U St",
     "sg:city":"Newkirk",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":304034051,
-    "wof:lastmodified":1449043627,
+    "wof:lastmodified":1466762997,
     "wof:name":"Jan Sheets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.15654,36.87132,-97.15654,36.87132],
-  "geometry": {"coordinates":[-97.15654,36.87132],"type":"Point"}
+  "bbox": [
+    -97.15654,
+    36.87132,
+    -97.15654,
+    36.87132
+],
+  "geometry": {"coordinates":[-97.15654000000001,36.87132],"type":"Point"}
 }

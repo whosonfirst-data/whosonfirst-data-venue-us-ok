@@ -2,13 +2,14 @@
   "id": 303646561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.578518,35.490289,-97.578518,35.490289",
     "geom:latitude":35.490289,
     "geom:longitude":-97.578518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3433 NW 20th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303646561,
-    "wof:lastmodified":1448998055,
+    "wof:lastmodified":1466766230,
     "wof:name":"David Lee Upholstery",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-97.578518,35.490289,-97.578518,35.490289],
+  "bbox": [
+    -97.578518,
+    35.490289,
+    -97.578518,
+    35.490289
+],
   "geometry": {"coordinates":[-97.578518,35.490289],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303984077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.627648,35.561184,-97.627648,35.561184",
     "geom:latitude":35.561184,
     "geom:longitude":-97.627648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8812 N Kensington Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303984077,
-    "wof:lastmodified":1448999504,
+    "wof:lastmodified":1466767068,
     "wof:name":"Robin's Nest",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.627648,35.561184,-97.627648,35.561184],
-  "geometry": {"coordinates":[-97.627648,35.561184],"type":"Point"}
+  "bbox": [
+    -97.627648,
+    35.561184,
+    -97.627648,
+    35.561184
+],
+  "geometry": {"coordinates":[-97.62764799999999,35.561184],"type":"Point"}
 }

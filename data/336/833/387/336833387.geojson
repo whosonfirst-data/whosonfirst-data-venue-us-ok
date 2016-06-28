@@ -2,13 +2,14 @@
   "id": 336833387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507781,35.495082,-97.507781,35.495082",
     "geom:latitude":35.495082,
     "geom:longitude":-97.507781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 NE 24th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336833387,
-    "wof:lastmodified":1448997066,
+    "wof:lastmodified":1466764829,
     "wof:name":"School Specialty",
     "wof:parent_id":85871695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.507781,35.495082,-97.507781,35.495082],
-  "geometry": {"coordinates":[-97.507781,35.495082],"type":"Point"}
+  "bbox": [
+    -97.507781,
+    35.495082,
+    -97.507781,
+    35.495082
+],
+  "geometry": {"coordinates":[-97.50778099999999,35.495082],"type":"Point"}
 }

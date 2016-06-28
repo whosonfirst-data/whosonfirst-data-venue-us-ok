@@ -2,13 +2,14 @@
   "id": 320080367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.388632,35.468291,-97.388632,35.468291",
     "geom:latitude":35.468291,
     "geom:longitude":-97.388632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 N Midwest Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320080367,
-    "wof:lastmodified":1449014862,
+    "wof:lastmodified":1466763481,
     "wof:name":"Midwest Manor Apartments",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.388632,35.468291,-97.388632,35.468291],
+  "bbox": [
+    -97.388632,
+    35.468291,
+    -97.388632,
+    35.468291
+],
   "geometry": {"coordinates":[-97.388632,35.468291],"type":"Point"}
 }

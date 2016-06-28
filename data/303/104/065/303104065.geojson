@@ -2,13 +2,14 @@
   "id": 303104065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.815406,36.081157,-95.815406,36.081157",
     "geom:latitude":36.081157,
     "geom:longitude":-95.815406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3025 N Aspen Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303104065,
-    "wof:lastmodified":1448999126,
+    "wof:lastmodified":1466763301,
     "wof:name":"Medics International Care",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "institution"
     ]
 },
-  "bbox": [-95.815406,36.081157,-95.815406,36.081157],
+  "bbox": [
+    -95.815406,
+    36.081157,
+    -95.815406,
+    36.081157
+],
   "geometry": {"coordinates":[-95.815406,36.081157],"type":"Point"}
 }

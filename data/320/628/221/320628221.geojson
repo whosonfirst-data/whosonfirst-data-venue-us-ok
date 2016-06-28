@@ -2,13 +2,14 @@
   "id": 320628221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.930258,36.066686,-95.930258,36.066686",
     "geom:latitude":36.066686,
     "geom:longitude":-95.930258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4348 E 67th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320628221,
-    "wof:lastmodified":1449014259,
+    "wof:lastmodified":1466766340,
     "wof:name":"Willow Creek 3 Nghbrhood Assoc",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.930258,36.066686,-95.930258,36.066686],
-  "geometry": {"coordinates":[-95.930258,36.066686],"type":"Point"}
+  "bbox": [
+    -95.930258,
+    36.066686,
+    -95.930258,
+    36.066686
+],
+  "geometry": {"coordinates":[-95.93025799999999,36.066686],"type":"Point"}
 }

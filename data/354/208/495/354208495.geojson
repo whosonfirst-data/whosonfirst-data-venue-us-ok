@@ -2,13 +2,14 @@
   "id": 354208495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.423233,34.608777,-98.423233,34.608777",
     "geom:latitude":34.608777,
     "geom:longitude":-98.423233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2332 W Gore Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354208495,
-    "wof:lastmodified":1449066135,
+    "wof:lastmodified":1466763971,
     "wof:name":"Game King",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-98.423233,34.608777,-98.423233,34.608777],
+  "bbox": [
+    -98.423233,
+    34.608777,
+    -98.423233,
+    34.608777
+],
   "geometry": {"coordinates":[-98.423233,34.608777],"type":"Point"}
 }

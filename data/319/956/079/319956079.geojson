@@ -2,13 +2,14 @@
   "id": 319956079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.459039,35.19254,-97.459039,35.19254",
     "geom:latitude":35.19254,
     "geom:longitude":-97.459039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2503 S Berry Rd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319956079,
-    "wof:lastmodified":1449024227,
+    "wof:lastmodified":1466764052,
     "wof:name":"Northshore Corp",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"
     ]
 },
-  "bbox": [-97.459039,35.19254,-97.459039,35.19254],
+  "bbox": [
+    -97.459039,
+    35.19254,
+    -97.459039,
+    35.19254
+],
   "geometry": {"coordinates":[-97.459039,35.19254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320845931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.552751,35.569501,-97.552751,35.569501",
     "geom:latitude":35.569501,
     "geom:longitude":-97.552751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2130 Dublin Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320845931,
-    "wof:lastmodified":1449011868,
+    "wof:lastmodified":1466767008,
     "wof:name":"Wynn's Securities Inc",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-97.552751,35.569501,-97.552751,35.569501],
+  "bbox": [
+    -97.552751,
+    35.569501,
+    -97.552751,
+    35.569501
+],
   "geometry": {"coordinates":[-97.552751,35.569501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320222343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.848171,36.356234,-95.848171,36.356234",
     "geom:latitude":36.356234,
     "geom:longitude":-95.848171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13810 N 113th E Ave",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320222343,
-    "wof:lastmodified":1449013772,
+    "wof:lastmodified":1466764790,
     "wof:name":"Collinsville Livestock Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "livestock"
     ]
 },
-  "bbox": [-95.848171,36.356234,-95.848171,36.356234],
-  "geometry": {"coordinates":[-95.848171,36.356234],"type":"Point"}
+  "bbox": [
+    -95.848171,
+    36.356234,
+    -95.848171,
+    36.356234
+],
+  "geometry": {"coordinates":[-95.84817099999999,36.356234],"type":"Point"}
 }

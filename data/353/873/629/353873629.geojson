@@ -2,13 +2,14 @@
   "id": 353873629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.960996,36.177044,-95.960996,36.177044",
     "geom:latitude":36.177044,
     "geom:longitude":-95.960996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2146 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353873629,
-    "wof:lastmodified":1449018791,
+    "wof:lastmodified":1466765582,
     "wof:name":"Loncheria LA Tatatia",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.960996,36.177044,-95.960996,36.177044],
-  "geometry": {"coordinates":[-95.960996,36.177044],"type":"Point"}
+  "bbox": [
+    -95.960996,
+    36.177044,
+    -95.960996,
+    36.177044
+],
+  "geometry": {"coordinates":[-95.96099599999999,36.177044],"type":"Point"}
 }

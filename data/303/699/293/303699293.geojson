@@ -2,13 +2,14 @@
   "id": 303699293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.475051,35.658941,-97.475051,35.658941",
     "geom:latitude":35.658941,
     "geom:longitude":-97.475051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 E Ayers St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303699293,
-    "wof:lastmodified":1448998452,
+    "wof:lastmodified":1466766600,
     "wof:name":"Tau Kappa Epsilon",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "lodging"
     ]
 },
-  "bbox": [-97.475051,35.658941,-97.475051,35.658941],
-  "geometry": {"coordinates":[-97.475051,35.658941],"type":"Point"}
+  "bbox": [
+    -97.475051,
+    35.658941,
+    -97.475051,
+    35.658941
+],
+  "geometry": {"coordinates":[-97.47505099999999,35.658941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303669143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.338486,35.750225,-95.338486,35.750225",
     "geom:latitude":35.750225,
     "geom:longitude":-95.338486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2416 E Hayes St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303669143,
-    "wof:lastmodified":1448998399,
+    "wof:lastmodified":1466766347,
     "wof:name":"Jim's Loader Svc",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.338486,35.750225,-95.338486,35.750225],
+  "bbox": [
+    -95.338486,
+    35.750225,
+    -95.338486,
+    35.750225
+],
   "geometry": {"coordinates":[-95.338486,35.750225],"type":"Point"}
 }

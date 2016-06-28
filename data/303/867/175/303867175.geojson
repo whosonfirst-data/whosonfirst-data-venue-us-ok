@@ -2,13 +2,14 @@
   "id": 303867175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.837092,36.078692,-95.837092,36.078692",
     "geom:latitude":36.078692,
     "geom:longitude":-95.837092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12607 E 60th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303867175,
-    "wof:lastmodified":1448999175,
+    "wof:lastmodified":1466766888,
     "wof:name":"Tucker Wireline Svc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "logging"
     ]
 },
-  "bbox": [-95.837092,36.078692,-95.837092,36.078692],
+  "bbox": [
+    -95.837092,
+    36.078692,
+    -95.837092,
+    36.078692
+],
   "geometry": {"coordinates":[-95.837092,36.078692],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320217771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.905989,36.082207,-95.905989,36.082207",
     "geom:latitude":36.082207,
     "geom:longitude":-95.905989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6031 E 56th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320217771,
-    "wof:lastmodified":1449014735,
+    "wof:lastmodified":1466764682,
     "wof:name":"Dance & Theater",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-95.905989,36.082207,-95.905989,36.082207],
-  "geometry": {"coordinates":[-95.905989,36.082207],"type":"Point"}
+  "bbox": [
+    -95.905989,
+    36.082207,
+    -95.905989,
+    36.082207
+],
+  "geometry": {"coordinates":[-95.90598900000001,36.082207],"type":"Point"}
 }

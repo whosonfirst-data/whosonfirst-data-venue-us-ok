@@ -2,13 +2,14 @@
   "id": 287298771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.257387,35.190004,-97.257387,35.190004",
     "geom:latitude":35.190004,
     "geom:longitude":-97.257387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15702 State Hwy 9",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287298771,
-    "wof:lastmodified":1449000892,
+    "wof:lastmodified":1466763408,
     "wof:name":"Absentee Shawnee Tribal Clinic",
     "wof:parent_id":85814357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.257387,35.190004,-97.257387,35.190004],
-  "geometry": {"coordinates":[-97.257387,35.190004],"type":"Point"}
+  "bbox": [
+    -97.257387,
+    35.190004,
+    -97.257387,
+    35.190004
+],
+  "geometry": {"coordinates":[-97.25738699999999,35.190004],"type":"Point"}
 }

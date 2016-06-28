@@ -2,13 +2,14 @@
   "id": 353662363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.609224,35.547429,-97.609224,35.547429",
     "geom:latitude":35.547429,
     "geom:longitude":-97.609224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4720 NW 73rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353662363,
-    "wof:lastmodified":1449019968,
+    "wof:lastmodified":1466764776,
     "wof:name":"Logic Source Data",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-97.609224,35.547429,-97.609224,35.547429],
+  "bbox": [
+    -97.609224,
+    35.547429,
+    -97.609224,
+    35.547429
+],
   "geometry": {"coordinates":[-97.609224,35.547429],"type":"Point"}
 }

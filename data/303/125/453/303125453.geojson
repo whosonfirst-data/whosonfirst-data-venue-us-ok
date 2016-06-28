@@ -2,13 +2,14 @@
   "id": 303125453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.501982,35.471513,-97.501982,35.471513",
     "geom:latitude":35.471513,
     "geom:longitude":-97.501982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 NE 4th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303125453,
-    "wof:lastmodified":1449000481,
+    "wof:lastmodified":1466763648,
     "wof:name":"Sickle Cell Des Assoc Amer OK",
     "wof:parent_id":85871671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "organizational"
     ]
 },
-  "bbox": [-97.501982,35.471513,-97.501982,35.471513],
+  "bbox": [
+    -97.501982,
+    35.471513,
+    -97.501982,
+    35.471513
+],
   "geometry": {"coordinates":[-97.501982,35.471513],"type":"Point"}
 }

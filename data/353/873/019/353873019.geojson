@@ -2,13 +2,14 @@
   "id": 353873019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.907436,36.184309,-95.907436,36.184309",
     "geom:latitude":36.184309,
     "geom:longitude":-95.907436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 N Norwood Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353873019,
-    "wof:lastmodified":1449018789,
+    "wof:lastmodified":1466765718,
     "wof:name":"Brown Aviation Inc",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "aircraft"
     ]
 },
-  "bbox": [-95.907436,36.184309,-95.907436,36.184309],
+  "bbox": [
+    -95.907436,
+    36.184309,
+    -95.907436,
+    36.184309
+],
   "geometry": {"coordinates":[-95.907436,36.184309],"type":"Point"}
 }

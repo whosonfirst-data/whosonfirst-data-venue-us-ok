@@ -2,13 +2,14 @@
   "id": 320305765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.949448,35.312972,-97.949448,35.312972",
     "geom:latitude":35.312972,
     "geom:longitude":-97.949448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 S 6th St",
     "sg:city":"Minco",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320305765,
-    "wof:lastmodified":1449011822,
+    "wof:lastmodified":1466765189,
     "wof:name":"Minco High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.949448,35.312972,-97.949448,35.312972],
+  "bbox": [
+    -97.949448,
+    35.312972,
+    -97.949448,
+    35.312972
+],
   "geometry": {"coordinates":[-97.949448,35.312972],"type":"Point"}
 }

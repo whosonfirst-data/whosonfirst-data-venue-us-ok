@@ -2,13 +2,14 @@
   "id": 353770527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.495934,35.569244,-97.495934,35.569244",
     "geom:latitude":35.569244,
     "geom:longitude":-97.495934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Hester St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353770527,
-    "wof:lastmodified":1449020856,
+    "wof:lastmodified":1466765094,
     "wof:name":"Robert Lewis & Assoc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-97.495934,35.569244,-97.495934,35.569244],
-  "geometry": {"coordinates":[-97.495934,35.569244],"type":"Point"}
+  "bbox": [
+    -97.495934,
+    35.569244,
+    -97.495934,
+    35.569244
+],
+  "geometry": {"coordinates":[-97.49593400000001,35.569244],"type":"Point"}
 }

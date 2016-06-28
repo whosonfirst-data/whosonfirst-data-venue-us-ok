@@ -2,13 +2,14 @@
   "id": 320308771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.891388,36.093226,-95.891388,36.093226",
     "geom:latitude":36.093226,
     "geom:longitude":-95.891388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7605 E 49th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320308771,
-    "wof:lastmodified":1449015059,
+    "wof:lastmodified":1466765201,
     "wof:name":"Wimbleton Place",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.891388,36.093226,-95.891388,36.093226],
-  "geometry": {"coordinates":[-95.891388,36.093226],"type":"Point"}
+  "bbox": [
+    -95.891388,
+    36.093226,
+    -95.891388,
+    36.093226
+],
+  "geometry": {"coordinates":[-95.89138800000001,36.093226],"type":"Point"}
 }

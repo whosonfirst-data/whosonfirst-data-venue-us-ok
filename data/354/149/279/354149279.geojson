@@ -2,13 +2,14 @@
   "id": 354149279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.05851,36.112195,-97.05851,36.112195",
     "geom:latitude":36.112195,
     "geom:longitude":-97.05851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 S Main St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354149279,
-    "wof:lastmodified":1449065930,
+    "wof:lastmodified":1466763685,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.05851,36.112195,-97.05851,36.112195],
+  "bbox": [
+    -97.05851,
+    36.112195,
+    -97.05851,
+    36.112195
+],
   "geometry": {"coordinates":[-97.05851,36.112195],"type":"Point"}
 }

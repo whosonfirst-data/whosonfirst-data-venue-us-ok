@@ -2,13 +2,14 @@
   "id": 303298453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.113661,35.980739,-96.113661,35.980739",
     "geom:latitude":35.980739,
     "geom:longitude":-96.113661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 S Main St",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303298453,
-    "wof:lastmodified":1448998774,
+    "wof:lastmodified":1466765050,
     "wof:name":"Auto Parts of Sapulpa Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.113661,35.980739,-96.113661,35.980739],
-  "geometry": {"coordinates":[-96.113661,35.980739],"type":"Point"}
+  "bbox": [
+    -96.113661,
+    35.980739,
+    -96.113661,
+    35.980739
+],
+  "geometry": {"coordinates":[-96.11366099999999,35.980739],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336828183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.649478,35.471486,-97.649478,35.471486",
     "geom:latitude":35.471486,
     "geom:longitude":-97.649478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7800 Melrose Ln",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336828183,
-    "wof:lastmodified":1448997500,
+    "wof:lastmodified":1466764803,
     "wof:name":"Melrose Recreation Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-97.649478,35.471486,-97.649478,35.471486],
+  "bbox": [
+    -97.649478,
+    35.471486,
+    -97.649478,
+    35.471486
+],
   "geometry": {"coordinates":[-97.649478,35.471486],"type":"Point"}
 }

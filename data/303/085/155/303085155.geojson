@@ -2,13 +2,14 @@
   "id": 303085155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.101246,36.148691,-96.101246,36.148691",
     "geom:latitude":36.148691,
     "geom:longitude":-96.101246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 N Adams Rd",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303085155,
-    "wof:lastmodified":1448998726,
+    "wof:lastmodified":1466762991,
     "wof:name":"Rehab Care Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-96.101246,36.148691,-96.101246,36.148691],
+  "bbox": [
+    -96.101246,
+    36.148691,
+    -96.101246,
+    36.148691
+],
   "geometry": {"coordinates":[-96.101246,36.148691],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320165201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.149357,34.173702,-97.149357,34.173702",
     "geom:latitude":34.173702,
     "geom:longitude":-97.149357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 W Broadway St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320165201,
-    "wof:lastmodified":1449014975,
+    "wof:lastmodified":1466764441,
     "wof:name":"Broadway Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "station"
     ]
 },
-  "bbox": [-97.149357,34.173702,-97.149357,34.173702],
-  "geometry": {"coordinates":[-97.149357,34.173702],"type":"Point"}
+  "bbox": [
+    -97.149357,
+    34.173702,
+    -97.149357,
+    34.173702
+],
+  "geometry": {"coordinates":[-97.14935699999999,34.173702],"type":"Point"}
 }

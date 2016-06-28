@@ -2,13 +2,14 @@
   "id": 336606261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760089,35.390471,-97.760089,35.390471",
     "geom:latitude":35.390471,
     "geom:longitude":-97.760089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 S Clear Springs Rd",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336606261,
-    "wof:lastmodified":1448997109,
+    "wof:lastmodified":1466764169,
     "wof:name":"Om Enterprises of Louisville",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.760089,35.390471,-97.760089,35.390471],
-  "geometry": {"coordinates":[-97.760089,35.390471],"type":"Point"}
+  "bbox": [
+    -97.760089,
+    35.390471,
+    -97.760089,
+    35.390471
+],
+  "geometry": {"coordinates":[-97.76008899999999,35.390471],"type":"Point"}
 }

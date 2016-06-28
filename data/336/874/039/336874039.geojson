@@ -2,13 +2,14 @@
   "id": 336874039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.600611,35.332503,-97.600611,35.332503",
     "geom:latitude":35.332503,
     "geom:longitude":-97.600611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13925 S Meridian Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336874039,
-    "wof:lastmodified":1448997945,
+    "wof:lastmodified":1466765186,
     "wof:name":"Von's Welding Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.600611,35.332503,-97.600611,35.332503],
+  "bbox": [
+    -97.600611,
+    35.332503,
+    -97.600611,
+    35.332503
+],
   "geometry": {"coordinates":[-97.600611,35.332503],"type":"Point"}
 }

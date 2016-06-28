@@ -2,13 +2,14 @@
   "id": 320661775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.317281,34.916488,-95.317281,34.916488",
     "geom:latitude":34.916488,
     "geom:longitude":-95.317281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 W Ash Ave",
     "sg:city":"Wilburton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320661775,
-    "wof:lastmodified":1449014560,
+    "wof:lastmodified":1466766363,
     "wof:name":"R W Griffith Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-95.317281,34.916488,-95.317281,34.916488],
-  "geometry": {"coordinates":[-95.317281,34.916488],"type":"Point"}
+  "bbox": [
+    -95.317281,
+    34.916488,
+    -95.317281,
+    34.916488
+],
+  "geometry": {"coordinates":[-95.31728099999999,34.916488],"type":"Point"}
 }

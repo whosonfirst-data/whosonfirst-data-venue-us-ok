@@ -2,13 +2,14 @@
   "id": 320386303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.969888,36.157593,-95.969888,36.157593",
     "geom:latitude":36.157593,
     "geom:longitude":-95.969888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 E 2nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320386303,
-    "wof:lastmodified":1449013219,
+    "wof:lastmodified":1466765625,
     "wof:name":"Roberts Manufacturing Co",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bolt"
     ]
 },
-  "bbox": [-95.969888,36.157593,-95.969888,36.157593],
+  "bbox": [
+    -95.969888,
+    36.157593,
+    -95.969888,
+    36.157593
+],
   "geometry": {"coordinates":[-95.969888,36.157593],"type":"Point"}
 }

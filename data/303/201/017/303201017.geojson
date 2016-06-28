@@ -2,13 +2,14 @@
   "id": 303201017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.593365,35.400985,-94.593365,35.400985",
     "geom:latitude":35.400985,
     "geom:longitude":-94.593365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Dogwood St",
     "sg:city":"Muldrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303201017,
-    "wof:lastmodified":1449000236,
+    "wof:lastmodified":1466764334,
     "wof:name":"C & C Amusement Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "amusement"
     ]
 },
-  "bbox": [-94.593365,35.400985,-94.593365,35.400985],
-  "geometry": {"coordinates":[-94.593365,35.400985],"type":"Point"}
+  "bbox": [
+    -94.593365,
+    35.400985,
+    -94.593365,
+    35.400985
+],
+  "geometry": {"coordinates":[-94.59336500000001,35.400985],"type":"Point"}
 }

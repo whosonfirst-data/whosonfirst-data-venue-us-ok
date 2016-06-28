@@ -2,13 +2,14 @@
   "id": 304070799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975783,36.108018,-95.975783,36.108018",
     "geom:latitude":36.108018,
     "geom:longitude":-95.975783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3720 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304070799,
-    "wof:lastmodified":1449043839,
+    "wof:lastmodified":1466763229,
     "wof:name":"Healing Arts Center of Tulsa",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.975783,36.108018,-95.975783,36.108018],
-  "geometry": {"coordinates":[-95.975783,36.108018],"type":"Point"}
+  "bbox": [
+    -95.975783,
+    36.108018,
+    -95.975783,
+    36.108018
+],
+  "geometry": {"coordinates":[-95.97578300000001,36.108018],"type":"Point"}
 }

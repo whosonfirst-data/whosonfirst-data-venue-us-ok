@@ -2,13 +2,14 @@
   "id": 303457621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.400945,36.4383,-99.400945,36.4383",
     "geom:latitude":36.4383,
     "geom:longitude":-99.400945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 17th St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303457621,
-    "wof:lastmodified":1448999761,
+    "wof:lastmodified":1466765538,
     "wof:name":"Sun Stone Behavioral Unit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-99.400945,36.4383,-99.400945,36.4383],
-  "geometry": {"coordinates":[-99.400945,36.4383],"type":"Point"}
+  "bbox": [
+    -99.400945,
+    36.4383,
+    -99.400945,
+    36.4383
+],
+  "geometry": {"coordinates":[-99.40094499999999,36.4383],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220178125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.006927,36.137642,-96.006927,36.137642",
     "geom:latitude":36.137642,
     "geom:longitude":-96.006927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Southwest Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":220178125,
-    "wof:lastmodified":1449074630,
+    "wof:lastmodified":1466762338,
     "wof:name":"Frasier Frasier & Hickman LLP",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "law"
     ]
 },
-  "bbox": [-96.006927,36.137642,-96.006927,36.137642],
+  "bbox": [
+    -96.006927,
+    36.137642,
+    -96.006927,
+    36.137642
+],
   "geometry": {"coordinates":[-96.006927,36.137642],"type":"Point"}
 }

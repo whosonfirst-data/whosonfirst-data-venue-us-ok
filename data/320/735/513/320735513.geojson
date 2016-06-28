@@ -2,13 +2,14 @@
   "id": 320735513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.936038,36.147887,-95.936038,36.147887",
     "geom:latitude":36.147887,
     "geom:longitude":-95.936038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 E 11th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320735513,
-    "wof:lastmodified":1449014880,
+    "wof:lastmodified":1466766635,
     "wof:name":"Interparts",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-95.936038,36.147887,-95.936038,36.147887],
+  "bbox": [
+    -95.936038,
+    36.147887,
+    -95.936038,
+    36.147887
+],
   "geometry": {"coordinates":[-95.936038,36.147887],"type":"Point"}
 }

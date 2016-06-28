@@ -2,13 +2,14 @@
   "id": 303410801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.976558,35.89596,-94.976558,35.89596",
     "geom:latitude":35.89596,
     "geom:longitude":-94.976558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 S Muskogee Ave",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303410801,
-    "wof:lastmodified":1448998152,
+    "wof:lastmodified":1466765481,
     "wof:name":"Grimes Chiropractic & Wellness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.976558,35.89596,-94.976558,35.89596],
+  "bbox": [
+    -94.976558,
+    35.89596,
+    -94.976558,
+    35.89596
+],
   "geometry": {"coordinates":[-94.976558,35.89596],"type":"Point"}
 }

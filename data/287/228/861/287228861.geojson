@@ -2,13 +2,14 @@
   "id": 287228861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.519235,35.565647,-97.519235,35.565647",
     "geom:latitude":35.565647,
     "geom:longitude":-97.519235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"349 W Britton Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287228861,
-    "wof:lastmodified":1449000933,
+    "wof:lastmodified":1466762359,
     "wof:name":"Classic Computers",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.519235,35.565647,-97.519235,35.565647],
-  "geometry": {"coordinates":[-97.519235,35.565647],"type":"Point"}
+  "bbox": [
+    -97.519235,
+    35.565647,
+    -97.519235,
+    35.565647
+],
+  "geometry": {"coordinates":[-97.51923499999999,35.565647],"type":"Point"}
 }

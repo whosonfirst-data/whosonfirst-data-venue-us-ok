@@ -2,13 +2,14 @@
   "id": 303694639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.873206,35.701517,-96.873206,35.701517",
     "geom:latitude":35.701517,
     "geom:longitude":-96.873206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Bennett Blvd",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303694639,
-    "wof:lastmodified":1448998801,
+    "wof:lastmodified":1466766474,
     "wof:name":"Chandler Auction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-96.873206,35.701517,-96.873206,35.701517],
+  "bbox": [
+    -96.873206,
+    35.701517,
+    -96.873206,
+    35.701517
+],
   "geometry": {"coordinates":[-96.873206,35.701517],"type":"Point"}
 }

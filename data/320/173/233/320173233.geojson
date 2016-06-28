@@ -2,13 +2,14 @@
   "id": 320173233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.548039,35.441465,-97.548039,35.441465",
     "geom:latitude":35.441465,
     "geom:longitude":-97.548039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320173233,
-    "wof:lastmodified":1449011983,
+    "wof:lastmodified":1466764484,
     "wof:name":"Pawnbroker Inc",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-97.548039,35.441465,-97.548039,35.441465],
+  "bbox": [
+    -97.548039,
+    35.441465,
+    -97.548039,
+    35.441465
+],
   "geometry": {"coordinates":[-97.548039,35.441465],"type":"Point"}
 }

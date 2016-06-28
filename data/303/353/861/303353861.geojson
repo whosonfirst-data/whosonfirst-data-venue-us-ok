@@ -2,13 +2,14 @@
   "id": 303353861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.97507,36.099988,-95.97507,36.099988",
     "geom:latitude":36.099988,
     "geom:longitude":-95.97507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1328 E 43rd Ct",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303353861,
-    "wof:lastmodified":1448998818,
+    "wof:lastmodified":1466765197,
     "wof:name":"Noria Corp",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "industrial"
     ]
 },
-  "bbox": [-95.97507,36.099988,-95.97507,36.099988],
+  "bbox": [
+    -95.97507,
+    36.099988,
+    -95.97507,
+    36.099988
+],
   "geometry": {"coordinates":[-95.97507,36.099988],"type":"Point"}
 }

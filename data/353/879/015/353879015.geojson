@@ -2,13 +2,14 @@
   "id": 353879015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.321109,35.756805,-95.321109,35.756805",
     "geom:latitude":35.756805,
     "geom:longitude":-95.321109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 Skyview Dr",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353879015,
-    "wof:lastmodified":1449018286,
+    "wof:lastmodified":1466765611,
     "wof:name":"Garvin & Rogers",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-95.321109,35.756805,-95.321109,35.756805],
-  "geometry": {"coordinates":[-95.321109,35.756805],"type":"Point"}
+  "bbox": [
+    -95.321109,
+    35.756805,
+    -95.321109,
+    35.756805
+],
+  "geometry": {"coordinates":[-95.32110900000001,35.756805],"type":"Point"}
 }

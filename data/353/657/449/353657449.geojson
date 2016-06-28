@@ -2,13 +2,14 @@
   "id": 353657449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.833278,36.160908,-95.833278,36.160908",
     "geom:latitude":36.160908,
     "geom:longitude":-95.833278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 N 129th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":353657449,
-    "wof:lastmodified":1449018543,
+    "wof:lastmodified":1466764666,
     "wof:name":"Flying J Travel Plaza",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "stops"
     ]
 },
-  "bbox": [-95.833278,36.160908,-95.833278,36.160908],
-  "geometry": {"coordinates":[-95.833278,36.160908],"type":"Point"}
+  "bbox": [
+    -95.833278,
+    36.160908,
+    -95.833278,
+    36.160908
+],
+  "geometry": {"coordinates":[-95.83327800000001,36.160908],"type":"Point"}
 }

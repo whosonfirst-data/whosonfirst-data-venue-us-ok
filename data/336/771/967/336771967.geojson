@@ -2,13 +2,14 @@
   "id": 336771967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.699208,36.115086,-96.699208,36.115086",
     "geom:latitude":36.115086,
     "geom:longitude":-96.699208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N Main St",
     "sg:city":"Yale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336771967,
-    "wof:lastmodified":1448997529,
+    "wof:lastmodified":1466764528,
     "wof:name":"Yale Davis Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.699208,36.115086,-96.699208,36.115086],
+  "bbox": [
+    -96.699208,
+    36.115086,
+    -96.699208,
+    36.115086
+],
   "geometry": {"coordinates":[-96.699208,36.115086],"type":"Point"}
 }

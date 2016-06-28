@@ -2,13 +2,14 @@
   "id": 303092493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.567113,35.580656,-97.567113,35.580656",
     "geom:latitude":35.580656,
     "geom:longitude":-97.567113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10940 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303092493,
-    "wof:lastmodified":1449000105,
+    "wof:lastmodified":1466763113,
     "wof:name":"Quail Plaza Barber Shop",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.567113,35.580656,-97.567113,35.580656],
-  "geometry": {"coordinates":[-97.567113,35.580656],"type":"Point"}
+  "bbox": [
+    -97.567113,
+    35.580656,
+    -97.567113,
+    35.580656
+],
+  "geometry": {"coordinates":[-97.56711300000001,35.580656],"type":"Point"}
 }

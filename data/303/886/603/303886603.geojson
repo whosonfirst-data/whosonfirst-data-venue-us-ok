@@ -2,13 +2,14 @@
   "id": 303886603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.949812,36.702666,-95.949812,36.702666",
     "geom:latitude":36.702666,
     "geom:longitude":-95.949812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Cambridge Ct",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303886603,
-    "wof:lastmodified":1448999473,
+    "wof:lastmodified":1466767002,
     "wof:name":"Christ Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.949812,36.702666,-95.949812,36.702666],
-  "geometry": {"coordinates":[-95.949812,36.702666],"type":"Point"}
+  "bbox": [
+    -95.949812,
+    36.702666,
+    -95.949812,
+    36.702666
+],
+  "geometry": {"coordinates":[-95.94981199999999,36.702666],"type":"Point"}
 }

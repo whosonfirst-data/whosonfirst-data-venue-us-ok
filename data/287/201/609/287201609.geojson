@@ -2,13 +2,14 @@
   "id": 287201609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.620721,35.486103,-97.620721,35.486103",
     "geom:latitude":35.486103,
     "geom:longitude":-97.620721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5929 NW 16th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287201609,
-    "wof:lastmodified":1449001455,
+    "wof:lastmodified":1466763995,
     "wof:name":"Spurlock Co Satellite Mapping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-97.620721,35.486103,-97.620721,35.486103],
+  "bbox": [
+    -97.620721,
+    35.486103,
+    -97.620721,
+    35.486103
+],
   "geometry": {"coordinates":[-97.620721,35.486103],"type":"Point"}
 }

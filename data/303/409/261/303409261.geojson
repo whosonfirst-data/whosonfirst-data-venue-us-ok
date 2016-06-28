@@ -2,13 +2,14 @@
   "id": 303409261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.594023,35.518097,-97.594023,35.518097",
     "geom:latitude":35.518097,
     "geom:longitude":-97.594023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 N Utah Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303409261,
-    "wof:lastmodified":1448999121,
+    "wof:lastmodified":1466765474,
     "wof:name":"Bill White Realty",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.594023,35.518097,-97.594023,35.518097],
-  "geometry": {"coordinates":[-97.594023,35.518097],"type":"Point"}
+  "bbox": [
+    -97.594023,
+    35.518097,
+    -97.594023,
+    35.518097
+],
+  "geometry": {"coordinates":[-97.59402300000001,35.518097],"type":"Point"}
 }

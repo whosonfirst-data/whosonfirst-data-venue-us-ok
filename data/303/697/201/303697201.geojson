@@ -2,13 +2,14 @@
   "id": 303697201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.54193,36.16249,-95.54193,36.16249",
     "geom:latitude":36.16249,
     "geom:longitude":-95.54193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16313 E 590 Rd",
     "sg:city":"Inola",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303697201,
-    "wof:lastmodified":1448999660,
+    "wof:lastmodified":1466766392,
     "wof:name":"CEFCO Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.54193,36.16249,-95.54193,36.16249],
-  "geometry": {"coordinates":[-95.54193,36.16249],"type":"Point"}
+  "bbox": [
+    -95.54193,
+    36.16249,
+    -95.54193,
+    36.16249
+],
+  "geometry": {"coordinates":[-95.54192999999999,36.16249],"type":"Point"}
 }

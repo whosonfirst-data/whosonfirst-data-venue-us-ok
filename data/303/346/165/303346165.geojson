@@ -2,13 +2,14 @@
   "id": 303346165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.887799,36.049851,-95.887799,36.049851",
     "geom:latitude":36.049851,
     "geom:longitude":-95.887799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7836 E 79th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303346165,
-    "wof:lastmodified":1448998104,
+    "wof:lastmodified":1466765137,
     "wof:name":"Tasty Vending",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.887799,36.049851,-95.887799,36.049851],
+  "bbox": [
+    -95.887799,
+    36.049851,
+    -95.887799,
+    36.049851
+],
   "geometry": {"coordinates":[-95.887799,36.049851],"type":"Point"}
 }

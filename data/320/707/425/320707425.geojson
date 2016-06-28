@@ -2,13 +2,14 @@
   "id": 320707425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.375912,36.434314,-99.375912,36.434314",
     "geom:latitude":36.434314,
     "geom:longitude":-99.375912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Colorado Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320707425,
-    "wof:lastmodified":1449014380,
+    "wof:lastmodified":1466766634,
     "wof:name":"Crossbrand Feed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-99.375912,36.434314,-99.375912,36.434314],
+  "bbox": [
+    -99.375912,
+    36.434314,
+    -99.375912,
+    36.434314
+],
   "geometry": {"coordinates":[-99.375912,36.434314],"type":"Point"}
 }

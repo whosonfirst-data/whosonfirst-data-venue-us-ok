@@ -2,13 +2,14 @@
   "id": 303883935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.349905,34.623154,-99.349905,34.623154",
     "geom:latitude":34.623154,
     "geom:longitude":-99.349905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 W Ridgecrest Rd",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303883935,
-    "wof:lastmodified":1448999989,
+    "wof:lastmodified":1466767002,
     "wof:name":"Lugert-Altus Irrigation Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-99.349905,34.623154,-99.349905,34.623154],
-  "geometry": {"coordinates":[-99.349905,34.623154],"type":"Point"}
+  "bbox": [
+    -99.349905,
+    34.623154,
+    -99.349905,
+    34.623154
+],
+  "geometry": {"coordinates":[-99.34990500000001,34.623154],"type":"Point"}
 }

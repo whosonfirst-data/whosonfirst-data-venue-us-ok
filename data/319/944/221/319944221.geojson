@@ -2,13 +2,14 @@
   "id": 319944221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.469893,35.710847,-95.469893,35.710847",
     "geom:latitude":35.710847,
     "geom:longitude":-95.469893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3639 S 77th St W",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319944221,
-    "wof:lastmodified":1449024473,
+    "wof:lastmodified":1466763985,
     "wof:name":"Mitchum Trucking",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.469893,35.710847,-95.469893,35.710847],
+  "bbox": [
+    -95.469893,
+    35.710847,
+    -95.469893,
+    35.710847
+],
   "geometry": {"coordinates":[-95.469893,35.710847],"type":"Point"}
 }

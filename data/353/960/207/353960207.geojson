@@ -2,13 +2,14 @@
   "id": 353960207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.084386,35.085099,-98.084386,35.085099",
     "geom:latitude":35.085099,
     "geom:longitude":-98.084386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Locust St",
     "sg:city":"Verden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353960207,
-    "wof:lastmodified":1449020078,
+    "wof:lastmodified":1466765851,
     "wof:name":"Verden High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.084386,35.085099,-98.084386,35.085099],
-  "geometry": {"coordinates":[-98.084386,35.085099],"type":"Point"}
+  "bbox": [
+    -98.084386,
+    35.085099,
+    -98.084386,
+    35.085099
+],
+  "geometry": {"coordinates":[-98.08438599999999,35.085099],"type":"Point"}
 }

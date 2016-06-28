@@ -2,13 +2,14 @@
   "id": 320725979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.419274,34.60876,-98.419274,34.60876",
     "geom:latitude":34.60876,
     "geom:longitude":-98.419274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2006 W Gore Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320725979,
-    "wof:lastmodified":1449012172,
+    "wof:lastmodified":1466766710,
     "wof:name":"Toolshed",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.419274,34.60876,-98.419274,34.60876],
+  "bbox": [
+    -98.419274,
+    34.60876,
+    -98.419274,
+    34.60876
+],
   "geometry": {"coordinates":[-98.419274,34.60876],"type":"Point"}
 }

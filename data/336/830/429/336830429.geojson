@@ -2,13 +2,14 @@
   "id": 336830429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.398508,35.94435,-95.398508,35.94435",
     "geom:latitude":35.94435,
     "geom:longitude":-95.398508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 SW 15th St",
     "sg:city":"Wagoner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336830429,
-    "wof:lastmodified":1448997178,
+    "wof:lastmodified":1466764818,
     "wof:name":"U-Haul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "truck"
     ]
 },
-  "bbox": [-95.398508,35.94435,-95.398508,35.94435],
-  "geometry": {"coordinates":[-95.398508,35.94435],"type":"Point"}
+  "bbox": [
+    -95.398508,
+    35.94435,
+    -95.398508,
+    35.94435
+],
+  "geometry": {"coordinates":[-95.39850800000001,35.94435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303510885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.353231,35.757192,-95.353231,35.757192",
     "geom:latitude":35.757192,
     "geom:longitude":-95.353231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1233 Ash St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303510885,
-    "wof:lastmodified":1448999592,
+    "wof:lastmodified":1466765988,
     "wof:name":"Campbell Electric",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.353231,35.757192,-95.353231,35.757192],
-  "geometry": {"coordinates":[-95.353231,35.757192],"type":"Point"}
+  "bbox": [
+    -95.353231,
+    35.757192,
+    -95.353231,
+    35.757192
+],
+  "geometry": {"coordinates":[-95.35323099999999,35.757192],"type":"Point"}
 }

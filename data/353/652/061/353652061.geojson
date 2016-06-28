@@ -2,13 +2,14 @@
   "id": 353652061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.944168,34.503777,-97.944168,34.503777",
     "geom:latitude":34.503777,
     "geom:longitude":-97.944168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 N A St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353652061,
-    "wof:lastmodified":1449019896,
+    "wof:lastmodified":1466764647,
     "wof:name":"Eastside Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.944168,34.503777,-97.944168,34.503777],
+  "bbox": [
+    -97.944168,
+    34.503777,
+    -97.944168,
+    34.503777
+],
   "geometry": {"coordinates":[-97.944168,34.503777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320565615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.439174,35.560371,-97.439174,35.560371",
     "geom:latitude":35.560371,
     "geom:longitude":-97.439174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9001 Oakmont Valley Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320565615,
-    "wof:lastmodified":1449014628,
+    "wof:lastmodified":1466766334,
     "wof:name":"Karla A Osby Svc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"
     ]
 },
-  "bbox": [-97.439174,35.560371,-97.439174,35.560371],
-  "geometry": {"coordinates":[-97.439174,35.560371],"type":"Point"}
+  "bbox": [
+    -97.439174,
+    35.560371,
+    -97.439174,
+    35.560371
+],
+  "geometry": {"coordinates":[-97.43917399999999,35.560371],"type":"Point"}
 }

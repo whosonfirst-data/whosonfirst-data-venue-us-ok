@@ -2,13 +2,14 @@
   "id": 320141449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.479272,35.316239,-97.479272,35.316239",
     "geom:latitude":35.316239,
     "geom:longitude":-97.479272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Industrial Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320141449,
-    "wof:lastmodified":1449012580,
+    "wof:lastmodified":1466764350,
     "wof:name":"Advanced Imaging Concepts",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sales"
     ]
 },
-  "bbox": [-97.479272,35.316239,-97.479272,35.316239],
-  "geometry": {"coordinates":[-97.479272,35.316239],"type":"Point"}
+  "bbox": [
+    -97.479272,
+    35.316239,
+    -97.479272,
+    35.316239
+],
+  "geometry": {"coordinates":[-97.47927199999999,35.316239],"type":"Point"}
 }

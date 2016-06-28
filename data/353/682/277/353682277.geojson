@@ -2,13 +2,14 @@
   "id": 353682277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.673019,35.395402,-97.673019,35.395402",
     "geom:latitude":35.395402,
     "geom:longitude":-97.673019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 E Brook Ter",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353682277,
-    "wof:lastmodified":1449018686,
+    "wof:lastmodified":1466764709,
     "wof:name":"Auto Planes",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.673019,35.395402,-97.673019,35.395402],
+  "bbox": [
+    -97.673019,
+    35.395402,
+    -97.673019,
+    35.395402
+],
   "geometry": {"coordinates":[-97.673019,35.395402],"type":"Point"}
 }

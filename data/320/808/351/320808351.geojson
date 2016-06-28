@@ -2,13 +2,14 @@
   "id": 320808351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.53905,35.625142,-97.53905,35.625142",
     "geom:latitude":35.625142,
     "geom:longitude":-97.53905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15213 Grand Parke Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320808351,
-    "wof:lastmodified":1449011435,
+    "wof:lastmodified":1466766861,
     "wof:name":"Balsa Software",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-97.53905,35.625142,-97.53905,35.625142],
+  "bbox": [
+    -97.53905,
+    35.625142,
+    -97.53905,
+    35.625142
+],
   "geometry": {"coordinates":[-97.53905,35.625142],"type":"Point"}
 }

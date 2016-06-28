@@ -2,13 +2,14 @@
   "id": 320813395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.606119,35.106083,-98.606119,35.106083",
     "geom:latitude":35.106083,
     "geom:longitude":-98.606119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Main St",
     "sg:city":"Carnegie",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320813395,
-    "wof:lastmodified":1449012228,
+    "wof:lastmodified":1466766869,
     "wof:name":"S & S Refrigeration & Appl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.606119,35.106083,-98.606119,35.106083],
-  "geometry": {"coordinates":[-98.606119,35.106083],"type":"Point"}
+  "bbox": [
+    -98.606119,
+    35.106083,
+    -98.606119,
+    35.106083
+],
+  "geometry": {"coordinates":[-98.60611900000001,35.106083],"type":"Point"}
 }

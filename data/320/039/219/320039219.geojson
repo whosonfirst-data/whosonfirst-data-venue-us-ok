@@ -2,13 +2,14 @@
   "id": 320039219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.501114,35.700915,-97.501114,35.700915",
     "geom:latitude":35.700915,
     "geom:longitude":-97.501114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 Twin Grove Ct",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320039219,
-    "wof:lastmodified":1449014499,
+    "wof:lastmodified":1466762873,
     "wof:name":"Hackware Inc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-97.501114,35.700915,-97.501114,35.700915],
+  "bbox": [
+    -97.501114,
+    35.700915,
+    -97.501114,
+    35.700915
+],
   "geometry": {"coordinates":[-97.501114,35.700915],"type":"Point"}
 }

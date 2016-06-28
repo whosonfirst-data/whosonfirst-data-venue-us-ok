@@ -2,13 +2,14 @@
   "id": 320285257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534224,35.499487,-97.534224,35.499487",
     "geom:latitude":35.499487,
     "geom:longitude":-97.534224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320285257,
-    "wof:lastmodified":1449011366,
+    "wof:lastmodified":1466765084,
     "wof:name":"Oklahoma Legal Svc Ctr",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.534224,35.499487,-97.534224,35.499487],
-  "geometry": {"coordinates":[-97.534224,35.499487],"type":"Point"}
+  "bbox": [
+    -97.534224,
+    35.499487,
+    -97.534224,
+    35.499487
+],
+  "geometry": {"coordinates":[-97.53422399999999,35.499487],"type":"Point"}
 }

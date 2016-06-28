@@ -2,13 +2,14 @@
   "id": 303138731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.885608,36.060804,-95.885608,36.060804",
     "geom:latitude":36.060804,
     "geom:longitude":-95.885608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8250 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303138731,
-    "wof:lastmodified":1448998820,
+    "wof:lastmodified":1466763859,
     "wof:name":"Cotton Patch",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.885608,36.060804,-95.885608,36.060804],
+  "bbox": [
+    -95.885608,
+    36.060804,
+    -95.885608,
+    36.060804
+],
   "geometry": {"coordinates":[-95.885608,36.060804],"type":"Point"}
 }

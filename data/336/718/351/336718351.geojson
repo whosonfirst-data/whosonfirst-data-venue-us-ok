@@ -2,13 +2,14 @@
   "id": 336718351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.349748,34.623405,-98.349748,34.623405",
     "geom:latitude":34.623405,
     "geom:longitude":-98.349748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 NE Independence Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336718351,
-    "wof:lastmodified":1448997184,
+    "wof:lastmodified":1466764001,
     "wof:name":"East Gore Liquor Store",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-98.349748,34.623405,-98.349748,34.623405],
-  "geometry": {"coordinates":[-98.349748,34.623405],"type":"Point"}
+  "bbox": [
+    -98.349748,
+    34.623405,
+    -98.349748,
+    34.623405
+],
+  "geometry": {"coordinates":[-98.34974800000001,34.623405],"type":"Point"}
 }

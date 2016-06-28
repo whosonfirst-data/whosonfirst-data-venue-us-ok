@@ -2,13 +2,14 @@
   "id": 303314011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.979641,35.728108,-97.979641,35.728108",
     "geom:latitude":35.728108,
     "geom:longitude":-97.979641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 N 5th St",
     "sg:city":"Okarche",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303314011,
-    "wof:lastmodified":1449000461,
+    "wof:lastmodified":1466765011,
     "wof:name":"St John's Lutheran School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.979641,35.728108,-97.979641,35.728108],
+  "bbox": [
+    -97.979641,
+    35.728108,
+    -97.979641,
+    35.728108
+],
   "geometry": {"coordinates":[-97.979641,35.728108],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353636531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.985199,36.142396,-95.985199,36.142396",
     "geom:latitude":36.142396,
     "geom:longitude":-95.985199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1438 S Boston Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353636531,
-    "wof:lastmodified":1449019278,
+    "wof:lastmodified":1466764571,
     "wof:name":"Kaplin & Assoc Inc",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "consultant"
     ]
 },
-  "bbox": [-95.985199,36.142396,-95.985199,36.142396],
-  "geometry": {"coordinates":[-95.985199,36.142396],"type":"Point"}
+  "bbox": [
+    -95.985199,
+    36.142396,
+    -95.985199,
+    36.142396
+],
+  "geometry": {"coordinates":[-95.98519899999999,36.142396],"type":"Point"}
 }

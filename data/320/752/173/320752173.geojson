@@ -2,13 +2,14 @@
   "id": 320752173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.155623,36.131107,-96.155623,36.131107",
     "geom:latitude":36.131107,
     "geom:longitude":-96.155623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13722 State Hwy 51",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320752173,
-    "wof:lastmodified":1449011884,
+    "wof:lastmodified":1466766596,
     "wof:name":"Adair Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.155623,36.131107,-96.155623,36.131107],
-  "geometry": {"coordinates":[-96.155623,36.131107],"type":"Point"}
+  "bbox": [
+    -96.155623,
+    36.131107,
+    -96.155623,
+    36.131107
+],
+  "geometry": {"coordinates":[-96.15562300000001,36.131107],"type":"Point"}
 }

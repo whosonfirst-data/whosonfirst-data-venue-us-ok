@@ -2,13 +2,14 @@
   "id": 320443885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.047255,36.135253,-96.047255,36.135253",
     "geom:latitude":36.135253,
     "geom:longitude":-96.047255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 S 49th W Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320443885,
-    "wof:lastmodified":1449014278,
+    "wof:lastmodified":1466766036,
     "wof:name":"C S C",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "custom"
     ]
 },
-  "bbox": [-96.047255,36.135253,-96.047255,36.135253],
-  "geometry": {"coordinates":[-96.047255,36.135253],"type":"Point"}
+  "bbox": [
+    -96.047255,
+    36.135253,
+    -96.047255,
+    36.135253
+],
+  "geometry": {"coordinates":[-96.04725500000001,36.135253],"type":"Point"}
 }

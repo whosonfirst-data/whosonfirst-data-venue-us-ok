@@ -2,13 +2,14 @@
   "id": 320695585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.043873,36.120721,-96.043873,36.120721",
     "geom:latitude":36.120721,
     "geom:longitude":-96.043873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4818 W 30th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320695585,
-    "wof:lastmodified":1449012700,
+    "wof:lastmodified":1466766410,
     "wof:name":"Jumpin' Jiminy",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yard"
     ]
 },
-  "bbox": [-96.043873,36.120721,-96.043873,36.120721],
+  "bbox": [
+    -96.043873,
+    36.120721,
+    -96.043873,
+    36.120721
+],
   "geometry": {"coordinates":[-96.043873,36.120721],"type":"Point"}
 }

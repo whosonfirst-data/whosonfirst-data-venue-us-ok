@@ -2,13 +2,14 @@
   "id": 303361517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549279,35.489962,-97.549279,35.489962",
     "geom:latitude":35.489962,
     "geom:longitude":-97.549279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 NW 20th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303361517,
-    "wof:lastmodified":1448999899,
+    "wof:lastmodified":1466765338,
     "wof:name":"Chris Consultants",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-97.549279,35.489962,-97.549279,35.489962],
+  "bbox": [
+    -97.549279,
+    35.489962,
+    -97.549279,
+    35.489962
+],
   "geometry": {"coordinates":[-97.549279,35.489962],"type":"Point"}
 }

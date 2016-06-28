@@ -2,13 +2,14 @@
   "id": 287226537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.576429,35.527576,-97.576429,35.527576",
     "geom:latitude":35.527576,
     "geom:longitude":-97.576429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3433 NW 56th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":287226537,
-    "wof:lastmodified":1449001324,
+    "wof:lastmodified":1466762314,
     "wof:name":"Plasma Medical Group",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "physician"
     ]
 },
-  "bbox": [-97.576429,35.527576,-97.576429,35.527576],
+  "bbox": [
+    -97.576429,
+    35.527576,
+    -97.576429,
+    35.527576
+],
   "geometry": {"coordinates":[-97.576429,35.527576],"type":"Point"}
 }

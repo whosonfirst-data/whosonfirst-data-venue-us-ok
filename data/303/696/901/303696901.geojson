@@ -2,13 +2,14 @@
   "id": 303696901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.852646,36.260484,-95.852646,36.260484",
     "geom:latitude":36.260484,
     "geom:longitude":-95.852646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 S Cedar St",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303696901,
-    "wof:lastmodified":1448998302,
+    "wof:lastmodified":1466766483,
     "wof:name":"A & W Appliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.852646,36.260484,-95.852646,36.260484],
-  "geometry": {"coordinates":[-95.852646,36.260484],"type":"Point"}
+  "bbox": [
+    -95.852646,
+    36.260484,
+    -95.852646,
+    36.260484
+],
+  "geometry": {"coordinates":[-95.85264599999999,36.260484],"type":"Point"}
 }

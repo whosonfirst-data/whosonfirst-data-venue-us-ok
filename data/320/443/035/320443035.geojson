@@ -2,13 +2,14 @@
   "id": 320443035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.141999,35.308417,-97.141999,35.308417",
     "geom:latitude":35.308417,
     "geom:longitude":-97.141999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15615 S Pottawatomie Rd",
     "sg:city":"Dale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320443035,
-    "wof:lastmodified":1449014280,
+    "wof:lastmodified":1466765931,
     "wof:name":"James Cochran",
     "wof:parent_id":85830865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.141999,35.308417,-97.141999,35.308417],
+  "bbox": [
+    -97.141999,
+    35.308417,
+    -97.141999,
+    35.308417
+],
   "geometry": {"coordinates":[-97.141999,35.308417],"type":"Point"}
 }

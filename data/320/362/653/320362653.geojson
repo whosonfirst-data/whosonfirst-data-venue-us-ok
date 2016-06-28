@@ -2,13 +2,14 @@
   "id": 320362653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.001513,34.164935,-98.001513,34.164935",
     "geom:latitude":34.164935,
     "geom:longitude":-98.001513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Main St",
     "sg:city":"Waurika",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320362653,
-    "wof:lastmodified":1449013678,
+    "wof:lastmodified":1466765544,
     "wof:name":"Waurika Floral & Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.001513,34.164935,-98.001513,34.164935],
+  "bbox": [
+    -98.001513,
+    34.164935,
+    -98.001513,
+    34.164935
+],
   "geometry": {"coordinates":[-98.001513,34.164935],"type":"Point"}
 }

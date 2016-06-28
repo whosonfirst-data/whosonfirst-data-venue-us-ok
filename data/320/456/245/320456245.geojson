@@ -2,13 +2,14 @@
   "id": 320456245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.863763,36.398913,-97.863763,36.398913",
     "geom:latitude":36.398913,
     "geom:longitude":-97.863763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 E Maple Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320456245,
-    "wof:lastmodified":1449012373,
+    "wof:lastmodified":1466765964,
     "wof:name":"Mercer Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.863763,36.398913,-97.863763,36.398913],
-  "geometry": {"coordinates":[-97.863763,36.398913],"type":"Point"}
+  "bbox": [
+    -97.863763,
+    36.398913,
+    -97.863763,
+    36.398913
+],
+  "geometry": {"coordinates":[-97.86376300000001,36.398913],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353862017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.5053,34.874986,-99.5053,34.874986",
     "geom:latitude":34.874986,
     "geom:longitude":-99.5053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E Pierce St",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353862017,
-    "wof:lastmodified":1449020881,
+    "wof:lastmodified":1466765549,
     "wof:name":"Deluxe Cowboy Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.5053,34.874986,-99.5053,34.874986],
-  "geometry": {"coordinates":[-99.5053,34.874986],"type":"Point"}
+  "bbox": [
+    -99.5053,
+    34.874986,
+    -99.5053,
+    34.874986
+],
+  "geometry": {"coordinates":[-99.50530000000001,34.874986],"type":"Point"}
 }

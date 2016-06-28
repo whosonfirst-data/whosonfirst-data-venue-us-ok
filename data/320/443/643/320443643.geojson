@@ -2,13 +2,14 @@
   "id": 320443643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.381071,35.451666,-97.381071,35.451666",
     "geom:latitude":35.451666,
     "geom:longitude":-97.381071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 Republic Cir",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320443643,
-    "wof:lastmodified":1449014279,
+    "wof:lastmodified":1466765942,
     "wof:name":"Life Harvest Activity Center",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.381071,35.451666,-97.381071,35.451666],
-  "geometry": {"coordinates":[-97.381071,35.451666],"type":"Point"}
+  "bbox": [
+    -97.381071,
+    35.451666,
+    -97.381071,
+    35.451666
+],
+  "geometry": {"coordinates":[-97.38107100000001,35.451666],"type":"Point"}
 }

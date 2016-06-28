@@ -2,13 +2,14 @@
   "id": 319829019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.469276,34.629785,-98.469276,34.629785",
     "geom:latitude":34.629785,
     "geom:longitude":-98.469276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 NW Crosby Park Cir",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319829019,
-    "wof:lastmodified":1449024836,
+    "wof:lastmodified":1466762937,
     "wof:name":"Products Unlimited",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-98.469276,34.629785,-98.469276,34.629785],
-  "geometry": {"coordinates":[-98.469276,34.629785],"type":"Point"}
+  "bbox": [
+    -98.469276,
+    34.629785,
+    -98.469276,
+    34.629785
+],
+  "geometry": {"coordinates":[-98.46927599999999,34.629785],"type":"Point"}
 }

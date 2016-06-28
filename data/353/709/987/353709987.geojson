@@ -2,13 +2,14 @@
   "id": 353709987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.85281,36.081711,-95.85281,36.081711",
     "geom:latitude":36.081711,
     "geom:longitude":-95.85281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11108 E 56th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353709987,
-    "wof:lastmodified":1449018762,
+    "wof:lastmodified":1466764817,
     "wof:name":"Eagleone Logistics Inc",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.85281,36.081711,-95.85281,36.081711],
-  "geometry": {"coordinates":[-95.85281,36.081711],"type":"Point"}
+  "bbox": [
+    -95.85281,
+    36.081711,
+    -95.85281,
+    36.081711
+],
+  "geometry": {"coordinates":[-95.85281000000001,36.081711],"type":"Point"}
 }

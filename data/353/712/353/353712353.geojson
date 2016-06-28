@@ -2,13 +2,14 @@
   "id": 353712353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.027014,36.085535,-96.027014,36.085535",
     "geom:latitude":36.085535,
     "geom:longitude":-96.027014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3207 W 53rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353712353,
-    "wof:lastmodified":1449019344,
+    "wof:lastmodified":1466764938,
     "wof:name":"Matol Botanical Intl",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "diet"
     ]
 },
-  "bbox": [-96.027014,36.085535,-96.027014,36.085535],
-  "geometry": {"coordinates":[-96.027014,36.085535],"type":"Point"}
+  "bbox": [
+    -96.027014,
+    36.085535,
+    -96.027014,
+    36.085535
+],
+  "geometry": {"coordinates":[-96.02701399999999,36.085535],"type":"Point"}
 }

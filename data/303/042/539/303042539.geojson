@@ -2,13 +2,14 @@
   "id": 303042539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.374779,33.995049,-96.374779,33.995049",
     "geom:latitude":33.995049,
     "geom:longitude":-96.374779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 N 1st Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303042539,
-    "wof:lastmodified":1448999976,
+    "wof:lastmodified":1466762302,
     "wof:name":"Kyoto Japanese Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.374779,33.995049,-96.374779,33.995049],
+  "bbox": [
+    -96.374779,
+    33.995049,
+    -96.374779,
+    33.995049
+],
   "geometry": {"coordinates":[-96.374779,33.995049],"type":"Point"}
 }

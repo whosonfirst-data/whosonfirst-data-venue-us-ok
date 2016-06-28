@@ -2,13 +2,14 @@
   "id": 287281045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.898746,36.009546,-95.898746,36.009546",
     "geom:latitude":36.009546,
     "geom:longitude":-95.898746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6733 E 106th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287281045,
-    "wof:lastmodified":1449001438,
+    "wof:lastmodified":1466763146,
     "wof:name":"Edge Environmental Engineering",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-95.898746,36.009546,-95.898746,36.009546],
+  "bbox": [
+    -95.898746,
+    36.009546,
+    -95.898746,
+    36.009546
+],
   "geometry": {"coordinates":[-95.898746,36.009546],"type":"Point"}
 }

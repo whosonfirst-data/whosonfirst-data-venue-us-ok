@@ -2,13 +2,14 @@
   "id": 336658377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.487113,35.651119,-97.487113,35.651119",
     "geom:latitude":35.651119,
     "geom:longitude":-97.487113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 S Fretz Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":336658377,
-    "wof:lastmodified":1448996899,
+    "wof:lastmodified":1466763081,
     "wof:name":"Nationwide Floor & Window Cvr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "floor"
     ]
 },
-  "bbox": [-97.487113,35.651119,-97.487113,35.651119],
-  "geometry": {"coordinates":[-97.487113,35.651119],"type":"Point"}
+  "bbox": [
+    -97.487113,
+    35.651119,
+    -97.487113,
+    35.651119
+],
+  "geometry": {"coordinates":[-97.48711299999999,35.651119],"type":"Point"}
 }

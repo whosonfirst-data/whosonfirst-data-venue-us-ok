@@ -2,13 +2,14 @@
   "id": 354075209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.418401,34.165609,-97.418401,34.165609",
     "geom:latitude":34.165609,
     "geom:longitude":-97.418401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 Hewitt Rd",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354075209,
-    "wof:lastmodified":1449066870,
+    "wof:lastmodified":1466763407,
     "wof:name":"Big Oak Curriculum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.418401,34.165609,-97.418401,34.165609],
+  "bbox": [
+    -97.418401,
+    34.165609,
+    -97.418401,
+    34.165609
+],
   "geometry": {"coordinates":[-97.418401,34.165609],"type":"Point"}
 }

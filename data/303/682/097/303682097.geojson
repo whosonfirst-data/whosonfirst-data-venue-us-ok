@@ -2,13 +2,14 @@
   "id": 303682097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.509513,34.242066,-97.509513,34.242066",
     "geom:latitude":34.242066,
     "geom:longitude":-97.509513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Norene St",
     "sg:city":"Healdton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303682097,
-    "wof:lastmodified":1448998543,
+    "wof:lastmodified":1466766446,
     "wof:name":"Taylor's Office Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-97.509513,34.242066,-97.509513,34.242066],
+  "bbox": [
+    -97.509513,
+    34.242066,
+    -97.509513,
+    34.242066
+],
   "geometry": {"coordinates":[-97.509513,34.242066],"type":"Point"}
 }

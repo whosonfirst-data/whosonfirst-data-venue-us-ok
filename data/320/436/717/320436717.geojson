@@ -2,13 +2,14 @@
   "id": 320436717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.421719,34.594496,-98.421719,34.594496",
     "geom:latitude":34.594496,
     "geom:longitude":-98.421719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2124 SW Lee Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320436717,
-    "wof:lastmodified":1449014604,
+    "wof:lastmodified":1466765911,
     "wof:name":"LA Fiesta Restaurant",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.421719,34.594496,-98.421719,34.594496],
+  "bbox": [
+    -98.421719,
+    34.594496,
+    -98.421719,
+    34.594496
+],
   "geometry": {"coordinates":[-98.421719,34.594496],"type":"Point"}
 }

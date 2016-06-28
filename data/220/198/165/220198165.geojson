@@ -2,13 +2,14 @@
   "id": 220198165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886664,36.006049,-95.886664,36.006049",
     "geom:latitude":36.006049,
     "geom:longitude":-95.886664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10938 S Memorial Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -106,10 +107,11 @@
         }
     ],
     "wof:id":220198165,
-    "wof:lastmodified":1449074318,
+    "wof:lastmodified":1466762533,
     "wof:name":"T-Mobile",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -125,6 +127,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-95.886664,36.006049,-95.886664,36.006049],
+  "bbox": [
+    -95.886664,
+    36.006049,
+    -95.886664,
+    36.006049
+],
   "geometry": {"coordinates":[-95.886664,36.006049],"type":"Point"}
 }

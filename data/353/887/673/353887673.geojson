@@ -2,13 +2,14 @@
   "id": 353887673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.901437,35.503209,-96.901437,35.503209",
     "geom:latitude":35.503209,
     "geom:longitude":-96.901437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 W Main St",
     "sg:city":"Meeker",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353887673,
-    "wof:lastmodified":1449020314,
+    "wof:lastmodified":1466765642,
     "wof:name":"Studio 62",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-96.901437,35.503209,-96.901437,35.503209],
+  "bbox": [
+    -96.901437,
+    35.503209,
+    -96.901437,
+    35.503209
+],
   "geometry": {"coordinates":[-96.901437,35.503209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354170383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.379218,35.670819,-95.379218,35.670819",
     "geom:latitude":35.670819,
     "geom:longitude":-95.379218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6021 S 1st St W",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354170383,
-    "wof:lastmodified":1449066081,
+    "wof:lastmodified":1466763776,
     "wof:name":"Hartfelder Arms Co",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.379218,35.670819,-95.379218,35.670819],
-  "geometry": {"coordinates":[-95.379218,35.670819],"type":"Point"}
+  "bbox": [
+    -95.379218,
+    35.670819,
+    -95.379218,
+    35.670819
+],
+  "geometry": {"coordinates":[-95.37921799999999,35.670819],"type":"Point"}
 }

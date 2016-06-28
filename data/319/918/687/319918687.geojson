@@ -2,13 +2,14 @@
   "id": 319918687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.8512,36.112803,-95.8512,36.112803",
     "geom:latitude":36.112803,
     "geom:longitude":-95.8512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3434 S Garnett Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319918687,
-    "wof:lastmodified":1449024604,
+    "wof:lastmodified":1466763826,
     "wof:name":"Keystone Counseling Svc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-95.8512,36.112803,-95.8512,36.112803],
-  "geometry": {"coordinates":[-95.8512,36.112803],"type":"Point"}
+  "bbox": [
+    -95.8512,
+    36.112803,
+    -95.8512,
+    36.112803
+],
+  "geometry": {"coordinates":[-95.85120000000001,36.112803],"type":"Point"}
 }

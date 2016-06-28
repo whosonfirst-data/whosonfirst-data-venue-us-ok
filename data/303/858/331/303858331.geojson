@@ -2,13 +2,14 @@
   "id": 303858331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.491779,35.155689,-96.491779,35.155689",
     "geom:latitude":35.155689,
     "geom:longitude":-96.491779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W 4th St",
     "sg:city":"Wewoka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303858331,
-    "wof:lastmodified":1448998362,
+    "wof:lastmodified":1466766857,
     "wof:name":"Curry Hardware & Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.491779,35.155689,-96.491779,35.155689],
-  "geometry": {"coordinates":[-96.491779,35.155689],"type":"Point"}
+  "bbox": [
+    -96.491779,
+    35.155689,
+    -96.491779,
+    35.155689
+],
+  "geometry": {"coordinates":[-96.49177899999999,35.155689],"type":"Point"}
 }

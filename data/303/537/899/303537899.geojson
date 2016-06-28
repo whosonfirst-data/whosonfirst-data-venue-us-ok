@@ -2,13 +2,14 @@
   "id": 303537899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.519922,35.420746,-97.519922,35.420746",
     "geom:latitude":35.420746,
     "geom:longitude":-97.519922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 SW 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303537899,
-    "wof:lastmodified":1448998712,
+    "wof:lastmodified":1466765888,
     "wof:name":"Hoe Down Lawns",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.519922,35.420746,-97.519922,35.420746],
-  "geometry": {"coordinates":[-97.519922,35.420746],"type":"Point"}
+  "bbox": [
+    -97.519922,
+    35.420746,
+    -97.519922,
+    35.420746
+],
+  "geometry": {"coordinates":[-97.51992199999999,35.420746],"type":"Point"}
 }

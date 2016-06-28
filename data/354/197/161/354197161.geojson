@@ -2,13 +2,14 @@
   "id": 354197161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.604285,34.885763,-94.604285,34.885763",
     "geom:latitude":34.885763,
     "geom:longitude":-94.604285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 W 1st St",
     "sg:city":"Heavener",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354197161,
-    "wof:lastmodified":1449067446,
+    "wof:lastmodified":1466763897,
     "wof:name":"Heavener Feed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-94.604285,34.885763,-94.604285,34.885763],
+  "bbox": [
+    -94.604285,
+    34.885763,
+    -94.604285,
+    34.885763
+],
   "geometry": {"coordinates":[-94.604285,34.885763],"type":"Point"}
 }

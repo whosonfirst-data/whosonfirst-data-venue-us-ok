@@ -2,13 +2,14 @@
   "id": 336699539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.958192,35.537543,-97.958192,35.537543",
     "geom:latitude":35.537543,
     "geom:longitude":-97.958192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 N Grand Ave",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336699539,
-    "wof:lastmodified":1448997079,
+    "wof:lastmodified":1466763713,
     "wof:name":"Northwest Community Center",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-97.958192,35.537543,-97.958192,35.537543],
+  "bbox": [
+    -97.958192,
+    35.537543,
+    -97.958192,
+    35.537543
+],
   "geometry": {"coordinates":[-97.958192,35.537543],"type":"Point"}
 }

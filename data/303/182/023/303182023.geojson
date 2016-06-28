@@ -2,13 +2,14 @@
   "id": 303182023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.877631,36.868109,-94.877631,36.868109",
     "geom:latitude":36.868109,
     "geom:longitude":-94.877631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 S Main St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303182023,
-    "wof:lastmodified":1448999665,
+    "wof:lastmodified":1466764343,
     "wof:name":"Miami Auto Specialist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-94.877631,36.868109,-94.877631,36.868109],
-  "geometry": {"coordinates":[-94.877631,36.868109],"type":"Point"}
+  "bbox": [
+    -94.877631,
+    36.868109,
+    -94.877631,
+    36.868109
+],
+  "geometry": {"coordinates":[-94.87763099999999,36.868109],"type":"Point"}
 }

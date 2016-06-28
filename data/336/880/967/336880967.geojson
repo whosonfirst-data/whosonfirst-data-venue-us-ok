@@ -2,13 +2,14 @@
   "id": 336880967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.553631,35.420781,-97.553631,35.420781",
     "geom:latitude":35.420781,
     "geom:longitude":-97.553631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2349 SW 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336880967,
-    "wof:lastmodified":1448998024,
+    "wof:lastmodified":1466765005,
     "wof:name":"Flowers & Lace Boutique",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.553631,35.420781,-97.553631,35.420781],
+  "bbox": [
+    -97.553631,
+    35.420781,
+    -97.553631,
+    35.420781
+],
   "geometry": {"coordinates":[-97.553631,35.420781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353746837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.54983,35.50054,-97.54983,35.50054",
     "geom:latitude":35.50054,
     "geom:longitude":-97.54983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 NW 30th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353746837,
-    "wof:lastmodified":1449018231,
+    "wof:lastmodified":1466765092,
     "wof:name":"Bob Graham Land Co",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.54983,35.50054,-97.54983,35.50054],
+  "bbox": [
+    -97.54983,
+    35.50054,
+    -97.54983,
+    35.50054
+],
   "geometry": {"coordinates":[-97.54983,35.50054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320361117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.651975,35.556567,-97.651975,35.556567",
     "geom:latitude":35.556567,
     "geom:longitude":-97.651975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7713 NW 84th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320361117,
-    "wof:lastmodified":1449013977,
+    "wof:lastmodified":1466765465,
     "wof:name":"Construction Svc Gregg Wallace",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-97.651975,35.556567,-97.651975,35.556567],
-  "geometry": {"coordinates":[-97.651975,35.556567],"type":"Point"}
+  "bbox": [
+    -97.651975,
+    35.556567,
+    -97.651975,
+    35.556567
+],
+  "geometry": {"coordinates":[-97.65197499999999,35.556567],"type":"Point"}
 }

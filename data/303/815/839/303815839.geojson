@@ -2,13 +2,14 @@
   "id": 303815839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.96044,34.515879,-97.96044,34.515879",
     "geom:latitude":34.515879,
     "geom:longitude":-97.96044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 N 12th St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303815839,
-    "wof:lastmodified":1448999305,
+    "wof:lastmodified":1466766825,
     "wof:name":"Massage Health Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.96044,34.515879,-97.96044,34.515879],
-  "geometry": {"coordinates":[-97.96044,34.515879],"type":"Point"}
+  "bbox": [
+    -97.96044,
+    34.515879,
+    -97.96044,
+    34.515879
+],
+  "geometry": {"coordinates":[-97.96044000000001,34.515879],"type":"Point"}
 }

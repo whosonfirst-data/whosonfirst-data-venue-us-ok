@@ -2,13 +2,14 @@
   "id": 336910109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.879869,36.586014,-98.879869,36.586014",
     "geom:latitude":36.586014,
     "geom:longitude":-98.879869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Broadway St",
     "sg:city":"Camargo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336910109,
-    "wof:lastmodified":1448997391,
+    "wof:lastmodified":1466765378,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.879869,36.586014,-98.879869,36.586014],
+  "bbox": [
+    -98.879869,
+    36.586014,
+    -98.879869,
+    36.586014
+],
   "geometry": {"coordinates":[-98.879869,36.586014],"type":"Point"}
 }

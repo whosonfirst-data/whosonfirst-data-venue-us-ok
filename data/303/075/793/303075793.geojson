@@ -2,13 +2,14 @@
   "id": 303075793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.513388,35.363299,-97.513388,35.363299",
     "geom:latitude":35.363299,
     "geom:longitude":-97.513388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 SW 104th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303075793,
-    "wof:lastmodified":1448999445,
+    "wof:lastmodified":1466762839,
     "wof:name":"Betsys Barber Shop",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.513388,35.363299,-97.513388,35.363299],
-  "geometry": {"coordinates":[-97.513388,35.363299],"type":"Point"}
+  "bbox": [
+    -97.513388,
+    35.363299,
+    -97.513388,
+    35.363299
+],
+  "geometry": {"coordinates":[-97.51338800000001,35.363299],"type":"Point"}
 }

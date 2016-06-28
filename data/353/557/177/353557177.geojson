@@ -2,13 +2,14 @@
   "id": 353557177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.627846,36.317353,-95.627846,36.317353",
     "geom:latitude":36.317353,
     "geom:longitude":-95.627846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1427 W Will Rogers Blvd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353557177,
-    "wof:lastmodified":1449020069,
+    "wof:lastmodified":1466763970,
     "wof:name":"Suburban Maytag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.627846,36.317353,-95.627846,36.317353],
-  "geometry": {"coordinates":[-95.627846,36.317353],"type":"Point"}
+  "bbox": [
+    -95.627846,
+    36.317353,
+    -95.627846,
+    36.317353
+],
+  "geometry": {"coordinates":[-95.62784600000001,36.317353],"type":"Point"}
 }

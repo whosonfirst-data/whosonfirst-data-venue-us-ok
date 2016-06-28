@@ -2,13 +2,14 @@
   "id": 336733721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.815987,35.290814,-97.815987,35.290814",
     "geom:latitude":35.290814,
     "geom:longitude":-97.815987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 SW 3rd St",
     "sg:city":"Tuttle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336733721,
-    "wof:lastmodified":1448997083,
+    "wof:lastmodified":1466764195,
     "wof:name":"Paxton Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-97.815987,35.290814,-97.815987,35.290814],
-  "geometry": {"coordinates":[-97.815987,35.290814],"type":"Point"}
+  "bbox": [
+    -97.815987,
+    35.290814,
+    -97.815987,
+    35.290814
+],
+  "geometry": {"coordinates":[-97.81598700000001,35.290814],"type":"Point"}
 }

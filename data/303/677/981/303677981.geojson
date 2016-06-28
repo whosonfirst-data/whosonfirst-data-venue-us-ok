@@ -2,13 +2,14 @@
   "id": 303677981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.938031,36.792531,-95.938031,36.792531",
     "geom:latitude":36.792531,
     "geom:longitude":-95.938031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N Delaware St",
     "sg:city":"Dewey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303677981,
-    "wof:lastmodified":1448999000,
+    "wof:lastmodified":1466766448,
     "wof:name":"Virden Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.938031,36.792531,-95.938031,36.792531],
+  "bbox": [
+    -95.938031,
+    36.792531,
+    -95.938031,
+    36.792531
+],
   "geometry": {"coordinates":[-95.938031,36.792531],"type":"Point"}
 }

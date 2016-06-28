@@ -2,13 +2,14 @@
   "id": 336641061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.854976,36.264226,-95.854976,36.264226",
     "geom:latitude":36.264226,
     "geom:longitude":-95.854976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 S Main St",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336641061,
-    "wof:lastmodified":1448997768,
+    "wof:lastmodified":1466762809,
     "wof:name":"Owasso Tag Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-95.854976,36.264226,-95.854976,36.264226],
-  "geometry": {"coordinates":[-95.854976,36.264226],"type":"Point"}
+  "bbox": [
+    -95.854976,
+    36.264226,
+    -95.854976,
+    36.264226
+],
+  "geometry": {"coordinates":[-95.85497599999999,36.264226],"type":"Point"}
 }

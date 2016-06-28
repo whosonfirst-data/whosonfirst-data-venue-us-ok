@@ -2,13 +2,14 @@
   "id": 336883723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.625613,35.556374,-97.625613,35.556374",
     "geom:latitude":35.556374,
     "geom:longitude":-97.625613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8400 Lowery Ln",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336883723,
-    "wof:lastmodified":1448997777,
+    "wof:lastmodified":1466765024,
     "wof:name":"Roses By Moonlite",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "florist"
     ]
 },
-  "bbox": [-97.625613,35.556374,-97.625613,35.556374],
+  "bbox": [
+    -97.625613,
+    35.556374,
+    -97.625613,
+    35.556374
+],
   "geometry": {"coordinates":[-97.625613,35.556374],"type":"Point"}
 }

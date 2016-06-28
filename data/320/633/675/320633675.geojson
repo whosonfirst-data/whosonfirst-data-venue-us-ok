@@ -2,13 +2,14 @@
   "id": 320633675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.333846,34.661898,-99.333846,34.661898",
     "geom:latitude":34.661898,
     "geom:longitude":-99.333846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Val Verde St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320633675,
-    "wof:lastmodified":1449014933,
+    "wof:lastmodified":1466766362,
     "wof:name":"Val Verde Dental Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-99.333846,34.661898,-99.333846,34.661898],
-  "geometry": {"coordinates":[-99.333846,34.661898],"type":"Point"}
+  "bbox": [
+    -99.333846,
+    34.661898,
+    -99.333846,
+    34.661898
+],
+  "geometry": {"coordinates":[-99.33384599999999,34.661898],"type":"Point"}
 }

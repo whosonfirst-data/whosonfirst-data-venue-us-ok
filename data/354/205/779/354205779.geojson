@@ -2,13 +2,14 @@
   "id": 354205779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.520834,35.474049,-97.520834,35.474049",
     "geom:latitude":35.474049,
     "geom:longitude":-97.520834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 NW 6th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354205779,
-    "wof:lastmodified":1449066959,
+    "wof:lastmodified":1466763956,
     "wof:name":"Rockwall Hotel",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-97.520834,35.474049,-97.520834,35.474049],
-  "geometry": {"coordinates":[-97.520834,35.474049],"type":"Point"}
+  "bbox": [
+    -97.520834,
+    35.474049,
+    -97.520834,
+    35.474049
+],
+  "geometry": {"coordinates":[-97.52083399999999,35.474049],"type":"Point"}
 }

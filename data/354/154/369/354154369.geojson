@@ -2,13 +2,14 @@
   "id": 354154369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.407299,36.433705,-99.407299,36.433705",
     "geom:latitude":36.433705,
     "geom:longitude":-99.407299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 Oklahoma Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354154369,
-    "wof:lastmodified":1449067683,
+    "wof:lastmodified":1466763709,
     "wof:name":"United Supermarkets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-99.407299,36.433705,-99.407299,36.433705],
-  "geometry": {"coordinates":[-99.407299,36.433705],"type":"Point"}
+  "bbox": [
+    -99.407299,
+    36.433705,
+    -99.407299,
+    36.433705
+],
+  "geometry": {"coordinates":[-99.40729899999999,36.433705],"type":"Point"}
 }

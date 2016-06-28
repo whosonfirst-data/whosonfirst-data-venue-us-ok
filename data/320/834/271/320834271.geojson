@@ -2,13 +2,14 @@
   "id": 320834271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.956769,35.908079,-94.956769,35.908079",
     "geom:latitude":35.908079,
     "geom:longitude":-94.956769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 E Ross St",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320834271,
-    "wof:lastmodified":1449011583,
+    "wof:lastmodified":1466766917,
     "wof:name":"Tahlequah Ear Nose & Throat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.956769,35.908079,-94.956769,35.908079],
-  "geometry": {"coordinates":[-94.956769,35.908079],"type":"Point"}
+  "bbox": [
+    -94.956769,
+    35.908079,
+    -94.956769,
+    35.908079
+],
+  "geometry": {"coordinates":[-94.95676899999999,35.908079],"type":"Point"}
 }

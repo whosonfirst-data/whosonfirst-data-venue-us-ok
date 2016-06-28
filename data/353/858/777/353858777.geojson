@@ -2,13 +2,14 @@
   "id": 353858777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.389548,35.426201,-99.389548,35.426201",
     "geom:latitude":35.426201,
     "geom:longitude":-99.389548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 Airport Industrial",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353858777,
-    "wof:lastmodified":1449018510,
+    "wof:lastmodified":1466765548,
     "wof:name":"Enogex Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-99.389548,35.426201,-99.389548,35.426201],
+  "bbox": [
+    -99.389548,
+    35.426201,
+    -99.389548,
+    35.426201
+],
   "geometry": {"coordinates":[-99.389548,35.426201],"type":"Point"}
 }

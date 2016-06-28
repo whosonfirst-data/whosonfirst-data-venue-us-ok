@@ -2,13 +2,14 @@
   "id": 303772983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.674097,35.607323,-97.674097,35.607323",
     "geom:latitude":35.607323,
     "geom:longitude":-97.674097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13101 N County Line Rd",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303772983,
-    "wof:lastmodified":1448999217,
+    "wof:lastmodified":1466766790,
     "wof:name":"Golden Leasing",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "lease"
     ]
 },
-  "bbox": [-97.674097,35.607323,-97.674097,35.607323],
+  "bbox": [
+    -97.674097,
+    35.607323,
+    -97.674097,
+    35.607323
+],
   "geometry": {"coordinates":[-97.674097,35.607323],"type":"Point"}
 }

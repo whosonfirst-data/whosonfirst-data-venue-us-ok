@@ -2,13 +2,14 @@
   "id": 303886573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.991413,36.300312,-95.991413,36.300312",
     "geom:latitude":36.300312,
     "geom:longitude":-95.991413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 State Hwy 11",
     "sg:city":"Sperry",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303886573,
-    "wof:lastmodified":1448999474,
+    "wof:lastmodified":1466766935,
     "wof:name":"Highway 11 Diner",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.991413,36.300312,-95.991413,36.300312],
-  "geometry": {"coordinates":[-95.991413,36.300312],"type":"Point"}
+  "bbox": [
+    -95.991413,
+    36.300312,
+    -95.991413,
+    36.300312
+],
+  "geometry": {"coordinates":[-95.99141299999999,36.300312],"type":"Point"}
 }

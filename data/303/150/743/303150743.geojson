@@ -2,13 +2,14 @@
   "id": 303150743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.828469,36.108584,-95.828469,36.108584",
     "geom:latitude":36.108584,
     "geom:longitude":-95.828469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13204 E 38th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303150743,
-    "wof:lastmodified":1448998151,
+    "wof:lastmodified":1466764054,
     "wof:name":"I 44 Auto World",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-95.828469,36.108584,-95.828469,36.108584],
+  "bbox": [
+    -95.828469,
+    36.108584,
+    -95.828469,
+    36.108584
+],
   "geometry": {"coordinates":[-95.828469,36.108584],"type":"Point"}
 }

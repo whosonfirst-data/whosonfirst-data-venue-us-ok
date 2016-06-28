@@ -2,13 +2,14 @@
   "id": 319843201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.940165,35.853701,-97.940165,35.853701",
     "geom:latitude":35.853701,
     "geom:longitude":-97.940165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 S 12th St",
     "sg:city":"Kingfisher",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319843201,
-    "wof:lastmodified":1449024169,
+    "wof:lastmodified":1466763079,
     "wof:name":"Red Flag Investigations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-97.940165,35.853701,-97.940165,35.853701],
-  "geometry": {"coordinates":[-97.940165,35.853701],"type":"Point"}
+  "bbox": [
+    -97.940165,
+    35.853701,
+    -97.940165,
+    35.853701
+],
+  "geometry": {"coordinates":[-97.94016499999999,35.853701],"type":"Point"}
 }

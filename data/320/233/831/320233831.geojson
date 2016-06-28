@@ -2,13 +2,14 @@
   "id": 320233831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.511423,34.009672,-95.511423,34.009672",
     "geom:latitude":34.009672,
     "geom:longitude":-95.511423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 E Duke St",
     "sg:city":"Hugo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320233831,
-    "wof:lastmodified":1449015026,
+    "wof:lastmodified":1466764767,
     "wof:name":"Ronald D Cox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-95.511423,34.009672,-95.511423,34.009672],
-  "geometry": {"coordinates":[-95.511423,34.009672],"type":"Point"}
+  "bbox": [
+    -95.511423,
+    34.009672,
+    -95.511423,
+    34.009672
+],
+  "geometry": {"coordinates":[-95.51142299999999,34.009672],"type":"Point"}
 }

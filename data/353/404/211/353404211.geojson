@@ -2,13 +2,14 @@
   "id": 353404211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904984,36.052037,-95.904984,36.052037",
     "geom:latitude":36.052037,
     "geom:longitude":-95.904984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7810 S Oxford Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353404211,
-    "wof:lastmodified":1449019941,
+    "wof:lastmodified":1466762459,
     "wof:name":"Paycom",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "payroll"
     ]
 },
-  "bbox": [-95.904984,36.052037,-95.904984,36.052037],
+  "bbox": [
+    -95.904984,
+    36.052037,
+    -95.904984,
+    36.052037
+],
   "geometry": {"coordinates":[-95.904984,36.052037],"type":"Point"}
 }

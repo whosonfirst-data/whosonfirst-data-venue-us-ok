@@ -2,13 +2,14 @@
   "id": 320674109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.401632,35.436879,-97.401632,35.436879",
     "geom:latitude":35.436879,
     "geom:longitude":-97.401632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Boeing Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320674109,
-    "wof:lastmodified":1449014036,
+    "wof:lastmodified":1466766459,
     "wof:name":"Suburban Property Management",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.401632,35.436879,-97.401632,35.436879],
-  "geometry": {"coordinates":[-97.401632,35.436879],"type":"Point"}
+  "bbox": [
+    -97.401632,
+    35.436879,
+    -97.401632,
+    35.436879
+],
+  "geometry": {"coordinates":[-97.40163200000001,35.436879],"type":"Point"}
 }

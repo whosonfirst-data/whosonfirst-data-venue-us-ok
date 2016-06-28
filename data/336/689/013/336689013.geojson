@@ -2,13 +2,14 @@
   "id": 336689013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.450365,35.261993,-97.450365,35.261993",
     "geom:latitude":35.261993,
     "geom:longitude":-97.450365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 W Tecumseh Rd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336689013,
-    "wof:lastmodified":1448997853,
+    "wof:lastmodified":1466763552,
     "wof:name":"Flame Control Inc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-97.450365,35.261993,-97.450365,35.261993],
-  "geometry": {"coordinates":[-97.450365,35.261993],"type":"Point"}
+  "bbox": [
+    -97.450365,
+    35.261993,
+    -97.450365,
+    35.261993
+],
+  "geometry": {"coordinates":[-97.45036500000001,35.261993],"type":"Point"}
 }

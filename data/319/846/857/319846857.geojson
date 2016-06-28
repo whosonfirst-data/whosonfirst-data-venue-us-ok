@@ -2,13 +2,14 @@
   "id": 319846857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.339477,35.742369,-95.339477,35.742369",
     "geom:latitude":35.742369,
     "geom:longitude":-95.339477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 Elliot St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319846857,
-    "wof:lastmodified":1449024713,
+    "wof:lastmodified":1466763122,
     "wof:name":"Cox Communications",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-95.339477,35.742369,-95.339477,35.742369],
+  "bbox": [
+    -95.339477,
+    35.742369,
+    -95.339477,
+    35.742369
+],
   "geometry": {"coordinates":[-95.339477,35.742369],"type":"Point"}
 }

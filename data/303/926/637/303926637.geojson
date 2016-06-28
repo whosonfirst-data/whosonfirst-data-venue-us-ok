@@ -2,13 +2,14 @@
   "id": 303926637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.610061,35.47878,-97.610061,35.47878",
     "geom:latitude":35.47878,
     "geom:longitude":-97.610061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 NW 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303926637,
-    "wof:lastmodified":1448998969,
+    "wof:lastmodified":1466767088,
     "wof:name":"Compliance Resource Group Inc",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drug"
     ]
 },
-  "bbox": [-97.610061,35.47878,-97.610061,35.47878],
+  "bbox": [
+    -97.610061,
+    35.47878,
+    -97.610061,
+    35.47878
+],
   "geometry": {"coordinates":[-97.610061,35.47878],"type":"Point"}
 }

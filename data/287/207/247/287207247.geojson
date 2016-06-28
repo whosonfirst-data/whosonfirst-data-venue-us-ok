@@ -2,13 +2,14 @@
   "id": 287207247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.963084,36.140652,-95.963084,36.140652",
     "geom:latitude":36.140652,
     "geom:longitude":-95.963084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1875 E 15th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287207247,
-    "wof:lastmodified":1449001302,
+    "wof:lastmodified":1466764031,
     "wof:name":"Kappa Kappa Iota National",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.963084,36.140652,-95.963084,36.140652],
-  "geometry": {"coordinates":[-95.963084,36.140652],"type":"Point"}
+  "bbox": [
+    -95.963084,
+    36.140652,
+    -95.963084,
+    36.140652
+],
+  "geometry": {"coordinates":[-95.96308399999999,36.140652],"type":"Point"}
 }

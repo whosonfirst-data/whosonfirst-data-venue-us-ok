@@ -2,13 +2,14 @@
   "id": 353671879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.978591,36.155629,-95.978591,36.155629",
     "geom:latitude":36.155629,
     "geom:longitude":-95.978591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 E 4th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353671879,
-    "wof:lastmodified":1449018835,
+    "wof:lastmodified":1466764730,
     "wof:name":"Fourth Street Auto Svc",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-95.978591,36.155629,-95.978591,36.155629],
-  "geometry": {"coordinates":[-95.978591,36.155629],"type":"Point"}
+  "bbox": [
+    -95.978591,
+    36.155629,
+    -95.978591,
+    36.155629
+],
+  "geometry": {"coordinates":[-95.97859099999999,36.155629],"type":"Point"}
 }

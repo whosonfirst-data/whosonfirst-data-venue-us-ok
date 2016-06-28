@@ -2,13 +2,14 @@
   "id": 337513071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.7515,34.619728,-98.7515,34.619728",
     "geom:latitude":34.619728,
     "geom:longitude":-98.7515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Main St",
     "sg:city":"Indiahoma",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337513071,
-    "wof:lastmodified":1449027492,
+    "wof:lastmodified":1466762719,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.7515,34.619728,-98.7515,34.619728],
-  "geometry": {"coordinates":[-98.7515,34.619728],"type":"Point"}
+  "bbox": [
+    -98.7515,
+    34.619728,
+    -98.7515,
+    34.619728
+],
+  "geometry": {"coordinates":[-98.75149999999999,34.619728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303629819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.957263,34.508369,-97.957263,34.508369",
     "geom:latitude":34.508369,
     "geom:longitude":-97.957263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 W Hickory Ave",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303629819,
-    "wof:lastmodified":1448999989,
+    "wof:lastmodified":1466766312,
     "wof:name":"I Wish I Knew",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.957263,34.508369,-97.957263,34.508369],
+  "bbox": [
+    -97.957263,
+    34.508369,
+    -97.957263,
+    34.508369
+],
   "geometry": {"coordinates":[-97.957263,34.508369],"type":"Point"}
 }

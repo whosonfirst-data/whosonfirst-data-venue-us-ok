@@ -2,13 +2,14 @@
   "id": 303452571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.716968,35.531077,-98.716968,35.531077",
     "geom:latitude":35.531077,
     "geom:longitude":-98.716968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 N 3rd St",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303452571,
-    "wof:lastmodified":1448998688,
+    "wof:lastmodified":1466765668,
     "wof:name":"Dwayne Hamburger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-98.716968,35.531077,-98.716968,35.531077],
-  "geometry": {"coordinates":[-98.716968,35.531077],"type":"Point"}
+  "bbox": [
+    -98.716968,
+    35.531077,
+    -98.716968,
+    35.531077
+],
+  "geometry": {"coordinates":[-98.71696799999999,35.531077],"type":"Point"}
 }

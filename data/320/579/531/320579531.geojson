@@ -2,13 +2,14 @@
   "id": 320579531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.984481,36.184755,-95.984481,36.184755",
     "geom:latitude":36.184755,
     "geom:longitude":-95.984481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2171 N Hartford Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":320579531,
-    "wof:lastmodified":1449012459,
+    "wof:lastmodified":1466766246,
     "wof:name":"Edenwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.984481,36.184755,-95.984481,36.184755],
+  "bbox": [
+    -95.984481,
+    36.184755,
+    -95.984481,
+    36.184755
+],
   "geometry": {"coordinates":[-95.984481,36.184755],"type":"Point"}
 }

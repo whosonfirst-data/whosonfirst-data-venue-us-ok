@@ -2,13 +2,14 @@
   "id": 304064377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805633,36.3379,-96.805633,36.3379",
     "geom:latitude":36.3379,
     "geom:longitude":-96.805633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Harrison St",
     "sg:city":"Pawnee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304064377,
-    "wof:lastmodified":1449043760,
+    "wof:lastmodified":1466763194,
     "wof:name":"Creative Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.805633,36.3379,-96.805633,36.3379],
+  "bbox": [
+    -96.805633,
+    36.3379,
+    -96.805633,
+    36.3379
+],
   "geometry": {"coordinates":[-96.805633,36.3379],"type":"Point"}
 }

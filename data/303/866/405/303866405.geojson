@@ -2,13 +2,14 @@
   "id": 303866405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.756082,34.929862,-95.756082,34.929862",
     "geom:latitude":34.929862,
     "geom:longitude":-95.756082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 E Carl Albert Pkwy",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303866405,
-    "wof:lastmodified":1448999284,
+    "wof:lastmodified":1466766892,
     "wof:name":"Munlake Contractors",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.756082,34.929862,-95.756082,34.929862],
-  "geometry": {"coordinates":[-95.756082,34.929862],"type":"Point"}
+  "bbox": [
+    -95.756082,
+    34.929862,
+    -95.756082,
+    34.929862
+],
+  "geometry": {"coordinates":[-95.75608200000001,34.929862],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353817421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.161639,34.647143,-97.161639,34.647143",
     "geom:latitude":34.647143,
     "geom:longitude":-97.161639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 E Colbert St",
     "sg:city":"Wynnewood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353817421,
-    "wof:lastmodified":1449020324,
+    "wof:lastmodified":1466765301,
     "wof:name":"Housing Authority of Wynnewood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "authority"
     ]
 },
-  "bbox": [-97.161639,34.647143,-97.161639,34.647143],
-  "geometry": {"coordinates":[-97.161639,34.647143],"type":"Point"}
+  "bbox": [
+    -97.161639,
+    34.647143,
+    -97.161639,
+    34.647143
+],
+  "geometry": {"coordinates":[-97.16163899999999,34.647143],"type":"Point"}
 }

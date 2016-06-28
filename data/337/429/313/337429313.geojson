@@ -2,13 +2,14 @@
   "id": 337429313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.979217,36.749038,-95.979217,36.749038",
     "geom:latitude":36.749038,
     "geom:longitude":-95.979217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Keeler Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337429313,
-    "wof:lastmodified":1449027695,
+    "wof:lastmodified":1466764131,
     "wof:name":"Eakin Exploration Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "exploration"
     ]
 },
-  "bbox": [-95.979217,36.749038,-95.979217,36.749038],
-  "geometry": {"coordinates":[-95.979217,36.749038],"type":"Point"}
+  "bbox": [
+    -95.979217,
+    36.749038,
+    -95.979217,
+    36.749038
+],
+  "geometry": {"coordinates":[-95.97921700000001,36.749038],"type":"Point"}
 }

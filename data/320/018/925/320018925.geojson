@@ -2,13 +2,14 @@
   "id": 320018925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.39185,35.449669,-97.39185,35.449669",
     "geom:latitude":35.449669,
     "geom:longitude":-97.39185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 N Key Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320018925,
-    "wof:lastmodified":1449013121,
+    "wof:lastmodified":1466762564,
     "wof:name":"Key Highlander Center Laundry",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-97.39185,35.449669,-97.39185,35.449669],
-  "geometry": {"coordinates":[-97.39185,35.449669],"type":"Point"}
+  "bbox": [
+    -97.39185,
+    35.449669,
+    -97.39185,
+    35.449669
+],
+  "geometry": {"coordinates":[-97.39185000000001,35.449669],"type":"Point"}
 }

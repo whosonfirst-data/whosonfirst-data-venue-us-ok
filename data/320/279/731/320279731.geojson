@@ -2,13 +2,14 @@
   "id": 320279731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.309221,34.357811,-98.309221,34.357811",
     "geom:latitude":34.357811,
     "geom:longitude":-98.309221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 S Broadway St",
     "sg:city":"Walters",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320279731,
-    "wof:lastmodified":1449012970,
+    "wof:lastmodified":1466764959,
     "wof:name":"Lyons Drug & Gift",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gift"
     ]
 },
-  "bbox": [-98.309221,34.357811,-98.309221,34.357811],
-  "geometry": {"coordinates":[-98.309221,34.357811],"type":"Point"}
+  "bbox": [
+    -98.309221,
+    34.357811,
+    -98.309221,
+    34.357811
+],
+  "geometry": {"coordinates":[-98.30922099999999,34.357811],"type":"Point"}
 }

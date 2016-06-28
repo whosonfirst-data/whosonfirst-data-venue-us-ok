@@ -2,13 +2,14 @@
   "id": 303570443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.900247,36.094487,-95.900247,36.094487",
     "geom:latitude":36.094487,
     "geom:longitude":-95.900247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4714 S 69th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303570443,
-    "wof:lastmodified":1448999570,
+    "wof:lastmodified":1466766105,
     "wof:name":"Larry Waid",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting"
     ]
 },
-  "bbox": [-95.900247,36.094487,-95.900247,36.094487],
-  "geometry": {"coordinates":[-95.900247,36.094487],"type":"Point"}
+  "bbox": [
+    -95.900247,
+    36.094487,
+    -95.900247,
+    36.094487
+],
+  "geometry": {"coordinates":[-95.90024699999999,36.094487],"type":"Point"}
 }

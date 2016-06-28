@@ -2,13 +2,14 @@
   "id": 336677403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.520867,35.493311,-97.520867,35.493311",
     "geom:latitude":35.493311,
     "geom:longitude":-97.520867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 NW 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -66,16 +67,22 @@
         }
     ],
     "wof:id":336677403,
-    "wof:lastmodified":1448997319,
+    "wof:lastmodified":1466763374,
     "wof:name":"23rd Street Body Piercing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-97.520867,35.493311,-97.520867,35.493311],
+  "bbox": [
+    -97.520867,
+    35.493311,
+    -97.520867,
+    35.493311
+],
   "geometry": {"coordinates":[-97.520867,35.493311],"type":"Point"}
 }

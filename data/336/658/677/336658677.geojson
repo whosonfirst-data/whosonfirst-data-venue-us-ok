@@ -2,13 +2,14 @@
   "id": 336658677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.43304,35.256069,-97.43304,35.256069",
     "geom:latitude":35.256069,
     "geom:longitude":-97.43304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 Elmcrest Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336658677,
-    "wof:lastmodified":1448996899,
+    "wof:lastmodified":1466763085,
     "wof:name":"Jeffs Vending",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-97.43304,35.256069,-97.43304,35.256069],
-  "geometry": {"coordinates":[-97.43304,35.256069],"type":"Point"}
+  "bbox": [
+    -97.43304,
+    35.256069,
+    -97.43304,
+    35.256069
+],
+  "geometry": {"coordinates":[-97.43304000000001,35.256069],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353757757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.447229,35.458151,-97.447229,35.458151",
     "geom:latitude":35.458151,
     "geom:longitude":-97.447229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3928 E Fairview St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353757757,
-    "wof:lastmodified":1449019694,
+    "wof:lastmodified":1466765028,
     "wof:name":"Accurate Electronic Billing",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "billing"
     ]
 },
-  "bbox": [-97.447229,35.458151,-97.447229,35.458151],
-  "geometry": {"coordinates":[-97.447229,35.458151],"type":"Point"}
+  "bbox": [
+    -97.447229,
+    35.458151,
+    -97.447229,
+    35.458151
+],
+  "geometry": {"coordinates":[-97.44722899999999,35.458151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353955479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.638359,35.434396,-97.638359,35.434396",
     "geom:latitude":35.434396,
     "geom:longitude":-97.638359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Gilson Way",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353955479,
-    "wof:lastmodified":1449020014,
+    "wof:lastmodified":1466765844,
     "wof:name":"Ulti-Max Power Generators",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "generator"
     ]
 },
-  "bbox": [-97.638359,35.434396,-97.638359,35.434396],
-  "geometry": {"coordinates":[-97.638359,35.434396],"type":"Point"}
+  "bbox": [
+    -97.638359,
+    35.434396,
+    -97.638359,
+    35.434396
+],
+  "geometry": {"coordinates":[-97.63835899999999,35.434396],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303166903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.915852,36.191788,-95.915852,36.191788",
     "geom:latitude":36.191788,
     "geom:longitude":-95.915852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 N Erie Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303166903,
-    "wof:lastmodified":1448999485,
+    "wof:lastmodified":1466764288,
     "wof:name":"Walden's Machine Inc",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shop"
     ]
 },
-  "bbox": [-95.915852,36.191788,-95.915852,36.191788],
+  "bbox": [
+    -95.915852,
+    36.191788,
+    -95.915852,
+    36.191788
+],
   "geometry": {"coordinates":[-95.915852,36.191788],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303315185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.895686,36.131629,-95.895686,36.131629",
     "geom:latitude":36.131629,
     "geom:longitude":-95.895686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2182 S 73rd East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":303315185,
-    "wof:lastmodified":1449000436,
+    "wof:lastmodified":1466765012,
     "wof:name":"Mac Arthur Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.895686,36.131629,-95.895686,36.131629],
+  "bbox": [
+    -95.895686,
+    36.131629,
+    -95.895686,
+    36.131629
+],
   "geometry": {"coordinates":[-95.895686,36.131629],"type":"Point"}
 }

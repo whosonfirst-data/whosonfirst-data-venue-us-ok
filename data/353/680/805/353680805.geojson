@@ -2,13 +2,14 @@
   "id": 353680805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.212319,35.491037,-97.212319,35.491037",
     "geom:latitude":35.491037,
     "geom:longitude":-97.212319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 N Peebly Rd",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353680805,
-    "wof:lastmodified":1449020031,
+    "wof:lastmodified":1466764693,
     "wof:name":"Waner Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.212319,35.491037,-97.212319,35.491037],
-  "geometry": {"coordinates":[-97.212319,35.491037],"type":"Point"}
+  "bbox": [
+    -97.212319,
+    35.491037,
+    -97.212319,
+    35.491037
+],
+  "geometry": {"coordinates":[-97.21231899999999,35.491037],"type":"Point"}
 }

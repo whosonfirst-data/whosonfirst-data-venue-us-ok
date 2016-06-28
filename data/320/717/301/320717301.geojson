@@ -2,13 +2,14 @@
   "id": 320717301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.439886,35.45597,-97.439886,35.45597",
     "geom:latitude":35.45597,
     "geom:longitude":-97.439886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 Vfw Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320717301,
-    "wof:lastmodified":1449011356,
+    "wof:lastmodified":1466766587,
     "wof:name":"Veterans Of Foreign Wars 9969",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-97.439886,35.45597,-97.439886,35.45597],
+  "bbox": [
+    -97.439886,
+    35.45597,
+    -97.439886,
+    35.45597
+],
   "geometry": {"coordinates":[-97.439886,35.45597],"type":"Point"}
 }

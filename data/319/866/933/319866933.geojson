@@ -2,13 +2,14 @@
   "id": 319866933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.599843,35.218452,-97.599843,35.218452",
     "geom:latitude":35.218452,
     "geom:longitude":-97.599843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 SE 24th St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319866933,
-    "wof:lastmodified":1449024453,
+    "wof:lastmodified":1466763335,
     "wof:name":"Chickasaw Travel Plaza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-97.599843,35.218452,-97.599843,35.218452],
-  "geometry": {"coordinates":[-97.599843,35.218452],"type":"Point"}
+  "bbox": [
+    -97.599843,
+    35.218452,
+    -97.599843,
+    35.218452
+],
+  "geometry": {"coordinates":[-97.59984300000001,35.218452],"type":"Point"}
 }

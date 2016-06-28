@@ -2,13 +2,14 @@
   "id": 336830065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.284166,36.804203,-97.284166,36.804203",
     "geom:latitude":36.804203,
     "geom:longitude":-97.284166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S 1st St",
     "sg:city":"Blackwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336830065,
-    "wof:lastmodified":1448997178,
+    "wof:lastmodified":1466764923,
     "wof:name":"Mary's Cut Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.284166,36.804203,-97.284166,36.804203],
+  "bbox": [
+    -97.284166,
+    36.804203,
+    -97.284166,
+    36.804203
+],
   "geometry": {"coordinates":[-97.284166,36.804203],"type":"Point"}
 }

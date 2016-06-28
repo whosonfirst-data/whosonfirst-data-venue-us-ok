@@ -2,13 +2,14 @@
   "id": 353555897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.351272,35.463981,-97.351272,35.463981",
     "geom:latitude":35.463981,
     "geom:longitude":-97.351272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10020 E Reno Ave",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353555897,
-    "wof:lastmodified":1449020449,
+    "wof:lastmodified":1466763947,
     "wof:name":"Kelso Electric",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.351272,35.463981,-97.351272,35.463981],
-  "geometry": {"coordinates":[-97.351272,35.463981],"type":"Point"}
+  "bbox": [
+    -97.351272,
+    35.463981,
+    -97.351272,
+    35.463981
+],
+  "geometry": {"coordinates":[-97.35127199999999,35.463981],"type":"Point"}
 }

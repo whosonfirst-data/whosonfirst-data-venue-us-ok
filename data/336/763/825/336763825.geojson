@@ -2,13 +2,14 @@
   "id": 336763825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.385609,34.621951,-98.385609,34.621951",
     "geom:latitude":34.621951,
     "geom:longitude":-98.385609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 NE Lawrie Tatum Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336763825,
-    "wof:lastmodified":1448998007,
+    "wof:lastmodified":1466764368,
     "wof:name":"US Public Health Svc Indian",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.385609,34.621951,-98.385609,34.621951],
+  "bbox": [
+    -98.385609,
+    34.621951,
+    -98.385609,
+    34.621951
+],
   "geometry": {"coordinates":[-98.385609,34.621951],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320692453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.586537,35.51116,-97.586537,35.51116",
     "geom:latitude":35.51116,
     "geom:longitude":-97.586537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3820 NW 39th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320692453,
-    "wof:lastmodified":1449012248,
+    "wof:lastmodified":1466766536,
     "wof:name":"Sammy's Wrecker Svc",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.586537,35.51116,-97.586537,35.51116],
-  "geometry": {"coordinates":[-97.586537,35.51116],"type":"Point"}
+  "bbox": [
+    -97.586537,
+    35.51116,
+    -97.586537,
+    35.51116
+],
+  "geometry": {"coordinates":[-97.58653700000001,35.51116],"type":"Point"}
 }

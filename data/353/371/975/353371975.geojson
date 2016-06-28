@@ -2,13 +2,14 @@
   "id": 353371975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.539043,35.470803,-97.539043,35.470803",
     "geom:latitude":35.470803,
     "geom:longitude":-97.539043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 N Blackwelder Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353371975,
-    "wof:lastmodified":1449020260,
+    "wof:lastmodified":1466762289,
     "wof:name":"Holy Angels",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.539043,35.470803,-97.539043,35.470803],
-  "geometry": {"coordinates":[-97.539043,35.470803],"type":"Point"}
+  "bbox": [
+    -97.539043,
+    35.470803,
+    -97.539043,
+    35.470803
+],
+  "geometry": {"coordinates":[-97.53904300000001,35.470803],"type":"Point"}
 }

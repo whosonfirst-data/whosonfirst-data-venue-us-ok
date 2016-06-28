@@ -2,13 +2,14 @@
   "id": 336720661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.323384,35.252389,-97.323384,35.252389",
     "geom:latitude":35.252389,
     "geom:longitude":-97.323384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 80th Ave NE",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336720661,
-    "wof:lastmodified":1448997208,
+    "wof:lastmodified":1466764038,
     "wof:name":"Residential Foundations Inc",
     "wof:parent_id":85814357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.323384,35.252389,-97.323384,35.252389],
+  "bbox": [
+    -97.323384,
+    35.252389,
+    -97.323384,
+    35.252389
+],
   "geometry": {"coordinates":[-97.323384,35.252389],"type":"Point"}
 }

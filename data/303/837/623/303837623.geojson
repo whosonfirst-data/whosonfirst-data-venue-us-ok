@@ -2,13 +2,14 @@
   "id": 303837623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.765825,35.455812,-94.765825,35.455812",
     "geom:latitude":35.455812,
     "geom:longitude":-94.765825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Jenkins St",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303837623,
-    "wof:lastmodified":1448998502,
+    "wof:lastmodified":1466766800,
     "wof:name":"Turner Chiropractic & Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.765825,35.455812,-94.765825,35.455812],
-  "geometry": {"coordinates":[-94.765825,35.455812],"type":"Point"}
+  "bbox": [
+    -94.765825,
+    35.455812,
+    -94.765825,
+    35.455812
+],
+  "geometry": {"coordinates":[-94.76582500000001,35.455812],"type":"Point"}
 }

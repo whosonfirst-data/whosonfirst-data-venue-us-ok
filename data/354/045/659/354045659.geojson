@@ -2,13 +2,14 @@
   "id": 354045659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.702233,35.527178,-98.702233,35.527178",
     "geom:latitude":35.527178,
     "geom:longitude":-98.702233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 E Franklin Ave",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354045659,
-    "wof:lastmodified":1449067471,
+    "wof:lastmodified":1466763258,
     "wof:name":"Southwestern Memorial Hosp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-98.702233,35.527178,-98.702233,35.527178],
-  "geometry": {"coordinates":[-98.702233,35.527178],"type":"Point"}
+  "bbox": [
+    -98.702233,
+    35.527178,
+    -98.702233,
+    35.527178
+],
+  "geometry": {"coordinates":[-98.70223300000001,35.527178],"type":"Point"}
 }

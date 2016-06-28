@@ -2,13 +2,14 @@
   "id": 320189241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.972008,36.750476,-95.972008,36.750476",
     "geom:latitude":36.750476,
     "geom:longitude":-95.972008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 SE Delaware Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320189241,
-    "wof:lastmodified":1449013902,
+    "wof:lastmodified":1466764445,
     "wof:name":"Dr William E Lee Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.972008,36.750476,-95.972008,36.750476],
+  "bbox": [
+    -95.972008,
+    36.750476,
+    -95.972008,
+    36.750476
+],
   "geometry": {"coordinates":[-95.972008,36.750476],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353761541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.853768,36.06081,-95.853768,36.06081",
     "geom:latitude":36.06081,
     "geom:longitude":-95.853768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11214 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353761541,
-    "wof:lastmodified":1449020205,
+    "wof:lastmodified":1466765154,
     "wof:name":"Bank Of Oklahoma",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.853768,36.06081,-95.853768,36.06081],
+  "bbox": [
+    -95.853768,
+    36.06081,
+    -95.853768,
+    36.06081
+],
   "geometry": {"coordinates":[-95.853768,36.06081],"type":"Point"}
 }

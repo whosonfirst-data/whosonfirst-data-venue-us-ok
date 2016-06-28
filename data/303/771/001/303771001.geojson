@@ -2,13 +2,14 @@
   "id": 303771001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.513288,35.418406,-94.513288,35.418406",
     "geom:latitude":35.418406,
     "geom:longitude":-94.513288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 S Roland Rd",
     "sg:city":"Roland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303771001,
-    "wof:lastmodified":1448999446,
+    "wof:lastmodified":1466766788,
     "wof:name":"Roland Water Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-94.513288,35.418406,-94.513288,35.418406],
+  "bbox": [
+    -94.513288,
+    35.418406,
+    -94.513288,
+    35.418406
+],
   "geometry": {"coordinates":[-94.513288,35.418406],"type":"Point"}
 }

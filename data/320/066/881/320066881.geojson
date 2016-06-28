@@ -2,13 +2,14 @@
   "id": 320066881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.675328,34.229035,-96.675328,34.229035",
     "geom:latitude":34.229035,
     "geom:longitude":-96.675328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 S Byrd St",
     "sg:city":"Tishomingo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320066881,
-    "wof:lastmodified":1449012353,
+    "wof:lastmodified":1466763278,
     "wof:name":"Red River Rehab Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-96.675328,34.229035,-96.675328,34.229035],
-  "geometry": {"coordinates":[-96.675328,34.229035],"type":"Point"}
+  "bbox": [
+    -96.675328,
+    34.229035,
+    -96.675328,
+    34.229035
+],
+  "geometry": {"coordinates":[-96.67532799999999,34.229035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303477659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.111882,36.002847,-96.111882,36.002847",
     "geom:latitude":36.002847,
     "geom:longitude":-96.111882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E Line Ave",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303477659,
-    "wof:lastmodified":1448998538,
+    "wof:lastmodified":1466765750,
     "wof:name":"Northside Nursing Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-96.111882,36.002847,-96.111882,36.002847],
-  "geometry": {"coordinates":[-96.111882,36.002847],"type":"Point"}
+  "bbox": [
+    -96.111882,
+    36.002847,
+    -96.111882,
+    36.002847
+],
+  "geometry": {"coordinates":[-96.11188199999999,36.002847],"type":"Point"}
 }

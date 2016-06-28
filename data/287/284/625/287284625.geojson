@@ -2,13 +2,14 @@
   "id": 287284625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.59641,35.493241,-97.59641,35.493241",
     "geom:latitude":35.493241,
     "geom:longitude":-97.59641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4211 NW 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287284625,
-    "wof:lastmodified":1449001216,
+    "wof:lastmodified":1466763200,
     "wof:name":"Corporate Golf & Gift",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.59641,35.493241,-97.59641,35.493241],
-  "geometry": {"coordinates":[-97.59641,35.493241],"type":"Point"}
+  "bbox": [
+    -97.59641,
+    35.493241,
+    -97.59641,
+    35.493241
+],
+  "geometry": {"coordinates":[-97.59641000000001,35.493241],"type":"Point"}
 }

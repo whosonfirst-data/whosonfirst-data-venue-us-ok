@@ -2,13 +2,14 @@
   "id": 320721747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.618876,35.515267,-97.618876,35.515267",
     "geom:latitude":35.515267,
     "geom:longitude":-97.618876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320721747,
-    "wof:lastmodified":1449014956,
+    "wof:lastmodified":1466766598,
     "wof:name":"Macarthur Park Apartments",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "secondary"
     ]
 },
-  "bbox": [-97.618876,35.515267,-97.618876,35.515267],
+  "bbox": [
+    -97.618876,
+    35.515267,
+    -97.618876,
+    35.515267
+],
   "geometry": {"coordinates":[-97.618876,35.515267],"type":"Point"}
 }

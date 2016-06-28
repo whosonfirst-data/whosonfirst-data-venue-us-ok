@@ -2,13 +2,14 @@
   "id": 354050121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.554537,35.430025,-97.554537,35.430025",
     "geom:latitude":35.430025,
     "geom:longitude":-97.554537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3416 S Agnew Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354050121,
-    "wof:lastmodified":1449066881,
+    "wof:lastmodified":1466763281,
     "wof:name":"Agnew Grocery",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.554537,35.430025,-97.554537,35.430025],
+  "bbox": [
+    -97.554537,
+    35.430025,
+    -97.554537,
+    35.430025
+],
   "geometry": {"coordinates":[-97.554537,35.430025],"type":"Point"}
 }

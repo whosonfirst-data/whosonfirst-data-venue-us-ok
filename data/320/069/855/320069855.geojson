@@ -2,13 +2,14 @@
   "id": 320069855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.338258,35.727874,-95.338258,35.727874",
     "geom:latitude":35.727874,
     "geom:longitude":-95.338258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Foxcroft Cir",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320069855,
-    "wof:lastmodified":1449013618,
+    "wof:lastmodified":1466763321,
     "wof:name":"Foxcroft Villa Apartments",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.338258,35.727874,-95.338258,35.727874],
+  "bbox": [
+    -95.338258,
+    35.727874,
+    -95.338258,
+    35.727874
+],
   "geometry": {"coordinates":[-95.338258,35.727874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303825103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.863692,36.395525,-97.863692,36.395525",
     "geom:latitude":36.395525,
     "geom:longitude":-97.863692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 E Maine St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303825103,
-    "wof:lastmodified":1448998213,
+    "wof:lastmodified":1466766851,
     "wof:name":"East Main Conoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-97.863692,36.395525,-97.863692,36.395525],
+  "bbox": [
+    -97.863692,
+    36.395525,
+    -97.863692,
+    36.395525
+],
   "geometry": {"coordinates":[-97.863692,36.395525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220175225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.973542,36.082079,-95.973542,36.082079",
     "geom:latitude":36.082079,
     "geom:longitude":-95.973542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5623 S Quincy Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220175225,
-    "wof:lastmodified":1449074610,
+    "wof:lastmodified":1466762338,
     "wof:name":"Ka Properties",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "park"
     ]
 },
-  "bbox": [-95.973542,36.082079,-95.973542,36.082079],
-  "geometry": {"coordinates":[-95.973542,36.082079],"type":"Point"}
+  "bbox": [
+    -95.973542,
+    36.082079,
+    -95.973542,
+    36.082079
+],
+  "geometry": {"coordinates":[-95.97354199999999,36.082079],"type":"Point"}
 }

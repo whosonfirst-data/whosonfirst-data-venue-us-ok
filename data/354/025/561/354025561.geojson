@@ -2,13 +2,14 @@
   "id": 354025561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531082,35.489031,-97.531082,35.489031",
     "geom:latitude":35.489031,
     "geom:longitude":-97.531082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354025561,
-    "wof:lastmodified":1449067374,
+    "wof:lastmodified":1466763105,
     "wof:name":"Russell's Barber Shop",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.531082,35.489031,-97.531082,35.489031],
+  "bbox": [
+    -97.531082,
+    35.489031,
+    -97.531082,
+    35.489031
+],
   "geometry": {"coordinates":[-97.531082,35.489031],"type":"Point"}
 }

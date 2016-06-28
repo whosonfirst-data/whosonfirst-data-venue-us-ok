@@ -2,13 +2,14 @@
   "id": 320657497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77276,35.981385,-96.77276,35.981385",
     "geom:latitude":35.981385,
     "geom:longitude":-96.77276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 N Cleveland Ave",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320657497,
-    "wof:lastmodified":1449011666,
+    "wof:lastmodified":1466766415,
     "wof:name":"Aqua Pleasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "tub"
     ]
 },
-  "bbox": [-96.77276,35.981385,-96.77276,35.981385],
-  "geometry": {"coordinates":[-96.77276,35.981385],"type":"Point"}
+  "bbox": [
+    -96.77276,
+    35.981385,
+    -96.77276,
+    35.981385
+],
+  "geometry": {"coordinates":[-96.77276000000001,35.981385],"type":"Point"}
 }

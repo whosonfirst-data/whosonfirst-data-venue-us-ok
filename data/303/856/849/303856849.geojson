@@ -2,13 +2,14 @@
   "id": 303856849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.976346,34.556819,-97.976346,34.556819",
     "geom:latitude":34.556819,
     "geom:longitude":-97.976346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4710 Copperwood St",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303856849,
-    "wof:lastmodified":1448998804,
+    "wof:lastmodified":1466766853,
     "wof:name":"Mitchell Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.976346,34.556819,-97.976346,34.556819],
-  "geometry": {"coordinates":[-97.976346,34.556819],"type":"Point"}
+  "bbox": [
+    -97.976346,
+    34.556819,
+    -97.976346,
+    34.556819
+],
+  "geometry": {"coordinates":[-97.97634600000001,34.556819],"type":"Point"}
 }

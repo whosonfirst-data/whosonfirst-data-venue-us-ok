@@ -2,13 +2,14 @@
   "id": 354107443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.562244,35.598137,-97.562244,35.598137",
     "geom:latitude":35.598137,
     "geom:longitude":-97.562244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Indian Creek Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354107443,
-    "wof:lastmodified":1449065936,
+    "wof:lastmodified":1466763535,
     "wof:name":"Aspen Place Apartments",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.562244,35.598137,-97.562244,35.598137],
-  "geometry": {"coordinates":[-97.562244,35.598137],"type":"Point"}
+  "bbox": [
+    -97.562244,
+    35.598137,
+    -97.562244,
+    35.598137
+],
+  "geometry": {"coordinates":[-97.56224400000001,35.598137],"type":"Point"}
 }

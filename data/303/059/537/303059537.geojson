@@ -2,13 +2,14 @@
   "id": 303059537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.945769,35.260531,-96.945769,35.260531",
     "geom:latitude":35.260531,
     "geom:longitude":-96.945769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 N 11th St",
     "sg:city":"Tecumseh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303059537,
-    "wof:lastmodified":1448998780,
+    "wof:lastmodified":1466762574,
     "wof:name":"Tom T Pruitt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.945769,35.260531,-96.945769,35.260531],
+  "bbox": [
+    -96.945769,
+    35.260531,
+    -96.945769,
+    35.260531
+],
   "geometry": {"coordinates":[-96.945769,35.260531],"type":"Point"}
 }

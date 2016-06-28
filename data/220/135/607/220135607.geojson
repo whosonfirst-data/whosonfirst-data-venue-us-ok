@@ -2,13 +2,14 @@
   "id": 220135607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.509639,35.66748,-97.509639,35.66748",
     "geom:latitude":35.66748,
     "geom:longitude":-97.509639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 W Danforth Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220135607,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466762809,
     "wof:name":"Papa Murphy's",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "pizza"
     ]
 },
-  "bbox": [-97.509639,35.66748,-97.509639,35.66748],
-  "geometry": {"coordinates":[-97.509639,35.66748],"type":"Point"}
+  "bbox": [
+    -97.509639,
+    35.66748,
+    -97.509639,
+    35.66748
+],
+  "geometry": {"coordinates":[-97.50963900000001,35.66748],"type":"Point"}
 }

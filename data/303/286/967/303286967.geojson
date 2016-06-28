@@ -2,13 +2,14 @@
   "id": 303286967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.384163,33.996876,-96.384163,33.996876",
     "geom:latitude":33.996876,
     "geom:longitude":-96.384163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 N 9th Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303286967,
-    "wof:lastmodified":1448998755,
+    "wof:lastmodified":1466765008,
     "wof:name":"Oklahoma Farmer's Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audit"
     ]
 },
-  "bbox": [-96.384163,33.996876,-96.384163,33.996876],
+  "bbox": [
+    -96.384163,
+    33.996876,
+    -96.384163,
+    33.996876
+],
   "geometry": {"coordinates":[-96.384163,33.996876],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336824365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.51522,35.474074,-97.51522,35.474074",
     "geom:latitude":35.474074,
     "geom:longitude":-97.51522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 NW 6th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336824365,
-    "wof:lastmodified":1448997308,
+    "wof:lastmodified":1466764901,
     "wof:name":"Oklahoma City Firefighters",
     "wof:parent_id":85871687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.51522,35.474074,-97.51522,35.474074],
+  "bbox": [
+    -97.51522,
+    35.474074,
+    -97.51522,
+    35.474074
+],
   "geometry": {"coordinates":[-97.51522,35.474074],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303276277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.943176,35.527761,-97.943176,35.527761",
     "geom:latitude":35.527761,
     "geom:longitude":-97.943176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 E Jenkins St",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303276277,
-    "wof:lastmodified":1448998206,
+    "wof:lastmodified":1466764836,
     "wof:name":"Oneida Beauty Box",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.943176,35.527761,-97.943176,35.527761],
-  "geometry": {"coordinates":[-97.943176,35.527761],"type":"Point"}
+  "bbox": [
+    -97.943176,
+    35.527761,
+    -97.943176,
+    35.527761
+],
+  "geometry": {"coordinates":[-97.94317599999999,35.527761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303381111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.130415,36.14127,-96.130415,36.14127",
     "geom:latitude":36.14127,
     "geom:longitude":-96.130415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 Keystone Expy",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303381111,
-    "wof:lastmodified":1448998319,
+    "wof:lastmodified":1466765230,
     "wof:name":"Carder Plumbing Heating & Clng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.130415,36.14127,-96.130415,36.14127],
+  "bbox": [
+    -96.130415,
+    36.14127,
+    -96.130415,
+    36.14127
+],
   "geometry": {"coordinates":[-96.130415,36.14127],"type":"Point"}
 }

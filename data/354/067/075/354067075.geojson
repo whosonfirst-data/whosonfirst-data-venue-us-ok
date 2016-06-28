@@ -2,13 +2,14 @@
   "id": 354067075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.890952,36.839575,-94.890952,36.839575",
     "geom:latitude":36.839575,
     "geom:longitude":-94.890952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 23rd Ave SW",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354067075,
-    "wof:lastmodified":1449066043,
+    "wof:lastmodified":1466763373,
     "wof:name":"Real Estate and Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.890952,36.839575,-94.890952,36.839575],
+  "bbox": [
+    -94.890952,
+    36.839575,
+    -94.890952,
+    36.839575
+],
   "geometry": {"coordinates":[-94.890952,36.839575],"type":"Point"}
 }

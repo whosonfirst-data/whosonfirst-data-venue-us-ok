@@ -2,13 +2,14 @@
   "id": 220193405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.857864,36.147268,-95.857864,36.147268",
     "geom:latitude":36.147268,
     "geom:longitude":-95.857864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1136 S 107th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220193405,
-    "wof:lastmodified":1449074172,
+    "wof:lastmodified":1466762444,
     "wof:name":"Addco Electric Inc",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "electrician"
     ]
 },
-  "bbox": [-95.857864,36.147268,-95.857864,36.147268],
-  "geometry": {"coordinates":[-95.857864,36.147268],"type":"Point"}
+  "bbox": [
+    -95.857864,
+    36.147268,
+    -95.857864,
+    36.147268
+],
+  "geometry": {"coordinates":[-95.85786400000001,36.147268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320333421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.601113,35.486047,-97.601113,35.486047",
     "geom:latitude":35.486047,
     "geom:longitude":-97.601113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 N Meridian Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320333421,
-    "wof:lastmodified":1449014698,
+    "wof:lastmodified":1466765374,
     "wof:name":"Lark Battery",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-97.601113,35.486047,-97.601113,35.486047],
+  "bbox": [
+    -97.601113,
+    35.486047,
+    -97.601113,
+    35.486047
+],
   "geometry": {"coordinates":[-97.601113,35.486047],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303955085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.852292,36.083525,-95.852292,36.083525",
     "geom:latitude":36.083525,
     "geom:longitude":-95.852292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10934 E 55th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303955085,
-    "wof:lastmodified":1448999813,
+    "wof:lastmodified":1466767032,
     "wof:name":"Public Supply Co",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "replacement"
     ]
 },
-  "bbox": [-95.852292,36.083525,-95.852292,36.083525],
-  "geometry": {"coordinates":[-95.852292,36.083525],"type":"Point"}
+  "bbox": [
+    -95.852292,
+    36.083525,
+    -95.852292,
+    36.083525
+],
+  "geometry": {"coordinates":[-95.85229200000001,36.083525],"type":"Point"}
 }

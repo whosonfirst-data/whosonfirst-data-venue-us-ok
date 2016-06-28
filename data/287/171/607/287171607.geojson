@@ -2,13 +2,14 @@
   "id": 287171607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.476068,35.47866,-97.476068,35.47866",
     "geom:latitude":35.47866,
     "geom:longitude":-97.476068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2425 NE 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287171607,
-    "wof:lastmodified":1449001595,
+    "wof:lastmodified":1466763802,
     "wof:name":"Providence Apartments",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.476068,35.47866,-97.476068,35.47866],
+  "bbox": [
+    -97.476068,
+    35.47866,
+    -97.476068,
+    35.47866
+],
   "geometry": {"coordinates":[-97.476068,35.47866],"type":"Point"}
 }

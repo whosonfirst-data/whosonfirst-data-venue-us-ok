@@ -2,13 +2,14 @@
   "id": 303804185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.40595,36.436051,-99.40595,36.436051",
     "geom:latitude":36.436051,
     "geom:longitude":-99.40595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 Main Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303804185,
-    "wof:lastmodified":1448999818,
+    "wof:lastmodified":1466766727,
     "wof:name":"A Hair Divided",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.40595,36.436051,-99.40595,36.436051],
+  "bbox": [
+    -99.40595,
+    36.436051,
+    -99.40595,
+    36.436051
+],
   "geometry": {"coordinates":[-99.40595,36.436051],"type":"Point"}
 }

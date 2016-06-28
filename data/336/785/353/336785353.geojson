@@ -2,13 +2,14 @@
   "id": 336785353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904547,36.168003,-95.904547,36.168003",
     "geom:latitude":36.168003,
     "geom:longitude":-95.904547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 N Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336785353,
-    "wof:lastmodified":1448997848,
+    "wof:lastmodified":1466764695,
     "wof:name":"Sheridan Road Veterinary Clinc",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-95.904547,36.168003,-95.904547,36.168003],
-  "geometry": {"coordinates":[-95.904547,36.168003],"type":"Point"}
+  "bbox": [
+    -95.904547,
+    36.168003,
+    -95.904547,
+    36.168003
+],
+  "geometry": {"coordinates":[-95.90454699999999,36.168003],"type":"Point"}
 }

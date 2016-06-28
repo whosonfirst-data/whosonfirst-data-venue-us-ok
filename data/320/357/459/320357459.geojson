@@ -2,13 +2,14 @@
   "id": 320357459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.404209,35.365747,-99.404209,35.365747",
     "geom:latitude":35.365747,
     "geom:longitude":-99.404209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Fairway Dr",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320357459,
-    "wof:lastmodified":1449014506,
+    "wof:lastmodified":1466765435,
     "wof:name":"Needles Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-99.404209,35.365747,-99.404209,35.365747],
-  "geometry": {"coordinates":[-99.404209,35.365747],"type":"Point"}
+  "bbox": [
+    -99.404209,
+    35.365747,
+    -99.404209,
+    35.365747
+],
+  "geometry": {"coordinates":[-99.40420899999999,35.365747],"type":"Point"}
 }

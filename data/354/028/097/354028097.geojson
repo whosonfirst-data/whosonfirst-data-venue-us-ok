@@ -2,13 +2,14 @@
   "id": 354028097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.676858,34.774434,-96.676858,34.774434",
     "geom:latitude":34.774434,
     "geom:longitude":-96.676858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 E Main St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354028097,
-    "wof:lastmodified":1449066861,
+    "wof:lastmodified":1466763121,
     "wof:name":"River Bookstore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-96.676858,34.774434,-96.676858,34.774434],
+  "bbox": [
+    -96.676858,
+    34.774434,
+    -96.676858,
+    34.774434
+],
   "geometry": {"coordinates":[-96.676858,34.774434],"type":"Point"}
 }

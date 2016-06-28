@@ -2,13 +2,14 @@
   "id": 320329331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.792789,36.160663,-95.792789,36.160663",
     "geom:latitude":36.160663,
     "geom:longitude":-95.792789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16401 E Admiral Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320329331,
-    "wof:lastmodified":1449012296,
+    "wof:lastmodified":1466765361,
     "wof:name":"Main Auto Parts",
     "wof:parent_id":85831775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-95.792789,36.160663,-95.792789,36.160663],
+  "bbox": [
+    -95.792789,
+    36.160663,
+    -95.792789,
+    36.160663
+],
   "geometry": {"coordinates":[-95.792789,36.160663],"type":"Point"}
 }

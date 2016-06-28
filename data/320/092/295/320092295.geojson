@@ -2,13 +2,14 @@
   "id": 320092295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.984524,36.149101,-95.984524,36.149101",
     "geom:latitude":36.149101,
     "geom:longitude":-95.984524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 S Detroit Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320092295,
-    "wof:lastmodified":1449014260,
+    "wof:lastmodified":1466763655,
     "wof:name":"Detroit Avenue Properties",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-95.984524,36.149101,-95.984524,36.149101],
-  "geometry": {"coordinates":[-95.984524,36.149101],"type":"Point"}
+  "bbox": [
+    -95.984524,
+    36.149101,
+    -95.984524,
+    36.149101
+],
+  "geometry": {"coordinates":[-95.98452399999999,36.149101],"type":"Point"}
 }

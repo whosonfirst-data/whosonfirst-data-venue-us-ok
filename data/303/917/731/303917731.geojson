@@ -2,13 +2,14 @@
   "id": 303917731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.877215,36.883465,-96.877215,36.883465",
     "geom:latitude":36.883465,
     "geom:longitude":-96.877215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12460 E River Rd",
     "sg:city":"Kaw City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303917731,
-    "wof:lastmodified":1449000244,
+    "wof:lastmodified":1466766999,
     "wof:name":"Dobson Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.877215,36.883465,-96.877215,36.883465],
-  "geometry": {"coordinates":[-96.877215,36.883465],"type":"Point"}
+  "bbox": [
+    -96.877215,
+    36.883465,
+    -96.877215,
+    36.883465
+],
+  "geometry": {"coordinates":[-96.87721500000001,36.883465],"type":"Point"}
 }

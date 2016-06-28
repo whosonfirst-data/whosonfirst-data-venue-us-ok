@@ -2,13 +2,14 @@
   "id": 353829675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.098865,35.989505,-96.098865,35.989505",
     "geom:latitude":35.989505,
     "geom:longitude":-96.098865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 S Mission St",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353829675,
-    "wof:lastmodified":1449020626,
+    "wof:lastmodified":1466765337,
     "wof:name":"Rent Ready",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yard"
     ]
 },
-  "bbox": [-96.098865,35.989505,-96.098865,35.989505],
+  "bbox": [
+    -96.098865,
+    35.989505,
+    -96.098865,
+    35.989505
+],
   "geometry": {"coordinates":[-96.098865,35.989505],"type":"Point"}
 }

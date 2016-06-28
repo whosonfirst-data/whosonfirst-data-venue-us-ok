@@ -2,13 +2,14 @@
   "id": 336906973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.638427,35.602674,-97.638427,35.602674",
     "geom:latitude":35.602674,
     "geom:longitude":-97.638427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13112 N Rockwell Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336906973,
-    "wof:lastmodified":1448997352,
+    "wof:lastmodified":1466765248,
     "wof:name":"Church Of The Resurrection",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.638427,35.602674,-97.638427,35.602674],
-  "geometry": {"coordinates":[-97.638427,35.602674],"type":"Point"}
+  "bbox": [
+    -97.638427,
+    35.602674,
+    -97.638427,
+    35.602674
+],
+  "geometry": {"coordinates":[-97.63842699999999,35.602674],"type":"Point"}
 }

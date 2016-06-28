@@ -2,13 +2,14 @@
   "id": 304050149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.611353,35.536277,-97.611353,35.536277",
     "geom:latitude":35.536277,
     "geom:longitude":-97.611353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 N Ann Arbor Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":304050149,
-    "wof:lastmodified":1449043917,
+    "wof:lastmodified":1466763105,
     "wof:name":"Rollingwood Elementary School",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.611353,35.536277,-97.611353,35.536277],
-  "geometry": {"coordinates":[-97.611353,35.536277],"type":"Point"}
+  "bbox": [
+    -97.611353,
+    35.536277,
+    -97.611353,
+    35.536277
+],
+  "geometry": {"coordinates":[-97.61135299999999,35.536277],"type":"Point"}
 }

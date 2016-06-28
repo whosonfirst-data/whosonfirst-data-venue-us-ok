@@ -2,13 +2,14 @@
   "id": 303317201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990658,36.152571,-95.990658,36.152571",
     "geom:latitude":36.152571,
     "geom:longitude":-95.990658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 S Main St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303317201,
-    "wof:lastmodified":1448999239,
+    "wof:lastmodified":1466765018,
     "wof:name":"Rls Legal Solution",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "copying"
     ]
 },
-  "bbox": [-95.990658,36.152571,-95.990658,36.152571],
+  "bbox": [
+    -95.990658,
+    36.152571,
+    -95.990658,
+    36.152571
+],
   "geometry": {"coordinates":[-95.990658,36.152571],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320345879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.789994,36.025518,-95.789994,36.025518",
     "geom:latitude":36.025518,
     "geom:longitude":-95.789994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Edgewater St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320345879,
-    "wof:lastmodified":1449014667,
+    "wof:lastmodified":1466765456,
     "wof:name":"Kings Way",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "datum"
     ]
 },
-  "bbox": [-95.789994,36.025518,-95.789994,36.025518],
-  "geometry": {"coordinates":[-95.789994,36.025518],"type":"Point"}
+  "bbox": [
+    -95.789994,
+    36.025518,
+    -95.789994,
+    36.025518
+],
+  "geometry": {"coordinates":[-95.78999399999999,36.025518],"type":"Point"}
 }

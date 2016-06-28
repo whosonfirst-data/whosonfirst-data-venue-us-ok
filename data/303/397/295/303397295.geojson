@@ -2,13 +2,14 @@
   "id": 303397295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.871527,36.427008,-97.871527,36.427008",
     "geom:latitude":36.427008,
     "geom:longitude":-97.871527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3015 N Emerson St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303397295,
-    "wof:lastmodified":1448999096,
+    "wof:lastmodified":1466765307,
     "wof:name":"Michael Bain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.871527,36.427008,-97.871527,36.427008],
+  "bbox": [
+    -97.871527,
+    36.427008,
+    -97.871527,
+    36.427008
+],
   "geometry": {"coordinates":[-97.871527,36.427008],"type":"Point"}
 }

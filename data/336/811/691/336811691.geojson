@@ -2,13 +2,14 @@
   "id": 336811691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.483398,36.698476,-101.483398,36.698476",
     "geom:latitude":36.698476,
     "geom:longitude":-101.483398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 US Hwy 64",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336811691,
-    "wof:lastmodified":1448997471,
+    "wof:lastmodified":1466764634,
     "wof:name":"Epic Touch Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.483398,36.698476,-101.483398,36.698476],
-  "geometry": {"coordinates":[-101.483398,36.698476],"type":"Point"}
+  "bbox": [
+    -101.483398,
+    36.698476,
+    -101.483398,
+    36.698476
+],
+  "geometry": {"coordinates":[-101.48339799999999,36.698476],"type":"Point"}
 }

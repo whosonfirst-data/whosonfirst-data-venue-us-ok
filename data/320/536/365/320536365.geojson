@@ -2,13 +2,14 @@
   "id": 320536365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.37494,35.499164,-97.37494,35.499164",
     "geom:latitude":35.499164,
     "geom:longitude":-97.37494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2908 Zachary Pl",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320536365,
-    "wof:lastmodified":1449013485,
+    "wof:lastmodified":1466766222,
     "wof:name":"Spencers Finest Hair Design",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.37494,35.499164,-97.37494,35.499164],
+  "bbox": [
+    -97.37494,
+    35.499164,
+    -97.37494,
+    35.499164
+],
   "geometry": {"coordinates":[-97.37494,35.499164],"type":"Point"}
 }

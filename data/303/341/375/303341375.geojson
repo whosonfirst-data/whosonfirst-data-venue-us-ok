@@ -2,13 +2,14 @@
   "id": 303341375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.470779,35.493207,-97.470779,35.493207",
     "geom:latitude":35.493207,
     "geom:longitude":-97.470779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303341375,
-    "wof:lastmodified":1449000456,
+    "wof:lastmodified":1466765016,
     "wof:name":"Relax Inn",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.470779,35.493207,-97.470779,35.493207],
-  "geometry": {"coordinates":[-97.470779,35.493207],"type":"Point"}
+  "bbox": [
+    -97.470779,
+    35.493207,
+    -97.470779,
+    35.493207
+],
+  "geometry": {"coordinates":[-97.47077899999999,35.493207],"type":"Point"}
 }

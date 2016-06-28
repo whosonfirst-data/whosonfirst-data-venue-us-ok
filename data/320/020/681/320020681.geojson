@@ -2,13 +2,14 @@
   "id": 320020681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.773718,35.979892,-96.773718,35.979892",
     "geom:latitude":35.979892,
     "geom:longitude":-96.773718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 W Broadway St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320020681,
-    "wof:lastmodified":1449013000,
+    "wof:lastmodified":1466762593,
     "wof:name":"Gould Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.773718,35.979892,-96.773718,35.979892],
+  "bbox": [
+    -96.773718,
+    35.979892,
+    -96.773718,
+    35.979892
+],
   "geometry": {"coordinates":[-96.773718,35.979892],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303679905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.52986,35.493169,-97.52986,35.493169",
     "geom:latitude":35.493169,
     "geom:longitude":-97.52986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 N Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303679905,
-    "wof:lastmodified":1448999689,
+    "wof:lastmodified":1466766437,
     "wof:name":"Someplace Else A Deli & Bakery",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.52986,35.493169,-97.52986,35.493169],
+  "bbox": [
+    -97.52986,
+    35.493169,
+    -97.52986,
+    35.493169
+],
   "geometry": {"coordinates":[-97.52986,35.493169],"type":"Point"}
 }

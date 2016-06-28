@@ -2,13 +2,14 @@
   "id": 354090583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.770863,35.500164,-97.770863,35.500164",
     "geom:latitude":35.500164,
     "geom:longitude":-97.770863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Villa Ave",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354090583,
-    "wof:lastmodified":1449067287,
+    "wof:lastmodified":1466763470,
     "wof:name":"K G Hays Ranch",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-97.770863,35.500164,-97.770863,35.500164],
-  "geometry": {"coordinates":[-97.770863,35.500164],"type":"Point"}
+  "bbox": [
+    -97.770863,
+    35.500164,
+    -97.770863,
+    35.500164
+],
+  "geometry": {"coordinates":[-97.77086300000001,35.500164],"type":"Point"}
 }

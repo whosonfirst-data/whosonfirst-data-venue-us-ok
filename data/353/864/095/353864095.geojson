@@ -2,13 +2,14 @@
   "id": 353864095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.108995,36.764224,-99.108995,36.764224",
     "geom:latitude":36.764224,
     "geom:longitude":-99.108995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Red Bluff Vw",
     "sg:city":"Freedom",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":353864095,
-    "wof:lastmodified":1449020835,
+    "wof:lastmodified":1466765551,
     "wof:name":"Jacks Exploration Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "exploration"
     ]
 },
-  "bbox": [-99.108995,36.764224,-99.108995,36.764224],
-  "geometry": {"coordinates":[-99.108995,36.764224],"type":"Point"}
+  "bbox": [
+    -99.108995,
+    36.764224,
+    -99.108995,
+    36.764224
+],
+  "geometry": {"coordinates":[-99.10899499999999,36.764224],"type":"Point"}
 }

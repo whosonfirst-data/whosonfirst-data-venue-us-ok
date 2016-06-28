@@ -2,13 +2,14 @@
   "id": 303498559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.679335,34.771202,-96.679335,34.771202",
     "geom:latitude":34.771202,
     "geom:longitude":-96.679335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 W 14th St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303498559,
-    "wof:lastmodified":1448999972,
+    "wof:lastmodified":1466765835,
     "wof:name":"Good Shepherd Pre-School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-96.679335,34.771202,-96.679335,34.771202],
-  "geometry": {"coordinates":[-96.679335,34.771202],"type":"Point"}
+  "bbox": [
+    -96.679335,
+    34.771202,
+    -96.679335,
+    34.771202
+],
+  "geometry": {"coordinates":[-96.67933499999999,34.771202],"type":"Point"}
 }

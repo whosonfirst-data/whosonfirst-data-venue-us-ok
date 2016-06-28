@@ -2,13 +2,14 @@
   "id": 320411685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.085672,35.084781,-98.085672,35.084781",
     "geom:latitude":35.084781,
     "geom:longitude":-98.085672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 1st St",
     "sg:city":"Verden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320411685,
-    "wof:lastmodified":1449011431,
+    "wof:lastmodified":1466765764,
     "wof:name":"Verden Gas & Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.085672,35.084781,-98.085672,35.084781],
+  "bbox": [
+    -98.085672,
+    35.084781,
+    -98.085672,
+    35.084781
+],
   "geometry": {"coordinates":[-98.085672,35.084781],"type":"Point"}
 }

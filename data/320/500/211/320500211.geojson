@@ -2,13 +2,14 @@
   "id": 320500211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.585875,35.475115,-97.585875,35.475115",
     "geom:latitude":35.475115,
     "geom:longitude":-97.585875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 NW 8th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320500211,
-    "wof:lastmodified":1449012190,
+    "wof:lastmodified":1466766061,
     "wof:name":"Atlas Paving Co",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-97.585875,35.475115,-97.585875,35.475115],
+  "bbox": [
+    -97.585875,
+    35.475115,
+    -97.585875,
+    35.475115
+],
   "geometry": {"coordinates":[-97.585875,35.475115],"type":"Point"}
 }

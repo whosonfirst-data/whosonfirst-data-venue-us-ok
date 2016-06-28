@@ -2,13 +2,14 @@
   "id": 336732447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.057232,36.114574,-97.057232,36.114574",
     "geom:latitude":36.114574,
     "geom:longitude":-97.057232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E 7th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336732447,
-    "wof:lastmodified":1448998053,
+    "wof:lastmodified":1466764266,
     "wof:name":"CXO Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-97.057232,36.114574,-97.057232,36.114574],
+  "bbox": [
+    -97.057232,
+    36.114574,
+    -97.057232,
+    36.114574
+],
   "geometry": {"coordinates":[-97.057232,36.114574],"type":"Point"}
 }

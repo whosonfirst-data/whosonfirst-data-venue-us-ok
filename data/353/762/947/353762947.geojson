@@ -2,13 +2,14 @@
   "id": 353762947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517842,35.471975,-97.517842,35.471975",
     "geom:latitude":35.471975,
     "geom:longitude":-97.517842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Harvey Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353762947,
-    "wof:lastmodified":1449020052,
+    "wof:lastmodified":1466765058,
     "wof:name":"Oklahoma Natural Gas Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-97.517842,35.471975,-97.517842,35.471975],
+  "bbox": [
+    -97.517842,
+    35.471975,
+    -97.517842,
+    35.471975
+],
   "geometry": {"coordinates":[-97.517842,35.471975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303139731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.564839,35.358591,-97.564839,35.358591",
     "geom:latitude":35.358591,
     "geom:longitude":-97.564839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10913 S Ross Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303139731,
-    "wof:lastmodified":1448998352,
+    "wof:lastmodified":1466763876,
     "wof:name":"Debra K Woods CPA",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.564839,35.358591,-97.564839,35.358591],
-  "geometry": {"coordinates":[-97.564839,35.358591],"type":"Point"}
+  "bbox": [
+    -97.564839,
+    35.358591,
+    -97.564839,
+    35.358591
+],
+  "geometry": {"coordinates":[-97.56483900000001,35.358591],"type":"Point"}
 }

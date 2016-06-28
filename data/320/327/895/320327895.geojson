@@ -2,13 +2,14 @@
   "id": 320327895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.37869,35.464131,-97.37869,35.464131",
     "geom:latitude":35.464131,
     "geom:longitude":-97.37869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8517 E Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320327895,
-    "wof:lastmodified":1449011529,
+    "wof:lastmodified":1466765245,
     "wof:name":"Woodside Apartments",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "complex"
     ]
 },
-  "bbox": [-97.37869,35.464131,-97.37869,35.464131],
-  "geometry": {"coordinates":[-97.37869,35.464131],"type":"Point"}
+  "bbox": [
+    -97.37869,
+    35.464131,
+    -97.37869,
+    35.464131
+],
+  "geometry": {"coordinates":[-97.37869000000001,35.464131],"type":"Point"}
 }

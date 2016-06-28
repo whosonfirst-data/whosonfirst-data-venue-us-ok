@@ -2,13 +2,14 @@
   "id": 320211827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.155354,36.966929,-95.155354,36.966929",
     "geom:latitude":36.966929,
     "geom:longitude":-95.155354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3355 S 4400 Rd",
     "sg:city":"Welch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320211827,
-    "wof:lastmodified":1449012179,
+    "wof:lastmodified":1466764653,
     "wof:name":"Haskell Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-95.155354,36.966929,-95.155354,36.966929],
+  "bbox": [
+    -95.155354,
+    36.966929,
+    -95.155354,
+    36.966929
+],
   "geometry": {"coordinates":[-95.155354,36.966929],"type":"Point"}
 }

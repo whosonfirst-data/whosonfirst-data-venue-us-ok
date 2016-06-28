@@ -2,13 +2,14 @@
   "id": 336605005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.380603,36.433561,-99.380603,36.433561",
     "geom:latitude":36.433561,
     "geom:longitude":-99.380603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Oklahoma Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336605005,
-    "wof:lastmodified":1448997484,
+    "wof:lastmodified":1466764241,
     "wof:name":"Goin's Home Furnishings Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.380603,36.433561,-99.380603,36.433561],
-  "geometry": {"coordinates":[-99.380603,36.433561],"type":"Point"}
+  "bbox": [
+    -99.380603,
+    36.433561,
+    -99.380603,
+    36.433561
+],
+  "geometry": {"coordinates":[-99.38060299999999,36.433561],"type":"Point"}
 }

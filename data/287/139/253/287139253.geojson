@@ -2,13 +2,14 @@
   "id": 287139253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.399221,35.153506,-97.399221,35.153506",
     "geom:latitude":35.153506,
     "geom:longitude":-97.399221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 N Main St",
     "sg:city":"Noble",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287139253,
-    "wof:lastmodified":1449000735,
+    "wof:lastmodified":1466763633,
     "wof:name":"Hilltop Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-97.399221,35.153506,-97.399221,35.153506],
+  "bbox": [
+    -97.399221,
+    35.153506,
+    -97.399221,
+    35.153506
+],
   "geometry": {"coordinates":[-97.399221,35.153506],"type":"Point"}
 }

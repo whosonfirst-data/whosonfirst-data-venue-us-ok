@@ -2,13 +2,14 @@
   "id": 320556643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.248706,35.725498,-95.248706,35.725498",
     "geom:latitude":35.725498,
     "geom:longitude":-95.248706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2575 S 77th St E",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320556643,
-    "wof:lastmodified":1449012187,
+    "wof:lastmodified":1466766199,
     "wof:name":"Oak Leaf Embroidery",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-95.248706,35.725498,-95.248706,35.725498],
+  "bbox": [
+    -95.248706,
+    35.725498,
+    -95.248706,
+    35.725498
+],
   "geometry": {"coordinates":[-95.248706,35.725498],"type":"Point"}
 }

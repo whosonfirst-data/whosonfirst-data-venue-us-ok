@@ -2,13 +2,14 @@
   "id": 319855825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.600722,35.511295,-97.600722,35.511295",
     "geom:latitude":35.511295,
     "geom:longitude":-97.600722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4417 NW 39th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319855825,
-    "wof:lastmodified":1449024661,
+    "wof:lastmodified":1466763216,
     "wof:name":"Telephone Co",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-97.600722,35.511295,-97.600722,35.511295],
+  "bbox": [
+    -97.600722,
+    35.511295,
+    -97.600722,
+    35.511295
+],
   "geometry": {"coordinates":[-97.600722,35.511295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320240753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.458883,35.206843,-97.458883,35.206843",
     "geom:latitude":35.206843,
     "geom:longitude":-97.458883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 S Berry Rd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320240753,
-    "wof:lastmodified":1449011628,
+    "wof:lastmodified":1466764714,
     "wof:name":"Jane McConnell",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.458883,35.206843,-97.458883,35.206843],
+  "bbox": [
+    -97.458883,
+    35.206843,
+    -97.458883,
+    35.206843
+],
   "geometry": {"coordinates":[-97.458883,35.206843],"type":"Point"}
 }

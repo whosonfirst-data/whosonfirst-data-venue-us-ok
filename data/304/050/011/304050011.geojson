@@ -2,13 +2,14 @@
   "id": 304050011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.884393,36.147874,-95.884393,36.147874",
     "geom:latitude":36.147874,
     "geom:longitude":-95.884393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1141 S 83rd East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":304050011,
-    "wof:lastmodified":1449043926,
+    "wof:lastmodified":1466764194,
     "wof:name":"Ascs",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.884393,36.147874,-95.884393,36.147874],
+  "bbox": [
+    -95.884393,
+    36.147874,
+    -95.884393,
+    36.147874
+],
   "geometry": {"coordinates":[-95.884393,36.147874],"type":"Point"}
 }

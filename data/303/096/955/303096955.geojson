@@ -2,13 +2,14 @@
   "id": 303096955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.816799,36.075509,-95.816799,36.075509",
     "geom:latitude":36.075509,
     "geom:longitude":-95.816799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2341 W Albany St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303096955,
-    "wof:lastmodified":1448998907,
+    "wof:lastmodified":1466763190,
     "wof:name":"American Southwest Properties",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.816799,36.075509,-95.816799,36.075509],
+  "bbox": [
+    -95.816799,
+    36.075509,
+    -95.816799,
+    36.075509
+],
   "geometry": {"coordinates":[-95.816799,36.075509],"type":"Point"}
 }

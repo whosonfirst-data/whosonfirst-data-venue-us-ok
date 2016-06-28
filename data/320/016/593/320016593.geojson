@@ -2,13 +2,14 @@
   "id": 320016593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.945524,36.1618,-95.945524,36.1618",
     "geom:latitude":36.1618,
     "geom:longitude":-95.945524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 E Admiral Ct",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320016593,
-    "wof:lastmodified":1449011906,
+    "wof:lastmodified":1466762528,
     "wof:name":"Falcon Electric Inc",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.945524,36.1618,-95.945524,36.1618],
-  "geometry": {"coordinates":[-95.945524,36.1618],"type":"Point"}
+  "bbox": [
+    -95.945524,
+    36.1618,
+    -95.945524,
+    36.1618
+],
+  "geometry": {"coordinates":[-95.94552400000001,36.1618],"type":"Point"}
 }

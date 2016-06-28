@@ -2,13 +2,14 @@
   "id": 303040271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.637797,35.506253,-97.637797,35.506253",
     "geom:latitude":35.506253,
     "geom:longitude":-97.637797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3607 N Donna Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303040271,
-    "wof:lastmodified":1449000497,
+    "wof:lastmodified":1466764169,
     "wof:name":"Matheny Wrecker Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-97.637797,35.506253,-97.637797,35.506253],
-  "geometry": {"coordinates":[-97.637797,35.506253],"type":"Point"}
+  "bbox": [
+    -97.637797,
+    35.506253,
+    -97.637797,
+    35.506253
+],
+  "geometry": {"coordinates":[-97.63779700000001,35.506253],"type":"Point"}
 }

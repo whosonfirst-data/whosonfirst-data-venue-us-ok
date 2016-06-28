@@ -2,13 +2,14 @@
   "id": 336611735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.060028,36.115613,-97.060028,36.115613",
     "geom:latitude":36.115613,
     "geom:longitude":-97.060028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 S Husband St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336611735,
-    "wof:lastmodified":1448997805,
+    "wof:lastmodified":1466762354,
     "wof:name":"Penn County Extention",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.060028,36.115613,-97.060028,36.115613],
+  "bbox": [
+    -97.060028,
+    36.115613,
+    -97.060028,
+    36.115613
+],
   "geometry": {"coordinates":[-97.060028,36.115613],"type":"Point"}
 }

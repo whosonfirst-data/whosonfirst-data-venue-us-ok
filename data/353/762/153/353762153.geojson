@@ -2,13 +2,14 @@
   "id": 353762153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.958287,36.178496,-95.958287,36.178496",
     "geom:latitude":36.178496,
     "geom:longitude":-95.958287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1624 N Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353762153,
-    "wof:lastmodified":1449020052,
+    "wof:lastmodified":1466765052,
     "wof:name":"E M Minor Emergency Family",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-95.958287,36.178496,-95.958287,36.178496],
+  "bbox": [
+    -95.958287,
+    36.178496,
+    -95.958287,
+    36.178496
+],
   "geometry": {"coordinates":[-95.958287,36.178496],"type":"Point"}
 }

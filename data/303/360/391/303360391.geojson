@@ -2,13 +2,14 @@
   "id": 303360391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.456505,34.617485,-98.456505,34.617485",
     "geom:latitude":34.617485,
     "geom:longitude":-98.456505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5110 NW Meadow Brook Dr",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303360391,
-    "wof:lastmodified":1449000003,
+    "wof:lastmodified":1466765233,
     "wof:name":"Jeeps Trucking",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.456505,34.617485,-98.456505,34.617485],
-  "geometry": {"coordinates":[-98.456505,34.617485],"type":"Point"}
+  "bbox": [
+    -98.456505,
+    34.617485,
+    -98.456505,
+    34.617485
+],
+  "geometry": {"coordinates":[-98.45650500000001,34.617485],"type":"Point"}
 }

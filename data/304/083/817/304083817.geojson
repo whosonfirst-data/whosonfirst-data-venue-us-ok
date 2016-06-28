@@ -2,13 +2,14 @@
   "id": 304083817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.971641,36.156595,-95.971641,36.156595",
     "geom:latitude":36.156595,
     "geom:longitude":-95.971641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 E 3rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304083817,
-    "wof:lastmodified":1449043825,
+    "wof:lastmodified":1466763318,
     "wof:name":"Sunset LLC",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.971641,36.156595,-95.971641,36.156595],
-  "geometry": {"coordinates":[-95.971641,36.156595],"type":"Point"}
+  "bbox": [
+    -95.971641,
+    36.156595,
+    -95.971641,
+    36.156595
+],
+  "geometry": {"coordinates":[-95.97164100000001,36.156595],"type":"Point"}
 }

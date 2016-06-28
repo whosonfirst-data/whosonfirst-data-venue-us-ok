@@ -2,13 +2,14 @@
   "id": 303660509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.609934,35.465603,-97.609934,35.465603",
     "geom:latitude":35.465603,
     "geom:longitude":-97.609934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Ann Arbor Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303660509,
-    "wof:lastmodified":1449000313,
+    "wof:lastmodified":1466766289,
     "wof:name":"All Points Inc",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-97.609934,35.465603,-97.609934,35.465603],
+  "bbox": [
+    -97.609934,
+    35.465603,
+    -97.609934,
+    35.465603
+],
   "geometry": {"coordinates":[-97.609934,35.465603],"type":"Point"}
 }

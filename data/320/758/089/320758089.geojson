@@ -2,13 +2,14 @@
   "id": 320758089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.381535,35.765339,-95.381535,35.765339",
     "geom:latitude":35.765339,
     "geom:longitude":-95.381535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 Wewoka St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320758089,
-    "wof:lastmodified":1449012394,
+    "wof:lastmodified":1466766690,
     "wof:name":"Christ Holy Mission Church",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.381535,35.765339,-95.381535,35.765339],
+  "bbox": [
+    -95.381535,
+    35.765339,
+    -95.381535,
+    35.765339
+],
   "geometry": {"coordinates":[-95.381535,35.765339],"type":"Point"}
 }

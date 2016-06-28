@@ -2,13 +2,14 @@
   "id": 320571001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.463986,36.30905,-96.463986,36.30905",
     "geom:latitude":36.30905,
     "geom:longitude":-96.463986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Delaware St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320571001,
-    "wof:lastmodified":1449013823,
+    "wof:lastmodified":1466766212,
     "wof:name":"Family Wholesale Greenhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "florist"
     ]
 },
-  "bbox": [-96.463986,36.30905,-96.463986,36.30905],
-  "geometry": {"coordinates":[-96.463986,36.30905],"type":"Point"}
+  "bbox": [
+    -96.463986,
+    36.30905,
+    -96.463986,
+    36.30905
+],
+  "geometry": {"coordinates":[-96.46398600000001,36.30905],"type":"Point"}
 }

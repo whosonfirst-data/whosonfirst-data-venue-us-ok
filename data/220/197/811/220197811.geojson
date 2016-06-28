@@ -2,13 +2,14 @@
   "id": 220197811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.868507,36.030509,-95.868507,36.030509",
     "geom:latitude":36.030509,
     "geom:longitude":-95.868507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9245 S Mingo Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -84,10 +85,11 @@
         }
     ],
     "wof:id":220197811,
-    "wof:lastmodified":1449074770,
+    "wof:lastmodified":1466762511,
     "wof:name":"UTICA PARK CLINIC - SOUTH TULSA",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -106,6 +108,11 @@
         "physical"
     ]
 },
-  "bbox": [-95.868507,36.030509,-95.868507,36.030509],
-  "geometry": {"coordinates":[-95.868507,36.030509],"type":"Point"}
+  "bbox": [
+    -95.868507,
+    36.030509,
+    -95.868507,
+    36.030509
+],
+  "geometry": {"coordinates":[-95.86850699999999,36.030509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303437675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.620524,34.232142,-95.620524,34.232142",
     "geom:latitude":34.232142,
     "geom:longitude":-95.620524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N High St",
     "sg:city":"Antlers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303437675,
-    "wof:lastmodified":1448999887,
+    "wof:lastmodified":1466765629,
     "wof:name":"Mountain View",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.620524,34.232142,-95.620524,34.232142],
+  "bbox": [
+    -95.620524,
+    34.232142,
+    -95.620524,
+    34.232142
+],
   "geometry": {"coordinates":[-95.620524,34.232142],"type":"Point"}
 }

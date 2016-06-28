@@ -2,13 +2,14 @@
   "id": 303449177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.963157,35.916312,-94.963157,35.916312",
     "geom:latitude":35.916312,
     "geom:longitude":-94.963157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 N Ash Ave",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303449177,
-    "wof:lastmodified":1449000388,
+    "wof:lastmodified":1466765654,
     "wof:name":"Boco Buildings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-94.963157,35.916312,-94.963157,35.916312],
+  "bbox": [
+    -94.963157,
+    35.916312,
+    -94.963157,
+    35.916312
+],
   "geometry": {"coordinates":[-94.963157,35.916312],"type":"Point"}
 }

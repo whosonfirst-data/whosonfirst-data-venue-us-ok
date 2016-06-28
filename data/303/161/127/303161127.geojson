@@ -2,13 +2,14 @@
   "id": 303161127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.390316,33.999497,-96.390316,33.999497",
     "geom:latitude":33.999497,
     "geom:longitude":-96.390316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 N Washington Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303161127,
-    "wof:lastmodified":1448999089,
+    "wof:lastmodified":1466764393,
     "wof:name":"J A Peters & Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.390316,33.999497,-96.390316,33.999497],
+  "bbox": [
+    -96.390316,
+    33.999497,
+    -96.390316,
+    33.999497
+],
   "geometry": {"coordinates":[-96.390316,33.999497],"type":"Point"}
 }

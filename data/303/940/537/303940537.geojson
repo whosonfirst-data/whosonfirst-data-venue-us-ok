@@ -2,13 +2,14 @@
   "id": 303940537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.961823,35.607195,-95.961823,35.607195",
     "geom:latitude":35.607195,
     "geom:longitude":-95.961823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 S Wood Dr",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303940537,
-    "wof:lastmodified":1448998707,
+    "wof:lastmodified":1466767025,
     "wof:name":"East Central Okla Elect Co-Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-95.961823,35.607195,-95.961823,35.607195],
+  "bbox": [
+    -95.961823,
+    35.607195,
+    -95.961823,
+    35.607195
+],
   "geometry": {"coordinates":[-95.961823,35.607195],"type":"Point"}
 }

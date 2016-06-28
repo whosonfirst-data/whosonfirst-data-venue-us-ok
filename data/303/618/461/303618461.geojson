@@ -2,13 +2,14 @@
   "id": 303618461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.814623,35.289697,-97.814623,35.289697",
     "geom:latitude":35.289697,
     "geom:longitude":-97.814623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 SW 2nd St",
     "sg:city":"Tuttle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303618461,
-    "wof:lastmodified":1448999640,
+    "wof:lastmodified":1466766241,
     "wof:name":"Tuttle Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.814623,35.289697,-97.814623,35.289697],
+  "bbox": [
+    -97.814623,
+    35.289697,
+    -97.814623,
+    35.289697
+],
   "geometry": {"coordinates":[-97.814623,35.289697],"type":"Point"}
 }

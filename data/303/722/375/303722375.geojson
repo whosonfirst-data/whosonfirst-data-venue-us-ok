@@ -2,13 +2,14 @@
   "id": 303722375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.404634,34.593417,-98.404634,34.593417",
     "geom:latitude":34.593417,
     "geom:longitude":-98.404634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 SW 11th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303722375,
-    "wof:lastmodified":1448998976,
+    "wof:lastmodified":1466766526,
     "wof:name":"Immanuel Baptist Church",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.404634,34.593417,-98.404634,34.593417],
+  "bbox": [
+    -98.404634,
+    34.593417,
+    -98.404634,
+    34.593417
+],
   "geometry": {"coordinates":[-98.404634,34.593417],"type":"Point"}
 }

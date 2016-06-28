@@ -2,13 +2,14 @@
   "id": 320200777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.54794,35.389734,-97.54794,35.389734",
     "geom:latitude":35.389734,
     "geom:longitude":-97.54794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7515 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320200777,
-    "wof:lastmodified":1449012763,
+    "wof:lastmodified":1466764611,
     "wof:name":"Touch Tone Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-97.54794,35.389734,-97.54794,35.389734],
+  "bbox": [
+    -97.54794,
+    35.389734,
+    -97.54794,
+    35.389734
+],
   "geometry": {"coordinates":[-97.54794,35.389734],"type":"Point"}
 }

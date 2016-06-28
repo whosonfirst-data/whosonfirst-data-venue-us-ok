@@ -2,13 +2,14 @@
   "id": 319988785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.816645,36.046324,-95.816645,36.046324",
     "geom:latitude":36.046324,
     "geom:longitude":-95.816645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 W Houston St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319988785,
-    "wof:lastmodified":1449024340,
+    "wof:lastmodified":1466762526,
     "wof:name":"Mr Barbeque",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barbecue"
     ]
 },
-  "bbox": [-95.816645,36.046324,-95.816645,36.046324],
-  "geometry": {"coordinates":[-95.816645,36.046324],"type":"Point"}
+  "bbox": [
+    -95.816645,
+    36.046324,
+    -95.816645,
+    36.046324
+],
+  "geometry": {"coordinates":[-95.81664499999999,36.046324],"type":"Point"}
 }

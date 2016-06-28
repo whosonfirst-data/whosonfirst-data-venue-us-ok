@@ -2,13 +2,14 @@
   "id": 303944239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.300986,36.809459,-97.300986,36.809459",
     "geom:latitude":36.809459,
     "geom:longitude":-97.300986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 N 13th St",
     "sg:city":"Blackwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303944239,
-    "wof:lastmodified":1448999342,
+    "wof:lastmodified":1466767022,
     "wof:name":"Speed Demon Trukworx Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "customizing"
     ]
 },
-  "bbox": [-97.300986,36.809459,-97.300986,36.809459],
-  "geometry": {"coordinates":[-97.300986,36.809459],"type":"Point"}
+  "bbox": [
+    -97.300986,
+    36.809459,
+    -97.300986,
+    36.809459
+],
+  "geometry": {"coordinates":[-97.30098599999999,36.809459],"type":"Point"}
 }

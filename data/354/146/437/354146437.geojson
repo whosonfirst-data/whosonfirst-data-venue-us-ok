@@ -2,13 +2,14 @@
   "id": 354146437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.391808,36.436029,-99.391808,36.436029",
     "geom:latitude":36.436029,
     "geom:longitude":-99.391808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Main Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354146437,
-    "wof:lastmodified":1449066628,
+    "wof:lastmodified":1466763682,
     "wof:name":"All Things Special",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-99.391808,36.436029,-99.391808,36.436029],
+  "bbox": [
+    -99.391808,
+    36.436029,
+    -99.391808,
+    36.436029
+],
   "geometry": {"coordinates":[-99.391808,36.436029],"type":"Point"}
 }

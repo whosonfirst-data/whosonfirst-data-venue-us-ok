@@ -2,13 +2,14 @@
   "id": 303616441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.339831,36.663309,-96.339831,36.663309",
     "geom:latitude":36.663309,
     "geom:longitude":-96.339831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 E Main St",
     "sg:city":"Pawhuska",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303616441,
-    "wof:lastmodified":1448999914,
+    "wof:lastmodified":1466766243,
     "wof:name":"Berry Patch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.339831,36.663309,-96.339831,36.663309],
+  "bbox": [
+    -96.339831,
+    36.663309,
+    -96.339831,
+    36.663309
+],
   "geometry": {"coordinates":[-96.339831,36.663309],"type":"Point"}
 }

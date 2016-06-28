@@ -2,13 +2,14 @@
   "id": 319899293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.053143,36.727204,-97.053143,36.727204",
     "geom:latitude":36.727204,
     "geom:longitude":-97.053143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 Meadowbrook St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319899293,
-    "wof:lastmodified":1449024843,
+    "wof:lastmodified":1466764206,
     "wof:name":"Paynes Appliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-97.053143,36.727204,-97.053143,36.727204],
-  "geometry": {"coordinates":[-97.053143,36.727204],"type":"Point"}
+  "bbox": [
+    -97.053143,
+    36.727204,
+    -97.053143,
+    36.727204
+],
+  "geometry": {"coordinates":[-97.05314300000001,36.727204],"type":"Point"}
 }

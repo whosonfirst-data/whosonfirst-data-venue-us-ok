@@ -2,13 +2,14 @@
   "id": 354009139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.410712,35.845897,-98.410712,35.845897",
     "geom:latitude":35.845897,
     "geom:longitude":-98.410712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 N Burford Ave",
     "sg:city":"Watonga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354009139,
-    "wof:lastmodified":1449067650,
+    "wof:lastmodified":1466762987,
     "wof:name":"Greenfield Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-98.410712,35.845897,-98.410712,35.845897],
+  "bbox": [
+    -98.410712,
+    35.845897,
+    -98.410712,
+    35.845897
+],
   "geometry": {"coordinates":[-98.410712,35.845897],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353667813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.686653,34.781826,-96.686653,34.781826",
     "geom:latitude":34.781826,
     "geom:longitude":-96.686653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 N Oak Ave",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353667813,
-    "wof:lastmodified":1449019911,
+    "wof:lastmodified":1466764632,
     "wof:name":"Abbott's Grocery & Meat Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-96.686653,34.781826,-96.686653,34.781826],
-  "geometry": {"coordinates":[-96.686653,34.781826],"type":"Point"}
+  "bbox": [
+    -96.686653,
+    34.781826,
+    -96.686653,
+    34.781826
+],
+  "geometry": {"coordinates":[-96.68665300000001,34.781826],"type":"Point"}
 }

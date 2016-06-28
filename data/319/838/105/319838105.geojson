@@ -2,13 +2,14 @@
   "id": 319838105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.857973,36.182701,-95.857973,36.182701",
     "geom:latitude":36.182701,
     "geom:longitude":-95.857973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 N 106th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319838105,
-    "wof:lastmodified":1449024194,
+    "wof:lastmodified":1466763030,
     "wof:name":"Welsco Inc",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-95.857973,36.182701,-95.857973,36.182701],
+  "bbox": [
+    -95.857973,
+    36.182701,
+    -95.857973,
+    36.182701
+],
   "geometry": {"coordinates":[-95.857973,36.182701],"type":"Point"}
 }

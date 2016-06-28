@@ -2,13 +2,14 @@
   "id": 303785409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.095763,34.002469,-95.095763,34.002469",
     "geom:latitude":34.002469,
     "geom:longitude":-95.095763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Wilson St",
     "sg:city":"Valliant",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303785409,
-    "wof:lastmodified":1449000142,
+    "wof:lastmodified":1466766811,
     "wof:name":"Rooks Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.095763,34.002469,-95.095763,34.002469],
-  "geometry": {"coordinates":[-95.095763,34.002469],"type":"Point"}
+  "bbox": [
+    -95.095763,
+    34.002469,
+    -95.095763,
+    34.002469
+],
+  "geometry": {"coordinates":[-95.09576300000001,34.002469],"type":"Point"}
 }

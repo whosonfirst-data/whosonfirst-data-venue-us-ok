@@ -2,13 +2,14 @@
   "id": 320653267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.704406,36.573075,-96.704406,36.573075",
     "geom:latitude":36.573075,
     "geom:longitude":-96.704406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 N Main St",
     "sg:city":"Fairfax",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320653267,
-    "wof:lastmodified":1449011515,
+    "wof:lastmodified":1466766323,
     "wof:name":"Fairfax Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.704406,36.573075,-96.704406,36.573075],
-  "geometry": {"coordinates":[-96.704406,36.573075],"type":"Point"}
+  "bbox": [
+    -96.704406,
+    36.573075,
+    -96.704406,
+    36.573075
+],
+  "geometry": {"coordinates":[-96.70440600000001,36.573075],"type":"Point"}
 }

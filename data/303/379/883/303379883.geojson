@@ -2,13 +2,14 @@
   "id": 303379883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.437192,35.431547,-97.437192,35.431547",
     "geom:latitude":35.431547,
     "geom:longitude":-97.437192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4416 SE 33rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303379883,
-    "wof:lastmodified":1448999544,
+    "wof:lastmodified":1466765322,
     "wof:name":"B & H Mechanical Heating & Air",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.437192,35.431547,-97.437192,35.431547],
+  "bbox": [
+    -97.437192,
+    35.431547,
+    -97.437192,
+    35.431547
+],
   "geometry": {"coordinates":[-97.437192,35.431547],"type":"Point"}
 }

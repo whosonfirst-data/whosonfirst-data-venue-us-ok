@@ -2,13 +2,14 @@
   "id": 320757395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.433013,35.418786,-99.433013,35.418786",
     "geom:latitude":35.418786,
     "geom:longitude":-99.433013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2406 Bell Ave",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320757395,
-    "wof:lastmodified":1449013370,
+    "wof:lastmodified":1466766694,
     "wof:name":"Grandview Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.433013,35.418786,-99.433013,35.418786],
+  "bbox": [
+    -99.433013,
+    35.418786,
+    -99.433013,
+    35.418786
+],
   "geometry": {"coordinates":[-99.433013,35.418786],"type":"Point"}
 }

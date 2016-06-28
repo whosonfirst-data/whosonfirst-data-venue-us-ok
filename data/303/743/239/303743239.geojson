@@ -2,13 +2,14 @@
   "id": 303743239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.726205,35.290848,-97.726205,35.290848",
     "geom:latitude":35.290848,
     "geom:longitude":-97.726205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4808 State Hwy 37",
     "sg:city":"Tuttle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303743239,
-    "wof:lastmodified":1449000551,
+    "wof:lastmodified":1466766681,
     "wof:name":"Midco Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.726205,35.290848,-97.726205,35.290848],
-  "geometry": {"coordinates":[-97.726205,35.290848],"type":"Point"}
+  "bbox": [
+    -97.726205,
+    35.290848,
+    -97.726205,
+    35.290848
+],
+  "geometry": {"coordinates":[-97.72620499999999,35.290848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320844569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.618934,35.487243,-97.618934,35.487243",
     "geom:latitude":35.487243,
     "geom:longitude":-97.618934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320844569,
-    "wof:lastmodified":1449012851,
+    "wof:lastmodified":1466766953,
     "wof:name":"American Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.618934,35.487243,-97.618934,35.487243],
+  "bbox": [
+    -97.618934,
+    35.487243,
+    -97.618934,
+    35.487243
+],
   "geometry": {"coordinates":[-97.618934,35.487243],"type":"Point"}
 }

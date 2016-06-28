@@ -2,13 +2,14 @@
   "id": 303348877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.067339,36.743577,-97.067339,36.743577",
     "geom:latitude":36.743577,
     "geom:longitude":-97.067339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3330 N 14th St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303348877,
-    "wof:lastmodified":1448998225,
+    "wof:lastmodified":1466765148,
     "wof:name":"Pemberton Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.067339,36.743577,-97.067339,36.743577],
+  "bbox": [
+    -97.067339,
+    36.743577,
+    -97.067339,
+    36.743577
+],
   "geometry": {"coordinates":[-97.067339,36.743577],"type":"Point"}
 }

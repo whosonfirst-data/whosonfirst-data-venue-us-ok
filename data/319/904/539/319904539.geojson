@@ -2,13 +2,14 @@
   "id": 319904539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904316,36.047643,-95.904316,36.047643",
     "geom:latitude":36.047643,
     "geom:longitude":-95.904316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8026 S Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":319904539,
-    "wof:lastmodified":1449024898,
+    "wof:lastmodified":1466763540,
     "wof:name":"Trophy Room",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "offer"
     ]
 },
-  "bbox": [-95.904316,36.047643,-95.904316,36.047643],
-  "geometry": {"coordinates":[-95.904316,36.047643],"type":"Point"}
+  "bbox": [
+    -95.904316,
+    36.047643,
+    -95.904316,
+    36.047643
+],
+  "geometry": {"coordinates":[-95.90431599999999,36.047643],"type":"Point"}
 }

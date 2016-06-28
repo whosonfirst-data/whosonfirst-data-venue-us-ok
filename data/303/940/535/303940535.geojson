@@ -2,13 +2,14 @@
   "id": 303940535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.059359,36.131105,-97.059359,36.131105",
     "geom:latitude":36.131105,
     "geom:longitude":-97.059359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 N Boomer Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303940535,
-    "wof:lastmodified":1448998707,
+    "wof:lastmodified":1466767024,
     "wof:name":"Circle D Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.059359,36.131105,-97.059359,36.131105],
+  "bbox": [
+    -97.059359,
+    36.131105,
+    -97.059359,
+    36.131105
+],
   "geometry": {"coordinates":[-97.059359,36.131105],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304058137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.352346,35.49307,-97.352346,35.49307",
     "geom:latitude":35.49307,
     "geom:longitude":-97.352346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10009 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":304058137,
-    "wof:lastmodified":1449043641,
+    "wof:lastmodified":1466763154,
     "wof:name":"Durango Motor Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [-97.352346,35.49307,-97.352346,35.49307],
+  "bbox": [
+    -97.352346,
+    35.49307,
+    -97.352346,
+    35.49307
+],
   "geometry": {"coordinates":[-97.352346,35.49307],"type":"Point"}
 }

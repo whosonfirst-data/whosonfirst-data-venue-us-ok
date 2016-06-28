@@ -2,13 +2,14 @@
   "id": 287261799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.573965,35.586969,-97.573965,35.586969",
     "geom:latitude":35.586969,
     "geom:longitude":-97.573965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Willow Brook Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":287261799,
-    "wof:lastmodified":1449000681,
+    "wof:lastmodified":1466762862,
     "wof:name":"Le Flore Design",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-97.573965,35.586969,-97.573965,35.586969],
+  "bbox": [
+    -97.573965,
+    35.586969,
+    -97.573965,
+    35.586969
+],
   "geometry": {"coordinates":[-97.573965,35.586969],"type":"Point"}
 }

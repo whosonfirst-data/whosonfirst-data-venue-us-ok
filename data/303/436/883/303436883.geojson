@@ -2,13 +2,14 @@
   "id": 303436883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.513762,35.545833,-97.513762,35.545833",
     "geom:latitude":35.545833,
     "geom:longitude":-97.513762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 Broadway Exn",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303436883,
-    "wof:lastmodified":1449000332,
+    "wof:lastmodified":1466765619,
     "wof:name":"Eastern Star Temple",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.513762,35.545833,-97.513762,35.545833],
+  "bbox": [
+    -97.513762,
+    35.545833,
+    -97.513762,
+    35.545833
+],
   "geometry": {"coordinates":[-97.513762,35.545833],"type":"Point"}
 }

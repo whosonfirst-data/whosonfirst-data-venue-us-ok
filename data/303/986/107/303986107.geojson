@@ -2,13 +2,14 @@
   "id": 303986107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.516413,35.46881,-97.516413,35.46881",
     "geom:latitude":35.46881,
     "geom:longitude":-97.516413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Robinson Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303986107,
-    "wof:lastmodified":1449000089,
+    "wof:lastmodified":1466767068,
     "wof:name":"Bob Moore Auto Group",
     "wof:parent_id":85871717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.516413,35.46881,-97.516413,35.46881],
+  "bbox": [
+    -97.516413,
+    35.46881,
+    -97.516413,
+    35.46881
+],
   "geometry": {"coordinates":[-97.516413,35.46881],"type":"Point"}
 }

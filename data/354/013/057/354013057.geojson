@@ -2,13 +2,14 @@
   "id": 354013057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.49282,35.667368,-97.49282,35.667368",
     "geom:latitude":35.667368,
     "geom:longitude":-97.49282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 W Danforth Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354013057,
-    "wof:lastmodified":1449067126,
+    "wof:lastmodified":1466763016,
     "wof:name":"Communicate Wireless",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-97.49282,35.667368,-97.49282,35.667368],
-  "geometry": {"coordinates":[-97.49282,35.667368],"type":"Point"}
+  "bbox": [
+    -97.49282,
+    35.667368,
+    -97.49282,
+    35.667368
+],
+  "geometry": {"coordinates":[-97.49281999999999,35.667368],"type":"Point"}
 }

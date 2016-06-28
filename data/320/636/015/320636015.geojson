@@ -2,13 +2,14 @@
   "id": 320636015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975581,36.141634,-95.975581,36.141634",
     "geom:latitude":36.141634,
     "geom:longitude":-95.975581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320636015,
-    "wof:lastmodified":1449012747,
+    "wof:lastmodified":1466766353,
     "wof:name":"Moore Mem Chapel",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.975581,36.141634,-95.975581,36.141634],
-  "geometry": {"coordinates":[-95.975581,36.141634],"type":"Point"}
+  "bbox": [
+    -95.975581,
+    36.141634,
+    -95.975581,
+    36.141634
+],
+  "geometry": {"coordinates":[-95.97558100000001,36.141634],"type":"Point"}
 }

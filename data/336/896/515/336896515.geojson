@@ -2,13 +2,14 @@
   "id": 336896515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975118,35.622538,-95.975118,35.622538",
     "geom:latitude":35.622538,
     "geom:longitude":-95.975118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 W 7th St",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":336896515,
-    "wof:lastmodified":1448997326,
+    "wof:lastmodified":1466765191,
     "wof:name":"Harding Bail Bonding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-95.975118,35.622538,-95.975118,35.622538],
-  "geometry": {"coordinates":[-95.975118,35.622538],"type":"Point"}
+  "bbox": [
+    -95.975118,
+    35.622538,
+    -95.975118,
+    35.622538
+],
+  "geometry": {"coordinates":[-95.97511799999999,35.622538],"type":"Point"}
 }

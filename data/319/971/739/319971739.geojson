@@ -2,13 +2,14 @@
   "id": 319971739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.980259,36.108578,-95.980259,36.108578",
     "geom:latitude":36.108578,
     "geom:longitude":-95.980259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3738 S Madison Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319971739,
-    "wof:lastmodified":1449024482,
+    "wof:lastmodified":1466764169,
     "wof:name":"Osteen & Assoc",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-95.980259,36.108578,-95.980259,36.108578],
+  "bbox": [
+    -95.980259,
+    36.108578,
+    -95.980259,
+    36.108578
+],
   "geometry": {"coordinates":[-95.980259,36.108578],"type":"Point"}
 }

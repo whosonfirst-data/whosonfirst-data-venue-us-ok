@@ -2,13 +2,14 @@
   "id": 320159045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976981,36.098502,-95.976981,36.098502",
     "geom:latitude":36.098502,
     "geom:longitude":-95.976981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4315 S Owasso Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320159045,
-    "wof:lastmodified":1449011697,
+    "wof:lastmodified":1466764286,
     "wof:name":"Abbey Road Apartments",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.976981,36.098502,-95.976981,36.098502],
-  "geometry": {"coordinates":[-95.976981,36.098502],"type":"Point"}
+  "bbox": [
+    -95.976981,
+    36.098502,
+    -95.976981,
+    36.098502
+],
+  "geometry": {"coordinates":[-95.97698099999999,36.098502],"type":"Point"}
 }

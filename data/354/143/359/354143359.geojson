@@ -2,13 +2,14 @@
   "id": 354143359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.313481,35.431462,-96.313481,35.431462",
     "geom:latitude":35.431462,
     "geom:longitude":-96.313481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 W Broadway St",
     "sg:city":"Okemah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354143359,
-    "wof:lastmodified":1449067358,
+    "wof:lastmodified":1466763668,
     "wof:name":"Tax Time Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-96.313481,35.431462,-96.313481,35.431462],
+  "bbox": [
+    -96.313481,
+    35.431462,
+    -96.313481,
+    35.431462
+],
   "geometry": {"coordinates":[-96.313481,35.431462],"type":"Point"}
 }

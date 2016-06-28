@@ -2,13 +2,14 @@
   "id": 303331925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.89897,36.113388,-97.89897,36.113388",
     "geom:latitude":36.113388,
     "geom:longitude":-97.89897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 N Main St",
     "sg:city":"Hennessey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303331925,
-    "wof:lastmodified":1448999606,
+    "wof:lastmodified":1466764982,
     "wof:name":"Taco Mayo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.89897,36.113388,-97.89897,36.113388],
-  "geometry": {"coordinates":[-97.89897,36.113388],"type":"Point"}
+  "bbox": [
+    -97.89897,
+    36.113388,
+    -97.89897,
+    36.113388
+],
+  "geometry": {"coordinates":[-97.89897000000001,36.113388],"type":"Point"}
 }

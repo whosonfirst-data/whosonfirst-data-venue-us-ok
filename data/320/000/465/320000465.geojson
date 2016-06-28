@@ -2,13 +2,14 @@
   "id": 320000465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.97407,36.113447,-95.97407,36.113447",
     "geom:latitude":36.113447,
     "geom:longitude":-95.97407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 E 35th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320000465,
-    "wof:lastmodified":1449011853,
+    "wof:lastmodified":1466762285,
     "wof:name":"Fusion",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.97407,36.113447,-95.97407,36.113447],
+  "bbox": [
+    -95.97407,
+    36.113447,
+    -95.97407,
+    36.113447
+],
   "geometry": {"coordinates":[-95.97407,36.113447],"type":"Point"}
 }

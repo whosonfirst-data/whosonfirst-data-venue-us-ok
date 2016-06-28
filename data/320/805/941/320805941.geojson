@@ -2,13 +2,14 @@
   "id": 320805941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.477047,36.677457,-101.477047,36.677457",
     "geom:latitude":36.677457,
     "geom:longitude":-101.477047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 US Hwy 54",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320805941,
-    "wof:lastmodified":1449012518,
+    "wof:lastmodified":1466766955,
     "wof:name":"Coastal Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.477047,36.677457,-101.477047,36.677457],
+  "bbox": [
+    -101.477047,
+    36.677457,
+    -101.477047,
+    36.677457
+],
   "geometry": {"coordinates":[-101.477047,36.677457],"type":"Point"}
 }

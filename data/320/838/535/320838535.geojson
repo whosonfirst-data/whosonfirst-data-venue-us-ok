@@ -2,13 +2,14 @@
   "id": 320838535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.489685,35.490525,-97.489685,35.490525",
     "geom:latitude":35.490525,
     "geom:longitude":-97.489685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2145 N Lottie Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320838535,
-    "wof:lastmodified":1449011697,
+    "wof:lastmodified":1466766934,
     "wof:name":"Abundant Life Church",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.489685,35.490525,-97.489685,35.490525],
-  "geometry": {"coordinates":[-97.489685,35.490525],"type":"Point"}
+  "bbox": [
+    -97.489685,
+    35.490525,
+    -97.489685,
+    35.490525
+],
+  "geometry": {"coordinates":[-97.48968499999999,35.490525],"type":"Point"}
 }

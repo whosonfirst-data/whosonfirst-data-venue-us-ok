@@ -2,13 +2,14 @@
   "id": 303389963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.879651,36.397873,-97.879651,36.397873",
     "geom:latitude":36.397873,
     "geom:longitude":-97.879651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 W Randolph Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303389963,
-    "wof:lastmodified":1449000064,
+    "wof:lastmodified":1466765271,
     "wof:name":"Sidewalk Coffee Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.879651,36.397873,-97.879651,36.397873],
+  "bbox": [
+    -97.879651,
+    36.397873,
+    -97.879651,
+    36.397873
+],
   "geometry": {"coordinates":[-97.879651,36.397873],"type":"Point"}
 }

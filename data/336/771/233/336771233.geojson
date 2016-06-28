@@ -2,13 +2,14 @@
   "id": 336771233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.519034,35.481113,-97.519034,35.481113",
     "geom:latitude":35.481113,
     "geom:longitude":-97.519034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 N Hudson Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336771233,
-    "wof:lastmodified":1448997530,
+    "wof:lastmodified":1466764525,
     "wof:name":"Textures Salon",
     "wof:parent_id":85871701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.519034,35.481113,-97.519034,35.481113],
+  "bbox": [
+    -97.519034,
+    35.481113,
+    -97.519034,
+    35.481113
+],
   "geometry": {"coordinates":[-97.519034,35.481113],"type":"Point"}
 }

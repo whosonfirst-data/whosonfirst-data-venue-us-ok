@@ -2,13 +2,14 @@
   "id": 320334989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.311422,35.609048,-97.311422,35.609048",
     "geom:latitude":35.609048,
     "geom:longitude":-97.311422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12301 E Memorial Rd",
     "sg:city":"Jones",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320334989,
-    "wof:lastmodified":1449012358,
+    "wof:lastmodified":1466765382,
     "wof:name":"Roll N J's Inc",
     "wof:parent_id":85829129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.311422,35.609048,-97.311422,35.609048],
-  "geometry": {"coordinates":[-97.311422,35.609048],"type":"Point"}
+  "bbox": [
+    -97.311422,
+    35.609048,
+    -97.311422,
+    35.609048
+],
+  "geometry": {"coordinates":[-97.31142199999999,35.609048],"type":"Point"}
 }

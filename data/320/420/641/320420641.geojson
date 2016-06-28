@@ -2,13 +2,14 @@
   "id": 320420641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.8225,36.030243,-95.8225,36.030243",
     "geom:latitude":36.030243,
     "geom:longitude":-95.8225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2606 W Atlanta St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320420641,
-    "wof:lastmodified":1449013044,
+    "wof:lastmodified":1466765730,
     "wof:name":"Voice Expert",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jingle"
     ]
 },
-  "bbox": [-95.8225,36.030243,-95.8225,36.030243],
-  "geometry": {"coordinates":[-95.8225,36.030243],"type":"Point"}
+  "bbox": [
+    -95.8225,
+    36.030243,
+    -95.8225,
+    36.030243
+],
+  "geometry": {"coordinates":[-95.82250000000001,36.030243],"type":"Point"}
 }

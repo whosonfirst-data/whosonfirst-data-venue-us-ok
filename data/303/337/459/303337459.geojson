@@ -2,13 +2,14 @@
   "id": 303337459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.984933,35.28521,-98.984933,35.28521",
     "geom:latitude":35.28521,
     "geom:longitude":-98.984933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 E Normal St",
     "sg:city":"Cordell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303337459,
-    "wof:lastmodified":1448999264,
+    "wof:lastmodified":1466765225,
     "wof:name":"Bell & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-98.984933,35.28521,-98.984933,35.28521],
+  "bbox": [
+    -98.984933,
+    35.28521,
+    -98.984933,
+    35.28521
+],
   "geometry": {"coordinates":[-98.984933,35.28521],"type":"Point"}
 }

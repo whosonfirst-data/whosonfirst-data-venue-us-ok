@@ -2,13 +2,14 @@
   "id": 303265415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.580029,35.532239,-97.580029,35.532239",
     "geom:latitude":35.532239,
     "geom:longitude":-97.580029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3510 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303265415,
-    "wof:lastmodified":1448998950,
+    "wof:lastmodified":1466764785,
     "wof:name":"Romano's Macaroni Grill",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.580029,35.532239,-97.580029,35.532239],
+  "bbox": [
+    -97.580029,
+    35.532239,
+    -97.580029,
+    35.532239
+],
   "geometry": {"coordinates":[-97.580029,35.532239],"type":"Point"}
 }

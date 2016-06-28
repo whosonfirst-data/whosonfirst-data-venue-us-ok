@@ -2,13 +2,14 @@
   "id": 320748889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.85192,36.114052,-95.85192,36.114052",
     "geom:latitude":36.114052,
     "geom:longitude":-95.85192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10816 E 33rd Ct",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320748889,
-    "wof:lastmodified":1449014047,
+    "wof:lastmodified":1466766684,
     "wof:name":"Fe Construction Company LLC",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-95.85192,36.114052,-95.85192,36.114052],
-  "geometry": {"coordinates":[-95.85192,36.114052],"type":"Point"}
+  "bbox": [
+    -95.85192,
+    36.114052,
+    -95.85192,
+    36.114052
+],
+  "geometry": {"coordinates":[-95.85192000000001,36.114052],"type":"Point"}
 }

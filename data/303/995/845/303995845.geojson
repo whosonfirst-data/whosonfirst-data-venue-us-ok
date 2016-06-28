@@ -2,13 +2,14 @@
   "id": 303995845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.703244,36.565425,-96.703244,36.565425",
     "geom:latitude":36.565425,
     "geom:longitude":-96.703244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"553 S 2nd St",
     "sg:city":"Fairfax",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303995845,
-    "wof:lastmodified":1449000297,
+    "wof:lastmodified":1466767125,
     "wof:name":"Crabtree Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.703244,36.565425,-96.703244,36.565425],
+  "bbox": [
+    -96.703244,
+    36.565425,
+    -96.703244,
+    36.565425
+],
   "geometry": {"coordinates":[-96.703244,36.565425],"type":"Point"}
 }

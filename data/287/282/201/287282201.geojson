@@ -2,13 +2,14 @@
   "id": 287282201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.316549,36.308803,-95.316549,36.308803",
     "geom:latitude":36.308803,
     "geom:longitude":-95.316549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 N Adair St",
     "sg:city":"Pryor",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":287282201,
-    "wof:lastmodified":1449001226,
+    "wof:lastmodified":1466763163,
     "wof:name":"Bible Book Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-95.316549,36.308803,-95.316549,36.308803],
-  "geometry": {"coordinates":[-95.316549,36.308803],"type":"Point"}
+  "bbox": [
+    -95.316549,
+    36.308803,
+    -95.316549,
+    36.308803
+],
+  "geometry": {"coordinates":[-95.31654899999999,36.308803],"type":"Point"}
 }

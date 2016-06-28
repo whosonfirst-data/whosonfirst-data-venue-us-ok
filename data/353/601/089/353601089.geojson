@@ -2,13 +2,14 @@
   "id": 353601089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.60532,35.478701,-97.60532,35.478701",
     "geom:latitude":35.478701,
     "geom:longitude":-97.60532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4612 NW 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353601089,
-    "wof:lastmodified":1449019399,
+    "wof:lastmodified":1466764383,
     "wof:name":"Blue Fox 2 Inc",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-97.60532,35.478701,-97.60532,35.478701],
-  "geometry": {"coordinates":[-97.60532,35.478701],"type":"Point"}
+  "bbox": [
+    -97.60532,
+    35.478701,
+    -97.60532,
+    35.478701
+],
+  "geometry": {"coordinates":[-97.60532000000001,35.478701],"type":"Point"}
 }

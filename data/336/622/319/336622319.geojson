@@ -2,13 +2,14 @@
   "id": 336622319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940279,36.1375,-95.940279,36.1375",
     "geom:latitude":36.1375,
     "geom:longitude":-95.940279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1633 S Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336622319,
-    "wof:lastmodified":1448997835,
+    "wof:lastmodified":1466762531,
     "wof:name":"Harvard Vision Clinic",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.940279,36.1375,-95.940279,36.1375],
+  "bbox": [
+    -95.940279,
+    36.1375,
+    -95.940279,
+    36.1375
+],
   "geometry": {"coordinates":[-95.940279,36.1375],"type":"Point"}
 }

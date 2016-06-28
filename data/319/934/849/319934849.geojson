@@ -2,13 +2,14 @@
   "id": 319934849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.489168,35.233286,-97.489168,35.233286",
     "geom:latitude":35.233286,
     "geom:longitude":-97.489168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Crossroads Blvd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319934849,
-    "wof:lastmodified":1449024139,
+    "wof:lastmodified":1466763925,
     "wof:name":"H R Solutions",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.489168,35.233286,-97.489168,35.233286],
-  "geometry": {"coordinates":[-97.489168,35.233286],"type":"Point"}
+  "bbox": [
+    -97.489168,
+    35.233286,
+    -97.489168,
+    35.233286
+],
+  "geometry": {"coordinates":[-97.48916800000001,35.233286],"type":"Point"}
 }

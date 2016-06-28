@@ -2,13 +2,14 @@
   "id": 336941875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750125,35.406263,-97.750125,35.406263",
     "geom:latitude":35.406263,
     "geom:longitude":-97.750125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 SW 59th St",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336941875,
-    "wof:lastmodified":1448997582,
+    "wof:lastmodified":1466765403,
     "wof:name":"Superior Exteriors",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-97.750125,35.406263,-97.750125,35.406263],
+  "bbox": [
+    -97.750125,
+    35.406263,
+    -97.750125,
+    35.406263
+],
   "geometry": {"coordinates":[-97.750125,35.406263],"type":"Point"}
 }

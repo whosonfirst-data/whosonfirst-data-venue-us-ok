@@ -2,13 +2,14 @@
   "id": 336603039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.868743,36.177053,-95.868743,36.177053",
     "geom:latitude":36.177053,
     "geom:longitude":-95.868743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 N Mingo Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":336603039,
-    "wof:lastmodified":1448997873,
+    "wof:lastmodified":1466764241,
     "wof:name":"Imperial Coffee Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.868743,36.177053,-95.868743,36.177053],
-  "geometry": {"coordinates":[-95.868743,36.177053],"type":"Point"}
+  "bbox": [
+    -95.868743,
+    36.177053,
+    -95.868743,
+    36.177053
+],
+  "geometry": {"coordinates":[-95.86874299999999,36.177053],"type":"Point"}
 }

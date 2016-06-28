@@ -2,13 +2,14 @@
   "id": 353713241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.544983,35.535602,-97.544983,35.535602",
     "geom:latitude":35.535602,
     "geom:longitude":-97.544983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Waterford Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353713241,
-    "wof:lastmodified":1449020570,
+    "wof:lastmodified":1466764936,
     "wof:name":"Stillwater National Bank",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air"
     ]
 },
-  "bbox": [-97.544983,35.535602,-97.544983,35.535602],
+  "bbox": [
+    -97.544983,
+    35.535602,
+    -97.544983,
+    35.535602
+],
   "geometry": {"coordinates":[-97.544983,35.535602],"type":"Point"}
 }

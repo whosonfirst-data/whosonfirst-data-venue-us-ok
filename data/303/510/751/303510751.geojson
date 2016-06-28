@@ -2,13 +2,14 @@
   "id": 303510751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.335566,35.488383,-97.335566,35.488383",
     "geom:latitude":35.488383,
     "geom:longitude":-97.335566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1980 N Westminster Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303510751,
-    "wof:lastmodified":1448999590,
+    "wof:lastmodified":1466765881,
     "wof:name":"Red Plains Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.335566,35.488383,-97.335566,35.488383],
+  "bbox": [
+    -97.335566,
+    35.488383,
+    -97.335566,
+    35.488383
+],
   "geometry": {"coordinates":[-97.335566,35.488383],"type":"Point"}
 }

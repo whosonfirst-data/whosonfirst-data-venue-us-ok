@@ -2,13 +2,14 @@
   "id": 303499131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.331818,36.671728,-96.331818,36.671728",
     "geom:latitude":36.671728,
     "geom:longitude":-96.331818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 Lynn Ave",
     "sg:city":"Pawhuska",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303499131,
-    "wof:lastmodified":1448998581,
+    "wof:lastmodified":1466765833,
     "wof:name":"Pawhuska Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [-96.331818,36.671728,-96.331818,36.671728],
+  "bbox": [
+    -96.331818,
+    36.671728,
+    -96.331818,
+    36.671728
+],
   "geometry": {"coordinates":[-96.331818,36.671728],"type":"Point"}
 }

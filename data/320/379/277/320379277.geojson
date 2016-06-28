@@ -2,13 +2,14 @@
   "id": 320379277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.372225,35.96993,-95.372225,35.96993",
     "geom:latitude":35.96993,
     "geom:longitude":-95.372225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 N State St",
     "sg:city":"Wagoner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320379277,
-    "wof:lastmodified":1449013426,
+    "wof:lastmodified":1466765604,
     "wof:name":"Harvey Hunter Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographic"
     ]
 },
-  "bbox": [-95.372225,35.96993,-95.372225,35.96993],
+  "bbox": [
+    -95.372225,
+    35.96993,
+    -95.372225,
+    35.96993
+],
   "geometry": {"coordinates":[-95.372225,35.96993],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303230951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.464118,36.309955,-96.464118,36.309955",
     "geom:latitude":36.309955,
     "geom:longitude":-96.464118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Broadway St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303230951,
-    "wof:lastmodified":1448999933,
+    "wof:lastmodified":1466764459,
     "wof:name":"Tap Petroleum Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-96.464118,36.309955,-96.464118,36.309955],
+  "bbox": [
+    -96.464118,
+    36.309955,
+    -96.464118,
+    36.309955
+],
   "geometry": {"coordinates":[-96.464118,36.309955],"type":"Point"}
 }

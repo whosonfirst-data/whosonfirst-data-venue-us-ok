@@ -2,13 +2,14 @@
   "id": 337443953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.563355,35.52217,-97.563355,35.52217",
     "geom:latitude":35.52217,
     "geom:longitude":-97.563355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2723 NW 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337443953,
-    "wof:lastmodified":1449027597,
+    "wof:lastmodified":1466762315,
     "wof:name":"Patrick O Glenn",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.563355,35.52217,-97.563355,35.52217],
+  "bbox": [
+    -97.563355,
+    35.52217,
+    -97.563355,
+    35.52217
+],
   "geometry": {"coordinates":[-97.563355,35.52217],"type":"Point"}
 }

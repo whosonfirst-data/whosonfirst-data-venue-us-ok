@@ -2,13 +2,14 @@
   "id": 319842251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.656698,36.797675,-98.656698,36.797675",
     "geom:latitude":36.797675,
     "geom:longitude":-98.656698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 E Oklahoma Blvd",
     "sg:city":"Alva",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319842251,
-    "wof:lastmodified":1449024157,
+    "wof:lastmodified":1466763071,
     "wof:name":"Lehl & Sons Water Well Drill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-98.656698,36.797675,-98.656698,36.797675],
-  "geometry": {"coordinates":[-98.656698,36.797675],"type":"Point"}
+  "bbox": [
+    -98.656698,
+    36.797675,
+    -98.656698,
+    36.797675
+],
+  "geometry": {"coordinates":[-98.65669800000001,36.797675],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320258283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.479457,35.648596,-97.479457,35.648596",
     "geom:latitude":35.648596,
     "geom:longitude":-97.479457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 S Littler Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":320258283,
-    "wof:lastmodified":1449014196,
+    "wof:lastmodified":1466764906,
     "wof:name":"Bob Steele Appliance Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "electrical"
     ]
 },
-  "bbox": [-97.479457,35.648596,-97.479457,35.648596],
+  "bbox": [
+    -97.479457,
+    35.648596,
+    -97.479457,
+    35.648596
+],
   "geometry": {"coordinates":[-97.479457,35.648596],"type":"Point"}
 }

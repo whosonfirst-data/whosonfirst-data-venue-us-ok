@@ -2,13 +2,14 @@
   "id": 353498105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.5735,35.594081,-97.5735,35.594081",
     "geom:latitude":35.594081,
     "geom:longitude":-97.5735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3009 Hickory Stick Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353498105,
-    "wof:lastmodified":1449020195,
+    "wof:lastmodified":1466763088,
     "wof:name":"Sales Edge Corp",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic"
     ]
 },
-  "bbox": [-97.5735,35.594081,-97.5735,35.594081],
+  "bbox": [
+    -97.5735,
+    35.594081,
+    -97.5735,
+    35.594081
+],
   "geometry": {"coordinates":[-97.5735,35.594081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320440813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.325793,35.774608,-95.325793,35.774608",
     "geom:latitude":35.774608,
     "geom:longitude":-95.325793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2303 Robin Ln",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320440813,
-    "wof:lastmodified":1449012595,
+    "wof:lastmodified":1466766022,
     "wof:name":"Rachel's Karaoke Svc",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-95.325793,35.774608,-95.325793,35.774608],
+  "bbox": [
+    -95.325793,
+    35.774608,
+    -95.325793,
+    35.774608
+],
   "geometry": {"coordinates":[-95.325793,35.774608],"type":"Point"}
 }

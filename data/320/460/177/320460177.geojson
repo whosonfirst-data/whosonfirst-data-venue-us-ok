@@ -2,13 +2,14 @@
   "id": 320460177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.483104,36.677442,-101.483104,36.677442",
     "geom:latitude":36.677442,
     "geom:longitude":-101.483104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 US Hwy 54",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320460177,
-    "wof:lastmodified":1449014749,
+    "wof:lastmodified":1466765967,
     "wof:name":"Environment Quality Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.483104,36.677442,-101.483104,36.677442],
+  "bbox": [
+    -101.483104,
+    36.677442,
+    -101.483104,
+    36.677442
+],
   "geometry": {"coordinates":[-101.483104,36.677442],"type":"Point"}
 }

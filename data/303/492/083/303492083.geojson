@@ -2,13 +2,14 @@
   "id": 303492083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.000724,34.060289,-95.000724,34.060289",
     "geom:latitude":34.060289,
     "geom:longitude":-95.000724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 2nd St",
     "sg:city":"Wright City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303492083,
-    "wof:lastmodified":1448998115,
+    "wof:lastmodified":1466765818,
     "wof:name":"Barbara's Grocery & Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-95.000724,34.060289,-95.000724,34.060289],
-  "geometry": {"coordinates":[-95.000724,34.060289],"type":"Point"}
+  "bbox": [
+    -95.000724,
+    34.060289,
+    -95.000724,
+    34.060289
+],
+  "geometry": {"coordinates":[-95.00072400000001,34.060289],"type":"Point"}
 }

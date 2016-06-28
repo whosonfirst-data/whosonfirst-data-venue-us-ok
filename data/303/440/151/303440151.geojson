@@ -2,13 +2,14 @@
   "id": 303440151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.154815,36.140805,-96.154815,36.140805",
     "geom:latitude":36.140805,
     "geom:longitude":-96.154815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S 145th W Ave",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303440151,
-    "wof:lastmodified":1448998982,
+    "wof:lastmodified":1466765505,
     "wof:name":"Riverside Mobile Home Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "site"
     ]
 },
-  "bbox": [-96.154815,36.140805,-96.154815,36.140805],
+  "bbox": [
+    -96.154815,
+    36.140805,
+    -96.154815,
+    36.140805
+],
   "geometry": {"coordinates":[-96.154815,36.140805],"type":"Point"}
 }

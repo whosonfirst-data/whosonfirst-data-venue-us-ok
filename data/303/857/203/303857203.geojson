@@ -2,13 +2,14 @@
   "id": 303857203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.516545,35.536909,-97.516545,35.536909",
     "geom:latitude":35.536909,
     "geom:longitude":-97.516545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 NW 63rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303857203,
-    "wof:lastmodified":1448999703,
+    "wof:lastmodified":1466766959,
     "wof:name":"Allan M Ephraim CPA",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-97.516545,35.536909,-97.516545,35.536909],
-  "geometry": {"coordinates":[-97.516545,35.536909],"type":"Point"}
+  "bbox": [
+    -97.516545,
+    35.536909,
+    -97.516545,
+    35.536909
+],
+  "geometry": {"coordinates":[-97.51654499999999,35.536909],"type":"Point"}
 }

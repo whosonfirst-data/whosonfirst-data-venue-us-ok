@@ -2,13 +2,14 @@
   "id": 320460753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.483067,36.697372,-101.483067,36.697372",
     "geom:latitude":36.697372,
     "geom:longitude":-101.483067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 US Hwy 64",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320460753,
-    "wof:lastmodified":1449014747,
+    "wof:lastmodified":1466765975,
     "wof:name":"La'Risa's Tex Mex Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.483067,36.697372,-101.483067,36.697372],
-  "geometry": {"coordinates":[-101.483067,36.697372],"type":"Point"}
+  "bbox": [
+    -101.483067,
+    36.697372,
+    -101.483067,
+    36.697372
+],
+  "geometry": {"coordinates":[-101.48306700000001,36.697372],"type":"Point"}
 }

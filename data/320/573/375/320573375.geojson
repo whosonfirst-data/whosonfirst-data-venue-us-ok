@@ -2,13 +2,14 @@
   "id": 320573375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.875245,36.874335,-94.875245,36.874335",
     "geom:latitude":36.874335,
     "geom:longitude":-94.875245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 B St SE",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320573375,
-    "wof:lastmodified":1449014012,
+    "wof:lastmodified":1466766226,
     "wof:name":"Wright & Wright",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.875245,36.874335,-94.875245,36.874335],
-  "geometry": {"coordinates":[-94.875245,36.874335],"type":"Point"}
+  "bbox": [
+    -94.875245,
+    36.874335,
+    -94.875245,
+    36.874335
+],
+  "geometry": {"coordinates":[-94.87524500000001,36.874335],"type":"Point"}
 }

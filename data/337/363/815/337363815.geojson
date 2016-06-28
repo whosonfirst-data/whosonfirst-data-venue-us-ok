@@ -2,13 +2,14 @@
   "id": 337363815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.005637,36.129767,-96.005637,36.129767",
     "geom:latitude":36.129767,
     "geom:longitude":-96.005637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 W 23rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337363815,
-    "wof:lastmodified":1449027643,
+    "wof:lastmodified":1466763735,
     "wof:name":"Cowen Construction",
     "wof:parent_id":85821015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.005637,36.129767,-96.005637,36.129767],
-  "geometry": {"coordinates":[-96.005637,36.129767],"type":"Point"}
+  "bbox": [
+    -96.005637,
+    36.129767,
+    -96.005637,
+    36.129767
+],
+  "geometry": {"coordinates":[-96.00563699999999,36.129767],"type":"Point"}
 }

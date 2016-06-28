@@ -2,13 +2,14 @@
   "id": 303692713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.885129,36.002756,-95.885129,36.002756",
     "geom:latitude":36.002756,
     "geom:longitude":-95.885129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8240 E 111th St S",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303692713,
-    "wof:lastmodified":1448998762,
+    "wof:lastmodified":1466766472,
     "wof:name":"S S Medical",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.885129,36.002756,-95.885129,36.002756],
-  "geometry": {"coordinates":[-95.885129,36.002756],"type":"Point"}
+  "bbox": [
+    -95.885129,
+    36.002756,
+    -95.885129,
+    36.002756
+],
+  "geometry": {"coordinates":[-95.88512900000001,36.002756],"type":"Point"}
 }

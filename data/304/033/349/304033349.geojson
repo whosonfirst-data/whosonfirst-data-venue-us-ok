@@ -2,13 +2,14 @@
   "id": 304033349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.618633,34.278549,-96.618633,34.278549",
     "geom:latitude":34.278549,
     "geom:longitude":-96.618633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6701 S Bullard Chapel Rd",
     "sg:city":"Tishomingo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":304033349,
-    "wof:lastmodified":1449043674,
+    "wof:lastmodified":1466762995,
     "wof:name":"Warden Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.618633,34.278549,-96.618633,34.278549],
+  "bbox": [
+    -96.618633,
+    34.278549,
+    -96.618633,
+    34.278549
+],
   "geometry": {"coordinates":[-96.618633,34.278549],"type":"Point"}
 }

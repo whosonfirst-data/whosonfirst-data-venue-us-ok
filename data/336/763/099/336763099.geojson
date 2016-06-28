@@ -2,13 +2,14 @@
   "id": 336763099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.962225,34.540653,-97.962225,34.540653",
     "geom:latitude":34.540653,
     "geom:longitude":-97.962225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2903 Wild Oaks Dr",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336763099,
-    "wof:lastmodified":1448998008,
+    "wof:lastmodified":1466764361,
     "wof:name":"Miller Audio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "production"
     ]
 },
-  "bbox": [-97.962225,34.540653,-97.962225,34.540653],
+  "bbox": [
+    -97.962225,
+    34.540653,
+    -97.962225,
+    34.540653
+],
   "geometry": {"coordinates":[-97.962225,34.540653],"type":"Point"}
 }

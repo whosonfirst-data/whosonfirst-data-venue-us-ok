@@ -2,13 +2,14 @@
   "id": 320253653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.628993,35.074683,-94.628993,35.074683",
     "geom:latitude":35.074683,
     "geom:longitude":-94.628993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 N Broadway St",
     "sg:city":"Poteau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320253653,
-    "wof:lastmodified":1449014498,
+    "wof:lastmodified":1466764875,
     "wof:name":"Totally Unique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.628993,35.074683,-94.628993,35.074683],
-  "geometry": {"coordinates":[-94.628993,35.074683],"type":"Point"}
+  "bbox": [
+    -94.628993,
+    35.074683,
+    -94.628993,
+    35.074683
+],
+  "geometry": {"coordinates":[-94.62899299999999,35.074683],"type":"Point"}
 }

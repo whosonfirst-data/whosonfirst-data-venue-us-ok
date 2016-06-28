@@ -2,13 +2,14 @@
   "id": 303799991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.331628,35.493184,-97.331628,35.493184",
     "geom:latitude":35.493184,
     "geom:longitude":-97.331628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11000 NE 23rd St",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303799991,
-    "wof:lastmodified":1449000579,
+    "wof:lastmodified":1466766816,
     "wof:name":"Total Carpet Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-97.331628,35.493184,-97.331628,35.493184],
-  "geometry": {"coordinates":[-97.331628,35.493184],"type":"Point"}
+  "bbox": [
+    -97.331628,
+    35.493184,
+    -97.331628,
+    35.493184
+],
+  "geometry": {"coordinates":[-97.33162799999999,35.493184],"type":"Point"}
 }

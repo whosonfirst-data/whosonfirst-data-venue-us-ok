@@ -2,13 +2,14 @@
   "id": 354158315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.935488,35.046061,-97.935488,35.046061",
     "geom:latitude":35.046061,
     "geom:longitude":-97.935488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 S 3rd St",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354158315,
-    "wof:lastmodified":1449067110,
+    "wof:lastmodified":1466763721,
     "wof:name":"Auto Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-97.935488,35.046061,-97.935488,35.046061],
-  "geometry": {"coordinates":[-97.935488,35.046061],"type":"Point"}
+  "bbox": [
+    -97.935488,
+    35.046061,
+    -97.935488,
+    35.046061
+],
+  "geometry": {"coordinates":[-97.93548800000001,35.046061],"type":"Point"}
 }

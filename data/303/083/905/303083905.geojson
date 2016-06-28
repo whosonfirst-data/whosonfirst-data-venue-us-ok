@@ -2,13 +2,14 @@
   "id": 303083905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.815258,36.058309,-95.815258,36.058309",
     "geom:latitude":36.058309,
     "geom:longitude":-95.815258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N Aspen Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303083905,
-    "wof:lastmodified":1448999280,
+    "wof:lastmodified":1466762973,
     "wof:name":"Aspen Medical Imaging Inc",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "radiologist"
     ]
 },
-  "bbox": [-95.815258,36.058309,-95.815258,36.058309],
+  "bbox": [
+    -95.815258,
+    36.058309,
+    -95.815258,
+    36.058309
+],
   "geometry": {"coordinates":[-95.815258,36.058309],"type":"Point"}
 }

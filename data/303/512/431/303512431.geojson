@@ -2,13 +2,14 @@
   "id": 303512431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.781659,34.945423,-95.781659,34.945423",
     "geom:latitude":34.945423,
     "geom:longitude":-95.781659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N West St",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303512431,
-    "wof:lastmodified":1448999896,
+    "wof:lastmodified":1466765892,
     "wof:name":"Specialized Financial Svc Inc",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-95.781659,34.945423,-95.781659,34.945423],
+  "bbox": [
+    -95.781659,
+    34.945423,
+    -95.781659,
+    34.945423
+],
   "geometry": {"coordinates":[-95.781659,34.945423],"type":"Point"}
 }

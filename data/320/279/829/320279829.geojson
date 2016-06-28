@@ -2,13 +2,14 @@
   "id": 320279829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.433282,35.435163,-97.433282,35.435163",
     "geom:latitude":35.435163,
     "geom:longitude":-97.433282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4638 SE 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320279829,
-    "wof:lastmodified":1449012969,
+    "wof:lastmodified":1466764960,
     "wof:name":"American West Financial Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-97.433282,35.435163,-97.433282,35.435163],
-  "geometry": {"coordinates":[-97.433282,35.435163],"type":"Point"}
+  "bbox": [
+    -97.433282,
+    35.435163,
+    -97.433282,
+    35.435163
+],
+  "geometry": {"coordinates":[-97.43328200000001,35.435163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320761805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.525709,35.465331,-97.525709,35.465331",
     "geom:latitude":35.465331,
     "geom:longitude":-97.525709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 W California Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320761805,
-    "wof:lastmodified":1449014078,
+    "wof:lastmodified":1466766608,
     "wof:name":"Chris Kroth 24 Hour Bail Bonds",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-97.525709,35.465331,-97.525709,35.465331],
-  "geometry": {"coordinates":[-97.525709,35.465331],"type":"Point"}
+  "bbox": [
+    -97.525709,
+    35.465331,
+    -97.525709,
+    35.465331
+],
+  "geometry": {"coordinates":[-97.52570900000001,35.465331],"type":"Point"}
 }

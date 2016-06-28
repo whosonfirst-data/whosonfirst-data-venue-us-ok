@@ -2,13 +2,14 @@
   "id": 336860299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.79972,36.172599,-95.79972,36.172599",
     "geom:latitude":36.172599,
     "geom:longitude":-95.79972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 N 159th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336860299,
-    "wof:lastmodified":1448997428,
+    "wof:lastmodified":1466764978,
     "wof:name":"A & K Cadilac Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.79972,36.172599,-95.79972,36.172599],
-  "geometry": {"coordinates":[-95.79972,36.172599],"type":"Point"}
+  "bbox": [
+    -95.79972,
+    36.172599,
+    -95.79972,
+    36.172599
+],
+  "geometry": {"coordinates":[-95.79971999999999,36.172599],"type":"Point"}
 }

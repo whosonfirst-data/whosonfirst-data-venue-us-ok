@@ -2,13 +2,14 @@
   "id": 304076661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.610138,35.479946,-97.610138,35.479946",
     "geom:latitude":35.479946,
     "geom:longitude":-97.610138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 N Ann Arbor Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304076661,
-    "wof:lastmodified":1449044028,
+    "wof:lastmodified":1466763260,
     "wof:name":"Haney & Associates Inc",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.610138,35.479946,-97.610138,35.479946],
-  "geometry": {"coordinates":[-97.610138,35.479946],"type":"Point"}
+  "bbox": [
+    -97.610138,
+    35.479946,
+    -97.610138,
+    35.479946
+],
+  "geometry": {"coordinates":[-97.61013800000001,35.479946],"type":"Point"}
 }

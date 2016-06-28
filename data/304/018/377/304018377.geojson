@@ -2,13 +2,14 @@
   "id": 304018377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.46389,35.671622,-97.46389,35.671622",
     "geom:latitude":35.671622,
     "geom:longitude":-97.46389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Olde North Pl",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304018377,
-    "wof:lastmodified":1449043868,
+    "wof:lastmodified":1466762910,
     "wof:name":"Natus Medical Inc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-97.46389,35.671622,-97.46389,35.671622],
-  "geometry": {"coordinates":[-97.46389,35.671622],"type":"Point"}
+  "bbox": [
+    -97.46389,
+    35.671622,
+    -97.46389,
+    35.671622
+],
+  "geometry": {"coordinates":[-97.46389000000001,35.671622],"type":"Point"}
 }

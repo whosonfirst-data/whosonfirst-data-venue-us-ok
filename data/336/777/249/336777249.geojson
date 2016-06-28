@@ -2,13 +2,14 @@
   "id": 336777249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.861835,36.390552,-97.861835,36.390552",
     "geom:latitude":36.390552,
     "geom:longitude":-97.861835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 E Owen K Garriott Rd",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336777249,
-    "wof:lastmodified":1448997517,
+    "wof:lastmodified":1466764573,
     "wof:name":"Greenbriar Special Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rest"
     ]
 },
-  "bbox": [-97.861835,36.390552,-97.861835,36.390552],
+  "bbox": [
+    -97.861835,
+    36.390552,
+    -97.861835,
+    36.390552
+],
   "geometry": {"coordinates":[-97.861835,36.390552],"type":"Point"}
 }

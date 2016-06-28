@@ -2,13 +2,14 @@
   "id": 303083483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.926976,36.20307,-95.926976,36.20307",
     "geom:latitude":36.20307,
     "geom:longitude":-95.926976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2935 N Toledo Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303083483,
-    "wof:lastmodified":1448999282,
+    "wof:lastmodified":1466762965,
     "wof:name":"Lone Star Transportation Inc",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.926976,36.20307,-95.926976,36.20307],
+  "bbox": [
+    -95.926976,
+    36.20307,
+    -95.926976,
+    36.20307
+],
   "geometry": {"coordinates":[-95.926976,36.20307],"type":"Point"}
 }

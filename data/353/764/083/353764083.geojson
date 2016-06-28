@@ -2,13 +2,14 @@
   "id": 353764083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.540012,35.565652,-97.540012,35.565652",
     "geom:latitude":35.565652,
     "geom:longitude":-97.540012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1435 W Britton Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353764083,
-    "wof:lastmodified":1449020667,
+    "wof:lastmodified":1466765165,
     "wof:name":"All City Family Dental Care",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-97.540012,35.565652,-97.540012,35.565652],
+  "bbox": [
+    -97.540012,
+    35.565652,
+    -97.540012,
+    35.565652
+],
   "geometry": {"coordinates":[-97.540012,35.565652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303341119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.493288,35.612992,-97.493288,35.612992",
     "geom:latitude":35.612992,
     "geom:longitude":-97.493288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 NE 139th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303341119,
-    "wof:lastmodified":1449000459,
+    "wof:lastmodified":1466765122,
     "wof:name":"Horn Inc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.493288,35.612992,-97.493288,35.612992],
-  "geometry": {"coordinates":[-97.493288,35.612992],"type":"Point"}
+  "bbox": [
+    -97.493288,
+    35.612992,
+    -97.493288,
+    35.612992
+],
+  "geometry": {"coordinates":[-97.49328800000001,35.612992],"type":"Point"}
 }

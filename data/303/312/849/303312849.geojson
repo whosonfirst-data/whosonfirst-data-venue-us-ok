@@ -2,13 +2,14 @@
   "id": 303312849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.165237,35.490913,-97.165237,35.490913",
     "geom:latitude":35.490913,
     "geom:longitude":-97.165237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1971 Church Ave",
     "sg:city":"Harrah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303312849,
-    "wof:lastmodified":1448999352,
+    "wof:lastmodified":1466765023,
     "wof:name":"Harrah Chamber Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commerce"
     ]
 },
-  "bbox": [-97.165237,35.490913,-97.165237,35.490913],
+  "bbox": [
+    -97.165237,
+    35.490913,
+    -97.165237,
+    35.490913
+],
   "geometry": {"coordinates":[-97.165237,35.490913],"type":"Point"}
 }

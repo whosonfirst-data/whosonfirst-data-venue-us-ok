@@ -2,13 +2,14 @@
   "id": 353776477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.009538,36.11576,-96.009538,36.11576",
     "geom:latitude":36.11576,
     "geom:longitude":-96.009538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3318 S Santa Fe Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353776477,
-    "wof:lastmodified":1449018822,
+    "wof:lastmodified":1466765324,
     "wof:name":"Suttles Truck Leasing",
     "wof:parent_id":85821015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.009538,36.11576,-96.009538,36.11576],
-  "geometry": {"coordinates":[-96.009538,36.11576],"type":"Point"}
+  "bbox": [
+    -96.009538,
+    36.11576,
+    -96.009538,
+    36.11576
+],
+  "geometry": {"coordinates":[-96.00953800000001,36.11576],"type":"Point"}
 }

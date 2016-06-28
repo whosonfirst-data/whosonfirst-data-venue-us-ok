@@ -2,13 +2,14 @@
   "id": 336836815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.425322,34.152049,-97.425322,34.152049",
     "geom:latitude":34.152049,
     "geom:longitude":-97.425322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1273 7th St",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336836815,
-    "wof:lastmodified":1448997646,
+    "wof:lastmodified":1466764829,
     "wof:name":"Advanced Radiator Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-97.425322,34.152049,-97.425322,34.152049],
-  "geometry": {"coordinates":[-97.425322,34.152049],"type":"Point"}
+  "bbox": [
+    -97.425322,
+    34.152049,
+    -97.425322,
+    34.152049
+],
+  "geometry": {"coordinates":[-97.42532199999999,34.152049],"type":"Point"}
 }

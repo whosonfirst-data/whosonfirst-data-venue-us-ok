@@ -2,13 +2,14 @@
   "id": 303174083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.06735,36.710244,-97.06735,36.710244",
     "geom:latitude":36.710244,
     "geom:longitude":-97.06735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 N 14th St",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303174083,
-    "wof:lastmodified":1448998452,
+    "wof:lastmodified":1466764304,
     "wof:name":"Gene Hines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-97.06735,36.710244,-97.06735,36.710244],
+  "bbox": [
+    -97.06735,
+    36.710244,
+    -97.06735,
+    36.710244
+],
   "geometry": {"coordinates":[-97.06735,36.710244],"type":"Point"}
 }

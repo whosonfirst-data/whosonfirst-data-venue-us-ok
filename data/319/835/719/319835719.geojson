@@ -2,13 +2,14 @@
   "id": 319835719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.847087,36.155213,-95.847087,36.155213",
     "geom:latitude":36.155213,
     "geom:longitude":-95.847087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11410 E 4th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319835719,
-    "wof:lastmodified":1449024207,
+    "wof:lastmodified":1466763012,
     "wof:name":"Peak Plumbing Co",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.847087,36.155213,-95.847087,36.155213],
+  "bbox": [
+    -95.847087,
+    36.155213,
+    -95.847087,
+    36.155213
+],
   "geometry": {"coordinates":[-95.847087,36.155213],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304003799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.487179,35.581343,-97.487179,35.581343",
     "geom:latitude":35.581343,
     "geom:longitude":-97.487179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11521 Crest Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304003799,
-    "wof:lastmodified":1449044127,
+    "wof:lastmodified":1466762848,
     "wof:name":"Ralston Construction Clean-Up",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clean"
     ]
 },
-  "bbox": [-97.487179,35.581343,-97.487179,35.581343],
+  "bbox": [
+    -97.487179,
+    35.581343,
+    -97.487179,
+    35.581343
+],
   "geometry": {"coordinates":[-97.487179,35.581343],"type":"Point"}
 }

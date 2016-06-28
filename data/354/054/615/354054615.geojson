@@ -2,13 +2,14 @@
   "id": 354054615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.145311,34.183595,-97.145311,34.183595",
     "geom:latitude":34.183595,
     "geom:longitude":-97.145311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 8th Ave NW",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354054615,
-    "wof:lastmodified":1449066725,
+    "wof:lastmodified":1466763316,
     "wof:name":"Schmidtrecovery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surplus"
     ]
 },
-  "bbox": [-97.145311,34.183595,-97.145311,34.183595],
-  "geometry": {"coordinates":[-97.145311,34.183595],"type":"Point"}
+  "bbox": [
+    -97.145311,
+    34.183595,
+    -97.145311,
+    34.183595
+],
+  "geometry": {"coordinates":[-97.14531100000001,34.183595],"type":"Point"}
 }

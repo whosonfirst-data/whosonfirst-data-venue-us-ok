@@ -2,13 +2,14 @@
   "id": 303434017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.66341,34.793263,-96.66341,34.793263",
     "geom:latitude":34.793263,
     "geom:longitude":-96.66341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 N Hills Shopping Center",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303434017,
-    "wof:lastmodified":1448998643,
+    "wof:lastmodified":1466765723,
     "wof:name":"Dunlaps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.66341,34.793263,-96.66341,34.793263],
+  "bbox": [
+    -96.66341,
+    34.793263,
+    -96.66341,
+    34.793263
+],
   "geometry": {"coordinates":[-96.66341,34.793263],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336695505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.485492,35.3581,-97.485492,35.3581",
     "geom:latitude":35.3581,
     "geom:longitude":-97.485492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 Pole Rd",
     "sg:city":"Moore",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336695505,
-    "wof:lastmodified":1448997351,
+    "wof:lastmodified":1466763649,
     "wof:name":"L & L Automotive",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-97.485492,35.3581,-97.485492,35.3581],
-  "geometry": {"coordinates":[-97.485492,35.3581],"type":"Point"}
+  "bbox": [
+    -97.485492,
+    35.3581,
+    -97.485492,
+    35.3581
+],
+  "geometry": {"coordinates":[-97.48549199999999,35.3581],"type":"Point"}
 }

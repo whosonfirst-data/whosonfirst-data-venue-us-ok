@@ -2,13 +2,14 @@
   "id": 320536597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.492625,35.449936,-97.492625,35.449936",
     "geom:latitude":35.449936,
     "geom:longitude":-97.492625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 SE 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320536597,
-    "wof:lastmodified":1449013487,
+    "wof:lastmodified":1466766135,
     "wof:name":"OKC Backup",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-97.492625,35.449936,-97.492625,35.449936],
+  "bbox": [
+    -97.492625,
+    35.449936,
+    -97.492625,
+    35.449936
+],
   "geometry": {"coordinates":[-97.492625,35.449936],"type":"Point"}
 }

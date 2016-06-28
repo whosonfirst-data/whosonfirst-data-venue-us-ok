@@ -2,13 +2,14 @@
   "id": 303486261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.548011,35.412109,-97.548011,35.412109",
     "geom:latitude":35.412109,
     "geom:longitude":-97.548011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5405 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303486261,
-    "wof:lastmodified":1448999483,
+    "wof:lastmodified":1466765908,
     "wof:name":"Auto Splash",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-97.548011,35.412109,-97.548011,35.412109],
+  "bbox": [
+    -97.548011,
+    35.412109,
+    -97.548011,
+    35.412109
+],
   "geometry": {"coordinates":[-97.548011,35.412109],"type":"Point"}
 }

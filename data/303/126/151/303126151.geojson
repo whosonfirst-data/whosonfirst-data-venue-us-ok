@@ -2,13 +2,14 @@
   "id": 303126151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547397,35.631335,-97.547397,35.631335",
     "geom:latitude":35.631335,
     "geom:longitude":-97.547397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 NW 157th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":303126151,
-    "wof:lastmodified":1448999018,
+    "wof:lastmodified":1466763661,
     "wof:name":"Inside Impressions Inc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.547397,35.631335,-97.547397,35.631335],
+  "bbox": [
+    -97.547397,
+    35.631335,
+    -97.547397,
+    35.631335
+],
   "geometry": {"coordinates":[-97.547397,35.631335],"type":"Point"}
 }

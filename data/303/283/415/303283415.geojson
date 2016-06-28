@@ -2,13 +2,14 @@
   "id": 303283415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.370916,35.452487,-97.370916,35.452487",
     "geom:latitude":35.452487,
     "geom:longitude":-97.370916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 S Douglas Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303283415,
-    "wof:lastmodified":1448998840,
+    "wof:lastmodified":1466764783,
     "wof:name":"Surgical Specialists Of Ok",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.370916,35.452487,-97.370916,35.452487],
-  "geometry": {"coordinates":[-97.370916,35.452487],"type":"Point"}
+  "bbox": [
+    -97.370916,
+    35.452487,
+    -97.370916,
+    35.452487
+],
+  "geometry": {"coordinates":[-97.37091599999999,35.452487],"type":"Point"}
 }

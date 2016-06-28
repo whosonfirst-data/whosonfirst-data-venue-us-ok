@@ -2,13 +2,14 @@
   "id": 336736559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.138631,34.170946,-97.138631,34.170946",
     "geom:latitude":34.170946,
     "geom:longitude":-97.138631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 H St SW",
     "sg:city":"Ratliff City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336736559,
-    "wof:lastmodified":1448997988,
+    "wof:lastmodified":1466764324,
     "wof:name":"Sutherland Well Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "well"
     ]
 },
-  "bbox": [-97.138631,34.170946,-97.138631,34.170946],
+  "bbox": [
+    -97.138631,
+    34.170946,
+    -97.138631,
+    34.170946
+],
   "geometry": {"coordinates":[-97.138631,34.170946],"type":"Point"}
 }

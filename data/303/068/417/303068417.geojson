@@ -2,13 +2,14 @@
   "id": 303068417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.869796,36.083679,-95.869796,36.083679",
     "geom:latitude":36.083679,
     "geom:longitude":-95.869796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9529 E 55th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303068417,
-    "wof:lastmodified":1448999377,
+    "wof:lastmodified":1466762718,
     "wof:name":"Trace 1 Calibrations",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "calibration"
     ]
 },
-  "bbox": [-95.869796,36.083679,-95.869796,36.083679],
-  "geometry": {"coordinates":[-95.869796,36.083679],"type":"Point"}
+  "bbox": [
+    -95.869796,
+    36.083679,
+    -95.869796,
+    36.083679
+],
+  "geometry": {"coordinates":[-95.86979599999999,36.083679],"type":"Point"}
 }

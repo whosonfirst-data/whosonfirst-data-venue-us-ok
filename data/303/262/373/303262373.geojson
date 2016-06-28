@@ -2,13 +2,14 @@
   "id": 303262373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.05929,35.875722,-96.05929,35.875722",
     "geom:latitude":35.875722,
     "geom:longitude":-96.05929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 Dorman Ave",
     "sg:city":"Mounds",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303262373,
-    "wof:lastmodified":1448999633,
+    "wof:lastmodified":1466764767,
     "wof:name":"Mounds Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.05929,35.875722,-96.05929,35.875722],
+  "bbox": [
+    -96.05929,
+    35.875722,
+    -96.05929,
+    35.875722
+],
   "geometry": {"coordinates":[-96.05929,35.875722],"type":"Point"}
 }

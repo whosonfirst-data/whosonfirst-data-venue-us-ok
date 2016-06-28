@@ -2,13 +2,14 @@
   "id": 336654933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.913041,36.037684,-95.913041,36.037684",
     "geom:latitude":36.037684,
     "geom:longitude":-95.913041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5517 E 87th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336654933,
-    "wof:lastmodified":1448997299,
+    "wof:lastmodified":1466763027,
     "wof:name":"Joe D Pixley",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-95.913041,36.037684,-95.913041,36.037684],
-  "geometry": {"coordinates":[-95.913041,36.037684],"type":"Point"}
+  "bbox": [
+    -95.913041,
+    36.037684,
+    -95.913041,
+    36.037684
+],
+  "geometry": {"coordinates":[-95.91304100000001,36.037684],"type":"Point"}
 }

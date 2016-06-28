@@ -2,13 +2,14 @@
   "id": 303528723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.123477,36.188636,-97.123477,36.188636",
     "geom:latitude":36.188636,
     "geom:longitude":-97.123477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6619 N Country Club Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303528723,
-    "wof:lastmodified":1448998767,
+    "wof:lastmodified":1466765958,
     "wof:name":"Triple C Ranch LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-97.123477,36.188636,-97.123477,36.188636],
-  "geometry": {"coordinates":[-97.123477,36.188636],"type":"Point"}
+  "bbox": [
+    -97.123477,
+    36.188636,
+    -97.123477,
+    36.188636
+],
+  "geometry": {"coordinates":[-97.12347699999999,36.188636],"type":"Point"}
 }

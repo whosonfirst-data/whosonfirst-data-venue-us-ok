@@ -2,13 +2,14 @@
   "id": 336794631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.340403,35.779074,-95.340403,35.779074",
     "geom:latitude":35.779074,
     "geom:longitude":-95.340403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 N York St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336794631,
-    "wof:lastmodified":1448997468,
+    "wof:lastmodified":1466764523,
     "wof:name":"Cowpokes Feed & More",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-95.340403,35.779074,-95.340403,35.779074],
-  "geometry": {"coordinates":[-95.340403,35.779074],"type":"Point"}
+  "bbox": [
+    -95.340403,
+    35.779074,
+    -95.340403,
+    35.779074
+],
+  "geometry": {"coordinates":[-95.34040299999999,35.779074],"type":"Point"}
 }

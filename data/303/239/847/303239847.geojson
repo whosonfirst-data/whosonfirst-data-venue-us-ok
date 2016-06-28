@@ -2,13 +2,14 @@
   "id": 303239847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.991211,36.034173,-95.991211,36.034173",
     "geom:latitude":36.034173,
     "geom:longitude":-95.991211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8803 S Jack Bates Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303239847,
-    "wof:lastmodified":1448998356,
+    "wof:lastmodified":1466764538,
     "wof:name":"Robertson Aviation",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "school"
     ]
 },
-  "bbox": [-95.991211,36.034173,-95.991211,36.034173],
-  "geometry": {"coordinates":[-95.991211,36.034173],"type":"Point"}
+  "bbox": [
+    -95.991211,
+    36.034173,
+    -95.991211,
+    36.034173
+],
+  "geometry": {"coordinates":[-95.99121100000001,36.034173],"type":"Point"}
 }

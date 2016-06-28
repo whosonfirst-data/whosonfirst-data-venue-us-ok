@@ -2,13 +2,14 @@
   "id": 320090901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.021898,34.855944,-99.021898,34.855944",
     "geom:latitude":34.855944,
     "geom:longitude":-99.021898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Main St",
     "sg:city":"Oscar",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320090901,
-    "wof:lastmodified":1449014206,
+    "wof:lastmodified":1466763631,
     "wof:name":"R & R Pump & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-99.021898,34.855944,-99.021898,34.855944],
-  "geometry": {"coordinates":[-99.021898,34.855944],"type":"Point"}
+  "bbox": [
+    -99.021898,
+    34.855944,
+    -99.021898,
+    34.855944
+],
+  "geometry": {"coordinates":[-99.02189799999999,34.855944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303995911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.355522,35.745809,-95.355522,35.745809",
     "geom:latitude":35.745809,
     "geom:longitude":-95.355522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 Callahan St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303995911,
-    "wof:lastmodified":1449000298,
+    "wof:lastmodified":1466767125,
     "wof:name":"Dalco Testing Laboratory Inc",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-95.355522,35.745809,-95.355522,35.745809],
-  "geometry": {"coordinates":[-95.355522,35.745809],"type":"Point"}
+  "bbox": [
+    -95.355522,
+    35.745809,
+    -95.355522,
+    35.745809
+],
+  "geometry": {"coordinates":[-95.35552199999999,35.745809],"type":"Point"}
 }

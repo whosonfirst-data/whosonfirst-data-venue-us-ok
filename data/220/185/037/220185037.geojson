@@ -2,13 +2,14 @@
   "id": 220185037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.933788,36.191626,-95.933788,36.191626",
     "geom:latitude":36.191626,
     "geom:longitude":-95.933788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7777 E Apache St Rm B138",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":220185037,
-    "wof:lastmodified":1449074176,
+    "wof:lastmodified":1466762372,
     "wof:name":"T.G.I. Friday's",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-95.933788,36.191626,-95.933788,36.191626],
-  "geometry": {"coordinates":[-95.933788,36.191626],"type":"Point"}
+  "bbox": [
+    -95.933788,
+    36.191626,
+    -95.933788,
+    36.191626
+],
+  "geometry": {"coordinates":[-95.93378800000001,36.191626],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303804313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531179,35.568523,-97.531179,35.568523",
     "geom:latitude":35.568523,
     "geom:longitude":-97.531179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9618 N Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303804313,
-    "wof:lastmodified":1448999818,
+    "wof:lastmodified":1466766728,
     "wof:name":"Michaels Hair Design",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.531179,35.568523,-97.531179,35.568523],
-  "geometry": {"coordinates":[-97.531179,35.568523],"type":"Point"}
+  "bbox": [
+    -97.531179,
+    35.568523,
+    -97.531179,
+    35.568523
+],
+  "geometry": {"coordinates":[-97.53117899999999,35.568523],"type":"Point"}
 }

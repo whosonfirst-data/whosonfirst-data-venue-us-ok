@@ -2,13 +2,14 @@
   "id": 336690993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.721415,35.62716,-97.721415,35.62716",
     "geom:latitude":35.62716,
     "geom:longitude":-97.721415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11000 Greenwood Dr",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336690993,
-    "wof:lastmodified":1448997522,
+    "wof:lastmodified":1466763583,
     "wof:name":"Seis Trek",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"
     ]
 },
-  "bbox": [-97.721415,35.62716,-97.721415,35.62716],
-  "geometry": {"coordinates":[-97.721415,35.62716],"type":"Point"}
+  "bbox": [
+    -97.721415,
+    35.62716,
+    -97.721415,
+    35.62716
+],
+  "geometry": {"coordinates":[-97.72141499999999,35.62716],"type":"Point"}
 }

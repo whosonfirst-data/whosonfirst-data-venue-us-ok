@@ -2,13 +2,14 @@
   "id": 320341903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517879,35.464272,-97.517879,35.464272",
     "geom:latitude":35.464272,
     "geom:longitude":-97.517879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320341903,
-    "wof:lastmodified":1449014796,
+    "wof:lastmodified":1466765428,
     "wof:name":"Bob Howard Downtown Ford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.517879,35.464272,-97.517879,35.464272],
-  "geometry": {"coordinates":[-97.517879,35.464272],"type":"Point"}
+  "bbox": [
+    -97.517879,
+    35.464272,
+    -97.517879,
+    35.464272
+],
+  "geometry": {"coordinates":[-97.51787899999999,35.464272],"type":"Point"}
 }

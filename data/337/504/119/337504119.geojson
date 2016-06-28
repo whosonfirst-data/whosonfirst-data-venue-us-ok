@@ -2,13 +2,14 @@
   "id": 337504119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530246,35.435462,-97.530246,35.435462",
     "geom:latitude":35.435462,
     "geom:longitude":-97.530246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337504119,
-    "wof:lastmodified":1449027064,
+    "wof:lastmodified":1466762671,
     "wof:name":"Iron Horse Motors",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.530246,35.435462,-97.530246,35.435462],
-  "geometry": {"coordinates":[-97.530246,35.435462],"type":"Point"}
+  "bbox": [
+    -97.530246,
+    35.435462,
+    -97.530246,
+    35.435462
+],
+  "geometry": {"coordinates":[-97.53024600000001,35.435462],"type":"Point"}
 }

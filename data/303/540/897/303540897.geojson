@@ -2,13 +2,14 @@
   "id": 303540897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.402283,35.411778,-99.402283,35.411778",
     "geom:latitude":35.411778,
     "geom:longitude":-99.402283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 E 3rd St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303540897,
-    "wof:lastmodified":1448999083,
+    "wof:lastmodified":1466765909,
     "wof:name":"R & K Superette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.402283,35.411778,-99.402283,35.411778],
+  "bbox": [
+    -99.402283,
+    35.411778,
+    -99.402283,
+    35.411778
+],
   "geometry": {"coordinates":[-99.402283,35.411778],"type":"Point"}
 }

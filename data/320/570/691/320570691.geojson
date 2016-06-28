@@ -2,13 +2,14 @@
   "id": 320570691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.008469,36.09229,-96.008469,36.09229",
     "geom:latitude":36.09229,
     "geom:longitude":-96.008469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 W 49th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320570691,
-    "wof:lastmodified":1449013472,
+    "wof:lastmodified":1466766220,
     "wof:name":"Crossroads Church Of God",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.008469,36.09229,-96.008469,36.09229],
-  "geometry": {"coordinates":[-96.008469,36.09229],"type":"Point"}
+  "bbox": [
+    -96.008469,
+    36.09229,
+    -96.008469,
+    36.09229
+],
+  "geometry": {"coordinates":[-96.00846900000001,36.09229],"type":"Point"}
 }

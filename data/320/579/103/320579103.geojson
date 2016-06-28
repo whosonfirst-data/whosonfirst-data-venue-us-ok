@@ -2,13 +2,14 @@
   "id": 320579103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.911601,36.075601,-95.911601,36.075601",
     "geom:latitude":36.075601,
     "geom:longitude":-95.911601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6024 S Irvington Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320579103,
-    "wof:lastmodified":1449012460,
+    "wof:lastmodified":1466766238,
     "wof:name":"II L W Barrett",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "field"
     ]
 },
-  "bbox": [-95.911601,36.075601,-95.911601,36.075601],
+  "bbox": [
+    -95.911601,
+    36.075601,
+    -95.911601,
+    36.075601
+],
   "geometry": {"coordinates":[-95.911601,36.075601],"type":"Point"}
 }

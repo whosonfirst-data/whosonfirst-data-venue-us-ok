@@ -2,13 +2,14 @@
   "id": 303740161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976869,36.176801,-95.976869,36.176801",
     "geom:latitude":36.176801,
     "geom:longitude":-95.976869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":303740161,
-    "wof:lastmodified":1448999227,
+    "wof:lastmodified":1466766666,
     "wof:name":"YMCA Older Adult Programs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-95.976869,36.176801,-95.976869,36.176801],
-  "geometry": {"coordinates":[-95.976869,36.176801],"type":"Point"}
+  "bbox": [
+    -95.976869,
+    36.176801,
+    -95.976869,
+    36.176801
+],
+  "geometry": {"coordinates":[-95.97686899999999,36.176801],"type":"Point"}
 }

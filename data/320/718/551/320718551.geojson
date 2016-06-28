@@ -2,13 +2,14 @@
   "id": 320718551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.861541,36.108143,-95.861541,36.108143",
     "geom:latitude":36.108143,
     "geom:longitude":-95.861541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3840 S 103rd East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320718551,
-    "wof:lastmodified":1449012060,
+    "wof:lastmodified":1466766585,
     "wof:name":"Southwestern Power Resources",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trade"
     ]
 },
-  "bbox": [-95.861541,36.108143,-95.861541,36.108143],
+  "bbox": [
+    -95.861541,
+    36.108143,
+    -95.861541,
+    36.108143
+],
   "geometry": {"coordinates":[-95.861541,36.108143],"type":"Point"}
 }

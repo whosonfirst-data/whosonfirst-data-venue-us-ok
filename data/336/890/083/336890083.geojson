@@ -2,13 +2,14 @@
   "id": 336890083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.561648,35.523883,-97.561648,35.523883",
     "geom:latitude":35.523883,
     "geom:longitude":-97.561648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5205 N Miller Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336890083,
-    "wof:lastmodified":1448997189,
+    "wof:lastmodified":1466765166,
     "wof:name":"Vinnie L Boykin",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-97.561648,35.523883,-97.561648,35.523883],
-  "geometry": {"coordinates":[-97.561648,35.523883],"type":"Point"}
+  "bbox": [
+    -97.561648,
+    35.523883,
+    -97.561648,
+    35.523883
+],
+  "geometry": {"coordinates":[-97.56164800000001,35.523883],"type":"Point"}
 }

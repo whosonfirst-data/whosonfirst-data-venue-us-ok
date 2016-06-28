@@ -2,13 +2,14 @@
   "id": 320320977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.39056,35.833908,-96.39056,35.833908",
     "geom:latitude":35.833908,
     "geom:longitude":-96.39056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E 7th Ave",
     "sg:city":"Bristow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320320977,
-    "wof:lastmodified":1449012211,
+    "wof:lastmodified":1466765415,
     "wof:name":"Standard Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-96.39056,35.833908,-96.39056,35.833908],
-  "geometry": {"coordinates":[-96.39056,35.833908],"type":"Point"}
+  "bbox": [
+    -96.39056,
+    35.833908,
+    -96.39056,
+    35.833908
+],
+  "geometry": {"coordinates":[-96.39055999999999,35.833908],"type":"Point"}
 }

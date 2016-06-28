@@ -2,13 +2,14 @@
   "id": 303768181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.971756,35.623203,-95.971756,35.623203",
     "geom:latitude":35.623203,
     "geom:longitude":-95.971756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E 6th St",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303768181,
-    "wof:lastmodified":1448999061,
+    "wof:lastmodified":1466766661,
     "wof:name":"U S Fire Protection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.971756,35.623203,-95.971756,35.623203],
+  "bbox": [
+    -95.971756,
+    35.623203,
+    -95.971756,
+    35.623203
+],
   "geometry": {"coordinates":[-95.971756,35.623203],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320702529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.913769,36.06091,-95.913769,36.06091",
     "geom:latitude":36.06091,
     "geom:longitude":-95.913769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320702529,
-    "wof:lastmodified":1449013131,
+    "wof:lastmodified":1466766552,
     "wof:name":"Corporate Oaks",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.913769,36.06091,-95.913769,36.06091],
+  "bbox": [
+    -95.913769,
+    36.06091,
+    -95.913769,
+    36.06091
+],
   "geometry": {"coordinates":[-95.913769,36.06091],"type":"Point"}
 }

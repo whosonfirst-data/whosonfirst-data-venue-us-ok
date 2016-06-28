@@ -2,13 +2,14 @@
   "id": 303539225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.899054,36.104144,-97.899054,36.104144",
     "geom:latitude":36.104144,
     "geom:longitude":-97.899054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 S Main St",
     "sg:city":"Hennessey",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303539225,
-    "wof:lastmodified":1449000616,
+    "wof:lastmodified":1466765991,
     "wof:name":"Royal Neighbors of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.899054,36.104144,-97.899054,36.104144],
-  "geometry": {"coordinates":[-97.899054,36.104144],"type":"Point"}
+  "bbox": [
+    -97.899054,
+    36.104144,
+    -97.899054,
+    36.104144
+],
+  "geometry": {"coordinates":[-97.89905400000001,36.104144],"type":"Point"}
 }

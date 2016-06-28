@@ -2,13 +2,14 @@
   "id": 353487683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.582707,35.283252,-95.582707,35.283252",
     "geom:latitude":35.283252,
     "geom:longitude":-95.582707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 US Hwy 69 Bus",
     "sg:city":"Checotah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353487683,
-    "wof:lastmodified":1449019083,
+    "wof:lastmodified":1466762945,
     "wof:name":"KWIK N EZ Truck Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stops"
     ]
 },
-  "bbox": [-95.582707,35.283252,-95.582707,35.283252],
+  "bbox": [
+    -95.582707,
+    35.283252,
+    -95.582707,
+    35.283252
+],
   "geometry": {"coordinates":[-95.582707,35.283252],"type":"Point"}
 }

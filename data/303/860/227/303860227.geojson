@@ -2,13 +2,14 @@
   "id": 303860227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.533881,35.49612,-97.533881,35.49612",
     "geom:latitude":35.49612,
     "geom:longitude":-97.533881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2622 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303860227,
-    "wof:lastmodified":1448999206,
+    "wof:lastmodified":1466766865,
     "wof:name":"Liberty Legal Svc PC",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"
     ]
 },
-  "bbox": [-97.533881,35.49612,-97.533881,35.49612],
-  "geometry": {"coordinates":[-97.533881,35.49612],"type":"Point"}
+  "bbox": [
+    -97.533881,
+    35.49612,
+    -97.533881,
+    35.49612
+],
+  "geometry": {"coordinates":[-97.53388099999999,35.49612],"type":"Point"}
 }

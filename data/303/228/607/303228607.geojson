@@ -2,13 +2,14 @@
   "id": 303228607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.989583,36.150769,-95.989583,36.150769",
     "geom:latitude":36.150769,
     "geom:longitude":-95.989583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 S Main St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303228607,
-    "wof:lastmodified":1448998879,
+    "wof:lastmodified":1466764680,
     "wof:name":"Larry J Weston",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.989583,36.150769,-95.989583,36.150769],
+  "bbox": [
+    -95.989583,
+    36.150769,
+    -95.989583,
+    36.150769
+],
   "geometry": {"coordinates":[-95.989583,36.150769],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303930659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.57603,35.623623,-97.57603,35.623623",
     "geom:latitude":35.623623,
     "geom:longitude":-97.57603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3232 NW 150th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303930659,
-    "wof:lastmodified":1448998896,
+    "wof:lastmodified":1466767018,
     "wof:name":"New Horizons Child Development",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.57603,35.623623,-97.57603,35.623623],
+  "bbox": [
+    -97.57603,
+    35.623623,
+    -97.57603,
+    35.623623
+],
   "geometry": {"coordinates":[-97.57603,35.623623],"type":"Point"}
 }

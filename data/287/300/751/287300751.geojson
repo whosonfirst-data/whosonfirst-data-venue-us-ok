@@ -2,13 +2,14 @@
   "id": 287300751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.500555,34.623529,-98.500555,34.623529",
     "geom:latitude":34.623529,
     "geom:longitude":-98.500555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8901 NW Cache Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":287300751,
-    "wof:lastmodified":1449001171,
+    "wof:lastmodified":1466763438,
     "wof:name":"Willmar Electric Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.500555,34.623529,-98.500555,34.623529],
-  "geometry": {"coordinates":[-98.500555,34.623529],"type":"Point"}
+  "bbox": [
+    -98.500555,
+    34.623529,
+    -98.500555,
+    34.623529
+],
+  "geometry": {"coordinates":[-98.50055500000001,34.623529],"type":"Point"}
 }

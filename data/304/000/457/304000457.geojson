@@ -2,13 +2,14 @@
   "id": 304000457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.750306,36.040811,-95.750306,36.040811",
     "geom:latitude":36.040811,
     "geom:longitude":-95.750306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 S 34th St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":304000457,
-    "wof:lastmodified":1449043648,
+    "wof:lastmodified":1466762838,
     "wof:name":"Teresa Grissom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.750306,36.040811,-95.750306,36.040811],
-  "geometry": {"coordinates":[-95.750306,36.040811],"type":"Point"}
+  "bbox": [
+    -95.750306,
+    36.040811,
+    -95.750306,
+    36.040811
+],
+  "geometry": {"coordinates":[-95.75030599999999,36.040811],"type":"Point"}
 }

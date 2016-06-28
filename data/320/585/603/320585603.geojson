@@ -2,13 +2,14 @@
   "id": 320585603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.757633,34.94944,-95.757633,34.94944",
     "geom:latitude":34.94944,
     "geom:longitude":-95.757633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 N 5th St",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320585603,
-    "wof:lastmodified":1449013758,
+    "wof:lastmodified":1466766262,
     "wof:name":"Jim's Bicycle Repair",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bicycle"
     ]
 },
-  "bbox": [-95.757633,34.94944,-95.757633,34.94944],
+  "bbox": [
+    -95.757633,
+    34.94944,
+    -95.757633,
+    34.94944
+],
   "geometry": {"coordinates":[-95.757633,34.94944],"type":"Point"}
 }

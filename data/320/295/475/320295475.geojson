@@ -2,13 +2,14 @@
   "id": 320295475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.37271,35.247131,-97.37271,35.247131",
     "geom:latitude":35.247131,
     "geom:longitude":-97.37271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4606 E Rock Creek Rd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320295475,
-    "wof:lastmodified":1449012781,
+    "wof:lastmodified":1466765032,
     "wof:name":"Rock Creek Youth Camp Inc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-97.37271,35.247131,-97.37271,35.247131],
+  "bbox": [
+    -97.37271,
+    35.247131,
+    -97.37271,
+    35.247131
+],
   "geometry": {"coordinates":[-97.37271,35.247131],"type":"Point"}
 }

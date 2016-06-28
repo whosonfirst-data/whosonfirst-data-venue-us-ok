@@ -2,13 +2,14 @@
   "id": 303998017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.41759,35.760297,-95.41759,35.760297",
     "geom:latitude":35.760297,
     "geom:longitude":-95.41759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 N 45th St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303998017,
-    "wof:lastmodified":1448998925,
+    "wof:lastmodified":1466767123,
     "wof:name":"American Alloy Division II",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.41759,35.760297,-95.41759,35.760297],
+  "bbox": [
+    -95.41759,
+    35.760297,
+    -95.41759,
+    35.760297
+],
   "geometry": {"coordinates":[-95.41759,35.760297],"type":"Point"}
 }

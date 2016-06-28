@@ -2,13 +2,14 @@
   "id": 303646007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.751421,35.74276,-98.751421,35.74276",
     "geom:latitude":35.74276,
     "geom:longitude":-98.751421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S 11th St",
     "sg:city":"Thomas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303646007,
-    "wof:lastmodified":1448998056,
+    "wof:lastmodified":1466766225,
     "wof:name":"L&C Farms LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-98.751421,35.74276,-98.751421,35.74276],
-  "geometry": {"coordinates":[-98.751421,35.74276],"type":"Point"}
+  "bbox": [
+    -98.751421,
+    35.74276,
+    -98.751421,
+    35.74276
+],
+  "geometry": {"coordinates":[-98.75142099999999,35.74276],"type":"Point"}
 }

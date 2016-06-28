@@ -2,13 +2,14 @@
   "id": 303453973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.364284,35.756958,-95.364284,35.756958",
     "geom:latitude":35.756958,
     "geom:longitude":-95.364284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N Main St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303453973,
-    "wof:lastmodified":1448999957,
+    "wof:lastmodified":1466765680,
     "wof:name":"Main Street Convenience Store",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.364284,35.756958,-95.364284,35.756958],
+  "bbox": [
+    -95.364284,
+    35.756958,
+    -95.364284,
+    35.756958
+],
   "geometry": {"coordinates":[-95.364284,35.756958],"type":"Point"}
 }

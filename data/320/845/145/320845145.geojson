@@ -2,13 +2,14 @@
   "id": 320845145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.939525,36.176454,-95.939525,36.176454",
     "geom:latitude":36.176454,
     "geom:longitude":-95.939525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1433 N Indianapolis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320845145,
-    "wof:lastmodified":1449011866,
+    "wof:lastmodified":1466766948,
     "wof:name":"All Around Painting & Remodel",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-95.939525,36.176454,-95.939525,36.176454],
+  "bbox": [
+    -95.939525,
+    36.176454,
+    -95.939525,
+    36.176454
+],
   "geometry": {"coordinates":[-95.939525,36.176454],"type":"Point"}
 }

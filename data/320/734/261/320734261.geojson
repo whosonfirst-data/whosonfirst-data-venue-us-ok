@@ -2,13 +2,14 @@
   "id": 320734261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.913638,36.069171,-95.913638,36.069171",
     "geom:latitude":36.069171,
     "geom:longitude":-95.913638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6439 S Hudson Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320734261,
-    "wof:lastmodified":1449014487,
+    "wof:lastmodified":1466766776,
     "wof:name":"Neuro-System Brain Wave",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "biofeedback"
     ]
 },
-  "bbox": [-95.913638,36.069171,-95.913638,36.069171],
-  "geometry": {"coordinates":[-95.913638,36.069171],"type":"Point"}
+  "bbox": [
+    -95.913638,
+    36.069171,
+    -95.913638,
+    36.069171
+],
+  "geometry": {"coordinates":[-95.91363800000001,36.069171],"type":"Point"}
 }

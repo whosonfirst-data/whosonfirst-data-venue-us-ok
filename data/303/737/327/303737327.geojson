@@ -2,13 +2,14 @@
   "id": 303737327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.840472,36.045169,-95.840472,36.045169",
     "geom:latitude":36.045169,
     "geom:longitude":-95.840472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4108 W Jackson St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303737327,
-    "wof:lastmodified":1448998661,
+    "wof:lastmodified":1466766566,
     "wof:name":"Arrowscapes",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.840472,36.045169,-95.840472,36.045169],
-  "geometry": {"coordinates":[-95.840472,36.045169],"type":"Point"}
+  "bbox": [
+    -95.840472,
+    36.045169,
+    -95.840472,
+    36.045169
+],
+  "geometry": {"coordinates":[-95.84047200000001,36.045169],"type":"Point"}
 }

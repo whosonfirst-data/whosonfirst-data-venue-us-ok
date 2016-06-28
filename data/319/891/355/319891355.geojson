@@ -2,13 +2,14 @@
   "id": 319891355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.833204,36.144574,-95.833204,36.144574",
     "geom:latitude":36.144574,
     "geom:longitude":-95.833204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 S 129th E Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319891355,
-    "wof:lastmodified":1449024569,
+    "wof:lastmodified":1466763479,
     "wof:name":"Bob Harter Svc & Repair Inc",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "motor"
     ]
 },
-  "bbox": [-95.833204,36.144574,-95.833204,36.144574],
-  "geometry": {"coordinates":[-95.833204,36.144574],"type":"Point"}
+  "bbox": [
+    -95.833204,
+    36.144574,
+    -95.833204,
+    36.144574
+],
+  "geometry": {"coordinates":[-95.83320399999999,36.144574],"type":"Point"}
 }

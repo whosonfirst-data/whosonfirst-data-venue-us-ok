@@ -2,13 +2,14 @@
   "id": 320475629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.745309,35.641544,-97.745309,35.641544",
     "geom:latitude":35.641544,
     "geom:longitude":-97.745309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Piedmont Rd N",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320475629,
-    "wof:lastmodified":1449012816,
+    "wof:lastmodified":1466766012,
     "wof:name":"Piedmont Animal Health Svcs",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "sitting"
     ]
 },
-  "bbox": [-97.745309,35.641544,-97.745309,35.641544],
-  "geometry": {"coordinates":[-97.745309,35.641544],"type":"Point"}
+  "bbox": [
+    -97.745309,
+    35.641544,
+    -97.745309,
+    35.641544
+],
+  "geometry": {"coordinates":[-97.74530900000001,35.641544],"type":"Point"}
 }

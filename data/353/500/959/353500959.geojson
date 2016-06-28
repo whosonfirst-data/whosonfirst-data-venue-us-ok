@@ -2,13 +2,14 @@
   "id": 353500959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.730715,35.384472,-97.730715,35.384472",
     "geom:latitude":35.384472,
     "geom:longitude":-97.730715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 S Heights Dr",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353500959,
-    "wof:lastmodified":1449018906,
+    "wof:lastmodified":1466763130,
     "wof:name":"Kids In Action",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.730715,35.384472,-97.730715,35.384472],
+  "bbox": [
+    -97.730715,
+    35.384472,
+    -97.730715,
+    35.384472
+],
   "geometry": {"coordinates":[-97.730715,35.384472],"type":"Point"}
 }

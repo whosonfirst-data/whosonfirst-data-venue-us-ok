@@ -2,13 +2,14 @@
   "id": 353588009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.510951,36.726133,-102.510951,36.726133",
     "geom:latitude":36.726133,
     "geom:longitude":-102.510951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 4th St S",
     "sg:city":"Boise City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353588009,
-    "wof:lastmodified":1449020323,
+    "wof:lastmodified":1466764435,
     "wof:name":"Natural Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-102.510951,36.726133,-102.510951,36.726133],
-  "geometry": {"coordinates":[-102.510951,36.726133],"type":"Point"}
+  "bbox": [
+    -102.510951,
+    36.726133,
+    -102.510951,
+    36.726133
+],
+  "geometry": {"coordinates":[-102.51095100000001,36.726133],"type":"Point"}
 }

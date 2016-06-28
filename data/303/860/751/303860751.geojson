@@ -2,13 +2,14 @@
   "id": 303860751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803944,36.33444,-96.803944,36.33444",
     "geom:latitude":36.33444,
     "geom:longitude":-96.803944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 6th St",
     "sg:city":"Pawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303860751,
-    "wof:lastmodified":1448999206,
+    "wof:lastmodified":1466766965,
     "wof:name":"Christian Church Disciples",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.803944,36.33444,-96.803944,36.33444],
+  "bbox": [
+    -96.803944,
+    36.33444,
+    -96.803944,
+    36.33444
+],
   "geometry": {"coordinates":[-96.803944,36.33444],"type":"Point"}
 }

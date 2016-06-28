@@ -2,13 +2,14 @@
   "id": 303269835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.984234,36.116303,-96.984234,36.116303",
     "geom:latitude":36.116303,
     "geom:longitude":-96.984234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 E 6th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303269835,
-    "wof:lastmodified":1448999654,
+    "wof:lastmodified":1466764722,
     "wof:name":"Garage Storage Cabinets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-96.984234,36.116303,-96.984234,36.116303],
+  "bbox": [
+    -96.984234,
+    36.116303,
+    -96.984234,
+    36.116303
+],
   "geometry": {"coordinates":[-96.984234,36.116303],"type":"Point"}
 }

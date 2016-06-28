@@ -2,13 +2,14 @@
   "id": 303102967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.060781,36.488177,-96.060781,36.488177",
     "geom:latitude":36.488177,
     "geom:longitude":-96.060781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Broadway Ave",
     "sg:city":"Avant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303102967,
-    "wof:lastmodified":1449000382,
+    "wof:lastmodified":1466763283,
     "wof:name":"Advant City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-96.060781,36.488177,-96.060781,36.488177],
-  "geometry": {"coordinates":[-96.060781,36.488177],"type":"Point"}
+  "bbox": [
+    -96.060781,
+    36.488177,
+    -96.060781,
+    36.488177
+],
+  "geometry": {"coordinates":[-96.06078100000001,36.488177],"type":"Point"}
 }

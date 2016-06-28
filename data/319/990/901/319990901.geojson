@@ -2,13 +2,14 @@
   "id": 319990901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.490507,35.695018,-97.490507,35.695018",
     "geom:latitude":35.695018,
     "geom:longitude":-97.490507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Low Meadow",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319990901,
-    "wof:lastmodified":1449024602,
+    "wof:lastmodified":1466762560,
     "wof:name":"Deanna Herrin Inc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.490507,35.695018,-97.490507,35.695018],
-  "geometry": {"coordinates":[-97.490507,35.695018],"type":"Point"}
+  "bbox": [
+    -97.490507,
+    35.695018,
+    -97.490507,
+    35.695018
+],
+  "geometry": {"coordinates":[-97.49050699999999,35.695018],"type":"Point"}
 }

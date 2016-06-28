@@ -2,13 +2,14 @@
   "id": 235968207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.629241,35.080186,-94.629241,35.080186",
     "geom:latitude":35.080186,
     "geom:longitude":-94.629241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 N Broadway St",
     "sg:city":"Poteau",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":235968207,
-    "wof:lastmodified":1449008296,
+    "wof:lastmodified":1466762809,
     "wof:name":"Shockley Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "new"
     ]
 },
-  "bbox": [-94.629241,35.080186,-94.629241,35.080186],
-  "geometry": {"coordinates":[-94.629241,35.080186],"type":"Point"}
+  "bbox": [
+    -94.629241,
+    35.080186,
+    -94.629241,
+    35.080186
+],
+  "geometry": {"coordinates":[-94.62924099999999,35.080186],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303985835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.390303,34.000459,-96.390303,34.000459",
     "geom:latitude":34.000459,
     "geom:longitude":-96.390303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 N Washington Ave",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303985835,
-    "wof:lastmodified":1448999332,
+    "wof:lastmodified":1466767074,
     "wof:name":"Indian Territory Home Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospice"
     ]
 },
-  "bbox": [-96.390303,34.000459,-96.390303,34.000459],
+  "bbox": [
+    -96.390303,
+    34.000459,
+    -96.390303,
+    34.000459
+],
   "geometry": {"coordinates":[-96.390303,34.000459],"type":"Point"}
 }

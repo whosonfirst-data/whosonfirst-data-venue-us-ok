@@ -2,13 +2,14 @@
   "id": 303431147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.401337,36.435904,-99.401337,36.435904",
     "geom:latitude":36.435904,
     "geom:longitude":-99.401337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1723 Main Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303431147,
-    "wof:lastmodified":1448998448,
+    "wof:lastmodified":1466765575,
     "wof:name":"Family Laundromat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-99.401337,36.435904,-99.401337,36.435904],
+  "bbox": [
+    -99.401337,
+    36.435904,
+    -99.401337,
+    36.435904
+],
   "geometry": {"coordinates":[-99.401337,36.435904],"type":"Point"}
 }

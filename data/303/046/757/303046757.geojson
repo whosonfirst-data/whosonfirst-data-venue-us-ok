@@ -2,13 +2,14 @@
   "id": 303046757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975429,36.247699,-95.975429,36.247699",
     "geom:latitude":36.247699,
     "geom:longitude":-95.975429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6415 N Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303046757,
-    "wof:lastmodified":1448999477,
+    "wof:lastmodified":1466762368,
     "wof:name":"Coney Hut",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.975429,36.247699,-95.975429,36.247699],
-  "geometry": {"coordinates":[-95.975429,36.247699],"type":"Point"}
+  "bbox": [
+    -95.975429,
+    36.247699,
+    -95.975429,
+    36.247699
+],
+  "geometry": {"coordinates":[-95.97542900000001,36.247699],"type":"Point"}
 }

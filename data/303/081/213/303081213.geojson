@@ -2,13 +2,14 @@
   "id": 303081213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.802519,36.062773,-95.802519,36.062773",
     "geom:latitude":36.062773,
     "geom:longitude":-95.802519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 N Hickory Dr",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303081213,
-    "wof:lastmodified":1448998874,
+    "wof:lastmodified":1466762924,
     "wof:name":"Commercial Interior Finishes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.802519,36.062773,-95.802519,36.062773],
+  "bbox": [
+    -95.802519,
+    36.062773,
+    -95.802519,
+    36.062773
+],
   "geometry": {"coordinates":[-95.802519,36.062773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303619143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.357385,35.493013,-97.357385,35.493013",
     "geom:latitude":35.493013,
     "geom:longitude":-97.357385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9700 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303619143,
-    "wof:lastmodified":1448998557,
+    "wof:lastmodified":1466766246,
     "wof:name":"Aa Bars Cadillac Lincoln Salv",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.357385,35.493013,-97.357385,35.493013],
-  "geometry": {"coordinates":[-97.357385,35.493013],"type":"Point"}
+  "bbox": [
+    -97.357385,
+    35.493013,
+    -97.357385,
+    35.493013
+],
+  "geometry": {"coordinates":[-97.35738499999999,35.493013],"type":"Point"}
 }

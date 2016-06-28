@@ -2,13 +2,14 @@
   "id": 320060819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.390898,35.833145,-96.390898,35.833145",
     "geom:latitude":35.833145,
     "geom:longitude":-96.390898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Main St",
     "sg:city":"Bristow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320060819,
-    "wof:lastmodified":1449014620,
+    "wof:lastmodified":1466763191,
     "wof:name":"Terri Brown DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-96.390898,35.833145,-96.390898,35.833145],
-  "geometry": {"coordinates":[-96.390898,35.833145],"type":"Point"}
+  "bbox": [
+    -96.390898,
+    35.833145,
+    -96.390898,
+    35.833145
+],
+  "geometry": {"coordinates":[-96.39089800000001,35.833145],"type":"Point"}
 }

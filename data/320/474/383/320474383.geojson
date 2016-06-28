@@ -2,13 +2,14 @@
   "id": 320474383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.05713,36.168091,-97.05713,36.168091",
     "geom:latitude":36.168091,
     "geom:longitude":-97.05713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4519 N Davis Ct",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320474383,
-    "wof:lastmodified":1449011418,
+    "wof:lastmodified":1466766000,
     "wof:name":"Stallings Reporting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "reporter"
     ]
 },
-  "bbox": [-97.05713,36.168091,-97.05713,36.168091],
+  "bbox": [
+    -97.05713,
+    36.168091,
+    -97.05713,
+    36.168091
+],
   "geometry": {"coordinates":[-97.05713,36.168091],"type":"Point"}
 }

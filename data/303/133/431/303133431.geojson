@@ -2,13 +2,14 @@
   "id": 303133431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.340454,35.733132,-95.340454,35.733132",
     "geom:latitude":35.733132,
     "geom:longitude":-95.340454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 S York St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303133431,
-    "wof:lastmodified":1449000140,
+    "wof:lastmodified":1466763779,
     "wof:name":"Green Country Lanes Snack Bar",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "potato"
     ]
 },
-  "bbox": [-95.340454,35.733132,-95.340454,35.733132],
-  "geometry": {"coordinates":[-95.340454,35.733132],"type":"Point"}
+  "bbox": [
+    -95.340454,
+    35.733132,
+    -95.340454,
+    35.733132
+],
+  "geometry": {"coordinates":[-95.34045399999999,35.733132],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320720267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.361363,35.471455,-98.361363,35.471455",
     "geom:latitude":35.471455,
     "geom:longitude":-98.361363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W Main St",
     "sg:city":"Hinton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320720267,
-    "wof:lastmodified":1449012158,
+    "wof:lastmodified":1466766593,
     "wof:name":"West Side Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-98.361363,35.471455,-98.361363,35.471455],
+  "bbox": [
+    -98.361363,
+    35.471455,
+    -98.361363,
+    35.471455
+],
   "geometry": {"coordinates":[-98.361363,35.471455],"type":"Point"}
 }

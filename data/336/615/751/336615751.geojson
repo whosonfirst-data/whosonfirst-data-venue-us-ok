@@ -2,13 +2,14 @@
   "id": 336615751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.538781,35.497508,-97.538781,35.497508",
     "geom:latitude":35.497508,
     "geom:longitude":-97.538781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1503 NW 27th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336615751,
-    "wof:lastmodified":1448997281,
+    "wof:lastmodified":1466762423,
     "wof:name":"KHS & S Contractors",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.538781,35.497508,-97.538781,35.497508],
+  "bbox": [
+    -97.538781,
+    35.497508,
+    -97.538781,
+    35.497508
+],
   "geometry": {"coordinates":[-97.538781,35.497508],"type":"Point"}
 }

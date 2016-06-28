@@ -2,13 +2,14 @@
   "id": 303477353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.414478,34.00502,-96.414478,34.00502",
     "geom:latitude":34.00502,
     "geom:longitude":-96.414478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 W University Blvd",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303477353,
-    "wof:lastmodified":1448998538,
+    "wof:lastmodified":1466765651,
     "wof:name":"University Manor Duplexes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-96.414478,34.00502,-96.414478,34.00502],
+  "bbox": [
+    -96.414478,
+    34.00502,
+    -96.414478,
+    34.00502
+],
   "geometry": {"coordinates":[-96.414478,34.00502],"type":"Point"}
 }

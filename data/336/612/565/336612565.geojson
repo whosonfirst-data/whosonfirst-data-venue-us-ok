@@ -2,13 +2,14 @@
   "id": 336612565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886523,35.969691,-95.886523,35.969691",
     "geom:latitude":35.969691,
     "geom:longitude":-95.886523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13435 S Memorial Dr",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336612565,
-    "wof:lastmodified":1448997428,
+    "wof:lastmodified":1466762371,
     "wof:name":"Total Turf",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.886523,35.969691,-95.886523,35.969691],
+  "bbox": [
+    -95.886523,
+    35.969691,
+    -95.886523,
+    35.969691
+],
   "geometry": {"coordinates":[-95.886523,35.969691],"type":"Point"}
 }

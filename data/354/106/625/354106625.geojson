@@ -2,13 +2,14 @@
   "id": 354106625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.414688,35.652586,-97.414688,35.652586",
     "geom:latitude":35.652586,
     "geom:longitude":-97.414688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 E 2nd St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354106625,
-    "wof:lastmodified":1449065910,
+    "wof:lastmodified":1466763536,
     "wof:name":"GRA Svc Intl",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "glue"
     ]
 },
-  "bbox": [-97.414688,35.652586,-97.414688,35.652586],
+  "bbox": [
+    -97.414688,
+    35.652586,
+    -97.414688,
+    35.652586
+],
   "geometry": {"coordinates":[-97.414688,35.652586],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303356461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.532798,35.391825,-97.532798,35.391825",
     "geom:latitude":35.391825,
     "geom:longitude":-97.532798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 W I- 240 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303356461,
-    "wof:lastmodified":1449000129,
+    "wof:lastmodified":1466765206,
     "wof:name":"Awesome Care",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "animal"
     ]
 },
-  "bbox": [-97.532798,35.391825,-97.532798,35.391825],
+  "bbox": [
+    -97.532798,
+    35.391825,
+    -97.532798,
+    35.391825
+],
   "geometry": {"coordinates":[-97.532798,35.391825],"type":"Point"}
 }

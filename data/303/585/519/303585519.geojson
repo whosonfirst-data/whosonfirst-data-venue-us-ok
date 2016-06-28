@@ -2,13 +2,14 @@
   "id": 303585519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.474756,34.622695,-98.474756,34.622695",
     "geom:latitude":34.622695,
     "geom:longitude":-98.474756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 NW 67th St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303585519,
-    "wof:lastmodified":1448999745,
+    "wof:lastmodified":1466766042,
     "wof:name":"Horizon Group",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.474756,34.622695,-98.474756,34.622695],
+  "bbox": [
+    -98.474756,
+    34.622695,
+    -98.474756,
+    34.622695
+],
   "geometry": {"coordinates":[-98.474756,34.622695],"type":"Point"}
 }

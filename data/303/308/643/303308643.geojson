@@ -2,13 +2,14 @@
   "id": 303308643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733545,35.498897,-97.733545,35.498897",
     "geom:latitude":35.498897,
     "geom:longitude":-97.733545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 S Ranchwood Blvd",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303308643,
-    "wof:lastmodified":1449000634,
+    "wof:lastmodified":1466764891,
     "wof:name":"Oklahoma Self Storage",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-97.733545,35.498897,-97.733545,35.498897],
-  "geometry": {"coordinates":[-97.733545,35.498897],"type":"Point"}
+  "bbox": [
+    -97.733545,
+    35.498897,
+    -97.733545,
+    35.498897
+],
+  "geometry": {"coordinates":[-97.73354500000001,35.498897],"type":"Point"}
 }

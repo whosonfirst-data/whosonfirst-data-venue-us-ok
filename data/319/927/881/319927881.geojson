@@ -2,13 +2,14 @@
   "id": 319927881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.433147,35.642067,-97.433147,35.642067",
     "geom:latitude":35.642067,
     "geom:longitude":-97.433147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 Fox Lake Ln",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319927881,
-    "wof:lastmodified":1449024805,
+    "wof:lastmodified":1466763884,
     "wof:name":"Meyer Boyz Inc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paper"
     ]
 },
-  "bbox": [-97.433147,35.642067,-97.433147,35.642067],
-  "geometry": {"coordinates":[-97.433147,35.642067],"type":"Point"}
+  "bbox": [
+    -97.433147,
+    35.642067,
+    -97.433147,
+    35.642067
+],
+  "geometry": {"coordinates":[-97.43314700000001,35.642067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320740251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.512015,35.720448,-97.512015,35.720448",
     "geom:latitude":35.720448,
     "geom:longitude":-97.512015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 Kiawah Cir",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320740251,
-    "wof:lastmodified":1449012944,
+    "wof:lastmodified":1466766785,
     "wof:name":"Ann Masterson Lees Interiors",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-97.512015,35.720448,-97.512015,35.720448],
-  "geometry": {"coordinates":[-97.512015,35.720448],"type":"Point"}
+  "bbox": [
+    -97.512015,
+    35.720448,
+    -97.512015,
+    35.720448
+],
+  "geometry": {"coordinates":[-97.51201500000001,35.720448],"type":"Point"}
 }

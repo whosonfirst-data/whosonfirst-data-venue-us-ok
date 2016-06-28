@@ -2,13 +2,14 @@
   "id": 303753635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.340451,35.738741,-95.340451,35.738741",
     "geom:latitude":35.738741,
     "geom:longitude":-95.340451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 S York St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303753635,
-    "wof:lastmodified":1448998408,
+    "wof:lastmodified":1466766763,
     "wof:name":"Little Cake Co",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-95.340451,35.738741,-95.340451,35.738741],
+  "bbox": [
+    -95.340451,
+    35.738741,
+    -95.340451,
+    35.738741
+],
   "geometry": {"coordinates":[-95.340451,35.738741],"type":"Point"}
 }

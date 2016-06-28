@@ -2,13 +2,14 @@
   "id": 303635089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.604187,34.89039,-94.604187,34.89039",
     "geom:latitude":34.89039,
     "geom:longitude":-94.604187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 W Ave B",
     "sg:city":"Heavener",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303635089,
-    "wof:lastmodified":1448999177,
+    "wof:lastmodified":1466766197,
     "wof:name":"Heavener Water Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-94.604187,34.89039,-94.604187,34.89039],
+  "bbox": [
+    -94.604187,
+    34.89039,
+    -94.604187,
+    34.89039
+],
   "geometry": {"coordinates":[-94.604187,34.89039],"type":"Point"}
 }

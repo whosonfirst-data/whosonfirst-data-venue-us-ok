@@ -2,13 +2,14 @@
   "id": 303414919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.92498,35.348434,-96.92498,35.348434",
     "geom:latitude":35.348434,
     "geom:longitude":-96.92498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 N Beard Ave",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303414919,
-    "wof:lastmodified":1448999261,
+    "wof:lastmodified":1466765492,
     "wof:name":"Bmi Of Shawnee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.92498,35.348434,-96.92498,35.348434],
-  "geometry": {"coordinates":[-96.92498,35.348434],"type":"Point"}
+  "bbox": [
+    -96.92498,
+    35.348434,
+    -96.92498,
+    35.348434
+],
+  "geometry": {"coordinates":[-96.92498000000001,35.348434],"type":"Point"}
 }

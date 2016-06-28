@@ -2,13 +2,14 @@
   "id": 303316493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.066066,36.115641,-97.066066,36.115641",
     "geom:latitude":36.115641,
     "geom:longitude":-97.066066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W 6th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303316493,
-    "wof:lastmodified":1448999773,
+    "wof:lastmodified":1466765018,
     "wof:name":"Cigarette Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.066066,36.115641,-97.066066,36.115641],
-  "geometry": {"coordinates":[-97.066066,36.115641],"type":"Point"}
+  "bbox": [
+    -97.066066,
+    36.115641,
+    -97.066066,
+    36.115641
+],
+  "geometry": {"coordinates":[-97.06606600000001,36.115641],"type":"Point"}
 }

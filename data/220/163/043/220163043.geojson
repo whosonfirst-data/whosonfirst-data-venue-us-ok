@@ -2,13 +2,14 @@
   "id": 220163043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.812103,36.257999,-95.812103,36.257999",
     "geom:latitude":36.257999,
     "geom:longitude":-95.812103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7120 N 145th East Ave",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220163043,
-    "wof:lastmodified":1449074858,
+    "wof:lastmodified":1466764178,
     "wof:name":"Falcon Audio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.812103,36.257999,-95.812103,36.257999],
-  "geometry": {"coordinates":[-95.812103,36.257999],"type":"Point"}
+  "bbox": [
+    -95.812103,
+    36.257999,
+    -95.812103,
+    36.257999
+],
+  "geometry": {"coordinates":[-95.81210299999999,36.257999],"type":"Point"}
 }

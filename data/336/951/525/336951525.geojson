@@ -2,13 +2,14 @@
   "id": 336951525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.949949,36.183164,-95.949949,36.183164",
     "geom:latitude":36.183164,
     "geom:longitude":-95.949949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 N Delaware Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336951525,
-    "wof:lastmodified":1448996956,
+    "wof:lastmodified":1466765323,
     "wof:name":"Travel With US",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-95.949949,36.183164,-95.949949,36.183164],
+  "bbox": [
+    -95.949949,
+    36.183164,
+    -95.949949,
+    36.183164
+],
   "geometry": {"coordinates":[-95.949949,36.183164],"type":"Point"}
 }

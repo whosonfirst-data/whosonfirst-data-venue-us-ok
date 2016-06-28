@@ -2,13 +2,14 @@
   "id": 303856107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.523828,35.551045,-97.523828,35.551045",
     "geom:latitude":35.551045,
     "geom:longitude":-97.523828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 W Wilshire Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303856107,
-    "wof:lastmodified":1448998803,
+    "wof:lastmodified":1466766850,
     "wof:name":"Whodunnit Dining Room The",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "theatrical"
     ]
 },
-  "bbox": [-97.523828,35.551045,-97.523828,35.551045],
-  "geometry": {"coordinates":[-97.523828,35.551045],"type":"Point"}
+  "bbox": [
+    -97.523828,
+    35.551045,
+    -97.523828,
+    35.551045
+],
+  "geometry": {"coordinates":[-97.52382799999999,35.551045],"type":"Point"}
 }

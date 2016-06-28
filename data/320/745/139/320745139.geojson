@@ -2,13 +2,14 @@
   "id": 320745139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.724772,35.457435,-97.724772,35.457435",
     "geom:latitude":35.457435,
     "geom:longitude":-97.724772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"857 S Mustang Rd",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320745139,
-    "wof:lastmodified":1449014795,
+    "wof:lastmodified":1466766675,
     "wof:name":"Shepherd Mortgage",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-97.724772,35.457435,-97.724772,35.457435],
+  "bbox": [
+    -97.724772,
+    35.457435,
+    -97.724772,
+    35.457435
+],
   "geometry": {"coordinates":[-97.724772,35.457435],"type":"Point"}
 }

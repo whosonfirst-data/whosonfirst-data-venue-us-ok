@@ -2,13 +2,14 @@
   "id": 303862397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.307146,34.362036,-98.307146,34.362036",
     "geom:latitude":34.362036,
     "geom:longitude":-98.307146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 E Missouri Ave",
     "sg:city":"Walters",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303862397,
-    "wof:lastmodified":1449000628,
+    "wof:lastmodified":1466766869,
     "wof:name":"Personal Touch Home Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-98.307146,34.362036,-98.307146,34.362036],
+  "bbox": [
+    -98.307146,
+    34.362036,
+    -98.307146,
+    34.362036
+],
   "geometry": {"coordinates":[-98.307146,34.362036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336840571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.118433,34.504801,-97.118433,34.504801",
     "geom:latitude":34.504801,
     "geom:longitude":-97.118433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 E Main St",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336840571,
-    "wof:lastmodified":1448997793,
+    "wof:lastmodified":1466764986,
     "wof:name":"Victory Home Health & Hospice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-97.118433,34.504801,-97.118433,34.504801],
+  "bbox": [
+    -97.118433,
+    34.504801,
+    -97.118433,
+    34.504801
+],
   "geometry": {"coordinates":[-97.118433,34.504801],"type":"Point"}
 }

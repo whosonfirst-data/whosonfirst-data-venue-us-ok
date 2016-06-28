@@ -2,13 +2,14 @@
   "id": 320152085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.633592,35.693636,-97.633592,35.693636",
     "geom:latitude":35.693636,
     "geom:longitude":-97.633592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21851 N Huffines Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320152085,
-    "wof:lastmodified":1449014108,
+    "wof:lastmodified":1466764397,
     "wof:name":"Talbot Services Corp",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-97.633592,35.693636,-97.633592,35.693636],
-  "geometry": {"coordinates":[-97.633592,35.693636],"type":"Point"}
+  "bbox": [
+    -97.633592,
+    35.693636,
+    -97.633592,
+    35.693636
+],
+  "geometry": {"coordinates":[-97.63359199999999,35.693636],"type":"Point"}
 }

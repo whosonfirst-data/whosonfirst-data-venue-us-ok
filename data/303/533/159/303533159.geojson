@@ -2,13 +2,14 @@
   "id": 303533159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.962956,36.078812,-95.962956,36.078812",
     "geom:latitude":36.078812,
     "geom:longitude":-95.962956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1790 E 59th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303533159,
-    "wof:lastmodified":1448998086,
+    "wof:lastmodified":1466765978,
     "wof:name":"Ace Window Cleaning",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-95.962956,36.078812,-95.962956,36.078812],
-  "geometry": {"coordinates":[-95.962956,36.078812],"type":"Point"}
+  "bbox": [
+    -95.962956,
+    36.078812,
+    -95.962956,
+    36.078812
+],
+  "geometry": {"coordinates":[-95.96295600000001,36.078812],"type":"Point"}
 }

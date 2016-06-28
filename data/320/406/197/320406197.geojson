@@ -2,13 +2,14 @@
   "id": 320406197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534252,35.512571,-97.534252,35.512571",
     "geom:latitude":35.512571,
     "geom:longitude":-97.534252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320406197,
-    "wof:lastmodified":1449013265,
+    "wof:lastmodified":1466765742,
     "wof:name":"Cdc",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.534252,35.512571,-97.534252,35.512571],
+  "bbox": [
+    -97.534252,
+    35.512571,
+    -97.534252,
+    35.512571
+],
   "geometry": {"coordinates":[-97.534252,35.512571],"type":"Point"}
 }

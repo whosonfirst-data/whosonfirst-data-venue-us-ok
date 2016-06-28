@@ -2,13 +2,14 @@
   "id": 303666511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.537892,35.365891,-97.537892,35.365891",
     "geom:latitude":35.365891,
     "geom:longitude":-97.537892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1233 SW 101st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303666511,
-    "wof:lastmodified":1448999013,
+    "wof:lastmodified":1466766334,
     "wof:name":"Truck Power System",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-97.537892,35.365891,-97.537892,35.365891],
+  "bbox": [
+    -97.537892,
+    35.365891,
+    -97.537892,
+    35.365891
+],
   "geometry": {"coordinates":[-97.537892,35.365891],"type":"Point"}
 }

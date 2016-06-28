@@ -2,13 +2,14 @@
   "id": 353859725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.561489,35.51896,-97.561489,35.51896",
     "geom:latitude":35.51896,
     "geom:longitude":-97.561489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4704 N Miller Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353859725,
-    "wof:lastmodified":1449020069,
+    "wof:lastmodified":1466765557,
     "wof:name":"Dean E London",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gas"
     ]
 },
-  "bbox": [-97.561489,35.51896,-97.561489,35.51896],
-  "geometry": {"coordinates":[-97.561489,35.51896],"type":"Point"}
+  "bbox": [
+    -97.561489,
+    35.51896,
+    -97.561489,
+    35.51896
+],
+  "geometry": {"coordinates":[-97.56148899999999,35.51896],"type":"Point"}
 }

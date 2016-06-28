@@ -2,13 +2,14 @@
   "id": 303858815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.481374,35.439108,-97.481374,35.439108",
     "geom:latitude":35.439108,
     "geom:longitude":-97.481374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 SE 25th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303858815,
-    "wof:lastmodified":1448998362,
+    "wof:lastmodified":1466766782,
     "wof:name":"Jim Hunt Sales & Mfg",
     "wof:parent_id":85871675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gasket"
     ]
 },
-  "bbox": [-97.481374,35.439108,-97.481374,35.439108],
+  "bbox": [
+    -97.481374,
+    35.439108,
+    -97.481374,
+    35.439108
+],
   "geometry": {"coordinates":[-97.481374,35.439108],"type":"Point"}
 }

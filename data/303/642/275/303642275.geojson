@@ -2,13 +2,14 @@
   "id": 303642275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507806,35.493321,-97.507806,35.493321",
     "geom:latitude":35.493321,
     "geom:longitude":-97.507806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303642275,
-    "wof:lastmodified":1448998262,
+    "wof:lastmodified":1466766414,
     "wof:name":"Ricky's Cafe",
     "wof:parent_id":85871695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.507806,35.493321,-97.507806,35.493321],
+  "bbox": [
+    -97.507806,
+    35.493321,
+    -97.507806,
+    35.493321
+],
   "geometry": {"coordinates":[-97.507806,35.493321],"type":"Point"}
 }

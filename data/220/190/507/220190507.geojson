@@ -2,13 +2,14 @@
   "id": 220190507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.982368,36.147911,-95.982368,36.147911",
     "geom:latitude":36.147911,
     "geom:longitude":-95.982368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 E 11th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220190507,
-    "wof:lastmodified":1449074836,
+    "wof:lastmodified":1466762421,
     "wof:name":"Lyon's Indian Store",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "indian"
     ]
 },
-  "bbox": [-95.982368,36.147911,-95.982368,36.147911],
-  "geometry": {"coordinates":[-95.982368,36.147911],"type":"Point"}
+  "bbox": [
+    -95.982368,
+    36.147911,
+    -95.982368,
+    36.147911
+],
+  "geometry": {"coordinates":[-95.98236799999999,36.147911],"type":"Point"}
 }

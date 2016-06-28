@@ -2,13 +2,14 @@
   "id": 337592801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.324431,35.740516,-95.324431,35.740516",
     "geom:latitude":35.740516,
     "geom:longitude":-95.324431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 Chandler Rd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337592801,
-    "wof:lastmodified":1449027416,
+    "wof:lastmodified":1466763172,
     "wof:name":"Dan Dunlap Public Accountant",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-95.324431,35.740516,-95.324431,35.740516],
+  "bbox": [
+    -95.324431,
+    35.740516,
+    -95.324431,
+    35.740516
+],
   "geometry": {"coordinates":[-95.324431,35.740516],"type":"Point"}
 }

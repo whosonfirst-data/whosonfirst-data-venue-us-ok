@@ -2,13 +2,14 @@
   "id": 336907577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.145845,34.176334,-97.145845,34.176334",
     "geom:latitude":34.176334,
     "geom:longitude":-97.145845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 W Main St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336907577,
-    "wof:lastmodified":1448997935,
+    "wof:lastmodified":1466765150,
     "wof:name":"Stephens Wholesale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-97.145845,34.176334,-97.145845,34.176334],
-  "geometry": {"coordinates":[-97.145845,34.176334],"type":"Point"}
+  "bbox": [
+    -97.145845,
+    34.176334,
+    -97.145845,
+    34.176334
+],
+  "geometry": {"coordinates":[-97.14584499999999,34.176334],"type":"Point"}
 }

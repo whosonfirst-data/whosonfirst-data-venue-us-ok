@@ -2,13 +2,14 @@
   "id": 354212923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.980302,36.112937,-95.980302,36.112937",
     "geom:latitude":36.112937,
     "geom:longitude":-95.980302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 E 35th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354212923,
-    "wof:lastmodified":1449067076,
+    "wof:lastmodified":1466764002,
     "wof:name":"Dales Cmmrcal Residential Svc",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "heating"
     ]
 },
-  "bbox": [-95.980302,36.112937,-95.980302,36.112937],
-  "geometry": {"coordinates":[-95.980302,36.112937],"type":"Point"}
+  "bbox": [
+    -95.980302,
+    36.112937,
+    -95.980302,
+    36.112937
+],
+  "geometry": {"coordinates":[-95.98030199999999,36.112937],"type":"Point"}
 }

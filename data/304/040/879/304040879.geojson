@@ -2,13 +2,14 @@
   "id": 304040879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.413544,35.40637,-97.413544,35.40637",
     "geom:latitude":35.40637,
     "geom:longitude":-97.413544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6321 SE 59th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304040879,
-    "wof:lastmodified":1449044135,
+    "wof:lastmodified":1466763052,
     "wof:name":"Park Assembly Of God Church",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.413544,35.40637,-97.413544,35.40637],
+  "bbox": [
+    -97.413544,
+    35.40637,
+    -97.413544,
+    35.40637
+],
   "geometry": {"coordinates":[-97.413544,35.40637],"type":"Point"}
 }

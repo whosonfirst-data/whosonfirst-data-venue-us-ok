@@ -2,13 +2,14 @@
   "id": 303367723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.472865,36.681895,-101.472865,36.681895",
     "geom:latitude":36.681895,
     "geom:longitude":-101.472865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 NE 4th St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303367723,
-    "wof:lastmodified":1448999564,
+    "wof:lastmodified":1466765169,
     "wof:name":"O K Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "store"
     ]
 },
-  "bbox": [-101.472865,36.681895,-101.472865,36.681895],
+  "bbox": [
+    -101.472865,
+    36.681895,
+    -101.472865,
+    36.681895
+],
   "geometry": {"coordinates":[-101.472865,36.681895],"type":"Point"}
 }

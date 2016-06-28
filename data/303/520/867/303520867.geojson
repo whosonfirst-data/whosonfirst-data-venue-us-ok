@@ -2,13 +2,14 @@
   "id": 303520867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.658366,34.781715,-96.658366,34.781715",
     "geom:latitude":34.781715,
     "geom:longitude":-96.658366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Arlington St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303520867,
-    "wof:lastmodified":1448998922,
+    "wof:lastmodified":1466765933,
     "wof:name":"Doctors Park Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.658366,34.781715,-96.658366,34.781715],
+  "bbox": [
+    -96.658366,
+    34.781715,
+    -96.658366,
+    34.781715
+],
   "geometry": {"coordinates":[-96.658366,34.781715],"type":"Point"}
 }

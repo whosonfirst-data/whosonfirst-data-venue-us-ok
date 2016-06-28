@@ -2,13 +2,14 @@
   "id": 337554129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.882222,35.970525,-95.882222,35.970525",
     "geom:latitude":35.970525,
     "geom:longitude":-95.882222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13302 S 85th East Ave",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337554129,
-    "wof:lastmodified":1449027092,
+    "wof:lastmodified":1466762957,
     "wof:name":"First Class Moving",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-95.882222,35.970525,-95.882222,35.970525],
+  "bbox": [
+    -95.882222,
+    35.970525,
+    -95.882222,
+    35.970525
+],
   "geometry": {"coordinates":[-95.882222,35.970525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320124643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.118529,34.504923,-97.118529,34.504923",
     "geom:latitude":34.504923,
     "geom:longitude":-97.118529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 E Main St",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320124643,
-    "wof:lastmodified":1449014679,
+    "wof:lastmodified":1466764163,
     "wof:name":"Hollywood Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-97.118529,34.504923,-97.118529,34.504923],
+  "bbox": [
+    -97.118529,
+    34.504923,
+    -97.118529,
+    34.504923
+],
   "geometry": {"coordinates":[-97.118529,34.504923],"type":"Point"}
 }

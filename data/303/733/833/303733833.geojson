@@ -2,13 +2,14 @@
   "id": 303733833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.540788,35.377062,-97.540788,35.377062",
     "geom:latitude":35.377062,
     "geom:longitude":-97.540788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 SW 89th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303733833,
-    "wof:lastmodified":1448998458,
+    "wof:lastmodified":1466766560,
     "wof:name":"Fidelity Mortgage Svc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-97.540788,35.377062,-97.540788,35.377062],
-  "geometry": {"coordinates":[-97.540788,35.377062],"type":"Point"}
+  "bbox": [
+    -97.540788,
+    35.377062,
+    -97.540788,
+    35.377062
+],
+  "geometry": {"coordinates":[-97.54078800000001,35.377062],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320000129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.762352,34.928983,-95.762352,34.928983",
     "geom:latitude":34.928983,
     "geom:longitude":-95.762352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S 6th St",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320000129,
-    "wof:lastmodified":1449011856,
+    "wof:lastmodified":1466762279,
     "wof:name":"Red Horse Tire Ctr",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-95.762352,34.928983,-95.762352,34.928983],
-  "geometry": {"coordinates":[-95.762352,34.928983],"type":"Point"}
+  "bbox": [
+    -95.762352,
+    34.928983,
+    -95.762352,
+    34.928983
+],
+  "geometry": {"coordinates":[-95.76235200000001,34.928983],"type":"Point"}
 }

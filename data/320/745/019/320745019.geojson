@@ -2,13 +2,14 @@
   "id": 320745019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.952304,35.610558,-95.952304,35.610558",
     "geom:latitude":35.610558,
     "geom:longitude":-95.952304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Morris Dr",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320745019,
-    "wof:lastmodified":1449014793,
+    "wof:lastmodified":1466766791,
     "wof:name":"OMH Home Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-95.952304,35.610558,-95.952304,35.610558],
+  "bbox": [
+    -95.952304,
+    35.610558,
+    -95.952304,
+    35.610558
+],
   "geometry": {"coordinates":[-95.952304,35.610558],"type":"Point"}
 }

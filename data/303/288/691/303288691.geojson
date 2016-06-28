@@ -2,13 +2,14 @@
   "id": 303288691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.016732,34.163022,-98.016732,34.163022",
     "geom:latitude":34.163022,
     "geom:longitude":-98.016732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 W Anderson Ave",
     "sg:city":"Waurika",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303288691,
-    "wof:lastmodified":1448998378,
+    "wof:lastmodified":1466764909,
     "wof:name":"Waurika Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [-98.016732,34.163022,-98.016732,34.163022],
+  "bbox": [
+    -98.016732,
+    34.163022,
+    -98.016732,
+    34.163022
+],
   "geometry": {"coordinates":[-98.016732,34.163022],"type":"Point"}
 }

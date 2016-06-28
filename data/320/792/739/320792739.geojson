@@ -2,13 +2,14 @@
   "id": 320792739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.731148,36.501521,-96.731148,36.501521",
     "geom:latitude":36.501521,
     "geom:longitude":-96.731148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 S 6th St",
     "sg:city":"Ralston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320792739,
-    "wof:lastmodified":1449012056,
+    "wof:lastmodified":1466766814,
     "wof:name":"Ralston Bible Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.731148,36.501521,-96.731148,36.501521],
+  "bbox": [
+    -96.731148,
+    36.501521,
+    -96.731148,
+    36.501521
+],
   "geometry": {"coordinates":[-96.731148,36.501521],"type":"Point"}
 }

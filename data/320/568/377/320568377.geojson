@@ -2,13 +2,14 @@
   "id": 320568377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.393526,34.60528,-98.393526,34.60528",
     "geom:latitude":34.60528,
     "geom:longitude":-98.393526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 SW C Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320568377,
-    "wof:lastmodified":1449011179,
+    "wof:lastmodified":1466766216,
     "wof:name":"Perkins Cellular",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-98.393526,34.60528,-98.393526,34.60528],
-  "geometry": {"coordinates":[-98.393526,34.60528],"type":"Point"}
+  "bbox": [
+    -98.393526,
+    34.60528,
+    -98.393526,
+    34.60528
+],
+  "geometry": {"coordinates":[-98.39352599999999,34.60528],"type":"Point"}
 }

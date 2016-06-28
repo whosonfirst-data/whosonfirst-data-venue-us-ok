@@ -2,13 +2,14 @@
   "id": 303368207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.010889,36.17841,-96.010889,36.17841",
     "geom:latitude":36.17841,
     "geom:longitude":-96.010889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 N Union Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303368207,
-    "wof:lastmodified":1448998674,
+    "wof:lastmodified":1466765177,
     "wof:name":"Rt Relty LLC/Three Stage Prpts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.010889,36.17841,-96.010889,36.17841],
-  "geometry": {"coordinates":[-96.010889,36.17841],"type":"Point"}
+  "bbox": [
+    -96.010889,
+    36.17841,
+    -96.010889,
+    36.17841
+],
+  "geometry": {"coordinates":[-96.01088900000001,36.17841],"type":"Point"}
 }

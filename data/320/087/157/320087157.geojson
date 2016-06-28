@@ -2,13 +2,14 @@
   "id": 320087157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.483061,34.613461,-98.483061,34.613461",
     "geom:latitude":34.613461,
     "geom:longitude":-98.483061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 NW Parkwood Pl",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320087157,
-    "wof:lastmodified":1449012981,
+    "wof:lastmodified":1466763571,
     "wof:name":"Life Data",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.483061,34.613461,-98.483061,34.613461],
-  "geometry": {"coordinates":[-98.483061,34.613461],"type":"Point"}
+  "bbox": [
+    -98.483061,
+    34.613461,
+    -98.483061,
+    34.613461
+],
+  "geometry": {"coordinates":[-98.48306100000001,34.613461],"type":"Point"}
 }

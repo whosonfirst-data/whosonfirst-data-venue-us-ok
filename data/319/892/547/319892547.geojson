@@ -2,13 +2,14 @@
   "id": 319892547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.960298,36.140881,-95.960298,36.140881",
     "geom:latitude":36.140881,
     "geom:longitude":-95.960298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1424 Terrace Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319892547,
-    "wof:lastmodified":1449024210,
+    "wof:lastmodified":1466763482,
     "wof:name":"Frazier & Phillips",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-95.960298,36.140881,-95.960298,36.140881],
-  "geometry": {"coordinates":[-95.960298,36.140881],"type":"Point"}
+  "bbox": [
+    -95.960298,
+    36.140881,
+    -95.960298,
+    36.140881
+],
+  "geometry": {"coordinates":[-95.96029799999999,36.140881],"type":"Point"}
 }

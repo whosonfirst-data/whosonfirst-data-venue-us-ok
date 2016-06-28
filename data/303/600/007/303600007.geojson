@@ -2,13 +2,14 @@
   "id": 303600007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.283055,36.804705,-97.283055,36.804705",
     "geom:latitude":36.804705,
     "geom:longitude":-97.283055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Main St",
     "sg:city":"Blackwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303600007,
-    "wof:lastmodified":1448998345,
+    "wof:lastmodified":1466766310,
     "wof:name":"Gose Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-97.283055,36.804705,-97.283055,36.804705],
+  "bbox": [
+    -97.283055,
+    36.804705,
+    -97.283055,
+    36.804705
+],
   "geometry": {"coordinates":[-97.283055,36.804705],"type":"Point"}
 }

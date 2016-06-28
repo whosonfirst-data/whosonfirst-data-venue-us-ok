@@ -2,13 +2,14 @@
   "id": 320445883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.980881,36.743747,-95.980881,36.743747",
     "geom:latitude":36.743747,
     "geom:longitude":-95.980881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 W 10th St",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320445883,
-    "wof:lastmodified":1449011752,
+    "wof:lastmodified":1466766033,
     "wof:name":"Greater First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.980881,36.743747,-95.980881,36.743747],
+  "bbox": [
+    -95.980881,
+    36.743747,
+    -95.980881,
+    36.743747
+],
   "geometry": {"coordinates":[-95.980881,36.743747],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303870167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.877576,36.890837,-94.877576,36.890837",
     "geom:latitude":36.890837,
     "geom:longitude":-94.877576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 N Main St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303870167,
-    "wof:lastmodified":1448998756,
+    "wof:lastmodified":1466766897,
     "wof:name":"Autozone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessory"
     ]
 },
-  "bbox": [-94.877576,36.890837,-94.877576,36.890837],
+  "bbox": [
+    -94.877576,
+    36.890837,
+    -94.877576,
+    36.890837
+],
   "geometry": {"coordinates":[-94.877576,36.890837],"type":"Point"}
 }

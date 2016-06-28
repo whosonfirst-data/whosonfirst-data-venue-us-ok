@@ -2,13 +2,14 @@
   "id": 320347613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.492383,35.411927,-97.492383,35.411927",
     "geom:latitude":35.411927,
     "geom:longitude":-97.492383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 S I- 35 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320347613,
-    "wof:lastmodified":1449013064,
+    "wof:lastmodified":1466765334,
     "wof:name":"Joe Brown Co",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.492383,35.411927,-97.492383,35.411927],
+  "bbox": [
+    -97.492383,
+    35.411927,
+    -97.492383,
+    35.411927
+],
   "geometry": {"coordinates":[-97.492383,35.411927],"type":"Point"}
 }

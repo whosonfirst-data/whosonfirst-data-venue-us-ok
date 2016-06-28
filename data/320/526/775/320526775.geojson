@@ -2,13 +2,14 @@
   "id": 320526775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.885131,36.879883,-94.885131,36.879883",
     "geom:latitude":36.879883,
     "geom:longitude":-94.885131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 G St NW",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320526775,
-    "wof:lastmodified":1449012415,
+    "wof:lastmodified":1466766117,
     "wof:name":"Northwest Assembly Of God Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.885131,36.879883,-94.885131,36.879883],
+  "bbox": [
+    -94.885131,
+    36.879883,
+    -94.885131,
+    36.879883
+],
   "geometry": {"coordinates":[-94.885131,36.879883],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303241713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.960697,36.06081,-95.960697,36.06081",
     "geom:latitude":36.06081,
     "geom:longitude":-95.960697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6901 S Yorktown Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303241713,
-    "wof:lastmodified":1449000503,
+    "wof:lastmodified":1466764757,
     "wof:name":"Visual FX",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-95.960697,36.06081,-95.960697,36.06081],
+  "bbox": [
+    -95.960697,
+    36.06081,
+    -95.960697,
+    36.06081
+],
   "geometry": {"coordinates":[-95.960697,36.06081],"type":"Point"}
 }

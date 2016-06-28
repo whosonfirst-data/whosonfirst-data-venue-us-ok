@@ -2,13 +2,14 @@
   "id": 320402535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.60889,34.232027,-95.60889,34.232027",
     "geom:latitude":34.232027,
     "geom:longitude":-95.60889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 E Main St",
     "sg:city":"Antlers",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320402535,
-    "wof:lastmodified":1449012463,
+    "wof:lastmodified":1466765628,
     "wof:name":"Mane Headquarters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.60889,34.232027,-95.60889,34.232027],
+  "bbox": [
+    -95.60889,
+    34.232027,
+    -95.60889,
+    34.232027
+],
   "geometry": {"coordinates":[-95.60889,34.232027],"type":"Point"}
 }

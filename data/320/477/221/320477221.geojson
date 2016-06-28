@@ -2,13 +2,14 @@
   "id": 320477221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.594414,35.327156,-97.594414,35.327156",
     "geom:latitude":35.327156,
     "geom:longitude":-97.594414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13510 S Tulsa Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320477221,
-    "wof:lastmodified":1449011894,
+    "wof:lastmodified":1466766005,
     "wof:name":"Patrick's Welding",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.594414,35.327156,-97.594414,35.327156],
+  "bbox": [
+    -97.594414,
+    35.327156,
+    -97.594414,
+    35.327156
+],
   "geometry": {"coordinates":[-97.594414,35.327156],"type":"Point"}
 }

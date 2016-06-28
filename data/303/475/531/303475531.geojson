@@ -2,13 +2,14 @@
   "id": 303475531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.052551,36.72386,-97.052551,36.72386",
     "geom:latitude":36.72386,
     "geom:longitude":-97.052551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2408 E Hartford Ave",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303475531,
-    "wof:lastmodified":1448999133,
+    "wof:lastmodified":1466765749,
     "wof:name":"Church Of Jesus Christ Of LDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.052551,36.72386,-97.052551,36.72386],
-  "geometry": {"coordinates":[-97.052551,36.72386],"type":"Point"}
+  "bbox": [
+    -97.052551,
+    36.72386,
+    -97.052551,
+    36.72386
+],
+  "geometry": {"coordinates":[-97.05255099999999,36.72386],"type":"Point"}
 }

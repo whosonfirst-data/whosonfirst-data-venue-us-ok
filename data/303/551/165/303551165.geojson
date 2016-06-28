@@ -2,13 +2,14 @@
   "id": 303551165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800694,36.33564,-96.800694,36.33564",
     "geom:latitude":36.33564,
     "geom:longitude":-96.800694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Forest St",
     "sg:city":"Pawnee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303551165,
-    "wof:lastmodified":1448998607,
+    "wof:lastmodified":1466766037,
     "wof:name":"Pawnee Municipal Hosp Hm Hlth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-96.800694,36.33564,-96.800694,36.33564],
-  "geometry": {"coordinates":[-96.800694,36.33564],"type":"Point"}
+  "bbox": [
+    -96.800694,
+    36.33564,
+    -96.800694,
+    36.33564
+],
+  "geometry": {"coordinates":[-96.80069399999999,36.33564],"type":"Point"}
 }

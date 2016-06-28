@@ -2,13 +2,14 @@
   "id": 336613463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.922283,36.08681,-95.922283,36.08681",
     "geom:latitude":36.08681,
     "geom:longitude":-95.922283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 S Yale Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336613463,
-    "wof:lastmodified":1448997451,
+    "wof:lastmodified":1466762385,
     "wof:name":"Burlington Northern",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "line"
     ]
 },
-  "bbox": [-95.922283,36.08681,-95.922283,36.08681],
-  "geometry": {"coordinates":[-95.922283,36.08681],"type":"Point"}
+  "bbox": [
+    -95.922283,
+    36.08681,
+    -95.922283,
+    36.08681
+],
+  "geometry": {"coordinates":[-95.92228299999999,36.08681],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220139183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.639412,33.970539,-96.639412,33.970539",
     "geom:latitude":33.970539,
     "geom:longitude":-96.639412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1497 Texoma Park Rd",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220139183,
-    "wof:lastmodified":1449074105,
+    "wof:lastmodified":1466763558,
     "wof:name":"Texoma Volunteer Fire Dept Station 1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "protection"
     ]
 },
-  "bbox": [-96.639412,33.970539,-96.639412,33.970539],
-  "geometry": {"coordinates":[-96.639412,33.970539],"type":"Point"}
+  "bbox": [
+    -96.639412,
+    33.970539,
+    -96.639412,
+    33.970539
+],
+  "geometry": {"coordinates":[-96.63941199999999,33.970539],"type":"Point"}
 }

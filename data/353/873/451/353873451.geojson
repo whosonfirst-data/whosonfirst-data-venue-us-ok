@@ -2,13 +2,14 @@
   "id": 353873451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.379326,36.435124,-99.379326,36.435124",
     "geom:latitude":36.435124,
     "geom:longitude":-99.379326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Main Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353873451,
-    "wof:lastmodified":1449018789,
+    "wof:lastmodified":1466765720,
     "wof:name":"Main Street Collision Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-99.379326,36.435124,-99.379326,36.435124],
-  "geometry": {"coordinates":[-99.379326,36.435124],"type":"Point"}
+  "bbox": [
+    -99.379326,
+    36.435124,
+    -99.379326,
+    36.435124
+],
+  "geometry": {"coordinates":[-99.37932600000001,36.435124],"type":"Point"}
 }

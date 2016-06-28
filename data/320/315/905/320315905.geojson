@@ -2,13 +2,14 @@
   "id": 320315905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.877539,36.882722,-94.877539,36.882722",
     "geom:latitude":36.882722,
     "geom:longitude":-94.877539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 N Main St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320315905,
-    "wof:lastmodified":1449014769,
+    "wof:lastmodified":1466765150,
     "wof:name":"Grand Rental Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-94.877539,36.882722,-94.877539,36.882722],
+  "bbox": [
+    -94.877539,
+    36.882722,
+    -94.877539,
+    36.882722
+],
   "geometry": {"coordinates":[-94.877539,36.882722],"type":"Point"}
 }

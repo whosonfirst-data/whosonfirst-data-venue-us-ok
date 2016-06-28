@@ -2,13 +2,14 @@
   "id": 336597163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.89319,36.177152,-95.89319,36.177152",
     "geom:latitude":36.177152,
     "geom:longitude":-95.89319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7517 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336597163,
-    "wof:lastmodified":1448997987,
+    "wof:lastmodified":1466764112,
     "wof:name":"Century Geophysical Corp",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "exploration"
     ]
 },
-  "bbox": [-95.89319,36.177152,-95.89319,36.177152],
+  "bbox": [
+    -95.89319,
+    36.177152,
+    -95.89319,
+    36.177152
+],
   "geometry": {"coordinates":[-95.89319,36.177152],"type":"Point"}
 }

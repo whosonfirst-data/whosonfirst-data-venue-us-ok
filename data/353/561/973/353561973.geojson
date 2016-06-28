@@ -2,13 +2,14 @@
   "id": 353561973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.84833,36.13354,-95.84833,36.13354",
     "geom:latitude":36.13354,
     "geom:longitude":-95.84833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11511 E 21st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353561973,
-    "wof:lastmodified":1449020058,
+    "wof:lastmodified":1466764047,
     "wof:name":"Springer Clinic Inc (pc)",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clinic"
     ]
 },
-  "bbox": [-95.84833,36.13354,-95.84833,36.13354],
+  "bbox": [
+    -95.84833,
+    36.13354,
+    -95.84833,
+    36.13354
+],
   "geometry": {"coordinates":[-95.84833,36.13354],"type":"Point"}
 }

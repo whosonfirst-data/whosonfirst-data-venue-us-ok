@@ -2,13 +2,14 @@
   "id": 319873819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975957,36.157771,-95.975957,36.157771",
     "geom:latitude":36.157771,
     "geom:longitude":-95.975957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 E 2nd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319873819,
-    "wof:lastmodified":1449024256,
+    "wof:lastmodified":1466763385,
     "wof:name":"Southern Sheet Metal Works",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sheet"
     ]
 },
-  "bbox": [-95.975957,36.157771,-95.975957,36.157771],
-  "geometry": {"coordinates":[-95.975957,36.157771],"type":"Point"}
+  "bbox": [
+    -95.975957,
+    36.157771,
+    -95.975957,
+    36.157771
+],
+  "geometry": {"coordinates":[-95.97595699999999,36.157771],"type":"Point"}
 }

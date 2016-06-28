@@ -2,13 +2,14 @@
   "id": 336712933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.521272,35.468565,-97.521272,35.468565",
     "geom:latitude":35.468565,
     "geom:longitude":-97.521272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Walker Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336712933,
-    "wof:lastmodified":1448997408,
+    "wof:lastmodified":1466763922,
     "wof:name":"Municipal Employees CU",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.521272,35.468565,-97.521272,35.468565],
+  "bbox": [
+    -97.521272,
+    35.468565,
+    -97.521272,
+    35.468565
+],
   "geometry": {"coordinates":[-97.521272,35.468565],"type":"Point"}
 }

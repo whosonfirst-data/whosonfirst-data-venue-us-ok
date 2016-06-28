@@ -2,13 +2,14 @@
   "id": 354046565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.594158,35.536894,-97.594158,35.536894",
     "geom:latitude":35.536894,
     "geom:longitude":-97.594158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4113 NW 63rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354046565,
-    "wof:lastmodified":1449066887,
+    "wof:lastmodified":1466763265,
     "wof:name":"John Holt Super Ctr",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.594158,35.536894,-97.594158,35.536894],
-  "geometry": {"coordinates":[-97.594158,35.536894],"type":"Point"}
+  "bbox": [
+    -97.594158,
+    35.536894,
+    -97.594158,
+    35.536894
+],
+  "geometry": {"coordinates":[-97.59415799999999,35.536894],"type":"Point"}
 }

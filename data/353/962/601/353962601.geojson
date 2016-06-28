@@ -2,13 +2,14 @@
   "id": 353962601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.878529,36.101897,-95.878529,36.101897",
     "geom:latitude":36.101897,
     "geom:longitude":-95.878529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8714 E 43rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353962601,
-    "wof:lastmodified":1449019770,
+    "wof:lastmodified":1466765970,
     "wof:name":"Bolins Auto Service",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-95.878529,36.101897,-95.878529,36.101897],
+  "bbox": [
+    -95.878529,
+    36.101897,
+    -95.878529,
+    36.101897
+],
   "geometry": {"coordinates":[-95.878529,36.101897],"type":"Point"}
 }

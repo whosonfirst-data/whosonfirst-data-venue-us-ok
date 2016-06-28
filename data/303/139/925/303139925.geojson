@@ -2,13 +2,14 @@
   "id": 303139925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.925753,36.756847,-95.925753,36.756847",
     "geom:latitude":36.756847,
     "geom:longitude":-95.925753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 SE Fenway Pl",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303139925,
-    "wof:lastmodified":1448998350,
+    "wof:lastmodified":1466763880,
     "wof:name":"Where-House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-95.925753,36.756847,-95.925753,36.756847],
+  "bbox": [
+    -95.925753,
+    36.756847,
+    -95.925753,
+    36.756847
+],
   "geometry": {"coordinates":[-95.925753,36.756847],"type":"Point"}
 }

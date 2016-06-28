@@ -2,13 +2,14 @@
   "id": 320389485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.111089,35.998591,-96.111089,35.998591",
     "geom:latitude":35.998591,
     "geom:longitude":-96.111089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 E Dewey Ave",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320389485,
-    "wof:lastmodified":1449014203,
+    "wof:lastmodified":1466765518,
     "wof:name":"Creek County District Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.111089,35.998591,-96.111089,35.998591],
-  "geometry": {"coordinates":[-96.111089,35.998591],"type":"Point"}
+  "bbox": [
+    -96.111089,
+    35.998591,
+    -96.111089,
+    35.998591
+],
+  "geometry": {"coordinates":[-96.11108900000001,35.998591],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336593383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.664881,36.805987,-98.664881,36.805987",
     "geom:latitude":36.805987,
     "geom:longitude":-98.664881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Choctaw St",
     "sg:city":"Alva",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336593383,
-    "wof:lastmodified":1448997648,
+    "wof:lastmodified":1466764077,
     "wof:name":"Reed's Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.664881,36.805987,-98.664881,36.805987],
-  "geometry": {"coordinates":[-98.664881,36.805987],"type":"Point"}
+  "bbox": [
+    -98.664881,
+    36.805987,
+    -98.664881,
+    36.805987
+],
+  "geometry": {"coordinates":[-98.66488099999999,36.805987],"type":"Point"}
 }

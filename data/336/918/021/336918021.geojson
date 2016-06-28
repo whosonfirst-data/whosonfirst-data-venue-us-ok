@@ -2,13 +2,14 @@
   "id": 336918021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.953795,35.53227,-97.953795,35.53227",
     "geom:latitude":35.53227,
     "geom:longitude":-97.953795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Bickford Ave",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336918021,
-    "wof:lastmodified":1448997657,
+    "wof:lastmodified":1466765272,
     "wof:name":"City Cnty Hlth Dept Okla Cnty",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-97.953795,35.53227,-97.953795,35.53227],
+  "bbox": [
+    -97.953795,
+    35.53227,
+    -97.953795,
+    35.53227
+],
   "geometry": {"coordinates":[-97.953795,35.53227],"type":"Point"}
 }

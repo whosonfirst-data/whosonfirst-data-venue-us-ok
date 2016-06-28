@@ -2,13 +2,14 @@
   "id": 320860003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.262448,35.331161,-97.262448,35.331161",
     "geom:latitude":35.331161,
     "geom:longitude":-97.262448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7915 SE 139th St",
     "sg:city":"Holdenville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320860003,
-    "wof:lastmodified":1449012916,
+    "wof:lastmodified":1466767059,
     "wof:name":"Howard Flying Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crop"
     ]
 },
-  "bbox": [-97.262448,35.331161,-97.262448,35.331161],
-  "geometry": {"coordinates":[-97.262448,35.331161],"type":"Point"}
+  "bbox": [
+    -97.262448,
+    35.331161,
+    -97.262448,
+    35.331161
+],
+  "geometry": {"coordinates":[-97.26244800000001,35.331161],"type":"Point"}
 }

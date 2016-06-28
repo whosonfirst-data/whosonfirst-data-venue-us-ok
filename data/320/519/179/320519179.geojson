@@ -2,13 +2,14 @@
   "id": 320519179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.535747,35.398439,-97.535747,35.398439",
     "geom:latitude":35.398439,
     "geom:longitude":-97.535747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 SW 67th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320519179,
-    "wof:lastmodified":1449014713,
+    "wof:lastmodified":1466766098,
     "wof:name":"Diener Productions Inc",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-97.535747,35.398439,-97.535747,35.398439],
+  "bbox": [
+    -97.535747,
+    35.398439,
+    -97.535747,
+    35.398439
+],
   "geometry": {"coordinates":[-97.535747,35.398439],"type":"Point"}
 }

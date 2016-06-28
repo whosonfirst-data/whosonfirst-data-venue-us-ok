@@ -2,13 +2,14 @@
   "id": 303111569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.54333,35.378486,-97.54333,35.378486",
     "geom:latitude":35.378486,
     "geom:longitude":-97.54333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8900 S Indiana Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303111569,
-    "wof:lastmodified":1449000648,
+    "wof:lastmodified":1466763418,
     "wof:name":"Lambic Telecom Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-97.54333,35.378486,-97.54333,35.378486],
+  "bbox": [
+    -97.54333,
+    35.378486,
+    -97.54333,
+    35.378486
+],
   "geometry": {"coordinates":[-97.54333,35.378486],"type":"Point"}
 }

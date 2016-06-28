@@ -2,13 +2,14 @@
   "id": 320625533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.903777,36.096268,-95.903777,36.096268",
     "geom:latitude":36.096268,
     "geom:longitude":-95.903777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 E 47th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320625533,
-    "wof:lastmodified":1449015024,
+    "wof:lastmodified":1466766344,
     "wof:name":"Anchor Service Co",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.903777,36.096268,-95.903777,36.096268],
-  "geometry": {"coordinates":[-95.903777,36.096268],"type":"Point"}
+  "bbox": [
+    -95.903777,
+    36.096268,
+    -95.903777,
+    36.096268
+],
+  "geometry": {"coordinates":[-95.90377700000001,36.096268],"type":"Point"}
 }

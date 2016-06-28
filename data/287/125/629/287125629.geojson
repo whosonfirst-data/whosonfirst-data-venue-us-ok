@@ -2,13 +2,14 @@
   "id": 287125629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.068239,36.146572,-96.068239,36.146572",
     "geom:latitude":36.146572,
     "geom:longitude":-96.068239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 Charles Page Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287125629,
-    "wof:lastmodified":1449001557,
+    "wof:lastmodified":1466763589,
     "wof:name":"Midwest Portable Buildings",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.068239,36.146572,-96.068239,36.146572],
-  "geometry": {"coordinates":[-96.068239,36.146572],"type":"Point"}
+  "bbox": [
+    -96.068239,
+    36.146572,
+    -96.068239,
+    36.146572
+],
+  "geometry": {"coordinates":[-96.06823900000001,36.146572],"type":"Point"}
 }

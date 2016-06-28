@@ -2,13 +2,14 @@
   "id": 354067717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.943855,36.181954,-95.943855,36.181954",
     "geom:latitude":36.181954,
     "geom:longitude":-95.943855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3126 E Tecumseh St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354067717,
-    "wof:lastmodified":1449066041,
+    "wof:lastmodified":1466763382,
     "wof:name":"Saint Paul Trinity Church",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.943855,36.181954,-95.943855,36.181954],
+  "bbox": [
+    -95.943855,
+    36.181954,
+    -95.943855,
+    36.181954
+],
   "geometry": {"coordinates":[-95.943855,36.181954],"type":"Point"}
 }

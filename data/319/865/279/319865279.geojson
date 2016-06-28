@@ -2,13 +2,14 @@
   "id": 319865279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.457235,34.632432,-98.457235,34.632432",
     "geom:latitude":34.632432,
     "geom:longitude":-98.457235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 NW 52nd St",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319865279,
-    "wof:lastmodified":1449024691,
+    "wof:lastmodified":1466763314,
     "wof:name":"Wonder Years",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.457235,34.632432,-98.457235,34.632432],
+  "bbox": [
+    -98.457235,
+    34.632432,
+    -98.457235,
+    34.632432
+],
   "geometry": {"coordinates":[-98.457235,34.632432],"type":"Point"}
 }

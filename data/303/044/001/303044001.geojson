@@ -2,13 +2,14 @@
   "id": 303044001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.615124,34.623519,-98.615124,34.623519",
     "geom:latitude":34.623519,
     "geom:longitude":-98.615124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Crater Creek Rd",
     "sg:city":"Cache",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303044001,
-    "wof:lastmodified":1448999394,
+    "wof:lastmodified":1466762327,
     "wof:name":"Sprint Printing",
     "wof:parent_id":85815375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-98.615124,34.623519,-98.615124,34.623519],
-  "geometry": {"coordinates":[-98.615124,34.623519],"type":"Point"}
+  "bbox": [
+    -98.615124,
+    34.623519,
+    -98.615124,
+    34.623519
+],
+  "geometry": {"coordinates":[-98.61512399999999,34.623519],"type":"Point"}
 }

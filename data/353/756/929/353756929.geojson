@@ -2,13 +2,14 @@
   "id": 353756929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.704214,36.57443,-96.704214,36.57443",
     "geom:latitude":36.57443,
     "geom:longitude":-96.704214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 N Main St",
     "sg:city":"Fairfax",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353756929,
-    "wof:lastmodified":1449019801,
+    "wof:lastmodified":1466765134,
     "wof:name":"Fairfax Dry Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.704214,36.57443,-96.704214,36.57443],
-  "geometry": {"coordinates":[-96.704214,36.57443],"type":"Point"}
+  "bbox": [
+    -96.704214,
+    36.57443,
+    -96.704214,
+    36.57443
+],
+  "geometry": {"coordinates":[-96.70421399999999,36.57443],"type":"Point"}
 }

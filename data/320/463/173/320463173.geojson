@@ -2,13 +2,14 @@
   "id": 320463173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.058498,36.111206,-97.058498,36.111206",
     "geom:latitude":36.111206,
     "geom:longitude":-97.058498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 S Main St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320463173,
-    "wof:lastmodified":1449013864,
+    "wof:lastmodified":1466765851,
     "wof:name":"Custom Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.058498,36.111206,-97.058498,36.111206],
+  "bbox": [
+    -97.058498,
+    36.111206,
+    -97.058498,
+    36.111206
+],
   "geometry": {"coordinates":[-97.058498,36.111206],"type":"Point"}
 }

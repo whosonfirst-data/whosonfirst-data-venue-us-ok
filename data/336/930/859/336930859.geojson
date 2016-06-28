@@ -2,13 +2,14 @@
   "id": 336930859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.731297,35.503884,-97.731297,35.503884",
     "geom:latitude":35.503884,
     "geom:longitude":-97.731297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Miller Dr",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336930859,
-    "wof:lastmodified":1448997284,
+    "wof:lastmodified":1466765256,
     "wof:name":"Hill & Hill",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.731297,35.503884,-97.731297,35.503884],
+  "bbox": [
+    -97.731297,
+    35.503884,
+    -97.731297,
+    35.503884
+],
   "geometry": {"coordinates":[-97.731297,35.503884],"type":"Point"}
 }

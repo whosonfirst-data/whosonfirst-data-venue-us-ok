@@ -2,13 +2,14 @@
   "id": 320309499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.581241,35.461875,-97.581241,35.461875",
     "geom:latitude":35.461875,
     "geom:longitude":-97.581241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Quadrum Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320309499,
-    "wof:lastmodified":1449012084,
+    "wof:lastmodified":1466765080,
     "wof:name":"Housleys Furniture Gallery",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-97.581241,35.461875,-97.581241,35.461875],
-  "geometry": {"coordinates":[-97.581241,35.461875],"type":"Point"}
+  "bbox": [
+    -97.581241,
+    35.461875,
+    -97.581241,
+    35.461875
+],
+  "geometry": {"coordinates":[-97.58124100000001,35.461875],"type":"Point"}
 }

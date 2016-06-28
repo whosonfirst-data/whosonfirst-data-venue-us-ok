@@ -2,13 +2,14 @@
   "id": 303953109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.629189,35.510361,-97.629189,35.510361",
     "geom:latitude":35.510361,
     "geom:longitude":-97.629189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3937 N College Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303953109,
-    "wof:lastmodified":1448999804,
+    "wof:lastmodified":1466767033,
     "wof:name":"Bethany Typewriter",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "typewriter"
     ]
 },
-  "bbox": [-97.629189,35.510361,-97.629189,35.510361],
+  "bbox": [
+    -97.629189,
+    35.510361,
+    -97.629189,
+    35.510361
+],
   "geometry": {"coordinates":[-97.629189,35.510361],"type":"Point"}
 }

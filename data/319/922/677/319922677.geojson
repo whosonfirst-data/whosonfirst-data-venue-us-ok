@@ -2,13 +2,14 @@
   "id": 319922677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.602731,35.429142,-97.602731,35.429142",
     "geom:latitude":35.429142,
     "geom:longitude":-97.602731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3512 Lakeside Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319922677,
-    "wof:lastmodified":1449024173,
+    "wof:lastmodified":1466763847,
     "wof:name":"Auburn Enterprises",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.602731,35.429142,-97.602731,35.429142],
-  "geometry": {"coordinates":[-97.602731,35.429142],"type":"Point"}
+  "bbox": [
+    -97.602731,
+    35.429142,
+    -97.602731,
+    35.429142
+],
+  "geometry": {"coordinates":[-97.60273100000001,35.429142],"type":"Point"}
 }

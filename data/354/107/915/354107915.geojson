@@ -2,13 +2,14 @@
   "id": 354107915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.736505,35.504025,-97.736505,35.504025",
     "geom:latitude":35.504025,
     "geom:longitude":-97.736505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 S Ranchwood Blvd",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354107915,
-    "wof:lastmodified":1449065937,
+    "wof:lastmodified":1466763543,
     "wof:name":"7-Eleven",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.736505,35.504025,-97.736505,35.504025],
-  "geometry": {"coordinates":[-97.736505,35.504025],"type":"Point"}
+  "bbox": [
+    -97.736505,
+    35.504025,
+    -97.736505,
+    35.504025
+],
+  "geometry": {"coordinates":[-97.73650499999999,35.504025],"type":"Point"}
 }

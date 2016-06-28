@@ -2,13 +2,14 @@
   "id": 303482461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.95372,35.532233,-97.95372,35.532233",
     "geom:latitude":35.532233,
     "geom:longitude":-97.95372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 S Bickford Ave",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303482461,
-    "wof:lastmodified":1448998987,
+    "wof:lastmodified":1466765784,
     "wof:name":"Professional Accounting Svcs",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-97.95372,35.532233,-97.95372,35.532233],
+  "bbox": [
+    -97.95372,
+    35.532233,
+    -97.95372,
+    35.532233
+],
   "geometry": {"coordinates":[-97.95372,35.532233],"type":"Point"}
 }

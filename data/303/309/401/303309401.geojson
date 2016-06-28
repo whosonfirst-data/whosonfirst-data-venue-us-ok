@@ -2,13 +2,14 @@
   "id": 303309401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.439335,35.411679,-99.439335,35.411679",
     "geom:latitude":35.411679,
     "geom:longitude":-99.439335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 W 3rd St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303309401,
-    "wof:lastmodified":1448998660,
+    "wof:lastmodified":1466765001,
     "wof:name":"National Route 66 Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.439335,35.411679,-99.439335,35.411679],
+  "bbox": [
+    -99.439335,
+    35.411679,
+    -99.439335,
+    35.411679
+],
   "geometry": {"coordinates":[-99.439335,35.411679],"type":"Point"}
 }

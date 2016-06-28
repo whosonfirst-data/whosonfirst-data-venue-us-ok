@@ -2,13 +2,14 @@
   "id": 320011779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.413315,35.754968,-95.413315,35.754968",
     "geom:latitude":35.754968,
     "geom:longitude":-95.413315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 W Okmulgee Ave",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320011779,
-    "wof:lastmodified":1449014284,
+    "wof:lastmodified":1466762454,
     "wof:name":"Kum & Go",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.413315,35.754968,-95.413315,35.754968],
+  "bbox": [
+    -95.413315,
+    35.754968,
+    -95.413315,
+    35.754968
+],
   "geometry": {"coordinates":[-95.413315,35.754968],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303579095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.857779,36.122939,-95.857779,36.122939",
     "geom:latitude":36.122939,
     "geom:longitude":-95.857779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10620 E 28th Ct",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303579095,
-    "wof:lastmodified":1448998894,
+    "wof:lastmodified":1466766138,
     "wof:name":"Southwest Tape Co",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [-95.857779,36.122939,-95.857779,36.122939],
-  "geometry": {"coordinates":[-95.857779,36.122939],"type":"Point"}
+  "bbox": [
+    -95.857779,
+    36.122939,
+    -95.857779,
+    36.122939
+],
+  "geometry": {"coordinates":[-95.85777899999999,36.122939],"type":"Point"}
 }

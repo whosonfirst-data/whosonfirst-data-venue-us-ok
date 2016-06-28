@@ -2,13 +2,14 @@
   "id": 354014389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.966744,34.524079,-97.966744,34.524079",
     "geom:latitude":34.524079,
     "geom:longitude":-97.966744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1706 US Hwy 81",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354014389,
-    "wof:lastmodified":1449066755,
+    "wof:lastmodified":1466763024,
     "wof:name":"Henderson & Davis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.966744,34.524079,-97.966744,34.524079],
-  "geometry": {"coordinates":[-97.966744,34.524079],"type":"Point"}
+  "bbox": [
+    -97.966744,
+    34.524079,
+    -97.966744,
+    34.524079
+],
+  "geometry": {"coordinates":[-97.96674400000001,34.524079],"type":"Point"}
 }

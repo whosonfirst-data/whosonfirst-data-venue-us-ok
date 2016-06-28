@@ -2,13 +2,14 @@
   "id": 354082715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768826,35.985142,-96.768826,35.985142",
     "geom:latitude":35.985142,
     "geom:longitude":-96.768826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 E Main St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354082715,
-    "wof:lastmodified":1449065987,
+    "wof:lastmodified":1466763447,
     "wof:name":"Blake Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.768826,35.985142,-96.768826,35.985142],
+  "bbox": [
+    -96.768826,
+    35.985142,
+    -96.768826,
+    35.985142
+],
   "geometry": {"coordinates":[-96.768826,35.985142],"type":"Point"}
 }

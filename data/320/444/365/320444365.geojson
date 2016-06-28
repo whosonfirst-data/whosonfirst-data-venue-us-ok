@@ -2,13 +2,14 @@
   "id": 320444365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.401048,35.411594,-99.401048,35.411594",
     "geom:latitude":35.411594,
     "geom:longitude":-99.401048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 E 3rd St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320444365,
-    "wof:lastmodified":1449014460,
+    "wof:lastmodified":1466765936,
     "wof:name":"Police Dept-Crime Stoppers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "crime"
     ]
 },
-  "bbox": [-99.401048,35.411594,-99.401048,35.411594],
+  "bbox": [
+    -99.401048,
+    35.411594,
+    -99.401048,
+    35.411594
+],
   "geometry": {"coordinates":[-99.401048,35.411594],"type":"Point"}
 }

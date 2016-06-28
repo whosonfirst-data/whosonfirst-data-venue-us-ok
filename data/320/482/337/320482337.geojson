@@ -2,13 +2,14 @@
   "id": 320482337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.526352,35.531959,-97.526352,35.531959",
     "geom:latitude":35.531959,
     "geom:longitude":-97.526352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"924 NW 58th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320482337,
-    "wof:lastmodified":1449012599,
+    "wof:lastmodified":1466766016,
     "wof:name":"Transsitions",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.526352,35.531959,-97.526352,35.531959],
+  "bbox": [
+    -97.526352,
+    35.531959,
+    -97.526352,
+    35.531959
+],
   "geometry": {"coordinates":[-97.526352,35.531959],"type":"Point"}
 }

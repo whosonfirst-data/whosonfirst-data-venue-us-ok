@@ -2,13 +2,14 @@
   "id": 336671283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.524763,36.815388,-100.524763,36.815388",
     "geom:latitude":36.815388,
     "geom:longitude":-100.524763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Ave H",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336671283,
-    "wof:lastmodified":1448997198,
+    "wof:lastmodified":1466763272,
     "wof:name":"Ned & Darlene's Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.524763,36.815388,-100.524763,36.815388],
-  "geometry": {"coordinates":[-100.524763,36.815388],"type":"Point"}
+  "bbox": [
+    -100.524763,
+    36.815388,
+    -100.524763,
+    36.815388
+],
+  "geometry": {"coordinates":[-100.52476299999999,36.815388],"type":"Point"}
 }

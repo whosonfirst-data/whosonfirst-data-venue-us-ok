@@ -2,13 +2,14 @@
   "id": 287215743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.069662,36.158088,-96.069662,36.158088",
     "geom:latitude":36.158088,
     "geom:longitude":-96.069662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6505 W Brady Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287215743,
-    "wof:lastmodified":1449001406,
+    "wof:lastmodified":1466764089,
     "wof:name":"Roy Cottrill",
     "wof:parent_id":85844029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "geologist"
     ]
 },
-  "bbox": [-96.069662,36.158088,-96.069662,36.158088],
-  "geometry": {"coordinates":[-96.069662,36.158088],"type":"Point"}
+  "bbox": [
+    -96.069662,
+    36.158088,
+    -96.069662,
+    36.158088
+],
+  "geometry": {"coordinates":[-96.06966199999999,36.158088],"type":"Point"}
 }

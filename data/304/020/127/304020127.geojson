@@ -2,13 +2,14 @@
   "id": 304020127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.507045,36.354756,-95.507045,36.354756",
     "geom:latitude":36.354756,
     "geom:longitude":-95.507045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17961 S 4210 Rd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":304020127,
-    "wof:lastmodified":1449043811,
+    "wof:lastmodified":1466762916,
     "wof:name":"A Plus Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.507045,36.354756,-95.507045,36.354756],
-  "geometry": {"coordinates":[-95.507045,36.354756],"type":"Point"}
+  "bbox": [
+    -95.507045,
+    36.354756,
+    -95.507045,
+    36.354756
+],
+  "geometry": {"coordinates":[-95.50704500000001,36.354756],"type":"Point"}
 }

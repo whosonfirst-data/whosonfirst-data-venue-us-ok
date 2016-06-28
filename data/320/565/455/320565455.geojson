@@ -2,13 +2,14 @@
   "id": 320565455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.993795,36.042786,-95.993795,36.042786",
     "geom:latitude":36.042786,
     "geom:longitude":-95.993795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8500 S Elwood Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320565455,
-    "wof:lastmodified":1449014631,
+    "wof:lastmodified":1466766216,
     "wof:name":"Fox Flite",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [-95.993795,36.042786,-95.993795,36.042786],
-  "geometry": {"coordinates":[-95.993795,36.042786],"type":"Point"}
+  "bbox": [
+    -95.993795,
+    36.042786,
+    -95.993795,
+    36.042786
+],
+  "geometry": {"coordinates":[-95.99379500000001,36.042786],"type":"Point"}
 }

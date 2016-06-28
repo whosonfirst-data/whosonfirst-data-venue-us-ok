@@ -2,13 +2,14 @@
   "id": 287258099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.495236,35.435396,-97.495236,35.435396",
     "geom:latitude":35.435396,
     "geom:longitude":-97.495236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"845 SE 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287258099,
-    "wof:lastmodified":1449001365,
+    "wof:lastmodified":1466762808,
     "wof:name":"Cooper Cameron Valves",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valve"
     ]
 },
-  "bbox": [-97.495236,35.435396,-97.495236,35.435396],
-  "geometry": {"coordinates":[-97.495236,35.435396],"type":"Point"}
+  "bbox": [
+    -97.495236,
+    35.435396,
+    -97.495236,
+    35.435396
+],
+  "geometry": {"coordinates":[-97.49523600000001,35.435396],"type":"Point"}
 }

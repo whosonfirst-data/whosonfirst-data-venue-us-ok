@@ -2,13 +2,14 @@
   "id": 353800713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.291769,35.56565,-97.291769,35.56565",
     "geom:latitude":35.56565,
     "geom:longitude":-97.291769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13302 E Britton Rd",
     "sg:city":"Jones",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353800713,
-    "wof:lastmodified":1449018463,
+    "wof:lastmodified":1466765238,
     "wof:name":"Gardenwalk Of Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.291769,35.56565,-97.291769,35.56565],
+  "bbox": [
+    -97.291769,
+    35.56565,
+    -97.291769,
+    35.56565
+],
   "geometry": {"coordinates":[-97.291769,35.56565],"type":"Point"}
 }

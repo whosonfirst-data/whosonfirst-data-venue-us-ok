@@ -2,13 +2,14 @@
   "id": 320340643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.485768,35.435313,-97.485768,35.435313",
     "geom:latitude":35.435313,
     "geom:longitude":-97.485768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1713 SE 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320340643,
-    "wof:lastmodified":1449014120,
+    "wof:lastmodified":1466765296,
     "wof:name":"Blazer Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.485768,35.435313,-97.485768,35.435313],
-  "geometry": {"coordinates":[-97.485768,35.435313],"type":"Point"}
+  "bbox": [
+    -97.485768,
+    35.435313,
+    -97.485768,
+    35.435313
+],
+  "geometry": {"coordinates":[-97.48576799999999,35.435313],"type":"Point"}
 }

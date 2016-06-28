@@ -2,13 +2,14 @@
   "id": 303057545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.851792,36.130153,-95.851792,36.130153",
     "geom:latitude":36.130153,
     "geom:longitude":-95.851792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10982 E 23rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303057545,
-    "wof:lastmodified":1448999325,
+    "wof:lastmodified":1466762542,
     "wof:name":"E F C O",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-95.851792,36.130153,-95.851792,36.130153],
+  "bbox": [
+    -95.851792,
+    36.130153,
+    -95.851792,
+    36.130153
+],
   "geometry": {"coordinates":[-95.851792,36.130153],"type":"Point"}
 }

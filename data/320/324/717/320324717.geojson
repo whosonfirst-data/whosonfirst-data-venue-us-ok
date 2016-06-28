@@ -2,13 +2,14 @@
   "id": 320324717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.947897,36.061002,-95.947897,36.061002",
     "geom:latitude":36.061002,
     "geom:longitude":-95.947897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7008 S Delaware Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320324717,
-    "wof:lastmodified":1449013435,
+    "wof:lastmodified":1466765221,
     "wof:name":"Brown Myers",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.947897,36.061002,-95.947897,36.061002],
+  "bbox": [
+    -95.947897,
+    36.061002,
+    -95.947897,
+    36.061002
+],
   "geometry": {"coordinates":[-95.947897,36.061002],"type":"Point"}
 }

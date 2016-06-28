@@ -2,13 +2,14 @@
   "id": 320664157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.283025,36.81248,-97.283025,36.81248",
     "geom:latitude":36.81248,
     "geom:longitude":-97.283025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 N Main St",
     "sg:city":"Blackwell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320664157,
-    "wof:lastmodified":1449012665,
+    "wof:lastmodified":1466766432,
     "wof:name":"Eakins Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-97.283025,36.81248,-97.283025,36.81248],
-  "geometry": {"coordinates":[-97.283025,36.81248],"type":"Point"}
+  "bbox": [
+    -97.283025,
+    36.81248,
+    -97.283025,
+    36.81248
+],
+  "geometry": {"coordinates":[-97.28302499999999,36.81248],"type":"Point"}
 }

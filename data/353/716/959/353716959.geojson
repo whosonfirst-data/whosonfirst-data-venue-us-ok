@@ -2,13 +2,14 @@
   "id": 353716959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.522473,35.47993,-97.522473,35.47993",
     "geom:latitude":35.47993,
     "geom:longitude":-97.522473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Classen Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353716959,
-    "wof:lastmodified":1449018616,
+    "wof:lastmodified":1466764844,
     "wof:name":"911 Emsa",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ambulance"
     ]
 },
-  "bbox": [-97.522473,35.47993,-97.522473,35.47993],
-  "geometry": {"coordinates":[-97.522473,35.47993],"type":"Point"}
+  "bbox": [
+    -97.522473,
+    35.47993,
+    -97.522473,
+    35.47993
+],
+  "geometry": {"coordinates":[-97.52247300000001,35.47993],"type":"Point"}
 }

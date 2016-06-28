@@ -2,13 +2,14 @@
   "id": 354054657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.87757,36.873162,-94.87757,36.873162",
     "geom:latitude":36.873162,
     "geom:longitude":-94.87757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Main St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354054657,
-    "wof:lastmodified":1449066723,
+    "wof:lastmodified":1466763317,
     "wof:name":"Bica Flea Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.87757,36.873162,-94.87757,36.873162],
-  "geometry": {"coordinates":[-94.87757,36.873162],"type":"Point"}
+  "bbox": [
+    -94.87757,
+    36.873162,
+    -94.87757,
+    36.873162
+],
+  "geometry": {"coordinates":[-94.87757000000001,36.873162],"type":"Point"}
 }

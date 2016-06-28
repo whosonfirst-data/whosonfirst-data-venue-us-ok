@@ -2,13 +2,14 @@
   "id": 303339991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.07338,36.110377,-97.07338,36.110377",
     "geom:latitude":36.110377,
     "geom:longitude":-97.07338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1306 W 11th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303339991,
-    "wof:lastmodified":1448999210,
+    "wof:lastmodified":1466765130,
     "wof:name":"Floyd Proctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.07338,36.110377,-97.07338,36.110377],
+  "bbox": [
+    -97.07338,
+    36.110377,
+    -97.07338,
+    36.110377
+],
   "geometry": {"coordinates":[-97.07338,36.110377],"type":"Point"}
 }

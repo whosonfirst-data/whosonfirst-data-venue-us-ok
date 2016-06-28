@@ -2,13 +2,14 @@
   "id": 353870579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.505811,35.477009,-97.505811,35.477009",
     "geom:latitude":35.477009,
     "geom:longitude":-97.505811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 N Stiles Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353870579,
-    "wof:lastmodified":1449018932,
+    "wof:lastmodified":1466765482,
     "wof:name":"International Division",
     "wof:parent_id":85871693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "adm"
     ]
 },
-  "bbox": [-97.505811,35.477009,-97.505811,35.477009],
-  "geometry": {"coordinates":[-97.505811,35.477009],"type":"Point"}
+  "bbox": [
+    -97.505811,
+    35.477009,
+    -97.505811,
+    35.477009
+],
+  "geometry": {"coordinates":[-97.50581099999999,35.477009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336832363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.333942,34.656127,-99.333942,34.656127",
     "geom:latitude":34.656127,
     "geom:longitude":-99.333942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 N Main St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336832363,
-    "wof:lastmodified":1448996925,
+    "wof:lastmodified":1466764739,
     "wof:name":"Locke Wholesale Electric Supl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "electronic"
     ]
 },
-  "bbox": [-99.333942,34.656127,-99.333942,34.656127],
-  "geometry": {"coordinates":[-99.333942,34.656127],"type":"Point"}
+  "bbox": [
+    -99.333942,
+    34.656127,
+    -99.333942,
+    34.656127
+],
+  "geometry": {"coordinates":[-99.33394199999999,34.656127],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320634889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.590161,36.090133,-96.590161,36.090133",
     "geom:latitude":36.090133,
     "geom:longitude":-96.590161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 W 6th St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320634889,
-    "wof:lastmodified":1449013038,
+    "wof:lastmodified":1466766365,
     "wof:name":"National Clearinghouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "writer"
     ]
 },
-  "bbox": [-96.590161,36.090133,-96.590161,36.090133],
-  "geometry": {"coordinates":[-96.590161,36.090133],"type":"Point"}
+  "bbox": [
+    -96.590161,
+    36.090133,
+    -96.590161,
+    36.090133
+],
+  "geometry": {"coordinates":[-96.59016099999999,36.090133],"type":"Point"}
 }

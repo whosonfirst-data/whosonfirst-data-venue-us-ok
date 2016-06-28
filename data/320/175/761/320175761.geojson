@@ -2,13 +2,14 @@
   "id": 320175761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.353169,33.994835,-96.353169,33.994835",
     "geom:latitude":33.994835,
     "geom:longitude":-96.353169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 Mason St",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320175761,
-    "wof:lastmodified":1449013861,
+    "wof:lastmodified":1466764636,
     "wof:name":"Mayo's Paint Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-96.353169,33.994835,-96.353169,33.994835],
-  "geometry": {"coordinates":[-96.353169,33.994835],"type":"Point"}
+  "bbox": [
+    -96.353169,
+    33.994835,
+    -96.353169,
+    33.994835
+],
+  "geometry": {"coordinates":[-96.35316899999999,33.994835],"type":"Point"}
 }

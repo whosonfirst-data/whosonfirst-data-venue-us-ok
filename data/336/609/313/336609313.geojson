@@ -2,13 +2,14 @@
   "id": 336609313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.590179,36.308454,-97.590179,36.308454",
     "geom:latitude":36.308454,
     "geom:longitude":-97.590179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 4th St",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336609313,
-    "wof:lastmodified":1448997341,
+    "wof:lastmodified":1466762312,
     "wof:name":"Wayne Tiggeman Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-97.590179,36.308454,-97.590179,36.308454],
-  "geometry": {"coordinates":[-97.590179,36.308454],"type":"Point"}
+  "bbox": [
+    -97.590179,
+    36.308454,
+    -97.590179,
+    36.308454
+],
+  "geometry": {"coordinates":[-97.59017900000001,36.308454],"type":"Point"}
 }

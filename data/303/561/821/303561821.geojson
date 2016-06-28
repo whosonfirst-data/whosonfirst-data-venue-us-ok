@@ -2,13 +2,14 @@
   "id": 303561821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.465663,35.678408,-97.465663,35.678408",
     "geom:latitude":35.678408,
     "geom:longitude":-97.465663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2516 Valley Brook Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303561821,
-    "wof:lastmodified":1448999851,
+    "wof:lastmodified":1466766071,
     "wof:name":"Marketplacepurchasecom",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.465663,35.678408,-97.465663,35.678408],
-  "geometry": {"coordinates":[-97.465663,35.678408],"type":"Point"}
+  "bbox": [
+    -97.465663,
+    35.678408,
+    -97.465663,
+    35.678408
+],
+  "geometry": {"coordinates":[-97.46566300000001,35.678408],"type":"Point"}
 }

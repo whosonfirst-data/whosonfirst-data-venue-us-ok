@@ -2,13 +2,14 @@
   "id": 337568605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.947913,36.159156,-95.947913,36.159156",
     "geom:latitude":36.159156,
     "geom:longitude":-95.947913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2831 E 1st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337568605,
-    "wof:lastmodified":1449026907,
+    "wof:lastmodified":1466763034,
     "wof:name":"Pinball Doctor",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "amusement"
     ]
 },
-  "bbox": [-95.947913,36.159156,-95.947913,36.159156],
+  "bbox": [
+    -95.947913,
+    36.159156,
+    -95.947913,
+    36.159156
+],
   "geometry": {"coordinates":[-95.947913,36.159156],"type":"Point"}
 }

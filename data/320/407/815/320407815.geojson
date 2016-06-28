@@ -2,13 +2,14 @@
   "id": 320407815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.976155,35.866142,-94.976155,35.866142",
     "geom:latitude":35.866142,
     "geom:longitude":-94.976155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5231 S Muskogee Ave",
     "sg:city":"Tahlequah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320407815,
-    "wof:lastmodified":1449013335,
+    "wof:lastmodified":1466765669,
     "wof:name":"Langley Feeds No 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.976155,35.866142,-94.976155,35.866142],
-  "geometry": {"coordinates":[-94.976155,35.866142],"type":"Point"}
+  "bbox": [
+    -94.976155,
+    35.866142,
+    -94.976155,
+    35.866142
+],
+  "geometry": {"coordinates":[-94.97615500000001,35.866142],"type":"Point"}
 }

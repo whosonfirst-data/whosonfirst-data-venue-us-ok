@@ -2,13 +2,14 @@
   "id": 303217661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.861406,36.094827,-95.861406,36.094827",
     "geom:latitude":36.094827,
     "geom:longitude":-95.861406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10205 E 47th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303217661,
-    "wof:lastmodified":1449000419,
+    "wof:lastmodified":1466764442,
     "wof:name":"Hyco Corp",
     "wof:parent_id":85802911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "filter"
     ]
 },
-  "bbox": [-95.861406,36.094827,-95.861406,36.094827],
+  "bbox": [
+    -95.861406,
+    36.094827,
+    -95.861406,
+    36.094827
+],
   "geometry": {"coordinates":[-95.861406,36.094827],"type":"Point"}
 }

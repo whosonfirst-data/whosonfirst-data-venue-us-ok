@@ -2,13 +2,14 @@
   "id": 320210893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.792104,36.052395,-95.792104,36.052395",
     "geom:latitude":36.052395,
     "geom:longitude":-95.792104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Broadway Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320210893,
-    "wof:lastmodified":1449012545,
+    "wof:lastmodified":1466764650,
     "wof:name":"Polished Image",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.792104,36.052395,-95.792104,36.052395],
-  "geometry": {"coordinates":[-95.792104,36.052395],"type":"Point"}
+  "bbox": [
+    -95.792104,
+    36.052395,
+    -95.792104,
+    36.052395
+],
+  "geometry": {"coordinates":[-95.79210399999999,36.052395],"type":"Point"}
 }

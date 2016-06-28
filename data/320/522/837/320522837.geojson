@@ -2,13 +2,14 @@
   "id": 320522837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.973904,35.728301,-97.973904,35.728301",
     "geom:latitude":35.728301,
     "geom:longitude":-97.973904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Missouri Ave",
     "sg:city":"Okarche",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320522837,
-    "wof:lastmodified":1449013032,
+    "wof:lastmodified":1466766115,
     "wof:name":"Holy Trinity Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.973904,35.728301,-97.973904,35.728301],
+  "bbox": [
+    -97.973904,
+    35.728301,
+    -97.973904,
+    35.728301
+],
   "geometry": {"coordinates":[-97.973904,35.728301],"type":"Point"}
 }

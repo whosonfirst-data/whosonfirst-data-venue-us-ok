@@ -2,13 +2,14 @@
   "id": 337456183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.341079,35.748088,-95.341079,35.748088",
     "geom:latitude":35.748088,
     "geom:longitude":-95.341079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2207 Haskell Blvd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337456183,
-    "wof:lastmodified":1449027185,
+    "wof:lastmodified":1466762398,
     "wof:name":"Ultra Care Therapy Inc",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "therapy"
     ]
 },
-  "bbox": [-95.341079,35.748088,-95.341079,35.748088],
-  "geometry": {"coordinates":[-95.341079,35.748088],"type":"Point"}
+  "bbox": [
+    -95.341079,
+    35.748088,
+    -95.341079,
+    35.748088
+],
+  "geometry": {"coordinates":[-95.34107899999999,35.748088],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353934147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.532238,35.414869,-97.532238,35.414869",
     "geom:latitude":35.414869,
     "geom:longitude":-97.532238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 SW 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353934147,
-    "wof:lastmodified":1449018374,
+    "wof:lastmodified":1466765870,
     "wof:name":"Robert Stormont & Associates",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.532238,35.414869,-97.532238,35.414869],
-  "geometry": {"coordinates":[-97.532238,35.414869],"type":"Point"}
+  "bbox": [
+    -97.532238,
+    35.414869,
+    -97.532238,
+    35.414869
+],
+  "geometry": {"coordinates":[-97.53223800000001,35.414869],"type":"Point"}
 }

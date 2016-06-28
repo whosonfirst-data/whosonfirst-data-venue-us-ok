@@ -2,13 +2,14 @@
   "id": 303720331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.515912,35.476034,-97.515912,35.476034",
     "geom:latitude":35.476034,
     "geom:longitude":-97.515912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 NW 8th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303720331,
-    "wof:lastmodified":1448998695,
+    "wof:lastmodified":1466766522,
     "wof:name":"AEI Corp-Okla",
     "wof:parent_id":85871669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-97.515912,35.476034,-97.515912,35.476034],
+  "bbox": [
+    -97.515912,
+    35.476034,
+    -97.515912,
+    35.476034
+],
   "geometry": {"coordinates":[-97.515912,35.476034],"type":"Point"}
 }

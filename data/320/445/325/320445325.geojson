@@ -2,13 +2,14 @@
   "id": 320445325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.840635,36.081157,-95.840635,36.081157",
     "geom:latitude":36.081157,
     "geom:longitude":-95.840635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5616 S 122nd East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320445325,
-    "wof:lastmodified":1449011751,
+    "wof:lastmodified":1466766030,
     "wof:name":"Patient Care System",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.840635,36.081157,-95.840635,36.081157],
-  "geometry": {"coordinates":[-95.840635,36.081157],"type":"Point"}
+  "bbox": [
+    -95.840635,
+    36.081157,
+    -95.840635,
+    36.081157
+],
+  "geometry": {"coordinates":[-95.84063500000001,36.081157],"type":"Point"}
 }

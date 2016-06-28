@@ -2,13 +2,14 @@
   "id": 287221111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.523908,35.376492,-97.523908,35.376492",
     "geom:latitude":35.376492,
     "geom:longitude":-97.523908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9300 S Shartel Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287221111,
-    "wof:lastmodified":1449001052,
+    "wof:lastmodified":1466764125,
     "wof:name":"South Park Cleaners",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.523908,35.376492,-97.523908,35.376492],
-  "geometry": {"coordinates":[-97.523908,35.376492],"type":"Point"}
+  "bbox": [
+    -97.523908,
+    35.376492,
+    -97.523908,
+    35.376492
+],
+  "geometry": {"coordinates":[-97.52390800000001,35.376492],"type":"Point"}
 }

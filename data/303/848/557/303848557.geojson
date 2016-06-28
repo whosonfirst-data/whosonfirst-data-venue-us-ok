@@ -2,13 +2,14 @@
   "id": 303848557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.878116,36.391913,-97.878116,36.391913",
     "geom:latitude":36.391913,
     "geom:longitude":-97.878116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E Park Ave",
     "sg:city":"Loyal",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303848557,
-    "wof:lastmodified":1448998463,
+    "wof:lastmodified":1466766841,
     "wof:name":"Loyal United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.878116,36.391913,-97.878116,36.391913],
-  "geometry": {"coordinates":[-97.878116,36.391913],"type":"Point"}
+  "bbox": [
+    -97.878116,
+    36.391913,
+    -97.878116,
+    36.391913
+],
+  "geometry": {"coordinates":[-97.87811600000001,36.391913],"type":"Point"}
 }

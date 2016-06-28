@@ -2,13 +2,14 @@
   "id": 336729523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.375141,35.770476,-97.375141,35.770476",
     "geom:latitude":35.770476,
     "geom:longitude":-97.375141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3975 E Ridgeview Dr",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336729523,
-    "wof:lastmodified":1448997496,
+    "wof:lastmodified":1466764168,
     "wof:name":"Cedar Hill Kennels",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.375141,35.770476,-97.375141,35.770476],
+  "bbox": [
+    -97.375141,
+    35.770476,
+    -97.375141,
+    35.770476
+],
   "geometry": {"coordinates":[-97.375141,35.770476],"type":"Point"}
 }

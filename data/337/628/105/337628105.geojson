@@ -2,13 +2,14 @@
   "id": 337628105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.607746,35.478853,-97.607746,35.478853",
     "geom:latitude":35.478853,
     "geom:longitude":-97.607746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4709 NW 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337628105,
-    "wof:lastmodified":1449027590,
+    "wof:lastmodified":1466763374,
     "wof:name":"Johnie's Used Cars",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.607746,35.478853,-97.607746,35.478853],
-  "geometry": {"coordinates":[-97.607746,35.478853],"type":"Point"}
+  "bbox": [
+    -97.607746,
+    35.478853,
+    -97.607746,
+    35.478853
+],
+  "geometry": {"coordinates":[-97.60774600000001,35.478853],"type":"Point"}
 }

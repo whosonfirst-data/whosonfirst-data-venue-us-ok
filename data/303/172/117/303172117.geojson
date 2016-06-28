@@ -2,13 +2,14 @@
   "id": 303172117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.309708,35.435086,-96.309708,35.435086",
     "geom:latitude":35.435086,
     "geom:longitude":-96.309708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 W Columbia St",
     "sg:city":"Okemah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303172117,
-    "wof:lastmodified":1448999103,
+    "wof:lastmodified":1466764301,
     "wof:name":"R & G Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.309708,35.435086,-96.309708,35.435086],
+  "bbox": [
+    -96.309708,
+    35.435086,
+    -96.309708,
+    35.435086
+],
   "geometry": {"coordinates":[-96.309708,35.435086],"type":"Point"}
 }

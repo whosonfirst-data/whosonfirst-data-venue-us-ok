@@ -2,13 +2,14 @@
   "id": 320509311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.506025,35.508773,-97.506025,35.508773",
     "geom:latitude":35.508773,
     "geom:longitude":-97.506025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 NE 37th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320509311,
-    "wof:lastmodified":1449011412,
+    "wof:lastmodified":1466766076,
     "wof:name":"Ok-Transit",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.506025,35.508773,-97.506025,35.508773],
-  "geometry": {"coordinates":[-97.506025,35.508773],"type":"Point"}
+  "bbox": [
+    -97.506025,
+    35.508773,
+    -97.506025,
+    35.508773
+],
+  "geometry": {"coordinates":[-97.50602499999999,35.508773],"type":"Point"}
 }

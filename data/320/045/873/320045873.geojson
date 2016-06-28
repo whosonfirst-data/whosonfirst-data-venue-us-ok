@@ -2,13 +2,14 @@
   "id": 320045873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.681636,35.230836,-96.681636,35.230836",
     "geom:latitude":35.230836,
     "geom:longitude":-96.681636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Roosevelt St",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320045873,
-    "wof:lastmodified":1449014522,
+    "wof:lastmodified":1466762972,
     "wof:name":"Bob Griggs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.681636,35.230836,-96.681636,35.230836],
+  "bbox": [
+    -96.681636,
+    35.230836,
+    -96.681636,
+    35.230836
+],
   "geometry": {"coordinates":[-96.681636,35.230836],"type":"Point"}
 }

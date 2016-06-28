@@ -2,13 +2,14 @@
   "id": 303157685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406055,35.435421,-97.406055,35.435421",
     "geom:latitude":35.435421,
     "geom:longitude":-97.406055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2911 S Air Depot Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303157685,
-    "wof:lastmodified":1449000218,
+    "wof:lastmodified":1466764156,
     "wof:name":"Firstpoint Insurance",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.406055,35.435421,-97.406055,35.435421],
-  "geometry": {"coordinates":[-97.406055,35.435421],"type":"Point"}
+  "bbox": [
+    -97.406055,
+    35.435421,
+    -97.406055,
+    35.435421
+],
+  "geometry": {"coordinates":[-97.40605499999999,35.435421],"type":"Point"}
 }

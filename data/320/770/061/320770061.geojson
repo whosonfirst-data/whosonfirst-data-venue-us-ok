@@ -2,13 +2,14 @@
   "id": 320770061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.455452,35.60314,-97.455452,35.60314",
     "geom:latitude":35.60314,
     "geom:longitude":-97.455452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Rogers Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320770061,
-    "wof:lastmodified":1449015036,
+    "wof:lastmodified":1466766820,
     "wof:name":"Redbud Design & Landscape",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.455452,35.60314,-97.455452,35.60314],
-  "geometry": {"coordinates":[-97.455452,35.60314],"type":"Point"}
+  "bbox": [
+    -97.455452,
+    35.60314,
+    -97.455452,
+    35.60314
+],
+  "geometry": {"coordinates":[-97.45545199999999,35.60314],"type":"Point"}
 }

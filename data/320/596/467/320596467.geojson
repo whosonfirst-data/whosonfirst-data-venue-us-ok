@@ -2,13 +2,14 @@
   "id": 320596467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.49197,35.218245,-97.49197,35.218245",
     "geom:latitude":35.218245,
     "geom:longitude":-97.49197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3475 W Main St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320596467,
-    "wof:lastmodified":1449013170,
+    "wof:lastmodified":1466766279,
     "wof:name":"Rocky Chocolate Factory",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-97.49197,35.218245,-97.49197,35.218245],
-  "geometry": {"coordinates":[-97.49197,35.218245],"type":"Point"}
+  "bbox": [
+    -97.49197,
+    35.218245,
+    -97.49197,
+    35.218245
+],
+  "geometry": {"coordinates":[-97.49196999999999,35.218245],"type":"Point"}
 }

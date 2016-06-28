@@ -2,13 +2,14 @@
   "id": 303253037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.825562,36.075517,-95.825562,36.075517",
     "geom:latitude":36.075517,
     "geom:longitude":-95.825562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3081 W Albany St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303253037,
-    "wof:lastmodified":1449000266,
+    "wof:lastmodified":1466764807,
     "wof:name":"Media Concepts",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "multimedia"
     ]
 },
-  "bbox": [-95.825562,36.075517,-95.825562,36.075517],
-  "geometry": {"coordinates":[-95.825562,36.075517],"type":"Point"}
+  "bbox": [
+    -95.825562,
+    36.075517,
+    -95.825562,
+    36.075517
+],
+  "geometry": {"coordinates":[-95.82556200000001,36.075517],"type":"Point"}
 }

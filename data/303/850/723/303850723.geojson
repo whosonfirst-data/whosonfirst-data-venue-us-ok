@@ -2,13 +2,14 @@
   "id": 303850723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.513288,35.418397,-94.513288,35.418397",
     "geom:latitude":35.418397,
     "geom:longitude":-94.513288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 S Roland Rd",
     "sg:city":"Roland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303850723,
-    "wof:lastmodified":1448999538,
+    "wof:lastmodified":1466766844,
     "wof:name":"KLIP & KURL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-94.513288,35.418397,-94.513288,35.418397],
+  "bbox": [
+    -94.513288,
+    35.418397,
+    -94.513288,
+    35.418397
+],
   "geometry": {"coordinates":[-94.513288,35.418397],"type":"Point"}
 }

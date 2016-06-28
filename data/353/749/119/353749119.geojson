@@ -2,13 +2,14 @@
   "id": 353749119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.570377,35.529934,-97.570377,35.529934",
     "geom:latitude":35.529934,
     "geom:longitude":-97.570377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5704 Mosteller Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353749119,
-    "wof:lastmodified":1449019001,
+    "wof:lastmodified":1466764988,
     "wof:name":"Comfort Inn At Founders Tower",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.570377,35.529934,-97.570377,35.529934],
-  "geometry": {"coordinates":[-97.570377,35.529934],"type":"Point"}
+  "bbox": [
+    -97.570377,
+    35.529934,
+    -97.570377,
+    35.529934
+],
+  "geometry": {"coordinates":[-97.57037699999999,35.529934],"type":"Point"}
 }

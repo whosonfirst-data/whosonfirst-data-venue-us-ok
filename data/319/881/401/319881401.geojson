@@ -2,13 +2,14 @@
   "id": 319881401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.602317,35.511221,-97.602317,35.511221",
     "geom:latitude":35.511221,
     "geom:longitude":-97.602317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 NW 39th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319881401,
-    "wof:lastmodified":1449024544,
+    "wof:lastmodified":1466763419,
     "wof:name":"Star Fuel Mart",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.602317,35.511221,-97.602317,35.511221],
+  "bbox": [
+    -97.602317,
+    35.511221,
+    -97.602317,
+    35.511221
+],
   "geometry": {"coordinates":[-97.602317,35.511221],"type":"Point"}
 }

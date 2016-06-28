@@ -2,13 +2,14 @@
   "id": 320478799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.815234,36.033828,-95.815234,36.033828",
     "geom:latitude":36.033828,
     "geom:longitude":-95.815234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1841 S Aspen Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320478799,
-    "wof:lastmodified":1449011384,
+    "wof:lastmodified":1466766013,
     "wof:name":"Uptown Resale",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-95.815234,36.033828,-95.815234,36.033828],
+  "bbox": [
+    -95.815234,
+    36.033828,
+    -95.815234,
+    36.033828
+],
   "geometry": {"coordinates":[-95.815234,36.033828],"type":"Point"}
 }

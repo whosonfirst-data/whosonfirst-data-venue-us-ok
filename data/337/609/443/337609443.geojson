@@ -2,13 +2,14 @@
   "id": 337609443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.010793,34.393844,-99.010793,34.393844",
     "geom:latitude":34.393844,
     "geom:longitude":-99.010793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 N 15th St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337609443,
-    "wof:lastmodified":1449027233,
+    "wof:lastmodified":1466763268,
     "wof:name":"Schools Frederick Independent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.010793,34.393844,-99.010793,34.393844],
-  "geometry": {"coordinates":[-99.010793,34.393844],"type":"Point"}
+  "bbox": [
+    -99.010793,
+    34.393844,
+    -99.010793,
+    34.393844
+],
+  "geometry": {"coordinates":[-99.01079300000001,34.393844],"type":"Point"}
 }

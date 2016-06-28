@@ -2,13 +2,14 @@
   "id": 220200319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.864638,36.033034,-95.864638,36.033034",
     "geom:latitude":36.033034,
     "geom:longitude":-95.864638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9001 S 101st East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220200319,
-    "wof:lastmodified":1449074357,
+    "wof:lastmodified":1466762586,
     "wof:name":"Primary Care Group of Oklahoma",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "family"
     ]
 },
-  "bbox": [-95.864638,36.033034,-95.864638,36.033034],
+  "bbox": [
+    -95.864638,
+    36.033034,
+    -95.864638,
+    36.033034
+],
   "geometry": {"coordinates":[-95.864638,36.033034],"type":"Point"}
 }

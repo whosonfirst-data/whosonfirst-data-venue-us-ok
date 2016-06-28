@@ -2,13 +2,14 @@
   "id": 303608911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.85223,33.894597,-94.85223,33.894597",
     "geom:latitude":33.894597,
     "geom:longitude":-94.85223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"259 US Hwy 70 Byp",
     "sg:city":"Idabel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303608911,
-    "wof:lastmodified":1448999166,
+    "wof:lastmodified":1466766351,
     "wof:name":"Americana Motor Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.85223,33.894597,-94.85223,33.894597],
-  "geometry": {"coordinates":[-94.85223,33.894597],"type":"Point"}
+  "bbox": [
+    -94.85223,
+    33.894597,
+    -94.85223,
+    33.894597
+],
+  "geometry": {"coordinates":[-94.85223000000001,33.894597],"type":"Point"}
 }

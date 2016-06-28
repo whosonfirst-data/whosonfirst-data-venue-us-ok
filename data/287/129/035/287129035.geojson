@@ -2,13 +2,14 @@
   "id": 287129035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.601027,35.47112,-97.601027,35.47112",
     "geom:latitude":35.47112,
     "geom:longitude":-97.601027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Meridian Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287129035,
-    "wof:lastmodified":1449001380,
+    "wof:lastmodified":1466763594,
     "wof:name":"Country Style Health Care Inc",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-97.601027,35.47112,-97.601027,35.47112],
+  "bbox": [
+    -97.601027,
+    35.47112,
+    -97.601027,
+    35.47112
+],
   "geometry": {"coordinates":[-97.601027,35.47112],"type":"Point"}
 }

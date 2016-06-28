@@ -2,13 +2,14 @@
   "id": 303581753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.50056,34.872137,-99.50056,34.872137",
     "geom:latitude":34.872137,
     "geom:longitude":-99.50056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 E Lincoln St",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303581753,
-    "wof:lastmodified":1448998630,
+    "wof:lastmodified":1466766234,
     "wof:name":"Reynold's Junk & Flea Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "market"
     ]
 },
-  "bbox": [-99.50056,34.872137,-99.50056,34.872137],
-  "geometry": {"coordinates":[-99.50056,34.872137],"type":"Point"}
+  "bbox": [
+    -99.50056,
+    34.872137,
+    -99.50056,
+    34.872137
+],
+  "geometry": {"coordinates":[-99.50055999999999,34.872137],"type":"Point"}
 }

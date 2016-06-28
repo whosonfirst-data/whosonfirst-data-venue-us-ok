@@ -2,13 +2,14 @@
   "id": 336839135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.909618,36.147975,-95.909618,36.147975",
     "geom:latitude":36.147975,
     "geom:longitude":-95.909618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5915 E 11th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":336839135,
-    "wof:lastmodified":1448997586,
+    "wof:lastmodified":1466764765,
     "wof:name":"Western Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-95.909618,36.147975,-95.909618,36.147975],
-  "geometry": {"coordinates":[-95.909618,36.147975],"type":"Point"}
+  "bbox": [
+    -95.909618,
+    36.147975,
+    -95.909618,
+    36.147975
+],
+  "geometry": {"coordinates":[-95.90961799999999,36.147975],"type":"Point"}
 }

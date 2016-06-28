@@ -2,13 +2,14 @@
   "id": 303506229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.477599,36.305596,-96.477599,36.305596",
     "geom:latitude":36.305596,
     "geom:longitude":-96.477599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W Caddo St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303506229,
-    "wof:lastmodified":1448998172,
+    "wof:lastmodified":1466765761,
     "wof:name":"Play Staytion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.477599,36.305596,-96.477599,36.305596],
+  "bbox": [
+    -96.477599,
+    36.305596,
+    -96.477599,
+    36.305596
+],
   "geometry": {"coordinates":[-96.477599,36.305596],"type":"Point"}
 }

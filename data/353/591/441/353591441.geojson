@@ -2,13 +2,14 @@
   "id": 353591441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.767166,34.928292,-95.767166,34.928292",
     "geom:latitude":34.928292,
     "geom:longitude":-95.767166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 S 3rd St",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353591441,
-    "wof:lastmodified":1449019628,
+    "wof:lastmodified":1466764338,
     "wof:name":"Collector City Antiques",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-95.767166,34.928292,-95.767166,34.928292],
+  "bbox": [
+    -95.767166,
+    34.928292,
+    -95.767166,
+    34.928292
+],
   "geometry": {"coordinates":[-95.767166,34.928292],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303202531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.233572,33.984201,-96.233572,33.984201",
     "geom:latitude":33.984201,
     "geom:longitude":-96.233572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7316 Old Hwy 70",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":303202531,
-    "wof:lastmodified":1449000246,
+    "wof:lastmodified":1466764349,
     "wof:name":"Loftis Satellite Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-96.233572,33.984201,-96.233572,33.984201],
+  "bbox": [
+    -96.233572,
+    33.984201,
+    -96.233572,
+    33.984201
+],
   "geometry": {"coordinates":[-96.233572,33.984201],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320314297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.830965,36.031884,-95.830965,36.031884",
     "geom:latitude":36.031884,
     "geom:longitude":-95.830965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3380 W Washington St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320314297,
-    "wof:lastmodified":1449014805,
+    "wof:lastmodified":1466765131,
     "wof:name":"Dean Adkisson Golf",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.830965,36.031884,-95.830965,36.031884],
-  "geometry": {"coordinates":[-95.830965,36.031884],"type":"Point"}
+  "bbox": [
+    -95.830965,
+    36.031884,
+    -95.830965,
+    36.031884
+],
+  "geometry": {"coordinates":[-95.83096500000001,36.031884],"type":"Point"}
 }

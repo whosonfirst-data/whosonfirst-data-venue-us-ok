@@ -2,13 +2,14 @@
   "id": 320513599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.951523,35.533195,-97.951523,35.533195",
     "geom:latitude":35.533195,
     "geom:longitude":-97.951523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Barker Ave",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320513599,
-    "wof:lastmodified":1449013743,
+    "wof:lastmodified":1466766180,
     "wof:name":"Huber-Benson Funeral Home",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-97.951523,35.533195,-97.951523,35.533195],
-  "geometry": {"coordinates":[-97.951523,35.533195],"type":"Point"}
+  "bbox": [
+    -97.951523,
+    35.533195,
+    -97.951523,
+    35.533195
+],
+  "geometry": {"coordinates":[-97.95152299999999,35.533195],"type":"Point"}
 }

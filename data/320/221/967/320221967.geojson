@@ -2,13 +2,14 @@
   "id": 320221967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.031591,36.133493,-96.031591,36.133493",
     "geom:latitude":36.133493,
     "geom:longitude":-96.031591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3315 W 21st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320221967,
-    "wof:lastmodified":1449012901,
+    "wof:lastmodified":1466764700,
     "wof:name":"American Mobile Fleet Services",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-96.031591,36.133493,-96.031591,36.133493],
-  "geometry": {"coordinates":[-96.031591,36.133493],"type":"Point"}
+  "bbox": [
+    -96.031591,
+    36.133493,
+    -96.031591,
+    36.133493
+],
+  "geometry": {"coordinates":[-96.03159100000001,36.133493],"type":"Point"}
 }

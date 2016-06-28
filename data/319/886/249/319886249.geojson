@@ -2,13 +2,14 @@
   "id": 319886249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886559,36.030852,-95.886559,36.030852",
     "geom:latitude":36.030852,
     "geom:longitude":-95.886559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9146 S Memorial Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":319886249,
-    "wof:lastmodified":1449024513,
+    "wof:lastmodified":1466763445,
     "wof:name":"South Pointe Chevrolet",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-95.886559,36.030852,-95.886559,36.030852],
-  "geometry": {"coordinates":[-95.886559,36.030852],"type":"Point"}
+  "bbox": [
+    -95.886559,
+    36.030852,
+    -95.886559,
+    36.030852
+],
+  "geometry": {"coordinates":[-95.88655900000001,36.030852],"type":"Point"}
 }

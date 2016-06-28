@@ -2,13 +2,14 @@
   "id": 320442933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.282905,36.80217,-97.282905,36.80217",
     "geom:latitude":36.80217,
     "geom:longitude":-97.282905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 S Main St",
     "sg:city":"Blackwell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320442933,
-    "wof:lastmodified":1449012891,
+    "wof:lastmodified":1466765931,
     "wof:name":"Homeland 854",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.282905,36.80217,-97.282905,36.80217],
+  "bbox": [
+    -97.282905,
+    36.80217,
+    -97.282905,
+    36.80217
+],
   "geometry": {"coordinates":[-97.282905,36.80217],"type":"Point"}
 }

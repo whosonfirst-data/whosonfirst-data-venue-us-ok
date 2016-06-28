@@ -2,13 +2,14 @@
   "id": 320190015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.328553,35.077543,-97.328553,35.077543",
     "geom:latitude":35.077543,
     "geom:longitude":-97.328553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11651 Timber Trl",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320190015,
-    "wof:lastmodified":1449014720,
+    "wof:lastmodified":1466764667,
     "wof:name":"Lawrence NOTARY Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-97.328553,35.077543,-97.328553,35.077543],
+  "bbox": [
+    -97.328553,
+    35.077543,
+    -97.328553,
+    35.077543
+],
   "geometry": {"coordinates":[-97.328553,35.077543],"type":"Point"}
 }

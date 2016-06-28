@@ -2,13 +2,14 @@
   "id": 336754181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.436535,35.211194,-97.436535,35.211194",
     "geom:latitude":35.211194,
     "geom:longitude":-97.436535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Classen Blvd",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336754181,
-    "wof:lastmodified":1448997638,
+    "wof:lastmodified":1466764423,
     "wof:name":"Local Chapter",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "space"
     ]
 },
-  "bbox": [-97.436535,35.211194,-97.436535,35.211194],
-  "geometry": {"coordinates":[-97.436535,35.211194],"type":"Point"}
+  "bbox": [
+    -97.436535,
+    35.211194,
+    -97.436535,
+    35.211194
+],
+  "geometry": {"coordinates":[-97.43653500000001,35.211194],"type":"Point"}
 }

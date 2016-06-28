@@ -2,13 +2,14 @@
   "id": 353759369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.36469,35.748379,-95.36469,35.748379",
     "geom:latitude":35.748379,
     "geom:longitude":-95.36469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Callahan St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353759369,
-    "wof:lastmodified":1449020841,
+    "wof:lastmodified":1466765044,
     "wof:name":"Muskogee Civic Ctr",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-95.36469,35.748379,-95.36469,35.748379],
+  "bbox": [
+    -95.36469,
+    35.748379,
+    -95.36469,
+    35.748379
+],
   "geometry": {"coordinates":[-95.36469,35.748379],"type":"Point"}
 }

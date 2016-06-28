@@ -2,13 +2,14 @@
   "id": 320545735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.96603,35.514292,-98.96603,35.514292",
     "geom:latitude":35.514292,
     "geom:longitude":-98.96603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Frisco Ave",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320545735,
-    "wof:lastmodified":1449012162,
+    "wof:lastmodified":1466766171,
     "wof:name":"Legal Aid Svc Of Ok Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-98.96603,35.514292,-98.96603,35.514292],
+  "bbox": [
+    -98.96603,
+    35.514292,
+    -98.96603,
+    35.514292
+],
   "geometry": {"coordinates":[-98.96603,35.514292],"type":"Point"}
 }

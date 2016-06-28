@@ -2,13 +2,14 @@
   "id": 303901859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.538845,35.41981,-97.538845,35.41981",
     "geom:latitude":35.41981,
     "geom:longitude":-97.538845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 SW 45th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303901859,
-    "wof:lastmodified":1448999146,
+    "wof:lastmodified":1466766860,
     "wof:name":"Sequoia Assembly Of God",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.538845,35.41981,-97.538845,35.41981],
-  "geometry": {"coordinates":[-97.538845,35.41981],"type":"Point"}
+  "bbox": [
+    -97.538845,
+    35.41981,
+    -97.538845,
+    35.41981
+],
+  "geometry": {"coordinates":[-97.53884499999999,35.41981],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353597849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.121611,33.93652,-97.121611,33.93652",
     "geom:latitude":33.93652,
     "geom:longitude":-97.121611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 W Chickasaw St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353597849,
-    "wof:lastmodified":1449020741,
+    "wof:lastmodified":1466764373,
     "wof:name":"Parole Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "probation"
     ]
 },
-  "bbox": [-97.121611,33.93652,-97.121611,33.93652],
+  "bbox": [
+    -97.121611,
+    33.93652,
+    -97.121611,
+    33.93652
+],
   "geometry": {"coordinates":[-97.121611,33.93652],"type":"Point"}
 }

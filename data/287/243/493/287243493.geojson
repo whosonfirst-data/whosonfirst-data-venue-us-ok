@@ -2,13 +2,14 @@
   "id": 287243493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.502358,34.890125,-99.502358,34.890125",
     "geom:latitude":34.890125,
     "geom:longitude":-99.502358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 N Louis Tittle Ave",
     "sg:city":"Mangum",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287243493,
-    "wof:lastmodified":1449000946,
+    "wof:lastmodified":1466762591,
     "wof:name":"MCH Family Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-99.502358,34.890125,-99.502358,34.890125],
+  "bbox": [
+    -99.502358,
+    34.890125,
+    -99.502358,
+    34.890125
+],
   "geometry": {"coordinates":[-99.502358,34.890125],"type":"Point"}
 }

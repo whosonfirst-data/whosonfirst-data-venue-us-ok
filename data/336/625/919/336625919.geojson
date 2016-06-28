@@ -2,13 +2,14 @@
   "id": 336625919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.769227,36.069252,-95.769227,36.069252",
     "geom:latitude":36.069252,
     "geom:longitude":-95.769227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 N 18th St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":336625919,
-    "wof:lastmodified":1448998035,
+    "wof:lastmodified":1466762592,
     "wof:name":"Westwood Elementary School",
     "wof:parent_id":85831775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.769227,36.069252,-95.769227,36.069252],
+  "bbox": [
+    -95.769227,
+    36.069252,
+    -95.769227,
+    36.069252
+],
   "geometry": {"coordinates":[-95.769227,36.069252],"type":"Point"}
 }

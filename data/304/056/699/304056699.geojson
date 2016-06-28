@@ -2,13 +2,14 @@
   "id": 304056699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.446687,35.758582,-95.446687,35.758582",
     "geom:latitude":35.758582,
     "geom:longitude":-95.446687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 N 64th St W",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304056699,
-    "wof:lastmodified":1449043717,
+    "wof:lastmodified":1466763149,
     "wof:name":"Workd Travelers",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-95.446687,35.758582,-95.446687,35.758582],
+  "bbox": [
+    -95.446687,
+    35.758582,
+    -95.446687,
+    35.758582
+],
   "geometry": {"coordinates":[-95.446687,35.758582],"type":"Point"}
 }

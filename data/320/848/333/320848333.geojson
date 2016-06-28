@@ -2,13 +2,14 @@
   "id": 320848333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.426261,34.598866,-98.426261,34.598866",
     "geom:latitude":34.598866,
     "geom:longitude":-98.426261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2420 SW I Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320848333,
-    "wof:lastmodified":1449011781,
+    "wof:lastmodified":1466766961,
     "wof:name":"Jefferson Baptist Church",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.426261,34.598866,-98.426261,34.598866],
+  "bbox": [
+    -98.426261,
+    34.598866,
+    -98.426261,
+    34.598866
+],
   "geometry": {"coordinates":[-98.426261,34.598866],"type":"Point"}
 }

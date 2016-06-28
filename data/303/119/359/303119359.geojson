@@ -2,13 +2,14 @@
   "id": 303119359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.391875,36.43705,-99.391875,36.43705",
     "geom:latitude":36.43705,
     "geom:longitude":-99.391875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 10th St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303119359,
-    "wof:lastmodified":1448999864,
+    "wof:lastmodified":1466763546,
     "wof:name":"M & M Exploration Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "exploration"
     ]
 },
-  "bbox": [-99.391875,36.43705,-99.391875,36.43705],
+  "bbox": [
+    -99.391875,
+    36.43705,
+    -99.391875,
+    36.43705
+],
   "geometry": {"coordinates":[-99.391875,36.43705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336924741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.856402,36.405265,-97.856402,36.405265",
     "geom:latitude":36.405265,
     "geom:longitude":-97.856402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 E Chestnut Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336924741,
-    "wof:lastmodified":1448997243,
+    "wof:lastmodified":1466765305,
     "wof:name":"Joy Burgers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.856402,36.405265,-97.856402,36.405265],
+  "bbox": [
+    -97.856402,
+    36.405265,
+    -97.856402,
+    36.405265
+],
   "geometry": {"coordinates":[-97.856402,36.405265],"type":"Point"}
 }

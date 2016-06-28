@@ -2,13 +2,14 @@
   "id": 303980219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534217,35.497403,-97.534217,35.497403",
     "geom:latitude":35.497403,
     "geom:longitude":-97.534217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303980219,
-    "wof:lastmodified":1448998285,
+    "wof:lastmodified":1466767115,
     "wof:name":"Grand House Restaurant",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.534217,35.497403,-97.534217,35.497403],
+  "bbox": [
+    -97.534217,
+    35.497403,
+    -97.534217,
+    35.497403
+],
   "geometry": {"coordinates":[-97.534217,35.497403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320840033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.900622,36.095965,-95.900622,36.095965",
     "geom:latitude":36.095965,
     "geom:longitude":-95.900622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6831 E 47th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320840033,
-    "wof:lastmodified":1449014122,
+    "wof:lastmodified":1466766938,
     "wof:name":"L & S Contractors",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.900622,36.095965,-95.900622,36.095965],
+  "bbox": [
+    -95.900622,
+    36.095965,
+    -95.900622,
+    36.095965
+],
   "geometry": {"coordinates":[-95.900622,36.095965],"type":"Point"}
 }

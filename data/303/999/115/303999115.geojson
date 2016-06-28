@@ -2,13 +2,14 @@
   "id": 303999115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.001632,36.129761,-96.001632,36.129761",
     "geom:latitude":36.129761,
     "geom:longitude":-96.001632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 W 23rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303999115,
-    "wof:lastmodified":1449000263,
+    "wof:lastmodified":1466767082,
     "wof:name":"WIC Nutritional Programs",
     "wof:parent_id":85872487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"
     ]
 },
-  "bbox": [-96.001632,36.129761,-96.001632,36.129761],
+  "bbox": [
+    -96.001632,
+    36.129761,
+    -96.001632,
+    36.129761
+],
   "geometry": {"coordinates":[-96.001632,36.129761],"type":"Point"}
 }

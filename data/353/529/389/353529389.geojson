@@ -2,13 +2,14 @@
   "id": 353529389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.528579,34.0143,-95.528579,34.0143",
     "geom:latitude":34.0143,
     "geom:longitude":-95.528579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 W Jackson St",
     "sg:city":"Hugo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353529389,
-    "wof:lastmodified":1449019377,
+    "wof:lastmodified":1466763558,
     "wof:name":"KITX",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-95.528579,34.0143,-95.528579,34.0143],
-  "geometry": {"coordinates":[-95.528579,34.0143],"type":"Point"}
+  "bbox": [
+    -95.528579,
+    34.0143,
+    -95.528579,
+    34.0143
+],
+  "geometry": {"coordinates":[-95.52857899999999,34.0143],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303860891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.614758,35.528432,-97.614758,35.528432",
     "geom:latitude":35.528432,
     "geom:longitude":-97.614758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5812 NW 57th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303860891,
-    "wof:lastmodified":1448999209,
+    "wof:lastmodified":1466766874,
     "wof:name":"Freedom Lawn Service LLC",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.614758,35.528432,-97.614758,35.528432],
-  "geometry": {"coordinates":[-97.614758,35.528432],"type":"Point"}
+  "bbox": [
+    -97.614758,
+    35.528432,
+    -97.614758,
+    35.528432
+],
+  "geometry": {"coordinates":[-97.61475799999999,35.528432],"type":"Point"}
 }

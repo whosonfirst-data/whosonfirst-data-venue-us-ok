@@ -2,13 +2,14 @@
   "id": 303254859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.251519,35.72575,-95.251519,35.72575",
     "geom:latitude":35.72575,
     "geom:longitude":-95.251519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 Woodland Rd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303254859,
-    "wof:lastmodified":1448999799,
+    "wof:lastmodified":1466764731,
     "wof:name":"Rural Water District 2",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.251519,35.72575,-95.251519,35.72575],
+  "bbox": [
+    -95.251519,
+    35.72575,
+    -95.251519,
+    35.72575
+],
   "geometry": {"coordinates":[-95.251519,35.72575],"type":"Point"}
 }

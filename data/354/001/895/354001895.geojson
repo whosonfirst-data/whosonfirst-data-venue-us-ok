@@ -2,13 +2,14 @@
   "id": 354001895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.427488,35.877985,-97.427488,35.877985",
     "geom:latitude":35.877985,
     "geom:longitude":-97.427488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 S 2nd St",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354001895,
-    "wof:lastmodified":1449066311,
+    "wof:lastmodified":1466762926,
     "wof:name":"Oklahoma Democratic Party",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.427488,35.877985,-97.427488,35.877985],
+  "bbox": [
+    -97.427488,
+    35.877985,
+    -97.427488,
+    35.877985
+],
   "geometry": {"coordinates":[-97.427488,35.877985],"type":"Point"}
 }

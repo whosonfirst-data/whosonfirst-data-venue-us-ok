@@ -2,13 +2,14 @@
   "id": 320710675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.976003,35.509547,-98.976003,35.509547",
     "geom:latitude":35.509547,
     "geom:longitude":-98.976003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"531 S 13th St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320710675,
-    "wof:lastmodified":1449011480,
+    "wof:lastmodified":1466766450,
     "wof:name":"Brown Leo Auction & RE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-98.976003,35.509547,-98.976003,35.509547],
-  "geometry": {"coordinates":[-98.976003,35.509547],"type":"Point"}
+  "bbox": [
+    -98.976003,
+    35.509547,
+    -98.976003,
+    35.509547
+],
+  "geometry": {"coordinates":[-98.97600300000001,35.509547],"type":"Point"}
 }

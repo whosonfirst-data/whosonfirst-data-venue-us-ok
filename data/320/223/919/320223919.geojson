@@ -2,13 +2,14 @@
   "id": 320223919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.51208,35.517002,-97.51208,35.517002",
     "geom:latitude":35.517002,
     "geom:longitude":-97.51208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4646 N Santa Fe Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320223919,
-    "wof:lastmodified":1449011504,
+    "wof:lastmodified":1466764794,
     "wof:name":"Mercy Ministries",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.51208,35.517002,-97.51208,35.517002],
+  "bbox": [
+    -97.51208,
+    35.517002,
+    -97.51208,
+    35.517002
+],
   "geometry": {"coordinates":[-97.51208,35.517002],"type":"Point"}
 }

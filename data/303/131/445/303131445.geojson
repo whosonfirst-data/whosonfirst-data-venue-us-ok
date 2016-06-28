@@ -2,13 +2,14 @@
   "id": 303131445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.418957,35.222392,-97.418957,35.222392",
     "geom:latitude":35.222392,
     "geom:longitude":-97.418957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Mount Vernon Dr",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303131445,
-    "wof:lastmodified":1448998853,
+    "wof:lastmodified":1466763744,
     "wof:name":"Mortgages Direct",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-97.418957,35.222392,-97.418957,35.222392],
-  "geometry": {"coordinates":[-97.418957,35.222392],"type":"Point"}
+  "bbox": [
+    -97.418957,
+    35.222392,
+    -97.418957,
+    35.222392
+],
+  "geometry": {"coordinates":[-97.41895700000001,35.222392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287198053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.790856,36.050433,-95.790856,36.050433",
     "geom:latitude":36.050433,
     "geom:longitude":-95.790856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Main St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287198053,
-    "wof:lastmodified":1449000984,
+    "wof:lastmodified":1466764232,
     "wof:name":"Swinging Gate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.790856,36.050433,-95.790856,36.050433],
-  "geometry": {"coordinates":[-95.790856,36.050433],"type":"Point"}
+  "bbox": [
+    -95.790856,
+    36.050433,
+    -95.790856,
+    36.050433
+],
+  "geometry": {"coordinates":[-95.79085600000001,36.050433],"type":"Point"}
 }

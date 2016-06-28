@@ -2,13 +2,14 @@
   "id": 337634129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.524515,35.319145,-97.524515,35.319145",
     "geom:latitude":35.319145,
     "geom:longitude":-97.524515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 SW 149th Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":337634129,
-    "wof:lastmodified":1449027339,
+    "wof:lastmodified":1466763401,
     "wof:name":"Choice Delivery Service Inc",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.524515,35.319145,-97.524515,35.319145],
-  "geometry": {"coordinates":[-97.524515,35.319145],"type":"Point"}
+  "bbox": [
+    -97.524515,
+    35.319145,
+    -97.524515,
+    35.319145
+],
+  "geometry": {"coordinates":[-97.52451499999999,35.319145],"type":"Point"}
 }

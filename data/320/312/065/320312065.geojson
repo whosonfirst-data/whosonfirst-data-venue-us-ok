@@ -2,13 +2,14 @@
   "id": 320312065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.53003,35.34783,-97.53003,35.34783",
     "geom:latitude":35.34783,
     "geom:longitude":-97.53003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12613 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320312065,
-    "wof:lastmodified":1449013146,
+    "wof:lastmodified":1466765107,
     "wof:name":"Westmoore High School",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.53003,35.34783,-97.53003,35.34783],
+  "bbox": [
+    -97.53003,
+    35.34783,
+    -97.53003,
+    35.34783
+],
   "geometry": {"coordinates":[-97.53003,35.34783],"type":"Point"}
 }

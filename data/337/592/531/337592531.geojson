@@ -2,13 +2,14 @@
   "id": 337592531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.300865,36.812627,-97.300865,36.812627",
     "geom:latitude":36.812627,
     "geom:longitude":-97.300865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N 13th St",
     "sg:city":"Blackwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337592531,
-    "wof:lastmodified":1449027416,
+    "wof:lastmodified":1466763169,
     "wof:name":"LABW",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.300865,36.812627,-97.300865,36.812627],
+  "bbox": [
+    -97.300865,
+    36.812627,
+    -97.300865,
+    36.812627
+],
   "geometry": {"coordinates":[-97.300865,36.812627],"type":"Point"}
 }

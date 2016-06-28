@@ -2,13 +2,14 @@
   "id": 320641691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.916069,36.006151,-95.916069,36.006151",
     "geom:latitude":36.006151,
     "geom:longitude":-95.916069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5503 E 109th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320641691,
-    "wof:lastmodified":1449014068,
+    "wof:lastmodified":1466766431,
     "wof:name":"Hazsource Inc",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.916069,36.006151,-95.916069,36.006151],
-  "geometry": {"coordinates":[-95.916069,36.006151],"type":"Point"}
+  "bbox": [
+    -95.916069,
+    36.006151,
+    -95.916069,
+    36.006151
+],
+  "geometry": {"coordinates":[-95.91606899999999,36.006151],"type":"Point"}
 }

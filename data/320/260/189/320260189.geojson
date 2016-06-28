@@ -2,13 +2,14 @@
   "id": 320260189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.402774,36.433573,-99.402774,36.433573",
     "geom:latitude":36.433573,
     "geom:longitude":-99.402774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1813 Oklahoma Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320260189,
-    "wof:lastmodified":1449011883,
+    "wof:lastmodified":1466764819,
     "wof:name":"Titan Drilling LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.402774,36.433573,-99.402774,36.433573],
-  "geometry": {"coordinates":[-99.402774,36.433573],"type":"Point"}
+  "bbox": [
+    -99.402774,
+    36.433573,
+    -99.402774,
+    36.433573
+],
+  "geometry": {"coordinates":[-99.40277399999999,36.433573],"type":"Point"}
 }

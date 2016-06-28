@@ -2,13 +2,14 @@
   "id": 287136911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.125514,34.500357,-97.125514,34.500357",
     "geom:latitude":34.500357,
     "geom:longitude":-97.125514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S D St",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287136911,
-    "wof:lastmodified":1449001585,
+    "wof:lastmodified":1466763630,
     "wof:name":"Sundown Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.125514,34.500357,-97.125514,34.500357],
+  "bbox": [
+    -97.125514,
+    34.500357,
+    -97.125514,
+    34.500357
+],
   "geometry": {"coordinates":[-97.125514,34.500357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319880199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.981005,36.122288,-95.981005,36.122288",
     "geom:latitude":36.122288,
     "geom:longitude":-95.981005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2916 S Detroit Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":319880199,
-    "wof:lastmodified":1449024880,
+    "wof:lastmodified":1466763416,
     "wof:name":"Calmart Co",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.981005,36.122288,-95.981005,36.122288],
+  "bbox": [
+    -95.981005,
+    36.122288,
+    -95.981005,
+    36.122288
+],
   "geometry": {"coordinates":[-95.981005,36.122288],"type":"Point"}
 }

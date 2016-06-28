@@ -2,13 +2,14 @@
   "id": 303408397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.622257,35.464239,-97.622257,35.464239",
     "geom:latitude":35.464239,
     "geom:longitude":-97.622257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6125 W Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303408397,
-    "wof:lastmodified":1448998421,
+    "wof:lastmodified":1466765468,
     "wof:name":"Apria Healthcare Inc",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-97.622257,35.464239,-97.622257,35.464239],
+  "bbox": [
+    -97.622257,
+    35.464239,
+    -97.622257,
+    35.464239
+],
   "geometry": {"coordinates":[-97.622257,35.464239],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320526861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.375431,35.464961,-97.375431,35.464961",
     "geom:latitude":35.464961,
     "geom:longitude":-97.375431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Woodman Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320526861,
-    "wof:lastmodified":1449012419,
+    "wof:lastmodified":1466766117,
     "wof:name":"Shack N Rack Bbq",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.375431,35.464961,-97.375431,35.464961],
-  "geometry": {"coordinates":[-97.375431,35.464961],"type":"Point"}
+  "bbox": [
+    -97.375431,
+    35.464961,
+    -97.375431,
+    35.464961
+],
+  "geometry": {"coordinates":[-97.37543100000001,35.464961],"type":"Point"}
 }

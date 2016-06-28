@@ -2,13 +2,14 @@
   "id": 320465227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.739253,35.507674,-97.739253,35.507674",
     "geom:latitude":35.507674,
     "geom:longitude":-97.739253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 E Main St",
     "sg:city":"Amber",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320465227,
-    "wof:lastmodified":1449013783,
+    "wof:lastmodified":1466765977,
     "wof:name":"Town Of Amber Fire Dept",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.739253,35.507674,-97.739253,35.507674],
-  "geometry": {"coordinates":[-97.739253,35.507674],"type":"Point"}
+  "bbox": [
+    -97.739253,
+    35.507674,
+    -97.739253,
+    35.507674
+],
+  "geometry": {"coordinates":[-97.73925300000001,35.507674],"type":"Point"}
 }

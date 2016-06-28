@@ -2,13 +2,14 @@
   "id": 336759965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.313747,34.646219,-99.313747,34.646219",
     "geom:latitude":34.646219,
     "geom:longitude":-99.313747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Canterbury Blvd",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336759965,
-    "wof:lastmodified":1448998033,
+    "wof:lastmodified":1466764569,
     "wof:name":"William Carder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-99.313747,34.646219,-99.313747,34.646219],
-  "geometry": {"coordinates":[-99.313747,34.646219],"type":"Point"}
+  "bbox": [
+    -99.313747,
+    34.646219,
+    -99.313747,
+    34.646219
+],
+  "geometry": {"coordinates":[-99.31374700000001,34.646219],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303714323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.972636,35.522393,-97.972636,35.522393",
     "geom:latitude":35.522393,
     "geom:longitude":-97.972636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 S Country Club Rd",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303714323,
-    "wof:lastmodified":1448999319,
+    "wof:lastmodified":1466766511,
     "wof:name":"Aging Services Canadian County",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.972636,35.522393,-97.972636,35.522393],
-  "geometry": {"coordinates":[-97.972636,35.522393],"type":"Point"}
+  "bbox": [
+    -97.972636,
+    35.522393,
+    -97.972636,
+    35.522393
+],
+  "geometry": {"coordinates":[-97.97263599999999,35.522393],"type":"Point"}
 }

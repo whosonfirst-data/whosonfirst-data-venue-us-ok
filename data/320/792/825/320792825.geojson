@@ -2,13 +2,14 @@
   "id": 320792825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.515167,35.702288,-97.515167,35.702288",
     "geom:latitude":35.702288,
     "geom:longitude":-97.515167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2108 Rambling Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320792825,
-    "wof:lastmodified":1449012057,
+    "wof:lastmodified":1466766723,
     "wof:name":"M E Rett Ferrell Jr",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.515167,35.702288,-97.515167,35.702288],
-  "geometry": {"coordinates":[-97.515167,35.702288],"type":"Point"}
+  "bbox": [
+    -97.515167,
+    35.702288,
+    -97.515167,
+    35.702288
+],
+  "geometry": {"coordinates":[-97.51516700000001,35.702288],"type":"Point"}
 }

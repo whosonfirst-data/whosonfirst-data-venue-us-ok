@@ -2,13 +2,14 @@
   "id": 303972751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.842988,36.025228,-95.842988,36.025228",
     "geom:latitude":36.025228,
     "geom:longitude":-95.842988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 S Aster Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303972751,
-    "wof:lastmodified":1448999343,
+    "wof:lastmodified":1466767108,
     "wof:name":"Sierra Capital Svc Inc",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.842988,36.025228,-95.842988,36.025228],
-  "geometry": {"coordinates":[-95.842988,36.025228],"type":"Point"}
+  "bbox": [
+    -95.842988,
+    36.025228,
+    -95.842988,
+    36.025228
+],
+  "geometry": {"coordinates":[-95.84298800000001,36.025228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303565385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.54605,35.363296,-97.54605,35.363296",
     "geom:latitude":35.363296,
     "geom:longitude":-97.54605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10316 Greenbriar Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303565385,
-    "wof:lastmodified":1449000349,
+    "wof:lastmodified":1466766091,
     "wof:name":"Speech-Language Services",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "therapy"
     ]
 },
-  "bbox": [-97.54605,35.363296,-97.54605,35.363296],
-  "geometry": {"coordinates":[-97.54605,35.363296],"type":"Point"}
+  "bbox": [
+    -97.54605,
+    35.363296,
+    -97.54605,
+    35.363296
+],
+  "geometry": {"coordinates":[-97.54604999999999,35.363296],"type":"Point"}
 }

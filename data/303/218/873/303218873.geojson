@@ -2,13 +2,14 @@
   "id": 303218873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.415692,35.840086,-98.415692,35.840086",
     "geom:latitude":35.840086,
     "geom:longitude":-98.415692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 S Leach Ave",
     "sg:city":"Watonga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303218873,
-    "wof:lastmodified":1448999667,
+    "wof:lastmodified":1466764664,
     "wof:name":"Mt Calvary Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.415692,35.840086,-98.415692,35.840086],
-  "geometry": {"coordinates":[-98.415692,35.840086],"type":"Point"}
+  "bbox": [
+    -98.415692,
+    35.840086,
+    -98.415692,
+    35.840086
+],
+  "geometry": {"coordinates":[-98.41569200000001,35.840086],"type":"Point"}
 }

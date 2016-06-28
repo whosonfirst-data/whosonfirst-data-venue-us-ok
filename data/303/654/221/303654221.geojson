@@ -2,13 +2,14 @@
   "id": 303654221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.492248,35.507805,-97.492248,35.507805",
     "geom:latitude":35.507805,
     "geom:longitude":-97.492248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1027 NE 36th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303654221,
-    "wof:lastmodified":1448998937,
+    "wof:lastmodified":1466766384,
     "wof:name":"Ooh Wee Shoe Bazaar",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.492248,35.507805,-97.492248,35.507805],
+  "bbox": [
+    -97.492248,
+    35.507805,
+    -97.492248,
+    35.507805
+],
   "geometry": {"coordinates":[-97.492248,35.507805],"type":"Point"}
 }

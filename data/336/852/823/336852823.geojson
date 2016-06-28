@@ -2,13 +2,14 @@
   "id": 336852823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.877603,36.420015,-97.877603,36.420015",
     "geom:latitude":36.420015,
     "geom:longitude":-97.877603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 E Willow Rd",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336852823,
-    "wof:lastmodified":1448997852,
+    "wof:lastmodified":1466764960,
     "wof:name":"KCRC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-97.877603,36.420015,-97.877603,36.420015],
-  "geometry": {"coordinates":[-97.877603,36.420015],"type":"Point"}
+  "bbox": [
+    -97.877603,
+    36.420015,
+    -97.877603,
+    36.420015
+],
+  "geometry": {"coordinates":[-97.87760299999999,36.420015],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354225619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.107175,36.159949,-96.107175,36.159949",
     "geom:latitude":36.159949,
     "geom:longitude":-96.107175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 N McKinley Ave",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354225619,
-    "wof:lastmodified":1449066437,
+    "wof:lastmodified":1466764076,
     "wof:name":"Metro Container Trash Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "collection"
     ]
 },
-  "bbox": [-96.107175,36.159949,-96.107175,36.159949],
+  "bbox": [
+    -96.107175,
+    36.159949,
+    -96.107175,
+    36.159949
+],
   "geometry": {"coordinates":[-96.107175,36.159949],"type":"Point"}
 }

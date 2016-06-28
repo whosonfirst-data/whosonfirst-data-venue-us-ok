@@ -2,13 +2,14 @@
   "id": 303692127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.033519,36.148146,-96.033519,36.148146",
     "geom:latitude":36.148146,
     "geom:longitude":-96.033519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3311 Charles Page Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303692127,
-    "wof:lastmodified":1448998761,
+    "wof:lastmodified":1466766467,
     "wof:name":"Cunningham & Scott Machine",
     "wof:parent_id":85872471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-96.033519,36.148146,-96.033519,36.148146],
+  "bbox": [
+    -96.033519,
+    36.148146,
+    -96.033519,
+    36.148146
+],
   "geometry": {"coordinates":[-96.033519,36.148146],"type":"Point"}
 }

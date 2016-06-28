@@ -2,13 +2,14 @@
   "id": 353743727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.502006,36.437685,-95.502006,36.437685",
     "geom:latitude":36.437685,
     "geom:longitude":-95.502006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18420 E Hwy 28A",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":353743727,
-    "wof:lastmodified":1449020772,
+    "wof:lastmodified":1466765083,
     "wof:name":"Accell Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.502006,36.437685,-95.502006,36.437685],
-  "geometry": {"coordinates":[-95.502006,36.437685],"type":"Point"}
+  "bbox": [
+    -95.502006,
+    36.437685,
+    -95.502006,
+    36.437685
+],
+  "geometry": {"coordinates":[-95.50200599999999,36.437685],"type":"Point"}
 }

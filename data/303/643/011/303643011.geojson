@@ -2,13 +2,14 @@
   "id": 303643011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.438508,36.437033,-99.438508,36.437033",
     "geom:latitude":36.437033,
     "geom:longitude":-99.438508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4109 Blaylock Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303643011,
-    "wof:lastmodified":1449000240,
+    "wof:lastmodified":1466766335,
     "wof:name":"Waldrop's Engine Svc Co",
     "wof:parent_id":85821373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-99.438508,36.437033,-99.438508,36.437033],
+  "bbox": [
+    -99.438508,
+    36.437033,
+    -99.438508,
+    36.437033
+],
   "geometry": {"coordinates":[-99.438508,36.437033],"type":"Point"}
 }

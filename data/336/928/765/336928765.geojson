@@ -2,13 +2,14 @@
   "id": 336928765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.390256,35.835742,-96.390256,35.835742",
     "geom:latitude":35.835742,
     "geom:longitude":-96.390256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 E 9th Ave",
     "sg:city":"Bristow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336928765,
-    "wof:lastmodified":1448997875,
+    "wof:lastmodified":1466765340,
     "wof:name":"Cab Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.390256,35.835742,-96.390256,35.835742],
-  "geometry": {"coordinates":[-96.390256,35.835742],"type":"Point"}
+  "bbox": [
+    -96.390256,
+    35.835742,
+    -96.390256,
+    35.835742
+],
+  "geometry": {"coordinates":[-96.39025599999999,35.835742],"type":"Point"}
 }

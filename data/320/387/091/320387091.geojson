@@ -2,13 +2,14 @@
   "id": 320387091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.516118,35.536009,-97.516118,35.536009",
     "geom:latitude":35.536009,
     "geom:longitude":-97.516118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 NW 62nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320387091,
-    "wof:lastmodified":1449014465,
+    "wof:lastmodified":1466765645,
     "wof:name":"Richart Distributors",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "specialty"
     ]
 },
-  "bbox": [-97.516118,35.536009,-97.516118,35.536009],
-  "geometry": {"coordinates":[-97.516118,35.536009],"type":"Point"}
+  "bbox": [
+    -97.516118,
+    35.536009,
+    -97.516118,
+    35.536009
+],
+  "geometry": {"coordinates":[-97.51611800000001,35.536009],"type":"Point"}
 }

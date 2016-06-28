@@ -2,13 +2,14 @@
   "id": 303458911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.792431,36.31557,-95.792431,36.31557",
     "geom:latitude":36.31557,
     "geom:longitude":-95.792431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16153 E 111th St N",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303458911,
-    "wof:lastmodified":1448999858,
+    "wof:lastmodified":1466765698,
     "wof:name":"Teel Manufacturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.792431,36.31557,-95.792431,36.31557],
-  "geometry": {"coordinates":[-95.792431,36.31557],"type":"Point"}
+  "bbox": [
+    -95.792431,
+    36.31557,
+    -95.792431,
+    36.31557
+],
+  "geometry": {"coordinates":[-95.79243099999999,36.31557],"type":"Point"}
 }

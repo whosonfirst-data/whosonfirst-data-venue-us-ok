@@ -2,13 +2,14 @@
   "id": 287278153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.492695,35.660636,-97.492695,35.660636",
     "geom:latitude":35.660636,
     "geom:longitude":-97.492695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Robin Hill Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":287278153,
-    "wof:lastmodified":1449001164,
+    "wof:lastmodified":1466763103,
     "wof:name":"Bishop Data Services LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-97.492695,35.660636,-97.492695,35.660636],
+  "bbox": [
+    -97.492695,
+    35.660636,
+    -97.492695,
+    35.660636
+],
   "geometry": {"coordinates":[-97.492695,35.660636],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320123419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.363431,35.029755,-97.363431,35.029755",
     "geom:latitude":35.029755,
     "geom:longitude":-97.363431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 W Grant St",
     "sg:city":"Purcell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320123419,
-    "wof:lastmodified":1449012382,
+    "wof:lastmodified":1466764145,
     "wof:name":"Turner's Drug",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.363431,35.029755,-97.363431,35.029755],
-  "geometry": {"coordinates":[-97.363431,35.029755],"type":"Point"}
+  "bbox": [
+    -97.363431,
+    35.029755,
+    -97.363431,
+    35.029755
+],
+  "geometry": {"coordinates":[-97.36343100000001,35.029755],"type":"Point"}
 }

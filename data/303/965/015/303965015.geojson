@@ -2,13 +2,14 @@
   "id": 303965015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.477032,35.423869,-97.477032,35.423869",
     "geom:latitude":35.423869,
     "geom:longitude":-97.477032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4235 S Eastern Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303965015,
-    "wof:lastmodified":1448999824,
+    "wof:lastmodified":1466767050,
     "wof:name":"Chilly Willy Transport",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.477032,35.423869,-97.477032,35.423869],
-  "geometry": {"coordinates":[-97.477032,35.423869],"type":"Point"}
+  "bbox": [
+    -97.477032,
+    35.423869,
+    -97.477032,
+    35.423869
+],
+  "geometry": {"coordinates":[-97.47703199999999,35.423869],"type":"Point"}
 }

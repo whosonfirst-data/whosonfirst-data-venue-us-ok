@@ -2,13 +2,14 @@
   "id": 303553951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.206262,36.859859,-101.206262,36.859859",
     "geom:latitude":36.859859,
     "geom:longitude":-101.206262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Russell St",
     "sg:city":"Hooker",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303553951,
-    "wof:lastmodified":1448998130,
+    "wof:lastmodified":1466765965,
     "wof:name":"Bob's Furniture Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furniture"
     ]
 },
-  "bbox": [-101.206262,36.859859,-101.206262,36.859859],
+  "bbox": [
+    -101.206262,
+    36.859859,
+    -101.206262,
+    36.859859
+],
   "geometry": {"coordinates":[-101.206262,36.859859],"type":"Point"}
 }

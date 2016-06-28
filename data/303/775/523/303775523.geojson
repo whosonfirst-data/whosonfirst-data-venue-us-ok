@@ -2,13 +2,14 @@
   "id": 303775523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503346,35.510501,-97.503346,35.510501",
     "geom:latitude":35.510501,
     "geom:longitude":-97.503346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 NE 38th Ter",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303775523,
-    "wof:lastmodified":1448999926,
+    "wof:lastmodified":1466766672,
     "wof:name":"Jay Watts Sign Company",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.503346,35.510501,-97.503346,35.510501],
-  "geometry": {"coordinates":[-97.503346,35.510501],"type":"Point"}
+  "bbox": [
+    -97.503346,
+    35.510501,
+    -97.503346,
+    35.510501
+],
+  "geometry": {"coordinates":[-97.50334599999999,35.510501],"type":"Point"}
 }

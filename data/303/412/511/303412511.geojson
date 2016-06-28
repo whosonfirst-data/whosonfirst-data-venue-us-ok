@@ -2,13 +2,14 @@
   "id": 303412511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.739478,34.011598,-94.739478,34.011598",
     "geom:latitude":34.011598,
     "geom:longitude":-94.739478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 S Park Dr",
     "sg:city":"Broken Bow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303412511,
-    "wof:lastmodified":1448998614,
+    "wof:lastmodified":1466765571,
     "wof:name":"Little River National Wildlife",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.739478,34.011598,-94.739478,34.011598],
-  "geometry": {"coordinates":[-94.739478,34.011598],"type":"Point"}
+  "bbox": [
+    -94.739478,
+    34.011598,
+    -94.739478,
+    34.011598
+],
+  "geometry": {"coordinates":[-94.73947800000001,34.011598],"type":"Point"}
 }

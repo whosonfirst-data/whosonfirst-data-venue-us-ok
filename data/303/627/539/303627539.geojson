@@ -2,13 +2,14 @@
   "id": 303627539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565641,35.471436,-97.565641,35.471436",
     "geom:latitude":35.471436,
     "geom:longitude":-97.565641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303627539,
-    "wof:lastmodified":1449000621,
+    "wof:lastmodified":1466766181,
     "wof:name":"National Portable Buildings",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.565641,35.471436,-97.565641,35.471436],
+  "bbox": [
+    -97.565641,
+    35.471436,
+    -97.565641,
+    35.471436
+],
   "geometry": {"coordinates":[-97.565641,35.471436],"type":"Point"}
 }

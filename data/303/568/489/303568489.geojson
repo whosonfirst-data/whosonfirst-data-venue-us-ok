@@ -2,13 +2,14 @@
   "id": 303568489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.433206,36.529936,-95.433206,36.529936",
     "geom:latitude":36.529936,
     "geom:longitude":-95.433206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Walnut St",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303568489,
-    "wof:lastmodified":1448998059,
+    "wof:lastmodified":1466766100,
     "wof:name":"Finders Keepers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outlet"
     ]
 },
-  "bbox": [-95.433206,36.529936,-95.433206,36.529936],
+  "bbox": [
+    -95.433206,
+    36.529936,
+    -95.433206,
+    36.529936
+],
   "geometry": {"coordinates":[-95.433206,36.529936],"type":"Point"}
 }

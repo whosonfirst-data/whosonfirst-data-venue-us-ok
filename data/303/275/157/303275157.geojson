@@ -2,13 +2,14 @@
   "id": 303275157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.12431,35.318654,-97.12431,35.318654",
     "geom:latitude":35.318654,
     "geom:longitude":-97.12431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30200 Clear Pond Rd",
     "sg:city":"Dale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303275157,
-    "wof:lastmodified":1448998903,
+    "wof:lastmodified":1466764745,
     "wof:name":"A Jenkins Mechanical Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.12431,35.318654,-97.12431,35.318654],
-  "geometry": {"coordinates":[-97.12431,35.318654],"type":"Point"}
+  "bbox": [
+    -97.12431,
+    35.318654,
+    -97.12431,
+    35.318654
+],
+  "geometry": {"coordinates":[-97.12430999999999,35.318654],"type":"Point"}
 }

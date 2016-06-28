@@ -2,13 +2,14 @@
   "id": 320603125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.09444,35.015503,-99.09444,35.015503",
     "geom:latitude":35.015503,
     "geom:longitude":-99.09444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 S Washington St",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320603125,
-    "wof:lastmodified":1449014399,
+    "wof:lastmodified":1466766287,
     "wof:name":"Billys Custom Pnt Bdy & Wrckr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-99.09444,35.015503,-99.09444,35.015503],
-  "geometry": {"coordinates":[-99.09444,35.015503],"type":"Point"}
+  "bbox": [
+    -99.09444,
+    35.015503,
+    -99.09444,
+    35.015503
+],
+  "geometry": {"coordinates":[-99.09444000000001,35.015503],"type":"Point"}
 }

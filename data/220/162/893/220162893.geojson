@@ -2,13 +2,14 @@
   "id": 220162893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.834427,36.298359,-95.834427,36.298359",
     "geom:latitude":36.298359,
     "geom:longitude":-95.834427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12455 E 100th St N",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":220162893,
-    "wof:lastmodified":1449074751,
+    "wof:lastmodified":1466762307,
     "wof:name":"Tulsa Bone & Joint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.834427,36.298359,-95.834427,36.298359],
-  "geometry": {"coordinates":[-95.834427,36.298359],"type":"Point"}
+  "bbox": [
+    -95.834427,
+    36.298359,
+    -95.834427,
+    36.298359
+],
+  "geometry": {"coordinates":[-95.83442700000001,36.298359],"type":"Point"}
 }

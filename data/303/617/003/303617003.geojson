@@ -2,13 +2,14 @@
   "id": 303617003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.583426,35.485071,-97.583426,35.485071",
     "geom:latitude":35.485071,
     "geom:longitude":-97.583426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 N Portland Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303617003,
-    "wof:lastmodified":1448998203,
+    "wof:lastmodified":1466766368,
     "wof:name":"A & E Business Products",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-97.583426,35.485071,-97.583426,35.485071],
+  "bbox": [
+    -97.583426,
+    35.485071,
+    -97.583426,
+    35.485071
+],
   "geometry": {"coordinates":[-97.583426,35.485071],"type":"Point"}
 }

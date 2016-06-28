@@ -2,13 +2,14 @@
   "id": 303431369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.793991,36.043703,-95.793991,36.043703",
     "geom:latitude":36.043703,
     "geom:longitude":-95.793991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 S Birch Pl",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303431369,
-    "wof:lastmodified":1448998450,
+    "wof:lastmodified":1466765578,
     "wof:name":"John S Home Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-95.793991,36.043703,-95.793991,36.043703],
-  "geometry": {"coordinates":[-95.793991,36.043703],"type":"Point"}
+  "bbox": [
+    -95.793991,
+    36.043703,
+    -95.793991,
+    36.043703
+],
+  "geometry": {"coordinates":[-95.79399100000001,36.043703],"type":"Point"}
 }

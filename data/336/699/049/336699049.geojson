@@ -2,13 +2,14 @@
   "id": 336699049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.514237,35.47398,-97.514237,35.47398",
     "geom:latitude":35.47398,
     "geom:longitude":-97.514237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 NW 6th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336699049,
-    "wof:lastmodified":1448997075,
+    "wof:lastmodified":1466763706,
     "wof:name":"Commercial Traders",
     "wof:parent_id":85871687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.514237,35.47398,-97.514237,35.47398],
-  "geometry": {"coordinates":[-97.514237,35.47398],"type":"Point"}
+  "bbox": [
+    -97.514237,
+    35.47398,
+    -97.514237,
+    35.47398
+],
+  "geometry": {"coordinates":[-97.51423699999999,35.47398],"type":"Point"}
 }

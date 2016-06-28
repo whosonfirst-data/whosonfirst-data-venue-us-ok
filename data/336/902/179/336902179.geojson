@@ -2,13 +2,14 @@
   "id": 336902179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.958025,36.083275,-95.958025,36.083275",
     "geom:latitude":36.083275,
     "geom:longitude":-95.958025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5612 S Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336902179,
-    "wof:lastmodified":1448997734,
+    "wof:lastmodified":1466765125,
     "wof:name":"Mortgage Clearing Corp",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-95.958025,36.083275,-95.958025,36.083275],
-  "geometry": {"coordinates":[-95.958025,36.083275],"type":"Point"}
+  "bbox": [
+    -95.958025,
+    36.083275,
+    -95.958025,
+    36.083275
+],
+  "geometry": {"coordinates":[-95.95802500000001,36.083275],"type":"Point"}
 }

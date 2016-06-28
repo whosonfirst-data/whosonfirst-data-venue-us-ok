@@ -2,13 +2,14 @@
   "id": 235932821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.915485,36.104384,-95.915485,36.104384",
     "geom:latitude":36.104384,
     "geom:longitude":-95.915485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5359 E 41st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":235932821,
-    "wof:lastmodified":1449008383,
+    "wof:lastmodified":1466762406,
     "wof:name":"T.G.I. Friday's",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-95.915485,36.104384,-95.915485,36.104384],
+  "bbox": [
+    -95.915485,
+    36.104384,
+    -95.915485,
+    36.104384
+],
   "geometry": {"coordinates":[-95.915485,36.104384],"type":"Point"}
 }

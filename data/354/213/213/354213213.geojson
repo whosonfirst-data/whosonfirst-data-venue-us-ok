@@ -2,13 +2,14 @@
   "id": 354213213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935263,36.745404,-95.935263,36.745404",
     "geom:latitude":36.745404,
     "geom:longitude":-95.935263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3810 SE Adams Rd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354213213,
-    "wof:lastmodified":1449065945,
+    "wof:lastmodified":1466763996,
     "wof:name":"Copeland Appliance Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.935263,36.745404,-95.935263,36.745404],
-  "geometry": {"coordinates":[-95.935263,36.745404],"type":"Point"}
+  "bbox": [
+    -95.935263,
+    36.745404,
+    -95.935263,
+    36.745404
+],
+  "geometry": {"coordinates":[-95.93526300000001,36.745404],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303577153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.069566,36.044757,-95.069566,36.044757",
     "geom:latitude":36.044757,
     "geom:longitude":-95.069566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9011 N 547 Rd",
     "sg:city":"Hulbert",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303577153,
-    "wof:lastmodified":1449000642,
+    "wof:lastmodified":1466766025,
     "wof:name":"Jerrys Excavation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.069566,36.044757,-95.069566,36.044757],
-  "geometry": {"coordinates":[-95.069566,36.044757],"type":"Point"}
+  "bbox": [
+    -95.069566,
+    36.044757,
+    -95.069566,
+    36.044757
+],
+  "geometry": {"coordinates":[-95.06956599999999,36.044757],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320346959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.240379,35.073648,-98.240379,35.073648",
     "geom:latitude":35.073648,
     "geom:longitude":-98.240379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 E Oklahoma Ave",
     "sg:city":"Anadarko",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320346959,
-    "wof:lastmodified":1449011242,
+    "wof:lastmodified":1466765457,
     "wof:name":"Sw Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-98.240379,35.073648,-98.240379,35.073648],
+  "bbox": [
+    -98.240379,
+    35.073648,
+    -98.240379,
+    35.073648
+],
   "geometry": {"coordinates":[-98.240379,35.073648],"type":"Point"}
 }

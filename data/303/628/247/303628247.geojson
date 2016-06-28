@@ -2,13 +2,14 @@
   "id": 303628247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.933118,35.842203,-97.933118,35.842203",
     "geom:latitude":35.842203,
     "geom:longitude":-97.933118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Will Rogers Dr",
     "sg:city":"Kingfisher",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303628247,
-    "wof:lastmodified":1449000101,
+    "wof:lastmodified":1466766303,
     "wof:name":"Sport Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gun"
     ]
 },
-  "bbox": [-97.933118,35.842203,-97.933118,35.842203],
-  "geometry": {"coordinates":[-97.933118,35.842203],"type":"Point"}
+  "bbox": [
+    -97.933118,
+    35.842203,
+    -97.933118,
+    35.842203
+],
+  "geometry": {"coordinates":[-97.93311799999999,35.842203],"type":"Point"}
 }

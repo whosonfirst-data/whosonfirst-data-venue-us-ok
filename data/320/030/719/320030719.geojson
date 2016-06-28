@@ -2,13 +2,14 @@
   "id": 320030719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406016,35.451858,-97.406016,35.451858",
     "geom:latitude":35.451858,
     "geom:longitude":-97.406016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 S Air Depot Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320030719,
-    "wof:lastmodified":1449012648,
+    "wof:lastmodified":1466762742,
     "wof:name":"Beneficial Oklahoma Inc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-97.406016,35.451858,-97.406016,35.451858],
-  "geometry": {"coordinates":[-97.406016,35.451858],"type":"Point"}
+  "bbox": [
+    -97.406016,
+    35.451858,
+    -97.406016,
+    35.451858
+],
+  "geometry": {"coordinates":[-97.40601599999999,35.451858],"type":"Point"}
 }

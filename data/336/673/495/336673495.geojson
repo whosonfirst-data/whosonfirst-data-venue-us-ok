@@ -2,13 +2,14 @@
   "id": 336673495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.608006,35.600986,-97.608006,35.600986",
     "geom:latitude":35.600986,
     "geom:longitude":-97.608006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12905 Fox Forest Cir",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336673495,
-    "wof:lastmodified":1448997369,
+    "wof:lastmodified":1466763309,
     "wof:name":"J & J Wholesale Auto",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wholesaler"
     ]
 },
-  "bbox": [-97.608006,35.600986,-97.608006,35.600986],
+  "bbox": [
+    -97.608006,
+    35.600986,
+    -97.608006,
+    35.600986
+],
   "geometry": {"coordinates":[-97.608006,35.600986],"type":"Point"}
 }

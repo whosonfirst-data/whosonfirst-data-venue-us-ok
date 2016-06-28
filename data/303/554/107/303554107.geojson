@@ -2,13 +2,14 @@
   "id": 303554107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.768121,34.917957,-95.768121,34.917957",
     "geom:latitude":34.917957,
     "geom:longitude":-95.768121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 E Peoria Ave",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303554107,
-    "wof:lastmodified":1448998619,
+    "wof:lastmodified":1466766155,
     "wof:name":"Don Mitchell Trucking Inc",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.768121,34.917957,-95.768121,34.917957],
-  "geometry": {"coordinates":[-95.768121,34.917957],"type":"Point"}
+  "bbox": [
+    -95.768121,
+    34.917957,
+    -95.768121,
+    34.917957
+],
+  "geometry": {"coordinates":[-95.76812099999999,34.917957],"type":"Point"}
 }

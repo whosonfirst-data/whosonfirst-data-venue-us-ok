@@ -2,13 +2,14 @@
   "id": 303502883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.212319,35.491037,-97.212319,35.491037",
     "geom:latitude":35.491037,
     "geom:longitude":-97.212319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2363 N Peebly Rd",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303502883,
-    "wof:lastmodified":1448999240,
+    "wof:lastmodified":1466765841,
     "wof:name":"Pierson's Carpet Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-97.212319,35.491037,-97.212319,35.491037],
-  "geometry": {"coordinates":[-97.212319,35.491037],"type":"Point"}
+  "bbox": [
+    -97.212319,
+    35.491037,
+    -97.212319,
+    35.491037
+],
+  "geometry": {"coordinates":[-97.21231899999999,35.491037],"type":"Point"}
 }

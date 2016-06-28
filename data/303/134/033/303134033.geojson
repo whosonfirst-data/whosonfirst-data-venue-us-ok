@@ -2,13 +2,14 @@
   "id": 303134033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.917246,36.742483,-95.917246,36.742483",
     "geom:latitude":36.742483,
     "geom:longitude":-95.917246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 S Madison Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303134033,
-    "wof:lastmodified":1449000430,
+    "wof:lastmodified":1466763787,
     "wof:name":"Thirsty's Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.917246,36.742483,-95.917246,36.742483],
-  "geometry": {"coordinates":[-95.917246,36.742483],"type":"Point"}
+  "bbox": [
+    -95.917246,
+    36.742483,
+    -95.917246,
+    36.742483
+],
+  "geometry": {"coordinates":[-95.91724600000001,36.742483],"type":"Point"}
 }

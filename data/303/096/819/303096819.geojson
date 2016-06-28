@@ -2,13 +2,14 @@
   "id": 303096819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.744986,35.481662,-97.744986,35.481662",
     "geom:latitude":35.481662,
     "geom:longitude":-97.744986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W Vail Dr",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303096819,
-    "wof:lastmodified":1448998906,
+    "wof:lastmodified":1466763187,
     "wof:name":"Lain Express Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.744986,35.481662,-97.744986,35.481662],
+  "bbox": [
+    -97.744986,
+    35.481662,
+    -97.744986,
+    35.481662
+],
   "geometry": {"coordinates":[-97.744986,35.481662],"type":"Point"}
 }

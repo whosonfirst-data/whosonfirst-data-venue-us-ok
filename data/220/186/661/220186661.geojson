@@ -2,13 +2,14 @@
   "id": 220186661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.858187,36.173367,-95.858187,36.173367",
     "geom:latitude":36.173367,
     "geom:longitude":-95.858187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10828 E Newton St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220186661,
-    "wof:lastmodified":1449074667,
+    "wof:lastmodified":1466762384,
     "wof:name":"Building & Earth Sciences, Inc",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-95.858187,36.173367,-95.858187,36.173367],
+  "bbox": [
+    -95.858187,
+    36.173367,
+    -95.858187,
+    36.173367
+],
   "geometry": {"coordinates":[-95.858187,36.173367],"type":"Point"}
 }

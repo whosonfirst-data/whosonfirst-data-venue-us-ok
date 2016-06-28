@@ -2,13 +2,14 @@
   "id": 353745625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.834662,36.077295,-95.834662,36.077295",
     "geom:latitude":36.077295,
     "geom:longitude":-95.834662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12331 E 60th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353745625,
-    "wof:lastmodified":1449020675,
+    "wof:lastmodified":1466765091,
     "wof:name":"Preferred Pediatrics Home Hlth",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-95.834662,36.077295,-95.834662,36.077295],
-  "geometry": {"coordinates":[-95.834662,36.077295],"type":"Point"}
+  "bbox": [
+    -95.834662,
+    36.077295,
+    -95.834662,
+    36.077295
+],
+  "geometry": {"coordinates":[-95.83466199999999,36.077295],"type":"Point"}
 }

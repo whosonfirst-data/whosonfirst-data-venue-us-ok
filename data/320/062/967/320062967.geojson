@@ -2,13 +2,14 @@
   "id": 320062967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.40385,36.418146,-99.40385,36.418146",
     "geom:latitude":36.418146,
     "geom:longitude":-99.40385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2826 Essex St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320062967,
-    "wof:lastmodified":1449014690,
+    "wof:lastmodified":1466763222,
     "wof:name":"Tim Wheeler Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-99.40385,36.418146,-99.40385,36.418146],
-  "geometry": {"coordinates":[-99.40385,36.418146],"type":"Point"}
+  "bbox": [
+    -99.40385,
+    36.418146,
+    -99.40385,
+    36.418146
+],
+  "geometry": {"coordinates":[-99.40385000000001,36.418146],"type":"Point"}
 }

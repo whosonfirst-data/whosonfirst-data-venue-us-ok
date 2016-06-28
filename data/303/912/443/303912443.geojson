@@ -2,13 +2,14 @@
   "id": 303912443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.836715,36.410821,-97.836715,36.410821",
     "geom:latitude":36.410821,
     "geom:longitude":-97.836715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 N 30th St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303912443,
-    "wof:lastmodified":1448999323,
+    "wof:lastmodified":1466766913,
     "wof:name":"Williams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pipeline"
     ]
 },
-  "bbox": [-97.836715,36.410821,-97.836715,36.410821],
+  "bbox": [
+    -97.836715,
+    36.410821,
+    -97.836715,
+    36.410821
+],
   "geometry": {"coordinates":[-97.836715,36.410821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303168329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.080089,36.14494,-97.080089,36.14494",
     "geom:latitude":36.14494,
     "geom:longitude":-97.080089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1760 W Lakeview Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303168329,
-    "wof:lastmodified":1448999397,
+    "wof:lastmodified":1466764281,
     "wof:name":"E Learning Innovations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "teacher"
     ]
 },
-  "bbox": [-97.080089,36.14494,-97.080089,36.14494],
+  "bbox": [
+    -97.080089,
+    36.14494,
+    -97.080089,
+    36.14494
+],
   "geometry": {"coordinates":[-97.080089,36.14494],"type":"Point"}
 }

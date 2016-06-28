@@ -2,13 +2,14 @@
   "id": 287288215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.318101,35.120343,-97.318101,35.120343",
     "geom:latitude":35.120343,
     "geom:longitude":-97.318101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8101 84th St",
     "sg:city":"Noble",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287288215,
-    "wof:lastmodified":1449000750,
+    "wof:lastmodified":1466763253,
     "wof:name":"Patriot Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.318101,35.120343,-97.318101,35.120343],
+  "bbox": [
+    -97.318101,
+    35.120343,
+    -97.318101,
+    35.120343
+],
   "geometry": {"coordinates":[-97.318101,35.120343],"type":"Point"}
 }

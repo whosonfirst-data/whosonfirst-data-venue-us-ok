@@ -2,13 +2,14 @@
   "id": 320028947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.660496,36.814694,-94.660496,36.814694",
     "geom:latitude":36.814694,
     "geom:longitude":-94.660496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68400 E Hwy 60",
     "sg:city":"Wyandotte",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320028947,
-    "wof:lastmodified":1449013282,
+    "wof:lastmodified":1466762714,
     "wof:name":"Zebert Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-94.660496,36.814694,-94.660496,36.814694],
-  "geometry": {"coordinates":[-94.660496,36.814694],"type":"Point"}
+  "bbox": [
+    -94.660496,
+    36.814694,
+    -94.660496,
+    36.814694
+],
+  "geometry": {"coordinates":[-94.66049599999999,36.814694],"type":"Point"}
 }

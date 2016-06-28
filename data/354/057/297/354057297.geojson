@@ -2,13 +2,14 @@
   "id": 354057297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.388481,35.466332,-97.388481,35.466332",
     "geom:latitude":35.466332,
     "geom:longitude":-97.388481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Midwest Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354057297,
-    "wof:lastmodified":1449066763,
+    "wof:lastmodified":1466763331,
     "wof:name":"City of Midwest City",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-97.388481,35.466332,-97.388481,35.466332],
+  "bbox": [
+    -97.388481,
+    35.466332,
+    -97.388481,
+    35.466332
+],
   "geometry": {"coordinates":[-97.388481,35.466332],"type":"Point"}
 }

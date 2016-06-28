@@ -2,13 +2,14 @@
   "id": 303243277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.728282,35.591572,-97.728282,35.591572",
     "geom:latitude":35.591572,
     "geom:longitude":-97.728282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12016 Surrey Ln",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303243277,
-    "wof:lastmodified":1448998909,
+    "wof:lastmodified":1466764566,
     "wof:name":"Sooner Financial",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-97.728282,35.591572,-97.728282,35.591572],
-  "geometry": {"coordinates":[-97.728282,35.591572],"type":"Point"}
+  "bbox": [
+    -97.728282,
+    35.591572,
+    -97.728282,
+    35.591572
+],
+  "geometry": {"coordinates":[-97.72828199999999,35.591572],"type":"Point"}
 }

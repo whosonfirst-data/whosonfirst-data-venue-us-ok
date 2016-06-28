@@ -2,13 +2,14 @@
   "id": 320045467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.601104,35.456958,-97.601104,35.456958",
     "geom:latitude":35.456958,
     "geom:longitude":-97.601104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 Highline Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320045467,
-    "wof:lastmodified":1449014526,
+    "wof:lastmodified":1466762967,
     "wof:name":"Courtyard-Oklahoma City Airprt",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.601104,35.456958,-97.601104,35.456958],
-  "geometry": {"coordinates":[-97.601104,35.456958],"type":"Point"}
+  "bbox": [
+    -97.601104,
+    35.456958,
+    -97.601104,
+    35.456958
+],
+  "geometry": {"coordinates":[-97.60110400000001,35.456958],"type":"Point"}
 }

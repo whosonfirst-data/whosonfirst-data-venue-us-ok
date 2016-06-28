@@ -2,13 +2,14 @@
   "id": 320537193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.960263,36.023674,-95.960263,36.023674",
     "geom:latitude":36.023674,
     "geom:longitude":-95.960263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 E Main St",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320537193,
-    "wof:lastmodified":1449012173,
+    "wof:lastmodified":1466766134,
     "wof:name":"Niles Transportation",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.960263,36.023674,-95.960263,36.023674],
+  "bbox": [
+    -95.960263,
+    36.023674,
+    -95.960263,
+    36.023674
+],
   "geometry": {"coordinates":[-95.960263,36.023674],"type":"Point"}
 }

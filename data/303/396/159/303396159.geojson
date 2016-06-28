@@ -2,13 +2,14 @@
   "id": 303396159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.815255,36.005012,-95.815255,36.005012",
     "geom:latitude":36.005012,
     "geom:longitude":-95.815255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 S Aspen Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303396159,
-    "wof:lastmodified":1448999720,
+    "wof:lastmodified":1466765423,
     "wof:name":"Aspen Park Baptist Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.815255,36.005012,-95.815255,36.005012],
-  "geometry": {"coordinates":[-95.815255,36.005012],"type":"Point"}
+  "bbox": [
+    -95.815255,
+    36.005012,
+    -95.815255,
+    36.005012
+],
+  "geometry": {"coordinates":[-95.81525499999999,36.005012],"type":"Point"}
 }

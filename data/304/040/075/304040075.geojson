@@ -2,13 +2,14 @@
   "id": 304040075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.512009,35.332004,-97.512009,35.332004",
     "geom:latitude":35.332004,
     "geom:longitude":-97.512009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 S Santa Fe Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":304040075,
-    "wof:lastmodified":1449044140,
+    "wof:lastmodified":1466763038,
     "wof:name":"Santa Fe Concrete Construction",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.512009,35.332004,-97.512009,35.332004],
-  "geometry": {"coordinates":[-97.512009,35.332004],"type":"Point"}
+  "bbox": [
+    -97.512009,
+    35.332004,
+    -97.512009,
+    35.332004
+],
+  "geometry": {"coordinates":[-97.51200900000001,35.332004],"type":"Point"}
 }

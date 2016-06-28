@@ -2,13 +2,14 @@
   "id": 303822725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.624845,36.700215,-95.624845,36.700215",
     "geom:latitude":36.700215,
     "geom:longitude":-95.624845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 E Cherokee Ave",
     "sg:city":"Nowata",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303822725,
-    "wof:lastmodified":1449000491,
+    "wof:lastmodified":1466766626,
     "wof:name":"Nowata Net LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-95.624845,36.700215,-95.624845,36.700215],
-  "geometry": {"coordinates":[-95.624845,36.700215],"type":"Point"}
+  "bbox": [
+    -95.624845,
+    36.700215,
+    -95.624845,
+    36.700215
+],
+  "geometry": {"coordinates":[-95.62484499999999,36.700215],"type":"Point"}
 }

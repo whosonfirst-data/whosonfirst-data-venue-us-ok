@@ -2,13 +2,14 @@
   "id": 303885301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.335737,35.493953,-97.335737,35.493953",
     "geom:latitude":35.493953,
     "geom:longitude":-97.335737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2403 N Westminster Rd",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303885301,
-    "wof:lastmodified":1448999421,
+    "wof:lastmodified":1466766928,
     "wof:name":"Allied Community Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "developmentally"
     ]
 },
-  "bbox": [-97.335737,35.493953,-97.335737,35.493953],
-  "geometry": {"coordinates":[-97.335737,35.493953],"type":"Point"}
+  "bbox": [
+    -97.335737,
+    35.493953,
+    -97.335737,
+    35.493953
+],
+  "geometry": {"coordinates":[-97.33573699999999,35.493953],"type":"Point"}
 }

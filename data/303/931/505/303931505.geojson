@@ -2,13 +2,14 @@
   "id": 303931505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.353236,35.458507,-97.353236,35.458507",
     "geom:latitude":35.458507,
     "geom:longitude":-97.353236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9924 Hunters Run",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303931505,
-    "wof:lastmodified":1449000347,
+    "wof:lastmodified":1466767016,
     "wof:name":"Davis Solutions Inc",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-97.353236,35.458507,-97.353236,35.458507],
+  "bbox": [
+    -97.353236,
+    35.458507,
+    -97.353236,
+    35.458507
+],
   "geometry": {"coordinates":[-97.353236,35.458507],"type":"Point"}
 }

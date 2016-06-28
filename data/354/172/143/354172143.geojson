@@ -2,13 +2,14 @@
   "id": 354172143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.399162,35.08015,-96.399162,35.08015",
     "geom:latitude":35.08015,
     "geom:longitude":-96.399162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 E Main St",
     "sg:city":"Holdenville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354172143,
-    "wof:lastmodified":1449066605,
+    "wof:lastmodified":1466763775,
     "wof:name":"Heritage Rock Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.399162,35.08015,-96.399162,35.08015],
+  "bbox": [
+    -96.399162,
+    35.08015,
+    -96.399162,
+    35.08015
+],
   "geometry": {"coordinates":[-96.399162,35.08015],"type":"Point"}
 }

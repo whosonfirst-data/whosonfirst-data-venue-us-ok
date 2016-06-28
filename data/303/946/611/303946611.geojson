@@ -2,13 +2,14 @@
   "id": 303946611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.729104,35.430487,-97.729104,35.430487",
     "geom:latitude":35.430487,
     "geom:longitude":-97.729104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Willow Pond Dr",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303946611,
-    "wof:lastmodified":1449000274,
+    "wof:lastmodified":1466767034,
     "wof:name":"Reconstruction Services",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reconstruction"
     ]
 },
-  "bbox": [-97.729104,35.430487,-97.729104,35.430487],
-  "geometry": {"coordinates":[-97.729104,35.430487],"type":"Point"}
+  "bbox": [
+    -97.729104,
+    35.430487,
+    -97.729104,
+    35.430487
+],
+  "geometry": {"coordinates":[-97.72910400000001,35.430487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336917125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.491881,35.591955,-97.491881,35.591955",
     "geom:latitude":35.591955,
     "geom:longitude":-97.491881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1029 NE 120th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336917125,
-    "wof:lastmodified":1448997882,
+    "wof:lastmodified":1466765273,
     "wof:name":"Biggers Bob Pool Plastering",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.491881,35.591955,-97.491881,35.591955],
-  "geometry": {"coordinates":[-97.491881,35.591955],"type":"Point"}
+  "bbox": [
+    -97.491881,
+    35.591955,
+    -97.491881,
+    35.591955
+],
+  "geometry": {"coordinates":[-97.49188100000001,35.591955],"type":"Point"}
 }

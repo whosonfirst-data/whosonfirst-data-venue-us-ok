@@ -2,13 +2,14 @@
   "id": 320120585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.068692,35.611707,-96.068692,35.611707",
     "geom:latitude":35.611707,
     "geom:longitude":-96.068692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16830 Dripping Springs Rd",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320120585,
-    "wof:lastmodified":1449014439,
+    "wof:lastmodified":1466764098,
     "wof:name":"Okmulgee State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-96.068692,35.611707,-96.068692,35.611707],
+  "bbox": [
+    -96.068692,
+    35.611707,
+    -96.068692,
+    35.611707
+],
   "geometry": {"coordinates":[-96.068692,35.611707],"type":"Point"}
 }

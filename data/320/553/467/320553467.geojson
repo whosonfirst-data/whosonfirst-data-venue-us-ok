@@ -2,13 +2,14 @@
   "id": 320553467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.519587,35.525757,-97.519587,35.525757",
     "geom:latitude":35.525757,
     "geom:longitude":-97.519587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 NW 54th Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320553467,
-    "wof:lastmodified":1449011288,
+    "wof:lastmodified":1466766196,
     "wof:name":"Coventry Cove Apartments",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.519587,35.525757,-97.519587,35.525757],
+  "bbox": [
+    -97.519587,
+    35.525757,
+    -97.519587,
+    35.525757
+],
   "geometry": {"coordinates":[-97.519587,35.525757],"type":"Point"}
 }

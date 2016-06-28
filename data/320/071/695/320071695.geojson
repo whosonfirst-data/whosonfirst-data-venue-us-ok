@@ -2,13 +2,14 @@
   "id": 320071695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.42385,34.009883,-96.42385,34.009883",
     "geom:latitude":34.009883,
     "geom:longitude":-96.42385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4825 Woodlawn St",
     "sg:city":"Durant",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320071695,
-    "wof:lastmodified":1449013604,
+    "wof:lastmodified":1466763348,
     "wof:name":"United Insurance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.42385,34.009883,-96.42385,34.009883],
+  "bbox": [
+    -96.42385,
+    34.009883,
+    -96.42385,
+    34.009883
+],
   "geometry": {"coordinates":[-96.42385,34.009883],"type":"Point"}
 }

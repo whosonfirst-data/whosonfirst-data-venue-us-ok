@@ -2,13 +2,14 @@
   "id": 303195345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.090094,36.112156,-97.090094,36.112156",
     "geom:latitude":36.112156,
     "geom:longitude":-97.090094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2406 W 9th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303195345,
-    "wof:lastmodified":1448999726,
+    "wof:lastmodified":1466764283,
     "wof:name":"Nordquist Appraisal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.090094,36.112156,-97.090094,36.112156],
-  "geometry": {"coordinates":[-97.090094,36.112156],"type":"Point"}
+  "bbox": [
+    -97.090094,
+    36.112156,
+    -97.090094,
+    36.112156
+],
+  "geometry": {"coordinates":[-97.09009399999999,36.112156],"type":"Point"}
 }

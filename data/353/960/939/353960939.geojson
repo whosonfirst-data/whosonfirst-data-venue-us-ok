@@ -2,13 +2,14 @@
   "id": 353960939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.094506,35.024399,-99.094506,35.024399",
     "geom:latitude":35.024399,
     "geom:longitude":-99.094506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W 4th St",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353960939,
-    "wof:lastmodified":1449020076,
+    "wof:lastmodified":1466765861,
     "wof:name":"Hobart Chamber Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-99.094506,35.024399,-99.094506,35.024399],
+  "bbox": [
+    -99.094506,
+    35.024399,
+    -99.094506,
+    35.024399
+],
   "geometry": {"coordinates":[-99.094506,35.024399],"type":"Point"}
 }

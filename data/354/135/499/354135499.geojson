@@ -2,13 +2,14 @@
   "id": 354135499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.430942,35.451318,-97.430942,35.451318",
     "geom:latitude":35.451318,
     "geom:longitude":-97.430942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1033 Vickie Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354135499,
-    "wof:lastmodified":1449066570,
+    "wof:lastmodified":1466763641,
     "wof:name":"Cooper Shaklee Center",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "food"
     ]
 },
-  "bbox": [-97.430942,35.451318,-97.430942,35.451318],
+  "bbox": [
+    -97.430942,
+    35.451318,
+    -97.430942,
+    35.451318
+],
   "geometry": {"coordinates":[-97.430942,35.451318],"type":"Point"}
 }

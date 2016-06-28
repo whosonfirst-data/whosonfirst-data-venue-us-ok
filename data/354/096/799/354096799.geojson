@@ -2,13 +2,14 @@
   "id": 354096799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.37045,35.171429,-97.37045,35.171429",
     "geom:latitude":35.171429,
     "geom:longitude":-97.37045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3925 48th Ave SE",
     "sg:city":"Noble",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354096799,
-    "wof:lastmodified":1449066468,
+    "wof:lastmodified":1466763499,
     "wof:name":"Continental Telecorp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.37045,35.171429,-97.37045,35.171429],
-  "geometry": {"coordinates":[-97.37045,35.171429],"type":"Point"}
+  "bbox": [
+    -97.37045,
+    35.171429,
+    -97.37045,
+    35.171429
+],
+  "geometry": {"coordinates":[-97.37045000000001,35.171429],"type":"Point"}
 }

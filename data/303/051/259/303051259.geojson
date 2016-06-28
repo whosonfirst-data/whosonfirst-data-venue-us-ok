@@ -2,13 +2,14 @@
   "id": 303051259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.890195,36.387194,-97.890195,36.387194",
     "geom:latitude":36.387194,
     "geom:longitude":-97.890195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 S Van Buren St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303051259,
-    "wof:lastmodified":1448999629,
+    "wof:lastmodified":1466762441,
     "wof:name":"Dolly Madison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.890195,36.387194,-97.890195,36.387194],
-  "geometry": {"coordinates":[-97.890195,36.387194],"type":"Point"}
+  "bbox": [
+    -97.890195,
+    36.387194,
+    -97.890195,
+    36.387194
+],
+  "geometry": {"coordinates":[-97.89019500000001,36.387194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303230459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.985555,36.001375,-95.985555,36.001375",
     "geom:latitude":36.001375,
     "geom:longitude":-95.985555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1262 W 112th St S",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303230459,
-    "wof:lastmodified":1448999933,
+    "wof:lastmodified":1466764457,
     "wof:name":"Bent Creek Inc",
     "wof:parent_id":85854757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-95.985555,36.001375,-95.985555,36.001375],
-  "geometry": {"coordinates":[-95.985555,36.001375],"type":"Point"}
+  "bbox": [
+    -95.985555,
+    36.001375,
+    -95.985555,
+    36.001375
+],
+  "geometry": {"coordinates":[-95.98555500000001,36.001375],"type":"Point"}
 }

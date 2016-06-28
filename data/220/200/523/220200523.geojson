@@ -2,13 +2,14 @@
   "id": 220200523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.868128,36.075439,-95.868128,36.075439",
     "geom:latitude":36.075439,
     "geom:longitude":-95.868128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9721 E 61st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":220200523,
-    "wof:lastmodified":1449074359,
+    "wof:lastmodified":1466762588,
     "wof:name":"Aurora Kennel",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "care"
     ]
 },
-  "bbox": [-95.868128,36.075439,-95.868128,36.075439],
+  "bbox": [
+    -95.868128,
+    36.075439,
+    -95.868128,
+    36.075439
+],
   "geometry": {"coordinates":[-95.868128,36.075439],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320433899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.476772,35.341696,-97.476772,35.341696",
     "geom:latitude":35.341696,
     "geom:longitude":-97.476772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 N Eastern Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320433899,
-    "wof:lastmodified":1449011680,
+    "wof:lastmodified":1466765899,
     "wof:name":"Janet Fanning",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.476772,35.341696,-97.476772,35.341696],
+  "bbox": [
+    -97.476772,
+    35.341696,
+    -97.476772,
+    35.341696
+],
   "geometry": {"coordinates":[-97.476772,35.341696],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336606839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.347081,35.870996,-99.347081,35.870996",
     "geom:latitude":35.870996,
     "geom:longitude":-99.347081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 3rd St",
     "sg:city":"Leedey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336606839,
-    "wof:lastmodified":1448997109,
+    "wof:lastmodified":1466764179,
     "wof:name":"Leedey City Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-99.347081,35.870996,-99.347081,35.870996],
+  "bbox": [
+    -99.347081,
+    35.870996,
+    -99.347081,
+    35.870996
+],
   "geometry": {"coordinates":[-99.347081,35.870996],"type":"Point"}
 }

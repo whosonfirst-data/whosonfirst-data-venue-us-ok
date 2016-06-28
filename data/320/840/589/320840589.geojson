@@ -2,13 +2,14 @@
   "id": 320840589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.518921,35.482293,-97.518921,35.482293",
     "geom:latitude":35.482293,
     "geom:longitude":-97.518921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 NW 13th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320840589,
-    "wof:lastmodified":1449014120,
+    "wof:lastmodified":1466767004,
     "wof:name":"Bullard & Hoehner",
     "wof:parent_id":85871701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.518921,35.482293,-97.518921,35.482293],
-  "geometry": {"coordinates":[-97.518921,35.482293],"type":"Point"}
+  "bbox": [
+    -97.518921,
+    35.482293,
+    -97.518921,
+    35.482293
+],
+  "geometry": {"coordinates":[-97.51892100000001,35.482293],"type":"Point"}
 }

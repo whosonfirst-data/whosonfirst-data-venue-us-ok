@@ -2,13 +2,14 @@
   "id": 353702783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.918536,34.682731,-99.918536,34.682731",
     "geom:latitude":34.682731,
     "geom:longitude":-99.918536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W Jones St",
     "sg:city":"Hollis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353702783,
-    "wof:lastmodified":1449019532,
+    "wof:lastmodified":1466764999,
     "wof:name":"Hollis Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-99.918536,34.682731,-99.918536,34.682731],
+  "bbox": [
+    -99.918536,
+    34.682731,
+    -99.918536,
+    34.682731
+],
   "geometry": {"coordinates":[-99.918536,34.682731],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320195987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.09995,35.028146,-99.09995,35.028146",
     "geom:latitude":35.028146,
     "geom:longitude":-99.09995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S Lowe St",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320195987,
-    "wof:lastmodified":1449013724,
+    "wof:lastmodified":1466764574,
     "wof:name":"Joan Johnston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-99.09995,35.028146,-99.09995,35.028146],
-  "geometry": {"coordinates":[-99.09995,35.028146],"type":"Point"}
+  "bbox": [
+    -99.09995,
+    35.028146,
+    -99.09995,
+    35.028146
+],
+  "geometry": {"coordinates":[-99.09995000000001,35.028146],"type":"Point"}
 }

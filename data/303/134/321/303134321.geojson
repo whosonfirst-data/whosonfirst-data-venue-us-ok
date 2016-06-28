@@ -2,13 +2,14 @@
   "id": 303134321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.907254,36.160825,-95.907254,36.160825",
     "geom:latitude":36.160825,
     "geom:longitude":-95.907254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6151 E Admiral Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303134321,
-    "wof:lastmodified":1449000429,
+    "wof:lastmodified":1466763794,
     "wof:name":"MISI Go Kart Racing",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "racing"
     ]
 },
-  "bbox": [-95.907254,36.160825,-95.907254,36.160825],
-  "geometry": {"coordinates":[-95.907254,36.160825],"type":"Point"}
+  "bbox": [
+    -95.907254,
+    36.160825,
+    -95.907254,
+    36.160825
+],
+  "geometry": {"coordinates":[-95.90725399999999,36.160825],"type":"Point"}
 }

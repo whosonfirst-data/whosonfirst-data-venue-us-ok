@@ -2,13 +2,14 @@
   "id": 336904697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.50483,35.621024,-97.50483,35.621024",
     "geom:latitude":35.621024,
     "geom:longitude":-97.50483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13900 N Lincoln Blvd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336904697,
-    "wof:lastmodified":1448998044,
+    "wof:lastmodified":1466765242,
     "wof:name":"Nestle Purina Factory",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "prepared"
     ]
 },
-  "bbox": [-97.50483,35.621024,-97.50483,35.621024],
+  "bbox": [
+    -97.50483,
+    35.621024,
+    -97.50483,
+    35.621024
+],
   "geometry": {"coordinates":[-97.50483,35.621024],"type":"Point"}
 }

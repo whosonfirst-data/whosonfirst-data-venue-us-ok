@@ -2,13 +2,14 @@
   "id": 303201919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.796193,36.028191,-95.796193,36.028191",
     "geom:latitude":36.028191,
     "geom:longitude":-95.796193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 W Boston St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303201919,
-    "wof:lastmodified":1449000238,
+    "wof:lastmodified":1466764445,
     "wof:name":"Royal Langford T-DC",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.796193,36.028191,-95.796193,36.028191],
+  "bbox": [
+    -95.796193,
+    36.028191,
+    -95.796193,
+    36.028191
+],
   "geometry": {"coordinates":[-95.796193,36.028191],"type":"Point"}
 }

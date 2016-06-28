@@ -2,13 +2,14 @@
   "id": 303549875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.011237,35.300509,-97.011237,35.300509",
     "geom:latitude":35.300509,
     "geom:longitude":-97.011237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Greenfield Dr",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303549875,
-    "wof:lastmodified":1448998785,
+    "wof:lastmodified":1466766046,
     "wof:name":"Jimmy Farris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.011237,35.300509,-97.011237,35.300509],
-  "geometry": {"coordinates":[-97.011237,35.300509],"type":"Point"}
+  "bbox": [
+    -97.011237,
+    35.300509,
+    -97.011237,
+    35.300509
+],
+  "geometry": {"coordinates":[-97.01123699999999,35.300509],"type":"Point"}
 }

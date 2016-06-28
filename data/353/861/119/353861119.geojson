@@ -2,13 +2,14 @@
   "id": 353861119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.618759,35.456126,-97.618759,35.456126",
     "geom:latitude":35.456126,
     "geom:longitude":-97.618759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 S Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353861119,
-    "wof:lastmodified":1449020766,
+    "wof:lastmodified":1466765550,
     "wof:name":"Hahn Trailer & Container Rntls",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trailer"
     ]
 },
-  "bbox": [-97.618759,35.456126,-97.618759,35.456126],
+  "bbox": [
+    -97.618759,
+    35.456126,
+    -97.618759,
+    35.456126
+],
   "geometry": {"coordinates":[-97.618759,35.456126],"type":"Point"}
 }

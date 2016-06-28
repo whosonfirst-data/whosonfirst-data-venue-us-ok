@@ -2,13 +2,14 @@
   "id": 303429419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.614725,35.586239,-97.614725,35.586239",
     "geom:latitude":35.586239,
     "geom:longitude":-97.614725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 NW 114th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303429419,
-    "wof:lastmodified":1449000436,
+    "wof:lastmodified":1466765483,
     "wof:name":"Don's Collision Repair",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-97.614725,35.586239,-97.614725,35.586239],
-  "geometry": {"coordinates":[-97.614725,35.586239],"type":"Point"}
+  "bbox": [
+    -97.614725,
+    35.586239,
+    -97.614725,
+    35.586239
+],
+  "geometry": {"coordinates":[-97.61472500000001,35.586239],"type":"Point"}
 }

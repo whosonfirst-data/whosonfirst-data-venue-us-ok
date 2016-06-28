@@ -2,13 +2,14 @@
   "id": 336914609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.498156,35.567204,-97.498156,35.567204",
     "geom:latitude":35.567204,
     "geom:longitude":-97.498156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Cedar Lake Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336914609,
-    "wof:lastmodified":1448997357,
+    "wof:lastmodified":1466765275,
     "wof:name":"Neimann General Agency",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.498156,35.567204,-97.498156,35.567204],
-  "geometry": {"coordinates":[-97.498156,35.567204],"type":"Point"}
+  "bbox": [
+    -97.498156,
+    35.567204,
+    -97.498156,
+    35.567204
+],
+  "geometry": {"coordinates":[-97.49815599999999,35.567204],"type":"Point"}
 }

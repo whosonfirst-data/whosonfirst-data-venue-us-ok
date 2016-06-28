@@ -2,13 +2,14 @@
   "id": 320698209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.383209,34.637912,-98.383209,34.637912",
     "geom:latitude":34.637912,
     "geom:longitude":-98.383209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 NE Rogers Ln",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320698209,
-    "wof:lastmodified":1449014733,
+    "wof:lastmodified":1466766620,
     "wof:name":"James Upholstery",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.383209,34.637912,-98.383209,34.637912],
-  "geometry": {"coordinates":[-98.383209,34.637912],"type":"Point"}
+  "bbox": [
+    -98.383209,
+    34.637912,
+    -98.383209,
+    34.637912
+],
+  "geometry": {"coordinates":[-98.38320899999999,34.637912],"type":"Point"}
 }

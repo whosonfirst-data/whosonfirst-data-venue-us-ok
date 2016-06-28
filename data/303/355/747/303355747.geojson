@@ -2,13 +2,14 @@
   "id": 303355747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.319388,35.464135,-97.319388,35.464135",
     "geom:latitude":35.464135,
     "geom:longitude":-97.319388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11751 E Reno Ave",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303355747,
-    "wof:lastmodified":1448998793,
+    "wof:lastmodified":1466765092,
     "wof:name":"Allen Drilling Co",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-97.319388,35.464135,-97.319388,35.464135],
+  "bbox": [
+    -97.319388,
+    35.464135,
+    -97.319388,
+    35.464135
+],
   "geometry": {"coordinates":[-97.319388,35.464135],"type":"Point"}
 }

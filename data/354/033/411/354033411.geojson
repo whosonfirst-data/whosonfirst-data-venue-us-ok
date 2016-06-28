@@ -2,13 +2,14 @@
   "id": 354033411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.994673,35.447018,-95.994673,35.447018",
     "geom:latitude":35.447018,
     "geom:longitude":-95.994673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 Grandview Dr",
     "sg:city":"Henryetta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354033411,
-    "wof:lastmodified":1449066281,
+    "wof:lastmodified":1466763160,
     "wof:name":"Owen Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-95.994673,35.447018,-95.994673,35.447018],
-  "geometry": {"coordinates":[-95.994673,35.447018],"type":"Point"}
+  "bbox": [
+    -95.994673,
+    35.447018,
+    -95.994673,
+    35.447018
+],
+  "geometry": {"coordinates":[-95.99467300000001,35.447018],"type":"Point"}
 }

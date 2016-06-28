@@ -2,13 +2,14 @@
   "id": 303387897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.116667,36.113701,-96.116667,36.113701",
     "geom:latitude":36.113701,
     "geom:longitude":-96.116667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 E 34th St",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303387897,
-    "wof:lastmodified":1449000235,
+    "wof:lastmodified":1466765259,
     "wof:name":"Mary Jo Evans",
     "wof:parent_id":85843055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.116667,36.113701,-96.116667,36.113701],
-  "geometry": {"coordinates":[-96.116667,36.113701],"type":"Point"}
+  "bbox": [
+    -96.116667,
+    36.113701,
+    -96.116667,
+    36.113701
+],
+  "geometry": {"coordinates":[-96.11666700000001,36.113701],"type":"Point"}
 }

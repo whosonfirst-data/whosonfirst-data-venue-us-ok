@@ -2,13 +2,14 @@
   "id": 303118999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.431835,35.381119,-97.431835,35.381119",
     "geom:latitude":35.381119,
     "geom:longitude":-97.431835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8404 Woodbend Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303118999,
-    "wof:lastmodified":1449000098,
+    "wof:lastmodified":1466763542,
     "wof:name":"Herbalife",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "diet"
     ]
 },
-  "bbox": [-97.431835,35.381119,-97.431835,35.381119],
-  "geometry": {"coordinates":[-97.431835,35.381119],"type":"Point"}
+  "bbox": [
+    -97.431835,
+    35.381119,
+    -97.431835,
+    35.381119
+],
+  "geometry": {"coordinates":[-97.43183500000001,35.381119],"type":"Point"}
 }

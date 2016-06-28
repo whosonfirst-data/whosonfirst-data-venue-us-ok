@@ -2,13 +2,14 @@
   "id": 353544989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.856577,36.174284,-95.856577,36.174284",
     "geom:latitude":36.174284,
     "geom:longitude":-95.856577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10845 E Newton Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353544989,
-    "wof:lastmodified":1449020793,
+    "wof:lastmodified":1466764221,
     "wof:name":"Alpha Pickup & Delivery",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-95.856577,36.174284,-95.856577,36.174284],
+  "bbox": [
+    -95.856577,
+    36.174284,
+    -95.856577,
+    36.174284
+],
   "geometry": {"coordinates":[-95.856577,36.174284],"type":"Point"}
 }

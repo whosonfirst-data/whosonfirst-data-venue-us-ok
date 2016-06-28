@@ -2,13 +2,14 @@
   "id": 220187747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.797191,36.163291,-95.797191,36.163291",
     "geom:latitude":36.163291,
     "geom:longitude":-95.797191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16200 E Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220187747,
-    "wof:lastmodified":1449074153,
+    "wof:lastmodified":1466762396,
     "wof:name":"Oklahoma Welcome Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attraction"
     ]
 },
-  "bbox": [-95.797191,36.163291,-95.797191,36.163291],
+  "bbox": [
+    -95.797191,
+    36.163291,
+    -95.797191,
+    36.163291
+],
   "geometry": {"coordinates":[-95.797191,36.163291],"type":"Point"}
 }

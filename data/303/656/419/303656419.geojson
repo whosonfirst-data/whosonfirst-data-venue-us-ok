@@ -2,13 +2,14 @@
   "id": 303656419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.884234,36.312699,-95.884234,36.312699",
     "geom:latitude":36.312699,
     "geom:longitude":-95.884234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11212 N Memorial Dr",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303656419,
-    "wof:lastmodified":1448999713,
+    "wof:lastmodified":1466766388,
     "wof:name":"David's Electrical Svc",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.884234,36.312699,-95.884234,36.312699],
-  "geometry": {"coordinates":[-95.884234,36.312699],"type":"Point"}
+  "bbox": [
+    -95.884234,
+    36.312699,
+    -95.884234,
+    36.312699
+],
+  "geometry": {"coordinates":[-95.88423400000001,36.312699],"type":"Point"}
 }

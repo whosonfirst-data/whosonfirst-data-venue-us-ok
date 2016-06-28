@@ -2,13 +2,14 @@
   "id": 303527569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.57184,35.5926,-97.57184,35.5926",
     "geom:latitude":35.5926,
     "geom:longitude":-97.57184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3017 Pine Ridge Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303527569,
-    "wof:lastmodified":1449000062,
+    "wof:lastmodified":1466765956,
     "wof:name":"Billy H Stout MD Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.57184,35.5926,-97.57184,35.5926],
-  "geometry": {"coordinates":[-97.57184,35.5926],"type":"Point"}
+  "bbox": [
+    -97.57184,
+    35.5926,
+    -97.57184,
+    35.5926
+],
+  "geometry": {"coordinates":[-97.57183999999999,35.5926],"type":"Point"}
 }

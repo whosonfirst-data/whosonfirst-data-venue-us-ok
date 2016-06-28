@@ -2,13 +2,14 @@
   "id": 304048519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976362,35.4399,-95.976362,35.4399",
     "geom:latitude":35.4399,
     "geom:longitude":-95.976362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 E Main St",
     "sg:city":"Henryetta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":304048519,
-    "wof:lastmodified":1449043760,
+    "wof:lastmodified":1466763100,
     "wof:name":"Subway Sandwiches & Salads",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.976362,35.4399,-95.976362,35.4399],
-  "geometry": {"coordinates":[-95.976362,35.4399],"type":"Point"}
+  "bbox": [
+    -95.976362,
+    35.4399,
+    -95.976362,
+    35.4399
+],
+  "geometry": {"coordinates":[-95.97636199999999,35.4399],"type":"Point"}
 }

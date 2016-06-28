@@ -2,13 +2,14 @@
   "id": 354189329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.81525,36.054529,-95.81525,36.054529",
     "geom:latitude":36.054529,
     "geom:longitude":-95.81525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 N Aspen Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354189329,
-    "wof:lastmodified":1449067157,
+    "wof:lastmodified":1466763852,
     "wof:name":"Just Tint Ect",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tinting"
     ]
 },
-  "bbox": [-95.81525,36.054529,-95.81525,36.054529],
-  "geometry": {"coordinates":[-95.81525,36.054529],"type":"Point"}
+  "bbox": [
+    -95.81525,
+    36.054529,
+    -95.81525,
+    36.054529
+],
+  "geometry": {"coordinates":[-95.81525000000001,36.054529],"type":"Point"}
 }

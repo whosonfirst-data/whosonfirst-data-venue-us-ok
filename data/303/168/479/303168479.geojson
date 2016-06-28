@@ -2,13 +2,14 @@
   "id": 303168479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.958936,36.147679,-95.958936,36.147679",
     "geom:latitude":36.147679,
     "geom:longitude":-95.958936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 E 11th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":303168479,
-    "wof:lastmodified":1448999398,
+    "wof:lastmodified":1466764283,
     "wof:name":"Mattress Factory The",
     "wof:parent_id":85872489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mattress"
     ]
 },
-  "bbox": [-95.958936,36.147679,-95.958936,36.147679],
-  "geometry": {"coordinates":[-95.958936,36.147679],"type":"Point"}
+  "bbox": [
+    -95.958936,
+    36.147679,
+    -95.958936,
+    36.147679
+],
+  "geometry": {"coordinates":[-95.95893599999999,36.147679],"type":"Point"}
 }

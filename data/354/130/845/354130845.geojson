@@ -2,13 +2,14 @@
   "id": 354130845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.399885,35.762487,-97.399885,35.762487",
     "geom:latitude":35.762487,
     "geom:longitude":-97.399885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11201 Tracy Trl",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354130845,
-    "wof:lastmodified":1449066498,
+    "wof:lastmodified":1466763626,
     "wof:name":"Bugs R Us",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.399885,35.762487,-97.399885,35.762487],
+  "bbox": [
+    -97.399885,
+    35.762487,
+    -97.399885,
+    35.762487
+],
   "geometry": {"coordinates":[-97.399885,35.762487],"type":"Point"}
 }

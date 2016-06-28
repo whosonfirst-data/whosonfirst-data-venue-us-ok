@@ -2,13 +2,14 @@
   "id": 320349641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.799545,36.011297,-95.799545,36.011297",
     "geom:latitude":36.011297,
     "geom:longitude":-95.799545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 W Twin Oaks Dr",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320349641,
-    "wof:lastmodified":1449012694,
+    "wof:lastmodified":1466765352,
     "wof:name":"Watts Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.799545,36.011297,-95.799545,36.011297],
-  "geometry": {"coordinates":[-95.799545,36.011297],"type":"Point"}
+  "bbox": [
+    -95.799545,
+    36.011297,
+    -95.799545,
+    36.011297
+],
+  "geometry": {"coordinates":[-95.79954499999999,36.011297],"type":"Point"}
 }

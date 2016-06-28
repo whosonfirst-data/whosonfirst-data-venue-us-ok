@@ -2,13 +2,14 @@
   "id": 354136949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.068205,36.115353,-97.068205,36.115353",
     "geom:latitude":36.115353,
     "geom:longitude":-97.068205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 S Ramsey St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354136949,
-    "wof:lastmodified":1449067656,
+    "wof:lastmodified":1466763649,
     "wof:name":"Mattlock Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communication"
     ]
 },
-  "bbox": [-97.068205,36.115353,-97.068205,36.115353],
-  "geometry": {"coordinates":[-97.068205,36.115353],"type":"Point"}
+  "bbox": [
+    -97.068205,
+    36.115353,
+    -97.068205,
+    36.115353
+],
+  "geometry": {"coordinates":[-97.06820500000001,36.115353],"type":"Point"}
 }

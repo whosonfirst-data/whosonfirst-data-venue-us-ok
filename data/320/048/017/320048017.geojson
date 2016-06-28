@@ -2,13 +2,14 @@
   "id": 320048017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531385,35.551012,-97.531385,35.551012",
     "geom:latitude":35.551012,
     "geom:longitude":-97.531385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7640 N Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320048017,
-    "wof:lastmodified":1449012573,
+    "wof:lastmodified":1466763000,
     "wof:name":"Glimpse",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.531385,35.551012,-97.531385,35.551012],
+  "bbox": [
+    -97.531385,
+    35.551012,
+    -97.531385,
+    35.551012
+],
   "geometry": {"coordinates":[-97.531385,35.551012],"type":"Point"}
 }

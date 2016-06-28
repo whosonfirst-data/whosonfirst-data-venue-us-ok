@@ -2,13 +2,14 @@
   "id": 319841909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.469898,35.618389,-97.469898,35.618389",
     "geom:latitude":35.618389,
     "geom:longitude":-97.469898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3712 Meadow Ln",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319841909,
-    "wof:lastmodified":1449024264,
+    "wof:lastmodified":1466763073,
     "wof:name":"Bill Hanna & Assoc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-97.469898,35.618389,-97.469898,35.618389],
+  "bbox": [
+    -97.469898,
+    35.618389,
+    -97.469898,
+    35.618389
+],
   "geometry": {"coordinates":[-97.469898,35.618389],"type":"Point"}
 }

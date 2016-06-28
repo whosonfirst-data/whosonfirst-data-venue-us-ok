@@ -2,13 +2,14 @@
   "id": 287280913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.657619,35.753271,-96.657619,35.753271",
     "geom:latitude":35.753271,
     "geom:longitude":-96.657619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W 7th St",
     "sg:city":"Stroud",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287280913,
-    "wof:lastmodified":1449001094,
+    "wof:lastmodified":1466763143,
     "wof:name":"Stroud Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.657619,35.753271,-96.657619,35.753271],
+  "bbox": [
+    -96.657619,
+    35.753271,
+    -96.657619,
+    35.753271
+],
   "geometry": {"coordinates":[-96.657619,35.753271],"type":"Point"}
 }

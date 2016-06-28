@@ -2,13 +2,14 @@
   "id": 336714953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.090219,36.709685,-97.090219,36.709685",
     "geom:latitude":36.709685,
     "geom:longitude":-97.090219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 W Highland Ave",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336714953,
-    "wof:lastmodified":1448997486,
+    "wof:lastmodified":1466763951,
     "wof:name":"Highland Spirits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.090219,36.709685,-97.090219,36.709685],
+  "bbox": [
+    -97.090219,
+    36.709685,
+    -97.090219,
+    36.709685
+],
   "geometry": {"coordinates":[-97.090219,36.709685],"type":"Point"}
 }

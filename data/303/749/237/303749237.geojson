@@ -2,13 +2,14 @@
   "id": 303749237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.494606,35.397325,-97.494606,35.397325",
     "geom:latitude":35.397325,
     "geom:longitude":-97.494606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 S I- 35 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303749237,
-    "wof:lastmodified":1448998807,
+    "wof:lastmodified":1466766611,
     "wof:name":"Ace's Club",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-97.494606,35.397325,-97.494606,35.397325],
+  "bbox": [
+    -97.494606,
+    35.397325,
+    -97.494606,
+    35.397325
+],
   "geometry": {"coordinates":[-97.494606,35.397325],"type":"Point"}
 }

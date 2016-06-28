@@ -2,13 +2,14 @@
   "id": 303124081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.624587,35.557038,-97.624587,35.557038",
     "geom:latitude":35.557038,
     "geom:longitude":-97.624587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8512 Arlington Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303124081,
-    "wof:lastmodified":1449000375,
+    "wof:lastmodified":1466763624,
     "wof:name":"Treece Wrecker Svc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-97.624587,35.557038,-97.624587,35.557038],
-  "geometry": {"coordinates":[-97.624587,35.557038],"type":"Point"}
+  "bbox": [
+    -97.624587,
+    35.557038,
+    -97.624587,
+    35.557038
+],
+  "geometry": {"coordinates":[-97.62458700000001,35.557038],"type":"Point"}
 }

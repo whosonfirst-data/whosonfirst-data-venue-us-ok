@@ -2,13 +2,14 @@
   "id": 303359227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.315058,36.19634,-95.315058,36.19634",
     "geom:latitude":36.19634,
     "geom:longitude":-95.315058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 N Osage Ave",
     "sg:city":"Chouteau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303359227,
-    "wof:lastmodified":1448998077,
+    "wof:lastmodified":1466765115,
     "wof:name":"CCB Property Management & Cons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.315058,36.19634,-95.315058,36.19634],
-  "geometry": {"coordinates":[-95.315058,36.19634],"type":"Point"}
+  "bbox": [
+    -95.315058,
+    36.19634,
+    -95.315058,
+    36.19634
+],
+  "geometry": {"coordinates":[-95.31505799999999,36.19634],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303504459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.67713,35.228377,-96.67713,35.228377",
     "geom:latitude":35.228377,
     "geom:longitude":-96.67713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Timmons St",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303504459,
-    "wof:lastmodified":1448998546,
+    "wof:lastmodified":1466765848,
     "wof:name":"Rsvp Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.67713,35.228377,-96.67713,35.228377],
-  "geometry": {"coordinates":[-96.67713,35.228377],"type":"Point"}
+  "bbox": [
+    -96.67713,
+    35.228377,
+    -96.67713,
+    35.228377
+],
+  "geometry": {"coordinates":[-96.67713000000001,35.228377],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303225689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.864985,36.083657,-95.864985,36.083657",
     "geom:latitude":36.083657,
     "geom:longitude":-95.864985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9909 E 55th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303225689,
-    "wof:lastmodified":1448998879,
+    "wof:lastmodified":1466764586,
     "wof:name":"Wholesale Tool Co",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tool"
     ]
 },
-  "bbox": [-95.864985,36.083657,-95.864985,36.083657],
+  "bbox": [
+    -95.864985,
+    36.083657,
+    -95.864985,
+    36.083657
+],
   "geometry": {"coordinates":[-95.864985,36.083657],"type":"Point"}
 }

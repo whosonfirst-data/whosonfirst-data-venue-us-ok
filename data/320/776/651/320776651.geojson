@@ -2,13 +2,14 @@
   "id": 320776651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.018273,36.161352,-96.018273,36.161352",
     "geom:latitude":36.161352,
     "geom:longitude":-96.018273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2319 W Edison St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320776651,
-    "wof:lastmodified":1449012068,
+    "wof:lastmodified":1466766861,
     "wof:name":"Gilcrease Hills Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.018273,36.161352,-96.018273,36.161352],
-  "geometry": {"coordinates":[-96.018273,36.161352],"type":"Point"}
+  "bbox": [
+    -96.018273,
+    36.161352,
+    -96.018273,
+    36.161352
+],
+  "geometry": {"coordinates":[-96.01827299999999,36.161352],"type":"Point"}
 }

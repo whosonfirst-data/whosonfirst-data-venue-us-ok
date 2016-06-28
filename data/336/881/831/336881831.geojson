@@ -2,13 +2,14 @@
   "id": 336881831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.591725,35.542705,-97.591725,35.542705",
     "geom:latitude":35.542705,
     "geom:longitude":-97.591725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7010 N Spinnaker Ln",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336881831,
-    "wof:lastmodified":1448997563,
+    "wof:lastmodified":1466765014,
     "wof:name":"Sterling International Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "environmental"
     ]
 },
-  "bbox": [-97.591725,35.542705,-97.591725,35.542705],
+  "bbox": [
+    -97.591725,
+    35.542705,
+    -97.591725,
+    35.542705
+],
   "geometry": {"coordinates":[-97.591725,35.542705],"type":"Point"}
 }

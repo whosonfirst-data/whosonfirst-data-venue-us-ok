@@ -2,13 +2,14 @@
   "id": 353654491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.619463,34.233081,-95.619463,34.233081",
     "geom:latitude":34.233081,
     "geom:longitude":-95.619463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 NE A St",
     "sg:city":"Antlers",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353654491,
-    "wof:lastmodified":1449019116,
+    "wof:lastmodified":1466764658,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.619463,34.233081,-95.619463,34.233081],
+  "bbox": [
+    -95.619463,
+    34.233081,
+    -95.619463,
+    34.233081
+],
   "geometry": {"coordinates":[-95.619463,34.233081],"type":"Point"}
 }

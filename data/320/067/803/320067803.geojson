@@ -2,13 +2,14 @@
   "id": 320067803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.409861,35.493147,-97.409861,35.493147",
     "geom:latitude":35.493147,
     "geom:longitude":-97.409861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6804 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320067803,
-    "wof:lastmodified":1449011488,
+    "wof:lastmodified":1466763293,
     "wof:name":"Crutcho Auto Sales",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.409861,35.493147,-97.409861,35.493147],
-  "geometry": {"coordinates":[-97.409861,35.493147],"type":"Point"}
+  "bbox": [
+    -97.409861,
+    35.493147,
+    -97.409861,
+    35.493147
+],
+  "geometry": {"coordinates":[-97.40986100000001,35.493147],"type":"Point"}
 }

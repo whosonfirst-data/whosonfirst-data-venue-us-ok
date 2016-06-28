@@ -2,13 +2,14 @@
   "id": 287286163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.285772,36.28726,-97.285772,36.28726",
     "geom:latitude":36.28726,
     "geom:longitude":-97.285772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Delaware St",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":287286163,
-    "wof:lastmodified":1449000888,
+    "wof:lastmodified":1466763224,
     "wof:name":"Morris Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.285772,36.28726,-97.285772,36.28726],
-  "geometry": {"coordinates":[-97.285772,36.28726],"type":"Point"}
+  "bbox": [
+    -97.285772,
+    36.28726,
+    -97.285772,
+    36.28726
+],
+  "geometry": {"coordinates":[-97.28577199999999,36.28726],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303943821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.966745,34.523986,-97.966745,34.523986",
     "geom:latitude":34.523986,
     "geom:longitude":-97.966745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 US Hwy 81",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303943821,
-    "wof:lastmodified":1448998759,
+    "wof:lastmodified":1466767098,
     "wof:name":"Southwest Dolphin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-97.966745,34.523986,-97.966745,34.523986],
+  "bbox": [
+    -97.966745,
+    34.523986,
+    -97.966745,
+    34.523986
+],
   "geometry": {"coordinates":[-97.966745,34.523986],"type":"Point"}
 }

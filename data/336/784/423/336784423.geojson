@@ -2,13 +2,14 @@
   "id": 336784423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.656787,35.583304,-97.656787,35.583304",
     "geom:latitude":35.583304,
     "geom:longitude":-97.656787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11316 Cimarron Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336784423,
-    "wof:lastmodified":1448997651,
+    "wof:lastmodified":1466764462,
     "wof:name":"Greg Burgess Sales",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.656787,35.583304,-97.656787,35.583304],
-  "geometry": {"coordinates":[-97.656787,35.583304],"type":"Point"}
+  "bbox": [
+    -97.656787,
+    35.583304,
+    -97.656787,
+    35.583304
+],
+  "geometry": {"coordinates":[-97.65678699999999,35.583304],"type":"Point"}
 }

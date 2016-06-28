@@ -2,13 +2,14 @@
   "id": 303855703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886558,36.144508,-95.886558,36.144508",
     "geom:latitude":36.144508,
     "geom:longitude":-95.886558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 S Memorial Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303855703,
-    "wof:lastmodified":1448999920,
+    "wof:lastmodified":1466766960,
     "wof:name":"A Plus Printing",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-95.886558,36.144508,-95.886558,36.144508],
-  "geometry": {"coordinates":[-95.886558,36.144508],"type":"Point"}
+  "bbox": [
+    -95.886558,
+    36.144508,
+    -95.886558,
+    36.144508
+],
+  "geometry": {"coordinates":[-95.88655799999999,36.144508],"type":"Point"}
 }

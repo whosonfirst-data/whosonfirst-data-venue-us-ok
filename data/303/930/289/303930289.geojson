@@ -2,13 +2,14 @@
   "id": 303930289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.67205,35.554996,-97.67205,35.554996",
     "geom:latitude":35.554996,
     "geom:longitude":-97.67205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8916 NW 82nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303930289,
-    "wof:lastmodified":1448998897,
+    "wof:lastmodified":1466767094,
     "wof:name":"Starling & Assoc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.67205,35.554996,-97.67205,35.554996],
+  "bbox": [
+    -97.67205,
+    35.554996,
+    -97.67205,
+    35.554996
+],
   "geometry": {"coordinates":[-97.67205,35.554996],"type":"Point"}
 }

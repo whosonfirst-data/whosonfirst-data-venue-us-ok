@@ -2,13 +2,14 @@
   "id": 303792149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.43206,36.437659,-99.43206,36.437659",
     "geom:latitude":36.437659,
     "geom:longitude":-99.43206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"924 40th St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303792149,
-    "wof:lastmodified":1448998637,
+    "wof:lastmodified":1466766712,
     "wof:name":"Christian Woodward Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.43206,36.437659,-99.43206,36.437659],
-  "geometry": {"coordinates":[-99.43206,36.437659],"type":"Point"}
+  "bbox": [
+    -99.43206,
+    36.437659,
+    -99.43206,
+    36.437659
+],
+  "geometry": {"coordinates":[-99.43206000000001,36.437659],"type":"Point"}
 }

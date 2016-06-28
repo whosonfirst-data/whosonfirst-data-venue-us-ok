@@ -2,13 +2,14 @@
   "id": 303701243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.125481,35.254205,-95.125481,35.254205",
     "geom:latitude":35.254205,
     "geom:longitude":-95.125481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Main St",
     "sg:city":"Stigler",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303701243,
-    "wof:lastmodified":1449000053,
+    "wof:lastmodified":1466766480,
     "wof:name":"Louis E Striegel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.125481,35.254205,-95.125481,35.254205],
-  "geometry": {"coordinates":[-95.125481,35.254205],"type":"Point"}
+  "bbox": [
+    -95.125481,
+    35.254205,
+    -95.125481,
+    35.254205
+],
+  "geometry": {"coordinates":[-95.12548099999999,35.254205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303241127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.450533,36.578836,-98.450533,36.578836",
     "geom:latitude":36.578836,
     "geom:longitude":-98.450533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 E Main St",
     "sg:city":"Carmen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303241127,
-    "wof:lastmodified":1449000502,
+    "wof:lastmodified":1466764752,
     "wof:name":"Nettie's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.450533,36.578836,-98.450533,36.578836],
-  "geometry": {"coordinates":[-98.450533,36.578836],"type":"Point"}
+  "bbox": [
+    -98.450533,
+    36.578836,
+    -98.450533,
+    36.578836
+],
+  "geometry": {"coordinates":[-98.45053299999999,36.578836],"type":"Point"}
 }

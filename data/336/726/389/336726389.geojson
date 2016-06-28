@@ -2,13 +2,14 @@
   "id": 336726389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.790737,36.05165,-95.790737,36.05165",
     "geom:latitude":36.05165,
     "geom:longitude":-95.790737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Main St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336726389,
-    "wof:lastmodified":1448997664,
+    "wof:lastmodified":1466764121,
     "wof:name":"First National Bank & Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.790737,36.05165,-95.790737,36.05165],
-  "geometry": {"coordinates":[-95.790737,36.05165],"type":"Point"}
+  "bbox": [
+    -95.790737,
+    36.05165,
+    -95.790737,
+    36.05165
+],
+  "geometry": {"coordinates":[-95.79073699999999,36.05165],"type":"Point"}
 }

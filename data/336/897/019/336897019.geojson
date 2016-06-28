@@ -2,13 +2,14 @@
   "id": 336897019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.393701,35.725602,-95.393701,35.725602",
     "geom:latitude":35.725602,
     "geom:longitude":-95.393701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2540 S 24th St W",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336897019,
-    "wof:lastmodified":1448997861,
+    "wof:lastmodified":1466765081,
     "wof:name":"Jelly Bean Jungle",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-95.393701,35.725602,-95.393701,35.725602],
-  "geometry": {"coordinates":[-95.393701,35.725602],"type":"Point"}
+  "bbox": [
+    -95.393701,
+    35.725602,
+    -95.393701,
+    35.725602
+],
+  "geometry": {"coordinates":[-95.39370099999999,35.725602],"type":"Point"}
 }

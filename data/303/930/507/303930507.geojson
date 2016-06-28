@@ -2,13 +2,14 @@
   "id": 303930507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.620278,35.536909,-97.620278,35.536909",
     "geom:latitude":35.536909,
     "geom:longitude":-97.620278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 NW 63rd St",
     "sg:city":"Warr Acres",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303930507,
-    "wof:lastmodified":1448998896,
+    "wof:lastmodified":1466767017,
     "wof:name":"US Post Office",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.620278,35.536909,-97.620278,35.536909],
+  "bbox": [
+    -97.620278,
+    35.536909,
+    -97.620278,
+    35.536909
+],
   "geometry": {"coordinates":[-97.620278,35.536909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319926615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.934499,35.010476,-97.934499,35.010476",
     "geom:latitude":35.010476,
     "geom:longitude":-97.934499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4327 S 4th St",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319926615,
-    "wof:lastmodified":1449024340,
+    "wof:lastmodified":1466763872,
     "wof:name":"Royal Filter Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "filter"
     ]
 },
-  "bbox": [-97.934499,35.010476,-97.934499,35.010476],
+  "bbox": [
+    -97.934499,
+    35.010476,
+    -97.934499,
+    35.010476
+],
   "geometry": {"coordinates":[-97.934499,35.010476],"type":"Point"}
 }

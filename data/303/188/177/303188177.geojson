@@ -2,13 +2,14 @@
   "id": 303188177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.656191,35.952479,-95.656191,35.952479",
     "geom:latitude":35.952479,
     "geom:longitude":-95.656191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 W Chestnut St",
     "sg:city":"Coweta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303188177,
-    "wof:lastmodified":1448999331,
+    "wof:lastmodified":1466764367,
     "wof:name":"William Kilgore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.656191,35.952479,-95.656191,35.952479],
-  "geometry": {"coordinates":[-95.656191,35.952479],"type":"Point"}
+  "bbox": [
+    -95.656191,
+    35.952479,
+    -95.656191,
+    35.952479
+],
+  "geometry": {"coordinates":[-95.65619100000001,35.952479],"type":"Point"}
 }

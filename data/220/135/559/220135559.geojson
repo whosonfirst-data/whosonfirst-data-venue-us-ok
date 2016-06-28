@@ -2,13 +2,14 @@
   "id": 220135559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.499488,35.646804,-97.499488,35.646804",
     "geom:latitude":35.646804,
     "geom:longitude":-97.499488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 Lambeth Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":220135559,
-    "wof:lastmodified":1449074343,
+    "wof:lastmodified":1466762803,
     "wof:name":"Anderson Painting & Decorating",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "decorator"
     ]
 },
-  "bbox": [-97.499488,35.646804,-97.499488,35.646804],
+  "bbox": [
+    -97.499488,
+    35.646804,
+    -97.499488,
+    35.646804
+],
   "geometry": {"coordinates":[-97.499488,35.646804],"type":"Point"}
 }

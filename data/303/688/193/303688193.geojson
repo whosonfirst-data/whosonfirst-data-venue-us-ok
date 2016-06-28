@@ -2,13 +2,14 @@
   "id": 303688193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.749727,35.984945,-96.749727,35.984945",
     "geom:latitude":35.984945,
     "geom:longitude":-96.749727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1407 E Main St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303688193,
-    "wof:lastmodified":1448999030,
+    "wof:lastmodified":1466766451,
     "wof:name":"Sugar Barrel Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.749727,35.984945,-96.749727,35.984945],
-  "geometry": {"coordinates":[-96.749727,35.984945],"type":"Point"}
+  "bbox": [
+    -96.749727,
+    35.984945,
+    -96.749727,
+    35.984945
+],
+  "geometry": {"coordinates":[-96.74972699999999,35.984945],"type":"Point"}
 }

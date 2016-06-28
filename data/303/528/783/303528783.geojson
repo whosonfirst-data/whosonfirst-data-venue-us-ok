@@ -2,13 +2,14 @@
   "id": 303528783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.396752,36.433716,-99.396752,36.433716",
     "geom:latitude":36.433716,
     "geom:longitude":-99.396752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Oklahoma Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303528783,
-    "wof:lastmodified":1448998767,
+    "wof:lastmodified":1466765960,
     "wof:name":"Living Word Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-99.396752,36.433716,-99.396752,36.433716],
-  "geometry": {"coordinates":[-99.396752,36.433716],"type":"Point"}
+  "bbox": [
+    -99.396752,
+    36.433716,
+    -99.396752,
+    36.433716
+],
+  "geometry": {"coordinates":[-99.39675200000001,36.433716],"type":"Point"}
 }

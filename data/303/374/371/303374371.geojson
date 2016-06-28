@@ -2,13 +2,14 @@
   "id": 303374371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.662904,35.743846,-96.662904,35.743846",
     "geom:latitude":35.743846,
     "geom:longitude":-96.662904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 S 8th Ave",
     "sg:city":"Stroud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303374371,
-    "wof:lastmodified":1448999186,
+    "wof:lastmodified":1466765309,
     "wof:name":"Cherokee Exploration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.662904,35.743846,-96.662904,35.743846],
+  "bbox": [
+    -96.662904,
+    35.743846,
+    -96.662904,
+    35.743846
+],
   "geometry": {"coordinates":[-96.662904,35.743846],"type":"Point"}
 }

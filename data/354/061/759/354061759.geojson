@@ -2,13 +2,14 @@
   "id": 354061759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.789435,35.333038,-96.789435,35.333038",
     "geom:latitude":35.333038,
     "geom:longitude":-96.789435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48902 Hwy 3 E",
     "sg:city":"Earlsboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":354061759,
-    "wof:lastmodified":1449067192,
+    "wof:lastmodified":1466763354,
     "wof:name":"Lee's Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.789435,35.333038,-96.789435,35.333038],
+  "bbox": [
+    -96.789435,
+    35.333038,
+    -96.789435,
+    35.333038
+],
   "geometry": {"coordinates":[-96.789435,35.333038],"type":"Point"}
 }

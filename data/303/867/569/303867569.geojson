@@ -2,13 +2,14 @@
   "id": 303867569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.353753,35.609223,-97.353753,35.609223",
     "geom:latitude":35.609223,
     "geom:longitude":-97.353753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10409 E Memorial Rd",
     "sg:city":"Jones",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303867569,
-    "wof:lastmodified":1448999176,
+    "wof:lastmodified":1466766897,
     "wof:name":"Delta Air Lines Inc",
     "wof:parent_id":85829129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-97.353753,35.609223,-97.353753,35.609223],
+  "bbox": [
+    -97.353753,
+    35.609223,
+    -97.353753,
+    35.609223
+],
   "geometry": {"coordinates":[-97.353753,35.609223],"type":"Point"}
 }

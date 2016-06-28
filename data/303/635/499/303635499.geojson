@@ -2,13 +2,14 @@
   "id": 303635499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.539362,35.456962,-97.539362,35.456962",
     "geom:latitude":35.456962,
     "geom:longitude":-97.539362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Exchange Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303635499,
-    "wof:lastmodified":1448999177,
+    "wof:lastmodified":1466766204,
     "wof:name":"ABC Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roofing"
     ]
 },
-  "bbox": [-97.539362,35.456962,-97.539362,35.456962],
+  "bbox": [
+    -97.539362,
+    35.456962,
+    -97.539362,
+    35.456962
+],
   "geometry": {"coordinates":[-97.539362,35.456962],"type":"Point"}
 }

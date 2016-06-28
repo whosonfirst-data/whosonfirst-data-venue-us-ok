@@ -2,13 +2,14 @@
   "id": 303380629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.965277,34.480142,-97.965277,34.480142",
     "geom:latitude":34.480142,
     "geom:longitude":-97.965277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 US Hwy 81",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303380629,
-    "wof:lastmodified":1448999254,
+    "wof:lastmodified":1466765224,
     "wof:name":"T R Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.965277,34.480142,-97.965277,34.480142],
+  "bbox": [
+    -97.965277,
+    34.480142,
+    -97.965277,
+    34.480142
+],
   "geometry": {"coordinates":[-97.965277,34.480142],"type":"Point"}
 }

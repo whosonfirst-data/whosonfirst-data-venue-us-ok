@@ -2,13 +2,14 @@
   "id": 320450405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.586622,35.459602,-97.586622,35.459602",
     "geom:latitude":35.459602,
     "geom:longitude":-97.586622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4050 W I- 40 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320450405,
-    "wof:lastmodified":1449014403,
+    "wof:lastmodified":1466765828,
     "wof:name":"Hodges Mc Atee Truck Ctr",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-97.586622,35.459602,-97.586622,35.459602],
-  "geometry": {"coordinates":[-97.586622,35.459602],"type":"Point"}
+  "bbox": [
+    -97.586622,
+    35.459602,
+    -97.586622,
+    35.459602
+],
+  "geometry": {"coordinates":[-97.58662200000001,35.459602],"type":"Point"}
 }

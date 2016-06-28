@@ -2,13 +2,14 @@
   "id": 336726213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.443463,35.422827,-97.443463,35.422827",
     "geom:latitude":35.422827,
     "geom:longitude":-97.443463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4205 SE 42nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336726213,
-    "wof:lastmodified":1448997661,
+    "wof:lastmodified":1466764118,
     "wof:name":"Investigations Black Wolf",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-97.443463,35.422827,-97.443463,35.422827],
-  "geometry": {"coordinates":[-97.443463,35.422827],"type":"Point"}
+  "bbox": [
+    -97.443463,
+    35.422827,
+    -97.443463,
+    35.422827
+],
+  "geometry": {"coordinates":[-97.44346299999999,35.422827],"type":"Point"}
 }

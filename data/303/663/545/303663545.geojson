@@ -2,13 +2,14 @@
   "id": 303663545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.521109,35.464449,-97.521109,35.464449",
     "geom:latitude":35.464449,
     "geom:longitude":-97.521109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 S Walker Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303663545,
-    "wof:lastmodified":1448999918,
+    "wof:lastmodified":1466766316,
     "wof:name":"Grubbs Shaw Reporting",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "reporter"
     ]
 },
-  "bbox": [-97.521109,35.464449,-97.521109,35.464449],
+  "bbox": [
+    -97.521109,
+    35.464449,
+    -97.521109,
+    35.464449
+],
   "geometry": {"coordinates":[-97.521109,35.464449],"type":"Point"}
 }

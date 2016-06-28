@@ -2,13 +2,14 @@
   "id": 303908225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.353886,36.399892,-99.353886,36.399892",
     "geom:latitude":36.399892,
     "geom:longitude":-99.353886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 Hunter Rd",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303908225,
-    "wof:lastmodified":1448999508,
+    "wof:lastmodified":1466766906,
     "wof:name":"Pride Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-99.353886,36.399892,-99.353886,36.399892],
+  "bbox": [
+    -99.353886,
+    36.399892,
+    -99.353886,
+    36.399892
+],
   "geometry": {"coordinates":[-99.353886,36.399892],"type":"Point"}
 }

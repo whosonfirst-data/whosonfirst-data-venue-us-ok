@@ -2,13 +2,14 @@
   "id": 336769549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480345,35.645493,-97.480345,35.645493",
     "geom:latitude":35.645493,
     "geom:longitude":-97.480345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 E 9th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336769549,
-    "wof:lastmodified":1448997291,
+    "wof:lastmodified":1466764419,
     "wof:name":"Studio 9",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.480345,35.645493,-97.480345,35.645493],
+  "bbox": [
+    -97.480345,
+    35.645493,
+    -97.480345,
+    35.645493
+],
   "geometry": {"coordinates":[-97.480345,35.645493],"type":"Point"}
 }

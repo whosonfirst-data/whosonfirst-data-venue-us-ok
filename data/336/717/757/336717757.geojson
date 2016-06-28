@@ -2,13 +2,14 @@
   "id": 336717757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.061304,36.127751,-97.061304,36.127751",
     "geom:latitude":36.127751,
     "geom:longitude":-97.061304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 W Scott Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336717757,
-    "wof:lastmodified":1448996940,
+    "wof:lastmodified":1466763992,
     "wof:name":"Department of Geography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "university"
     ]
 },
-  "bbox": [-97.061304,36.127751,-97.061304,36.127751],
-  "geometry": {"coordinates":[-97.061304,36.127751],"type":"Point"}
+  "bbox": [
+    -97.061304,
+    36.127751,
+    -97.061304,
+    36.127751
+],
+  "geometry": {"coordinates":[-97.06130400000001,36.127751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303404311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.972288,36.147816,-95.972288,36.147816",
     "geom:latitude":36.147816,
     "geom:longitude":-95.972288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 E 11th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303404311,
-    "wof:lastmodified":1448999741,
+    "wof:lastmodified":1466765452,
     "wof:name":"Oil Capital Radiator Inc",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "repair"
     ]
 },
-  "bbox": [-95.972288,36.147816,-95.972288,36.147816],
-  "geometry": {"coordinates":[-95.972288,36.147816],"type":"Point"}
+  "bbox": [
+    -95.972288,
+    36.147816,
+    -95.972288,
+    36.147816
+],
+  "geometry": {"coordinates":[-95.97228800000001,36.147816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287132633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.979908,36.129796,-95.979908,36.129796",
     "geom:latitude":36.129796,
     "geom:longitude":-95.979908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 E 24th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287132633,
-    "wof:lastmodified":1449001087,
+    "wof:lastmodified":1466763614,
     "wof:name":"Zeldas Warehouse",
     "wof:parent_id":85872479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "designing"
     ]
 },
-  "bbox": [-95.979908,36.129796,-95.979908,36.129796],
-  "geometry": {"coordinates":[-95.979908,36.129796],"type":"Point"}
+  "bbox": [
+    -95.979908,
+    36.129796,
+    -95.979908,
+    36.129796
+],
+  "geometry": {"coordinates":[-95.97990799999999,36.129796],"type":"Point"}
 }

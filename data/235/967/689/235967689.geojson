@@ -2,13 +2,14 @@
   "id": 235967689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.630344,35.042675,-94.630344,35.042675",
     "geom:latitude":35.042675,
     "geom:longitude":-94.630344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 S Mckenna St",
     "sg:city":"Poteau",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":235967689,
-    "wof:lastmodified":1449008597,
+    "wof:lastmodified":1466762809,
     "wof:name":"Southern Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "grill"
     ]
 },
-  "bbox": [-94.630344,35.042675,-94.630344,35.042675],
-  "geometry": {"coordinates":[-94.630344,35.042675],"type":"Point"}
+  "bbox": [
+    -94.630344,
+    35.042675,
+    -94.630344,
+    35.042675
+],
+  "geometry": {"coordinates":[-94.63034399999999,35.042675],"type":"Point"}
 }

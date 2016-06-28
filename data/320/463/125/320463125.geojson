@@ -2,13 +2,14 @@
   "id": 320463125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.526783,35.535906,-97.526783,35.535906",
     "geom:latitude":35.535906,
     "geom:longitude":-97.526783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 NW 62nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320463125,
-    "wof:lastmodified":1449013868,
+    "wof:lastmodified":1466765849,
     "wof:name":"Assn For Imago Rltnship Thrphy",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.526783,35.535906,-97.526783,35.535906],
-  "geometry": {"coordinates":[-97.526783,35.535906],"type":"Point"}
+  "bbox": [
+    -97.526783,
+    35.535906,
+    -97.526783,
+    35.535906
+],
+  "geometry": {"coordinates":[-97.52678299999999,35.535906],"type":"Point"}
 }

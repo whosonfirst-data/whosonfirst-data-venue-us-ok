@@ -2,13 +2,14 @@
   "id": 320625255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.470708,35.484566,-97.470708,35.484566",
     "geom:latitude":35.484566,
     "geom:longitude":-97.470708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2255 NE 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320625255,
-    "wof:lastmodified":1449015024,
+    "wof:lastmodified":1466766339,
     "wof:name":"Serenity Outreach Ministries",
     "wof:parent_id":85871683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.470708,35.484566,-97.470708,35.484566],
+  "bbox": [
+    -97.470708,
+    35.484566,
+    -97.470708,
+    35.484566
+],
   "geometry": {"coordinates":[-97.470708,35.484566],"type":"Point"}
 }

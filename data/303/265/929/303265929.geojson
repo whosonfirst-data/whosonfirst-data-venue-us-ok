@@ -2,13 +2,14 @@
   "id": 303265929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.156483,36.141363,-96.156483,36.141363",
     "geom:latitude":36.141363,
     "geom:longitude":-96.156483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14534 W 16th St",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303265929,
-    "wof:lastmodified":1448998950,
+    "wof:lastmodified":1466764790,
     "wof:name":"Mward Company LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.156483,36.141363,-96.156483,36.141363],
-  "geometry": {"coordinates":[-96.156483,36.141363],"type":"Point"}
+  "bbox": [
+    -96.156483,
+    36.141363,
+    -96.156483,
+    36.141363
+],
+  "geometry": {"coordinates":[-96.15648299999999,36.141363],"type":"Point"}
 }

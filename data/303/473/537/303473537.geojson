@@ -2,13 +2,14 @@
   "id": 303473537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77446,34.100154,-96.77446,34.100154",
     "geom:latitude":34.100154,
     "geom:longitude":-96.77446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1036 Ridgeview Dr",
     "sg:city":"Madill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303473537,
-    "wof:lastmodified":1448998623,
+    "wof:lastmodified":1466765846,
     "wof:name":"Madill City Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-96.77446,34.100154,-96.77446,34.100154],
+  "bbox": [
+    -96.77446,
+    34.100154,
+    -96.77446,
+    34.100154
+],
   "geometry": {"coordinates":[-96.77446,34.100154],"type":"Point"}
 }

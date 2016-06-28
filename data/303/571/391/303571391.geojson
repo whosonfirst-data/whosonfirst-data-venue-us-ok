@@ -2,13 +2,14 @@
   "id": 303571391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.989578,35.43658,-95.989578,35.43658",
     "geom:latitude":35.43658,
     "geom:longitude":-95.989578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S 7th St",
     "sg:city":"Henryetta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303571391,
-    "wof:lastmodified":1448999787,
+    "wof:lastmodified":1466766105,
     "wof:name":"Victory Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.989578,35.43658,-95.989578,35.43658],
-  "geometry": {"coordinates":[-95.989578,35.43658],"type":"Point"}
+  "bbox": [
+    -95.989578,
+    35.43658,
+    -95.989578,
+    35.43658
+],
+  "geometry": {"coordinates":[-95.98957799999999,35.43658],"type":"Point"}
 }

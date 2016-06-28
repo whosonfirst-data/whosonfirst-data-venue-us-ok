@@ -2,13 +2,14 @@
   "id": 353613345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.877512,36.893574,-94.877512,36.893574",
     "geom:latitude":36.893574,
     "geom:longitude":-94.877512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 N Main St",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353613345,
-    "wof:lastmodified":1449019450,
+    "wof:lastmodified":1466764446,
     "wof:name":"Dhs/Location 0058 Ottawa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.877512,36.893574,-94.877512,36.893574],
+  "bbox": [
+    -94.877512,
+    36.893574,
+    -94.877512,
+    36.893574
+],
   "geometry": {"coordinates":[-94.877512,36.893574],"type":"Point"}
 }

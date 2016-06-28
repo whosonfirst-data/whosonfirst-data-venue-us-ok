@@ -2,13 +2,14 @@
   "id": 320801095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.600216,35.24923,-97.600216,35.24923",
     "geom:latitude":35.24923,
     "geom:longitude":-97.600216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 N Main St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320801095,
-    "wof:lastmodified":1449014310,
+    "wof:lastmodified":1466766835,
     "wof:name":"Harryman Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.600216,35.24923,-97.600216,35.24923],
+  "bbox": [
+    -97.600216,
+    35.24923,
+    -97.600216,
+    35.24923
+],
   "geometry": {"coordinates":[-97.600216,35.24923],"type":"Point"}
 }

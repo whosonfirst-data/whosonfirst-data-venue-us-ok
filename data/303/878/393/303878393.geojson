@@ -2,13 +2,14 @@
   "id": 303878393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.970657,35.522455,-97.970657,35.522455",
     "geom:latitude":35.522455,
     "geom:longitude":-97.970657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1526 W Elm St",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303878393,
-    "wof:lastmodified":1448999398,
+    "wof:lastmodified":1466766915,
     "wof:name":"Rib Stand",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.970657,35.522455,-97.970657,35.522455],
+  "bbox": [
+    -97.970657,
+    35.522455,
+    -97.970657,
+    35.522455
+],
   "geometry": {"coordinates":[-97.970657,35.522455],"type":"Point"}
 }

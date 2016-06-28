@@ -2,13 +2,14 @@
   "id": 320273863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.523803,35.560507,-97.523803,35.560507",
     "geom:latitude":35.560507,
     "geom:longitude":-97.523803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 NW 88th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320273863,
-    "wof:lastmodified":1449013198,
+    "wof:lastmodified":1466765036,
     "wof:name":"Ouap Daycare",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.523803,35.560507,-97.523803,35.560507],
+  "bbox": [
+    -97.523803,
+    35.560507,
+    -97.523803,
+    35.560507
+],
   "geometry": {"coordinates":[-97.523803,35.560507],"type":"Point"}
 }

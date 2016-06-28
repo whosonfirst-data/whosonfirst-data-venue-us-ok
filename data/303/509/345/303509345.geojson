@@ -2,13 +2,14 @@
   "id": 303509345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.882747,36.396663,-97.882747,36.396663",
     "geom:latitude":36.396663,
     "geom:longitude":-97.882747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Broadway Ave",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303509345,
-    "wof:lastmodified":1448998219,
+    "wof:lastmodified":1466765876,
     "wof:name":"Enid-Symphony Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-97.882747,36.396663,-97.882747,36.396663],
-  "geometry": {"coordinates":[-97.882747,36.396663],"type":"Point"}
+  "bbox": [
+    -97.882747,
+    36.396663,
+    -97.882747,
+    36.396663
+],
+  "geometry": {"coordinates":[-97.88274699999999,36.396663],"type":"Point"}
 }

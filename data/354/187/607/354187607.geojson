@@ -2,13 +2,14 @@
   "id": 354187607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.601037,35.460732,-97.601037,35.460732",
     "geom:latitude":35.460732,
     "geom:longitude":-97.601037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 S Meridian Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354187607,
-    "wof:lastmodified":1449066184,
+    "wof:lastmodified":1466763842,
     "wof:name":"Boomerang Grille",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.601037,35.460732,-97.601037,35.460732],
-  "geometry": {"coordinates":[-97.601037,35.460732],"type":"Point"}
+  "bbox": [
+    -97.601037,
+    35.460732,
+    -97.601037,
+    35.460732
+],
+  "geometry": {"coordinates":[-97.60103700000001,35.460732],"type":"Point"}
 }

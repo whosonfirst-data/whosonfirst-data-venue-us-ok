@@ -2,13 +2,14 @@
   "id": 353986115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565473,35.418233,-97.565473,35.418233",
     "geom:latitude":35.418233,
     "geom:longitude":-97.565473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4650 S May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353986115,
-    "wof:lastmodified":1449020328,
+    "wof:lastmodified":1466765823,
     "wof:name":"Unicomp Outlet",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-97.565473,35.418233,-97.565473,35.418233],
+  "bbox": [
+    -97.565473,
+    35.418233,
+    -97.565473,
+    35.418233
+],
   "geometry": {"coordinates":[-97.565473,35.418233],"type":"Point"}
 }

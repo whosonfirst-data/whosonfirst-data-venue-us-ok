@@ -2,13 +2,14 @@
   "id": 303994523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.352935,36.191182,-95.352935,36.191182",
     "geom:latitude":36.191182,
     "geom:longitude":-95.352935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Spencer St",
     "sg:city":"Chouteau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303994523,
-    "wof:lastmodified":1448998237,
+    "wof:lastmodified":1466767080,
     "wof:name":"Burrow Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.352935,36.191182,-95.352935,36.191182],
+  "bbox": [
+    -95.352935,
+    36.191182,
+    -95.352935,
+    36.191182
+],
   "geometry": {"coordinates":[-95.352935,36.191182],"type":"Point"}
 }

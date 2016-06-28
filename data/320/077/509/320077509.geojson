@@ -2,13 +2,14 @@
   "id": 320077509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.521273,35.475702,-95.521273,35.475702",
     "geom:latitude":35.475702,
     "geom:longitude":-95.521273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 N Broadway St",
     "sg:city":"Checotah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320077509,
-    "wof:lastmodified":1449011849,
+    "wof:lastmodified":1466763439,
     "wof:name":"Beaver Barn Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.521273,35.475702,-95.521273,35.475702],
-  "geometry": {"coordinates":[-95.521273,35.475702],"type":"Point"}
+  "bbox": [
+    -95.521273,
+    35.475702,
+    -95.521273,
+    35.475702
+],
+  "geometry": {"coordinates":[-95.52127299999999,35.475702],"type":"Point"}
 }

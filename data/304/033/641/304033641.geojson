@@ -2,13 +2,14 @@
   "id": 304033641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.546923,35.464303,-97.546923,35.464303",
     "geom:latitude":35.464303,
     "geom:longitude":-97.546923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1845 W Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304033641,
-    "wof:lastmodified":1449043675,
+    "wof:lastmodified":1466763000,
     "wof:name":"LPM Of Oklahoma",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-97.546923,35.464303,-97.546923,35.464303],
-  "geometry": {"coordinates":[-97.546923,35.464303],"type":"Point"}
+  "bbox": [
+    -97.546923,
+    35.464303,
+    -97.546923,
+    35.464303
+],
+  "geometry": {"coordinates":[-97.54692300000001,35.464303],"type":"Point"}
 }

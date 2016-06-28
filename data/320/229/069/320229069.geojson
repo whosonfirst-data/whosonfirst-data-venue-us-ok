@@ -2,13 +2,14 @@
   "id": 320229069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.704252,36.573265,-96.704252,36.573265",
     "geom:latitude":36.573265,
     "geom:longitude":-96.704252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 N Main St",
     "sg:city":"Fairfax",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320229069,
-    "wof:lastmodified":1449014211,
+    "wof:lastmodified":1466764734,
     "wof:name":"Fairfax Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "osteopathic"
     ]
 },
-  "bbox": [-96.704252,36.573265,-96.704252,36.573265],
+  "bbox": [
+    -96.704252,
+    36.573265,
+    -96.704252,
+    36.573265
+],
   "geometry": {"coordinates":[-96.704252,36.573265],"type":"Point"}
 }

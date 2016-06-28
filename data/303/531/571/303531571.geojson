@@ -2,13 +2,14 @@
   "id": 303531571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.449313,35.641345,-97.449313,35.641345",
     "geom:latitude":35.641345,
     "geom:longitude":-97.449313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 Woodford Ct",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303531571,
-    "wof:lastmodified":1448998689,
+    "wof:lastmodified":1466765969,
     "wof:name":"Echo Investment Inc",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.449313,35.641345,-97.449313,35.641345],
+  "bbox": [
+    -97.449313,
+    35.641345,
+    -97.449313,
+    35.641345
+],
   "geometry": {"coordinates":[-97.449313,35.641345],"type":"Point"}
 }

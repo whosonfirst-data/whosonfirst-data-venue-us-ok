@@ -2,13 +2,14 @@
   "id": 320125135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.49438,35.23258,-97.49438,35.23258",
     "geom:latitude":35.23258,
     "geom:longitude":-97.49438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1141 36th Ave NW",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320125135,
-    "wof:lastmodified":1449014834,
+    "wof:lastmodified":1466764175,
     "wof:name":"Kyle R Leisher DDS",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.49438,35.23258,-97.49438,35.23258],
-  "geometry": {"coordinates":[-97.49438,35.23258],"type":"Point"}
+  "bbox": [
+    -97.49438,
+    35.23258,
+    -97.49438,
+    35.23258
+],
+  "geometry": {"coordinates":[-97.49438000000001,35.23258],"type":"Point"}
 }

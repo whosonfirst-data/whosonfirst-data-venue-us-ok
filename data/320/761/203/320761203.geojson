@@ -2,13 +2,14 @@
   "id": 320761203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.016671,36.186705,-96.016671,36.186705",
     "geom:latitude":36.186705,
     "geom:longitude":-96.016671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2214 W Xyler St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320761203,
-    "wof:lastmodified":1449014080,
+    "wof:lastmodified":1466766692,
     "wof:name":"Tim Leslie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.016671,36.186705,-96.016671,36.186705],
+  "bbox": [
+    -96.016671,
+    36.186705,
+    -96.016671,
+    36.186705
+],
   "geometry": {"coordinates":[-96.016671,36.186705],"type":"Point"}
 }

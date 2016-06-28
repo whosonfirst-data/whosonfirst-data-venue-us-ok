@@ -2,13 +2,14 @@
   "id": 320276825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.536697,35.493197,-97.536697,35.493197",
     "geom:latitude":35.493197,
     "geom:longitude":-97.536697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 NW 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320276825,
-    "wof:lastmodified":1449011395,
+    "wof:lastmodified":1466765052,
     "wof:name":"Just Weaves",
     "wof:parent_id":85871681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "weaving"
     ]
 },
-  "bbox": [-97.536697,35.493197,-97.536697,35.493197],
+  "bbox": [
+    -97.536697,
+    35.493197,
+    -97.536697,
+    35.493197
+],
   "geometry": {"coordinates":[-97.536697,35.493197],"type":"Point"}
 }

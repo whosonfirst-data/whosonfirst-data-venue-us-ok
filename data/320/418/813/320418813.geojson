@@ -2,13 +2,14 @@
   "id": 320418813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.696931,36.060809,-95.696931,36.060809",
     "geom:latitude":36.060809,
     "geom:longitude":-95.696931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25101 E 71st St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320418813,
-    "wof:lastmodified":1449014156,
+    "wof:lastmodified":1466765710,
     "wof:name":"Jam Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.696931,36.060809,-95.696931,36.060809],
-  "geometry": {"coordinates":[-95.696931,36.060809],"type":"Point"}
+  "bbox": [
+    -95.696931,
+    36.060809,
+    -95.696931,
+    36.060809
+],
+  "geometry": {"coordinates":[-95.69693100000001,36.060809],"type":"Point"}
 }

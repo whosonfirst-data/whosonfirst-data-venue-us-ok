@@ -2,13 +2,14 @@
   "id": 287229895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.914971,36.162649,-95.914971,36.162649",
     "geom:latitude":36.162649,
     "geom:longitude":-95.914971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5505 E Archer St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287229895,
-    "wof:lastmodified":1449001371,
+    "wof:lastmodified":1466762376,
     "wof:name":"London Towne Chimney Svc",
     "wof:parent_id":85813737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "flue"
     ]
 },
-  "bbox": [-95.914971,36.162649,-95.914971,36.162649],
-  "geometry": {"coordinates":[-95.914971,36.162649],"type":"Point"}
+  "bbox": [
+    -95.914971,
+    36.162649,
+    -95.914971,
+    36.162649
+],
+  "geometry": {"coordinates":[-95.91497099999999,36.162649],"type":"Point"}
 }

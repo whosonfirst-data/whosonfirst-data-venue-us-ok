@@ -2,13 +2,14 @@
   "id": 353584329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.592228,35.475212,-97.592228,35.475212",
     "geom:latitude":35.475212,
     "geom:longitude":-97.592228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 N Tulsa Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353584329,
-    "wof:lastmodified":1449018528,
+    "wof:lastmodified":1466764298,
     "wof:name":"Anchor Inn Mobile Home Park",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-97.592228,35.475212,-97.592228,35.475212],
-  "geometry": {"coordinates":[-97.592228,35.475212],"type":"Point"}
+  "bbox": [
+    -97.592228,
+    35.475212,
+    -97.592228,
+    35.475212
+],
+  "geometry": {"coordinates":[-97.59222800000001,35.475212],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337422095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.508613,35.501528,-97.508613,35.501528",
     "geom:latitude":35.501528,
     "geom:longitude":-97.508613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 NE 31st St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337422095,
-    "wof:lastmodified":1449026993,
+    "wof:lastmodified":1466764074,
     "wof:name":"Cherokee Building Materials",
     "wof:parent_id":85871695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.508613,35.501528,-97.508613,35.501528],
+  "bbox": [
+    -97.508613,
+    35.501528,
+    -97.508613,
+    35.501528
+],
   "geometry": {"coordinates":[-97.508613,35.501528],"type":"Point"}
 }

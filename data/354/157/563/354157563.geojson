@@ -2,13 +2,14 @@
   "id": 354157563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.630034,35.561802,-97.630034,35.561802",
     "geom:latitude":35.561802,
     "geom:longitude":-97.630034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Candlewood Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354157563,
-    "wof:lastmodified":1449067418,
+    "wof:lastmodified":1466763724,
     "wof:name":"Sun Distributing LLC",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "convenience"
     ]
 },
-  "bbox": [-97.630034,35.561802,-97.630034,35.561802],
-  "geometry": {"coordinates":[-97.630034,35.561802],"type":"Point"}
+  "bbox": [
+    -97.630034,
+    35.561802,
+    -97.630034,
+    35.561802
+],
+  "geometry": {"coordinates":[-97.63003399999999,35.561802],"type":"Point"}
 }

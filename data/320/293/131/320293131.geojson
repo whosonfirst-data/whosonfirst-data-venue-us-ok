@@ -2,13 +2,14 @@
   "id": 320293131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.425343,35.855792,-97.425343,35.855792",
     "geom:latitude":35.855792,
     "geom:longitude":-97.425343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2302 S Division St",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320293131,
-    "wof:lastmodified":1449011993,
+    "wof:lastmodified":1466765119,
     "wof:name":"Home Town Rental & Feed Inc",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yard"
     ]
 },
-  "bbox": [-97.425343,35.855792,-97.425343,35.855792],
+  "bbox": [
+    -97.425343,
+    35.855792,
+    -97.425343,
+    35.855792
+],
   "geometry": {"coordinates":[-97.425343,35.855792],"type":"Point"}
 }

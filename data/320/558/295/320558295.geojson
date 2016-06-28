@@ -2,13 +2,14 @@
   "id": 320558295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.815142,35.973853,-95.815142,35.973853",
     "geom:latitude":35.973853,
     "geom:longitude":-95.815142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12324 E 131st St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320558295,
-    "wof:lastmodified":1449012272,
+    "wof:lastmodified":1466766195,
     "wof:name":"Abk Network Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-95.815142,35.973853,-95.815142,35.973853],
-  "geometry": {"coordinates":[-95.815142,35.973853],"type":"Point"}
+  "bbox": [
+    -95.815142,
+    35.973853,
+    -95.815142,
+    35.973853
+],
+  "geometry": {"coordinates":[-95.81514199999999,35.973853],"type":"Point"}
 }

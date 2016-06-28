@@ -2,13 +2,14 @@
   "id": 303419821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.143197,34.173769,-97.143197,34.173769",
     "geom:latitude":34.173769,
     "geom:longitude":-97.143197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 US Hwy 77",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303419821,
-    "wof:lastmodified":1449000521,
+    "wof:lastmodified":1466765510,
     "wof:name":"Lake Murray State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.143197,34.173769,-97.143197,34.173769],
+  "bbox": [
+    -97.143197,
+    34.173769,
+    -97.143197,
+    34.173769
+],
   "geometry": {"coordinates":[-97.143197,34.173769],"type":"Point"}
 }

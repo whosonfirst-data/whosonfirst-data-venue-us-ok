@@ -2,13 +2,14 @@
   "id": 353975759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.584799,35.744317,-97.584799,35.744317",
     "geom:latitude":35.744317,
     "geom:longitude":-97.584799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13100 S Portland Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353975759,
-    "wof:lastmodified":1449020459,
+    "wof:lastmodified":1466765903,
     "wof:name":"Coffey Lawn Care",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.584799,35.744317,-97.584799,35.744317],
+  "bbox": [
+    -97.584799,
+    35.744317,
+    -97.584799,
+    35.744317
+],
   "geometry": {"coordinates":[-97.584799,35.744317],"type":"Point"}
 }

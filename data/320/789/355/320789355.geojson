@@ -2,13 +2,14 @@
   "id": 320789355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904907,36.082958,-95.904907,36.082958",
     "geom:latitude":36.082958,
     "geom:longitude":-95.904907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6074 E 56th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320789355,
-    "wof:lastmodified":1449012939,
+    "wof:lastmodified":1466766689,
     "wof:name":"Hazel Investment Co",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.904907,36.082958,-95.904907,36.082958],
-  "geometry": {"coordinates":[-95.904907,36.082958],"type":"Point"}
+  "bbox": [
+    -95.904907,
+    36.082958,
+    -95.904907,
+    36.082958
+],
+  "geometry": {"coordinates":[-95.90490699999999,36.082958],"type":"Point"}
 }

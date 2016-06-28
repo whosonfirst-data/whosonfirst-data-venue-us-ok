@@ -2,13 +2,14 @@
   "id": 337639081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.563777,35.53806,-97.563777,35.53806",
     "geom:latitude":35.53806,
     "geom:longitude":-97.563777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2712 NW 65th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337639081,
-    "wof:lastmodified":1449027734,
+    "wof:lastmodified":1466763426,
     "wof:name":"Read Studio",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "artist"
     ]
 },
-  "bbox": [-97.563777,35.53806,-97.563777,35.53806],
+  "bbox": [
+    -97.563777,
+    35.53806,
+    -97.563777,
+    35.53806
+],
   "geometry": {"coordinates":[-97.563777,35.53806],"type":"Point"}
 }

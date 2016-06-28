@@ -2,13 +2,14 @@
   "id": 303993845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.470154,35.670211,-97.470154,35.670211",
     "geom:latitude":35.670211,
     "geom:longitude":-97.470154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1628 Squirrel Tree Pl",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303993845,
-    "wof:lastmodified":1448999200,
+    "wof:lastmodified":1466767079,
     "wof:name":"Oilwell Diagnostics LLC",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "well"
     ]
 },
-  "bbox": [-97.470154,35.670211,-97.470154,35.670211],
-  "geometry": {"coordinates":[-97.470154,35.670211],"type":"Point"}
+  "bbox": [
+    -97.470154,
+    35.670211,
+    -97.470154,
+    35.670211
+],
+  "geometry": {"coordinates":[-97.47015399999999,35.670211],"type":"Point"}
 }

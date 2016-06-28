@@ -2,13 +2,14 @@
   "id": 353583083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.56561,35.426597,-97.56561,35.426597",
     "geom:latitude":35.426597,
     "geom:longitude":-97.56561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3909 S May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353583083,
-    "wof:lastmodified":1449020281,
+    "wof:lastmodified":1466764420,
     "wof:name":"May Avenue Motors",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-97.56561,35.426597,-97.56561,35.426597],
-  "geometry": {"coordinates":[-97.56561,35.426597],"type":"Point"}
+  "bbox": [
+    -97.56561,
+    35.426597,
+    -97.56561,
+    35.426597
+],
+  "geometry": {"coordinates":[-97.56561000000001,35.426597],"type":"Point"}
 }

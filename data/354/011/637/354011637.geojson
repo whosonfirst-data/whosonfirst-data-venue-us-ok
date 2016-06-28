@@ -2,13 +2,14 @@
   "id": 354011637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.880313,36.267966,-99.880313,36.267966",
     "geom:latitude":36.267966,
     "geom:longitude":-99.880313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 Locust St",
     "sg:city":"Shattuck",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354011637,
-    "wof:lastmodified":1449067327,
+    "wof:lastmodified":1466763008,
     "wof:name":"Richway Transportation SE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.880313,36.267966,-99.880313,36.267966],
+  "bbox": [
+    -99.880313,
+    36.267966,
+    -99.880313,
+    36.267966
+],
   "geometry": {"coordinates":[-99.880313,36.267966],"type":"Point"}
 }

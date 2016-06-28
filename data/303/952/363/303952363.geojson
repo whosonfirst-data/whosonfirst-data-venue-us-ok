@@ -2,13 +2,14 @@
   "id": 303952363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406106,35.44573,-97.406106,35.44573",
     "geom:latitude":35.44573,
     "geom:longitude":-97.406106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 S Air Depot Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303952363,
-    "wof:lastmodified":1448999881,
+    "wof:lastmodified":1466767038,
     "wof:name":"Consolidated Investments",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.406106,35.44573,-97.406106,35.44573],
-  "geometry": {"coordinates":[-97.406106,35.44573],"type":"Point"}
+  "bbox": [
+    -97.406106,
+    35.44573,
+    -97.406106,
+    35.44573
+],
+  "geometry": {"coordinates":[-97.40610599999999,35.44573],"type":"Point"}
 }

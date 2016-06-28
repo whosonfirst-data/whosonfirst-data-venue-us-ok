@@ -2,13 +2,14 @@
   "id": 303543331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.504229,35.413142,-97.504229,35.413142",
     "geom:latitude":35.413142,
     "geom:longitude":-97.504229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 SE 52nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303543331,
-    "wof:lastmodified":1448998593,
+    "wof:lastmodified":1466766029,
     "wof:name":"Venters Venture",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grease"
     ]
 },
-  "bbox": [-97.504229,35.413142,-97.504229,35.413142],
+  "bbox": [
+    -97.504229,
+    35.413142,
+    -97.504229,
+    35.413142
+],
   "geometry": {"coordinates":[-97.504229,35.413142],"type":"Point"}
 }

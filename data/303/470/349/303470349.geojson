@@ -2,13 +2,14 @@
   "id": 303470349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.399824,35.464064,-97.399824,35.464064",
     "geom:latitude":35.464064,
     "geom:longitude":-97.399824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 E Reno Ave",
     "sg:city":"Midwest City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303470349,
-    "wof:lastmodified":1448998703,
+    "wof:lastmodified":1466765737,
     "wof:name":"Baker Bail Agency",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-97.399824,35.464064,-97.399824,35.464064],
+  "bbox": [
+    -97.399824,
+    35.464064,
+    -97.399824,
+    35.464064
+],
   "geometry": {"coordinates":[-97.399824,35.464064],"type":"Point"}
 }

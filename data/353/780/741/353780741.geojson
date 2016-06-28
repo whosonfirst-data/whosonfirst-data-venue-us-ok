@@ -2,13 +2,14 @@
   "id": 353780741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10881,33.941029,-97.10881,33.941029",
     "geom:latitude":33.941029,
     "geom:longitude":-97.10881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 NE 6th Ave",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353780741,
-    "wof:lastmodified":1449020157,
+    "wof:lastmodified":1466765120,
     "wof:name":"Marietta Sportswear Mfg Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trouser"
     ]
 },
-  "bbox": [-97.10881,33.941029,-97.10881,33.941029],
-  "geometry": {"coordinates":[-97.10881,33.941029],"type":"Point"}
+  "bbox": [
+    -97.10881,
+    33.941029,
+    -97.10881,
+    33.941029
+],
+  "geometry": {"coordinates":[-97.10881000000001,33.941029],"type":"Point"}
 }

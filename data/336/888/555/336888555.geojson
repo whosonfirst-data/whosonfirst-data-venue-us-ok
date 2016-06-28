@@ -2,13 +2,14 @@
   "id": 336888555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.267612,34.913225,-97.267612,34.913225",
     "geom:latitude":34.913225,
     "geom:longitude":-97.267612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32896 State Hwy 59",
     "sg:city":"Wayne",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336888555,
-    "wof:lastmodified":1448997610,
+    "wof:lastmodified":1466765161,
     "wof:name":"Ted Idleman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.267612,34.913225,-97.267612,34.913225],
+  "bbox": [
+    -97.267612,
+    34.913225,
+    -97.267612,
+    34.913225
+],
   "geometry": {"coordinates":[-97.267612,34.913225],"type":"Point"}
 }

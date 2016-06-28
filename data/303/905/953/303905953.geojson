@@ -2,13 +2,14 @@
   "id": 303905953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.426447,36.429094,-99.426447,36.429094",
     "geom:latitude":36.429094,
     "geom:longitude":-99.426447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3429 Scissortail Dr",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303905953,
-    "wof:lastmodified":1448999073,
+    "wof:lastmodified":1466767054,
     "wof:name":"Beckett Construction Comp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-99.426447,36.429094,-99.426447,36.429094],
+  "bbox": [
+    -99.426447,
+    36.429094,
+    -99.426447,
+    36.429094
+],
   "geometry": {"coordinates":[-99.426447,36.429094],"type":"Point"}
 }

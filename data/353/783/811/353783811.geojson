@@ -2,13 +2,14 @@
   "id": 353783811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.632705,36.282343,-95.632705,36.282343",
     "geom:latitude":36.282343,
     "geom:longitude":-95.632705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Frederick Rd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353783811,
-    "wof:lastmodified":1449018324,
+    "wof:lastmodified":1466765250,
     "wof:name":"Chapel Ridge Of Claremore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.632705,36.282343,-95.632705,36.282343],
+  "bbox": [
+    -95.632705,
+    36.282343,
+    -95.632705,
+    36.282343
+],
   "geometry": {"coordinates":[-95.632705,36.282343],"type":"Point"}
 }

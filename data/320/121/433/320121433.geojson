@@ -2,13 +2,14 @@
   "id": 320121433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.523147,35.500467,-97.523147,35.500467",
     "geom:latitude":35.500467,
     "geom:longitude":-97.523147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3004 Paseo St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320121433,
-    "wof:lastmodified":1449014144,
+    "wof:lastmodified":1466764112,
     "wof:name":"Craig's Emporium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.523147,35.500467,-97.523147,35.500467],
-  "geometry": {"coordinates":[-97.523147,35.500467],"type":"Point"}
+  "bbox": [
+    -97.523147,
+    35.500467,
+    -97.523147,
+    35.500467
+],
+  "geometry": {"coordinates":[-97.52314699999999,35.500467],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320736353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.850415,36.264144,-95.850415,36.264144",
     "geom:latitude":36.264144,
     "geom:longitude":-95.850415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 E 2nd Ave",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320736353,
-    "wof:lastmodified":1449014924,
+    "wof:lastmodified":1466766643,
     "wof:name":"Owasso Family Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.850415,36.264144,-95.850415,36.264144],
+  "bbox": [
+    -95.850415,
+    36.264144,
+    -95.850415,
+    36.264144
+],
   "geometry": {"coordinates":[-95.850415,36.264144],"type":"Point"}
 }

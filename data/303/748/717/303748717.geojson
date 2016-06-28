@@ -2,13 +2,14 @@
   "id": 303748717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.310255,35.733867,-95.310255,35.733867",
     "geom:latitude":35.733867,
     "geom:longitude":-95.310255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4020 Tull Ave",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303748717,
-    "wof:lastmodified":1448999953,
+    "wof:lastmodified":1466766525,
     "wof:name":"Texoma Inc",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.310255,35.733867,-95.310255,35.733867],
+  "bbox": [
+    -95.310255,
+    35.733867,
+    -95.310255,
+    35.733867
+],
   "geometry": {"coordinates":[-95.310255,35.733867],"type":"Point"}
 }

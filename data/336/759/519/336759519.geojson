@@ -2,13 +2,14 @@
   "id": 336759519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406114,35.457346,-97.406114,35.457346",
     "geom:latitude":35.457346,
     "geom:longitude":-97.406114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 S Air Depot Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336759519,
-    "wof:lastmodified":1448998033,
+    "wof:lastmodified":1466764565,
     "wof:name":"Midwest Veterinary Hospital",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-97.406114,35.457346,-97.406114,35.457346],
+  "bbox": [
+    -97.406114,
+    35.457346,
+    -97.406114,
+    35.457346
+],
   "geometry": {"coordinates":[-97.406114,35.457346],"type":"Point"}
 }

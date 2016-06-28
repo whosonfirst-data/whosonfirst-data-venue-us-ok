@@ -2,13 +2,14 @@
   "id": 303447927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.963497,34.651275,-97.963497,34.651275",
     "geom:latitude":34.651275,
     "geom:longitude":-97.963497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 W Apache Ave",
     "sg:city":"Marlow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303447927,
-    "wof:lastmodified":1448999839,
+    "wof:lastmodified":1466765665,
     "wof:name":"My Shelf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-97.963497,34.651275,-97.963497,34.651275],
+  "bbox": [
+    -97.963497,
+    34.651275,
+    -97.963497,
+    34.651275
+],
   "geometry": {"coordinates":[-97.963497,34.651275],"type":"Point"}
 }

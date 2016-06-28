@@ -2,13 +2,14 @@
   "id": 303523413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.777948,36.160546,-95.777948,36.160546",
     "geom:latitude":36.160546,
     "geom:longitude":-95.777948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18210 E Admiral Pl",
     "sg:city":"Catoosa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303523413,
-    "wof:lastmodified":1448999528,
+    "wof:lastmodified":1466765824,
     "wof:name":"Evangel Assembly Of God",
     "wof:parent_id":85831775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.777948,36.160546,-95.777948,36.160546],
-  "geometry": {"coordinates":[-95.777948,36.160546],"type":"Point"}
+  "bbox": [
+    -95.777948,
+    36.160546,
+    -95.777948,
+    36.160546
+],
+  "geometry": {"coordinates":[-95.77794799999999,36.160546],"type":"Point"}
 }

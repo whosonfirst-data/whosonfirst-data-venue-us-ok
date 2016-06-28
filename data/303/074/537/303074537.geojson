@@ -2,13 +2,14 @@
   "id": 303074537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.011361,36.089774,-96.011361,36.089774",
     "geom:latitude":36.089774,
     "geom:longitude":-96.011361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1626 W 51st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303074537,
-    "wof:lastmodified":1448999440,
+    "wof:lastmodified":1466762816,
     "wof:name":"B J's Hair Fashion",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.011361,36.089774,-96.011361,36.089774],
-  "geometry": {"coordinates":[-96.011361,36.089774],"type":"Point"}
+  "bbox": [
+    -96.011361,
+    36.089774,
+    -96.011361,
+    36.089774
+],
+  "geometry": {"coordinates":[-96.01136099999999,36.089774],"type":"Point"}
 }

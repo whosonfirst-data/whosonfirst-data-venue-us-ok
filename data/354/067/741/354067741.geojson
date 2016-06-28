@@ -2,13 +2,14 @@
   "id": 354067741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.768211,34.926017,-95.768211,34.926017",
     "geom:latitude":34.926017,
     "geom:longitude":-95.768211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 S 3rd St",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354067741,
-    "wof:lastmodified":1449066043,
+    "wof:lastmodified":1466763383,
     "wof:name":"Western Plains Therapeutic",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-95.768211,34.926017,-95.768211,34.926017],
-  "geometry": {"coordinates":[-95.768211,34.926017],"type":"Point"}
+  "bbox": [
+    -95.768211,
+    34.926017,
+    -95.768211,
+    34.926017
+],
+  "geometry": {"coordinates":[-95.76821099999999,34.926017],"type":"Point"}
 }

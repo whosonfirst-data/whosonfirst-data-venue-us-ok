@@ -2,13 +2,14 @@
   "id": 319869255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.541193,35.768846,-95.541193,35.768846",
     "geom:latitude":35.768846,
     "geom:longitude":-95.541193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Sycamore",
     "sg:city":"Taft",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":319869255,
-    "wof:lastmodified":1449024825,
+    "wof:lastmodified":1466763345,
     "wof:name":"Cottage Publications",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "greeting"
     ]
 },
-  "bbox": [-95.541193,35.768846,-95.541193,35.768846],
-  "geometry": {"coordinates":[-95.541193,35.768846],"type":"Point"}
+  "bbox": [
+    -95.541193,
+    35.768846,
+    -95.541193,
+    35.768846
+],
+  "geometry": {"coordinates":[-95.54119300000001,35.768846],"type":"Point"}
 }

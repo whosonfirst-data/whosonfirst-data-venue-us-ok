@@ -2,13 +2,14 @@
   "id": 320024355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975731,36.141647,-95.975731,36.141647",
     "geom:latitude":36.141647,
     "geom:longitude":-95.975731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320024355,
-    "wof:lastmodified":1449013047,
+    "wof:lastmodified":1466762648,
     "wof:name":"Mid-Town Subs",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.975731,36.141647,-95.975731,36.141647],
+  "bbox": [
+    -95.975731,
+    36.141647,
+    -95.975731,
+    36.141647
+],
   "geometry": {"coordinates":[-95.975731,36.141647],"type":"Point"}
 }

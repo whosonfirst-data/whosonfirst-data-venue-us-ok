@@ -2,13 +2,14 @@
   "id": 320461589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.886629,36.08429,-95.886629,36.08429",
     "geom:latitude":36.08429,
     "geom:longitude":-95.886629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5510 S Memorial Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320461589,
-    "wof:lastmodified":1449012688,
+    "wof:lastmodified":1466765970,
     "wof:name":"EBI Medical Systems Inc",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.886629,36.08429,-95.886629,36.08429],
+  "bbox": [
+    -95.886629,
+    36.08429,
+    -95.886629,
+    36.08429
+],
   "geometry": {"coordinates":[-95.886629,36.08429],"type":"Point"}
 }

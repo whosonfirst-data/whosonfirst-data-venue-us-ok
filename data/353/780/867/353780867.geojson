@@ -2,13 +2,14 @@
   "id": 353780867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.627045,35.582751,-97.627045,35.582751",
     "geom:latitude":35.582751,
     "geom:longitude":-97.627045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6329 Blue Stem West Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353780867,
-    "wof:lastmodified":1449020160,
+    "wof:lastmodified":1466765122,
     "wof:name":"Marshall Miles",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.627045,35.582751,-97.627045,35.582751],
+  "bbox": [
+    -97.627045,
+    35.582751,
+    -97.627045,
+    35.582751
+],
   "geometry": {"coordinates":[-97.627045,35.582751],"type":"Point"}
 }

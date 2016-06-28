@@ -2,13 +2,14 @@
   "id": 303085123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.014351,36.165207,-96.014351,36.165207",
     "geom:latitude":36.165207,
     "geom:longitude":-96.014351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 W Haskell Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303085123,
-    "wof:lastmodified":1448998725,
+    "wof:lastmodified":1466762990,
     "wof:name":"Ducks Family Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.014351,36.165207,-96.014351,36.165207],
+  "bbox": [
+    -96.014351,
+    36.165207,
+    -96.014351,
+    36.165207
+],
   "geometry": {"coordinates":[-96.014351,36.165207],"type":"Point"}
 }

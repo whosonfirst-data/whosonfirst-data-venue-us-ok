@@ -2,13 +2,14 @@
   "id": 337437965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.377884,34.601524,-98.377884,34.601524",
     "geom:latitude":34.601524,
     "geom:longitude":-98.377884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 SE Interstate Dr",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337437965,
-    "wof:lastmodified":1449027539,
+    "wof:lastmodified":1466764244,
     "wof:name":"Wolfe Maxi Storage",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-98.377884,34.601524,-98.377884,34.601524],
-  "geometry": {"coordinates":[-98.377884,34.601524],"type":"Point"}
+  "bbox": [
+    -98.377884,
+    34.601524,
+    -98.377884,
+    34.601524
+],
+  "geometry": {"coordinates":[-98.37788399999999,34.601524],"type":"Point"}
 }

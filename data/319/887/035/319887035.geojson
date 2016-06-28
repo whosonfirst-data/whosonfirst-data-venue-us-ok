@@ -2,13 +2,14 @@
   "id": 319887035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.52196,35.473393,-95.52196,35.473393",
     "geom:latitude":35.473393,
     "geom:longitude":-95.52196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 N Broadway St",
     "sg:city":"Checotah",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319887035,
-    "wof:lastmodified":1449024723,
+    "wof:lastmodified":1466764203,
     "wof:name":"Peoples National Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.52196,35.473393,-95.52196,35.473393],
-  "geometry": {"coordinates":[-95.52196,35.473393],"type":"Point"}
+  "bbox": [
+    -95.52196,
+    35.473393,
+    -95.52196,
+    35.473393
+],
+  "geometry": {"coordinates":[-95.52196000000001,35.473393],"type":"Point"}
 }

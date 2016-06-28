@@ -2,13 +2,14 @@
   "id": 320819587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.934945,36.727393,-95.934945,36.727393",
     "geom:latitude":36.727393,
     "geom:longitude":-95.934945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1740 SE Washington Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320819587,
-    "wof:lastmodified":1449012150,
+    "wof:lastmodified":1466766889,
     "wof:name":"VIP Real Estate Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.934945,36.727393,-95.934945,36.727393],
+  "bbox": [
+    -95.934945,
+    36.727393,
+    -95.934945,
+    36.727393
+],
   "geometry": {"coordinates":[-95.934945,36.727393],"type":"Point"}
 }

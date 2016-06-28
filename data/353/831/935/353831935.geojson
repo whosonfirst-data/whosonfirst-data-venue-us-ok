@@ -2,13 +2,14 @@
   "id": 353831935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.574722,35.510127,-97.574722,35.510127",
     "geom:latitude":35.510127,
     "geom:longitude":-97.574722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 NW 38th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353831935,
-    "wof:lastmodified":1449019767,
+    "wof:lastmodified":1466765468,
     "wof:name":"Utility Tower Co",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.574722,35.510127,-97.574722,35.510127],
-  "geometry": {"coordinates":[-97.574722,35.510127],"type":"Point"}
+  "bbox": [
+    -97.574722,
+    35.510127,
+    -97.574722,
+    35.510127
+],
+  "geometry": {"coordinates":[-97.57472199999999,35.510127],"type":"Point"}
 }

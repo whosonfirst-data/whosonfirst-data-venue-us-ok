@@ -2,13 +2,14 @@
   "id": 303578771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.312503,35.365151,-97.312503,35.365151",
     "geom:latitude":35.365151,
     "geom:longitude":-97.312503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10231 Schwartz Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303578771,
-    "wof:lastmodified":1448998729,
+    "wof:lastmodified":1466766144,
     "wof:name":"Plumbline Roofing & Cnstrctn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.312503,35.365151,-97.312503,35.365151],
-  "geometry": {"coordinates":[-97.312503,35.365151],"type":"Point"}
+  "bbox": [
+    -97.312503,
+    35.365151,
+    -97.312503,
+    35.365151
+],
+  "geometry": {"coordinates":[-97.31250300000001,35.365151],"type":"Point"}
 }

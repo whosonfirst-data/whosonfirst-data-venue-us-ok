@@ -2,13 +2,14 @@
   "id": 303199477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.952473,35.612806,-95.952473,35.612806",
     "geom:latitude":35.612806,
     "geom:longitude":-95.952473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 S Belmont Ave",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303199477,
-    "wof:lastmodified":1448998372,
+    "wof:lastmodified":1466764437,
     "wof:name":"Lake Country Medical Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "medical"
     ]
 },
-  "bbox": [-95.952473,35.612806,-95.952473,35.612806],
+  "bbox": [
+    -95.952473,
+    35.612806,
+    -95.952473,
+    35.612806
+],
   "geometry": {"coordinates":[-95.952473,35.612806],"type":"Point"}
 }

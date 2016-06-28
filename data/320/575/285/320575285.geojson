@@ -2,13 +2,14 @@
   "id": 320575285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.949033,36.017151,-95.949033,36.017151",
     "geom:latitude":36.017151,
     "geom:longitude":-95.949033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10102 S Delaware Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320575285,
-    "wof:lastmodified":1449012341,
+    "wof:lastmodified":1466766349,
     "wof:name":"Unique Metals",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "furn"
     ]
 },
-  "bbox": [-95.949033,36.017151,-95.949033,36.017151],
+  "bbox": [
+    -95.949033,
+    36.017151,
+    -95.949033,
+    36.017151
+],
   "geometry": {"coordinates":[-95.949033,36.017151],"type":"Point"}
 }

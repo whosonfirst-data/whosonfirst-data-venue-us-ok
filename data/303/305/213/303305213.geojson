@@ -2,13 +2,14 @@
   "id": 303305213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.091335,35.9848,-96.091335,35.9848",
     "geom:latitude":35.9848,
     "geom:longitude":-96.091335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Woodland Rd",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303305213,
-    "wof:lastmodified":1448998489,
+    "wof:lastmodified":1466764866,
     "wof:name":"Berryhill Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.091335,35.9848,-96.091335,35.9848],
+  "bbox": [
+    -96.091335,
+    35.9848,
+    -96.091335,
+    35.9848
+],
   "geometry": {"coordinates":[-96.091335,35.9848],"type":"Point"}
 }

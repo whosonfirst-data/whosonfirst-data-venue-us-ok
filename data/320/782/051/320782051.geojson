@@ -2,13 +2,14 @@
   "id": 320782051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.974244,34.521745,-97.974244,34.521745",
     "geom:latitude":34.521745,
     "geom:longitude":-97.974244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2113 W Elk Ave",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320782051,
-    "wof:lastmodified":1449011245,
+    "wof:lastmodified":1466766658,
     "wof:name":"Elk Avenue Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.974244,34.521745,-97.974244,34.521745],
+  "bbox": [
+    -97.974244,
+    34.521745,
+    -97.974244,
+    34.521745
+],
   "geometry": {"coordinates":[-97.974244,34.521745],"type":"Point"}
 }

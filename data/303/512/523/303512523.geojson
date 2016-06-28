@@ -2,13 +2,14 @@
   "id": 303512523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.918261,36.180698,-95.918261,36.180698",
     "geom:latitude":36.180698,
     "geom:longitude":-95.918261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5206 Dawson Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303512523,
-    "wof:lastmodified":1448999898,
+    "wof:lastmodified":1466765784,
     "wof:name":"Joe's Automotive",
     "wof:parent_id":85813737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-95.918261,36.180698,-95.918261,36.180698],
+  "bbox": [
+    -95.918261,
+    36.180698,
+    -95.918261,
+    36.180698
+],
   "geometry": {"coordinates":[-95.918261,36.180698],"type":"Point"}
 }

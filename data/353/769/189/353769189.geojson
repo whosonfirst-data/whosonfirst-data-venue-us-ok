@@ -2,13 +2,14 @@
   "id": 353769189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.48157,35.228764,-97.48157,35.228764",
     "geom:latitude":35.228764,
     "geom:longitude":-97.48157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Wall St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":353769189,
-    "wof:lastmodified":1449019106,
+    "wof:lastmodified":1466765197,
     "wof:name":"Intelek Technologies Corp",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-97.48157,35.228764,-97.48157,35.228764],
+  "bbox": [
+    -97.48157,
+    35.228764,
+    -97.48157,
+    35.228764
+],
   "geometry": {"coordinates":[-97.48157,35.228764],"type":"Point"}
 }

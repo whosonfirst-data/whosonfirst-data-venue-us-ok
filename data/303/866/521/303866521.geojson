@@ -2,13 +2,14 @@
   "id": 303866521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.521288,35.42259,-97.521288,35.42259",
     "geom:latitude":35.42259,
     "geom:longitude":-97.521288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4316 S Walker Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303866521,
-    "wof:lastmodified":1448999284,
+    "wof:lastmodified":1466766895,
     "wof:name":"Greater Oklahoma City Hispanic",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-97.521288,35.42259,-97.521288,35.42259],
+  "bbox": [
+    -97.521288,
+    35.42259,
+    -97.521288,
+    35.42259
+],
   "geometry": {"coordinates":[-97.521288,35.42259],"type":"Point"}
 }

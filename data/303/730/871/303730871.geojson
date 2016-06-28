@@ -2,13 +2,14 @@
   "id": 303730871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.634008,35.584008,-97.634008,35.584008",
     "geom:latitude":35.584008,
     "geom:longitude":-97.634008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11300 Brockton Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303730871,
-    "wof:lastmodified":1449000166,
+    "wof:lastmodified":1466766556,
     "wof:name":"Enviro Clean Svc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "ecological"
     ]
 },
-  "bbox": [-97.634008,35.584008,-97.634008,35.584008],
-  "geometry": {"coordinates":[-97.634008,35.584008],"type":"Point"}
+  "bbox": [
+    -97.634008,
+    35.584008,
+    -97.634008,
+    35.584008
+],
+  "geometry": {"coordinates":[-97.63400799999999,35.584008],"type":"Point"}
 }

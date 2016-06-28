@@ -2,13 +2,14 @@
   "id": 353974323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.825485,36.871014,-94.825485,36.871014",
     "geom:latitude":36.871014,
     "geom:longitude":-94.825485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58915 E 100 Rd",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":353974323,
-    "wof:lastmodified":1449020474,
+    "wof:lastmodified":1466765898,
     "wof:name":"Eastside Animal Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-94.825485,36.871014,-94.825485,36.871014],
+  "bbox": [
+    -94.825485,
+    36.871014,
+    -94.825485,
+    36.871014
+],
   "geometry": {"coordinates":[-94.825485,36.871014],"type":"Point"}
 }

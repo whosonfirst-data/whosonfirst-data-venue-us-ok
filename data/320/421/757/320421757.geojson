@@ -2,13 +2,14 @@
   "id": 320421757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.798318,35.446133,-94.798318,35.446133",
     "geom:latitude":35.446133,
     "geom:longitude":-94.798318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W Houser Ave",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320421757,
-    "wof:lastmodified":1449013629,
+    "wof:lastmodified":1466765830,
     "wof:name":"Aviagen Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hatchery"
     ]
 },
-  "bbox": [-94.798318,35.446133,-94.798318,35.446133],
-  "geometry": {"coordinates":[-94.798318,35.446133],"type":"Point"}
+  "bbox": [
+    -94.798318,
+    35.446133,
+    -94.798318,
+    35.446133
+],
+  "geometry": {"coordinates":[-94.79831799999999,35.446133],"type":"Point"}
 }

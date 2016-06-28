@@ -2,13 +2,14 @@
   "id": 336696785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.673842,34.774597,-96.673842,34.774597",
     "geom:latitude":34.774597,
     "geom:longitude":-96.673842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 E Main St",
     "sg:city":"Ada",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336696785,
-    "wof:lastmodified":1448997011,
+    "wof:lastmodified":1466763670,
     "wof:name":"Alpha Comm Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-96.673842,34.774597,-96.673842,34.774597],
-  "geometry": {"coordinates":[-96.673842,34.774597],"type":"Point"}
+  "bbox": [
+    -96.673842,
+    34.774597,
+    -96.673842,
+    34.774597
+],
+  "geometry": {"coordinates":[-96.67384199999999,34.774597],"type":"Point"}
 }

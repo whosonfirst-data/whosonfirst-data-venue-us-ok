@@ -2,13 +2,14 @@
   "id": 353417959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.155661,36.292785,-95.155661,36.292785",
     "geom:latitude":36.292785,
     "geom:longitude":-95.155661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 W Ferry St",
     "sg:city":"Salina",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353417959,
-    "wof:lastmodified":1449019292,
+    "wof:lastmodified":1466762533,
     "wof:name":"Hudson Bay Brokerage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-95.155661,36.292785,-95.155661,36.292785],
-  "geometry": {"coordinates":[-95.155661,36.292785],"type":"Point"}
+  "bbox": [
+    -95.155661,
+    36.292785,
+    -95.155661,
+    36.292785
+],
+  "geometry": {"coordinates":[-95.15566099999999,36.292785],"type":"Point"}
 }

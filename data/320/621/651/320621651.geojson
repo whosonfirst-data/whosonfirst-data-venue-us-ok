@@ -2,13 +2,14 @@
   "id": 320621651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.338839,35.740661,-95.338839,35.740661",
     "geom:latitude":35.740661,
     "geom:longitude":-95.338839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2530 Chandler Rd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320621651,
-    "wof:lastmodified":1449014517,
+    "wof:lastmodified":1466766323,
     "wof:name":"B-Sew Inn",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sewing"
     ]
 },
-  "bbox": [-95.338839,35.740661,-95.338839,35.740661],
-  "geometry": {"coordinates":[-95.338839,35.740661],"type":"Point"}
+  "bbox": [
+    -95.338839,
+    35.740661,
+    -95.338839,
+    35.740661
+],
+  "geometry": {"coordinates":[-95.33883899999999,35.740661],"type":"Point"}
 }

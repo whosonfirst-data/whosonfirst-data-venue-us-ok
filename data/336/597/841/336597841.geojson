@@ -2,13 +2,14 @@
   "id": 336597841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.507987,35.402592,-97.507987,35.402592",
     "geom:latitude":35.402592,
     "geom:longitude":-97.507987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6201 S Shields Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336597841,
-    "wof:lastmodified":1448997985,
+    "wof:lastmodified":1466764123,
     "wof:name":"Iron Horse Motors",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.507987,35.402592,-97.507987,35.402592],
+  "bbox": [
+    -97.507987,
+    35.402592,
+    -97.507987,
+    35.402592
+],
   "geometry": {"coordinates":[-97.507987,35.402592],"type":"Point"}
 }

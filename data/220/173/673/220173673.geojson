@@ -2,13 +2,14 @@
   "id": 220173673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967117,36.156592,-95.967117,36.156592",
     "geom:latitude":36.156592,
     "geom:longitude":-95.967117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 S Utica Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":220173673,
-    "wof:lastmodified":1449074196,
+    "wof:lastmodified":1466762330,
     "wof:name":"Med-X 7",
     "wof:parent_id":85872469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.967117,36.156592,-95.967117,36.156592],
+  "bbox": [
+    -95.967117,
+    36.156592,
+    -95.967117,
+    36.156592
+],
   "geometry": {"coordinates":[-95.967117,36.156592],"type":"Point"}
 }

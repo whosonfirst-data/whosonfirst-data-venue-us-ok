@@ -2,13 +2,14 @@
   "id": 320535433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.859112,36.001232,-95.859112,36.001232",
     "geom:latitude":36.001232,
     "geom:longitude":-95.859112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11301 S 106th East Ave",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320535433,
-    "wof:lastmodified":1449011931,
+    "wof:lastmodified":1466766136,
     "wof:name":"Nancy Schlesinger & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.859112,36.001232,-95.859112,36.001232],
+  "bbox": [
+    -95.859112,
+    36.001232,
+    -95.859112,
+    36.001232
+],
   "geometry": {"coordinates":[-95.859112,36.001232],"type":"Point"}
 }

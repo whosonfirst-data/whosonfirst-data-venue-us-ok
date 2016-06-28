@@ -2,13 +2,14 @@
   "id": 303725461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530204,35.380804,-97.530204,35.380804",
     "geom:latitude":35.380804,
     "geom:longitude":-97.530204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8503 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303725461,
-    "wof:lastmodified":1448998705,
+    "wof:lastmodified":1466766535,
     "wof:name":"Hobie Doby's Signature",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-97.530204,35.380804,-97.530204,35.380804],
+  "bbox": [
+    -97.530204,
+    35.380804,
+    -97.530204,
+    35.380804
+],
   "geometry": {"coordinates":[-97.530204,35.380804],"type":"Point"}
 }

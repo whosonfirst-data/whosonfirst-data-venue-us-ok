@@ -2,13 +2,14 @@
   "id": 320119055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.117728,36.143647,-96.117728,36.143647",
     "geom:latitude":36.143647,
     "geom:longitude":-96.117728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 N Franklin Ave",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320119055,
-    "wof:lastmodified":1449013931,
+    "wof:lastmodified":1466764074,
     "wof:name":"Church Of God Sand Springs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.117728,36.143647,-96.117728,36.143647],
+  "bbox": [
+    -96.117728,
+    36.143647,
+    -96.117728,
+    36.143647
+],
   "geometry": {"coordinates":[-96.117728,36.143647],"type":"Point"}
 }

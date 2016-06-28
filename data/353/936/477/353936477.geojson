@@ -2,13 +2,14 @@
   "id": 353936477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.592191,35.508463,-97.592191,35.508463",
     "geom:latitude":35.508463,
     "geom:longitude":-97.592191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3810 N Tulsa Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":353936477,
-    "wof:lastmodified":1449019108,
+    "wof:lastmodified":1466765685,
     "wof:name":"Little Giant Pump Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-97.592191,35.508463,-97.592191,35.508463],
+  "bbox": [
+    -97.592191,
+    35.508463,
+    -97.592191,
+    35.508463
+],
   "geometry": {"coordinates":[-97.592191,35.508463],"type":"Point"}
 }

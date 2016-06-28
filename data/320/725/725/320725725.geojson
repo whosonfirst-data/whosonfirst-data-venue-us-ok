@@ -2,13 +2,14 @@
   "id": 320725725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.907913,36.154002,-95.907913,36.154002",
     "geom:latitude":36.154002,
     "geom:longitude":-95.907913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6100 E 5th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320725725,
-    "wof:lastmodified":1449012169,
+    "wof:lastmodified":1466766709,
     "wof:name":"Commercial Federal Bank",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-95.907913,36.154002,-95.907913,36.154002],
-  "geometry": {"coordinates":[-95.907913,36.154002],"type":"Point"}
+  "bbox": [
+    -95.907913,
+    36.154002,
+    -95.907913,
+    36.154002
+],
+  "geometry": {"coordinates":[-95.90791299999999,36.154002],"type":"Point"}
 }

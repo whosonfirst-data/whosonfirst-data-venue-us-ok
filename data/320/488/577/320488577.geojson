@@ -2,13 +2,14 @@
   "id": 320488577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.97589,36.013273,-95.97589,36.013273",
     "geom:latitude":36.013273,
     "geom:longitude":-95.97589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 S Elm St",
     "sg:city":"Jenks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320488577,
-    "wof:lastmodified":1449014873,
+    "wof:lastmodified":1466765934,
     "wof:name":"Sparkman Construction Co",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-95.97589,36.013273,-95.97589,36.013273],
-  "geometry": {"coordinates":[-95.97589,36.013273],"type":"Point"}
+  "bbox": [
+    -95.97589,
+    36.013273,
+    -95.97589,
+    36.013273
+],
+  "geometry": {"coordinates":[-95.97589000000001,36.013273],"type":"Point"}
 }

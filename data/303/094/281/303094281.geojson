@@ -2,13 +2,14 @@
   "id": 303094281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.662984,35.291087,-97.662984,35.291087",
     "geom:latitude":35.291087,
     "geom:longitude":-97.662984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3841 NW 32nd St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303094281,
-    "wof:lastmodified":1448999653,
+    "wof:lastmodified":1466763143,
     "wof:name":"HMS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.662984,35.291087,-97.662984,35.291087],
-  "geometry": {"coordinates":[-97.662984,35.291087],"type":"Point"}
+  "bbox": [
+    -97.662984,
+    35.291087,
+    -97.662984,
+    35.291087
+],
+  "geometry": {"coordinates":[-97.66298399999999,35.291087],"type":"Point"}
 }

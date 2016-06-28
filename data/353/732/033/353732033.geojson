@@ -2,13 +2,14 @@
   "id": 353732033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.475035,35.784046,-95.475035,35.784046",
     "geom:latitude":35.784046,
     "geom:longitude":-95.475035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7902 W Fern Mountain Rd",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353732033,
-    "wof:lastmodified":1449020893,
+    "wof:lastmodified":1466765010,
     "wof:name":"Peter Chapel AME Church",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.475035,35.784046,-95.475035,35.784046],
-  "geometry": {"coordinates":[-95.475035,35.784046],"type":"Point"}
+  "bbox": [
+    -95.475035,
+    35.784046,
+    -95.475035,
+    35.784046
+],
+  "geometry": {"coordinates":[-95.47503500000001,35.784046],"type":"Point"}
 }

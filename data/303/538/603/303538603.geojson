@@ -2,13 +2,14 @@
   "id": 303538603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.376326,35.522794,-97.376326,35.522794",
     "geom:latitude":35.522794,
     "geom:longitude":-97.376326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8711 Main St",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303538603,
-    "wof:lastmodified":1448998428,
+    "wof:lastmodified":1466765994,
     "wof:name":"G & H Carpet & Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-97.376326,35.522794,-97.376326,35.522794],
-  "geometry": {"coordinates":[-97.376326,35.522794],"type":"Point"}
+  "bbox": [
+    -97.376326,
+    35.522794,
+    -97.376326,
+    35.522794
+],
+  "geometry": {"coordinates":[-97.37632600000001,35.522794],"type":"Point"}
 }

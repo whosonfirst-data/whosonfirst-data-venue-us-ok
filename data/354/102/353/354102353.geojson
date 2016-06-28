@@ -2,13 +2,14 @@
   "id": 354102353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.902955,36.075511,-95.902955,36.075511",
     "geom:latitude":36.075511,
     "geom:longitude":-95.902955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6010 S 66th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":354102353,
-    "wof:lastmodified":1449067547,
+    "wof:lastmodified":1466763519,
     "wof:name":"Powers Of Oklahoma",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conservation"
     ]
 },
-  "bbox": [-95.902955,36.075511,-95.902955,36.075511],
-  "geometry": {"coordinates":[-95.902955,36.075511],"type":"Point"}
+  "bbox": [
+    -95.902955,
+    36.075511,
+    -95.902955,
+    36.075511
+],
+  "geometry": {"coordinates":[-95.90295500000001,36.075511],"type":"Point"}
 }

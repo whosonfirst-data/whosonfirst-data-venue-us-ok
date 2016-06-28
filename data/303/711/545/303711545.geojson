@@ -2,13 +2,14 @@
   "id": 303711545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.760091,34.937975,-95.760091,34.937975",
     "geom:latitude":34.937975,
     "geom:longitude":-95.760091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 E Jackson Ave",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303711545,
-    "wof:lastmodified":1449000116,
+    "wof:lastmodified":1466766511,
     "wof:name":"Walt's Garage & Transmission",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-95.760091,34.937975,-95.760091,34.937975],
+  "bbox": [
+    -95.760091,
+    34.937975,
+    -95.760091,
+    34.937975
+],
   "geometry": {"coordinates":[-95.760091,34.937975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303286285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.393336,36.426733,-99.393336,36.426733",
     "geom:latitude":36.426733,
     "geom:longitude":-99.393336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Cedar Pl",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303286285,
-    "wof:lastmodified":1448998751,
+    "wof:lastmodified":1466765002,
     "wof:name":"Combs Oilfield Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-99.393336,36.426733,-99.393336,36.426733],
-  "geometry": {"coordinates":[-99.393336,36.426733],"type":"Point"}
+  "bbox": [
+    -99.393336,
+    36.426733,
+    -99.393336,
+    36.426733
+],
+  "geometry": {"coordinates":[-99.39333600000001,36.426733],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320323335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967142,36.169879,-95.967142,36.169879",
     "geom:latitude":36.169879,
     "geom:longitude":-95.967142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 N Utica Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320323335,
-    "wof:lastmodified":1449011565,
+    "wof:lastmodified":1466765300,
     "wof:name":"Gardner Spring Inc",
     "wof:parent_id":85872463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "fab"
     ]
 },
-  "bbox": [-95.967142,36.169879,-95.967142,36.169879],
+  "bbox": [
+    -95.967142,
+    36.169879,
+    -95.967142,
+    36.169879
+],
   "geometry": {"coordinates":[-95.967142,36.169879],"type":"Point"}
 }

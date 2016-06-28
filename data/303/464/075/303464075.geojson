@@ -2,13 +2,14 @@
   "id": 303464075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.495945,35.646956,-97.495945,35.646956",
     "geom:latitude":35.646956,
     "geom:longitude":-97.495945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 S Kelly Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303464075,
-    "wof:lastmodified":1448998771,
+    "wof:lastmodified":1466765718,
     "wof:name":"Johnston Builders",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-97.495945,35.646956,-97.495945,35.646956],
-  "geometry": {"coordinates":[-97.495945,35.646956],"type":"Point"}
+  "bbox": [
+    -97.495945,
+    35.646956,
+    -97.495945,
+    35.646956
+],
+  "geometry": {"coordinates":[-97.49594500000001,35.646956],"type":"Point"}
 }

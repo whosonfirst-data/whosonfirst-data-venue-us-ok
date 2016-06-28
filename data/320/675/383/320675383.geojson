@@ -2,13 +2,14 @@
   "id": 320675383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.835489,36.152179,-95.835489,36.152179",
     "geom:latitude":36.152179,
     "geom:longitude":-95.835489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"447 S 127th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320675383,
-    "wof:lastmodified":1449013152,
+    "wof:lastmodified":1466766477,
     "wof:name":"Elizabeth Stoddard Prpts LLC",
     "wof:parent_id":85821149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transactions"
     ]
 },
-  "bbox": [-95.835489,36.152179,-95.835489,36.152179],
+  "bbox": [
+    -95.835489,
+    36.152179,
+    -95.835489,
+    36.152179
+],
   "geometry": {"coordinates":[-95.835489,36.152179],"type":"Point"}
 }

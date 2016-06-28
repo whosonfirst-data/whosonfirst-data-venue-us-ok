@@ -2,13 +2,14 @@
   "id": 303131415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.862509,35.607586,-95.862509,35.607586",
     "geom:latitude":35.607586,
     "geom:longitude":-95.862509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 W Ozark St",
     "sg:city":"Morris",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303131415,
-    "wof:lastmodified":1448998853,
+    "wof:lastmodified":1466763743,
     "wof:name":"Ernie's Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-95.862509,35.607586,-95.862509,35.607586],
+  "bbox": [
+    -95.862509,
+    35.607586,
+    -95.862509,
+    35.607586
+],
   "geometry": {"coordinates":[-95.862509,35.607586],"type":"Point"}
 }

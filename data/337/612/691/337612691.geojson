@@ -2,13 +2,14 @@
   "id": 337612691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.601191,35.522329,-97.601191,35.522329",
     "geom:latitude":35.522329,
     "geom:longitude":-97.601191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 NW 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337612691,
-    "wof:lastmodified":1449027298,
+    "wof:lastmodified":1466763285,
     "wof:name":"Mike's Auto Svc Ctr",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-97.601191,35.522329,-97.601191,35.522329],
+  "bbox": [
+    -97.601191,
+    35.522329,
+    -97.601191,
+    35.522329
+],
   "geometry": {"coordinates":[-97.601191,35.522329],"type":"Point"}
 }

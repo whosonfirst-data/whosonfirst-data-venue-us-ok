@@ -2,13 +2,14 @@
   "id": 320511009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.416863,35.844189,-98.416863,35.844189",
     "geom:latitude":35.844189,
     "geom:longitude":-98.416863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Wikoff Ave",
     "sg:city":"Watonga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320511009,
-    "wof:lastmodified":1449012979,
+    "wof:lastmodified":1466766081,
     "wof:name":"Healthback Of Watonga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-98.416863,35.844189,-98.416863,35.844189],
-  "geometry": {"coordinates":[-98.416863,35.844189],"type":"Point"}
+  "bbox": [
+    -98.416863,
+    35.844189,
+    -98.416863,
+    35.844189
+],
+  "geometry": {"coordinates":[-98.41686300000001,35.844189],"type":"Point"}
 }

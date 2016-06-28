@@ -2,13 +2,14 @@
   "id": 353771125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.291879,36.796802,-97.291879,36.796802",
     "geom:latitude":36.796802,
     "geom:longitude":-97.291879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 S 6th St",
     "sg:city":"Blackwell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353771125,
-    "wof:lastmodified":1449019647,
+    "wof:lastmodified":1466765302,
     "wof:name":"Greenfield Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.291879,36.796802,-97.291879,36.796802],
-  "geometry": {"coordinates":[-97.291879,36.796802],"type":"Point"}
+  "bbox": [
+    -97.291879,
+    36.796802,
+    -97.291879,
+    36.796802
+],
+  "geometry": {"coordinates":[-97.29187899999999,36.796802],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336724823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517564,35.551126,-97.517564,35.551126",
     "geom:latitude":35.551126,
     "geom:longitude":-97.517564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Wilshire Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336724823,
-    "wof:lastmodified":1448997979,
+    "wof:lastmodified":1466764099,
     "wof:name":"Central State Community Svc",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "community"
     ]
 },
-  "bbox": [-97.517564,35.551126,-97.517564,35.551126],
-  "geometry": {"coordinates":[-97.517564,35.551126],"type":"Point"}
+  "bbox": [
+    -97.517564,
+    35.551126,
+    -97.517564,
+    35.551126
+],
+  "geometry": {"coordinates":[-97.51756399999999,35.551126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353485829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.481496,36.687932,-101.481496,36.687932",
     "geom:latitude":36.687932,
     "geom:longitude":-101.481496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 N Main St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353485829,
-    "wof:lastmodified":1449019834,
+    "wof:lastmodified":1466762918,
     "wof:name":"Keith Matthews & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.481496,36.687932,-101.481496,36.687932],
-  "geometry": {"coordinates":[-101.481496,36.687932],"type":"Point"}
+  "bbox": [
+    -101.481496,
+    36.687932,
+    -101.481496,
+    36.687932
+],
+  "geometry": {"coordinates":[-101.48149600000001,36.687932],"type":"Point"}
 }

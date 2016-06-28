@@ -2,13 +2,14 @@
   "id": 336919701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.46302,35.645416,-97.46302,35.645416",
     "geom:latitude":35.645416,
     "geom:longitude":-97.46302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 E 9th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336919701,
-    "wof:lastmodified":1448997762,
+    "wof:lastmodified":1466765288,
     "wof:name":"Lynn Nichols & Co",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-97.46302,35.645416,-97.46302,35.645416],
+  "bbox": [
+    -97.46302,
+    35.645416,
+    -97.46302,
+    35.645416
+],
   "geometry": {"coordinates":[-97.46302,35.645416],"type":"Point"}
 }

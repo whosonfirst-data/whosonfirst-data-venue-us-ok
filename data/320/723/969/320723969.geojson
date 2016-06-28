@@ -2,13 +2,14 @@
   "id": 320723969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.583309,35.499337,-97.583309,35.499337",
     "geom:latitude":35.499337,
     "geom:longitude":-97.583309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3094 N Portland Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320723969,
-    "wof:lastmodified":1449013441,
+    "wof:lastmodified":1466766493,
     "wof:name":"Neighborhood Thrift Store",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "thrift"
     ]
 },
-  "bbox": [-97.583309,35.499337,-97.583309,35.499337],
+  "bbox": [
+    -97.583309,
+    35.499337,
+    -97.583309,
+    35.499337
+],
   "geometry": {"coordinates":[-97.583309,35.499337],"type":"Point"}
 }

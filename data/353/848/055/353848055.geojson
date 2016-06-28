@@ -2,13 +2,14 @@
   "id": 353848055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.984409,36.137856,-95.984409,36.137856",
     "geom:latitude":36.137856,
     "geom:longitude":-95.984409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E 17th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353848055,
-    "wof:lastmodified":1449018607,
+    "wof:lastmodified":1466765434,
     "wof:name":"Shipman Drywall",
     "wof:parent_id":85872487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.984409,36.137856,-95.984409,36.137856],
+  "bbox": [
+    -95.984409,
+    36.137856,
+    -95.984409,
+    36.137856
+],
   "geometry": {"coordinates":[-95.984409,36.137856],"type":"Point"}
 }

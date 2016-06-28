@@ -2,13 +2,14 @@
   "id": 303394075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.211444,34.722952,-97.211444,34.722952",
     "geom:latitude":34.722952,
     "geom:longitude":-97.211444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Miller Dr",
     "sg:city":"Amber",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303394075,
-    "wof:lastmodified":1448998588,
+    "wof:lastmodified":1466765414,
     "wof:name":"Chiefs Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.211444,34.722952,-97.211444,34.722952],
+  "bbox": [
+    -97.211444,
+    34.722952,
+    -97.211444,
+    34.722952
+],
   "geometry": {"coordinates":[-97.211444,34.722952],"type":"Point"}
 }

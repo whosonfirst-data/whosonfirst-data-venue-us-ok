@@ -2,13 +2,14 @@
   "id": 336808325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.475495,34.611653,-98.475495,34.611653",
     "geom:latitude":34.611653,
     "geom:longitude":-98.475495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 NW Tanglewood Ln",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336808325,
-    "wof:lastmodified":1448996961,
+    "wof:lastmodified":1466764703,
     "wof:name":"Sellers and Fox Sweeping",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "parking"
     ]
 },
-  "bbox": [-98.475495,34.611653,-98.475495,34.611653],
+  "bbox": [
+    -98.475495,
+    34.611653,
+    -98.475495,
+    34.611653
+],
   "geometry": {"coordinates":[-98.475495,34.611653],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303577697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.498232,35.420881,-97.498232,35.420881",
     "geom:latitude":35.420881,
     "geom:longitude":-97.498232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 SE 44th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303577697,
-    "wof:lastmodified":1449000641,
+    "wof:lastmodified":1466766030,
     "wof:name":"Quick Transmissions",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission"
     ]
 },
-  "bbox": [-97.498232,35.420881,-97.498232,35.420881],
+  "bbox": [
+    -97.498232,
+    35.420881,
+    -97.498232,
+    35.420881
+],
   "geometry": {"coordinates":[-97.498232,35.420881],"type":"Point"}
 }

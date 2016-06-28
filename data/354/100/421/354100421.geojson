@@ -2,13 +2,14 @@
   "id": 354100421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.722382,34.967387,-94.722382,34.967387",
     "geom:latitude":34.967387,
     "geom:longitude":-94.722382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Highland Ave",
     "sg:city":"Wister",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354100421,
-    "wof:lastmodified":1449067214,
+    "wof:lastmodified":1466763509,
     "wof:name":"Dairy Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.722382,34.967387,-94.722382,34.967387],
+  "bbox": [
+    -94.722382,
+    34.967387,
+    -94.722382,
+    34.967387
+],
   "geometry": {"coordinates":[-94.722382,34.967387],"type":"Point"}
 }

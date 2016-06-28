@@ -2,13 +2,14 @@
   "id": 303577277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.505609,35.499963,-97.505609,35.499963",
     "geom:latitude":35.499963,
     "geom:longitude":-97.505609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3017 N Stiles Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303577277,
-    "wof:lastmodified":1449000640,
+    "wof:lastmodified":1466766026,
     "wof:name":"Tax Commission",
     "wof:parent_id":85871695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [-97.505609,35.499963,-97.505609,35.499963],
-  "geometry": {"coordinates":[-97.505609,35.499963],"type":"Point"}
+  "bbox": [
+    -97.505609,
+    35.499963,
+    -97.505609,
+    35.499963
+],
+  "geometry": {"coordinates":[-97.50560900000001,35.499963],"type":"Point"}
 }

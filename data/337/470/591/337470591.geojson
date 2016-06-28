@@ -2,13 +2,14 @@
   "id": 337470591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.951613,36.145529,-96.951613,36.145529",
     "geom:latitude":36.145529,
     "geom:longitude":-96.951613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7314 E Lakeview Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337470591,
-    "wof:lastmodified":1449027119,
+    "wof:lastmodified":1466762485,
     "wof:name":"Mc Laren Photonic Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.951613,36.145529,-96.951613,36.145529],
-  "geometry": {"coordinates":[-96.951613,36.145529],"type":"Point"}
+  "bbox": [
+    -96.951613,
+    36.145529,
+    -96.951613,
+    36.145529
+],
+  "geometry": {"coordinates":[-96.95161299999999,36.145529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320366517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.966299,36.06217,-95.966299,36.06217",
     "geom:latitude":36.06217,
     "geom:longitude":-95.966299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7024 S Utica Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320366517,
-    "wof:lastmodified":1449013982,
+    "wof:lastmodified":1466765481,
     "wof:name":"California $1.75 Cleaners Pre",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-95.966299,36.06217,-95.966299,36.06217],
-  "geometry": {"coordinates":[-95.966299,36.06217],"type":"Point"}
+  "bbox": [
+    -95.966299,
+    36.06217,
+    -95.966299,
+    36.06217
+],
+  "geometry": {"coordinates":[-95.96629900000001,36.06217],"type":"Point"}
 }

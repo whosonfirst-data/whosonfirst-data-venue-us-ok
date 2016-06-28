@@ -2,13 +2,14 @@
   "id": 303695503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.058188,35.304156,-97.058188,35.304156",
     "geom:latitude":35.304156,
     "geom:longitude":-97.058188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33708 Hardesty Rd",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303695503,
-    "wof:lastmodified":1448999045,
+    "wof:lastmodified":1466766475,
     "wof:name":"Bethel Monuments Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-97.058188,35.304156,-97.058188,35.304156],
+  "bbox": [
+    -97.058188,
+    35.304156,
+    -97.058188,
+    35.304156
+],
   "geometry": {"coordinates":[-97.058188,35.304156],"type":"Point"}
 }

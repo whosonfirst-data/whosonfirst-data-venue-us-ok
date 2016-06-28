@@ -2,13 +2,14 @@
   "id": 336869781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.016978,34.399263,-99.016978,34.399263",
     "geom:latitude":34.399263,
     "geom:longitude":-99.016978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 N Main St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336869781,
-    "wof:lastmodified":1448997931,
+    "wof:lastmodified":1466765047,
     "wof:name":"Corner Store The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.016978,34.399263,-99.016978,34.399263],
-  "geometry": {"coordinates":[-99.016978,34.399263],"type":"Point"}
+  "bbox": [
+    -99.016978,
+    34.399263,
+    -99.016978,
+    34.399263
+],
+  "geometry": {"coordinates":[-99.01697799999999,34.399263],"type":"Point"}
 }

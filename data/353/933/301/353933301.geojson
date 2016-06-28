@@ -2,13 +2,14 @@
   "id": 353933301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.574304,35.464095,-97.574304,35.464095",
     "geom:latitude":35.464095,
     "geom:longitude":-97.574304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 W Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353933301,
-    "wof:lastmodified":1449018779,
+    "wof:lastmodified":1466765871,
     "wof:name":"Okc Trailer Depot LLC",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "stable"
     ]
 },
-  "bbox": [-97.574304,35.464095,-97.574304,35.464095],
+  "bbox": [
+    -97.574304,
+    35.464095,
+    -97.574304,
+    35.464095
+],
   "geometry": {"coordinates":[-97.574304,35.464095],"type":"Point"}
 }

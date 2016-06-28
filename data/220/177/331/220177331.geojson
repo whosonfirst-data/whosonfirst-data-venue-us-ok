@@ -2,13 +2,14 @@
   "id": 220177331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.011662,36.090893,-96.011662,36.090893",
     "geom:latitude":36.090893,
     "geom:longitude":-96.011662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4940 S Union Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220177331,
-    "wof:lastmodified":1449074875,
+    "wof:lastmodified":1466762341,
     "wof:name":"DR Tipton's Chiropractic",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-96.011662,36.090893,-96.011662,36.090893],
+  "bbox": [
+    -96.011662,
+    36.090893,
+    -96.011662,
+    36.090893
+],
   "geometry": {"coordinates":[-96.011662,36.090893],"type":"Point"}
 }

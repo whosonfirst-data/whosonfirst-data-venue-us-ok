@@ -2,13 +2,14 @@
   "id": 320375875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.511607,35.659783,-97.511607,35.659783",
     "geom:latitude":35.659783,
     "geom:longitude":-97.511607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2116 Castle Rock",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320375875,
-    "wof:lastmodified":1449011392,
+    "wof:lastmodified":1466765597,
     "wof:name":"Precision Punch",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.511607,35.659783,-97.511607,35.659783],
+  "bbox": [
+    -97.511607,
+    35.659783,
+    -97.511607,
+    35.659783
+],
   "geometry": {"coordinates":[-97.511607,35.659783],"type":"Point"}
 }

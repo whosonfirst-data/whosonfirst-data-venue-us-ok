@@ -2,13 +2,14 @@
   "id": 320352213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.41138,35.394535,-99.41138,35.394535",
     "geom:latitude":35.394535,
     "geom:longitude":-99.41138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Griswold Swann",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320352213,
-    "wof:lastmodified":1449013545,
+    "wof:lastmodified":1466765383,
     "wof:name":"Hammer Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.41138,35.394535,-99.41138,35.394535],
-  "geometry": {"coordinates":[-99.41138,35.394535],"type":"Point"}
+  "bbox": [
+    -99.41138,
+    35.394535,
+    -99.41138,
+    35.394535
+],
+  "geometry": {"coordinates":[-99.41137999999999,35.394535],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220179013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.046238,36.082204,-96.046238,36.082204",
     "geom:latitude":36.082204,
     "geom:longitude":-96.046238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5620 W Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220179013,
-    "wof:lastmodified":1449074792,
+    "wof:lastmodified":1466762341,
     "wof:name":"Knox Laboratory Skelly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "laboratories-research"
     ]
 },
-  "bbox": [-96.046238,36.082204,-96.046238,36.082204],
+  "bbox": [
+    -96.046238,
+    36.082204,
+    -96.046238,
+    36.082204
+],
   "geometry": {"coordinates":[-96.046238,36.082204],"type":"Point"}
 }

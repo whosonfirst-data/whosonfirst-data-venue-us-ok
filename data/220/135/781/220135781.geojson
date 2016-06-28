@@ -2,13 +2,14 @@
   "id": 220135781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.548752,35.660961,-97.548752,35.660961",
     "geom:latitude":35.660961,
     "geom:longitude":-97.548752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18601 Wolf Creek Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220135781,
-    "wof:lastmodified":1449074342,
+    "wof:lastmodified":1466762826,
     "wof:name":"Autofresh International",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-97.548752,35.660961,-97.548752,35.660961],
-  "geometry": {"coordinates":[-97.548752,35.660961],"type":"Point"}
+  "bbox": [
+    -97.548752,
+    35.660961,
+    -97.548752,
+    35.660961
+],
+  "geometry": {"coordinates":[-97.54875199999999,35.660961],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353512263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.50814,35.524203,-97.50814,35.524203",
     "geom:latitude":35.524203,
     "geom:longitude":-97.50814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 NE 52nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353512263,
-    "wof:lastmodified":1449020104,
+    "wof:lastmodified":1466763308,
     "wof:name":"Simms Appraisal & Property",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-97.50814,35.524203,-97.50814,35.524203],
+  "bbox": [
+    -97.50814,
+    35.524203,
+    -97.50814,
+    35.524203
+],
   "geometry": {"coordinates":[-97.50814,35.524203],"type":"Point"}
 }

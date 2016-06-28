@@ -2,13 +2,14 @@
   "id": 353507065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.981761,35.305738,-98.981761,35.305738",
     "geom:latitude":35.305738,
     "geom:longitude":-98.981761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E 14th St",
     "sg:city":"Cordell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353507065,
-    "wof:lastmodified":1449019581,
+    "wof:lastmodified":1466763224,
     "wof:name":"Concept Housing of Cordell Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-98.981761,35.305738,-98.981761,35.305738],
-  "geometry": {"coordinates":[-98.981761,35.305738],"type":"Point"}
+  "bbox": [
+    -98.981761,
+    35.305738,
+    -98.981761,
+    35.305738
+],
+  "geometry": {"coordinates":[-98.98176100000001,35.305738],"type":"Point"}
 }

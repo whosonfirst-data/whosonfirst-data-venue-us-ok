@@ -2,13 +2,14 @@
   "id": 320762757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.65488,36.539296,-95.65488,36.539296",
     "geom:latitude":36.539296,
     "geom:longitude":-95.65488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9977 E 330 Rd",
     "sg:city":"Talala",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320762757,
-    "wof:lastmodified":1449013896,
+    "wof:lastmodified":1466766733,
     "wof:name":"Stanford Backhoe Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.65488,36.539296,-95.65488,36.539296],
-  "geometry": {"coordinates":[-95.65488,36.539296],"type":"Point"}
+  "bbox": [
+    -95.65488,
+    36.539296,
+    -95.65488,
+    36.539296
+],
+  "geometry": {"coordinates":[-95.65488000000001,36.539296],"type":"Point"}
 }

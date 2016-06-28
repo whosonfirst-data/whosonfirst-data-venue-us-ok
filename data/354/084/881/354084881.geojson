@@ -2,13 +2,14 @@
   "id": 354084881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.669795,35.225483,-96.669795,35.225483",
     "geom:latitude":35.225483,
     "geom:longitude":-96.669795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N 2nd St",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354084881,
-    "wof:lastmodified":1449066120,
+    "wof:lastmodified":1466763455,
     "wof:name":"Midwest Commercial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "construction"
     ]
 },
-  "bbox": [-96.669795,35.225483,-96.669795,35.225483],
-  "geometry": {"coordinates":[-96.669795,35.225483],"type":"Point"}
+  "bbox": [
+    -96.669795,
+    35.225483,
+    -96.669795,
+    35.225483
+],
+  "geometry": {"coordinates":[-96.66979499999999,35.225483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336786751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.614388,36.365257,-95.614388,36.365257",
     "geom:latitude":36.365257,
     "geom:longitude":-95.614388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12212 E 450 Rd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336786751,
-    "wof:lastmodified":1448997068,
+    "wof:lastmodified":1466764696,
     "wof:name":"Gedd LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.614388,36.365257,-95.614388,36.365257],
-  "geometry": {"coordinates":[-95.614388,36.365257],"type":"Point"}
+  "bbox": [
+    -95.614388,
+    36.365257,
+    -95.614388,
+    36.365257
+],
+  "geometry": {"coordinates":[-95.61438800000001,36.365257],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320358665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.997071,35.510461,-98.997071,35.510461",
     "geom:latitude":35.510461,
     "geom:longitude":-98.997071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 S 30th St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320358665,
-    "wof:lastmodified":1449012830,
+    "wof:lastmodified":1466765521,
     "wof:name":"Vision Source",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.997071,35.510461,-98.997071,35.510461],
-  "geometry": {"coordinates":[-98.997071,35.510461],"type":"Point"}
+  "bbox": [
+    -98.997071,
+    35.510461,
+    -98.997071,
+    35.510461
+],
+  "geometry": {"coordinates":[-98.99707100000001,35.510461],"type":"Point"}
 }

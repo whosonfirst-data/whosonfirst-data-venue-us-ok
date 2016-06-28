@@ -2,13 +2,14 @@
   "id": 354049223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547566,35.406289,-97.547566,35.406289",
     "geom:latitude":35.406289,
     "geom:longitude":-97.547566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 SW 59th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354049223,
-    "wof:lastmodified":1449066765,
+    "wof:lastmodified":1466763278,
     "wof:name":"Tower Loan",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-97.547566,35.406289,-97.547566,35.406289],
+  "bbox": [
+    -97.547566,
+    35.406289,
+    -97.547566,
+    35.406289
+],
   "geometry": {"coordinates":[-97.547566,35.406289],"type":"Point"}
 }

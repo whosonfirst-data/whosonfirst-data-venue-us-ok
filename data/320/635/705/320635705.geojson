@@ -2,13 +2,14 @@
   "id": 320635705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.841647,36.369602,-95.841647,36.369602",
     "geom:latitude":36.369602,
     "geom:longitude":-95.841647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 N 14th St",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320635705,
-    "wof:lastmodified":1449012871,
+    "wof:lastmodified":1466766362,
     "wof:name":"J Marsh & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.841647,36.369602,-95.841647,36.369602],
-  "geometry": {"coordinates":[-95.841647,36.369602],"type":"Point"}
+  "bbox": [
+    -95.841647,
+    36.369602,
+    -95.841647,
+    36.369602
+],
+  "geometry": {"coordinates":[-95.84164699999999,36.369602],"type":"Point"}
 }

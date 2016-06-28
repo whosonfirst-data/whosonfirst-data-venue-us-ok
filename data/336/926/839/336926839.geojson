@@ -2,13 +2,14 @@
   "id": 336926839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.905694,36.390691,-97.905694,36.390691",
     "geom:latitude":36.390691,
     "geom:longitude":-97.905694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2205 W Owen K Garriott Rd",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336926839,
-    "wof:lastmodified":1448997303,
+    "wof:lastmodified":1466765332,
     "wof:name":"Fire Department 4",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-97.905694,36.390691,-97.905694,36.390691],
+  "bbox": [
+    -97.905694,
+    36.390691,
+    -97.905694,
+    36.390691
+],
   "geometry": {"coordinates":[-97.905694,36.390691],"type":"Point"}
 }

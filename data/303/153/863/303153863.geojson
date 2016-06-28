@@ -2,13 +2,14 @@
   "id": 303153863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.895894,36.419929,-97.895894,36.419929",
     "geom:latitude":36.419929,
     "geom:longitude":-97.895894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 W Willow Rd",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303153863,
-    "wof:lastmodified":1448999802,
+    "wof:lastmodified":1466764102,
     "wof:name":"Burgundy Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "retired"
     ]
 },
-  "bbox": [-97.895894,36.419929,-97.895894,36.419929],
+  "bbox": [
+    -97.895894,
+    36.419929,
+    -97.895894,
+    36.419929
+],
   "geometry": {"coordinates":[-97.895894,36.419929],"type":"Point"}
 }

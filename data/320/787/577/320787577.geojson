@@ -2,13 +2,14 @@
   "id": 320787577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.576813,35.525818,-97.576813,35.525818",
     "geom:latitude":35.525818,
     "geom:longitude":-97.576813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 N Grand Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320787577,
-    "wof:lastmodified":1449012944,
+    "wof:lastmodified":1466766804,
     "wof:name":"Prime Operating",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exploration"
     ]
 },
-  "bbox": [-97.576813,35.525818,-97.576813,35.525818],
+  "bbox": [
+    -97.576813,
+    35.525818,
+    -97.576813,
+    35.525818
+],
   "geometry": {"coordinates":[-97.576813,35.525818],"type":"Point"}
 }

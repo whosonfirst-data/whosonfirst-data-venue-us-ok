@@ -2,13 +2,14 @@
   "id": 320319871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.74517,35.638354,-97.74517,35.638354",
     "geom:latitude":35.638354,
     "geom:longitude":-97.74517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Piedmont Rd N",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320319871,
-    "wof:lastmodified":1449012793,
+    "wof:lastmodified":1466765291,
     "wof:name":"Piedmont Cleaners & Shoe Rpr",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-97.74517,35.638354,-97.74517,35.638354],
+  "bbox": [
+    -97.74517,
+    35.638354,
+    -97.74517,
+    35.638354
+],
   "geometry": {"coordinates":[-97.74517,35.638354],"type":"Point"}
 }

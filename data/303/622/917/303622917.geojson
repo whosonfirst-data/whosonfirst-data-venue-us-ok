@@ -2,13 +2,14 @@
   "id": 303622917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.496114,35.661827,-97.496114,35.661827",
     "geom:latitude":35.661827,
     "geom:longitude":-97.496114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N Kelly Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303622917,
-    "wof:lastmodified":1449000121,
+    "wof:lastmodified":1466766261,
     "wof:name":"Lab Consultant Services Inc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-97.496114,35.661827,-97.496114,35.661827],
-  "geometry": {"coordinates":[-97.496114,35.661827],"type":"Point"}
+  "bbox": [
+    -97.496114,
+    35.661827,
+    -97.496114,
+    35.661827
+],
+  "geometry": {"coordinates":[-97.49611400000001,35.661827],"type":"Point"}
 }

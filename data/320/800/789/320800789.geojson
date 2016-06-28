@@ -2,13 +2,14 @@
   "id": 320800789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.049114,36.88495,-97.049114,36.88495",
     "geom:latitude":36.88495,
     "geom:longitude":-97.049114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N Pine Ave",
     "sg:city":"Newkirk",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320800789,
-    "wof:lastmodified":1449011542,
+    "wof:lastmodified":1466766845,
     "wof:name":"Donaldson Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.049114,36.88495,-97.049114,36.88495],
+  "bbox": [
+    -97.049114,
+    36.88495,
+    -97.049114,
+    36.88495
+],
   "geometry": {"coordinates":[-97.049114,36.88495],"type":"Point"}
 }

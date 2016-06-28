@@ -2,13 +2,14 @@
   "id": 303587659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.403658,36.433573,-99.403658,36.433573",
     "geom:latitude":36.433573,
     "geom:longitude":-99.403658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 Oklahoma Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303587659,
-    "wof:lastmodified":1448998955,
+    "wof:lastmodified":1466766063,
     "wof:name":"Foard & Talley Pllc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.403658,36.433573,-99.403658,36.433573],
-  "geometry": {"coordinates":[-99.403658,36.433573],"type":"Point"}
+  "bbox": [
+    -99.403658,
+    36.433573,
+    -99.403658,
+    36.433573
+],
+  "geometry": {"coordinates":[-99.40365799999999,36.433573],"type":"Point"}
 }

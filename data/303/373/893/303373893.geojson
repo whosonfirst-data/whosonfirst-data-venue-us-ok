@@ -2,13 +2,14 @@
   "id": 303373893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.521254,35.466485,-97.521254,35.466485",
     "geom:latitude":35.466485,
     "geom:longitude":-97.521254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Sheridan Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303373893,
-    "wof:lastmodified":1448999386,
+    "wof:lastmodified":1466765306,
     "wof:name":"Inner City Dance",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-97.521254,35.466485,-97.521254,35.466485],
+  "bbox": [
+    -97.521254,
+    35.466485,
+    -97.521254,
+    35.466485
+],
   "geometry": {"coordinates":[-97.521254,35.466485],"type":"Point"}
 }

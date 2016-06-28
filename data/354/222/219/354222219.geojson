@@ -2,13 +2,14 @@
   "id": 354222219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.936702,35.252234,-96.936702,35.252234",
     "geom:latitude":35.252234,
     "geom:longitude":-96.936702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 S Broadway St",
     "sg:city":"Tecumseh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354222219,
-    "wof:lastmodified":1449067115,
+    "wof:lastmodified":1466764050,
     "wof:name":"ERS Electronic Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.936702,35.252234,-96.936702,35.252234],
+  "bbox": [
+    -96.936702,
+    35.252234,
+    -96.936702,
+    35.252234
+],
   "geometry": {"coordinates":[-96.936702,35.252234],"type":"Point"}
 }

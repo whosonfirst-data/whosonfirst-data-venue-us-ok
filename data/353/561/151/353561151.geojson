@@ -2,13 +2,14 @@
   "id": 353561151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.31725,34.66915,-99.31725,34.66915",
     "geom:latitude":34.66915,
     "geom:longitude":-99.31725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2913 N Towne Dr",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353561151,
-    "wof:lastmodified":1449020057,
+    "wof:lastmodified":1466764033,
     "wof:name":"V &E Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-99.31725,34.66915,-99.31725,34.66915],
+  "bbox": [
+    -99.31725,
+    34.66915,
+    -99.31725,
+    34.66915
+],
   "geometry": {"coordinates":[-99.31725,34.66915],"type":"Point"}
 }

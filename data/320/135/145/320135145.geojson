@@ -2,13 +2,14 @@
   "id": 320135145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.888675,36.092447,-95.888675,36.092447",
     "geom:latitude":36.092447,
     "geom:longitude":-95.888675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4937 S 79th East Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320135145,
-    "wof:lastmodified":1449012708,
+    "wof:lastmodified":1466764297,
     "wof:name":"Entertainment Publications",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "book"
     ]
 },
-  "bbox": [-95.888675,36.092447,-95.888675,36.092447],
-  "geometry": {"coordinates":[-95.888675,36.092447],"type":"Point"}
+  "bbox": [
+    -95.888675,
+    36.092447,
+    -95.888675,
+    36.092447
+],
+  "geometry": {"coordinates":[-95.88867500000001,36.092447],"type":"Point"}
 }

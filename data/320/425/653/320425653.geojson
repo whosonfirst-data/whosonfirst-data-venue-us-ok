@@ -2,13 +2,14 @@
   "id": 320425653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.843475,36.035805,-95.843475,36.035805",
     "geom:latitude":36.035805,
     "geom:longitude":-95.843475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4413 W Toledo St",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320425653,
-    "wof:lastmodified":1449012588,
+    "wof:lastmodified":1466765859,
     "wof:name":"Genesis Group",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.843475,36.035805,-95.843475,36.035805],
+  "bbox": [
+    -95.843475,
+    36.035805,
+    -95.843475,
+    36.035805
+],
   "geometry": {"coordinates":[-95.843475,36.035805],"type":"Point"}
 }

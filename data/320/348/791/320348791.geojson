@@ -2,13 +2,14 @@
   "id": 320348791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.604173,35.986594,-96.604173,35.986594",
     "geom:latitude":35.986594,
     "geom:longitude":-96.604173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 S Cimarron Ave",
     "sg:city":"Drumright",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320348791,
-    "wof:lastmodified":1449011423,
+    "wof:lastmodified":1466765470,
     "wof:name":"St Mary's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.604173,35.986594,-96.604173,35.986594],
+  "bbox": [
+    -96.604173,
+    35.986594,
+    -96.604173,
+    35.986594
+],
   "geometry": {"coordinates":[-96.604173,35.986594],"type":"Point"}
 }

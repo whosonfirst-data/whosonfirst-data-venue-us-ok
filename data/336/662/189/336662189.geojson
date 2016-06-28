@@ -2,13 +2,14 @@
   "id": 336662189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.957076,35.520354,-97.957076,35.520354",
     "geom:latitude":35.520354,
     "geom:longitude":-97.957076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 S Jensen Ave",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336662189,
-    "wof:lastmodified":1448997653,
+    "wof:lastmodified":1466763135,
     "wof:name":"Great Expectations",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.957076,35.520354,-97.957076,35.520354],
+  "bbox": [
+    -97.957076,
+    35.520354,
+    -97.957076,
+    35.520354
+],
   "geometry": {"coordinates":[-97.957076,35.520354],"type":"Point"}
 }

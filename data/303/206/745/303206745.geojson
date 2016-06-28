@@ -2,13 +2,14 @@
   "id": 303206745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.537827,35.458187,-97.537827,35.458187",
     "geom:latitude":35.458187,
     "geom:longitude":-97.537827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Exchange Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303206745,
-    "wof:lastmodified":1448999780,
+    "wof:lastmodified":1466764613,
     "wof:name":"M P Ready Mix Inc",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-97.537827,35.458187,-97.537827,35.458187],
-  "geometry": {"coordinates":[-97.537827,35.458187],"type":"Point"}
+  "bbox": [
+    -97.537827,
+    35.458187,
+    -97.537827,
+    35.458187
+],
+  "geometry": {"coordinates":[-97.53782699999999,35.458187],"type":"Point"}
 }

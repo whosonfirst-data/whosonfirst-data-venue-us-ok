@@ -2,13 +2,14 @@
   "id": 303480065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.054273,36.075527,-96.054273,36.075527",
     "geom:latitude":36.075527,
     "geom:longitude":-96.054273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5503 W 61st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303480065,
-    "wof:lastmodified":1448998913,
+    "wof:lastmodified":1466765675,
     "wof:name":"Tulsa Truck Ctr Inc",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-96.054273,36.075527,-96.054273,36.075527],
-  "geometry": {"coordinates":[-96.054273,36.075527],"type":"Point"}
+  "bbox": [
+    -96.054273,
+    36.075527,
+    -96.054273,
+    36.075527
+],
+  "geometry": {"coordinates":[-96.05427299999999,36.075527],"type":"Point"}
 }

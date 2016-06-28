@@ -2,13 +2,14 @@
   "id": 319922917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.656303,35.569924,-97.656303,35.569924",
     "geom:latitude":35.569924,
     "geom:longitude":-97.656303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9777 N Council Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":319922917,
-    "wof:lastmodified":1449024177,
+    "wof:lastmodified":1466763850,
     "wof:name":"Prairie Springs Apartments",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "management"
     ]
 },
-  "bbox": [-97.656303,35.569924,-97.656303,35.569924],
-  "geometry": {"coordinates":[-97.656303,35.569924],"type":"Point"}
+  "bbox": [
+    -97.656303,
+    35.569924,
+    -97.656303,
+    35.569924
+],
+  "geometry": {"coordinates":[-97.65630299999999,35.569924],"type":"Point"}
 }

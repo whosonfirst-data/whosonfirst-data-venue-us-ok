@@ -2,13 +2,14 @@
   "id": 354185677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.481697,35.652315,-97.481697,35.652315",
     "geom:latitude":35.652315,
     "geom:longitude":-97.481697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 S Broadway",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":354185677,
-    "wof:lastmodified":1449066216,
+    "wof:lastmodified":1466763837,
     "wof:name":"Broadway Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.481697,35.652315,-97.481697,35.652315],
+  "bbox": [
+    -97.481697,
+    35.652315,
+    -97.481697,
+    35.652315
+],
   "geometry": {"coordinates":[-97.481697,35.652315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287241205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.524756,34.651547,-96.524756,34.651547",
     "geom:latitude":34.651547,
     "geom:longitude":-96.524756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 5th St",
     "sg:city":"Stonewall",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287241205,
-    "wof:lastmodified":1449001572,
+    "wof:lastmodified":1466762557,
     "wof:name":"TDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-96.524756,34.651547,-96.524756,34.651547],
+  "bbox": [
+    -96.524756,
+    34.651547,
+    -96.524756,
+    34.651547
+],
   "geometry": {"coordinates":[-96.524756,34.651547],"type":"Point"}
 }

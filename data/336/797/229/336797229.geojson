@@ -2,13 +2,14 @@
   "id": 336797229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.684592,35.478792,-97.684592,35.478792",
     "geom:latitude":35.478792,
     "geom:longitude":-97.684592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9400 NW 10th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":336797229,
-    "wof:lastmodified":1448997914,
+    "wof:lastmodified":1466764539,
     "wof:name":"Swift Trnsp Co Inc Ariz",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.684592,35.478792,-97.684592,35.478792],
-  "geometry": {"coordinates":[-97.684592,35.478792],"type":"Point"}
+  "bbox": [
+    -97.684592,
+    35.478792,
+    -97.684592,
+    35.478792
+],
+  "geometry": {"coordinates":[-97.68459199999999,35.478792],"type":"Point"}
 }

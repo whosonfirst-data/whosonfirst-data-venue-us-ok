@@ -2,13 +2,14 @@
   "id": 303741941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.044993,36.085889,-96.044993,36.085889",
     "geom:latitude":36.085889,
     "geom:longitude":-96.044993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5503 Southwest Blvd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303741941,
-    "wof:lastmodified":1448998250,
+    "wof:lastmodified":1466766477,
     "wof:name":"O'Bryan's Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.044993,36.085889,-96.044993,36.085889],
-  "geometry": {"coordinates":[-96.044993,36.085889],"type":"Point"}
+  "bbox": [
+    -96.044993,
+    36.085889,
+    -96.044993,
+    36.085889
+],
+  "geometry": {"coordinates":[-96.04499300000001,36.085889],"type":"Point"}
 }

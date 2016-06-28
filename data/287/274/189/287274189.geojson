@@ -2,13 +2,14 @@
   "id": 287274189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.05392,36.112468,-97.05392,36.112468",
     "geom:latitude":36.112468,
     "geom:longitude":-97.05392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 E 9th Ave",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287274189,
-    "wof:lastmodified":1449000774,
+    "wof:lastmodified":1466763051,
     "wof:name":"Yamaha Of Stillwater",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "motor"
     ]
 },
-  "bbox": [-97.05392,36.112468,-97.05392,36.112468],
-  "geometry": {"coordinates":[-97.05392,36.112468],"type":"Point"}
+  "bbox": [
+    -97.05392,
+    36.112468,
+    -97.05392,
+    36.112468
+],
+  "geometry": {"coordinates":[-97.05392000000001,36.112468],"type":"Point"}
 }

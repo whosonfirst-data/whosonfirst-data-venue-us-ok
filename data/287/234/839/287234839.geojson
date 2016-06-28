@@ -2,13 +2,14 @@
   "id": 287234839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.537023,35.544535,-97.537023,35.544535",
     "geom:latitude":35.544535,
     "geom:longitude":-97.537023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6605 NW Grand Blvd",
     "sg:city":"Nichols Hills",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287234839,
-    "wof:lastmodified":1449001542,
+    "wof:lastmodified":1466762458,
     "wof:name":"Charles E Covington Command",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.537023,35.544535,-97.537023,35.544535],
+  "bbox": [
+    -97.537023,
+    35.544535,
+    -97.537023,
+    35.544535
+],
   "geometry": {"coordinates":[-97.537023,35.544535],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320842279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.629751,35.605693,-97.629751,35.605693",
     "geom:latitude":35.605693,
     "geom:longitude":-97.629751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6504 NW 134th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320842279,
-    "wof:lastmodified":1449011520,
+    "wof:lastmodified":1466766940,
     "wof:name":"Oklahoma Appraisal Svc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-97.629751,35.605693,-97.629751,35.605693],
+  "bbox": [
+    -97.629751,
+    35.605693,
+    -97.629751,
+    35.605693
+],
   "geometry": {"coordinates":[-97.629751,35.605693],"type":"Point"}
 }

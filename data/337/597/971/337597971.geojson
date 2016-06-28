@@ -2,13 +2,14 @@
   "id": 337597971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479965,34.623772,-98.479965,34.623772",
     "geom:latitude":34.623772,
     "geom:longitude":-98.479965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 NW Hunter Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337597971,
-    "wof:lastmodified":1449027729,
+    "wof:lastmodified":1466763204,
     "wof:name":"Pepper Tree",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-98.479965,34.623772,-98.479965,34.623772],
-  "geometry": {"coordinates":[-98.479965,34.623772],"type":"Point"}
+  "bbox": [
+    -98.479965,
+    34.623772,
+    -98.479965,
+    34.623772
+],
+  "geometry": {"coordinates":[-98.47996500000001,34.623772],"type":"Point"}
 }

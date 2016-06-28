@@ -2,13 +2,14 @@
   "id": 320121479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.975074,35.5224,-97.975074,35.5224",
     "geom:latitude":35.5224,
     "geom:longitude":-97.975074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 W Elm St",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320121479,
-    "wof:lastmodified":1449014145,
+    "wof:lastmodified":1466764113,
     "wof:name":"Long's Lawn & Garden",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mower"
     ]
 },
-  "bbox": [-97.975074,35.5224,-97.975074,35.5224],
-  "geometry": {"coordinates":[-97.975074,35.5224],"type":"Point"}
+  "bbox": [
+    -97.975074,
+    35.5224,
+    -97.975074,
+    35.5224
+],
+  "geometry": {"coordinates":[-97.97507400000001,35.5224],"type":"Point"}
 }

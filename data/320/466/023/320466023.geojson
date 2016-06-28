@@ -2,13 +2,14 @@
   "id": 320466023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.021599,36.711885,-97.021599,36.711885",
     "geom:latitude":36.711885,
     "geom:longitude":-97.021599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Fawn Ln",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320466023,
-    "wof:lastmodified":1449012375,
+    "wof:lastmodified":1466765982,
     "wof:name":"Robert L Huddleston Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "management"
     ]
 },
-  "bbox": [-97.021599,36.711885,-97.021599,36.711885],
-  "geometry": {"coordinates":[-97.021599,36.711885],"type":"Point"}
+  "bbox": [
+    -97.021599,
+    36.711885,
+    -97.021599,
+    36.711885
+],
+  "geometry": {"coordinates":[-97.02159899999999,36.711885],"type":"Point"}
 }

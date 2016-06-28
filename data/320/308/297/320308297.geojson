@@ -2,13 +2,14 @@
   "id": 320308297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.30157,35.491455,-95.30157,35.491455",
     "geom:latitude":35.491455,
     "geom:longitude":-95.30157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 7th Ave",
     "sg:city":"Warner",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320308297,
-    "wof:lastmodified":1449015060,
+    "wof:lastmodified":1466765293,
     "wof:name":"Town & Country Clinic",
     "wof:parent_id":85868899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-95.30157,35.491455,-95.30157,35.491455],
+  "bbox": [
+    -95.30157,
+    35.491455,
+    -95.30157,
+    35.491455
+],
   "geometry": {"coordinates":[-95.30157,35.491455],"type":"Point"}
 }

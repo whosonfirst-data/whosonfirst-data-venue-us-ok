@@ -2,13 +2,14 @@
   "id": 336613783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.216845,34.73819,-97.216845,34.73819",
     "geom:latitude":34.73819,
     "geom:longitude":-97.216845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 S Chickasaw St",
     "sg:city":"Pauls Valley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336613783,
-    "wof:lastmodified":1448997451,
+    "wof:lastmodified":1466762389,
     "wof:name":"Pauls Valley Gas & Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.216845,34.73819,-97.216845,34.73819],
-  "geometry": {"coordinates":[-97.216845,34.73819],"type":"Point"}
+  "bbox": [
+    -97.216845,
+    34.73819,
+    -97.216845,
+    34.73819
+],
+  "geometry": {"coordinates":[-97.21684500000001,34.73819],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320452195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.344665,35.464096,-97.344665,35.464096",
     "geom:latitude":35.464096,
     "geom:longitude":-97.344665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10531 E Reno Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320452195,
-    "wof:lastmodified":1449012142,
+    "wof:lastmodified":1466765951,
     "wof:name":"Deen Carpentry",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.344665,35.464096,-97.344665,35.464096],
-  "geometry": {"coordinates":[-97.344665,35.464096],"type":"Point"}
+  "bbox": [
+    -97.344665,
+    35.464096,
+    -97.344665,
+    35.464096
+],
+  "geometry": {"coordinates":[-97.34466500000001,35.464096],"type":"Point"}
 }

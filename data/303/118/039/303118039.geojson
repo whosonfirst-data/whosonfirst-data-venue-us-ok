@@ -2,13 +2,14 @@
   "id": 303118039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.842295,36.281625,-95.842295,36.281625",
     "geom:latitude":36.281625,
     "geom:longitude":-95.842295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8927 N 120th East Ave",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303118039,
-    "wof:lastmodified":1449000098,
+    "wof:lastmodified":1466763526,
     "wof:name":"All Points Elec Svc Co LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.842295,36.281625,-95.842295,36.281625],
-  "geometry": {"coordinates":[-95.842295,36.281625],"type":"Point"}
+  "bbox": [
+    -95.842295,
+    36.281625,
+    -95.842295,
+    36.281625
+],
+  "geometry": {"coordinates":[-95.84229499999999,36.281625],"type":"Point"}
 }

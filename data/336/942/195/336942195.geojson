@@ -2,13 +2,14 @@
   "id": 336942195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.513973,35.649396,-97.513973,35.649396",
     "geom:latitude":35.649396,
     "geom:longitude":-97.513973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 S Santa Fe Ave",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336942195,
-    "wof:lastmodified":1448997448,
+    "wof:lastmodified":1466765500,
     "wof:name":"Linsco Private Ledger Fncl Svc",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-97.513973,35.649396,-97.513973,35.649396],
-  "geometry": {"coordinates":[-97.513973,35.649396],"type":"Point"}
+  "bbox": [
+    -97.513973,
+    35.649396,
+    -97.513973,
+    35.649396
+],
+  "geometry": {"coordinates":[-97.51397299999999,35.649396],"type":"Point"}
 }

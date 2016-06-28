@@ -2,13 +2,14 @@
   "id": 320174267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.446668,35.639675,-97.446668,35.639675",
     "geom:latitude":35.639675,
     "geom:longitude":-97.446668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2413 Brixton Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320174267,
-    "wof:lastmodified":1449011762,
+    "wof:lastmodified":1466764631,
     "wof:name":"Gale Braden",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-97.446668,35.639675,-97.446668,35.639675],
+  "bbox": [
+    -97.446668,
+    35.639675,
+    -97.446668,
+    35.639675
+],
   "geometry": {"coordinates":[-97.446668,35.639675],"type":"Point"}
 }

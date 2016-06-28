@@ -2,13 +2,14 @@
   "id": 336903769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.634121,36.700054,-95.634121,36.700054",
     "geom:latitude":36.700054,
     "geom:longitude":-95.634121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 E Cherokee Ave",
     "sg:city":"Nowata",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336903769,
-    "wof:lastmodified":1448996989,
+    "wof:lastmodified":1466765242,
     "wof:name":"Stanley Tire Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-95.634121,36.700054,-95.634121,36.700054],
-  "geometry": {"coordinates":[-95.634121,36.700054],"type":"Point"}
+  "bbox": [
+    -95.634121,
+    36.700054,
+    -95.634121,
+    36.700054
+],
+  "geometry": {"coordinates":[-95.63412099999999,36.700054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303773357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.823118,36.285294,-95.823118,36.285294",
     "geom:latitude":36.285294,
     "geom:longitude":-95.823118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13417 E 90th St N",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303773357,
-    "wof:lastmodified":1448998430,
+    "wof:lastmodified":1466766667,
     "wof:name":"Theodore A Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.823118,36.285294,-95.823118,36.285294],
-  "geometry": {"coordinates":[-95.823118,36.285294],"type":"Point"}
+  "bbox": [
+    -95.823118,
+    36.285294,
+    -95.823118,
+    36.285294
+],
+  "geometry": {"coordinates":[-95.82311799999999,36.285294],"type":"Point"}
 }

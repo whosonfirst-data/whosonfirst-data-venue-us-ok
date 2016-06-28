@@ -2,13 +2,14 @@
   "id": 303754673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.516798,35.551201,-97.516798,35.551201",
     "geom:latitude":35.551201,
     "geom:longitude":-97.516798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W Wilshire Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303754673,
-    "wof:lastmodified":1448999719,
+    "wof:lastmodified":1466766623,
     "wof:name":"Gw2 Engineering Inc",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-97.516798,35.551201,-97.516798,35.551201],
-  "geometry": {"coordinates":[-97.516798,35.551201],"type":"Point"}
+  "bbox": [
+    -97.516798,
+    35.551201,
+    -97.516798,
+    35.551201
+],
+  "geometry": {"coordinates":[-97.51679799999999,35.551201],"type":"Point"}
 }

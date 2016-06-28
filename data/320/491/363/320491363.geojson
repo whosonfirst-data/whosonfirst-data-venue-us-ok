@@ -2,13 +2,14 @@
   "id": 320491363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.403515,35.753603,-95.403515,35.753603",
     "geom:latitude":35.753603,
     "geom:longitude":-95.403515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 S 33rd St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320491363,
-    "wof:lastmodified":1449011198,
+    "wof:lastmodified":1466766049,
     "wof:name":"Frank Apts Kate",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.403515,35.753603,-95.403515,35.753603],
+  "bbox": [
+    -95.403515,
+    35.753603,
+    -95.403515,
+    35.753603
+],
   "geometry": {"coordinates":[-95.403515,35.753603],"type":"Point"}
 }

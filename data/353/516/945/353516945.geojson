@@ -2,13 +2,14 @@
   "id": 353516945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.560528,35.565737,-97.560528,35.565737",
     "geom:latitude":35.565737,
     "geom:longitude":-97.560528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 W Britton Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353516945,
-    "wof:lastmodified":1449018744,
+    "wof:lastmodified":1466763375,
     "wof:name":"French Quarter Antiques",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-97.560528,35.565737,-97.560528,35.565737],
-  "geometry": {"coordinates":[-97.560528,35.565737],"type":"Point"}
+  "bbox": [
+    -97.560528,
+    35.565737,
+    -97.560528,
+    35.565737
+],
+  "geometry": {"coordinates":[-97.56052800000001,35.565737],"type":"Point"}
 }

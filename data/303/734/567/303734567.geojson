@@ -2,13 +2,14 @@
   "id": 303734567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.957962,36.077517,-95.957962,36.077517",
     "geom:latitude":36.077517,
     "geom:longitude":-95.957962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5937 S Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303734567,
-    "wof:lastmodified":1449000257,
+    "wof:lastmodified":1466766629,
     "wof:name":"Mazzio's Pizza",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.957962,36.077517,-95.957962,36.077517],
-  "geometry": {"coordinates":[-95.957962,36.077517],"type":"Point"}
+  "bbox": [
+    -95.957962,
+    36.077517,
+    -95.957962,
+    36.077517
+],
+  "geometry": {"coordinates":[-95.95796199999999,36.077517],"type":"Point"}
 }

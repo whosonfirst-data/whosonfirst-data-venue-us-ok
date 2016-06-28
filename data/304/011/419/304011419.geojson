@@ -2,13 +2,14 @@
   "id": 304011419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.482068,35.654284,-97.482068,35.654284",
     "geom:latitude":35.654284,
     "geom:longitude":-97.482068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 W 1st St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":304011419,
-    "wof:lastmodified":1449044049,
+    "wof:lastmodified":1466762873,
     "wof:name":"Mobility Medical Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.482068,35.654284,-97.482068,35.654284],
+  "bbox": [
+    -97.482068,
+    35.654284,
+    -97.482068,
+    35.654284
+],
   "geometry": {"coordinates":[-97.482068,35.654284],"type":"Point"}
 }

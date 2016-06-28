@@ -2,13 +2,14 @@
   "id": 303312659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.522491,35.469551,-97.522491,35.469551",
     "geom:latitude":35.469551,
     "geom:longitude":-97.522491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Couch Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303312659,
-    "wof:lastmodified":1448999352,
+    "wof:lastmodified":1466765125,
     "wof:name":"Mc Tiernan Co",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exploration"
     ]
 },
-  "bbox": [-97.522491,35.469551,-97.522491,35.469551],
+  "bbox": [
+    -97.522491,
+    35.469551,
+    -97.522491,
+    35.469551
+],
   "geometry": {"coordinates":[-97.522491,35.469551],"type":"Point"}
 }

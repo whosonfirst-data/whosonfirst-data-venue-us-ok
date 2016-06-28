@@ -2,13 +2,14 @@
   "id": 319988233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.318277,35.652665,-97.318277,35.652665",
     "geom:latitude":35.652665,
     "geom:longitude":-97.318277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12350 E 2nd St",
     "sg:city":"Arcadia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":319988233,
-    "wof:lastmodified":1449024340,
+    "wof:lastmodified":1466762514,
     "wof:name":"R W Pace Playground Equipment",
     "wof:parent_id":85829129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [-97.318277,35.652665,-97.318277,35.652665],
-  "geometry": {"coordinates":[-97.318277,35.652665],"type":"Point"}
+  "bbox": [
+    -97.318277,
+    35.652665,
+    -97.318277,
+    35.652665
+],
+  "geometry": {"coordinates":[-97.31827699999999,35.652665],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220136335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.482165,35.64892,-97.482165,35.64892",
     "geom:latitude":35.64892,
     "geom:longitude":-97.482165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 S Broadway",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -64,14 +65,20 @@
         }
     ],
     "wof:id":220136335,
-    "wof:lastmodified":1449074868,
+    "wof:lastmodified":1466763544,
     "wof:name":"Tiger Lily",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.482165,35.64892,-97.482165,35.64892],
-  "geometry": {"coordinates":[-97.482165,35.64892],"type":"Point"}
+  "bbox": [
+    -97.482165,
+    35.64892,
+    -97.482165,
+    35.64892
+],
+  "geometry": {"coordinates":[-97.48216499999999,35.64892],"type":"Point"}
 }

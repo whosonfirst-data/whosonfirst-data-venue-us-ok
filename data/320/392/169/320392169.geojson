@@ -2,13 +2,14 @@
   "id": 320392169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.406096,35.442803,-97.406096,35.442803",
     "geom:latitude":35.442803,
     "geom:longitude":-97.406096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2231 S Air Depot Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320392169,
-    "wof:lastmodified":1449014225,
+    "wof:lastmodified":1466765534,
     "wof:name":"Reeds Tax Service",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-97.406096,35.442803,-97.406096,35.442803],
-  "geometry": {"coordinates":[-97.406096,35.442803],"type":"Point"}
+  "bbox": [
+    -97.406096,
+    35.442803,
+    -97.406096,
+    35.442803
+],
+  "geometry": {"coordinates":[-97.40609600000001,35.442803],"type":"Point"}
 }

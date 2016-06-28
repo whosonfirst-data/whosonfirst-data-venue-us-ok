@@ -2,13 +2,14 @@
   "id": 337641315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.567143,35.558461,-97.567143,35.558461",
     "geom:latitude":35.558461,
     "geom:longitude":-97.567143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8652 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337641315,
-    "wof:lastmodified":1449027558,
+    "wof:lastmodified":1466763438,
     "wof:name":"Holmes Animation",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "animation"
     ]
 },
-  "bbox": [-97.567143,35.558461,-97.567143,35.558461],
+  "bbox": [
+    -97.567143,
+    35.558461,
+    -97.567143,
+    35.558461
+],
   "geometry": {"coordinates":[-97.567143,35.558461],"type":"Point"}
 }

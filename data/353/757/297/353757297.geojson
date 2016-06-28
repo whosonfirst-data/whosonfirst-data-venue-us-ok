@@ -2,13 +2,14 @@
   "id": 353757297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904643,36.175624,-95.904643,36.175624",
     "geom:latitude":36.175624,
     "geom:longitude":-95.904643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1418 N Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353757297,
-    "wof:lastmodified":1449019693,
+    "wof:lastmodified":1466765025,
     "wof:name":"Smoke Shop",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-95.904643,36.175624,-95.904643,36.175624],
-  "geometry": {"coordinates":[-95.904643,36.175624],"type":"Point"}
+  "bbox": [
+    -95.904643,
+    36.175624,
+    -95.904643,
+    36.175624
+],
+  "geometry": {"coordinates":[-95.90464299999999,36.175624],"type":"Point"}
 }

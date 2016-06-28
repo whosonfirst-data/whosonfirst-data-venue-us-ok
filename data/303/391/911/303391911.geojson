@@ -2,13 +2,14 @@
   "id": 303391911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.446311,35.507771,-97.446311,35.507771",
     "geom:latitude":35.507771,
     "geom:longitude":-97.446311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 NE 36th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303391911,
-    "wof:lastmodified":1448999683,
+    "wof:lastmodified":1466765290,
     "wof:name":"A Plus Academic Journal",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.446311,35.507771,-97.446311,35.507771],
-  "geometry": {"coordinates":[-97.446311,35.507771],"type":"Point"}
+  "bbox": [
+    -97.446311,
+    35.507771,
+    -97.446311,
+    35.507771
+],
+  "geometry": {"coordinates":[-97.44631099999999,35.507771],"type":"Point"}
 }

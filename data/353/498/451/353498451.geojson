@@ -2,13 +2,14 @@
   "id": 353498451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.26661,35.504929,-97.26661,35.504929",
     "geom:latitude":35.504929,
     "geom:longitude":-97.26661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14809 Northwood Cir",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353498451,
-    "wof:lastmodified":1449020196,
+    "wof:lastmodified":1466763093,
     "wof:name":"Choctaw Show Feed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.26661,35.504929,-97.26661,35.504929],
+  "bbox": [
+    -97.26661,
+    35.504929,
+    -97.26661,
+    35.504929
+],
   "geometry": {"coordinates":[-97.26661,35.504929],"type":"Point"}
 }

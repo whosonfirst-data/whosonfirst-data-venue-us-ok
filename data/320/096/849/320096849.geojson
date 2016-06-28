@@ -2,13 +2,14 @@
   "id": 320096849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530286,35.424181,-97.530286,35.424181",
     "geom:latitude":35.424181,
     "geom:longitude":-97.530286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 S Western Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320096849,
-    "wof:lastmodified":1449012478,
+    "wof:lastmodified":1466763720,
     "wof:name":"Cancer Care Assoc",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.530286,35.424181,-97.530286,35.424181],
+  "bbox": [
+    -97.530286,
+    35.424181,
+    -97.530286,
+    35.424181
+],
   "geometry": {"coordinates":[-97.530286,35.424181],"type":"Point"}
 }

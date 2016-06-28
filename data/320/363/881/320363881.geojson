@@ -2,13 +2,14 @@
   "id": 320363881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.931879,36.744893,-95.931879,36.744893",
     "geom:latitude":36.744893,
     "geom:longitude":-95.931879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 SE Adams Rd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320363881,
-    "wof:lastmodified":1449014511,
+    "wof:lastmodified":1466765548,
     "wof:name":"Rogers State University",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "university"
     ]
 },
-  "bbox": [-95.931879,36.744893,-95.931879,36.744893],
+  "bbox": [
+    -95.931879,
+    36.744893,
+    -95.931879,
+    36.744893
+],
   "geometry": {"coordinates":[-95.931879,36.744893],"type":"Point"}
 }

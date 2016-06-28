@@ -2,13 +2,14 @@
   "id": 337552199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.441191,35.202295,-97.441191,35.202295",
     "geom:latitude":35.202295,
     "geom:longitude":-97.441191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Jenkins Ave",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337552199,
-    "wof:lastmodified":1449027274,
+    "wof:lastmodified":1466762944,
     "wof:name":"Padthai",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.441191,35.202295,-97.441191,35.202295],
+  "bbox": [
+    -97.441191,
+    35.202295,
+    -97.441191,
+    35.202295
+],
   "geometry": {"coordinates":[-97.441191,35.202295],"type":"Point"}
 }

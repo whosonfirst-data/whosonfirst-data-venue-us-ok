@@ -2,13 +2,14 @@
   "id": 320700657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.954969,36.060756,-95.954969,36.060756",
     "geom:latitude":36.060756,
     "geom:longitude":-95.954969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2504 E 71st St S",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320700657,
-    "wof:lastmodified":1449014637,
+    "wof:lastmodified":1466766554,
     "wof:name":"Employee Health Svc",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "program"
     ]
 },
-  "bbox": [-95.954969,36.060756,-95.954969,36.060756],
-  "geometry": {"coordinates":[-95.954969,36.060756],"type":"Point"}
+  "bbox": [
+    -95.954969,
+    36.060756,
+    -95.954969,
+    36.060756
+],
+  "geometry": {"coordinates":[-95.95496900000001,36.060756],"type":"Point"}
 }

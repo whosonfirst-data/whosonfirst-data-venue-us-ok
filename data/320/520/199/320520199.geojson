@@ -2,13 +2,14 @@
   "id": 320520199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.454372,34.588038,-98.454372,34.588038",
     "geom:latitude":34.588038,
     "geom:longitude":-98.454372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 SW Malcom Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320520199,
-    "wof:lastmodified":1449012503,
+    "wof:lastmodified":1466766102,
     "wof:name":"Hanley Roger D C R N A",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-98.454372,34.588038,-98.454372,34.588038],
-  "geometry": {"coordinates":[-98.454372,34.588038],"type":"Point"}
+  "bbox": [
+    -98.454372,
+    34.588038,
+    -98.454372,
+    34.588038
+],
+  "geometry": {"coordinates":[-98.45437200000001,34.588038],"type":"Point"}
 }

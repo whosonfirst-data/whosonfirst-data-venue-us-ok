@@ -2,13 +2,14 @@
   "id": 320350259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.57049,35.573682,-97.57049,35.573682",
     "geom:latitude":35.573682,
     "geom:longitude":-97.57049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10315 Lakeside Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320350259,
-    "wof:lastmodified":1449013160,
+    "wof:lastmodified":1466765362,
     "wof:name":"Campbell Cruises & Tours",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cruise"
     ]
 },
-  "bbox": [-97.57049,35.573682,-97.57049,35.573682],
-  "geometry": {"coordinates":[-97.57049,35.573682],"type":"Point"}
+  "bbox": [
+    -97.57049,
+    35.573682,
+    -97.57049,
+    35.573682
+],
+  "geometry": {"coordinates":[-97.57049000000001,35.573682],"type":"Point"}
 }

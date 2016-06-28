@@ -2,13 +2,14 @@
   "id": 320221939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.524848,35.528669,-97.524848,35.528669",
     "geom:latitude":35.528669,
     "geom:longitude":-97.524848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 NW Grand Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320221939,
-    "wof:lastmodified":1449012897,
+    "wof:lastmodified":1466764700,
     "wof:name":"FNBC",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-97.524848,35.528669,-97.524848,35.528669],
-  "geometry": {"coordinates":[-97.524848,35.528669],"type":"Point"}
+  "bbox": [
+    -97.524848,
+    35.528669,
+    -97.524848,
+    35.528669
+],
+  "geometry": {"coordinates":[-97.52484800000001,35.528669],"type":"Point"}
 }

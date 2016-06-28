@@ -2,13 +2,14 @@
   "id": 303162539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.663856,35.591347,-97.663856,35.591347",
     "geom:latitude":35.591347,
     "geom:longitude":-97.663856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8309 NW 117th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303162539,
-    "wof:lastmodified":1449000206,
+    "wof:lastmodified":1466764189,
     "wof:name":"Rex Werrell",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-97.663856,35.591347,-97.663856,35.591347],
+  "bbox": [
+    -97.663856,
+    35.591347,
+    -97.663856,
+    35.591347
+],
   "geometry": {"coordinates":[-97.663856,35.591347],"type":"Point"}
 }

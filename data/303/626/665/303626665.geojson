@@ -2,13 +2,14 @@
   "id": 303626665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.499297,35.219235,-97.499297,35.219235",
     "geom:latitude":35.219235,
     "geom:longitude":-97.499297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Olde Brook Ct",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303626665,
-    "wof:lastmodified":1449000568,
+    "wof:lastmodified":1466766178,
     "wof:name":"Bob Provine CPA",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-97.499297,35.219235,-97.499297,35.219235],
+  "bbox": [
+    -97.499297,
+    35.219235,
+    -97.499297,
+    35.219235
+],
   "geometry": {"coordinates":[-97.499297,35.219235],"type":"Point"}
 }

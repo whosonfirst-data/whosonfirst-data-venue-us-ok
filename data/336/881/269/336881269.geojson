@@ -2,13 +2,14 @@
   "id": 336881269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.422446,34.609201,-98.422446,34.609201",
     "geom:latitude":34.609201,
     "geom:longitude":-98.422446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36 NW Sheridan Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336881269,
-    "wof:lastmodified":1448997562,
+    "wof:lastmodified":1466765007,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.422446,34.609201,-98.422446,34.609201],
-  "geometry": {"coordinates":[-98.422446,34.609201],"type":"Point"}
+  "bbox": [
+    -98.422446,
+    34.609201,
+    -98.422446,
+    34.609201
+],
+  "geometry": {"coordinates":[-98.42244599999999,34.609201],"type":"Point"}
 }

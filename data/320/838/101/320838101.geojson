@@ -2,13 +2,14 @@
   "id": 320838101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.980485,35.50613,-98.980485,35.50613",
     "geom:latitude":35.50613,
     "geom:longitude":-98.980485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Phillips Ln",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320838101,
-    "wof:lastmodified":1449011700,
+    "wof:lastmodified":1466766824,
     "wof:name":"Mann and Meacham Cattle Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-98.980485,35.50613,-98.980485,35.50613],
+  "bbox": [
+    -98.980485,
+    35.50613,
+    -98.980485,
+    35.50613
+],
   "geometry": {"coordinates":[-98.980485,35.50613],"type":"Point"}
 }

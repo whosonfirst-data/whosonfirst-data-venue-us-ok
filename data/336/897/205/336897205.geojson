@@ -2,13 +2,14 @@
   "id": 336897205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.913786,36.089935,-95.913786,36.089935",
     "geom:latitude":36.089935,
     "geom:longitude":-95.913786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5505 E 51st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336897205,
-    "wof:lastmodified":1448997861,
+    "wof:lastmodified":1466765082,
     "wof:name":"OMNI Field Svc Co",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-95.913786,36.089935,-95.913786,36.089935],
+  "bbox": [
+    -95.913786,
+    36.089935,
+    -95.913786,
+    36.089935
+],
   "geometry": {"coordinates":[-95.913786,36.089935],"type":"Point"}
 }

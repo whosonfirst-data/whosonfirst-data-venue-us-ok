@@ -2,13 +2,14 @@
   "id": 303532215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.412287,34.588313,-98.412287,34.588313",
     "geom:latitude":34.588313,
     "geom:longitude":-98.412287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 SW Roosevelt Ave",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303532215,
-    "wof:lastmodified":1448998939,
+    "wof:lastmodified":1466766062,
     "wof:name":"St John's Baptist Church",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.412287,34.588313,-98.412287,34.588313],
-  "geometry": {"coordinates":[-98.412287,34.588313],"type":"Point"}
+  "bbox": [
+    -98.412287,
+    34.588313,
+    -98.412287,
+    34.588313
+],
+  "geometry": {"coordinates":[-98.41228700000001,34.588313],"type":"Point"}
 }

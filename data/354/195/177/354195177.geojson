@@ -2,13 +2,14 @@
   "id": 354195177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.747481,35.48573,-97.747481,35.48573",
     "geom:latitude":35.48573,
     "geom:longitude":-97.747481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Platt Dr",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354195177,
-    "wof:lastmodified":1449067098,
+    "wof:lastmodified":1466763883,
     "wof:name":"Al Slattery Masonry Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.747481,35.48573,-97.747481,35.48573],
-  "geometry": {"coordinates":[-97.747481,35.48573],"type":"Point"}
+  "bbox": [
+    -97.747481,
+    35.48573,
+    -97.747481,
+    35.48573
+],
+  "geometry": {"coordinates":[-97.74748099999999,35.48573],"type":"Point"}
 }

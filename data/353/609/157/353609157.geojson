@@ -2,13 +2,14 @@
   "id": 353609157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.422125,34.620243,-98.422125,34.620243",
     "geom:latitude":34.620243,
     "geom:longitude":-98.422125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 NW Sheridan Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353609157,
-    "wof:lastmodified":1449019213,
+    "wof:lastmodified":1466764426,
     "wof:name":"Aarons F161",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leasing"
     ]
 },
-  "bbox": [-98.422125,34.620243,-98.422125,34.620243],
-  "geometry": {"coordinates":[-98.422125,34.620243],"type":"Point"}
+  "bbox": [
+    -98.422125,
+    34.620243,
+    -98.422125,
+    34.620243
+],
+  "geometry": {"coordinates":[-98.42212499999999,34.620243],"type":"Point"}
 }

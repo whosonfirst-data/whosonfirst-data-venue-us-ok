@@ -2,13 +2,14 @@
   "id": 303610871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.525239,35.377241,-97.525239,35.377241",
     "geom:latitude":35.377241,
     "geom:longitude":-97.525239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 SW 89th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303610871,
-    "wof:lastmodified":1449000526,
+    "wof:lastmodified":1466766154,
     "wof:name":"Macho Muffler",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.525239,35.377241,-97.525239,35.377241],
+  "bbox": [
+    -97.525239,
+    35.377241,
+    -97.525239,
+    35.377241
+],
   "geometry": {"coordinates":[-97.525239,35.377241],"type":"Point"}
 }

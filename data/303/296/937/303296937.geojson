@@ -2,13 +2,14 @@
   "id": 303296937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.317904,35.378957,-97.317904,35.378957",
     "geom:latitude":35.378957,
     "geom:longitude":-97.317904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8901 S Anderson Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303296937,
-    "wof:lastmodified":1449000111,
+    "wof:lastmodified":1466765051,
     "wof:name":"Point To Point Software",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-97.317904,35.378957,-97.317904,35.378957],
+  "bbox": [
+    -97.317904,
+    35.378957,
+    -97.317904,
+    35.378957
+],
   "geometry": {"coordinates":[-97.317904,35.378957],"type":"Point"}
 }

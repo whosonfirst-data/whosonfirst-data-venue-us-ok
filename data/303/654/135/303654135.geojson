@@ -2,13 +2,14 @@
   "id": 303654135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.656304,35.565729,-97.656304,35.565729",
     "geom:latitude":35.565729,
     "geom:longitude":-97.656304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9417 N Council Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303654135,
-    "wof:lastmodified":1448998937,
+    "wof:lastmodified":1466766383,
     "wof:name":"Beauty Brands",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.656304,35.565729,-97.656304,35.565729],
-  "geometry": {"coordinates":[-97.656304,35.565729],"type":"Point"}
+  "bbox": [
+    -97.656304,
+    35.565729,
+    -97.656304,
+    35.565729
+],
+  "geometry": {"coordinates":[-97.65630400000001,35.565729],"type":"Point"}
 }

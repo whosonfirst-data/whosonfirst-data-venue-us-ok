@@ -2,13 +2,14 @@
   "id": 320744827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.111393,35.997761,-96.111393,35.997761",
     "geom:latitude":35.997761,
     "geom:longitude":-96.111393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 S Park St",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320744827,
-    "wof:lastmodified":1449012621,
+    "wof:lastmodified":1466766674,
     "wof:name":"My's Park Street Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.111393,35.997761,-96.111393,35.997761],
-  "geometry": {"coordinates":[-96.111393,35.997761],"type":"Point"}
+  "bbox": [
+    -96.111393,
+    35.997761,
+    -96.111393,
+    35.997761
+],
+  "geometry": {"coordinates":[-96.11139300000001,35.997761],"type":"Point"}
 }

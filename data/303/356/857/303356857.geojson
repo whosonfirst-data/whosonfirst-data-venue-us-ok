@@ -2,13 +2,14 @@
   "id": 303356857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.849355,36.315653,-95.849355,36.315653",
     "geom:latitude":36.315653,
     "geom:longitude":-95.849355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11212 E 112th St N",
     "sg:city":"Owasso",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":303356857,
-    "wof:lastmodified":1449000128,
+    "wof:lastmodified":1466765100,
     "wof:name":"Advanced Plastics Inc",
     "wof:parent_id":85834703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.849355,36.315653,-95.849355,36.315653],
+  "bbox": [
+    -95.849355,
+    36.315653,
+    -95.849355,
+    36.315653
+],
   "geometry": {"coordinates":[-95.849355,36.315653],"type":"Point"}
 }

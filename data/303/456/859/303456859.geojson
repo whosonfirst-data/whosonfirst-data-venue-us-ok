@@ -2,13 +2,14 @@
   "id": 303456859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.135117,36.111349,-97.135117,36.111349",
     "geom:latitude":36.111349,
     "geom:longitude":-97.135117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 S Stoneybrook St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303456859,
-    "wof:lastmodified":1448998843,
+    "wof:lastmodified":1466765779,
     "wof:name":"Cary Pope",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reviewer"
     ]
 },
-  "bbox": [-97.135117,36.111349,-97.135117,36.111349],
-  "geometry": {"coordinates":[-97.135117,36.111349],"type":"Point"}
+  "bbox": [
+    -97.135117,
+    36.111349,
+    -97.135117,
+    36.111349
+],
+  "geometry": {"coordinates":[-97.13511699999999,36.111349],"type":"Point"}
 }

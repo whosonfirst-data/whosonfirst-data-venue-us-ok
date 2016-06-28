@@ -2,13 +2,14 @@
   "id": 320357577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.008964,36.108657,-96.008964,36.108657",
     "geom:latitude":36.108657,
     "geom:longitude":-96.008964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 W 37th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320357577,
-    "wof:lastmodified":1449014510,
+    "wof:lastmodified":1466765437,
     "wof:name":"Beeline Traffic Control Inc",
     "wof:parent_id":85821015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.008964,36.108657,-96.008964,36.108657],
-  "geometry": {"coordinates":[-96.008964,36.108657],"type":"Point"}
+  "bbox": [
+    -96.008964,
+    36.108657,
+    -96.008964,
+    36.108657
+],
+  "geometry": {"coordinates":[-96.00896400000001,36.108657],"type":"Point"}
 }

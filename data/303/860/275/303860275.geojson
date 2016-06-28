@@ -2,13 +2,14 @@
   "id": 303860275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.515989,35.473944,-97.515989,35.473944",
     "geom:latitude":35.473944,
     "geom:longitude":-97.515989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 NW 6th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303860275,
-    "wof:lastmodified":1448999207,
+    "wof:lastmodified":1466766867,
     "wof:name":"Business Courier Svc",
     "wof:parent_id":85871687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-97.515989,35.473944,-97.515989,35.473944],
+  "bbox": [
+    -97.515989,
+    35.473944,
+    -97.515989,
+    35.473944
+],
   "geometry": {"coordinates":[-97.515989,35.473944],"type":"Point"}
 }

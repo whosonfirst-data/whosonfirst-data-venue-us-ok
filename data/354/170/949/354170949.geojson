@@ -2,13 +2,14 @@
   "id": 354170949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.110164,36.133623,-96.110164,36.133623",
     "geom:latitude":36.133623,
     "geom:longitude":-96.110164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 S Main St",
     "sg:city":"Sand Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354170949,
-    "wof:lastmodified":1449066083,
+    "wof:lastmodified":1466763784,
     "wof:name":"Air Liquide America Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gas"
     ]
 },
-  "bbox": [-96.110164,36.133623,-96.110164,36.133623],
+  "bbox": [
+    -96.110164,
+    36.133623,
+    -96.110164,
+    36.133623
+],
   "geometry": {"coordinates":[-96.110164,36.133623],"type":"Point"}
 }

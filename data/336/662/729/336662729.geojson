@@ -2,13 +2,14 @@
   "id": 336662729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.972492,34.521741,-97.972492,34.521741",
     "geom:latitude":34.521741,
     "geom:longitude":-97.972492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2045 W Elk Ave",
     "sg:city":"Duncan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336662729,
-    "wof:lastmodified":1448997653,
+    "wof:lastmodified":1466763145,
     "wof:name":"American Medi Serv Inc",
     "wof:parent_id":85839261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bed"
     ]
 },
-  "bbox": [-97.972492,34.521741,-97.972492,34.521741],
+  "bbox": [
+    -97.972492,
+    34.521741,
+    -97.972492,
+    34.521741
+],
   "geometry": {"coordinates":[-97.972492,34.521741],"type":"Point"}
 }

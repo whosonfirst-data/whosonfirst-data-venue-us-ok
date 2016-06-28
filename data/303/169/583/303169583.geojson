@@ -2,13 +2,14 @@
   "id": 303169583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.54281,35.479646,-97.54281,35.479646",
     "geom:latitude":35.479646,
     "geom:longitude":-97.54281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1822 W Park Pl",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303169583,
-    "wof:lastmodified":1448999628,
+    "wof:lastmodified":1466764283,
     "wof:name":"Gaynors Graphics",
     "wof:parent_id":85871689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-97.54281,35.479646,-97.54281,35.479646],
+  "bbox": [
+    -97.54281,
+    35.479646,
+    -97.54281,
+    35.479646
+],
   "geometry": {"coordinates":[-97.54281,35.479646],"type":"Point"}
 }

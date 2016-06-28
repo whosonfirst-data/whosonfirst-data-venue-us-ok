@@ -2,13 +2,14 @@
   "id": 303919163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.890211,36.391547,-97.890211,36.391547",
     "geom:latitude":36.391547,
     "geom:longitude":-97.890211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 S Van Buren St",
     "sg:city":"Enid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303919163,
-    "wof:lastmodified":1448999968,
+    "wof:lastmodified":1466767004,
     "wof:name":"Northwest Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.890211,36.391547,-97.890211,36.391547],
-  "geometry": {"coordinates":[-97.890211,36.391547],"type":"Point"}
+  "bbox": [
+    -97.890211,
+    36.391547,
+    -97.890211,
+    36.391547
+],
+  "geometry": {"coordinates":[-97.89021099999999,36.391547],"type":"Point"}
 }

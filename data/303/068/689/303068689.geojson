@@ -2,13 +2,14 @@
   "id": 303068689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.614247,34.855146,-97.614247,34.855146",
     "geom:latitude":34.855146,
     "geom:longitude":-97.614247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"885 County Rd",
     "sg:city":"Blanchard",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303068689,
-    "wof:lastmodified":1448999380,
+    "wof:lastmodified":1466762722,
     "wof:name":"Tri City Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.614247,34.855146,-97.614247,34.855146],
-  "geometry": {"coordinates":[-97.614247,34.855146],"type":"Point"}
+  "bbox": [
+    -97.614247,
+    34.855146,
+    -97.614247,
+    34.855146
+],
+  "geometry": {"coordinates":[-97.61424700000001,34.855146],"type":"Point"}
 }

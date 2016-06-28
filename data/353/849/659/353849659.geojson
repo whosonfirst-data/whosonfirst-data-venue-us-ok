@@ -2,13 +2,14 @@
   "id": 353849659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.352463,35.449487,-97.352463,35.449487",
     "geom:latitude":35.449487,
     "geom:longitude":-97.352463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10006 SE 15th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353849659,
-    "wof:lastmodified":1449018720,
+    "wof:lastmodified":1466765524,
     "wof:name":"Midwest IGA",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.352463,35.449487,-97.352463,35.449487],
+  "bbox": [
+    -97.352463,
+    35.449487,
+    -97.352463,
+    35.449487
+],
   "geometry": {"coordinates":[-97.352463,35.449487],"type":"Point"}
 }

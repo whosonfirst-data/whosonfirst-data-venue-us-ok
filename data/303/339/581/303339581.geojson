@@ -2,13 +2,14 @@
   "id": 303339581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.589256,36.2784,-95.589256,36.2784",
     "geom:latitude":36.2784,
     "geom:longitude":-95.589256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13505 E 510 Rd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303339581,
-    "wof:lastmodified":1448999210,
+    "wof:lastmodified":1466765127,
     "wof:name":"Balata Energy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-95.589256,36.2784,-95.589256,36.2784],
-  "geometry": {"coordinates":[-95.589256,36.2784],"type":"Point"}
+  "bbox": [
+    -95.589256,
+    36.2784,
+    -95.589256,
+    36.2784
+],
+  "geometry": {"coordinates":[-95.58925600000001,36.2784],"type":"Point"}
 }

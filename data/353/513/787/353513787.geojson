@@ -2,13 +2,14 @@
   "id": 353513787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.947251,36.702316,-95.947251,36.702316",
     "geom:latitude":36.702316,
     "geom:longitude":-95.947251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 Chapel Hill Rd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353513787,
-    "wof:lastmodified":1449019932,
+    "wof:lastmodified":1466763332,
     "wof:name":"Memory Lane Scrapbooks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.947251,36.702316,-95.947251,36.702316],
-  "geometry": {"coordinates":[-95.947251,36.702316],"type":"Point"}
+  "bbox": [
+    -95.947251,
+    36.702316,
+    -95.947251,
+    36.702316
+],
+  "geometry": {"coordinates":[-95.94725099999999,36.702316],"type":"Point"}
 }

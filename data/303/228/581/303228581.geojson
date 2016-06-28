@@ -2,13 +2,14 @@
   "id": 303228581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.600653,35.511145,-97.600653,35.511145",
     "geom:latitude":35.511145,
     "geom:longitude":-97.600653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4420 NW 39th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303228581,
-    "wof:lastmodified":1448998879,
+    "wof:lastmodified":1466764590,
     "wof:name":"Luevano's Tires & Wheels",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-97.600653,35.511145,-97.600653,35.511145],
-  "geometry": {"coordinates":[-97.600653,35.511145],"type":"Point"}
+  "bbox": [
+    -97.600653,
+    35.511145,
+    -97.600653,
+    35.511145
+],
+  "geometry": {"coordinates":[-97.60065299999999,35.511145],"type":"Point"}
 }

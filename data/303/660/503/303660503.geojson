@@ -2,13 +2,14 @@
   "id": 303660503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.205527,36.104898,-97.205527,36.104898",
     "geom:latitude":36.104898,
     "geom:longitude":-97.205527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10908 State Hwy 51",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303660503,
-    "wof:lastmodified":1449000317,
+    "wof:lastmodified":1466766288,
     "wof:name":"Oklahoma Beef Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "eating"
     ]
 },
-  "bbox": [-97.205527,36.104898,-97.205527,36.104898],
+  "bbox": [
+    -97.205527,
+    36.104898,
+    -97.205527,
+    36.104898
+],
   "geometry": {"coordinates":[-97.205527,36.104898],"type":"Point"}
 }

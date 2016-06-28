@@ -2,13 +2,14 @@
   "id": 303855407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.452829,35.228279,-97.452829,35.228279",
     "geom:latitude":35.228279,
     "geom:longitude":-97.452829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Highland Pkwy",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303855407,
-    "wof:lastmodified":1448999922,
+    "wof:lastmodified":1466766855,
     "wof:name":"Ron Jackson Photography",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-97.452829,35.228279,-97.452829,35.228279],
-  "geometry": {"coordinates":[-97.452829,35.228279],"type":"Point"}
+  "bbox": [
+    -97.452829,
+    35.228279,
+    -97.452829,
+    35.228279
+],
+  "geometry": {"coordinates":[-97.45282899999999,35.228279],"type":"Point"}
 }

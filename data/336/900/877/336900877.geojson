@@ -2,13 +2,14 @@
   "id": 336900877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.618278,35.331466,-97.618278,35.331466",
     "geom:latitude":35.331466,
     "geom:longitude":-97.618278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13808 S Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336900877,
-    "wof:lastmodified":1448997415,
+    "wof:lastmodified":1466765219,
     "wof:name":"Kidd's Custom Cycles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-97.618278,35.331466,-97.618278,35.331466],
+  "bbox": [
+    -97.618278,
+    35.331466,
+    -97.618278,
+    35.331466
+],
   "geometry": {"coordinates":[-97.618278,35.331466],"type":"Point"}
 }

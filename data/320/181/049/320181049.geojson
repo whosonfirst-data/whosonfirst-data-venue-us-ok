@@ -2,13 +2,14 @@
   "id": 320181049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.300378,35.562072,-97.300378,35.562072",
     "geom:latitude":35.562072,
     "geom:longitude":-97.300378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9409 N Hiwassee Rd",
     "sg:city":"Jones",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320181049,
-    "wof:lastmodified":1449013544,
+    "wof:lastmodified":1466764500,
     "wof:name":"Road Kill Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.300378,35.562072,-97.300378,35.562072],
-  "geometry": {"coordinates":[-97.300378,35.562072],"type":"Point"}
+  "bbox": [
+    -97.300378,
+    35.562072,
+    -97.300378,
+    35.562072
+],
+  "geometry": {"coordinates":[-97.30037799999999,35.562072],"type":"Point"}
 }

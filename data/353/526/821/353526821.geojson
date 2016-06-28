@@ -2,13 +2,14 @@
   "id": 353526821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.51032,35.496833,-97.51032,35.496833",
     "geom:latitude":35.496833,
     "geom:longitude":-97.51032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 NE 26th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353526821,
-    "wof:lastmodified":1449019045,
+    "wof:lastmodified":1466763524,
     "wof:name":"Delta Electrical Contractors",
     "wof:parent_id":85871695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.51032,35.496833,-97.51032,35.496833],
-  "geometry": {"coordinates":[-97.51032,35.496833],"type":"Point"}
+  "bbox": [
+    -97.51032,
+    35.496833,
+    -97.51032,
+    35.496833
+],
+  "geometry": {"coordinates":[-97.51031999999999,35.496833],"type":"Point"}
 }

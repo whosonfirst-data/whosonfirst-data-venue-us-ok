@@ -2,13 +2,14 @@
   "id": 319938251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.510058,34.008778,-95.510058,34.008778",
     "geom:latitude":34.008778,
     "geom:longitude":-95.510058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E Jefferson St",
     "sg:city":"Hugo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319938251,
-    "wof:lastmodified":1449024674,
+    "wof:lastmodified":1466763946,
     "wof:name":"Sheriffs Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-95.510058,34.008778,-95.510058,34.008778],
+  "bbox": [
+    -95.510058,
+    34.008778,
+    -95.510058,
+    34.008778
+],
   "geometry": {"coordinates":[-95.510058,34.008778],"type":"Point"}
 }

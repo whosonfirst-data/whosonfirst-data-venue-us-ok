@@ -2,13 +2,14 @@
   "id": 303833197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.933103,35.842278,-97.933103,35.842278",
     "geom:latitude":35.842278,
     "geom:longitude":-97.933103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 W Will Rogers Dr",
     "sg:city":"Kingfisher",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303833197,
-    "wof:lastmodified":1448998434,
+    "wof:lastmodified":1466766901,
     "wof:name":"Sun Loan Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-97.933103,35.842278,-97.933103,35.842278],
+  "bbox": [
+    -97.933103,
+    35.842278,
+    -97.933103,
+    35.842278
+],
   "geometry": {"coordinates":[-97.933103,35.842278],"type":"Point"}
 }

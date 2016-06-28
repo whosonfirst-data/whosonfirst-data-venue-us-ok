@@ -2,13 +2,14 @@
   "id": 303956457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.408256,34.623357,-98.408256,34.623357",
     "geom:latitude":34.623357,
     "geom:longitude":-98.408256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 NW Cache Rd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303956457,
-    "wof:lastmodified":1448998532,
+    "wof:lastmodified":1466767038,
     "wof:name":"Harrison's Alignment & Tire",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alignment"
     ]
 },
-  "bbox": [-98.408256,34.623357,-98.408256,34.623357],
-  "geometry": {"coordinates":[-98.408256,34.623357],"type":"Point"}
+  "bbox": [
+    -98.408256,
+    34.623357,
+    -98.408256,
+    34.623357
+],
+  "geometry": {"coordinates":[-98.40825599999999,34.623357],"type":"Point"}
 }

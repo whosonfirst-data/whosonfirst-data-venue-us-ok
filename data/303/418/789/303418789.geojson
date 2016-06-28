@@ -2,13 +2,14 @@
   "id": 303418789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.915633,35.327321,-96.915633,35.327321",
     "geom:latitude":35.327321,
     "geom:longitude":-96.915633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 E Main St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303418789,
-    "wof:lastmodified":1449000037,
+    "wof:lastmodified":1466765504,
     "wof:name":"Matthews Rental Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-96.915633,35.327321,-96.915633,35.327321],
+  "bbox": [
+    -96.915633,
+    35.327321,
+    -96.915633,
+    35.327321
+],
   "geometry": {"coordinates":[-96.915633,35.327321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320490669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.534326,35.511276,-97.534326,35.511276",
     "geom:latitude":35.511276,
     "geom:longitude":-97.534326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3909 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320490669,
-    "wof:lastmodified":1449014582,
+    "wof:lastmodified":1466765960,
     "wof:name":"Clin-Med",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-97.534326,35.511276,-97.534326,35.511276],
-  "geometry": {"coordinates":[-97.534326,35.511276],"type":"Point"}
+  "bbox": [
+    -97.534326,
+    35.511276,
+    -97.534326,
+    35.511276
+],
+  "geometry": {"coordinates":[-97.53432599999999,35.511276],"type":"Point"}
 }

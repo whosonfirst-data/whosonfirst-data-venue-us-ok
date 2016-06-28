@@ -2,13 +2,14 @@
   "id": 337498565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.813586,36.057147,-95.813586,36.057147",
     "geom:latitude":36.057147,
     "geom:longitude":-95.813586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N Walnut Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":337498565,
-    "wof:lastmodified":1449027558,
+    "wof:lastmodified":1466762642,
     "wof:name":"American AC Tulsa",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.813586,36.057147,-95.813586,36.057147],
+  "bbox": [
+    -95.813586,
+    36.057147,
+    -95.813586,
+    36.057147
+],
   "geometry": {"coordinates":[-95.813586,36.057147],"type":"Point"}
 }

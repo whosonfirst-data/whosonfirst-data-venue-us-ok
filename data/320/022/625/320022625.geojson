@@ -2,13 +2,14 @@
   "id": 320022625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.463918,35.64557,-97.463918,35.64557",
     "geom:latitude":35.64557,
     "geom:longitude":-97.463918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 E 9th St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320022625,
-    "wof:lastmodified":1449012513,
+    "wof:lastmodified":1466762622,
     "wof:name":"Affiliated Physical Therapists",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.463918,35.64557,-97.463918,35.64557],
-  "geometry": {"coordinates":[-97.463918,35.64557],"type":"Point"}
+  "bbox": [
+    -97.463918,
+    35.64557,
+    -97.463918,
+    35.64557
+],
+  "geometry": {"coordinates":[-97.46391800000001,35.64557],"type":"Point"}
 }

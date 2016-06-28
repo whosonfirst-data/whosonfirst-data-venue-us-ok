@@ -2,13 +2,14 @@
   "id": 354196627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.76005,34.927495,-95.76005,34.927495",
     "geom:latitude":34.927495,
     "geom:longitude":-95.76005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 E Cherokee Ave",
     "sg:city":"Mcalester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354196627,
-    "wof:lastmodified":1449066311,
+    "wof:lastmodified":1466763899,
     "wof:name":"Parsonage",
     "wof:parent_id":85837801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-95.76005,34.927495,-95.76005,34.927495],
-  "geometry": {"coordinates":[-95.76005,34.927495],"type":"Point"}
+  "bbox": [
+    -95.76005,
+    34.927495,
+    -95.76005,
+    34.927495
+],
+  "geometry": {"coordinates":[-95.76005000000001,34.927495],"type":"Point"}
 }

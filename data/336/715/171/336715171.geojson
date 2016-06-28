@@ -2,13 +2,14 @@
   "id": 336715171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.516238,35.451011,-97.516238,35.451011",
     "geom:latitude":35.451011,
     "geom:longitude":-97.516238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S Robinson Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336715171,
-    "wof:lastmodified":1448997814,
+    "wof:lastmodified":1466763953,
     "wof:name":"OKC Auto Salvage",
     "wof:parent_id":85871685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-97.516238,35.451011,-97.516238,35.451011],
+  "bbox": [
+    -97.516238,
+    35.451011,
+    -97.516238,
+    35.451011
+],
   "geometry": {"coordinates":[-97.516238,35.451011],"type":"Point"}
 }

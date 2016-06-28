@@ -2,13 +2,14 @@
   "id": 303231763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.528641,35.473228,-97.528641,35.473228",
     "geom:latitude":35.473228,
     "geom:longitude":-97.528641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 N Classen Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303231763,
-    "wof:lastmodified":1448999370,
+    "wof:lastmodified":1466764602,
     "wof:name":"Gem Motors",
     "wof:parent_id":85871701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.528641,35.473228,-97.528641,35.473228],
-  "geometry": {"coordinates":[-97.528641,35.473228],"type":"Point"}
+  "bbox": [
+    -97.528641,
+    35.473228,
+    -97.528641,
+    35.473228
+],
+  "geometry": {"coordinates":[-97.52864099999999,35.473228],"type":"Point"}
 }

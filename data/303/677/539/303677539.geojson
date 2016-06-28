@@ -2,13 +2,14 @@
   "id": 303677539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904335,36.030985,-95.904335,36.030985",
     "geom:latitude":36.030985,
     "geom:longitude":-95.904335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9246 S Sheridan Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303677539,
-    "wof:lastmodified":1448999000,
+    "wof:lastmodified":1466766439,
     "wof:name":"Chapel Creek",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.904335,36.030985,-95.904335,36.030985],
+  "bbox": [
+    -95.904335,
+    36.030985,
+    -95.904335,
+    36.030985
+],
   "geometry": {"coordinates":[-95.904335,36.030985],"type":"Point"}
 }

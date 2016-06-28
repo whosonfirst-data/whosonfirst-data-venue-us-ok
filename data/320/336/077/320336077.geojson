@@ -2,13 +2,14 @@
   "id": 320336077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.833047,36.058471,-95.833047,36.058471",
     "geom:latitude":36.058471,
     "geom:longitude":-95.833047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 N Olive St",
     "sg:city":"Stroud",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320336077,
-    "wof:lastmodified":1449011188,
+    "wof:lastmodified":1466765370,
     "wof:name":"Stroud Health Care Ctr South",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-95.833047,36.058471,-95.833047,36.058471],
-  "geometry": {"coordinates":[-95.833047,36.058471],"type":"Point"}
+  "bbox": [
+    -95.833047,
+    36.058471,
+    -95.833047,
+    36.058471
+],
+  "geometry": {"coordinates":[-95.83304699999999,36.058471],"type":"Point"}
 }

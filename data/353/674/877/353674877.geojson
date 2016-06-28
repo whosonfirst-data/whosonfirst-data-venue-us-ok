@@ -2,13 +2,14 @@
   "id": 353674877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.410406,35.441334,-97.410406,35.441334",
     "geom:latitude":35.441334,
     "geom:longitude":-97.410406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"467 S Harr Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353674877,
-    "wof:lastmodified":1449020158,
+    "wof:lastmodified":1466764844,
     "wof:name":"Rm Investigations",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "investigator"
     ]
 },
-  "bbox": [-97.410406,35.441334,-97.410406,35.441334],
-  "geometry": {"coordinates":[-97.410406,35.441334],"type":"Point"}
+  "bbox": [
+    -97.410406,
+    35.441334,
+    -97.410406,
+    35.441334
+],
+  "geometry": {"coordinates":[-97.41040599999999,35.441334],"type":"Point"}
 }

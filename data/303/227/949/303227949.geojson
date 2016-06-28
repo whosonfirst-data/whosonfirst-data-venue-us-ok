@@ -2,13 +2,14 @@
   "id": 303227949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.746557,35.507809,-97.746557,35.507809",
     "geom:latitude":35.507809,
     "geom:longitude":-97.746557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 W Main St",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303227949,
-    "wof:lastmodified":1448998653,
+    "wof:lastmodified":1466764679,
     "wof:name":"Hair Insight",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.746557,35.507809,-97.746557,35.507809],
+  "bbox": [
+    -97.746557,
+    35.507809,
+    -97.746557,
+    35.507809
+],
   "geometry": {"coordinates":[-97.746557,35.507809],"type":"Point"}
 }

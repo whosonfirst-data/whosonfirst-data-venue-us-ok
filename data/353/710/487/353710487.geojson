@@ -2,13 +2,14 @@
   "id": 353710487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.585496,35.485955,-97.585496,35.485955",
     "geom:latitude":35.485955,
     "geom:longitude":-97.585496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3706 NW 16th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353710487,
-    "wof:lastmodified":1449018413,
+    "wof:lastmodified":1466764927,
     "wof:name":"Van's Distributors",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "staple"
     ]
 },
-  "bbox": [-97.585496,35.485955,-97.585496,35.485955],
-  "geometry": {"coordinates":[-97.585496,35.485955],"type":"Point"}
+  "bbox": [
+    -97.585496,
+    35.485955,
+    -97.585496,
+    35.485955
+],
+  "geometry": {"coordinates":[-97.58549600000001,35.485955],"type":"Point"}
 }

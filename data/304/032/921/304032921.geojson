@@ -2,13 +2,14 @@
   "id": 304032921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.751199,35.6738,-97.751199,35.6738",
     "geom:latitude":35.6738,
     "geom:longitude":-97.751199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Bridal Path NW",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304032921,
-    "wof:lastmodified":1449043839,
+    "wof:lastmodified":1466762999,
     "wof:name":"Real Estate Inspection Svc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-97.751199,35.6738,-97.751199,35.6738],
+  "bbox": [
+    -97.751199,
+    35.6738,
+    -97.751199,
+    35.6738
+],
   "geometry": {"coordinates":[-97.751199,35.6738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354051061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.666772,35.98179,-95.666772,35.98179",
     "geom:latitude":35.98179,
     "geom:longitude":-95.666772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27645 E Hwy 51",
     "sg:city":"Coweta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354051061,
-    "wof:lastmodified":1449066999,
+    "wof:lastmodified":1466763288,
     "wof:name":"Docs Auto Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-95.666772,35.98179,-95.666772,35.98179],
-  "geometry": {"coordinates":[-95.666772,35.98179],"type":"Point"}
+  "bbox": [
+    -95.666772,
+    35.98179,
+    -95.666772,
+    35.98179
+],
+  "geometry": {"coordinates":[-95.66677199999999,35.98179],"type":"Point"}
 }

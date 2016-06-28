@@ -2,13 +2,14 @@
   "id": 235930205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.832901,36.133301,-95.832901,36.133301",
     "geom:latitude":36.133301,
     "geom:longitude":-95.832901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12910 E 21st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":235930205,
-    "wof:lastmodified":1449008364,
+    "wof:lastmodified":1466762373,
     "wof:name":"Quiktrip Corporation",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.832901,36.133301,-95.832901,36.133301],
-  "geometry": {"coordinates":[-95.832901,36.133301],"type":"Point"}
+  "bbox": [
+    -95.832901,
+    36.133301,
+    -95.832901,
+    36.133301
+],
+  "geometry": {"coordinates":[-95.83290100000001,36.133301],"type":"Point"}
 }

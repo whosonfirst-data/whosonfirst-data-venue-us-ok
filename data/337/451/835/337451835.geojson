@@ -2,13 +2,14 @@
   "id": 337451835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.919328,36.005089,-95.919328,36.005089",
     "geom:latitude":36.005089,
     "geom:longitude":-95.919328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5026 E 109th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337451835,
-    "wof:lastmodified":1449027293,
+    "wof:lastmodified":1466762370,
     "wof:name":"ARS Musica Christiana",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "information"
     ]
 },
-  "bbox": [-95.919328,36.005089,-95.919328,36.005089],
-  "geometry": {"coordinates":[-95.919328,36.005089],"type":"Point"}
+  "bbox": [
+    -95.919328,
+    36.005089,
+    -95.919328,
+    36.005089
+],
+  "geometry": {"coordinates":[-95.91932799999999,36.005089],"type":"Point"}
 }

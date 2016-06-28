@@ -2,13 +2,14 @@
   "id": 336615843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.636693,35.530164,-97.636693,35.530164",
     "geom:latitude":35.530164,
     "geom:longitude":-97.636693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5901 N Rockwell Ave",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":336615843,
-    "wof:lastmodified":1448997280,
+    "wof:lastmodified":1466762424,
     "wof:name":"Associated Aero Svc Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-97.636693,35.530164,-97.636693,35.530164],
-  "geometry": {"coordinates":[-97.636693,35.530164],"type":"Point"}
+  "bbox": [
+    -97.636693,
+    35.530164,
+    -97.636693,
+    35.530164
+],
+  "geometry": {"coordinates":[-97.63669299999999,35.530164],"type":"Point"}
 }

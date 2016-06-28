@@ -2,13 +2,14 @@
   "id": 303080345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.71042,35.526082,-98.71042,35.526082",
     "geom:latitude":35.526082,
     "geom:longitude":-98.71042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Main St",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303080345,
-    "wof:lastmodified":1449000498,
+    "wof:lastmodified":1466762910,
     "wof:name":"Penner's Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.71042,35.526082,-98.71042,35.526082],
+  "bbox": [
+    -98.71042,
+    35.526082,
+    -98.71042,
+    35.526082
+],
   "geometry": {"coordinates":[-98.71042,35.526082],"type":"Point"}
 }

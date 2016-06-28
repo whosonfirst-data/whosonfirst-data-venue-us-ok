@@ -2,13 +2,14 @@
   "id": 303796209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.396903,35.836805,-96.396903,35.836805",
     "geom:latitude":35.836805,
     "geom:longitude":-96.396903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W 10th Ave",
     "sg:city":"Bristow",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303796209,
-    "wof:lastmodified":1448999276,
+    "wof:lastmodified":1466766713,
     "wof:name":"American Guttering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.396903,35.836805,-96.396903,35.836805],
-  "geometry": {"coordinates":[-96.396903,35.836805],"type":"Point"}
+  "bbox": [
+    -96.396903,
+    35.836805,
+    -96.396903,
+    35.836805
+],
+  "geometry": {"coordinates":[-96.39690299999999,35.836805],"type":"Point"}
 }

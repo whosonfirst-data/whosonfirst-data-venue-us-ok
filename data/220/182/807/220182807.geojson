@@ -2,13 +2,14 @@
   "id": 220182807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940392,36.143392,-95.940392,36.143392",
     "geom:latitude":36.143392,
     "geom:longitude":-95.940392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1343 S Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220182807,
-    "wof:lastmodified":1449074563,
+    "wof:lastmodified":1466762368,
     "wof:name":"Vision Salon",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.940392,36.143392,-95.940392,36.143392],
+  "bbox": [
+    -95.940392,
+    36.143392,
+    -95.940392,
+    36.143392
+],
   "geometry": {"coordinates":[-95.940392,36.143392],"type":"Point"}
 }

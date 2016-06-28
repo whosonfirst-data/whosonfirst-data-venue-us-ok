@@ -2,13 +2,14 @@
   "id": 220195319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.028005,36.057071,-96.028005,36.057071",
     "geom:latitude":36.057071,
     "geom:longitude":-96.028005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3211 W 73rd St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220195319,
-    "wof:lastmodified":1449074584,
+    "wof:lastmodified":1466762459,
     "wof:name":"Erbacher Family",
     "wof:parent_id":85856537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-96.028005,36.057071,-96.028005,36.057071],
-  "geometry": {"coordinates":[-96.028005,36.057071],"type":"Point"}
+  "bbox": [
+    -96.028005,
+    36.057071,
+    -96.028005,
+    36.057071
+],
+  "geometry": {"coordinates":[-96.02800499999999,36.057071],"type":"Point"}
 }

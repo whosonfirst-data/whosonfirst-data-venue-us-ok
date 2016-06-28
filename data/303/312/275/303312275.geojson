@@ -2,13 +2,14 @@
   "id": 303312275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.936185,35.035648,-97.936185,35.035648",
     "geom:latitude":35.035648,
     "geom:longitude":-97.936185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 S 4th St",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303312275,
-    "wof:lastmodified":1448999352,
+    "wof:lastmodified":1466765015,
     "wof:name":"Kelley Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.936185,35.035648,-97.936185,35.035648],
-  "geometry": {"coordinates":[-97.936185,35.035648],"type":"Point"}
+  "bbox": [
+    -97.936185,
+    35.035648,
+    -97.936185,
+    35.035648
+],
+  "geometry": {"coordinates":[-97.93618499999999,35.035648],"type":"Point"}
 }

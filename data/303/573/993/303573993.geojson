@@ -2,13 +2,14 @@
   "id": 303573993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.781422,35.452309,-94.781422,35.452309",
     "geom:latitude":35.452309,
     "geom:longitude":-94.781422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 E Mayo Ave",
     "sg:city":"Sallisaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303573993,
-    "wof:lastmodified":1448999923,
+    "wof:lastmodified":1466766023,
     "wof:name":"Tom Hawkins Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-94.781422,35.452309,-94.781422,35.452309],
-  "geometry": {"coordinates":[-94.781422,35.452309],"type":"Point"}
+  "bbox": [
+    -94.781422,
+    35.452309,
+    -94.781422,
+    35.452309
+],
+  "geometry": {"coordinates":[-94.78142200000001,35.452309],"type":"Point"}
 }

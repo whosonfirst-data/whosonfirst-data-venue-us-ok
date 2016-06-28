@@ -2,13 +2,14 @@
   "id": 320200015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.93694,35.046114,-97.93694,35.046114",
     "geom:latitude":35.046114,
     "geom:longitude":-97.93694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 S 4th St",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320200015,
-    "wof:lastmodified":1449012761,
+    "wof:lastmodified":1466764690,
     "wof:name":"Shreck's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-97.93694,35.046114,-97.93694,35.046114],
-  "geometry": {"coordinates":[-97.93694,35.046114],"type":"Point"}
+  "bbox": [
+    -97.93694,
+    35.046114,
+    -97.93694,
+    35.046114
+],
+  "geometry": {"coordinates":[-97.93694000000001,35.046114],"type":"Point"}
 }

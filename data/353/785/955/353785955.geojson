@@ -2,13 +2,14 @@
   "id": 353785955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.659759,35.567274,-97.659759,35.567274",
     "geom:latitude":35.567274,
     "geom:longitude":-97.659759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8145 NW Expy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353785955,
-    "wof:lastmodified":1449020386,
+    "wof:lastmodified":1466765261,
     "wof:name":"Service Master-Eagle Eye Inc",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rug"
     ]
 },
-  "bbox": [-97.659759,35.567274,-97.659759,35.567274],
-  "geometry": {"coordinates":[-97.659759,35.567274],"type":"Point"}
+  "bbox": [
+    -97.659759,
+    35.567274,
+    -97.659759,
+    35.567274
+],
+  "geometry": {"coordinates":[-97.65975899999999,35.567274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304002451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.438977,35.232848,-97.438977,35.232848",
     "geom:latitude":35.232848,
     "geom:longitude":-97.438977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Robinson St",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304002451,
-    "wof:lastmodified":1449044052,
+    "wof:lastmodified":1466762841,
     "wof:name":"Heart Clinic Central Okalhoma",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.438977,35.232848,-97.438977,35.232848],
-  "geometry": {"coordinates":[-97.438977,35.232848],"type":"Point"}
+  "bbox": [
+    -97.438977,
+    35.232848,
+    -97.438977,
+    35.232848
+],
+  "geometry": {"coordinates":[-97.43897699999999,35.232848],"type":"Point"}
 }

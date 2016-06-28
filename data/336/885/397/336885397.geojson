@@ -2,13 +2,14 @@
   "id": 336885397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.660329,35.747576,-96.660329,35.747576",
     "geom:latitude":35.747576,
     "geom:longitude":-96.660329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N 6th Ave",
     "sg:city":"Stroud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336885397,
-    "wof:lastmodified":1448997524,
+    "wof:lastmodified":1466765146,
     "wof:name":"Car Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.660329,35.747576,-96.660329,35.747576],
+  "bbox": [
+    -96.660329,
+    35.747576,
+    -96.660329,
+    35.747576
+],
   "geometry": {"coordinates":[-96.660329,35.747576],"type":"Point"}
 }

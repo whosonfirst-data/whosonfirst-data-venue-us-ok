@@ -2,13 +2,14 @@
   "id": 303241143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.898024,36.160649,-95.898024,36.160649",
     "geom:latitude":36.160649,
     "geom:longitude":-95.898024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7016 E Admiral Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303241143,
-    "wof:lastmodified":1449000503,
+    "wof:lastmodified":1466764666,
     "wof:name":"Cali Style",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "customizing"
     ]
 },
-  "bbox": [-95.898024,36.160649,-95.898024,36.160649],
-  "geometry": {"coordinates":[-95.898024,36.160649],"type":"Point"}
+  "bbox": [
+    -95.898024,
+    36.160649,
+    -95.898024,
+    36.160649
+],
+  "geometry": {"coordinates":[-95.89802400000001,36.160649],"type":"Point"}
 }

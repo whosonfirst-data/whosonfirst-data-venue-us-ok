@@ -2,13 +2,14 @@
   "id": 287245833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.444027,35.639678,-97.444027,35.639678",
     "geom:latitude":35.639678,
     "geom:longitude":-97.444027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Brixton Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":287245833,
-    "wof:lastmodified":1449001558,
+    "wof:lastmodified":1466762628,
     "wof:name":"Pass It On LLC",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.444027,35.639678,-97.444027,35.639678],
-  "geometry": {"coordinates":[-97.444027,35.639678],"type":"Point"}
+  "bbox": [
+    -97.444027,
+    35.639678,
+    -97.444027,
+    35.639678
+],
+  "geometry": {"coordinates":[-97.44402700000001,35.639678],"type":"Point"}
 }

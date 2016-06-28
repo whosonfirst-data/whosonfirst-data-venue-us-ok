@@ -2,13 +2,14 @@
   "id": 303856171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.458194,35.63576,-97.458194,35.63576",
     "geom:latitude":35.63576,
     "geom:longitude":-97.458194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Canyon Park Cir",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303856171,
-    "wof:lastmodified":1448998807,
+    "wof:lastmodified":1466766850,
     "wof:name":"RAF Oil Co",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "oil"
     ]
 },
-  "bbox": [-97.458194,35.63576,-97.458194,35.63576],
-  "geometry": {"coordinates":[-97.458194,35.63576],"type":"Point"}
+  "bbox": [
+    -97.458194,
+    35.63576,
+    -97.458194,
+    35.63576
+],
+  "geometry": {"coordinates":[-97.45819400000001,35.63576],"type":"Point"}
 }

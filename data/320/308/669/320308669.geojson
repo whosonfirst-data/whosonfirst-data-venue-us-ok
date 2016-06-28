@@ -2,13 +2,14 @@
   "id": 320308669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990791,36.150225,-95.990791,36.150225",
     "geom:latitude":36.150225,
     "geom:longitude":-95.990791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 S Boulder Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320308669,
-    "wof:lastmodified":1449015056,
+    "wof:lastmodified":1466765296,
     "wof:name":"LPC",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.990791,36.150225,-95.990791,36.150225],
+  "bbox": [
+    -95.990791,
+    36.150225,
+    -95.990791,
+    36.150225
+],
   "geometry": {"coordinates":[-95.990791,36.150225],"type":"Point"}
 }

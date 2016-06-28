@@ -2,13 +2,14 @@
   "id": 336798087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.88487,36.09772,-95.88487,36.09772",
     "geom:latitude":36.09772,
     "geom:longitude":-95.88487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8196 E 46th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336798087,
-    "wof:lastmodified":1448997149,
+    "wof:lastmodified":1466764552,
     "wof:name":"Leonard K Ratzlaff DC",
     "wof:parent_id":85816871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.88487,36.09772,-95.88487,36.09772],
-  "geometry": {"coordinates":[-95.88487,36.09772],"type":"Point"}
+  "bbox": [
+    -95.88487,
+    36.09772,
+    -95.88487,
+    36.09772
+],
+  "geometry": {"coordinates":[-95.88487000000001,36.09772],"type":"Point"}
 }

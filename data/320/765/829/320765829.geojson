@@ -2,13 +2,14 @@
   "id": 320765829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.986764,35.609951,-95.986764,35.609951",
     "geom:latitude":35.609951,
     "geom:longitude":-95.986764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 W 20th St",
     "sg:city":"Okmulgee",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320765829,
-    "wof:lastmodified":1449013421,
+    "wof:lastmodified":1466766746,
     "wof:name":"Braden Carco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-95.986764,35.609951,-95.986764,35.609951],
-  "geometry": {"coordinates":[-95.986764,35.609951],"type":"Point"}
+  "bbox": [
+    -95.986764,
+    35.609951,
+    -95.986764,
+    35.609951
+],
+  "geometry": {"coordinates":[-95.98676399999999,35.609951],"type":"Point"}
 }

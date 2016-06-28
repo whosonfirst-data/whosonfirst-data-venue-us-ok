@@ -2,13 +2,14 @@
   "id": 320640893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.868447,36.054801,-95.868447,36.054801",
     "geom:latitude":36.054801,
     "geom:longitude":-95.868447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7325 S Mingo Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320640893,
-    "wof:lastmodified":1449012876,
+    "wof:lastmodified":1466766431,
     "wof:name":"Four Way Transportation",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forwarder"
     ]
 },
-  "bbox": [-95.868447,36.054801,-95.868447,36.054801],
+  "bbox": [
+    -95.868447,
+    36.054801,
+    -95.868447,
+    36.054801
+],
   "geometry": {"coordinates":[-95.868447,36.054801],"type":"Point"}
 }

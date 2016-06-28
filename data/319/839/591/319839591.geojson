@@ -2,13 +2,14 @@
   "id": 319839591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.502851,34.010675,-95.502851,34.010675",
     "geom:latitude":34.010675,
     "geom:longitude":-95.502851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 E Jackson St",
     "sg:city":"Hugo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319839591,
-    "wof:lastmodified":1449024567,
+    "wof:lastmodified":1466763045,
     "wof:name":"Meredith Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.502851,34.010675,-95.502851,34.010675],
-  "geometry": {"coordinates":[-95.502851,34.010675],"type":"Point"}
+  "bbox": [
+    -95.502851,
+    34.010675,
+    -95.502851,
+    34.010675
+],
+  "geometry": {"coordinates":[-95.50285100000001,34.010675],"type":"Point"}
 }

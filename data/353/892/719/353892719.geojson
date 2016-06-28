@@ -2,13 +2,14 @@
   "id": 353892719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.653191,35.557129,-97.653191,35.557129",
     "geom:latitude":35.557129,
     "geom:longitude":-97.653191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7901 NW 85th Ter",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353892719,
-    "wof:lastmodified":1449018628,
+    "wof:lastmodified":1466765653,
     "wof:name":"New Horizons CDC Silver",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.653191,35.557129,-97.653191,35.557129],
-  "geometry": {"coordinates":[-97.653191,35.557129],"type":"Point"}
+  "bbox": [
+    -97.653191,
+    35.557129,
+    -97.653191,
+    35.557129
+],
+  "geometry": {"coordinates":[-97.65319100000001,35.557129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320201497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.868855,36.208827,-95.868855,36.208827",
     "geom:latitude":36.208827,
     "geom:longitude":-95.868855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 N Mingo Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320201497,
-    "wof:lastmodified":1449014470,
+    "wof:lastmodified":1466764611,
     "wof:name":"Boeing",
     "wof:parent_id":85872493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.868855,36.208827,-95.868855,36.208827],
+  "bbox": [
+    -95.868855,
+    36.208827,
+    -95.868855,
+    36.208827
+],
   "geometry": {"coordinates":[-95.868855,36.208827],"type":"Point"}
 }

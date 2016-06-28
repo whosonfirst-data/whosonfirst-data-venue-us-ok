@@ -2,13 +2,14 @@
   "id": 303690473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.688781,35.240629,-96.688781,35.240629",
     "geom:latitude":35.240629,
     "geom:longitude":-96.688781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1727 N Ideal St",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303690473,
-    "wof:lastmodified":1448999415,
+    "wof:lastmodified":1466766470,
     "wof:name":"Ideal Street Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.688781,35.240629,-96.688781,35.240629],
-  "geometry": {"coordinates":[-96.688781,35.240629],"type":"Point"}
+  "bbox": [
+    -96.688781,
+    35.240629,
+    -96.688781,
+    35.240629
+],
+  "geometry": {"coordinates":[-96.68878100000001,35.240629],"type":"Point"}
 }

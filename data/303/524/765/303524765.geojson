@@ -2,13 +2,14 @@
   "id": 303524765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.614796,35.512382,-97.614796,35.512382",
     "geom:latitude":35.512382,
     "geom:longitude":-97.614796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4020 N Grove Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303524765,
-    "wof:lastmodified":1448998091,
+    "wof:lastmodified":1466765842,
     "wof:name":"Central Middle School",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.614796,35.512382,-97.614796,35.512382],
+  "bbox": [
+    -97.614796,
+    35.512382,
+    -97.614796,
+    35.512382
+],
   "geometry": {"coordinates":[-97.614796,35.512382],"type":"Point"}
 }

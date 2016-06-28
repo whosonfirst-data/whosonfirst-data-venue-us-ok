@@ -2,13 +2,14 @@
   "id": 320032509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.881749,35.944666,-95.881749,35.944666",
     "geom:latitude":35.944666,
     "geom:longitude":-95.881749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 E 151st St S",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320032509,
-    "wof:lastmodified":1449013091,
+    "wof:lastmodified":1466762772,
     "wof:name":"Chamber Agri Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-95.881749,35.944666,-95.881749,35.944666],
+  "bbox": [
+    -95.881749,
+    35.944666,
+    -95.881749,
+    35.944666
+],
   "geometry": {"coordinates":[-95.881749,35.944666],"type":"Point"}
 }

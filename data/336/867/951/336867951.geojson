@@ -2,13 +2,14 @@
   "id": 336867951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.790675,36.011502,-95.790675,36.011502",
     "geom:latitude":36.011502,
     "geom:longitude":-95.790675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4133 S Birch Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336867951,
-    "wof:lastmodified":1448997416,
+    "wof:lastmodified":1466764921,
     "wof:name":"Godinez Masonry",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.790675,36.011502,-95.790675,36.011502],
-  "geometry": {"coordinates":[-95.790675,36.011502],"type":"Point"}
+  "bbox": [
+    -95.790675,
+    36.011502,
+    -95.790675,
+    36.011502
+],
+  "geometry": {"coordinates":[-95.79067499999999,36.011502],"type":"Point"}
 }

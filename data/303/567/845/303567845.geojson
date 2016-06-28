@@ -2,13 +2,14 @@
   "id": 303567845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.488801,35.6091,-97.488801,35.6091",
     "geom:latitude":35.6091,
     "geom:longitude":-97.488801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13907 Crossing Way W",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303567845,
-    "wof:lastmodified":1449000582,
+    "wof:lastmodified":1466766099,
     "wof:name":"Computer Lab",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sales"
     ]
 },
-  "bbox": [-97.488801,35.6091,-97.488801,35.6091],
+  "bbox": [
+    -97.488801,
+    35.6091,
+    -97.488801,
+    35.6091
+],
   "geometry": {"coordinates":[-97.488801,35.6091],"type":"Point"}
 }

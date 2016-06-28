@@ -2,13 +2,14 @@
   "id": 320240013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.93356,35.33486,-96.93356,35.33486",
     "geom:latitude":35.33486,
     "geom:longitude":-96.93356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 N Pottenger Ave",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320240013,
-    "wof:lastmodified":1449011628,
+    "wof:lastmodified":1466764707,
     "wof:name":"Benedict Street Marketplace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.93356,35.33486,-96.93356,35.33486],
+  "bbox": [
+    -96.93356,
+    35.33486,
+    -96.93356,
+    35.33486
+],
   "geometry": {"coordinates":[-96.93356,35.33486],"type":"Point"}
 }

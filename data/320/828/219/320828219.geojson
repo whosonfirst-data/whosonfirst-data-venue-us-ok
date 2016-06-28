@@ -2,13 +2,14 @@
   "id": 320828219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.483577,36.271128,-98.483577,36.271128",
     "geom:latitude":36.271128,
     "geom:longitude":-98.483577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Elm St",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320828219,
-    "wof:lastmodified":1449013150,
+    "wof:lastmodified":1466766804,
     "wof:name":"Fairview Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.483577,36.271128,-98.483577,36.271128],
+  "bbox": [
+    -98.483577,
+    36.271128,
+    -98.483577,
+    36.271128
+],
   "geometry": {"coordinates":[-98.483577,36.271128],"type":"Point"}
 }

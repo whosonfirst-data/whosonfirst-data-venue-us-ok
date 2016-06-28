@@ -2,13 +2,14 @@
   "id": 303481441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80221,35.971283,-96.80221,35.971283",
     "geom:latitude":35.971283,
     "geom:longitude":-96.80221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2304 W 9th St",
     "sg:city":"Cushing",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303481441,
-    "wof:lastmodified":1449000251,
+    "wof:lastmodified":1466765687,
     "wof:name":"Charltons Heating & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.80221,35.971283,-96.80221,35.971283],
+  "bbox": [
+    -96.80221,
+    35.971283,
+    -96.80221,
+    35.971283
+],
   "geometry": {"coordinates":[-96.80221,35.971283],"type":"Point"}
 }

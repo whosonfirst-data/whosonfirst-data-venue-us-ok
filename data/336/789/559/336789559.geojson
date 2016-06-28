@@ -2,13 +2,14 @@
   "id": 336789559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.610914,36.309283,-95.610914,36.309283",
     "geom:latitude":36.309283,
     "geom:longitude":-95.610914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 E Patti Page Blvd",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":336789559,
-    "wof:lastmodified":1448997437,
+    "wof:lastmodified":1466764478,
     "wof:name":"Power Systems Equipment LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "equipment"
     ]
 },
-  "bbox": [-95.610914,36.309283,-95.610914,36.309283],
-  "geometry": {"coordinates":[-95.610914,36.309283],"type":"Point"}
+  "bbox": [
+    -95.610914,
+    36.309283,
+    -95.610914,
+    36.309283
+],
+  "geometry": {"coordinates":[-95.61091399999999,36.309283],"type":"Point"}
 }

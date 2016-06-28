@@ -2,13 +2,14 @@
   "id": 303930043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.401509,35.722275,-97.401509,35.722275",
     "geom:latitude":35.722275,
     "geom:longitude":-97.401509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Applewood Dr",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303930043,
-    "wof:lastmodified":1448998896,
+    "wof:lastmodified":1466767012,
     "wof:name":"Joseph Eisele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.401509,35.722275,-97.401509,35.722275],
+  "bbox": [
+    -97.401509,
+    35.722275,
+    -97.401509,
+    35.722275
+],
   "geometry": {"coordinates":[-97.401509,35.722275],"type":"Point"}
 }

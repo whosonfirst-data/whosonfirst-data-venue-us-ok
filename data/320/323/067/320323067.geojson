@@ -2,13 +2,14 @@
   "id": 320323067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.947326,36.091037,-95.947326,36.091037",
     "geom:latitude":36.091037,
     "geom:longitude":-95.947326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2865 E Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320323067,
-    "wof:lastmodified":1449011564,
+    "wof:lastmodified":1466765299,
     "wof:name":"Oklahoma Health Academy",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.947326,36.091037,-95.947326,36.091037],
+  "bbox": [
+    -95.947326,
+    36.091037,
+    -95.947326,
+    36.091037
+],
   "geometry": {"coordinates":[-95.947326,36.091037],"type":"Point"}
 }

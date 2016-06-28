@@ -2,13 +2,14 @@
   "id": 320616955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.725511,35.395883,-97.725511,35.395883",
     "geom:latitude":35.395883,
     "geom:longitude":-97.725511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Fieldstone Way",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320616955,
-    "wof:lastmodified":1449014001,
+    "wof:lastmodified":1466766330,
     "wof:name":"Fieldstone Garden Apartments",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.725511,35.395883,-97.725511,35.395883],
+  "bbox": [
+    -97.725511,
+    35.395883,
+    -97.725511,
+    35.395883
+],
   "geometry": {"coordinates":[-97.725511,35.395883],"type":"Point"}
 }

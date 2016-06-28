@@ -2,13 +2,14 @@
   "id": 336878513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.481629,36.681899,-101.481629,36.681899",
     "geom:latitude":36.681899,
     "geom:longitude":-101.481629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N Main St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336878513,
-    "wof:lastmodified":1448997517,
+    "wof:lastmodified":1466765106,
     "wof:name":"Hi-Plains Sports Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.481629,36.681899,-101.481629,36.681899],
+  "bbox": [
+    -101.481629,
+    36.681899,
+    -101.481629,
+    36.681899
+],
   "geometry": {"coordinates":[-101.481629,36.681899],"type":"Point"}
 }

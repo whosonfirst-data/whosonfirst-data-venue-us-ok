@@ -2,13 +2,14 @@
   "id": 320099159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.404994,35.410649,-99.404994,35.410649",
     "geom:latitude":35.410649,
     "geom:longitude":-99.404994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 State Hwy 6",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320099159,
-    "wof:lastmodified":1449013696,
+    "wof:lastmodified":1466763755,
     "wof:name":"Brandt Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "field"
     ]
 },
-  "bbox": [-99.404994,35.410649,-99.404994,35.410649],
+  "bbox": [
+    -99.404994,
+    35.410649,
+    -99.404994,
+    35.410649
+],
   "geometry": {"coordinates":[-99.404994,35.410649],"type":"Point"}
 }

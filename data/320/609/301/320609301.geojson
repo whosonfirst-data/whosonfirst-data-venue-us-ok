@@ -2,13 +2,14 @@
   "id": 320609301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.03747,36.246394,-97.03747,36.246394",
     "geom:latitude":36.246394,
     "geom:longitude":-97.03747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2021 Noble Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320609301,
-    "wof:lastmodified":1449012670,
+    "wof:lastmodified":1466766296,
     "wof:name":"Pratz Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.03747,36.246394,-97.03747,36.246394],
+  "bbox": [
+    -97.03747,
+    36.246394,
+    -97.03747,
+    36.246394
+],
   "geometry": {"coordinates":[-97.03747,36.246394],"type":"Point"}
 }

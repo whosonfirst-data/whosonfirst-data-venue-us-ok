@@ -2,13 +2,14 @@
   "id": 303951153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.917074,35.327547,-96.917074,35.327547",
     "geom:latitude":35.327547,
     "geom:longitude":-96.917074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 N Minnesota Ave",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303951153,
-    "wof:lastmodified":1448998227,
+    "wof:lastmodified":1466767034,
     "wof:name":"Garner Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.917074,35.327547,-96.917074,35.327547],
+  "bbox": [
+    -96.917074,
+    35.327547,
+    -96.917074,
+    35.327547
+],
   "geometry": {"coordinates":[-96.917074,35.327547],"type":"Point"}
 }

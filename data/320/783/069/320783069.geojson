@@ -2,13 +2,14 @@
   "id": 320783069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.630362,36.834336,-99.630362,36.834336",
     "geom:latitude":36.834336,
     "geom:longitude":-99.630362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Hoy St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320783069,
-    "wof:lastmodified":1449011381,
+    "wof:lastmodified":1466766671,
     "wof:name":"Video Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "video"
     ]
 },
-  "bbox": [-99.630362,36.834336,-99.630362,36.834336],
-  "geometry": {"coordinates":[-99.630362,36.834336],"type":"Point"}
+  "bbox": [
+    -99.630362,
+    36.834336,
+    -99.630362,
+    36.834336
+],
+  "geometry": {"coordinates":[-99.63036200000001,36.834336],"type":"Point"}
 }

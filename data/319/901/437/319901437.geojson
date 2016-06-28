@@ -2,13 +2,14 @@
   "id": 319901437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.926786,36.756052,-95.926786,36.756052",
     "geom:latitude":36.756052,
     "geom:longitude":-95.926786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 SE Elmhurst Ct",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":319901437,
-    "wof:lastmodified":1449024416,
+    "wof:lastmodified":1466763526,
     "wof:name":"Fine Woodworking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-95.926786,36.756052,-95.926786,36.756052],
-  "geometry": {"coordinates":[-95.926786,36.756052],"type":"Point"}
+  "bbox": [
+    -95.926786,
+    36.756052,
+    -95.926786,
+    36.756052
+],
+  "geometry": {"coordinates":[-95.92678600000001,36.756052],"type":"Point"}
 }

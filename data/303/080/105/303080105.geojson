@@ -2,13 +2,14 @@
   "id": 303080105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.396765,34.594202,-98.396765,34.594202",
     "geom:latitude":34.594202,
     "geom:longitude":-98.396765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 SW Lee Blvd",
     "sg:city":"Lawton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303080105,
-    "wof:lastmodified":1449000498,
+    "wof:lastmodified":1466762907,
     "wof:name":"Walt's Auto Svc",
     "wof:parent_id":85849179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-98.396765,34.594202,-98.396765,34.594202],
+  "bbox": [
+    -98.396765,
+    34.594202,
+    -98.396765,
+    34.594202
+],
   "geometry": {"coordinates":[-98.396765,34.594202],"type":"Point"}
 }

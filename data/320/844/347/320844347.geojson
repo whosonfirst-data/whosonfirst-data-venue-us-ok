@@ -2,13 +2,14 @@
   "id": 320844347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.072678,36.709698,-97.072678,36.709698",
     "geom:latitude":36.709698,
     "geom:longitude":-97.072678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 E Highland Ave",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320844347,
-    "wof:lastmodified":1449012850,
+    "wof:lastmodified":1466767006,
     "wof:name":"Bill Leming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.072678,36.709698,-97.072678,36.709698],
+  "bbox": [
+    -97.072678,
+    36.709698,
+    -97.072678,
+    36.709698
+],
   "geometry": {"coordinates":[-97.072678,36.709698],"type":"Point"}
 }

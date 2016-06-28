@@ -2,13 +2,14 @@
   "id": 303081827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.815256,36.055543,-95.815256,36.055543",
     "geom:latitude":36.055543,
     "geom:longitude":-95.815256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 N Aspen Ave",
     "sg:city":"Broken Arrow",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303081827,
-    "wof:lastmodified":1448998874,
+    "wof:lastmodified":1466762935,
     "wof:name":"Turbo's Auto & Cycle Repair",
     "wof:parent_id":85853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "motor"
     ]
 },
-  "bbox": [-95.815256,36.055543,-95.815256,36.055543],
-  "geometry": {"coordinates":[-95.815256,36.055543],"type":"Point"}
+  "bbox": [
+    -95.815256,
+    36.055543,
+    -95.815256,
+    36.055543
+],
+  "geometry": {"coordinates":[-95.81525600000001,36.055543],"type":"Point"}
 }

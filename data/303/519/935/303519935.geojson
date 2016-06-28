@@ -2,13 +2,14 @@
   "id": 303519935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.205959,35.451087,-97.205959,35.451087",
     "geom:latitude":35.451087,
     "geom:longitude":-97.205959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 David Dr",
     "sg:city":"Choctaw",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303519935,
-    "wof:lastmodified":1449000402,
+    "wof:lastmodified":1466765809,
     "wof:name":"J S Canina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "greeting"
     ]
 },
-  "bbox": [-97.205959,35.451087,-97.205959,35.451087],
-  "geometry": {"coordinates":[-97.205959,35.451087],"type":"Point"}
+  "bbox": [
+    -97.205959,
+    35.451087,
+    -97.205959,
+    35.451087
+],
+  "geometry": {"coordinates":[-97.20595899999999,35.451087],"type":"Point"}
 }

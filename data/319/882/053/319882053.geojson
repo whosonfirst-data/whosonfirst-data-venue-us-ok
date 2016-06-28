@@ -2,13 +2,14 @@
   "id": 319882053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.931564,36.177072,-95.931564,36.177072",
     "geom:latitude":36.177072,
     "geom:longitude":-95.931564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3920 E Pine St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":319882053,
-    "wof:lastmodified":1449024232,
+    "wof:lastmodified":1466763419,
     "wof:name":"Silverado Foods Inc",
     "wof:parent_id":85813737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-95.931564,36.177072,-95.931564,36.177072],
-  "geometry": {"coordinates":[-95.931564,36.177072],"type":"Point"}
+  "bbox": [
+    -95.931564,
+    36.177072,
+    -95.931564,
+    36.177072
+],
+  "geometry": {"coordinates":[-95.93156399999999,36.177072],"type":"Point"}
 }

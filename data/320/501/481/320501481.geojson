@@ -2,13 +2,14 @@
   "id": 320501481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.423612,35.182826,-97.423612,35.182826",
     "geom:latitude":35.182826,
     "geom:longitude":-97.423612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Oak Tree Ave",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320501481,
-    "wof:lastmodified":1449015003,
+    "wof:lastmodified":1466766163,
     "wof:name":"Starscapes By Ashley",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.423612,35.182826,-97.423612,35.182826],
-  "geometry": {"coordinates":[-97.423612,35.182826],"type":"Point"}
+  "bbox": [
+    -97.423612,
+    35.182826,
+    -97.423612,
+    35.182826
+],
+  "geometry": {"coordinates":[-97.42361200000001,35.182826],"type":"Point"}
 }

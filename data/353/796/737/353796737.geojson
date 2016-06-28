@@ -2,13 +2,14 @@
   "id": 353796737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.50859,36.730565,-102.50859,36.730565",
     "geom:latitude":36.730565,
     "geom:longitude":-102.50859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Locust Ave",
     "sg:city":"Boise City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353796737,
-    "wof:lastmodified":1449019466,
+    "wof:lastmodified":1466765227,
     "wof:name":"Summit Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-102.50859,36.730565,-102.50859,36.730565],
+  "bbox": [
+    -102.50859,
+    36.730565,
+    -102.50859,
+    36.730565
+],
   "geometry": {"coordinates":[-102.50859,36.730565],"type":"Point"}
 }

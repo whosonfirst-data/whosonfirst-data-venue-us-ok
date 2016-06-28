@@ -2,13 +2,14 @@
   "id": 303069907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.904887,36.140752,-95.904887,36.140752",
     "geom:latitude":36.140752,
     "geom:longitude":-95.904887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5953 E 15th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":303069907,
-    "wof:lastmodified":1448999664,
+    "wof:lastmodified":1466762742,
     "wof:name":"Yale Uniform",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-95.904887,36.140752,-95.904887,36.140752],
+  "bbox": [
+    -95.904887,
+    36.140752,
+    -95.904887,
+    36.140752
+],
   "geometry": {"coordinates":[-95.904887,36.140752],"type":"Point"}
 }

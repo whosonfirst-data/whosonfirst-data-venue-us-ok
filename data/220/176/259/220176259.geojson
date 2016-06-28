@@ -2,13 +2,14 @@
   "id": 220176259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.96577,36.08996,-95.96577,36.08996",
     "geom:latitude":36.08996,
     "geom:longitude":-95.96577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 E Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":220176259,
-    "wof:lastmodified":1449074581,
+    "wof:lastmodified":1466762339,
     "wof:name":"Colonial Manor Nursing Center",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-95.96577,36.08996,-95.96577,36.08996],
-  "geometry": {"coordinates":[-95.96577,36.08996],"type":"Point"}
+  "bbox": [
+    -95.96577,
+    36.08996,
+    -95.96577,
+    36.08996
+],
+  "geometry": {"coordinates":[-95.96577000000001,36.08996],"type":"Point"}
 }

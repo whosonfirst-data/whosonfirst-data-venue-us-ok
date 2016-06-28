@@ -2,13 +2,14 @@
   "id": 303500185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.940272,35.029476,-97.940272,35.029476",
     "geom:latitude":35.029476,
     "geom:longitude":-97.940272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 W Grand Ave",
     "sg:city":"Chickasha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303500185,
-    "wof:lastmodified":1448998723,
+    "wof:lastmodified":1466765832,
     "wof:name":"Safetynet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drug"
     ]
 },
-  "bbox": [-97.940272,35.029476,-97.940272,35.029476],
-  "geometry": {"coordinates":[-97.940272,35.029476],"type":"Point"}
+  "bbox": [
+    -97.940272,
+    35.029476,
+    -97.940272,
+    35.029476
+],
+  "geometry": {"coordinates":[-97.94027199999999,35.029476],"type":"Point"}
 }

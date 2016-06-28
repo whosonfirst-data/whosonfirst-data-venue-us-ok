@@ -2,13 +2,14 @@
   "id": 320057023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.309853,34.919906,-95.309853,34.919906",
     "geom:latitude":34.919906,
     "geom:longitude":-95.309853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Ada Ave",
     "sg:city":"Wilburton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320057023,
-    "wof:lastmodified":1449013110,
+    "wof:lastmodified":1466763138,
     "wof:name":"Latimer County News-Tribune",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-95.309853,34.919906,-95.309853,34.919906],
+  "bbox": [
+    -95.309853,
+    34.919906,
+    -95.309853,
+    34.919906
+],
   "geometry": {"coordinates":[-95.309853,34.919906],"type":"Point"}
 }

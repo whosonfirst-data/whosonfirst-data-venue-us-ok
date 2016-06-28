@@ -2,13 +2,14 @@
   "id": 303601309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.984126,36.138242,-95.984126,36.138242",
     "geom:latitude":36.138242,
     "geom:longitude":-95.984126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1612 S Cincinnati Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303601309,
-    "wof:lastmodified":1448999213,
+    "wof:lastmodified":1466766188,
     "wof:name":"Glen R Graham",
     "wof:parent_id":85872487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.984126,36.138242,-95.984126,36.138242],
+  "bbox": [
+    -95.984126,
+    36.138242,
+    -95.984126,
+    36.138242
+],
   "geometry": {"coordinates":[-95.984126,36.138242],"type":"Point"}
 }

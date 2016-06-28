@@ -2,13 +2,14 @@
   "id": 336943195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.611111,36.311458,-95.611111,36.311458",
     "geom:latitude":36.311458,
     "geom:longitude":-95.611111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Weenonah Ave",
     "sg:city":"Claremore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336943195,
-    "wof:lastmodified":1448997236,
+    "wof:lastmodified":1466765406,
     "wof:name":"Lynn Riggs Memorial Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.611111,36.311458,-95.611111,36.311458],
-  "geometry": {"coordinates":[-95.611111,36.311458],"type":"Point"}
+  "bbox": [
+    -95.611111,
+    36.311458,
+    -95.611111,
+    36.311458
+],
+  "geometry": {"coordinates":[-95.61111099999999,36.311458],"type":"Point"}
 }

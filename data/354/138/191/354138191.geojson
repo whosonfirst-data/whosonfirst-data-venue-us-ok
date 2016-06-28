@@ -2,13 +2,14 @@
   "id": 354138191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.334135,34.660392,-99.334135,34.660392",
     "geom:latitude":34.660392,
     "geom:longitude":-99.334135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 N Main St",
     "sg:city":"Altus",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354138191,
-    "wof:lastmodified":1449066392,
+    "wof:lastmodified":1466763648,
     "wof:name":"City Altus Emergency MGT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-99.334135,34.660392,-99.334135,34.660392],
+  "bbox": [
+    -99.334135,
+    34.660392,
+    -99.334135,
+    34.660392
+],
   "geometry": {"coordinates":[-99.334135,34.660392],"type":"Point"}
 }

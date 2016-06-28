@@ -2,13 +2,14 @@
   "id": 303555775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.309811,36.674486,-97.309811,36.674486",
     "geom:latitude":36.674486,
     "geom:longitude":-97.309811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 S Main St",
     "sg:city":"Tonkawa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303555775,
-    "wof:lastmodified":1449000212,
+    "wof:lastmodified":1466766158,
     "wof:name":"Summers One Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.309811,36.674486,-97.309811,36.674486],
+  "bbox": [
+    -97.309811,
+    36.674486,
+    -97.309811,
+    36.674486
+],
   "geometry": {"coordinates":[-97.309811,36.674486],"type":"Point"}
 }

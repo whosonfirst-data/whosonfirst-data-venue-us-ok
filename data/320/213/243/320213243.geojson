@@ -2,13 +2,14 @@
   "id": 320213243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.390686,36.439438,-99.390686,36.439438",
     "geom:latitude":36.439438,
     "geom:longitude":-99.390686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 9th St",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320213243,
-    "wof:lastmodified":1449011298,
+    "wof:lastmodified":1466764661,
     "wof:name":"Jiffy Trip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.390686,36.439438,-99.390686,36.439438],
+  "bbox": [
+    -99.390686,
+    36.439438,
+    -99.390686,
+    36.439438
+],
   "geometry": {"coordinates":[-99.390686,36.439438],"type":"Point"}
 }

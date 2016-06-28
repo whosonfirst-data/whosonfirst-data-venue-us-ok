@@ -2,13 +2,14 @@
   "id": 303505067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.42505,35.686038,-97.42505,35.686038",
     "geom:latitude":35.686038,
     "geom:longitude":-97.42505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 N Sooner Rd",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303505067,
-    "wof:lastmodified":1449000158,
+    "wof:lastmodified":1466765970,
     "wof:name":"Assoc of Owners For Oaks",
     "wof:parent_id":85858415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.42505,35.686038,-97.42505,35.686038],
+  "bbox": [
+    -97.42505,
+    35.686038,
+    -97.42505,
+    35.686038
+],
   "geometry": {"coordinates":[-97.42505,35.686038],"type":"Point"}
 }

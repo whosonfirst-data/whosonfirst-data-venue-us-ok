@@ -2,13 +2,14 @@
   "id": 320211587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479869,36.272117,-98.479869,36.272117",
     "geom:latitude":36.272117,
     "geom:longitude":-98.479869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Ash St",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320211587,
-    "wof:lastmodified":1449012180,
+    "wof:lastmodified":1466764524,
     "wof:name":"Moose & Stewart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-98.479869,36.272117,-98.479869,36.272117],
-  "geometry": {"coordinates":[-98.479869,36.272117],"type":"Point"}
+  "bbox": [
+    -98.479869,
+    36.272117,
+    -98.479869,
+    36.272117
+],
+  "geometry": {"coordinates":[-98.47986899999999,36.272117],"type":"Point"}
 }

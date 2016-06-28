@@ -2,13 +2,14 @@
   "id": 353456861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.141855,34.174355,-97.141855,34.174355",
     "geom:latitude":34.174355,
     "geom:longitude":-97.141855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1036 W Broadway St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353456861,
-    "wof:lastmodified":1449019024,
+    "wof:lastmodified":1466762746,
     "wof:name":"Norman Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [-97.141855,34.174355,-97.141855,34.174355],
-  "geometry": {"coordinates":[-97.141855,34.174355],"type":"Point"}
+  "bbox": [
+    -97.141855,
+    34.174355,
+    -97.141855,
+    34.174355
+],
+  "geometry": {"coordinates":[-97.14185500000001,34.174355],"type":"Point"}
 }

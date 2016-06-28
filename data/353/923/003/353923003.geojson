@@ -2,13 +2,14 @@
   "id": 353923003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.015529,36.131276,-97.015529,36.131276",
     "geom:latitude":36.131276,
     "geom:longitude":-97.015529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 N Brush Creek Rd",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":353923003,
-    "wof:lastmodified":1449020696,
+    "wof:lastmodified":1466765615,
     "wof:name":"Ripley Dozers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.015529,36.131276,-97.015529,36.131276],
+  "bbox": [
+    -97.015529,
+    36.131276,
+    -97.015529,
+    36.131276
+],
   "geometry": {"coordinates":[-97.015529,36.131276],"type":"Point"}
 }

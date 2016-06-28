@@ -2,13 +2,14 @@
   "id": 304056271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.498258,35.380178,-97.498258,35.380178",
     "geom:latitude":35.380178,
     "geom:longitude":-97.498258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8401 Gateway Ter",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":304056271,
-    "wof:lastmodified":1449043719,
+    "wof:lastmodified":1466763144,
     "wof:name":"Sugarloaf Of Oklahoma",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.498258,35.380178,-97.498258,35.380178],
-  "geometry": {"coordinates":[-97.498258,35.380178],"type":"Point"}
+  "bbox": [
+    -97.498258,
+    35.380178,
+    -97.498258,
+    35.380178
+],
+  "geometry": {"coordinates":[-97.49825800000001,35.380178],"type":"Point"}
 }

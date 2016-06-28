@@ -2,13 +2,14 @@
   "id": 287191385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.881431,36.269911,-99.881431,36.269911",
     "geom:latitude":36.269911,
     "geom:longitude":-99.881431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Main St",
     "sg:city":"Shattuck",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287191385,
-    "wof:lastmodified":1449001198,
+    "wof:lastmodified":1466763925,
     "wof:name":"P S Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-99.881431,36.269911,-99.881431,36.269911],
-  "geometry": {"coordinates":[-99.881431,36.269911],"type":"Point"}
+  "bbox": [
+    -99.881431,
+    36.269911,
+    -99.881431,
+    36.269911
+],
+  "geometry": {"coordinates":[-99.88143100000001,36.269911],"type":"Point"}
 }

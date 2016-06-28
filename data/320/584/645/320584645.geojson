@@ -2,13 +2,14 @@
   "id": 320584645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.410163,35.493143,-97.410163,35.493143",
     "geom:latitude":35.493143,
     "geom:longitude":-97.410163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6820 NE 23rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320584645,
-    "wof:lastmodified":1449011650,
+    "wof:lastmodified":1466766265,
     "wof:name":"Tauras Valves",
     "wof:parent_id":85871697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valve"
     ]
 },
-  "bbox": [-97.410163,35.493143,-97.410163,35.493143],
+  "bbox": [
+    -97.410163,
+    35.493143,
+    -97.410163,
+    35.493143
+],
   "geometry": {"coordinates":[-97.410163,35.493143],"type":"Point"}
 }

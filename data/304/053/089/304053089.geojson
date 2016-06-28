@@ -2,13 +2,14 @@
   "id": 304053089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.864578,36.077346,-95.864578,36.077346",
     "geom:latitude":36.077346,
     "geom:longitude":-95.864578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10007 E 59th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304053089,
-    "wof:lastmodified":1449043662,
+    "wof:lastmodified":1466763123,
     "wof:name":"Elite Mechanical Service Co",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.864578,36.077346,-95.864578,36.077346],
-  "geometry": {"coordinates":[-95.864578,36.077346],"type":"Point"}
+  "bbox": [
+    -95.864578,
+    36.077346,
+    -95.864578,
+    36.077346
+],
+  "geometry": {"coordinates":[-95.86457799999999,36.077346],"type":"Point"}
 }

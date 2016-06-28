@@ -2,13 +2,14 @@
   "id": 320494267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.539025,35.398106,-97.539025,35.398106",
     "geom:latitude":35.398106,
     "geom:longitude":-97.539025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 S Blackwelder Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320494267,
-    "wof:lastmodified":1449014553,
+    "wof:lastmodified":1466766047,
     "wof:name":"Jefferson Middle School",
     "wof:parent_id":85871699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.539025,35.398106,-97.539025,35.398106],
+  "bbox": [
+    -97.539025,
+    35.398106,
+    -97.539025,
+    35.398106
+],
   "geometry": {"coordinates":[-97.539025,35.398106],"type":"Point"}
 }

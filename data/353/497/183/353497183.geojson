@@ -2,13 +2,14 @@
   "id": 353497183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.63348,35.068074,-94.63348,35.068074",
     "geom:latitude":35.068074,
     "geom:longitude":-94.63348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Wedgewood Dr",
     "sg:city":"Poteau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353497183,
-    "wof:lastmodified":1449020738,
+    "wof:lastmodified":1466763076,
     "wof:name":"Nelsoft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-94.63348,35.068074,-94.63348,35.068074],
-  "geometry": {"coordinates":[-94.63348,35.068074],"type":"Point"}
+  "bbox": [
+    -94.63348,
+    35.068074,
+    -94.63348,
+    35.068074
+],
+  "geometry": {"coordinates":[-94.63348000000001,35.068074],"type":"Point"}
 }

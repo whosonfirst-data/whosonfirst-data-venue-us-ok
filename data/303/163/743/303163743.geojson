@@ -2,13 +2,14 @@
   "id": 303163743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.377844,34.82126,-98.377844,34.82126",
     "geom:latitude":34.82126,
     "geom:longitude":-98.377844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Hilltop Rd",
     "sg:city":"Apache",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303163743,
-    "wof:lastmodified":1449000514,
+    "wof:lastmodified":1466764277,
     "wof:name":"B Donco",
     "wof:parent_id":85815375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.377844,34.82126,-98.377844,34.82126],
+  "bbox": [
+    -98.377844,
+    34.82126,
+    -98.377844,
+    34.82126
+],
   "geometry": {"coordinates":[-98.377844,34.82126],"type":"Point"}
 }

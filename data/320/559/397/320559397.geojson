@@ -2,13 +2,14 @@
   "id": 320559397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.031466,36.653124,-97.031466,36.653124",
     "geom:latitude":36.653124,
     "geom:longitude":-97.031466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4560 Stardust Trl",
     "sg:city":"Ponca City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320559397,
-    "wof:lastmodified":1449014148,
+    "wof:lastmodified":1466766200,
     "wof:name":"Shotguns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-97.031466,36.653124,-97.031466,36.653124],
-  "geometry": {"coordinates":[-97.031466,36.653124],"type":"Point"}
+  "bbox": [
+    -97.031466,
+    36.653124,
+    -97.031466,
+    36.653124
+],
+  "geometry": {"coordinates":[-97.03146599999999,36.653124],"type":"Point"}
 }

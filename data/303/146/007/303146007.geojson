@@ -2,13 +2,14 @@
   "id": 303146007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.503645,35.608177,-97.503645,35.608177",
     "geom:latitude":35.608177,
     "geom:longitude":-97.503645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13509 Railway Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303146007,
-    "wof:lastmodified":1448999133,
+    "wof:lastmodified":1466763980,
     "wof:name":"Sweete Connections Cakes Catrg",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "wedding"
     ]
 },
-  "bbox": [-97.503645,35.608177,-97.503645,35.608177],
-  "geometry": {"coordinates":[-97.503645,35.608177],"type":"Point"}
+  "bbox": [
+    -97.503645,
+    35.608177,
+    -97.503645,
+    35.608177
+],
+  "geometry": {"coordinates":[-97.50364500000001,35.608177],"type":"Point"}
 }

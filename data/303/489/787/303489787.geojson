@@ -2,13 +2,14 @@
   "id": 303489787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.049772,36.138049,-97.049772,36.138049",
     "geom:latitude":36.138049,
     "geom:longitude":-97.049772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 N Hartford St",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303489787,
-    "wof:lastmodified":1448999455,
+    "wof:lastmodified":1466765805,
     "wof:name":"Fair Manor Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.049772,36.138049,-97.049772,36.138049],
+  "bbox": [
+    -97.049772,
+    36.138049,
+    -97.049772,
+    36.138049
+],
   "geometry": {"coordinates":[-97.049772,36.138049],"type":"Point"}
 }

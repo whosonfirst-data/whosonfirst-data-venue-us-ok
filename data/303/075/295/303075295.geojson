@@ -2,13 +2,14 @@
   "id": 303075295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.137336,34.371248,-96.137336,34.371248",
     "geom:latitude":34.371248,
     "geom:longitude":-96.137336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1803 S Mississippi Ave",
     "sg:city":"Atoka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303075295,
-    "wof:lastmodified":1448999445,
+    "wof:lastmodified":1466762830,
     "wof:name":"Sheffield Furniture & Carpet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "covering"
     ]
 },
-  "bbox": [-96.137336,34.371248,-96.137336,34.371248],
+  "bbox": [
+    -96.137336,
+    34.371248,
+    -96.137336,
+    34.371248
+],
   "geometry": {"coordinates":[-96.137336,34.371248],"type":"Point"}
 }

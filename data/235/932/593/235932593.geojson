@@ -2,13 +2,14 @@
   "id": 235932593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940171,36.100674,-95.940171,36.100674",
     "geom:latitude":36.100674,
     "geom:longitude":-95.940171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4444 S Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":235932593,
-    "wof:lastmodified":1449008383,
+    "wof:lastmodified":1466762401,
     "wof:name":"Worrall, Sam J",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "osteopathic"
     ]
 },
-  "bbox": [-95.940171,36.100674,-95.940171,36.100674],
-  "geometry": {"coordinates":[-95.940171,36.100674],"type":"Point"}
+  "bbox": [
+    -95.940171,
+    36.100674,
+    -95.940171,
+    36.100674
+],
+  "geometry": {"coordinates":[-95.94017100000001,36.100674],"type":"Point"}
 }

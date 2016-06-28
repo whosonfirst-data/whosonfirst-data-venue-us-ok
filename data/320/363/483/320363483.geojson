@@ -2,13 +2,14 @@
   "id": 320363483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.884958,36.060827,-95.884958,36.060827",
     "geom:latitude":36.060827,
     "geom:longitude":-95.884958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8202 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320363483,
-    "wof:lastmodified":1449014512,
+    "wof:lastmodified":1466765545,
     "wof:name":"IBC Bank",
     "wof:parent_id":85872497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.884958,36.060827,-95.884958,36.060827],
+  "bbox": [
+    -95.884958,
+    36.060827,
+    -95.884958,
+    36.060827
+],
   "geometry": {"coordinates":[-95.884958,36.060827],"type":"Point"}
 }

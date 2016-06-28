@@ -2,13 +2,14 @@
   "id": 336882619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.456585,36.277122,-97.456585,36.277122",
     "geom:latitude":36.277122,
     "geom:longitude":-97.456585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 State Hwy 164",
     "sg:city":"Lucien",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336882619,
-    "wof:lastmodified":1448997132,
+    "wof:lastmodified":1466765127,
     "wof:name":"Lucien Volunteer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.456585,36.277122,-97.456585,36.277122],
+  "bbox": [
+    -97.456585,
+    36.277122,
+    -97.456585,
+    36.277122
+],
   "geometry": {"coordinates":[-97.456585,36.277122],"type":"Point"}
 }

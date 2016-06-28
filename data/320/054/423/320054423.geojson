@@ -2,13 +2,14 @@
   "id": 320054423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480038,35.65315,-97.480038,35.65315",
     "geom:latitude":35.65315,
     "geom:longitude":-97.480038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 E 2nd St",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320054423,
-    "wof:lastmodified":1449013014,
+    "wof:lastmodified":1466763097,
     "wof:name":"Audiology Clinic Of Edmond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "impaired"
     ]
 },
-  "bbox": [-97.480038,35.65315,-97.480038,35.65315],
-  "geometry": {"coordinates":[-97.480038,35.65315],"type":"Point"}
+  "bbox": [
+    -97.480038,
+    35.65315,
+    -97.480038,
+    35.65315
+],
+  "geometry": {"coordinates":[-97.48003799999999,35.65315],"type":"Point"}
 }

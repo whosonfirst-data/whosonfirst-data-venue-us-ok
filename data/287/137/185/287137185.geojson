@@ -2,13 +2,14 @@
   "id": 287137185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.545631,35.534728,-97.545631,35.534728",
     "geom:latitude":35.534728,
     "geom:longitude":-97.545631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6206 Waterford Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287137185,
-    "wof:lastmodified":1449001450,
+    "wof:lastmodified":1466763624,
     "wof:name":"Waterford Security",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [-97.545631,35.534728,-97.545631,35.534728],
+  "bbox": [
+    -97.545631,
+    35.534728,
+    -97.545631,
+    35.534728
+],
   "geometry": {"coordinates":[-97.545631,35.534728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303052379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.961948,36.092952,-95.961948,36.092952",
     "geom:latitude":36.092952,
     "geom:longitude":-95.961948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4817 S Yorktown Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303052379,
-    "wof:lastmodified":1448999229,
+    "wof:lastmodified":1466762460,
     "wof:name":"MSI",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-95.961948,36.092952,-95.961948,36.092952],
-  "geometry": {"coordinates":[-95.961948,36.092952],"type":"Point"}
+  "bbox": [
+    -95.961948,
+    36.092952,
+    -95.961948,
+    36.092952
+],
+  "geometry": {"coordinates":[-95.96194800000001,36.092952],"type":"Point"}
 }

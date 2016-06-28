@@ -2,13 +2,14 @@
   "id": 303193779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.53244,35.381864,-97.53244,35.381864",
     "geom:latitude":35.381864,
     "geom:longitude":-97.53244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 SW 84th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303193779,
-    "wof:lastmodified":1448998513,
+    "wof:lastmodified":1466764404,
     "wof:name":"Spring Creek Apartments",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.53244,35.381864,-97.53244,35.381864],
-  "geometry": {"coordinates":[-97.53244,35.381864],"type":"Point"}
+  "bbox": [
+    -97.53244,
+    35.381864,
+    -97.53244,
+    35.381864
+],
+  "geometry": {"coordinates":[-97.53243999999999,35.381864],"type":"Point"}
 }

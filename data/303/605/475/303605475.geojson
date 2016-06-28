@@ -2,13 +2,14 @@
   "id": 303605475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.511649,35.367104,-97.511649,35.367104",
     "geom:latitude":35.367104,
     "geom:longitude":-97.511649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"937 NW 32nd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":303605475,
-    "wof:lastmodified":1448999309,
+    "wof:lastmodified":1466766112,
     "wof:name":"Attaboy Exterminators",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.511649,35.367104,-97.511649,35.367104],
-  "geometry": {"coordinates":[-97.511649,35.367104],"type":"Point"}
+  "bbox": [
+    -97.511649,
+    35.367104,
+    -97.511649,
+    35.367104
+],
+  "geometry": {"coordinates":[-97.51164900000001,35.367104],"type":"Point"}
 }

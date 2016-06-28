@@ -2,13 +2,14 @@
   "id": 320191973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.980554,36.174504,-95.980554,36.174504",
     "geom:latitude":36.174504,
     "geom:longitude":-95.980554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1339 N Lansing Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":320191973,
-    "wof:lastmodified":1449013512,
+    "wof:lastmodified":1466764567,
     "wof:name":"Word Of Faith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.980554,36.174504,-95.980554,36.174504],
+  "bbox": [
+    -95.980554,
+    36.174504,
+    -95.980554,
+    36.174504
+],
   "geometry": {"coordinates":[-95.980554,36.174504],"type":"Point"}
 }

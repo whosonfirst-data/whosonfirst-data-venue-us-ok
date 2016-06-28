@@ -2,13 +2,14 @@
   "id": 336942919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.563821,35.593392,-97.563821,35.593392",
     "geom:latitude":35.593392,
     "geom:longitude":-97.563821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 NW 120th Ter",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336942919,
-    "wof:lastmodified":1448997448,
+    "wof:lastmodified":1466765411,
     "wof:name":"Oasis Products",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.563821,35.593392,-97.563821,35.593392],
+  "bbox": [
+    -97.563821,
+    35.593392,
+    -97.563821,
+    35.593392
+],
   "geometry": {"coordinates":[-97.563821,35.593392],"type":"Point"}
 }

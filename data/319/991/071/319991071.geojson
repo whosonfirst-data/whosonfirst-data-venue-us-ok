@@ -2,13 +2,14 @@
   "id": 319991071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935719,36.008317,-95.935719,36.008317",
     "geom:latitude":36.008317,
     "geom:longitude":-95.935719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 E 107th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":319991071,
-    "wof:lastmodified":1449024315,
+    "wof:lastmodified":1466762563,
     "wof:name":"Villa Design",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.935719,36.008317,-95.935719,36.008317],
-  "geometry": {"coordinates":[-95.935719,36.008317],"type":"Point"}
+  "bbox": [
+    -95.935719,
+    36.008317,
+    -95.935719,
+    36.008317
+],
+  "geometry": {"coordinates":[-95.93571900000001,36.008317],"type":"Point"}
 }

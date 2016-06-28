@@ -2,13 +2,14 @@
   "id": 353804159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.94041,36.124591,-95.94041,36.124591",
     "geom:latitude":36.124591,
     "geom:longitude":-95.94041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2610 S Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353804159,
-    "wof:lastmodified":1449020017,
+    "wof:lastmodified":1466765350,
     "wof:name":"Paper Chase",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-95.94041,36.124591,-95.94041,36.124591],
+  "bbox": [
+    -95.94041,
+    36.124591,
+    -95.94041,
+    36.124591
+],
   "geometry": {"coordinates":[-95.94041,36.124591],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320594051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.905864,36.082052,-95.905864,36.082052",
     "geom:latitude":36.082052,
     "geom:longitude":-95.905864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6020 E 56th Pl",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320594051,
-    "wof:lastmodified":1449011792,
+    "wof:lastmodified":1466766270,
     "wof:name":"Dova Commercial Properties",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.905864,36.082052,-95.905864,36.082052],
-  "geometry": {"coordinates":[-95.905864,36.082052],"type":"Point"}
+  "bbox": [
+    -95.905864,
+    36.082052,
+    -95.905864,
+    36.082052
+],
+  "geometry": {"coordinates":[-95.90586399999999,36.082052],"type":"Point"}
 }

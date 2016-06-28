@@ -2,13 +2,14 @@
   "id": 303190129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.481455,35.654337,-97.481455,35.654337",
     "geom:latitude":35.654337,
     "geom:longitude":-97.481455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 S Broadway",
     "sg:city":"Edmond",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":303190129,
-    "wof:lastmodified":1449000411,
+    "wof:lastmodified":1466764383,
     "wof:name":"Around The Corner Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-97.481455,35.654337,-97.481455,35.654337],
+  "bbox": [
+    -97.481455,
+    35.654337,
+    -97.481455,
+    35.654337
+],
   "geometry": {"coordinates":[-97.481455,35.654337],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320012377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.980938,36.753276,-95.980938,36.753276",
     "geom:latitude":36.753276,
     "geom:longitude":-95.980938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 W Hensley Blvd",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320012377,
-    "wof:lastmodified":1449014587,
+    "wof:lastmodified":1466762463,
     "wof:name":"Metal Goods Manufacturing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-95.980938,36.753276,-95.980938,36.753276],
-  "geometry": {"coordinates":[-95.980938,36.753276],"type":"Point"}
+  "bbox": [
+    -95.980938,
+    36.753276,
+    -95.980938,
+    36.753276
+],
+  "geometry": {"coordinates":[-95.98093799999999,36.753276],"type":"Point"}
 }

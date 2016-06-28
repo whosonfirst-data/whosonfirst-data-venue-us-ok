@@ -2,13 +2,14 @@
   "id": 336870109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.710266,35.525033,-98.710266,35.525033",
     "geom:latitude":35.525033,
     "geom:longitude":-98.710266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 W Rainey Ave",
     "sg:city":"Weatherford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336870109,
-    "wof:lastmodified":1448997232,
+    "wof:lastmodified":1466764931,
     "wof:name":"National Guard Armory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.710266,35.525033,-98.710266,35.525033],
+  "bbox": [
+    -98.710266,
+    35.525033,
+    -98.710266,
+    35.525033
+],
   "geometry": {"coordinates":[-98.710266,35.525033],"type":"Point"}
 }

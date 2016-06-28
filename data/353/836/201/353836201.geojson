@@ -2,13 +2,14 @@
   "id": 353836201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.59863,35.453987,-97.59863,35.453987",
     "geom:latitude":35.453987,
     "geom:longitude":-97.59863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 Sovereign Row",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353836201,
-    "wof:lastmodified":1449019930,
+    "wof:lastmodified":1466765359,
     "wof:name":"Advanced Financial Solutions",
     "wof:parent_id":85871713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-97.59863,35.453987,-97.59863,35.453987],
+  "bbox": [
+    -97.59863,
+    35.453987,
+    -97.59863,
+    35.453987
+],
   "geometry": {"coordinates":[-97.59863,35.453987],"type":"Point"}
 }

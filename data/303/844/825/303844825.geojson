@@ -2,13 +2,14 @@
   "id": 303844825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.505506,35.520471,-97.505506,35.520471",
     "geom:latitude":35.520471,
     "geom:longitude":-97.505506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 N Stiles Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303844825,
-    "wof:lastmodified":1448999161,
+    "wof:lastmodified":1466766826,
     "wof:name":"Swefco",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-97.505506,35.520471,-97.505506,35.520471],
+  "bbox": [
+    -97.505506,
+    35.520471,
+    -97.505506,
+    35.520471
+],
   "geometry": {"coordinates":[-97.505506,35.520471],"type":"Point"}
 }

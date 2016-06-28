@@ -2,13 +2,14 @@
   "id": 303364921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.050898,35.994124,-97.050898,35.994124",
     "geom:latitude":35.994124,
     "geom:longitude":-97.050898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10900 S Perkins Rd",
     "sg:city":"Perkins",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303364921,
-    "wof:lastmodified":1448999496,
+    "wof:lastmodified":1466765346,
     "wof:name":"Quality Outdoor Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.050898,35.994124,-97.050898,35.994124],
+  "bbox": [
+    -97.050898,
+    35.994124,
+    -97.050898,
+    35.994124
+],
   "geometry": {"coordinates":[-97.050898,35.994124],"type":"Point"}
 }

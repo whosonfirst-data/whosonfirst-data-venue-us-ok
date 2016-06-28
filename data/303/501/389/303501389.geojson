@@ -2,13 +2,14 @@
   "id": 303501389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.424971,35.377388,-97.424971,35.377388",
     "geom:latitude":35.377388,
     "geom:longitude":-97.424971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 SE 89th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303501389,
-    "wof:lastmodified":1449000587,
+    "wof:lastmodified":1466765836,
     "wof:name":"Living Waters Tabernacle Chr",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.424971,35.377388,-97.424971,35.377388],
+  "bbox": [
+    -97.424971,
+    35.377388,
+    -97.424971,
+    35.377388
+],
   "geometry": {"coordinates":[-97.424971,35.377388],"type":"Point"}
 }

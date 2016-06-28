@@ -2,13 +2,14 @@
   "id": 220190241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975609,36.13797,-95.975609,36.13797",
     "geom:latitude":36.13797,
     "geom:longitude":-95.975609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220190241,
-    "wof:lastmodified":1449074839,
+    "wof:lastmodified":1466762413,
     "wof:name":"Tulsa Urgent Dental",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clinic"
     ]
 },
-  "bbox": [-95.975609,36.13797,-95.975609,36.13797],
-  "geometry": {"coordinates":[-95.975609,36.13797],"type":"Point"}
+  "bbox": [
+    -95.975609,
+    36.13797,
+    -95.975609,
+    36.13797
+],
+  "geometry": {"coordinates":[-95.97560900000001,36.13797],"type":"Point"}
 }

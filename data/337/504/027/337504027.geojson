@@ -2,13 +2,14 @@
   "id": 337504027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.953635,34.647702,-97.953635,34.647702",
     "geom:latitude":34.647702,
     "geom:longitude":-97.953635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Main St",
     "sg:city":"Marlow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337504027,
-    "wof:lastmodified":1449027064,
+    "wof:lastmodified":1466762671,
     "wof:name":"Mitchell & Mitchell Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.953635,34.647702,-97.953635,34.647702],
-  "geometry": {"coordinates":[-97.953635,34.647702],"type":"Point"}
+  "bbox": [
+    -97.953635,
+    34.647702,
+    -97.953635,
+    34.647702
+],
+  "geometry": {"coordinates":[-97.95363500000001,34.647702],"type":"Point"}
 }

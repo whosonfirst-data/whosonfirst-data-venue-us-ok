@@ -2,13 +2,14 @@
   "id": 303835877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.546686,35.511299,-97.546686,35.511299",
     "geom:latitude":35.511299,
     "geom:longitude":-97.546686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 NW 39th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303835877,
-    "wof:lastmodified":1448998468,
+    "wof:lastmodified":1466766808,
     "wof:name":"Homeland",
     "wof:parent_id":85871679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.546686,35.511299,-97.546686,35.511299],
-  "geometry": {"coordinates":[-97.546686,35.511299],"type":"Point"}
+  "bbox": [
+    -97.546686,
+    35.511299,
+    -97.546686,
+    35.511299
+],
+  "geometry": {"coordinates":[-97.54668599999999,35.511299],"type":"Point"}
 }

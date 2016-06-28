@@ -2,13 +2,14 @@
   "id": 304018183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.510477,35.52225,-97.510477,35.52225",
     "geom:latitude":35.52225,
     "geom:longitude":-97.510477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 NE 50th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304018183,
-    "wof:lastmodified":1449043868,
+    "wof:lastmodified":1466762907,
     "wof:name":"Justice Motors",
     "wof:parent_id":85871703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-97.510477,35.52225,-97.510477,35.52225],
-  "geometry": {"coordinates":[-97.510477,35.52225],"type":"Point"}
+  "bbox": [
+    -97.510477,
+    35.52225,
+    -97.510477,
+    35.52225
+],
+  "geometry": {"coordinates":[-97.51047699999999,35.52225],"type":"Point"}
 }

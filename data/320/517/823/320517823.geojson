@@ -2,13 +2,14 @@
   "id": 320517823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.308529,36.678122,-97.308529,36.678122",
     "geom:latitude":36.678122,
     "geom:longitude":-97.308529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 S 7th St",
     "sg:city":"Tonkawa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320517823,
-    "wof:lastmodified":1449013391,
+    "wof:lastmodified":1466766096,
     "wof:name":"Cherokee Strip Transit Noda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.308529,36.678122,-97.308529,36.678122],
-  "geometry": {"coordinates":[-97.308529,36.678122],"type":"Point"}
+  "bbox": [
+    -97.308529,
+    36.678122,
+    -97.308529,
+    36.678122
+],
+  "geometry": {"coordinates":[-97.30852899999999,36.678122],"type":"Point"}
 }
