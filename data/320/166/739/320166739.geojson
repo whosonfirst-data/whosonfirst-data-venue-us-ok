@@ -2,9 +2,14 @@
   "id": 320166739,
   "type": "Feature",
   "properties": {
+    "addr:full":"3817 N College Ave Bethany OK 73008",
+    "addr:housenumber":"3817",
+    "addr:postcode":"73008",
+    "addr:street":"N College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.629177,35.509507,-97.629177,35.509507",
     "geom:latitude":35.509507,
     "geom:longitude":-97.629177,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"0be2c8b164790a1fd52d192229208ee3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320166739,
-    "wof:lastmodified":1466764346,
+    "wof:lastmodified":1491910184,
     "wof:name":"Bristol House",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

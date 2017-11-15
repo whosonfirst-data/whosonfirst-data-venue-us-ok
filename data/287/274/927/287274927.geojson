@@ -2,9 +2,14 @@
   "id": 287274927,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 S Agnew Ave Oklahoma City OK 73108",
+    "addr:housenumber":"2301",
+    "addr:postcode":"73108",
+    "addr:street":"S Agnew Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.554622,35.441411,-97.554622,35.441411",
     "geom:latitude":35.441411,
     "geom:longitude":-97.554622,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"18eb4e718323817658197fe590f6cb9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":287274927,
-    "wof:lastmodified":1466763063,
+    "wof:lastmodified":1491904564,
     "wof:name":"Motorcycle Tire Store",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",

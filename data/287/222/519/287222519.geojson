@@ -2,9 +2,14 @@
   "id": 287222519,
   "type": "Feature",
   "properties": {
+    "addr:full":"541 NW 34th St Oklahoma City OK 73118",
+    "addr:housenumber":"541",
+    "addr:postcode":"73118",
+    "addr:street":"Nw 34Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.522373,35.505375,-97.522373,35.505375",
     "geom:latitude":35.505375,
     "geom:longitude":-97.522373,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
-        85871677,
-        85871703
+        85871703,
+        85871677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +49,28 @@
     "wof:geomhash":"7b960ca804c1512fbc5f0735243eaa7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082577,
-            "locality_id":101714461,
-            "neighbourhood_id":85871677,
-            "region_id":85688585,
-            "venue_id":287222519
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
             "neighbourhood_id":85871703,
             "region_id":85688585,
             "venue_id":287222519
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871677,
+            "region_id":85688585,
+            "venue_id":287222519
         }
     ],
     "wof:id":287222519,
-    "wof:lastmodified":1466764136,
+    "wof:lastmodified":1491921294,
     "wof:name":"Hull Owen Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 320067541,
   "type": "Feature",
   "properties": {
+    "addr:full":"2238 SW 29th St Oklahoma City OK 73119",
+    "addr:housenumber":"2238",
+    "addr:postcode":"73119",
+    "addr:street":"Sw 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.55162,35.435113,-97.55162,35.435113",
     "geom:latitude":35.435113,
     "geom:longitude":-97.55162,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"0edf79923c69109290b318af5224c766",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320067541,
-    "wof:lastmodified":1466763289,
+    "wof:lastmodified":1491904581,
     "wof:name":"Flores Auto Repair",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",

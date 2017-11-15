@@ -2,9 +2,14 @@
   "id": 354153341,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 SE 64th St Oklahoma City OK 73149",
+    "addr:housenumber":"301",
+    "addr:postcode":"73149",
+    "addr:street":"Se 64Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.503058,35.400804,-97.503058,35.400804",
     "geom:latitude":35.400804,
     "geom:longitude":-97.503058,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"c3c08b1eb522b13f4a94ba3f902afe79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":354153341,
-    "wof:lastmodified":1466763702,
+    "wof:lastmodified":1491909284,
     "wof:name":"Termatox Pest Control",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

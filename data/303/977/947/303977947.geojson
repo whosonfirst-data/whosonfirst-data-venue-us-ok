@@ -2,9 +2,14 @@
   "id": 303977947,
   "type": "Feature",
   "properties": {
+    "addr:full":"1087 Raintree Mansion Yukon OK 73099",
+    "addr:housenumber":"1087;mansion",
+    "addr:postcode":"73099",
+    "addr:street":"Raintree",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.726376,35.518627,-97.726376,35.518627",
     "geom:latitude":35.518627,
     "geom:longitude":-97.726376,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f2c9cee8067e572181bd9e8e362c4597",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303977947,
-    "wof:lastmodified":1466767112,
+    "wof:lastmodified":1491911890,
     "wof:name":"Harolds Electric",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

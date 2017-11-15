@@ -2,9 +2,14 @@
   "id": 354109235,
   "type": "Feature",
   "properties": {
+    "addr:full":"7140 NW 39th Expy Bethany OK 73008",
+    "addr:housenumber":"7140",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 39Th Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.637089,35.513033,-97.637089,35.513033",
     "geom:latitude":35.513033,
     "geom:longitude":-97.637089,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3a13baf8d4bb6b836892b2f772501ea6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354109235,
-    "wof:lastmodified":1466763546,
+    "wof:lastmodified":1491910122,
     "wof:name":"Steel Welding Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320367741,
   "type": "Feature",
   "properties": {
+    "addr:full":"7112 S I- 35 Svc Rd Oklahoma City OK 73149",
+    "addr:housenumber":"7112;35",
+    "addr:postcode":"73149",
+    "addr:street":"S I;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.494669,35.396044,-97.494669,35.396044",
     "geom:latitude":35.396044,
     "geom:longitude":-97.494669,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"fcba4a83094d215c6afb5b0f3e827ec2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320367741,
-    "wof:lastmodified":1466765575,
+    "wof:lastmodified":1491909351,
     "wof:name":"Crossroad Nails",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

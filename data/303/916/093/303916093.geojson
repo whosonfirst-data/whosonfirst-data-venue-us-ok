@@ -2,9 +2,14 @@
   "id": 303916093,
   "type": "Feature",
   "properties": {
+    "addr:full":"910 N 7th St Yukon OK 73099",
+    "addr:housenumber":"910",
+    "addr:postcode":"73099",
+    "addr:street":"N 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.806231,35.578286,-97.806231,35.578286",
     "geom:latitude":35.578286,
     "geom:longitude":-97.806231,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"90203a9c6769bdfc8775944d1501401d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303916093,
-    "wof:lastmodified":1466767069,
+    "wof:lastmodified":1491911854,
     "wof:name":"Performance Parts Machine",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

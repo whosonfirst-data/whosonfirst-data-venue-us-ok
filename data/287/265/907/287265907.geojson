@@ -2,9 +2,14 @@
   "id": 287265907,
   "type": "Feature",
   "properties": {
+    "addr:full":"1509 W Blake St El Reno OK 73036",
+    "addr:housenumber":"1509",
+    "addr:postcode":"73036",
+    "addr:street":"W Blake St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.972079,35.528544,-97.972079,35.528544",
     "geom:latitude":35.528544,
     "geom:longitude":-97.972079,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"4578be81449e9a22c3b9950638251ab2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":287265907,
-    "wof:lastmodified":1466762922,
+    "wof:lastmodified":1491911824,
     "wof:name":"El Reno Community Chorus Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

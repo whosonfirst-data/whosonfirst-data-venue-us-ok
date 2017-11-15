@@ -2,9 +2,14 @@
   "id": 303403755,
   "type": "Feature",
   "properties": {
+    "addr:full":"6122 S Shields Blvd Oklahoma City OK 73149",
+    "addr:housenumber":"6122",
+    "addr:postcode":"73149",
+    "addr:street":"S Shields Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.507902,35.404191,-97.507902,35.404191",
     "geom:latitude":35.404191,
     "geom:longitude":-97.507902,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"ec4cc6942f481421d87c85802821faae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303403755,
-    "wof:lastmodified":1466765459,
+    "wof:lastmodified":1491909426,
     "wof:name":"Tuff Built Portable Buildings",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

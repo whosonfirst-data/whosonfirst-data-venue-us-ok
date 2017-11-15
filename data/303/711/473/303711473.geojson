@@ -2,9 +2,14 @@
   "id": 303711473,
   "type": "Feature",
   "properties": {
+    "addr:full":"11128 Ashford Dr Yukon OK 73099",
+    "addr:housenumber":"11128",
+    "addr:postcode":"73099",
+    "addr:street":"Ashford Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.71952,35.58108,-97.71952,35.58108",
     "geom:latitude":35.58108,
     "geom:longitude":-97.71952,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"37fa2a5bf1cb51f2e30e4d30b48092c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303711473,
-    "wof:lastmodified":1466766510,
+    "wof:lastmodified":1491911865,
     "wof:name":"Kettle Creations",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

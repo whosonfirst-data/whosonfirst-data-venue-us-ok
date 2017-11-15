@@ -2,9 +2,14 @@
   "id": 353909643,
   "type": "Feature",
   "properties": {
+    "addr:full":"6009 N Bryant Ave Edmond OK 73034",
+    "addr:housenumber":"6009",
+    "addr:postcode":"73034",
+    "addr:street":"N Bryant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.460507,35.713274,-97.460507,35.713274",
     "geom:latitude":35.713274,
     "geom:longitude":-97.460507,
@@ -30,8 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714451,
         102082577
     ],
     "wof:breaches":[],
@@ -39,20 +44,20 @@
         "sg:id":"SG_5CuL5c4J4D2VGrgNtHfq5y_35.713274_-97.460507@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd87d6e3927dba7a7d72ec751a8ef8f6",
+    "wof:geomhash":"87335536ecee88ecc7324d6f0d6d4cc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
-            "locality_id":101714451,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688585,
             "venue_id":353909643
         }
     ],
     "wof:id":353909643,
-    "wof:lastmodified":1466765564,
+    "wof:lastmodified":1494529575,
     "wof:name":"Danielson Veterinarian Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

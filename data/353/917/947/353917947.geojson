@@ -2,9 +2,14 @@
   "id": 353917947,
   "type": "Feature",
   "properties": {
+    "addr:full":"610 NW 23rd St Oklahoma City OK 73103",
+    "addr:housenumber":"610",
+    "addr:postcode":"73103",
+    "addr:street":"Nw 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.523502,35.493173,-97.523502,35.493173",
     "geom:latitude":35.493173,
     "geom:longitude":-97.523502,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"2120af9cdd5a8b28d48b4ec2a5d8a8a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
             "venue_id":353917947
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -62,9 +68,9 @@
         }
     ],
     "wof:id":353917947,
-    "wof:lastmodified":1466765593,
+    "wof:lastmodified":1491921285,
     "wof:name":"Joe's Pawn & Bargain Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

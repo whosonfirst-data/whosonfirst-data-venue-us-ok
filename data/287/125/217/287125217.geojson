@@ -2,9 +2,14 @@
   "id": 287125217,
   "type": "Feature",
   "properties": {
+    "addr:full":"14912 Westcreek Rd Piedmont OK 73078",
+    "addr:housenumber":"",
+    "addr:postcode":"14912;73078",
+    "addr:street":"Westcreek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.78771,35.620417,-97.78771,35.620417",
     "geom:latitude":35.620417,
     "geom:longitude":-97.78771,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"68c7b47fa829dd1aafba003fb27c9e48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":287125217,
-    "wof:lastmodified":1466763579,
+    "wof:lastmodified":1491912039,
     "wof:name":"Ledford Construction",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320706775,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 N Evans Ave El Reno OK 73036",
+    "addr:housenumber":"500",
+    "addr:postcode":"73036",
+    "addr:street":"N Evans Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.956036,35.537735,-97.956036,35.537735",
     "geom:latitude":35.537735,
     "geom:longitude":-97.956036,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"b432433b2f5c8e2096bbd80ffa931c49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320706775,
-    "wof:lastmodified":1466766428,
+    "wof:lastmodified":1491912034,
     "wof:name":"Perkins Family Care",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

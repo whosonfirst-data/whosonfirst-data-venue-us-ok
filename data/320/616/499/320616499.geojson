@@ -2,9 +2,14 @@
   "id": 320616499,
   "type": "Feature",
   "properties": {
+    "addr:full":"3700 Kellogg Dr Edmond OK 73034",
+    "addr:housenumber":"3700",
+    "addr:postcode":"73034",
+    "addr:street":"Kellogg Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.382619,35.69489,-97.382619,35.69489",
     "geom:latitude":35.69489,
     "geom:longitude":-97.382619,
@@ -31,8 +36,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714451,
         102082577
     ],
     "wof:breaches":[],
@@ -40,20 +45,20 @@
         "sg:id":"SG_0CgOQjc8e0aQB1DrP8hTAZ_35.694890_-97.382619@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"2fef1c6e4a11b8f7fcd0ee247cd0c2ed",
+    "wof:geomhash":"fa91ef53c532239b4fb815681b1c6288",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
-            "locality_id":101714451,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688585,
             "venue_id":320616499
         }
     ],
     "wof:id":320616499,
-    "wof:lastmodified":1466766323,
+    "wof:lastmodified":1494529571,
     "wof:name":"C & J Wellhead",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320796373,
   "type": "Feature",
   "properties": {
+    "addr:full":"12750 Scott Ln Mustang OK 73064",
+    "addr:housenumber":"12750",
+    "addr:postcode":"73064",
+    "addr:street":"Scott Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.75375,35.339244,-97.75375,35.339244",
     "geom:latitude":35.339244,
     "geom:longitude":-97.75375,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"ef4f3e4dd90978b483cad7d4d9d73d9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320796373,
-    "wof:lastmodified":1466766758,
+    "wof:lastmodified":1491911947,
     "wof:name":"Weight Watchers",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

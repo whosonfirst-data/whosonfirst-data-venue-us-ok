@@ -2,9 +2,14 @@
   "id": 336630277,
   "type": "Feature",
   "properties": {
+    "addr:full":"5925 NW 37th St Oklahoma City OK 73122",
+    "addr:housenumber":"5925",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 37Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.621488,35.508847,-97.621488,35.508847",
     "geom:latitude":35.508847,
     "geom:longitude":-97.621488,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"2351362ee476c15534b3dcdfeeb211b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336630277,
-    "wof:lastmodified":1466762659,
+    "wof:lastmodified":1491910178,
     "wof:name":"Carter-Maxwell Auto Service",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303082383,
   "type": "Feature",
   "properties": {
+    "addr:full":"8000 Foreman Rd El Reno OK 73036",
+    "addr:housenumber":"8000",
+    "addr:postcode":"73036",
+    "addr:street":"Foreman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.866187,35.536896,-97.866187,35.536896",
     "geom:latitude":35.536896,
     "geom:longitude":-97.866187,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"9581c0e50327e8234b2cd50e42a654ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303082383,
-    "wof:lastmodified":1466762944,
+    "wof:lastmodified":1491911974,
     "wof:name":"River Adventures Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

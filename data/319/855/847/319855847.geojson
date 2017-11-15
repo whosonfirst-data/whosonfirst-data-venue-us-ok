@@ -2,14 +2,20 @@
   "id": 319855847,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 Valley Park Dr El Reno OK 73036",
+    "addr:housenumber":"3900",
+    "addr:postcode":"73036",
+    "addr:street":"Valley Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.942451,35.494372,-97.942451,35.494372",
     "geom:latitude":35.494372,
     "geom:longitude":-97.942451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3900 Valley Park Dr",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
         85805913
     ],
+    "wof:brand_id":1125158331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43YIDX5u7d732G9fEQppAD_35.494372_-97.942451@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"85621e1877c78c7bee37223d4bcd2a79",
+    "wof:geomhash":"2e658bd54b47088dd64ea596acd23228",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":319855847,
-    "wof:lastmodified":1466763217,
+    "wof:lastmodified":1510694171,
     "wof:name":"Key Energy Svc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

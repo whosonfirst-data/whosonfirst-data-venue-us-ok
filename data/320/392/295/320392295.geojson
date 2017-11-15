@@ -2,9 +2,14 @@
   "id": 320392295,
   "type": "Feature",
   "properties": {
+    "addr:full":"316 SE 66th St Oklahoma City OK 73149",
+    "addr:housenumber":"316",
+    "addr:postcode":"73149",
+    "addr:street":"Se 66Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.503874,35.398908,-97.503874,35.398908",
     "geom:latitude":35.398908,
     "geom:longitude":-97.503874,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"9ab93e8d33d363c529d6b60f6423d6c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320392295,
-    "wof:lastmodified":1466765535,
+    "wof:lastmodified":1491909327,
     "wof:name":"Goad Construction",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

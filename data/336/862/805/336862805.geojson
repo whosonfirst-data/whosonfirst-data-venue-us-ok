@@ -2,9 +2,14 @@
   "id": 336862805,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 SW 59th St Oklahoma City OK 73119",
+    "addr:housenumber":"1500",
+    "addr:postcode":"73119",
+    "addr:street":"Sw 59Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.547938,35.406214,-97.547938,35.406214",
     "geom:latitude":35.406214,
     "geom:longitude":-97.547938,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
-        102082577
+        102082577,
+        85871699,
+        85871707
     ],
     "wof:brand_id":420573871,
     "wof:breaches":[],
@@ -39,19 +47,28 @@
     "wof:geomhash":"d3cbe6157360649fd44c840e62ce0896",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871699,
+            "region_id":85688585,
+            "venue_id":336862805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871707,
             "region_id":85688585,
             "venue_id":336862805
         }
     ],
     "wof:id":336862805,
-    "wof:lastmodified":1466764988,
+    "wof:lastmodified":1491904589,
     "wof:name":"Wal-Mart",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

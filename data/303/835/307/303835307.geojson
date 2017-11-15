@@ -2,9 +2,14 @@
   "id": 303835307,
   "type": "Feature",
   "properties": {
+    "addr:full":"881 Basett NW Piedmont OK 73078",
+    "addr:housenumber":"881",
+    "addr:postcode":"73078",
+    "addr:street":"Basett Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.755399,35.710786,-97.755399,35.710786",
     "geom:latitude":35.710786,
     "geom:longitude":-97.755399,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"9b33cd7e7d715a9ccc90aa5cd70a11de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303835307,
-    "wof:lastmodified":1466766800,
+    "wof:lastmodified":1491912080,
     "wof:name":"Reeves Towing & Wrecker Svc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

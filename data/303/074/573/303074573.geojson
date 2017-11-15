@@ -2,9 +2,14 @@
   "id": 303074573,
   "type": "Feature",
   "properties": {
+    "addr:full":"10321 Bradford Way Yukon OK 73099",
+    "addr:housenumber":"10321",
+    "addr:postcode":"73099",
+    "addr:street":"Bradford Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.700681,35.454574,-97.700681,35.454574",
     "geom:latitude":35.454574,
     "geom:longitude":-97.700681,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"dd8de52336596223f9027736c15d7f5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303074573,
-    "wof:lastmodified":1466762817,
+    "wof:lastmodified":1491911921,
     "wof:name":"Alchemy Properties Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

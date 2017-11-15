@@ -2,9 +2,14 @@
   "id": 303175243,
   "type": "Feature",
   "properties": {
+    "addr:full":"5318 S Shields Blvd Oklahoma City OK 73129",
+    "addr:housenumber":"5318",
+    "addr:postcode":"73129",
+    "addr:street":"S Shields Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.507935,35.412261,-97.507935,35.412261",
     "geom:latitude":35.412261,
     "geom:longitude":-97.507935,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"48afcbeb7705843c8884b4fced9486a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303175243,
-    "wof:lastmodified":1466764310,
+    "wof:lastmodified":1491909385,
     "wof:name":"Fast Mart",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

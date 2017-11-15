@@ -2,9 +2,14 @@
   "id": 303166907,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Cedar Ave Yukon OK 73099",
+    "addr:housenumber":"500",
+    "addr:postcode":"73099",
+    "addr:street":"Cedar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.752163,35.508953,-97.752163,35.508953",
     "geom:latitude":35.508953,
     "geom:longitude":-97.752163,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"b9185a990f7fc22fa5f8de5c18c661cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303166907,
-    "wof:lastmodified":1466764288,
+    "wof:lastmodified":1491912028,
     "wof:name":"Church of Everlasting Faith",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

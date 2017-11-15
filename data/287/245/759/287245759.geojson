@@ -2,9 +2,14 @@
   "id": 287245759,
   "type": "Feature",
   "properties": {
+    "addr:full":"2442 E Frontier Ter Mustang OK 73064",
+    "addr:housenumber":"2442",
+    "addr:postcode":"73064",
+    "addr:street":"E Frontier Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.671794,35.394293,-97.671794,35.394293",
     "geom:latitude":35.394293,
     "geom:longitude":-97.671794,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"6bbbe66a6a52825805a0bba0035329da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":287245759,
-    "wof:lastmodified":1466762627,
+    "wof:lastmodified":1491912013,
     "wof:name":"L&R Landscaping",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

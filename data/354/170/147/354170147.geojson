@@ -2,14 +2,20 @@
   "id": 354170147,
   "type": "Feature",
   "properties": {
+    "addr:full":"5108 SE 47th St Oklahoma City OK 73135",
+    "addr:housenumber":"5108",
+    "addr:postcode":"73135",
+    "addr:street":"Se 47Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.429364,35.416454,-97.429364,35.416454",
     "geom:latitude":35.416454,
     "geom:longitude":-97.429364,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5108 SE 47th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -26,20 +32,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
         85819711
     ],
+    "wof:brand_id":1125152167,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10wLqe680sgBXyU6hmod2D_35.416454_-97.429364@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"e396bdb4e1b4a5ab494f50670058fd6f",
+    "wof:geomhash":"46bfff86ccd4eba7a465cd9de1b99e1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":354170147,
-    "wof:lastmodified":1466763773,
+    "wof:lastmodified":1510693952,
     "wof:name":"Order of Eastern Star of",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

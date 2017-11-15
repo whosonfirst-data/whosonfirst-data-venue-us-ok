@@ -2,9 +2,14 @@
   "id": 354104359,
   "type": "Feature",
   "properties": {
+    "addr:full":"2771 S Cemetery Rd Yukon OK 73099",
+    "addr:housenumber":"2771",
+    "addr:postcode":"73099",
+    "addr:street":"S Cemetery Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.760338,35.442361,-97.760338,35.442361",
     "geom:latitude":35.442361,
     "geom:longitude":-97.760338,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"8840769f1e4502f7a7a9ff38f236a383",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":354104359,
-    "wof:lastmodified":1466763522,
+    "wof:lastmodified":1491911922,
     "wof:name":"Green Country Automotive Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

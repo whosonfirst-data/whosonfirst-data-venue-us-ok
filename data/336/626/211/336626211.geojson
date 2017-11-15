@@ -2,9 +2,14 @@
   "id": 336626211,
   "type": "Feature",
   "properties": {
+    "addr:full":"11825 SW 15th Ter Yukon OK 73099",
+    "addr:housenumber":"11825",
+    "addr:postcode":"73099",
+    "addr:street":"Sw 15Th Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.73393,35.449482,-97.73393,35.449482",
     "geom:latitude":35.449482,
     "geom:longitude":-97.73393,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"94f4db5fca9538e47c8609ea624c8ab3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336626211,
-    "wof:lastmodified":1466762595,
+    "wof:lastmodified":1491912076,
     "wof:name":"Wellspring Nutrition Plus",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 287172175,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 S Mitchell Ln Mustang OK 73064",
+    "addr:housenumber":"602",
+    "addr:postcode":"73064",
+    "addr:street":"S Mitchell Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.684495,35.385977,-97.684495,35.385977",
     "geom:latitude":35.385977,
     "geom:longitude":-97.684495,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"c4b30cb3625b5172f84ec46a228c9790",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":287172175,
-    "wof:lastmodified":1466763800,
+    "wof:lastmodified":1491912031,
     "wof:name":"Ken's Oilfield Svc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

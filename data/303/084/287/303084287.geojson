@@ -2,9 +2,14 @@
   "id": 303084287,
   "type": "Feature",
   "properties": {
+    "addr:full":"4012 N Barr Ave Oklahoma City OK 73122",
+    "addr:housenumber":"4012",
+    "addr:postcode":"73122",
+    "addr:street":"N Barr Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.606127,35.512609,-97.606127,35.512609",
     "geom:latitude":35.512609,
     "geom:longitude":-97.606127,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"c41f92400ab819ffa4a4f03e2f867855",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303084287,
-    "wof:lastmodified":1466762977,
+    "wof:lastmodified":1491910187,
     "wof:name":"Mastertech Automotive Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

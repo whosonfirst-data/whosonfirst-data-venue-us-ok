@@ -2,9 +2,14 @@
   "id": 320124701,
   "type": "Feature",
   "properties": {
+    "addr:full":"1628 SW 87th St Oklahoma City OK 73159",
+    "addr:housenumber":"1628",
+    "addr:postcode":"73159",
+    "addr:street":"Sw 87Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.547748,35.379063,-97.547748,35.379063",
     "geom:latitude":35.379063,
     "geom:longitude":-97.547748,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"367b08b1f2678698899bc16ff27db803",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320124701,
-    "wof:lastmodified":1466764166,
+    "wof:lastmodified":1491909411,
     "wof:name":"Moore Soccer Club",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

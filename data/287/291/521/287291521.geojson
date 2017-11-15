@@ -2,14 +2,20 @@
   "id": 287291521,
   "type": "Feature",
   "properties": {
+    "addr:full":"8201 S Pennsylvania Ave Oklahoma City OK 73159",
+    "addr:housenumber":"8201",
+    "addr:postcode":"73159",
+    "addr:street":"S Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.547863,35.384063,-97.547863,35.384063",
     "geom:latitude":35.384063,
     "geom:longitude":-97.547863,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8201 S Pennsylvania Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -29,20 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
         85819711
     ],
+    "wof:brand_id":1125152327,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39CpKqtwIQoVyGV12KFE5l_35.384063_-97.547863@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"8edf261e47b112f39b947f6a410c1280",
+    "wof:geomhash":"81adee03fd6820a466c3d9f64f9786d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":287291521,
-    "wof:lastmodified":1466763303,
+    "wof:lastmodified":1510604947,
     "wof:name":"Beautiful Nails",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

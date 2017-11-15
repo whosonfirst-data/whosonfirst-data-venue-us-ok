@@ -2,9 +2,14 @@
   "id": 320349019,
   "type": "Feature",
   "properties": {
+    "addr:full":"5825 NW 50th St Oklahoma City OK 73122",
+    "addr:housenumber":"5825",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 50Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.616573,35.522371,-97.616573,35.522371",
     "geom:latitude":35.522371,
     "geom:longitude":-97.616573,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -49,7 +55,7 @@
     "wof:geomhash":"191c7ec2d898809991f44a1937531f73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":320349019,
-    "wof:lastmodified":1466765346,
+    "wof:lastmodified":1491910202,
     "wof:name":"Goodwill Industries Corp",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

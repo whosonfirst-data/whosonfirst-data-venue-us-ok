@@ -2,9 +2,14 @@
   "id": 336729279,
   "type": "Feature",
   "properties": {
+    "addr:full":"336 NE 122nd St Oklahoma City OK 73114",
+    "addr:housenumber":"336",
+    "addr:postcode":"73114",
+    "addr:street":"Ne 122Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.512103,35.594604,-97.512103,35.594604",
     "geom:latitude":35.594604,
     "geom:longitude":-97.512103,
@@ -27,9 +32,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
-        102082577
+        102082577,
+        85807637,
+        85871715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,28 @@
     "wof:geomhash":"2149ea5ed76fe7c4cad5b57618ec69ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85807637,
+            "region_id":85688585,
+            "venue_id":336729279
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871715,
             "region_id":85688585,
             "venue_id":336729279
         }
     ],
     "wof:id":336729279,
-    "wof:lastmodified":1466764164,
+    "wof:lastmodified":1491933059,
     "wof:name":"Bicycle Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

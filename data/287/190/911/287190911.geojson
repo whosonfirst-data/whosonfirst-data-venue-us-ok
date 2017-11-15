@@ -2,9 +2,14 @@
   "id": 287190911,
   "type": "Feature",
   "properties": {
+    "addr:full":"4021 S Missouri Ave Oklahoma City OK 73129",
+    "addr:housenumber":"4021",
+    "addr:postcode":"73129",
+    "addr:street":"S Missouri Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.481496,35.424624,-97.481496,35.424624",
     "geom:latitude":35.424624,
     "geom:longitude":-97.481496,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"f4599c0d7a113611c00008e6e3ff6363",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":287190911,
-    "wof:lastmodified":1466763923,
+    "wof:lastmodified":1491909245,
     "wof:name":"Terry's Plumbing",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

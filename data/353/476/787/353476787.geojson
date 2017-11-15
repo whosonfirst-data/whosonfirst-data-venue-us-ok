@@ -2,9 +2,14 @@
   "id": 353476787,
   "type": "Feature",
   "properties": {
+    "addr:full":"4829 NW 62nd Ter Oklahoma City OK 73122",
+    "addr:housenumber":"4829",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 62Nd Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.61018,35.534697,-97.61018,35.534697",
     "geom:latitude":35.534697,
     "geom:longitude":-97.61018,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"b5b74b713bc88b36941f395248f1404a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353476787,
-    "wof:lastmodified":1466762859,
+    "wof:lastmodified":1491910142,
     "wof:name":"F W Kluck Plumbing",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

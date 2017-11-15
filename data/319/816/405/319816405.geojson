@@ -2,9 +2,14 @@
   "id": 319816405,
   "type": "Feature",
   "properties": {
+    "addr:full":"6800 N Grove Ave Warr Acres OK 73132",
+    "addr:housenumber":"6800",
+    "addr:postcode":"73132",
+    "addr:street":"N Grove Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.616227,35.54079,-97.616227,35.54079",
     "geom:latitude":35.54079,
     "geom:longitude":-97.616227,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"0508ae49cfb8bcbba107e8d52a221037",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":319816405,
-    "wof:lastmodified":1466762854,
+    "wof:lastmodified":1491910191,
     "wof:name":"Larry Taylor Architects",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303778187,
   "type": "Feature",
   "properties": {
+    "addr:full":"5317 NW 42nd St Oklahoma City OK 73122",
+    "addr:housenumber":"5317",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 42Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.608438,35.515036,-97.608438,35.515036",
     "geom:latitude":35.515036,
     "geom:longitude":-97.608438,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"fcf6306680fa3cfb9f94f4e05fb75603",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":303778187,
-    "wof:lastmodified":1466766686,
+    "wof:lastmodified":1491910200,
     "wof:name":"Budget Plumbing Company",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

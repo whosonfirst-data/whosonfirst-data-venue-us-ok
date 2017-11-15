@@ -2,9 +2,14 @@
   "id": 320708327,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 NW 23rd St Oklahoma City OK 73106",
+    "addr:housenumber":"801",
+    "addr:postcode":"73106",
+    "addr:street":"Nw 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.525432,35.493255,-97.525432,35.493255",
     "geom:latitude":35.493255,
     "geom:longitude":-97.525432,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -40,7 +46,7 @@
     "wof:geomhash":"52ab345078dc72835c232738e9fed81e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
             "venue_id":320708327
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -59,9 +65,9 @@
         }
     ],
     "wof:id":320708327,
-    "wof:lastmodified":1466766569,
+    "wof:lastmodified":1491921297,
     "wof:name":"Morton Kimberly Law Office of",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

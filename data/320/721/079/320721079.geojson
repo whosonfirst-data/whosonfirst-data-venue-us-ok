@@ -2,9 +2,14 @@
   "id": 320721079,
   "type": "Feature",
   "properties": {
+    "addr:full":"4102 S Douglas Blvd Oklahoma City OK 73150",
+    "addr:housenumber":"4102",
+    "addr:postcode":"73150",
+    "addr:street":"S Douglas Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.370763,35.42347,-97.370763,35.42347",
     "geom:latitude":35.42347,
     "geom:longitude":-97.370763,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"669b74c79190bdeb3c4e736d45b95de1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320721079,
-    "wof:lastmodified":1466766591,
+    "wof:lastmodified":1491909255,
     "wof:name":"Dave's S & S Paint & Body",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

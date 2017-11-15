@@ -2,9 +2,14 @@
   "id": 320557353,
   "type": "Feature",
   "properties": {
+    "addr:full":"126 State Hwy 152 Mustang OK 73064",
+    "addr:housenumber":"126",
+    "addr:postcode":"73064",
+    "addr:street":"State Hwy 152",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.723664,35.391678,-97.723664,35.391678",
     "geom:latitude":35.391678,
     "geom:longitude":-97.723664,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"66850740b6dceb0a07e448abd6928e6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320557353,
-    "wof:lastmodified":1466766194,
+    "wof:lastmodified":1491911953,
     "wof:name":"Mustang Pawn & Gun",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

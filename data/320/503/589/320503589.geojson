@@ -2,9 +2,14 @@
   "id": 320503589,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 NW 92nd St Oklahoma City OK 73114",
+    "addr:housenumber":"900",
+    "addr:postcode":"73114",
+    "addr:street":"Nw 92Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.530076,35.564505,-97.530076,35.564505",
     "geom:latitude":35.564505,
     "geom:longitude":-97.530076,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"7d404730bf0a1ca234ed9c02be91c6dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320503589,
-    "wof:lastmodified":1466766070,
+    "wof:lastmodified":1491933094,
     "wof:name":"Sino American Technology Assn",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

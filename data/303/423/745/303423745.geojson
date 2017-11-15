@@ -2,9 +2,14 @@
   "id": 303423745,
   "type": "Feature",
   "properties": {
+    "addr:full":"4838 N Macarthur Blvd Warr Acres OK 73122",
+    "addr:housenumber":"4838",
+    "addr:postcode":"73122",
+    "addr:street":"N Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.618891,35.520732,-97.618891,35.520732",
     "geom:latitude":35.520732,
     "geom:longitude":-97.618891,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"ee7800131ffed33eb647a4b39ea6d83a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303423745,
-    "wof:lastmodified":1466765674,
+    "wof:lastmodified":1491910158,
     "wof:name":"B & M Cabinets",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

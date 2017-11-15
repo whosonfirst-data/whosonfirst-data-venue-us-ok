@@ -2,14 +2,20 @@
   "id": 303760723,
   "type": "Feature",
   "properties": {
+    "addr:full":"3629 N Macarthur Blvd Oklahoma City OK 73122",
+    "addr:housenumber":"3629",
+    "addr:postcode":"73122",
+    "addr:street":"N Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.61901,35.507345,-97.61901,35.507345",
     "geom:latitude":35.507345,
     "geom:longitude":-97.61901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3629 N Macarthur Blvd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
         85854531
     ],
+    "wof:brand_id":1125151249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HPDurI9DmRPQoPoC4S3eX_35.507345_-97.619010@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff7433a9f1cdb5d7bf1cd8a27aaa4154",
+    "wof:geomhash":"1c541986fc8a68dd3ea5ddcb49f6bf61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":303760723,
-    "wof:lastmodified":1466766649,
+    "wof:lastmodified":1510697265,
     "wof:name":"Angel Nails",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

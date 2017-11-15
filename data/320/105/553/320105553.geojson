@@ -2,9 +2,14 @@
   "id": 320105553,
   "type": "Feature",
   "properties": {
+    "addr:full":"5524 Lanceshire Ln Oklahoma City OK 73135",
+    "addr:housenumber":"5524",
+    "addr:postcode":"73135",
+    "addr:street":"Lanceshire Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.418635,35.410528,-97.418635,35.410528",
     "geom:latitude":35.410528,
     "geom:longitude":-97.418635,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"7d931ab5a3ad5ab0e6bb9dd11c1189f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320105553,
-    "wof:lastmodified":1466763848,
+    "wof:lastmodified":1491909310,
     "wof:name":"Sandras Home Day Care",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

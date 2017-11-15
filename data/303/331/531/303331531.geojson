@@ -2,9 +2,14 @@
   "id": 303331531,
   "type": "Feature",
   "properties": {
+    "addr:full":"6900 NW 50th St Bethany OK 73008",
+    "addr:housenumber":"6900",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 50Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.635565,35.522393,-97.635565,35.522393",
     "geom:latitude":35.522393,
     "geom:longitude":-97.635565,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"6be4ef3743d6cdb5eb28778213dfa249",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303331531,
-    "wof:lastmodified":1466764977,
+    "wof:lastmodified":1491910187,
     "wof:name":"Williams Memorial Church",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

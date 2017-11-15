@@ -2,9 +2,14 @@
   "id": 353791875,
   "type": "Feature",
   "properties": {
+    "addr:full":"3920 N Hammond Ave Bethany OK 73008",
+    "addr:housenumber":"3920",
+    "addr:postcode":"73008",
+    "addr:street":"N Hammond Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.622946,35.510885,-97.622946,35.510885",
     "geom:latitude":35.510885,
     "geom:longitude":-97.622946,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"178849dc0bb872af836737ce2d06f33e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353791875,
-    "wof:lastmodified":1466765208,
+    "wof:lastmodified":1491910236,
     "wof:name":"Bill's Paint & Body",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

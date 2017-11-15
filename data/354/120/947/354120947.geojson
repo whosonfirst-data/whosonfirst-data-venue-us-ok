@@ -2,9 +2,14 @@
   "id": 354120947,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 S Pennsylvania Ave Oklahoma City OK 73108",
+    "addr:housenumber":"2101",
+    "addr:postcode":"73108",
+    "addr:street":"S Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.547974,35.443445,-97.547974,35.443445",
     "geom:latitude":35.443445,
     "geom:longitude":-97.547974,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"f49bc2a21d366df835fb96c6997ddce0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":354120947,
-    "wof:lastmodified":1466763591,
+    "wof:lastmodified":1491904594,
     "wof:name":"Amigo Air Conditioning",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",

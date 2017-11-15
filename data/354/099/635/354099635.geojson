@@ -2,9 +2,14 @@
   "id": 354099635,
   "type": "Feature",
   "properties": {
+    "addr:full":"1036 SW 74th St Oklahoma City OK 73139",
+    "addr:housenumber":"1036",
+    "addr:postcode":"73139",
+    "addr:street":"Sw 74Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.532857,35.390909,-97.532857,35.390909",
     "geom:latitude":35.390909,
     "geom:longitude":-97.532857,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"61a7acc46cd20dda7b5b3a99a0c56b24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":354099635,
-    "wof:lastmodified":1466763508,
+    "wof:lastmodified":1491909367,
     "wof:name":"Moneyworld",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

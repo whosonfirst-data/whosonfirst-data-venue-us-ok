@@ -2,9 +2,14 @@
   "id": 303897961,
   "type": "Feature",
   "properties": {
+    "addr:full":"9700 Nichols Rd Oklahoma City OK 73120",
+    "addr:housenumber":"9700",
+    "addr:postcode":"73120",
+    "addr:street":"Nichols Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.54413,35.566638,-97.54413,35.566638",
     "geom:latitude":35.566638,
     "geom:longitude":-97.54413,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"7b151a0513bdec7a25dec1e048c1d6be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303897961,
-    "wof:lastmodified":1466766838,
+    "wof:lastmodified":1491933096,
     "wof:name":"Doss Drywall",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

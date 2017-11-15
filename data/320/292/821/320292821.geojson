@@ -2,9 +2,14 @@
   "id": 320292821,
   "type": "Feature",
   "properties": {
+    "addr:full":"15190 NW Expressway St Piedmont OK 73078",
+    "addr:housenumber":"15190",
+    "addr:postcode":"73078",
+    "addr:street":"Nw Expressway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.811989,35.634099,-97.811989,35.634099",
     "geom:latitude":35.634099,
     "geom:longitude":-97.811989,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"3c434853b904eb3cc25e735bf7a521ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320292821,
-    "wof:lastmodified":1466765126,
+    "wof:lastmodified":1491912069,
     "wof:name":"Design Service International",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

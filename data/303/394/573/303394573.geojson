@@ -2,9 +2,14 @@
   "id": 303394573,
   "type": "Feature",
   "properties": {
+    "addr:full":"11601 Broadway Exn Oklahoma City OK 73114",
+    "addr:housenumber":"11601",
+    "addr:postcode":"73114",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.513132,35.586672,-97.513132,35.586672",
     "geom:latitude":35.586672,
     "geom:longitude":-97.513132,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"1cece89c7276916331d5a94318812e08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303394573,
-    "wof:lastmodified":1466765418,
+    "wof:lastmodified":1491933084,
     "wof:name":"Body Work By J & V",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303391499,
   "type": "Feature",
   "properties": {
+    "addr:full":"2208 SW 85th St Oklahoma City OK 73159",
+    "addr:housenumber":"2208",
+    "addr:postcode":"73159",
+    "addr:street":"Sw 85Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.549393,35.38052,-97.549393,35.38052",
     "geom:latitude":35.38052,
     "geom:longitude":-97.549393,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"bea0c4984039fd75a7c7b7f2abb326f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303391499,
-    "wof:lastmodified":1466765398,
+    "wof:lastmodified":1491909361,
     "wof:name":"Shbc Missionary House",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

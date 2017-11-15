@@ -2,9 +2,14 @@
   "id": 353743435,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 N Lincoln Blvd Oklahoma City OK 73104",
+    "addr:housenumber":"1000",
+    "addr:postcode":"73104",
+    "addr:street":"N Lincoln Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.502413,35.477738,-97.502413,35.477738",
     "geom:latitude":35.477738,
     "geom:longitude":-97.502413,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"cbb758c0f1af753459aef2d8f4cef9fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353743435,
-    "wof:lastmodified":1466765082,
+    "wof:lastmodified":1491927384,
     "wof:name":"C J Rubenstein MD",
     "wof:parent_id":85871693,
     "wof:placetype":"venue",

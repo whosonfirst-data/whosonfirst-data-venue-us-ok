@@ -2,9 +2,14 @@
   "id": 319852561,
   "type": "Feature",
   "properties": {
+    "addr:full":"6309 NW 62nd Cir Oklahoma City OK 73122",
+    "addr:housenumber":"6309",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 62Nd Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.603904,35.535593,-97.603904,35.535593",
     "geom:latitude":35.535593,
     "geom:longitude":-97.603904,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -41,7 +47,7 @@
     "wof:geomhash":"456115aeb68b8ad5e8dd007206372234",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -50,7 +56,7 @@
             "venue_id":319852561
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -60,9 +66,9 @@
         }
     ],
     "wof:id":319852561,
-    "wof:lastmodified":1466763176,
+    "wof:lastmodified":1491910133,
     "wof:name":"Bower Engineering Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

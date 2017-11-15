@@ -2,14 +2,20 @@
   "id": 337508077,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 W Armstrong Dr Mustang OK 73064",
+    "addr:housenumber":"45",
+    "addr:postcode":"73064",
+    "addr:street":"W Armstrong Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.731365,35.391168,-97.731365,35.391168",
     "geom:latitude":35.391168,
     "geom:longitude":-97.731365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"45 W Armstrong Dr",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -29,20 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
         85805913
     ],
+    "wof:brand_id":1125156787,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FhYFsj26a80BnqrliHSi6_35.391168_-97.731365@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"b751597061b62f1ccfb207d121bebf75",
+    "wof:geomhash":"20a2b21a117259d96275c801015cda3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":337508077,
-    "wof:lastmodified":1466762691,
+    "wof:lastmodified":1510696932,
     "wof:name":"Mr Handyman",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

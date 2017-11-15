@@ -2,9 +2,14 @@
   "id": 353759655,
   "type": "Feature",
   "properties": {
+    "addr:full":"10928 SE 59th St Oklahoma City OK 73150",
+    "addr:housenumber":"10928",
+    "addr:postcode":"73150",
+    "addr:street":"Se 59Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.338641,35.406213,-97.338641,35.406213",
     "geom:latitude":35.406213,
     "geom:longitude":-97.338641,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"eeb0c5d7119e9c86b60c246b1d51837f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353759655,
-    "wof:lastmodified":1466765147,
+    "wof:lastmodified":1491909420,
     "wof:name":"Lockhart Air Care LLC",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

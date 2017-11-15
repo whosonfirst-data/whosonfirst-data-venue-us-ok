@@ -2,9 +2,14 @@
   "id": 353704205,
   "type": "Feature",
   "properties": {
+    "addr:full":"1126 SW 89th St Oklahoma City OK 73139",
+    "addr:housenumber":"1126",
+    "addr:postcode":"73139",
+    "addr:street":"Sw 89Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.53684,35.377142,-97.53684,35.377142",
     "geom:latitude":35.377142,
     "geom:longitude":-97.53684,
@@ -29,9 +34,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
+        101714731,
+        102083969,
+        85811459,
         101714461,
-        102082577
+        102082577,
+        85819711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +51,28 @@
     "wof:geomhash":"34256a7070283b92f4ad9498d8636946",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083969,
+            "locality_id":101714731,
+            "neighbourhood_id":85811459,
+            "region_id":85688585,
+            "venue_id":353704205
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85819711,
             "region_id":85688585,
             "venue_id":353704205
         }
     ],
     "wof:id":353704205,
-    "wof:lastmodified":1466764888,
+    "wof:lastmodified":1491909431,
     "wof:name":"Wilson Michael K DPM",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

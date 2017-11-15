@@ -2,9 +2,14 @@
   "id": 320745533,
   "type": "Feature",
   "properties": {
+    "addr:full":"5309 Chad Rd Oklahoma City OK 73135",
+    "addr:housenumber":"5309",
+    "addr:postcode":"73135",
+    "addr:street":"Chad Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.448751,35.411773,-97.448751,35.411773",
     "geom:latitude":35.411773,
     "geom:longitude":-97.448751,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"96a83da5d346ba960f9b8b6af5f16164",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320745533,
-    "wof:lastmodified":1466766681,
+    "wof:lastmodified":1491909428,
     "wof:name":"Move For Less",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

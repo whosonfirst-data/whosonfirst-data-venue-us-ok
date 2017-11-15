@@ -2,9 +2,14 @@
   "id": 287224991,
   "type": "Feature",
   "properties": {
+    "addr:full":"5816 NW 62nd St Oklahoma City OK 73122",
+    "addr:housenumber":"5816",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 62Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.618274,35.534218,-97.618274,35.534218",
     "geom:latitude":35.534218,
     "geom:longitude":-97.618274,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"bdde1335c5fc5e691a26d9f31a45ac76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":287224991,
-    "wof:lastmodified":1466762291,
+    "wof:lastmodified":1491910249,
     "wof:name":"James E Stewart Golf Shop",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

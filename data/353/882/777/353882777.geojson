@@ -2,9 +2,14 @@
   "id": 353882777,
   "type": "Feature",
   "properties": {
+    "addr:full":"915 W Main St Yukon OK 73099",
+    "addr:housenumber":"915",
+    "addr:postcode":"73099",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.758401,35.507946,-97.758401,35.507946",
     "geom:latitude":35.507946,
     "geom:longitude":-97.758401,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"8df48336532db294f4e404c306a6d720",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353882777,
-    "wof:lastmodified":1466765625,
+    "wof:lastmodified":1491911861,
     "wof:name":"Jeffrey C Trent Cpanc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

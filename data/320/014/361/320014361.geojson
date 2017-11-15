@@ -2,9 +2,14 @@
   "id": 320014361,
   "type": "Feature",
   "properties": {
+    "addr:full":"1435 SW 22nd St Oklahoma City OK 73108",
+    "addr:housenumber":"1435",
+    "addr:postcode":"73108",
+    "addr:street":"Sw 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.543233,35.442515,-97.543233,35.442515",
     "geom:latitude":35.442515,
     "geom:longitude":-97.543233,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d4f507debf343f3ee20a6b1be1176855",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320014361,
-    "wof:lastmodified":1466762493,
+    "wof:lastmodified":1491904572,
     "wof:name":"New Parkview Village Store",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354155657,
   "type": "Feature",
   "properties": {
+    "addr:full":"4111 Perimeter Center Pl Oklahoma City OK 73112",
+    "addr:housenumber":"4111",
+    "addr:postcode":"73112",
+    "addr:street":"Perimeter Center Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.593202,35.514201,-97.593202,35.514201",
     "geom:latitude":35.514201,
     "geom:longitude":-97.593202,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"f5c9db477bb1ffacb92a1eecb4b000ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":354155657,
-    "wof:lastmodified":1466763722,
+    "wof:lastmodified":1491910165,
     "wof:name":"R K Black Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

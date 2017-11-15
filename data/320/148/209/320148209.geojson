@@ -2,9 +2,14 @@
   "id": 320148209,
   "type": "Feature",
   "properties": {
+    "addr:full":"6409 S Sooner Rd Oklahoma City OK 73135",
+    "addr:housenumber":"6409",
+    "addr:postcode":"73135",
+    "addr:street":"S Sooner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.423686,35.403099,-97.423686,35.403099",
     "geom:latitude":35.403099,
     "geom:longitude":-97.423686,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"930f61ae1a92965585f786791cf89939",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":320148209,
-    "wof:lastmodified":1466764385,
+    "wof:lastmodified":1491909297,
     "wof:name":"Hughes Christensen",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

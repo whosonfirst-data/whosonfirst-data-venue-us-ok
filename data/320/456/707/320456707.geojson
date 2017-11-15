@@ -2,9 +2,14 @@
   "id": 320456707,
   "type": "Feature",
   "properties": {
+    "addr:full":"10936 NW Expressway St Yukon OK 73099",
+    "addr:housenumber":"10936",
+    "addr:postcode":"73099",
+    "addr:street":"Nw Expressway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.717424,35.592342,-97.717424,35.592342",
     "geom:latitude":35.592342,
     "geom:longitude":-97.717424,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d77de30ab68fc70c9833838e10d28a73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320456707,
-    "wof:lastmodified":1466765848,
+    "wof:lastmodified":1491912020,
     "wof:name":"V F Holcer Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

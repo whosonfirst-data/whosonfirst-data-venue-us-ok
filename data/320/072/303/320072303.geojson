@@ -2,9 +2,14 @@
   "id": 320072303,
   "type": "Feature",
   "properties": {
+    "addr:full":"10001 Essex Ave Oklahoma City OK 73120",
+    "addr:housenumber":"10001",
+    "addr:postcode":"73120",
+    "addr:street":"Essex Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.54215,35.571536,-97.54215,35.571536",
     "geom:latitude":35.571536,
     "geom:longitude":-97.54215,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"ca41a96432fc5f174ce1f65a07d5a398",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320072303,
-    "wof:lastmodified":1466763360,
+    "wof:lastmodified":1491933078,
     "wof:name":"Self Defense Advantage",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

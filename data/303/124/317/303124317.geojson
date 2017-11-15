@@ -2,9 +2,14 @@
   "id": 303124317,
   "type": "Feature",
   "properties": {
+    "addr:full":"8000 Pole Rd Oklahoma City OK 73149",
+    "addr:housenumber":"",
+    "addr:postcode":"8000;73149",
+    "addr:street":"Pole Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.48595,35.386889,-97.48595,35.386889",
     "geom:latitude":35.386889,
     "geom:longitude":-97.48595,
@@ -37,6 +42,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -50,7 +56,7 @@
     "wof:geomhash":"8c9485977785c900ee0726230cd24455",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":303124317,
-    "wof:lastmodified":1466763628,
+    "wof:lastmodified":1491909383,
     "wof:name":"Crowley Tar Products Co Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

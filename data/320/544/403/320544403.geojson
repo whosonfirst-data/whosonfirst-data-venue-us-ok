@@ -2,9 +2,14 @@
   "id": 320544403,
   "type": "Feature",
   "properties": {
+    "addr:full":"6604 Woodridge Ave Oklahoma City OK 73132",
+    "addr:housenumber":"6604",
+    "addr:postcode":"73132",
+    "addr:street":"Woodridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.635982,35.541358,-97.635982,35.541358",
     "geom:latitude":35.541358,
     "geom:longitude":-97.635982,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -46,7 +52,7 @@
     "wof:geomhash":"01b6d36dad4a655c18e495055fc4a37b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
             "venue_id":320544403
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -65,9 +71,9 @@
         }
     ],
     "wof:id":320544403,
-    "wof:lastmodified":1466766063,
+    "wof:lastmodified":1491910248,
     "wof:name":"L M Ross Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

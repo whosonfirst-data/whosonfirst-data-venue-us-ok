@@ -2,9 +2,14 @@
   "id": 320333369,
   "type": "Feature",
   "properties": {
+    "addr:full":"515 W Jackson St El Reno OK 73036",
+    "addr:housenumber":"515",
+    "addr:postcode":"73036",
+    "addr:street":"W Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.958288,35.5262,-97.958288,35.5262",
     "geom:latitude":35.5262,
     "geom:longitude":-97.958288,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"9f55fc09109c27d4cbcc030dcccd5c8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320333369,
-    "wof:lastmodified":1466765372,
+    "wof:lastmodified":1491911984,
     "wof:name":"Malone Construction",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

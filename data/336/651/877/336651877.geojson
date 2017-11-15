@@ -2,14 +2,20 @@
   "id": 336651877,
   "type": "Feature",
   "properties": {
+    "addr:full":"515 W I- 240 Svc Rd Oklahoma City OK 73139",
+    "addr:housenumber":"515;240",
+    "addr:postcode":"73139",
+    "addr:street":"W I;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.5224,35.391768,-97.5224,35.391768",
     "geom:latitude":35.391768,
     "geom:longitude":-97.5224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"515 W I- 240 Svc Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -31,20 +37,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
         85819711
     ],
+    "wof:brand_id":1125159733,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Z5fa6aMVMdxvtlRjFcS6P_35.391768_-97.522400@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"6f46d7d15655eee20e1f302de002100b",
+    "wof:geomhash":"1b1383c3afe2885eff58da06d4b63bbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":336651877,
-    "wof:lastmodified":1466762979,
+    "wof:lastmodified":1510698013,
     "wof:name":"Ultimate Electronics",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

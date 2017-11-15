@@ -2,9 +2,14 @@
   "id": 336879925,
   "type": "Feature",
   "properties": {
+    "addr:full":"4205 NW 33rd St Oklahoma City OK 73112",
+    "addr:housenumber":"4205",
+    "addr:postcode":"73112",
+    "addr:street":"Nw 33Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.596714,35.504745,-97.596714,35.504745",
     "geom:latitude":35.504745,
     "geom:longitude":-97.596714,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4b968f27576d6fa28baf0cbffbf17b08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336879925,
-    "wof:lastmodified":1466765108,
+    "wof:lastmodified":1491910250,
     "wof:name":"Azteca Lawn Sevice",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

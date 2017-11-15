@@ -2,9 +2,14 @@
   "id": 303252791,
   "type": "Feature",
   "properties": {
+    "addr:full":"1108 W Hefner Rd Oklahoma City OK 73114",
+    "addr:housenumber":"1108",
+    "addr:postcode":"73114",
+    "addr:street":"W Hefner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.534089,35.580004,-97.534089,35.580004",
     "geom:latitude":35.580004,
     "geom:longitude":-97.534089,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5752cfab16b72c59e071ecb0ce76d4a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303252791,
-    "wof:lastmodified":1466764637,
+    "wof:lastmodified":1491933086,
     "wof:name":"York Town Package Store",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

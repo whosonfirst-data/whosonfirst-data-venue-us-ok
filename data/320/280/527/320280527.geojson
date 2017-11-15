@@ -2,9 +2,14 @@
   "id": 320280527,
   "type": "Feature",
   "properties": {
+    "addr:full":"9213 SW 23rd St Oklahoma City OK 73128",
+    "addr:housenumber":"9213",
+    "addr:postcode":"73128",
+    "addr:street":"Sw 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.675423,35.440244,-97.675423,35.440244",
     "geom:latitude":35.440244,
     "geom:longitude":-97.675423,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"6bd37b2858eca7faedea66bf75a03e0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320280527,
-    "wof:lastmodified":1466765066,
+    "wof:lastmodified":1491911928,
     "wof:name":"Woodard's Carpet Care",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

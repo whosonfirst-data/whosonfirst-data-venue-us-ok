@@ -2,9 +2,14 @@
   "id": 320121703,
   "type": "Feature",
   "properties": {
+    "addr:full":"6041 NW 23rd St Oklahoma City OK 73127",
+    "addr:housenumber":"6041",
+    "addr:postcode":"73127",
+    "addr:street":"Nw 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.622006,35.493353,-97.622006,35.493353",
     "geom:latitude":35.493353,
     "geom:longitude":-97.622006,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"4931c6c1a726a3d1161d1808840aa256",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320121703,
-    "wof:lastmodified":1466764117,
+    "wof:lastmodified":1491910241,
     "wof:name":"D T Kwick Trip",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

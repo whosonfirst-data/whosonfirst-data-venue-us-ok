@@ -2,9 +2,14 @@
   "id": 353500459,
   "type": "Feature",
   "properties": {
+    "addr:full":"2900 N Harvard Ave Oklahoma City OK 73127",
+    "addr:housenumber":"2900",
+    "addr:postcode":"73127",
+    "addr:street":"N Harvard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.60658,35.497685,-97.60658,35.497685",
     "geom:latitude":35.497685,
     "geom:longitude":-97.60658,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"393e1e0ef3a71cfdc4d73d3337715b7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353500459,
-    "wof:lastmodified":1466763124,
+    "wof:lastmodified":1491910231,
     "wof:name":"D L Howerter Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

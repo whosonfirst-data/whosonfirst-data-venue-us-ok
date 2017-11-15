@@ -2,9 +2,14 @@
   "id": 320395247,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 State Hwy 66 El Reno OK 73036",
+    "addr:housenumber":"1701",
+    "addr:postcode":"73036",
+    "addr:street":"State Hwy 66",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.935112,35.508084,-97.935112,35.508084",
     "geom:latitude":35.508084,
     "geom:longitude":-97.935112,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"8398ebd8e4ebc6af5cdc8ce636a96970",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320395247,
-    "wof:lastmodified":1466765562,
+    "wof:lastmodified":1491911979,
     "wof:name":"Shelia's Pub",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

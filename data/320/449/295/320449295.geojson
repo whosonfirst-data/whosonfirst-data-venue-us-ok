@@ -2,9 +2,14 @@
   "id": 320449295,
   "type": "Feature",
   "properties": {
+    "addr:full":"8704 Gateway Ter Oklahoma City OK 73149",
+    "addr:housenumber":"8704",
+    "addr:postcode":"73149",
+    "addr:street":"Gateway Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.498183,35.379308,-97.498183,35.379308",
     "geom:latitude":35.379308,
     "geom:longitude":-97.498183,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"1940403cb0ac1cced408375034f4c5e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320449295,
-    "wof:lastmodified":1466766034,
+    "wof:lastmodified":1491909433,
     "wof:name":"Mrs Baird's Bakeries Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303907861,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 S Frances Ave El Reno OK 73036",
+    "addr:housenumber":"900",
+    "addr:postcode":"73036",
+    "addr:street":"S Frances Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.967103,35.52365,-97.967103,35.52365",
     "geom:latitude":35.52365,
     "geom:longitude":-97.967103,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"92159bea017dcc97dfa9bec9d164dffc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303907861,
-    "wof:lastmodified":1466767058,
+    "wof:lastmodified":1491911903,
     "wof:name":"Highland Baptst Church El Reno",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

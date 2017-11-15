@@ -2,14 +2,20 @@
   "id": 319926381,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 N Mustang Rd Mustang OK 73064",
+    "addr:housenumber":"100",
+    "addr:postcode":"73064",
+    "addr:street":"N Mustang Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.724584,35.392254,-97.724584,35.392254",
     "geom:latitude":35.392254,
     "geom:longitude":-97.724584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 N Mustang Rd",
     "sg:city":"Mustang",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
         85805913
     ],
+    "wof:brand_id":1125152249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UcvVDo9xeNeXFeSn2ctpM_35.392254_-97.724584@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"701ce3a4e6166e56d9bec5ca8db16070",
+    "wof:geomhash":"29ac593f340c6b34d25637d163cbf7c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":319926381,
-    "wof:lastmodified":1466763869,
+    "wof:lastmodified":1510694096,
     "wof:name":"Xerox Corp",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

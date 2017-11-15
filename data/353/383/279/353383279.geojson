@@ -2,9 +2,14 @@
   "id": 353383279,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 Pebble Creek Ter Mustang OK 73064",
+    "addr:housenumber":"360",
+    "addr:postcode":"73064",
+    "addr:street":"Pebble Creek Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.718175,35.392767,-97.718175,35.392767",
     "geom:latitude":35.392767,
     "geom:longitude":-97.718175,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"fff411e6751aa676364bce8e83a9b5d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353383279,
-    "wof:lastmodified":1466762350,
+    "wof:lastmodified":1491911883,
     "wof:name":"Pebble Creek Apartments",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

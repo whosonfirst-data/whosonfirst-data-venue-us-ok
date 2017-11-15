@@ -2,9 +2,14 @@
   "id": 320082271,
   "type": "Feature",
   "properties": {
+    "addr:full":"7123 NW 39th Expy Bethany OK 73008",
+    "addr:housenumber":"7123",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 39Th Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.637333,35.513251,-97.637333,35.513251",
     "geom:latitude":35.513251,
     "geom:longitude":-97.637333,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"57cca897967f937d7f62a0c6db0a78a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320082271,
-    "wof:lastmodified":1466763508,
+    "wof:lastmodified":1491910159,
     "wof:name":"Magic Motors Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

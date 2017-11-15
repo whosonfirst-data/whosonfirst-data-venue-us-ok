@@ -2,9 +2,14 @@
   "id": 336765603,
   "type": "Feature",
   "properties": {
+    "addr:full":"8801 S I- 35 Svc Rd Oklahoma City OK 73149",
+    "addr:housenumber":"8801;35",
+    "addr:postcode":"73149",
+    "addr:street":"S I;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.494721,35.383094,-97.494721,35.383094",
     "geom:latitude":35.383094,
     "geom:longitude":-97.494721,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"a43c5da911d7a29257aa5242027e5224",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":336765603,
-    "wof:lastmodified":1466764473,
+    "wof:lastmodified":1491909370,
     "wof:name":"Classic Mustang Parts Oklahoma",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

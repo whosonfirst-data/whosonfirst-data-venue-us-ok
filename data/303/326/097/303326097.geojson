@@ -2,9 +2,14 @@
   "id": 303326097,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 SW 41st St Oklahoma City OK 73119",
+    "addr:housenumber":"2301",
+    "addr:postcode":"73119",
+    "addr:street":"Sw 41St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.554599,35.42368,-97.554599,35.42368",
     "geom:latitude":35.42368,
     "geom:longitude":-97.554599,
@@ -26,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
-        102082577
+        102082577,
+        85871707,
+        85871667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,28 @@
     "wof:geomhash":"e4a84ecb2723b807415ea6480d218402",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871707,
+            "region_id":85688585,
+            "venue_id":303326097
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871667,
             "region_id":85688585,
             "venue_id":303326097
         }
     ],
     "wof:id":303326097,
-    "wof:lastmodified":1466764947,
+    "wof:lastmodified":1491904587,
     "wof:name":"Templo Crstano Neva Vida Chrch",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

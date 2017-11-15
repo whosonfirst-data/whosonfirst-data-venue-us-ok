@@ -2,9 +2,14 @@
   "id": 303930851,
   "type": "Feature",
   "properties": {
+    "addr:full":"5900 NW 49th St Oklahoma City OK 73122",
+    "addr:housenumber":"5900",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 49Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.620499,35.521021,-97.620499,35.521021",
     "geom:latitude":35.521021,
     "geom:longitude":-97.620499,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"e1659b9b2aad13c6e7eb1674ad14bd96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303930851,
-    "wof:lastmodified":1466767021,
+    "wof:lastmodified":1491910111,
     "wof:name":"Unique Coiffures Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

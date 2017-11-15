@@ -2,9 +2,14 @@
   "id": 287127591,
   "type": "Feature",
   "properties": {
+    "addr:full":"2124 SW 44th St Oklahoma City OK 73119",
+    "addr:housenumber":"2124",
+    "addr:postcode":"73119",
+    "addr:street":"Sw 44Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.548996,35.42064,-97.548996,35.42064",
     "geom:latitude":35.42064,
     "geom:longitude":-97.548996,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"39c056e4d0d70314c33f14480bf2f659",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":287127591,
-    "wof:lastmodified":1466763595,
+    "wof:lastmodified":1491904587,
     "wof:name":"Grant Square Animal Hospital",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320031503,
   "type": "Feature",
   "properties": {
+    "addr:full":"4756 SE 29th St Oklahoma City OK 73115",
+    "addr:housenumber":"4756",
+    "addr:postcode":"73115",
+    "addr:street":"Se 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.429409,35.43516,-97.429409,35.43516",
     "geom:latitude":35.43516,
     "geom:longitude":-97.429409,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"692ccc8f692c71a1cf2c24f546fcdab9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320031503,
-    "wof:lastmodified":1466762756,
+    "wof:lastmodified":1491909289,
     "wof:name":"Village Quality Food Store",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

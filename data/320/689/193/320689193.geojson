@@ -2,9 +2,14 @@
   "id": 320689193,
   "type": "Feature",
   "properties": {
+    "addr:full":"6505 Cherokee Dr Warr Acres OK 73132",
+    "addr:housenumber":"6505",
+    "addr:postcode":"73132",
+    "addr:street":"Cherokee Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.613599,35.537854,-97.613599,35.537854",
     "geom:latitude":35.537854,
     "geom:longitude":-97.613599,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"167a181c3fd6067c757204fb57b5500f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320689193,
-    "wof:lastmodified":1466766531,
+    "wof:lastmodified":1491910233,
     "wof:name":"AAA Restaurant Svc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

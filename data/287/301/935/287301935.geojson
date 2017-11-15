@@ -2,9 +2,14 @@
   "id": 287301935,
   "type": "Feature",
   "properties": {
+    "addr:full":"7012 NW 48th St Bethany OK 73008",
+    "addr:housenumber":"7012",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 48Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.636393,35.520518,-97.636393,35.520518",
     "geom:latitude":35.520518,
     "geom:longitude":-97.636393,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"c1f3cadcb04625c2ced05653d8355b1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":287301935,
-    "wof:lastmodified":1466763456,
+    "wof:lastmodified":1491910201,
     "wof:name":"Sooner Lawn Care",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

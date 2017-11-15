@@ -2,9 +2,14 @@
   "id": 303752685,
   "type": "Feature",
   "properties": {
+    "addr:full":"4224 Corbett Dr Oklahoma City OK 73115",
+    "addr:housenumber":"4224",
+    "addr:postcode":"73115",
+    "addr:street":"Corbett Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.44391,35.424592,-97.44391,35.424592",
     "geom:latitude":35.424592,
     "geom:longitude":-97.44391,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"96eb0b0581c964e60c952912dea7a1f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303752685,
-    "wof:lastmodified":1466766625,
+    "wof:lastmodified":1491909437,
     "wof:name":"Heartland Enterprises Of Ok",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

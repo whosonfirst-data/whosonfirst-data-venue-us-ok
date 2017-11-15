@@ -2,9 +2,14 @@
   "id": 303531815,
   "type": "Feature",
   "properties": {
+    "addr:full":"6413 N Peniel Ave Oklahoma City OK 73132",
+    "addr:housenumber":"6413",
+    "addr:postcode":"73132",
+    "addr:street":"N Peniel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.627927,35.53963,-97.627927,35.53963",
     "geom:latitude":35.53963,
     "geom:longitude":-97.627927,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"ed0f008ec749acbcaf544e3188922ea8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303531815,
-    "wof:lastmodified":1466765975,
+    "wof:lastmodified":1491910150,
     "wof:name":"Shawn James Home Rep",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

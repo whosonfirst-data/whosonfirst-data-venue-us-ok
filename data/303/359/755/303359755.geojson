@@ -2,9 +2,14 @@
   "id": 303359755,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 NW 23rd St Oklahoma City OK 73103",
+    "addr:housenumber":"500",
+    "addr:postcode":"73103",
+    "addr:street":"Nw 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.522646,35.493245,-97.522646,35.493245",
     "geom:latitude":35.493245,
     "geom:longitude":-97.522646,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -40,7 +46,7 @@
     "wof:geomhash":"0c24d9cca76380d01ed9d33f41f4e90b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
             "venue_id":303359755
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -59,9 +65,9 @@
         }
     ],
     "wof:id":303359755,
-    "wof:lastmodified":1466765229,
+    "wof:lastmodified":1491921289,
     "wof:name":"Thai House II",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

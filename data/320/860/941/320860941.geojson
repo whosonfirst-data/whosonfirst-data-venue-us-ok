@@ -2,9 +2,14 @@
   "id": 320860941,
   "type": "Feature",
   "properties": {
+    "addr:full":"2604 SE 36th St Oklahoma City OK 73129",
+    "addr:housenumber":"2604",
+    "addr:postcode":"73129",
+    "addr:street":"Se 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.463762,35.427935,-97.463762,35.427935",
     "geom:latitude":35.427935,
     "geom:longitude":-97.463762,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f867e57ca375c30628e4bcb64affa4d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320860941,
-    "wof:lastmodified":1466767064,
+    "wof:lastmodified":1491909446,
     "wof:name":"Bill & Jean's Upholstery",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

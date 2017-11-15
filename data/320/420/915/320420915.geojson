@@ -2,9 +2,14 @@
   "id": 320420915,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 N Morgan Rd Oklahoma City OK 73127",
+    "addr:housenumber":"40",
+    "addr:postcode":"73127",
+    "addr:street":"N Morgan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.688955,35.465887,-97.688955,35.465887",
     "geom:latitude":35.465887,
     "geom:longitude":-97.688955,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"0613965f7fee15ae3df160fd20f378cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320420915,
-    "wof:lastmodified":1466765810,
+    "wof:lastmodified":1491911831,
     "wof:name":"CMI Energy Conversion Systms",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

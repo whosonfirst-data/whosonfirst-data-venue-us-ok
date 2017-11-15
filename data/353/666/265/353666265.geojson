@@ -2,9 +2,14 @@
   "id": 353666265,
   "type": "Feature",
   "properties": {
+    "addr:full":"15113 N Richland Rd Piedmont OK 73078",
+    "addr:housenumber":"15113",
+    "addr:postcode":"73078",
+    "addr:street":"N Richland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.798455,35.624734,-97.798455,35.624734",
     "geom:latitude":35.624734,
     "geom:longitude":-97.798455,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"694c7592a18b9fcdd951b3d7c85c3ffc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353666265,
-    "wof:lastmodified":1466764702,
+    "wof:lastmodified":1491911969,
     "wof:name":"Wylie Home Improvements Dave",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

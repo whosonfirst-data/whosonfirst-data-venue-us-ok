@@ -2,9 +2,14 @@
   "id": 303483113,
   "type": "Feature",
   "properties": {
+    "addr:full":"406 W Branches Way Mustang OK 73064",
+    "addr:housenumber":"406",
+    "addr:postcode":"73064",
+    "addr:street":"W Branches Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.731828,35.397089,-97.731828,35.397089",
     "geom:latitude":35.397089,
     "geom:longitude":-97.731828,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a722929129d0f36a76dcdb7750d07d40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303483113,
-    "wof:lastmodified":1466765899,
+    "wof:lastmodified":1491911900,
     "wof:name":"Shane Kelly Construction",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

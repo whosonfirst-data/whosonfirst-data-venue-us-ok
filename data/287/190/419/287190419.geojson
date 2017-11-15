@@ -2,9 +2,14 @@
   "id": 287190419,
   "type": "Feature",
   "properties": {
+    "addr:full":"13416 Darlington Rd NW Calumet OK 73014",
+    "addr:housenumber":"13416",
+    "addr:postcode":"73014",
+    "addr:street":"Darlington Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.108577,35.580373,-98.108577,35.580373",
     "geom:latitude":35.580373,
     "geom:longitude":-98.108577,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"2796bd0fd61748120c3ea8505e1a501b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":287190419,
-    "wof:lastmodified":1466763914,
+    "wof:lastmodified":1491911834,
     "wof:name":"Lois's Beauty Shop",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

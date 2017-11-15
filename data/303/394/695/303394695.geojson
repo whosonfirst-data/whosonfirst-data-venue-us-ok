@@ -2,9 +2,14 @@
   "id": 303394695,
   "type": "Feature",
   "properties": {
+    "addr:full":"7101 S Western Ave Oklahoma City OK 73139",
+    "addr:housenumber":"7101",
+    "addr:postcode":"73139",
+    "addr:street":"S Western Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.530119,35.394286,-97.530119,35.394286",
     "geom:latitude":35.394286,
     "geom:longitude":-97.530119,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -40,7 +46,7 @@
     "wof:geomhash":"75985190b2489e44fa1830c4986f6963",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":303394695,
-    "wof:lastmodified":1466765418,
+    "wof:lastmodified":1491909360,
     "wof:name":"Howard Brothers",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

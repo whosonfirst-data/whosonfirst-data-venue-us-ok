@@ -2,14 +2,20 @@
   "id": 336655117,
   "type": "Feature",
   "properties": {
+    "addr:full":"1407 S Country Club Rd El Reno OK 73036",
+    "addr:housenumber":"1407",
+    "addr:postcode":"73036",
+    "addr:street":"S Country Club Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.972555,35.521311,-97.972555,35.521311",
     "geom:latitude":35.521311,
     "geom:longitude":-97.972555,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1407 S Country Club Rd",
     "sg:city":"El Reno",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
         85805913
     ],
+    "wof:brand_id":1125152067,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WN56N9m2dWgeixIZiz2KX_35.521311_-97.972555@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"15e5eb10a4a1a27ce3f18a9852dba9b8",
+    "wof:geomhash":"15fa5d050979e01255a54d14136db58a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":336655117,
-    "wof:lastmodified":1466763030,
+    "wof:lastmodified":1510695078,
     "wof:name":"West Coast Video",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

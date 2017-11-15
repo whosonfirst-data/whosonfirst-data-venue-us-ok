@@ -2,14 +2,20 @@
   "id": 320131477,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 E Main St Yukon OK 73099",
+    "addr:housenumber":"900",
+    "addr:postcode":"73099",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.730257,35.507662,-97.730257,35.507662",
     "geom:latitude":35.507662,
     "geom:longitude":-97.730257,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 E Main St",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
         85805913
     ],
+    "wof:brand_id":1125154275,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KXqEcILY9p0DDC6F3Apcw_35.507662_-97.730257@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b2330a4cdf42e831b43f5e499a9021a",
+    "wof:geomhash":"67f0068af9940e778e534c9eda7eebce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":320131477,
-    "wof:lastmodified":1466764197,
+    "wof:lastmodified":1510695874,
     "wof:name":"Alamo Rent-A-Car LLC",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

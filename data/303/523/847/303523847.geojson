@@ -2,9 +2,14 @@
   "id": 303523847,
   "type": "Feature",
   "properties": {
+    "addr:full":"5603 NW 41st St Warr Acres OK 73122",
+    "addr:housenumber":"5603",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 41St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.614853,35.513842,-97.614853,35.513842",
     "geom:latitude":35.513842,
     "geom:longitude":-97.614853,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"f9845fca4a63c29af7cd651c6fd5a070",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303523847,
-    "wof:lastmodified":1466765830,
+    "wof:lastmodified":1491910196,
     "wof:name":"Unity Church Of Okc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 319842325,
   "type": "Feature",
   "properties": {
+    "addr:full":"415 E Greenwood Ln Mustang OK 73064",
+    "addr:housenumber":"415",
+    "addr:postcode":"73064",
+    "addr:street":"E Greenwood Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.717431,35.387196,-97.717431,35.387196",
     "geom:latitude":35.387196,
     "geom:longitude":-97.717431,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d9f16832f48740f2b0b0ff8d208b1bdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":319842325,
-    "wof:lastmodified":1466763072,
+    "wof:lastmodified":1491911940,
     "wof:name":"Colts Construction Company",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

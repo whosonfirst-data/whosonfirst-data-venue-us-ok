@@ -2,9 +2,14 @@
   "id": 303730141,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 NW 106th St Oklahoma City OK 73114",
+    "addr:housenumber":"1301",
+    "addr:postcode":"73114",
+    "addr:street":"Nw 106Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.53802,35.578877,-97.53802,35.578877",
     "geom:latitude":35.578877,
     "geom:longitude":-97.53802,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"6cbe1d0d4cde0f89b16fd5e780d4837f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":303730141,
-    "wof:lastmodified":1466766624,
+    "wof:lastmodified":1491933075,
     "wof:name":"Richards Roadside Service Inc",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

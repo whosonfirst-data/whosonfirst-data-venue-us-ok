@@ -2,9 +2,14 @@
   "id": 353711141,
   "type": "Feature",
   "properties": {
+    "addr:full":"4905 S Durland Ave Oklahoma City OK 73129",
+    "addr:housenumber":"4905",
+    "addr:postcode":"73129",
+    "addr:street":"S Durland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.501522,35.415865,-97.501522,35.415865",
     "geom:latitude":35.415865,
     "geom:longitude":-97.501522,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"164e739f9834728ba7c46f79b6cd37d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353711141,
-    "wof:lastmodified":1466764825,
+    "wof:lastmodified":1491909366,
     "wof:name":"Bonehill Construction",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

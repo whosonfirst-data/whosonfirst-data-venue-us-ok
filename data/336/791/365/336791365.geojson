@@ -2,14 +2,20 @@
   "id": 336791365,
   "type": "Feature",
   "properties": {
+    "addr:full":"4504 SE 29th St Oklahoma City OK 73115",
+    "addr:housenumber":"4504",
+    "addr:postcode":"73115",
+    "addr:street":"Se 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.434797,35.435163,-97.434797,35.435163",
     "geom:latitude":35.435163,
     "geom:longitude":-97.434797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4504 SE 29th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -29,20 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
         85819711
     ],
+    "wof:brand_id":1125151779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KgjdeChKUA7e2hcWMblDE_35.435163_-97.434797@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"5a7d6e6e4b62df4c2ace3bda300d1758",
+    "wof:geomhash":"40541f8fbb251c91265cb7558b7238f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":336791365,
-    "wof:lastmodified":1466764495,
+    "wof:lastmodified":1510696080,
     "wof:name":"EZ Pawn Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

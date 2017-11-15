@@ -2,9 +2,14 @@
   "id": 336844225,
   "type": "Feature",
   "properties": {
+    "addr:full":"9224 N Pennsylvania Ave Oklahoma City OK 73120",
+    "addr:housenumber":"9224",
+    "addr:postcode":"73120",
+    "addr:street":"N Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.549178,35.564929,-97.549178,35.564929",
     "geom:latitude":35.564929,
     "geom:longitude":-97.549178,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"997dc5458bff22fad01f6e1070df1d9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336844225,
-    "wof:lastmodified":1466764884,
+    "wof:lastmodified":1491933054,
     "wof:name":"Closet Classics",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

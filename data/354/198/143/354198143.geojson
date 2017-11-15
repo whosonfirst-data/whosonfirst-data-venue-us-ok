@@ -2,9 +2,14 @@
   "id": 354198143,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 NE 10th St Oklahoma City OK 73104",
+    "addr:housenumber":"400",
+    "addr:postcode":"73104",
+    "addr:street":"Ne 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.50426,35.478073,-97.50426,35.478073",
     "geom:latitude":35.478073,
     "geom:longitude":-97.50426,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"bf8d4fba741a8a510414b710ca59ea45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354198143,
-    "wof:lastmodified":1466763897,
+    "wof:lastmodified":1491927384,
     "wof:name":"Ratcliffe's Medical Books",
     "wof:parent_id":85871693,
     "wof:placetype":"venue",

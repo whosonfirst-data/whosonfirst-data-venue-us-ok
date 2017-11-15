@@ -2,9 +2,14 @@
   "id": 320200901,
   "type": "Feature",
   "properties": {
+    "addr:full":"4429 NW 31st St Oklahoma City OK 73112",
+    "addr:housenumber":"4429",
+    "addr:postcode":"73112",
+    "addr:street":"Nw 31St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.60071,35.501964,-97.60071,35.501964",
     "geom:latitude":35.501964,
     "geom:longitude":-97.60071,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a9746f81577601888ae276190c1e9dd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320200901,
-    "wof:lastmodified":1466764612,
+    "wof:lastmodified":1491910137,
     "wof:name":"Racor Enterprises Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

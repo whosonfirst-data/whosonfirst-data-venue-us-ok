@@ -2,9 +2,14 @@
   "id": 303304081,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 N Barker Ave El Reno OK 73036",
+    "addr:housenumber":"100",
+    "addr:postcode":"73036",
+    "addr:street":"N Barker Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.951526,35.534093,-97.951526,35.534093",
     "geom:latitude":35.534093,
     "geom:longitude":-97.951526,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8f3faf1b2af8fdd732cb99611f761186",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303304081,
-    "wof:lastmodified":1466764859,
+    "wof:lastmodified":1491912033,
     "wof:name":"Wilson Funeral Home Corp",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320733287,
   "type": "Feature",
   "properties": {
+    "addr:full":"7357 S Western Ave Oklahoma City OK 73139",
+    "addr:housenumber":"7357",
+    "addr:postcode":"73139",
+    "addr:street":"S Western Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.530183,35.392398,-97.530183,35.392398",
     "geom:latitude":35.392398,
     "geom:longitude":-97.530183,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"302a2331805460cebc5abf3eb2481478",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320733287,
-    "wof:lastmodified":1466766631,
+    "wof:lastmodified":1491909393,
     "wof:name":"No Credit Chek Auto Finance",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

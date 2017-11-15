@@ -2,9 +2,14 @@
   "id": 353400553,
   "type": "Feature",
   "properties": {
+    "addr:full":"6901 NW 35th St Bethany OK 73008",
+    "addr:housenumber":"6901",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 35Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.633423,35.507001,-97.633423,35.507001",
     "geom:latitude":35.507001,
     "geom:longitude":-97.633423,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"87410d94b3952fd9d19798b7af8fecc5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353400553,
-    "wof:lastmodified":1466762439,
+    "wof:lastmodified":1491910236,
     "wof:name":"Gibson Roofing Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

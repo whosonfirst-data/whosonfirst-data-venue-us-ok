@@ -2,9 +2,14 @@
   "id": 336690907,
   "type": "Feature",
   "properties": {
+    "addr:full":"2825 SE 44th St Oklahoma City OK 73129",
+    "addr:housenumber":"2825",
+    "addr:postcode":"73129",
+    "addr:street":"Se 44Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.459313,35.420884,-97.459313,35.420884",
     "geom:latitude":35.420884,
     "geom:longitude":-97.459313,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"1bd868b9fab83006eca6c60bb4d538ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":336690907,
-    "wof:lastmodified":1466763582,
+    "wof:lastmodified":1491909448,
     "wof:name":"Performance Motor Sports",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

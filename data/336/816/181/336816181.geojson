@@ -2,9 +2,14 @@
   "id": 336816181,
   "type": "Feature",
   "properties": {
+    "addr:full":"213 N Willowood Dr Yukon OK 73099",
+    "addr:housenumber":"213",
+    "addr:postcode":"73099",
+    "addr:street":"N Willowood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.734552,35.468424,-97.734552,35.468424",
     "geom:latitude":35.468424,
     "geom:longitude":-97.734552,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"21541df85d09cb1f59d9a47d30f190b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336816181,
-    "wof:lastmodified":1466764751,
+    "wof:lastmodified":1491912003,
     "wof:name":"R C Plumbing Co",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

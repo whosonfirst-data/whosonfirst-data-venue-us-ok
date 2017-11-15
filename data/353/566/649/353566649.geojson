@@ -2,9 +2,14 @@
   "id": 353566649,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 State Hwy 152 Mustang OK 73064",
+    "addr:housenumber":"135",
+    "addr:postcode":"73064",
+    "addr:street":"State Hwy 152",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.723044,35.391751,-97.723044,35.391751",
     "geom:latitude":35.391751,
     "geom:longitude":-97.723044,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"5e2b6820816894a846170a366bc6f509",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353566649,
-    "wof:lastmodified":1466764121,
+    "wof:lastmodified":1491911928,
     "wof:name":"Mustang Tag Agency",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

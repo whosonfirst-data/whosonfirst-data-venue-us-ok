@@ -2,9 +2,14 @@
   "id": 303096103,
   "type": "Feature",
   "properties": {
+    "addr:full":"5008 SE 47th St Oklahoma City OK 73135",
+    "addr:housenumber":"5008",
+    "addr:postcode":"73135",
+    "addr:street":"Se 47Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.431448,35.41773,-97.431448,35.41773",
     "geom:latitude":35.41773,
     "geom:longitude":-97.431448,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"241dab76196a677f44cc61cfd595daa1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303096103,
-    "wof:lastmodified":1466763177,
+    "wof:lastmodified":1491909336,
     "wof:name":"Amys Child Care",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

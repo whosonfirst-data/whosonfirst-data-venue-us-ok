@@ -2,9 +2,14 @@
   "id": 336711415,
   "type": "Feature",
   "properties": {
+    "addr:full":"4505 NW 31th Pl Oklahoma City OK 73122",
+    "addr:housenumber":"4505",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 31Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.602444,35.501365,-97.602444,35.501365",
     "geom:latitude":35.501365,
     "geom:longitude":-97.602444,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"bd789a5cad9dabead48a33534cc0ff57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336711415,
-    "wof:lastmodified":1466763897,
+    "wof:lastmodified":1491910175,
     "wof:name":"Wilkie Mfg LLC",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

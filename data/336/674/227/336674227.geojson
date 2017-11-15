@@ -2,9 +2,14 @@
   "id": 336674227,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 SW 44th St Oklahoma City OK 73119",
+    "addr:housenumber":"1401",
+    "addr:postcode":"73119",
+    "addr:street":"Sw 44Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.542822,35.420728,-97.542822,35.420728",
     "geom:latitude":35.420728,
     "geom:longitude":-97.542822,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
-        102082577
+        102082577,
+        85871699,
+        85871707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,28 @@
     "wof:geomhash":"f4f29090985dcc9c589e2e834c99e5aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871699,
+            "region_id":85688585,
+            "venue_id":336674227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871707,
             "region_id":85688585,
             "venue_id":336674227
         }
     ],
     "wof:id":336674227,
-    "wof:lastmodified":1466763322,
+    "wof:lastmodified":1491904592,
     "wof:name":"Loan Express",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 320270467,
   "type": "Feature",
   "properties": {
+    "addr:full":"4601 Eastman Dr Oklahoma City OK 73122",
+    "addr:housenumber":"4601",
+    "addr:postcode":"73122",
+    "addr:street":"Eastman Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.605114,35.536275,-97.605114,35.536275",
     "geom:latitude":35.536275,
     "geom:longitude":-97.605114,
@@ -31,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714421,
+        101714461,
         102082577,
+        85871705,
+        101714421,
         85854531
     ],
     "wof:breaches":[],
@@ -44,7 +52,16 @@
     "wof:geomhash":"ccca741e4798a8e8936d55ccb3bb271f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871705,
+            "region_id":85688585,
+            "venue_id":320270467
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -54,9 +71,9 @@
         }
     ],
     "wof:id":320270467,
-    "wof:lastmodified":1466764912,
+    "wof:lastmodified":1491910178,
     "wof:name":"Oxford House Eastman",
-    "wof:parent_id":85854531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

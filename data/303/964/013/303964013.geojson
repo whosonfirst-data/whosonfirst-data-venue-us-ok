@@ -2,9 +2,14 @@
   "id": 303964013,
   "type": "Feature",
   "properties": {
+    "addr:full":"3304 W Jones Rd El Reno OK 73014",
+    "addr:housenumber":"3304",
+    "addr:postcode":"73014",
+    "addr:street":"W Jones Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.977657,35.551261,-97.977657,35.551261",
     "geom:latitude":35.551261,
     "geom:longitude":-97.977657,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d8e5bcd0f7c8ae8c35d6d3248da1a643",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303964013,
-    "wof:lastmodified":1466766969,
+    "wof:lastmodified":1491911804,
     "wof:name":"Trishane Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

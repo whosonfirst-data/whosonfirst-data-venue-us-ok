@@ -2,9 +2,14 @@
   "id": 336753355,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 N Admire Ave El Reno OK 73036",
+    "addr:housenumber":"700",
+    "addr:postcode":"73036",
+    "addr:street":"N Admire Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.957162,35.539608,-97.957162,35.539608",
     "geom:latitude":35.539608,
     "geom:longitude":-97.957162,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"15bae227cbfba4a6fb43fdb0f596834e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336753355,
-    "wof:lastmodified":1466764310,
+    "wof:lastmodified":1491912001,
     "wof:name":"Helen Miner",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

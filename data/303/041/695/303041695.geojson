@@ -2,9 +2,14 @@
   "id": 303041695,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Palo Verde Dr Yukon OK 73099",
+    "addr:housenumber":"400",
+    "addr:postcode":"73099",
+    "addr:street":"Palo Verde Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.741666,35.461039,-97.741666,35.461039",
     "geom:latitude":35.461039,
     "geom:longitude":-97.741666,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"c094b0fe1b97a3d5ce55e912cb138c96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303041695,
-    "wof:lastmodified":1466762288,
+    "wof:lastmodified":1491911996,
     "wof:name":"Ultimate Auto Group LLC",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

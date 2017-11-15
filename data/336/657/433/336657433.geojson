@@ -2,9 +2,14 @@
   "id": 336657433,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 N Broadway Ave Oklahoma City OK 73103",
+    "addr:housenumber":"2100",
+    "addr:postcode":"73103",
+    "addr:street":"N Broadway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.513501,35.492118,-97.513501,35.492118",
     "geom:latitude":35.492118,
     "geom:longitude":-97.513501,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
-        85871695,
-        85871677
+        85871677,
+        85871695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +49,28 @@
     "wof:geomhash":"800a5e096a2fdb93d2acbb7f962885ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082577,
-            "locality_id":101714461,
-            "neighbourhood_id":85871695,
-            "region_id":85688585,
-            "venue_id":336657433
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
             "neighbourhood_id":85871677,
             "region_id":85688585,
             "venue_id":336657433
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871695,
+            "region_id":85688585,
+            "venue_id":336657433
         }
     ],
     "wof:id":336657433,
-    "wof:lastmodified":1466763064,
+    "wof:lastmodified":1491921297,
     "wof:name":"Mendros Psychiatric Med Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 320170813,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 W Elm St El Reno OK 73036",
+    "addr:housenumber":"312",
+    "addr:postcode":"73036",
+    "addr:street":"W Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.956849,35.522402,-97.956849,35.522402",
     "geom:latitude":35.522402,
     "geom:longitude":-97.956849,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"68e9ec240d91d6842992764543d425eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320170813,
-    "wof:lastmodified":1466764475,
+    "wof:lastmodified":1491912041,
     "wof:name":"Hubbard's Liquor Store",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

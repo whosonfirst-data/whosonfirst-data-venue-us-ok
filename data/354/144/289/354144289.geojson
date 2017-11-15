@@ -2,9 +2,14 @@
   "id": 354144289,
   "type": "Feature",
   "properties": {
+    "addr:full":"3804 N Barr Ave Oklahoma City OK 73122",
+    "addr:housenumber":"3804",
+    "addr:postcode":"73122",
+    "addr:street":"N Barr Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.605551,35.508574,-97.605551,35.508574",
     "geom:latitude":35.508574,
     "geom:longitude":-97.605551,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"9f1ab512352fb9bc0311fc0232fb69ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354144289,
-    "wof:lastmodified":1466763668,
+    "wof:lastmodified":1491910165,
     "wof:name":"Morning Star Nursing Ctr",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

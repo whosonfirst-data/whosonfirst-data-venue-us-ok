@@ -2,9 +2,14 @@
   "id": 287235119,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 NW 95th St Oklahoma City OK 73114",
+    "addr:housenumber":"209",
+    "addr:postcode":"73114",
+    "addr:street":"Nw 95Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.517897,35.567677,-97.517897,35.567677",
     "geom:latitude":35.567677,
     "geom:longitude":-97.517897,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -49,7 +55,7 @@
     "wof:geomhash":"f3665f97e9f85982ebfa838912c550ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":287235119,
-    "wof:lastmodified":1466762463,
+    "wof:lastmodified":1491933077,
     "wof:name":"Renaissance Fabrication LLC",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

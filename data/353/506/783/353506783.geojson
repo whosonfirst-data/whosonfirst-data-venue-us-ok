@@ -2,14 +2,20 @@
   "id": 353506783,
   "type": "Feature",
   "properties": {
+    "addr:full":"4421 NW 39th St Oklahoma City OK 73112",
+    "addr:housenumber":"4421",
+    "addr:postcode":"73112",
+    "addr:street":"Nw 39Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.600653,35.511295,-97.600653,35.511295",
     "geom:latitude":35.511295,
     "geom:longitude":-97.600653,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4421 NW 39th St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -26,20 +32,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
         85854531
     ],
+    "wof:brand_id":1125152681,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6irzWJr2XHknaLdogoOUH7_35.511295_-97.600653@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"2700685ae18013250b3cc22b804fc2b8",
+    "wof:geomhash":"0f531d464ad71b7b6e93c73d504b08e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":353506783,
-    "wof:lastmodified":1466763219,
+    "wof:lastmodified":1510697345,
     "wof:name":"Taco Bueno",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

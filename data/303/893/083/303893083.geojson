@@ -2,9 +2,14 @@
   "id": 303893083,
   "type": "Feature",
   "properties": {
+    "addr:full":"329 NW 94th St Oklahoma City OK 73114",
+    "addr:housenumber":"329",
+    "addr:postcode":"73114",
+    "addr:street":"Nw 94Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.517708,35.566688,-97.517708,35.566688",
     "geom:latitude":35.566688,
     "geom:longitude":-97.517708,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"0dd80f23c5af42e49fdb145e599acadf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303893083,
-    "wof:lastmodified":1466766941,
+    "wof:lastmodified":1491933089,
     "wof:name":"Northwest Alternators & Strtrs",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

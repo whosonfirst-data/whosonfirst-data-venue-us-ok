@@ -2,9 +2,14 @@
   "id": 320284387,
   "type": "Feature",
   "properties": {
+    "addr:full":"1724 SW 19th St Oklahoma City OK 73108",
+    "addr:housenumber":"1724",
+    "addr:postcode":"73108",
+    "addr:street":"Sw 19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.546702,35.446382,-97.546702,35.446382",
     "geom:latitude":35.446382,
     "geom:longitude":-97.546702,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"04e8cbc75b65bc4d0c964f0a8e112a77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320284387,
-    "wof:lastmodified":1466764978,
+    "wof:lastmodified":1491904578,
     "wof:name":"Wayne Bruza Tile",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",

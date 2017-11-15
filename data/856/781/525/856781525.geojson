@@ -2,9 +2,14 @@
   "id": 856781525,
   "type": "Feature",
   "properties": {
+    "addr:full":"6845 N Broadway Edmond OK 73034",
+    "addr:housenumber":"6845",
+    "addr:postcode":"73034",
+    "addr:street":"N Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.47837,35.724797,-97.47837,35.724797",
     "geom:latitude":35.724797,
     "geom:longitude":-97.47837,
@@ -28,17 +33,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688585,
+        102191575,
+        85633793,
+        102082577
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AjUo4QjA0Asv35dqp1NYD_35.725063_-97.478442@1294180530"
     },
     "wof:country":"US",
     "wof:created":1464102469,
-    "wof:geomhash":"81424fad59f1e83c312b8b4378319cb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a93df3854b1eca593b95f513df4b789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688585,
+            "venue_id":856781525
+        }
+    ],
     "wof:id":856781525,
-    "wof:lastmodified":1466762767,
+    "wof:lastmodified":1494529569,
     "wof:name":"Catfish Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

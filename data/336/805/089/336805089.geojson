@@ -2,9 +2,14 @@
   "id": 336805089,
   "type": "Feature",
   "properties": {
+    "addr:full":"3104 Epperly Dr Oklahoma City OK 73115",
+    "addr:housenumber":"3104",
+    "addr:postcode":"73115",
+    "addr:street":"Epperly Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.437811,35.43441,-97.437811,35.43441",
     "geom:latitude":35.43441,
     "geom:longitude":-97.437811,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"fe9985ab863e756fdc704def9f75c6d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336805089,
-    "wof:lastmodified":1466764590,
+    "wof:lastmodified":1491909445,
     "wof:name":"Dancenter",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

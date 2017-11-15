@@ -2,9 +2,14 @@
   "id": 353936477,
   "type": "Feature",
   "properties": {
+    "addr:full":"3810 N Tulsa Ave Oklahoma City OK 73112",
+    "addr:housenumber":"3810",
+    "addr:postcode":"73112",
+    "addr:street":"N Tulsa Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.592191,35.508463,-97.592191,35.508463",
     "geom:latitude":35.508463,
     "geom:longitude":-97.592191,
@@ -30,12 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714461,
-        102082577,
-        85871679,
         101714421,
-        85854531
+        102082577,
+        85854531,
+        101714461,
+        85871679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,28 +51,28 @@
     "wof:geomhash":"228276c0b52465c089f5997eca15a75c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082577,
-            "locality_id":101714461,
-            "neighbourhood_id":85871679,
-            "region_id":85688585,
-            "venue_id":353936477
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
             "neighbourhood_id":85854531,
             "region_id":85688585,
             "venue_id":353936477
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871679,
+            "region_id":85688585,
+            "venue_id":353936477
         }
     ],
     "wof:id":353936477,
-    "wof:lastmodified":1466765685,
+    "wof:lastmodified":1491910129,
     "wof:name":"Little Giant Pump Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

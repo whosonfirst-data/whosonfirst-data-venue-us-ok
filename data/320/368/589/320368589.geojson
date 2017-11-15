@@ -2,9 +2,14 @@
   "id": 320368589,
   "type": "Feature",
   "properties": {
+    "addr:full":"6353 N Macarthur Blvd Warr Acres OK 73122",
+    "addr:housenumber":"6353",
+    "addr:postcode":"73122",
+    "addr:street":"N Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.619072,35.536753,-97.619072,35.536753",
     "geom:latitude":35.536753,
     "geom:longitude":-97.619072,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"63e023c14409c01dcd966eefb4f6748f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320368589,
-    "wof:lastmodified":1466765573,
+    "wof:lastmodified":1491910186,
     "wof:name":"Big Bob's Carpet",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

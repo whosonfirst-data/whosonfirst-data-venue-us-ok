@@ -2,9 +2,14 @@
   "id": 354030103,
   "type": "Feature",
   "properties": {
+    "addr:full":"3810 N Peniel Ave Bethany OK 73008",
+    "addr:housenumber":"3810",
+    "addr:postcode":"73008",
+    "addr:street":"N Peniel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.627723,35.510422,-97.627723,35.510422",
     "geom:latitude":35.510422,
     "geom:longitude":-97.627723,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"a76fa6f7a1edbf48cb7c8ea220b73771",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":354030103,
-    "wof:lastmodified":1466763134,
+    "wof:lastmodified":1491910211,
     "wof:name":"Michael L Loyd & Assoc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303060247,
   "type": "Feature",
   "properties": {
+    "addr:full":"236 N K Ave El Reno OK 73036",
+    "addr:housenumber":"236",
+    "addr:postcode":"73036",
+    "addr:street":"N K Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.942608,35.536253,-97.942608,35.536253",
     "geom:latitude":35.536253,
     "geom:longitude":-97.942608,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"1ca26906fa4f0770c011ee9ab099730e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303060247,
-    "wof:lastmodified":1466762585,
+    "wof:lastmodified":1491911913,
     "wof:name":"Perfection Welding & Fab",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

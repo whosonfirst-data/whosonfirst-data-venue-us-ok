@@ -2,9 +2,14 @@
   "id": 353505603,
   "type": "Feature",
   "properties": {
+    "addr:full":"2828 Old Hwy 81 El Reno OK 73036",
+    "addr:housenumber":"2828",
+    "addr:postcode":"73036",
+    "addr:street":"Old Hwy 81",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.95826,35.555108,-97.95826,35.555108",
     "geom:latitude":35.555108,
     "geom:longitude":-97.95826,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -40,7 +46,7 @@
     "wof:geomhash":"31938b66d0aea4f116a4679dbf4d81f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":353505603,
-    "wof:lastmodified":1466763204,
+    "wof:lastmodified":1491911905,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

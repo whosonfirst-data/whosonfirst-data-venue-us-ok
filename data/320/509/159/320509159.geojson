@@ -2,9 +2,14 @@
   "id": 320509159,
   "type": "Feature",
   "properties": {
+    "addr:full":"8604 S Kentucky Ave Oklahoma City OK 73159",
+    "addr:housenumber":"8604",
+    "addr:postcode":"73159",
+    "addr:street":"S Kentucky Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.544298,35.380854,-97.544298,35.380854",
     "geom:latitude":35.380854,
     "geom:longitude":-97.544298,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"5f492f6b3c6b15dcd392b440d46c11e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320509159,
-    "wof:lastmodified":1466766073,
+    "wof:lastmodified":1491909342,
     "wof:name":"Ljf Trucking LLC",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354204793,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 NW 36th St Oklahoma City OK 73112",
+    "addr:housenumber":"4300",
+    "addr:postcode":"73112",
+    "addr:street":"Nw 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.598622,35.507789,-97.598622,35.507789",
     "geom:latitude":35.507789,
     "geom:longitude":-97.598622,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ec760dd87455b8abc27ff67f56ae44f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354204793,
-    "wof:lastmodified":1466763950,
+    "wof:lastmodified":1491910155,
     "wof:name":"Word Of Life Ministries",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

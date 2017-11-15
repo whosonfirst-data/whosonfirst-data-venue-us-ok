@@ -2,9 +2,14 @@
   "id": 303674711,
   "type": "Feature",
   "properties": {
+    "addr:full":"4703 N College Ave Bethany OK 73008",
+    "addr:housenumber":"4703",
+    "addr:postcode":"73008",
+    "addr:street":"N College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.629214,35.52054,-97.629214,35.52054",
     "geom:latitude":35.52054,
     "geom:longitude":-97.629214,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"f8c4186aa1d1f7b0798c55c7066231f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303674711,
-    "wof:lastmodified":1466766433,
+    "wof:lastmodified":1491910218,
     "wof:name":"American Inspection Svc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

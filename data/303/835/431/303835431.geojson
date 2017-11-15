@@ -2,9 +2,14 @@
   "id": 303835431,
   "type": "Feature",
   "properties": {
+    "addr:full":"939 S Cornwell Dr Yukon OK 73099",
+    "addr:housenumber":"939",
+    "addr:postcode":"73099",
+    "addr:street":"S Cornwell Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.74245,35.498199,-97.74245,35.498199",
     "geom:latitude":35.498199,
     "geom:longitude":-97.74245,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"c639850797b14fc3280a7b2846560e73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303835431,
-    "wof:lastmodified":1466766801,
+    "wof:lastmodified":1491911948,
     "wof:name":"Pizza King",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

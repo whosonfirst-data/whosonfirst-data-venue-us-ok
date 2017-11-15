@@ -2,9 +2,14 @@
   "id": 319858807,
   "type": "Feature",
   "properties": {
+    "addr:full":"5318 S Berryman Rd Oklahoma City OK 73150",
+    "addr:housenumber":"5318",
+    "addr:postcode":"73150",
+    "addr:street":"S Berryman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.357497,35.41407,-97.357497,35.41407",
     "geom:latitude":35.41407,
     "geom:longitude":-97.357497,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"797f869552a2a2d500ba1dff02ed01d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":319858807,
-    "wof:lastmodified":1466763260,
+    "wof:lastmodified":1491909340,
     "wof:name":"4 Star Roofing",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

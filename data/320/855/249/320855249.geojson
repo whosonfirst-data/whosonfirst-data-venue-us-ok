@@ -2,9 +2,14 @@
   "id": 320855249,
   "type": "Feature",
   "properties": {
+    "addr:full":"709 S Mustang Rd Yukon OK 73099",
+    "addr:housenumber":"709",
+    "addr:postcode":"73099",
+    "addr:street":"S Mustang Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.724765,35.456088,-97.724765,35.456088",
     "geom:latitude":35.456088,
     "geom:longitude":-97.724765,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"7a303462a0f25b31611d05bef8d45c3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320855249,
-    "wof:lastmodified":1466766977,
+    "wof:lastmodified":1491911896,
     "wof:name":"Shabby Chic Boutique",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

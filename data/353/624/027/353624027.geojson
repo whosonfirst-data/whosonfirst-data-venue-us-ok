@@ -2,9 +2,14 @@
   "id": 353624027,
   "type": "Feature",
   "properties": {
+    "addr:full":"11625 SW 3rd Ter Yukon OK 73099",
+    "addr:housenumber":"11625",
+    "addr:postcode":"73099",
+    "addr:street":"Sw 3Rd Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.731848,35.462344,-97.731848,35.462344",
     "geom:latitude":35.462344,
     "geom:longitude":-97.731848,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"04ce7bc15862ab6c7f95fa404582f668",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353624027,
-    "wof:lastmodified":1466764639,
+    "wof:lastmodified":1491911967,
     "wof:name":"Tri State Tax & Bookkeeping",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

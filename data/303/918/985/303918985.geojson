@@ -2,9 +2,14 @@
   "id": 303918985,
   "type": "Feature",
   "properties": {
+    "addr:full":"9308 N Pennsylvania Ave Oklahoma City OK 73120",
+    "addr:housenumber":"9308",
+    "addr:postcode":"73120",
+    "addr:street":"N Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.549176,35.565571,-97.549176,35.565571",
     "geom:latitude":35.565571,
     "geom:longitude":-97.549176,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"f3b187fdf2eb90f1d2b126f644a94ff5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303918985,
-    "wof:lastmodified":1466766943,
+    "wof:lastmodified":1491933069,
     "wof:name":"7-Eleven",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

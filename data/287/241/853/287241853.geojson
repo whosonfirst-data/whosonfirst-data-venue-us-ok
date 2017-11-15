@@ -2,9 +2,14 @@
   "id": 287241853,
   "type": "Feature",
   "properties": {
+    "addr:full":"11600 Footmans Ct Yukon OK 73099",
+    "addr:housenumber":"11600",
+    "addr:postcode":"73099",
+    "addr:street":"Footmans Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.733485,35.587984,-97.733485,35.587984",
     "geom:latitude":35.587984,
     "geom:longitude":-97.733485,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"1f173d1db815d450496dae014e5c0117",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":287241853,
-    "wof:lastmodified":1466762567,
+    "wof:lastmodified":1491912065,
     "wof:name":"Warren Moore Co Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

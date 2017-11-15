@@ -2,9 +2,14 @@
   "id": 353630113,
   "type": "Feature",
   "properties": {
+    "addr:full":"6555 Mustang Rd NE Piedmont OK 73078",
+    "addr:housenumber":"6555",
+    "addr:postcode":"73078",
+    "addr:street":"Mustang Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.727535,35.697806,-97.727535,35.697806",
     "geom:latitude":35.697806,
     "geom:longitude":-97.727535,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"866921a47e2010fb3f43fedd3e1247ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353630113,
-    "wof:lastmodified":1466764530,
+    "wof:lastmodified":1491912074,
     "wof:name":"Southerndesign Landscape",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

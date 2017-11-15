@@ -2,9 +2,14 @@
   "id": 353642203,
   "type": "Feature",
   "properties": {
+    "addr:full":"3313 SE 57th St Oklahoma City OK 73135",
+    "addr:housenumber":"3313",
+    "addr:postcode":"73135",
+    "addr:street":"Se 57Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.458186,35.407936,-97.458186,35.407936",
     "geom:latitude":35.407936,
     "geom:longitude":-97.458186,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"73908ebe869f82e9c4507ed429b1f0fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353642203,
-    "wof:lastmodified":1466764707,
+    "wof:lastmodified":1491909421,
     "wof:name":"Violet L Hunter",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

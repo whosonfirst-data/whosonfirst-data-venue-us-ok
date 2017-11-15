@@ -2,9 +2,14 @@
   "id": 287129989,
   "type": "Feature",
   "properties": {
+    "addr:full":"1036 W Vandament Ave Yukon OK 73099",
+    "addr:housenumber":"1036",
+    "addr:postcode":"73099",
+    "addr:street":"W Vandament Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.759388,35.493346,-97.759388,35.493346",
     "geom:latitude":35.493346,
     "geom:longitude":-97.759388,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -40,7 +46,7 @@
     "wof:geomhash":"b4660cd2e11c2fef40ee0b3c0061c241",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":287129989,
-    "wof:lastmodified":1466763608,
+    "wof:lastmodified":1491912000,
     "wof:name":"GNC",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

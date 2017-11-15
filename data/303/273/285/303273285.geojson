@@ -2,9 +2,14 @@
   "id": 303273285,
   "type": "Feature",
   "properties": {
+    "addr:full":"1641 SW 47th St Oklahoma City OK 73119",
+    "addr:housenumber":"1641",
+    "addr:postcode":"73119",
+    "addr:street":"Sw 47Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.547742,35.418148,-97.547742,35.418148",
     "geom:latitude":35.418148,
     "geom:longitude":-97.547742,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -48,7 +54,7 @@
     "wof:geomhash":"a5dd38b76a87967486b9e6c306738254",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":303273285,
-    "wof:lastmodified":1466764741,
+    "wof:lastmodified":1491904581,
     "wof:name":"Family Dollar Stores",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",

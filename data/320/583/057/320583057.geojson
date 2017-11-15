@@ -2,9 +2,14 @@
   "id": 320583057,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 NW 95th St Oklahoma City OK 73114",
+    "addr:housenumber":"200",
+    "addr:postcode":"73114",
+    "addr:street":"Nw 95Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.518048,35.567602,-97.518048,35.567602",
     "geom:latitude":35.567602,
     "geom:longitude":-97.518048,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"1c87ce9b74b736fa7eadb1cca285fd03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320583057,
-    "wof:lastmodified":1466766255,
+    "wof:lastmodified":1491933079,
     "wof:name":"Professional Teknologies Inc",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320509059,
   "type": "Feature",
   "properties": {
+    "addr:full":"6120 S Shields Blvd Oklahoma City OK 73149",
+    "addr:housenumber":"6120",
+    "addr:postcode":"73149",
+    "addr:street":"S Shields Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.507902,35.404165,-97.507902,35.404165",
     "geom:latitude":35.404165,
     "geom:longitude":-97.507902,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -49,7 +55,7 @@
     "wof:geomhash":"7335942a36b99d946fa17bf7358bc3d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":320509059,
-    "wof:lastmodified":1466766072,
+    "wof:lastmodified":1491909427,
     "wof:name":"Mega Mortgage Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

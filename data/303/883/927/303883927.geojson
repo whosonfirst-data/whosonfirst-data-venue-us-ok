@@ -2,9 +2,14 @@
   "id": 303883927,
   "type": "Feature",
   "properties": {
+    "addr:full":"1605 SW 41st St Oklahoma City OK 73119",
+    "addr:housenumber":"1605",
+    "addr:postcode":"73119",
+    "addr:street":"Sw 41St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.547503,35.424239,-97.547503,35.424239",
     "geom:latitude":35.424239,
     "geom:longitude":-97.547503,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"a4523f64ab255b2cd47bf61099422dce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303883927,
-    "wof:lastmodified":1466767002,
+    "wof:lastmodified":1491904597,
     "wof:name":"Pierce Construction Svc",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",

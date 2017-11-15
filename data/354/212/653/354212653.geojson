@@ -2,9 +2,14 @@
   "id": 354212653,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 NW 50th St Oklahoma City OK 73112",
+    "addr:housenumber":"3900",
+    "addr:postcode":"73112",
+    "addr:street":"Nw 50Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.589017,35.522294,-97.589017,35.522294",
     "geom:latitude":35.522294,
     "geom:longitude":-97.589017,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"01609c7de7c2a8ef7c8379d7567e99d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":354212653,
-    "wof:lastmodified":1466763997,
+    "wof:lastmodified":1491910129,
     "wof:name":"Springdale Baptist Church",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

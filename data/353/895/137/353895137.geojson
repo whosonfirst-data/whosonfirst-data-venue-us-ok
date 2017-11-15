@@ -2,9 +2,14 @@
   "id": 353895137,
   "type": "Feature",
   "properties": {
+    "addr:full":"17043 Darren Ave El Reno OK 73036",
+    "addr:housenumber":"",
+    "addr:postcode":"17043;73036",
+    "addr:street":"Darren Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.852535,35.510671,-97.852535,35.510671",
     "geom:latitude":35.510671,
     "geom:longitude":-97.852535,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"30f2b448e03e1f0646fbc5ca053c7c5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353895137,
-    "wof:lastmodified":1466765666,
+    "wof:lastmodified":1491911880,
     "wof:name":"Sons of Thunder Construction",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

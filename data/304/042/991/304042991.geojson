@@ -2,9 +2,14 @@
   "id": 304042991,
   "type": "Feature",
   "properties": {
+    "addr:full":"5801 S Anderson Rd Oklahoma City OK 73150",
+    "addr:housenumber":"5801",
+    "addr:postcode":"73150",
+    "addr:street":"S Anderson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.318007,35.407129,-97.318007,35.407129",
     "geom:latitude":35.407129,
     "geom:longitude":-97.318007,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"414f4326ce04e72116d491379fbe9a67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":304042991,
-    "wof:lastmodified":1466763067,
+    "wof:lastmodified":1491909433,
     "wof:name":"Prayer Of Faith World Outreach",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

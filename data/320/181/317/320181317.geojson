@@ -2,9 +2,14 @@
   "id": 320181317,
   "type": "Feature",
   "properties": {
+    "addr:full":"9311 NW Expressway St Yukon OK 73099",
+    "addr:housenumber":"9311",
+    "addr:postcode":"73099",
+    "addr:street":"Nw Expressway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.683785,35.577956,-97.683785,35.577956",
     "geom:latitude":35.577956,
     "geom:longitude":-97.683785,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"7448f6aaa4f2568e5a1587ae419d0464",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":320181317,
-    "wof:lastmodified":1466764504,
+    "wof:lastmodified":1491911815,
     "wof:name":"OKLAHOMASTONE.COM",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

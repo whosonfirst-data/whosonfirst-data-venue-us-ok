@@ -2,9 +2,14 @@
   "id": 320224387,
   "type": "Feature",
   "properties": {
+    "addr:full":"11900 N Santa Fe Ave Oklahoma City OK 73114",
+    "addr:housenumber":"11900",
+    "addr:postcode":"73114",
+    "addr:street":"N Santa Fe Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.513667,35.590817,-97.513667,35.590817",
     "geom:latitude":35.590817,
     "geom:longitude":-97.513667,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -40,7 +46,7 @@
     "wof:geomhash":"ae38ca1900579ea0de625664b17f93a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":320224387,
-    "wof:lastmodified":1466764702,
+    "wof:lastmodified":1491933074,
     "wof:name":"JDM Investments",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353733409,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Research Pkwy Oklahoma City OK 73104",
+    "addr:housenumber":"800",
+    "addr:postcode":"73104",
+    "addr:street":"Research Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.49998,35.475938,-97.49998,35.475938",
     "geom:latitude":35.475938,
     "geom:longitude":-97.49998,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"776f9097e9fdb1055119414af27e503a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353733409,
-    "wof:lastmodified":1466764924,
+    "wof:lastmodified":1491927383,
     "wof:name":"Biotech Law Assoc",
     "wof:parent_id":85871693,
     "wof:placetype":"venue",

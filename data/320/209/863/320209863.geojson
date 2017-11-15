@@ -2,9 +2,14 @@
   "id": 320209863,
   "type": "Feature",
   "properties": {
+    "addr:full":"3804 N Macarthur Blvd Oklahoma City OK 73122",
+    "addr:housenumber":"3804",
+    "addr:postcode":"73122",
+    "addr:street":"N Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.618862,35.509703,-97.618862,35.509703",
     "geom:latitude":35.509703,
     "geom:longitude":-97.618862,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3e0c1664558dd79858ebba4c80ad924b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320209863,
-    "wof:lastmodified":1466764645,
+    "wof:lastmodified":1491910242,
     "wof:name":"Dental Health Clinic Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

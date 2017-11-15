@@ -2,9 +2,14 @@
   "id": 320608211,
   "type": "Feature",
   "properties": {
+    "addr:full":"5009 S Deborah Dr Oklahoma City OK 73129",
+    "addr:housenumber":"5009",
+    "addr:postcode":"73129",
+    "addr:street":"S Deborah Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.485414,35.415048,-97.485414,35.415048",
     "geom:latitude":35.415048,
     "geom:longitude":-97.485414,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a4f2579abe9e3aab80f16fea870d521e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320608211,
-    "wof:lastmodified":1466766293,
+    "wof:lastmodified":1491909310,
     "wof:name":"McKinney Heat & Air",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

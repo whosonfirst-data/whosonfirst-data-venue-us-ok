@@ -2,9 +2,14 @@
   "id": 303216351,
   "type": "Feature",
   "properties": {
+    "addr:full":"612 N Remington Way Mustang OK 73064",
+    "addr:housenumber":"612",
+    "addr:postcode":"73064",
+    "addr:street":"N Remington Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.741634,35.398208,-97.741634,35.398208",
     "geom:latitude":35.398208,
     "geom:longitude":-97.741634,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"dec21486dc7a58fbcddffe215fcacbbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303216351,
-    "wof:lastmodified":1466764531,
+    "wof:lastmodified":1491912017,
     "wof:name":"Finesse Payroll & Tax Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

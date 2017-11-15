@@ -2,9 +2,14 @@
   "id": 287137667,
   "type": "Feature",
   "properties": {
+    "addr:full":"2912 N Robinson Ave Oklahoma City OK 73103",
+    "addr:housenumber":"2912",
+    "addr:postcode":"73103",
+    "addr:street":"N Robinson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.515675,35.499333,-97.515675,35.499333",
     "geom:latitude":35.499333,
     "geom:longitude":-97.515675,
@@ -30,11 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
-        85871677,
-        85871703
+        85871703,
+        85871677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +50,28 @@
     "wof:geomhash":"c5eda2edda5cbfef456aeb39bc64b512",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082577,
-            "locality_id":101714461,
-            "neighbourhood_id":85871677,
-            "region_id":85688585,
-            "venue_id":287137667
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
             "neighbourhood_id":85871703,
             "region_id":85688585,
             "venue_id":287137667
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871677,
+            "region_id":85688585,
+            "venue_id":287137667
         }
     ],
     "wof:id":287137667,
-    "wof:lastmodified":1466763631,
+    "wof:lastmodified":1491921296,
     "wof:name":"Peace House",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

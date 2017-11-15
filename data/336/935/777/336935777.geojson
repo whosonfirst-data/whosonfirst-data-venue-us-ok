@@ -2,9 +2,14 @@
   "id": 336935777,
   "type": "Feature",
   "properties": {
+    "addr:full":"1533 SW 29th St Oklahoma City OK 73119",
+    "addr:housenumber":"1533",
+    "addr:postcode":"73119",
+    "addr:street":"Sw 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.545073,35.435287,-97.545073,35.435287",
     "geom:latitude":35.435287,
     "geom:longitude":-97.545073,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"45bafedbc1f1b94ebb35642a68813f8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":336935777,
-    "wof:lastmodified":1466765392,
+    "wof:lastmodified":1491904564,
     "wof:name":"Remnant Carpet Co",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",

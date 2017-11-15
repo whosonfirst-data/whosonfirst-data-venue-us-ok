@@ -2,9 +2,14 @@
   "id": 337445891,
   "type": "Feature",
   "properties": {
+    "addr:full":"5945 NW 59th St Oklahoma City OK 73122",
+    "addr:housenumber":"5945",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 59Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.621065,35.531232,-97.621065,35.531232",
     "geom:latitude":35.531232,
     "geom:longitude":-97.621065,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"5dff6dfccf2c60c025482884302967d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":337445891,
-    "wof:lastmodified":1466762328,
+    "wof:lastmodified":1491910228,
     "wof:name":"Henthorn Electric",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

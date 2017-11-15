@@ -2,9 +2,14 @@
   "id": 320178851,
   "type": "Feature",
   "properties": {
+    "addr:full":"2124 Crossroads Mall Dr Oklahoma City OK 73149",
+    "addr:housenumber":"2124",
+    "addr:postcode":"73149",
+    "addr:street":"Crossroads Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.487301,35.396128,-97.487301,35.396128",
     "geom:latitude":35.396128,
     "geom:longitude":-97.487301,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5f6767c8a16b21c8fa9383308b7e78f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320178851,
-    "wof:lastmodified":1466764504,
+    "wof:lastmodified":1491909369,
     "wof:name":"Proud Past",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

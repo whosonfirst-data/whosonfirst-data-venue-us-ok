@@ -2,9 +2,14 @@
   "id": 320217699,
   "type": "Feature",
   "properties": {
+    "addr:full":"9204 SW 25th St Oklahoma City OK 73128",
+    "addr:housenumber":"9204",
+    "addr:postcode":"73128",
+    "addr:street":"Sw 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.674966,35.438366,-97.674966,35.438366",
     "geom:latitude":35.438366,
     "geom:longitude":-97.674966,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"dbaa563ba702a672101f4b46643bb8f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320217699,
-    "wof:lastmodified":1466764681,
+    "wof:lastmodified":1491911946,
     "wof:name":"Superior Interiors Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

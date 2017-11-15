@@ -2,9 +2,14 @@
   "id": 303973249,
   "type": "Feature",
   "properties": {
+    "addr:full":"931 S Cornwell Dr Yukon OK 73099",
+    "addr:housenumber":"931",
+    "addr:postcode":"73099",
+    "addr:street":"S Cornwell Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.742451,35.498097,-97.742451,35.498097",
     "geom:latitude":35.498097,
     "geom:longitude":-97.742451,
@@ -38,6 +43,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -51,7 +57,7 @@
     "wof:geomhash":"206983d2e2a21ff6a70a4b8d7c6feec7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":303973249,
-    "wof:lastmodified":1466767062,
+    "wof:lastmodified":1491911961,
     "wof:name":"Oklahoma Tag Agency of Yukon",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

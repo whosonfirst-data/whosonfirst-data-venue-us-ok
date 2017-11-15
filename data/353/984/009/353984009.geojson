@@ -2,9 +2,14 @@
   "id": 353984009,
   "type": "Feature",
   "properties": {
+    "addr:full":"413 W Hefner Rd Oklahoma City OK 73114",
+    "addr:housenumber":"413",
+    "addr:postcode":"73114",
+    "addr:street":"W Hefner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.523727,35.580158,-97.523727,35.580158",
     "geom:latitude":35.580158,
     "geom:longitude":-97.523727,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"bec8ec37d4b5b1ef36310d72dce5534b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353984009,
-    "wof:lastmodified":1466765805,
+    "wof:lastmodified":1491933099,
     "wof:name":"Finish Line Auto Detail",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

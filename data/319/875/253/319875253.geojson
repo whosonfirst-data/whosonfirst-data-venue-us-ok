@@ -2,9 +2,14 @@
   "id": 319875253,
   "type": "Feature",
   "properties": {
+    "addr:full":"4432 NW 47th St Oklahoma City OK 73112",
+    "addr:housenumber":"4432",
+    "addr:postcode":"73112",
+    "addr:street":"Nw 47Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.598602,35.519041,-97.598602,35.519041",
     "geom:latitude":35.519041,
     "geom:longitude":-97.598602,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a73d2a2d3910630974f1c276b59093a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":319875253,
-    "wof:lastmodified":1466763389,
+    "wof:lastmodified":1491910138,
     "wof:name":"M E 31 Consulting Engineers",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

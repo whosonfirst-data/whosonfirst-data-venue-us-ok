@@ -2,9 +2,14 @@
   "id": 287181587,
   "type": "Feature",
   "properties": {
+    "addr:full":"1433 E Red River Rd Mustang OK 73064",
+    "addr:housenumber":"1433",
+    "addr:postcode":"73064",
+    "addr:street":"E Red River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.695065,35.402713,-97.695065,35.402713",
     "geom:latitude":35.402713,
     "geom:longitude":-97.695065,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d88546653ce1a288d8b4258159b5e42c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":287181587,
-    "wof:lastmodified":1466763868,
+    "wof:lastmodified":1491911993,
     "wof:name":"Mc Gee Investments",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

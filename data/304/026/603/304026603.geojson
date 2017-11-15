@@ -2,9 +2,14 @@
   "id": 304026603,
   "type": "Feature",
   "properties": {
+    "addr:full":"14750 NW 36th St Yukon OK 73099",
+    "addr:housenumber":"14750",
+    "addr:postcode":"73099",
+    "addr:street":"Nw 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.798157,35.507807,-97.798157,35.507807",
     "geom:latitude":35.507807,
     "geom:longitude":-97.798157,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"465725c9c3c0ff8de4dcc36ce5eda13e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":304026603,
-    "wof:lastmodified":1466762960,
+    "wof:lastmodified":1491911872,
     "wof:name":"Jamac Properties",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

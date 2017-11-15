@@ -2,9 +2,14 @@
   "id": 304023417,
   "type": "Feature",
   "properties": {
+    "addr:full":"3024 Paseo St Oklahoma City OK 73103",
+    "addr:housenumber":"3024",
+    "addr:postcode":"73103",
+    "addr:street":"Paseo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.523137,35.500239,-97.523137,35.500239",
     "geom:latitude":35.500239,
     "geom:longitude":-97.523137,
@@ -35,11 +40,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
-        85871677,
-        85871703
+        85871703,
+        85871677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,28 +55,28 @@
     "wof:geomhash":"eb6bcad52eda6f80b75fb02a10f55017",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082577,
-            "locality_id":101714461,
-            "neighbourhood_id":85871677,
-            "region_id":85688585,
-            "venue_id":304023417
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
             "neighbourhood_id":85871703,
             "region_id":85688585,
             "venue_id":304023417
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871677,
+            "region_id":85688585,
+            "venue_id":304023417
         }
     ],
     "wof:id":304023417,
-    "wof:lastmodified":1466762936,
+    "wof:lastmodified":1491921294,
     "wof:name":"Rainbow Fleet Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

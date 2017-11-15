@@ -2,9 +2,14 @@
   "id": 353822971,
   "type": "Feature",
   "properties": {
+    "addr:full":"1106 State Hwy 152 Mustang OK 73064",
+    "addr:housenumber":"1106",
+    "addr:postcode":"73064",
+    "addr:street":"State Hwy 152",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.747366,35.391647,-97.747366,35.391647",
     "geom:latitude":35.391647,
     "geom:longitude":-97.747366,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"029946ee5ec3de03db43ce9164a2197d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353822971,
-    "wof:lastmodified":1466765516,
+    "wof:lastmodified":1491911995,
     "wof:name":"Vital Systems Of Oklahoma Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

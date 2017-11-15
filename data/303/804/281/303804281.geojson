@@ -2,9 +2,14 @@
   "id": 303804281,
   "type": "Feature",
   "properties": {
+    "addr:full":"4541 SE 29th St Oklahoma City OK 73115",
+    "addr:housenumber":"4541",
+    "addr:postcode":"73115",
+    "addr:street":"Se 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.43588,35.435313,-97.43588,35.435313",
     "geom:latitude":35.435313,
     "geom:longitude":-97.43588,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"7d7577bbbadeed236e0dcf0f6c9da7e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303804281,
-    "wof:lastmodified":1466766728,
+    "wof:lastmodified":1491909257,
     "wof:name":"Kim's Watch & Jewelry Repair",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

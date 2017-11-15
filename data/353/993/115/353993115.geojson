@@ -2,9 +2,14 @@
   "id": 353993115,
   "type": "Feature",
   "properties": {
+    "addr:full":"9535 N Robinson Ave Oklahoma City OK 73114",
+    "addr:housenumber":"9535",
+    "addr:postcode":"73114",
+    "addr:street":"N Robinson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.515848,35.567265,-97.515848,35.567265",
     "geom:latitude":35.567265,
     "geom:longitude":-97.515848,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"1f4d87c112ba7b6d841024444d8c020e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353993115,
-    "wof:lastmodified":1466765871,
+    "wof:lastmodified":1491933086,
     "wof:name":"Oklahoma Air Conditioning Inc",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

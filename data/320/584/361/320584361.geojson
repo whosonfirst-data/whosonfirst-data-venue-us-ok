@@ -2,9 +2,14 @@
   "id": 320584361,
   "type": "Feature",
   "properties": {
+    "addr:full":"9124 W Reno Ave Oklahoma City OK 73099",
+    "addr:housenumber":"9124",
+    "addr:postcode":"73099",
+    "addr:street":"W Reno Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.671319,35.464383,-97.671319,35.464383",
     "geom:latitude":35.464383,
     "geom:longitude":-97.671319,
@@ -32,9 +37,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714461,
-        102082577
+        101714457,
+        102082577,
+        85805913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,19 @@
     "wof:geomhash":"44a4747f0dac07a999996b84b613629a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
-            "locality_id":101714461,
-            "neighbourhood_id":-1,
+            "locality_id":101714457,
+            "neighbourhood_id":85805913,
             "region_id":85688585,
             "venue_id":320584361
         }
     ],
     "wof:id":320584361,
-    "wof:lastmodified":1466766260,
+    "wof:lastmodified":1491912019,
     "wof:name":"Overnite Transportation Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85805913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

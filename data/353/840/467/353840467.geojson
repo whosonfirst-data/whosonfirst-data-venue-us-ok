@@ -2,9 +2,14 @@
   "id": 353840467,
   "type": "Feature",
   "properties": {
+    "addr:full":"181 State Hwy 152 Minco OK 73064",
+    "addr:housenumber":"181",
+    "addr:postcode":"73064",
+    "addr:street":"State Hwy 152",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.721523,35.391748,-97.721523,35.391748",
     "geom:latitude":35.391748,
     "geom:longitude":-97.721523,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"612be2ad390623ac9e0cddd763a4332a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353840467,
-    "wof:lastmodified":1466765382,
+    "wof:lastmodified":1491911994,
     "wof:name":"Lyle Willey",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

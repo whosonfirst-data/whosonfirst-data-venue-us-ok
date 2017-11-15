@@ -2,9 +2,14 @@
   "id": 304052061,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 S McKinley Ave Oklahoma City OK 73108",
+    "addr:housenumber":"1801",
+    "addr:postcode":"73108",
+    "addr:street":"S Mckinley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.536839,35.446915,-97.536839,35.446915",
     "geom:latitude":35.446915,
     "geom:longitude":-97.536839,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
-        102082577
+        102082577,
+        85871707,
+        85871685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,28 @@
     "wof:geomhash":"99ad0f960a57bd1cce3e93384a5c2216",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871707,
+            "region_id":85688585,
+            "venue_id":304052061
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871685,
             "region_id":85688585,
             "venue_id":304052061
         }
     ],
     "wof:id":304052061,
-    "wof:lastmodified":1466764194,
+    "wof:lastmodified":1491904582,
     "wof:name":"Bobs RE",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

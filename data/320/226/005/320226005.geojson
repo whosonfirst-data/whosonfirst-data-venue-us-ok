@@ -2,9 +2,14 @@
   "id": 320226005,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 S Bickford Ave El Reno OK 73036",
+    "addr:housenumber":"101",
+    "addr:postcode":"73036",
+    "addr:street":"S Bickford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.953794,35.533184,-97.953794,35.533184",
     "geom:latitude":35.533184,
     "geom:longitude":-97.953794,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"16633d9351d51acdeb196765b6041479",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320226005,
-    "wof:lastmodified":1466764627,
+    "wof:lastmodified":1491911984,
     "wof:name":"My Sister's Closet",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

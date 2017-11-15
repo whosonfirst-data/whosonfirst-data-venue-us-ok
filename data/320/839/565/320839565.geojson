@@ -2,9 +2,14 @@
   "id": 320839565,
   "type": "Feature",
   "properties": {
+    "addr:full":"7300 S Richland Rd Mustang OK 73064",
+    "addr:housenumber":"7300",
+    "addr:postcode":"73064",
+    "addr:street":"S Richland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.79538,35.37715,-97.79538,35.37715",
     "geom:latitude":35.37715,
     "geom:longitude":-97.79538,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"bfbbbc19dbd9f8b7c06cca83d16557ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":320839565,
-    "wof:lastmodified":1466766945,
+    "wof:lastmodified":1491912046,
     "wof:name":"Hicks Heating AC & Refrig",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303123623,
   "type": "Feature",
   "properties": {
+    "addr:full":"8317 S Western Ave Oklahoma City OK 73139",
+    "addr:housenumber":"8317",
+    "addr:postcode":"73139",
+    "addr:street":"S Western Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.530199,35.382899,-97.530199,35.382899",
     "geom:latitude":35.382899,
     "geom:longitude":-97.530199,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"9aa5a67cef1d58f166839c1333fc11df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303123623,
-    "wof:lastmodified":1466763616,
+    "wof:lastmodified":1491909389,
     "wof:name":"H Dale Rogers DDS",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

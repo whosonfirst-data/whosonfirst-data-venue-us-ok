@@ -2,9 +2,14 @@
   "id": 303246195,
   "type": "Feature",
   "properties": {
+    "addr:full":"5725 N Central Rd Bethany OK 73008",
+    "addr:housenumber":"5725",
+    "addr:postcode":"73008",
+    "addr:street":"N Central Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.630057,35.527168,-97.630057,35.527168",
     "geom:latitude":35.527168,
     "geom:longitude":-97.630057,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"8af635c5bed9b212ff1395a5f7b728e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303246195,
-    "wof:lastmodified":1466764689,
+    "wof:lastmodified":1491910217,
     "wof:name":"Skates 2U Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

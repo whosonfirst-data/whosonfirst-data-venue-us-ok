@@ -2,9 +2,14 @@
   "id": 320811881,
   "type": "Feature",
   "properties": {
+    "addr:full":"6413 S Dewey Ave Oklahoma City OK 73139",
+    "addr:housenumber":"6413",
+    "addr:postcode":"73139",
+    "addr:street":"S Dewey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.523956,35.401541,-97.523956,35.401541",
     "geom:latitude":35.401541,
     "geom:longitude":-97.523956,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"71ccd90cd66dadf9d8a3bcdfa2429dec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320811881,
-    "wof:lastmodified":1466766874,
+    "wof:lastmodified":1491909320,
     "wof:name":"Penwell Contracting",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

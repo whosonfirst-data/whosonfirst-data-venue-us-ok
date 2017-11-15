@@ -2,9 +2,14 @@
   "id": 353765363,
   "type": "Feature",
   "properties": {
+    "addr:full":"1054 Crossroads Mall Dr Oklahoma City OK 73149",
+    "addr:housenumber":"1054",
+    "addr:postcode":"73149",
+    "addr:street":"Crossroads Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.490742,35.397729,-97.490742,35.397729",
     "geom:latitude":35.397729,
     "geom:longitude":-97.490742,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"acd56ed628ba5b43cc0e54ef4bcb508a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353765363,
-    "wof:lastmodified":1466765180,
+    "wof:lastmodified":1491909331,
     "wof:name":"Susan's Hallmark Shop",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

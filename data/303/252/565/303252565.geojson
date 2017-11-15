@@ -2,9 +2,14 @@
   "id": 303252565,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 N Broadway Ave Oklahoma City OK 73103",
+    "addr:housenumber":"1701",
+    "addr:postcode":"73103",
+    "addr:street":"N Broadway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.513836,35.486996,-97.513836,35.486996",
     "geom:latitude":35.486996,
     "geom:longitude":-97.513836,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
-        102082577
+        102082577,
+        85871695,
+        85871693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,28 @@
     "wof:geomhash":"d22cfa4863f41a722bce91c71a2ec689",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871695,
+            "region_id":85688585,
+            "venue_id":303252565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871693,
             "region_id":85688585,
             "venue_id":303252565
         }
     ],
     "wof:id":303252565,
-    "wof:lastmodified":1466764635,
+    "wof:lastmodified":1491927394,
     "wof:name":"Tech-Lock",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

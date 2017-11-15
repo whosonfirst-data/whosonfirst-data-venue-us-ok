@@ -2,9 +2,14 @@
   "id": 354037121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1221 S Holly Ave Yukon OK 73099",
+    "addr:housenumber":"1221",
+    "addr:postcode":"73099",
+    "addr:street":"S Holly Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.751343,35.494837,-97.751343,35.494837",
     "geom:latitude":35.494837,
     "geom:longitude":-97.751343,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"204f353b1321bbd54ac24c1a38a808c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":354037121,
-    "wof:lastmodified":1466763188,
+    "wof:lastmodified":1491911873,
     "wof:name":"Stockton Joe D",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320449229,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 Fort Reno Dr El Reno OK 73036",
+    "addr:housenumber":"121",
+    "addr:postcode":"73036",
+    "addr:street":"Fort Reno Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.925976,35.509923,-97.925976,35.509923",
     "geom:latitude":35.509923,
     "geom:longitude":-97.925976,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"e12c95f8efe5df8c9a85309589ced9e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320449229,
-    "wof:lastmodified":1466765941,
+    "wof:lastmodified":1491911979,
     "wof:name":"TNT Television Svc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

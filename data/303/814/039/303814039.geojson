@@ -2,9 +2,14 @@
   "id": 303814039,
   "type": "Feature",
   "properties": {
+    "addr:full":"7715 S Hiwassee Rd Oklahoma City OK 73150",
+    "addr:housenumber":"7715",
+    "addr:postcode":"73150",
+    "addr:street":"S Hiwassee Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.300228,35.387473,-97.300228,35.387473",
     "geom:latitude":35.387473,
     "geom:longitude":-97.300228,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -40,7 +46,7 @@
     "wof:geomhash":"790b3889b9cdab7cbe668a5367550bfe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":303814039,
-    "wof:lastmodified":1466766740,
+    "wof:lastmodified":1491909253,
     "wof:name":"Crestview Baptist Church",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

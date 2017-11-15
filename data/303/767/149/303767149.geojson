@@ -2,9 +2,14 @@
   "id": 303767149,
   "type": "Feature",
   "properties": {
+    "addr:full":"8413 Woodbend Dr Oklahoma City OK 73135",
+    "addr:housenumber":"",
+    "addr:postcode":"8413;73135",
+    "addr:street":"Woodbend Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.431985,35.381264,-97.431985,35.381264",
     "geom:latitude":35.381264,
     "geom:longitude":-97.431985,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"e5587d585db6a4f838e25dff9b7e0b13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303767149,
-    "wof:lastmodified":1466766653,
+    "wof:lastmodified":1491909347,
     "wof:name":"Gentry Gifts",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

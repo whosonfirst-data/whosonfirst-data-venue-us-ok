@@ -2,9 +2,14 @@
   "id": 336767777,
   "type": "Feature",
   "properties": {
+    "addr:full":"3216 Coxwald Pl Yukon OK 73099",
+    "addr:housenumber":"3216",
+    "addr:postcode":"73099",
+    "addr:street":"Coxwald Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.708341,35.503433,-97.708341,35.503433",
     "geom:latitude":35.503433,
     "geom:longitude":-97.708341,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"b8c88d19f67b90460e56e86bab91f0c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336767777,
-    "wof:lastmodified":1466764487,
+    "wof:lastmodified":1491911976,
     "wof:name":"Jennifer L Priddy",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

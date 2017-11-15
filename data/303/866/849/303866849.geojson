@@ -2,9 +2,14 @@
   "id": 303866849,
   "type": "Feature",
   "properties": {
+    "addr:full":"3965 E I- 240 Svc Rd Oklahoma City OK 73135",
+    "addr:housenumber":"3965;240",
+    "addr:postcode":"73135",
+    "addr:street":"E I;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.446423,35.391852,-97.446423,35.391852",
     "geom:latitude":35.391852,
     "geom:longitude":-97.446423,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"ac1e327204109e68701c8c941dd4b674",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303866849,
-    "wof:lastmodified":1466766973,
+    "wof:lastmodified":1491909333,
     "wof:name":"Kansas Oklahoma Machine Tools",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

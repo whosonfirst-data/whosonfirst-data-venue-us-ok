@@ -2,9 +2,14 @@
   "id": 303596687,
   "type": "Feature",
   "properties": {
+    "addr:full":"12650 Scott Ln Mustang OK 73064",
+    "addr:housenumber":"12650",
+    "addr:postcode":"73064",
+    "addr:street":"Scott Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.75431,35.339531,-97.75431,35.339531",
     "geom:latitude":35.339531,
     "geom:longitude":-97.75431,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"e25491bbb6c92c6dc44936f2fc88df46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303596687,
-    "wof:lastmodified":1466766174,
+    "wof:lastmodified":1491911948,
     "wof:name":"Response Intl Group LLC",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

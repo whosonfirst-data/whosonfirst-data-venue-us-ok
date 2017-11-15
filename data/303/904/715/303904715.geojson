@@ -2,9 +2,14 @@
   "id": 303904715,
   "type": "Feature",
   "properties": {
+    "addr:full":"8500 E 2nd St Edmond OK 73034",
+    "addr:housenumber":"8500",
+    "addr:postcode":"73034",
+    "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.367277,35.652625,-97.367277,35.652625",
     "geom:latitude":35.652625,
     "geom:longitude":-97.367277,
@@ -29,8 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714451,
         102082577
     ],
     "wof:breaches":[],
@@ -38,20 +43,20 @@
         "sg:id":"SG_6JXUHUy95QS9AbKdZvhIxY_35.652625_-97.367277@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d27e0d17ea3b5ef68f05174b2bb9bd9",
+    "wof:geomhash":"7d69e372e6ea1a039306e4412b4a33bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
-            "locality_id":101714451,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688585,
             "venue_id":303904715
         }
     ],
     "wof:id":303904715,
-    "wof:lastmodified":1466766971,
+    "wof:lastmodified":1494529574,
     "wof:name":"US Army Corps Of Engineers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

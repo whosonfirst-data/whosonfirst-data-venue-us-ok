@@ -2,9 +2,14 @@
   "id": 353748703,
   "type": "Feature",
   "properties": {
+    "addr:full":"3509 N Tulsa Ave Oklahoma City OK 73112",
+    "addr:housenumber":"3509",
+    "addr:postcode":"73112",
+    "addr:street":"N Tulsa Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.592522,35.507827,-97.592522,35.507827",
     "geom:latitude":35.507827,
     "geom:longitude":-97.592522,
@@ -29,12 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714461,
-        102082577,
-        85871679,
         101714421,
-        85854531
+        102082577,
+        85854531,
+        101714461,
+        85871679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +50,28 @@
     "wof:geomhash":"b545389a4236b071fb4b8af603f94d1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082577,
-            "locality_id":101714461,
-            "neighbourhood_id":85871679,
-            "region_id":85688585,
-            "venue_id":353748703
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
             "neighbourhood_id":85854531,
             "region_id":85688585,
             "venue_id":353748703
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871679,
+            "region_id":85688585,
+            "venue_id":353748703
         }
     ],
     "wof:id":353748703,
-    "wof:lastmodified":1466765092,
+    "wof:lastmodified":1491910163,
     "wof:name":"Fred Albert Advertising",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

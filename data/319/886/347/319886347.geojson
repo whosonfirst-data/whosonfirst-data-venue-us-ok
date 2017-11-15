@@ -2,9 +2,14 @@
   "id": 319886347,
   "type": "Feature",
   "properties": {
+    "addr:full":"7600 S Shields Blvd Oklahoma City OK 73149",
+    "addr:housenumber":"7600",
+    "addr:postcode":"73149",
+    "addr:street":"S Shields Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.505377,35.3888,-97.505377,35.3888",
     "geom:latitude":35.3888,
     "geom:longitude":-97.505377,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -46,7 +52,7 @@
     "wof:geomhash":"a1175e8e85a8af38798d35c9b8ec6084",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":319886347,
-    "wof:lastmodified":1466763447,
+    "wof:lastmodified":1491909398,
     "wof:name":"Keystone Tape & Label Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

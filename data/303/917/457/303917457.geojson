@@ -2,9 +2,14 @@
   "id": 303917457,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 SW 77th Ter Oklahoma City OK 73159",
+    "addr:housenumber":"1401",
+    "addr:postcode":"73159",
+    "addr:street":"Sw 77Th Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.541678,35.389403,-97.541678,35.389403",
     "geom:latitude":35.389403,
     "geom:longitude":-97.541678,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"7bdb005892869483188c8c49e14b5cb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303917457,
-    "wof:lastmodified":1466766929,
+    "wof:lastmodified":1491909274,
     "wof:name":"Worldwidepartynet",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

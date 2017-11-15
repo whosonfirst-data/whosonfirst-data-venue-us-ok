@@ -2,9 +2,14 @@
   "id": 320846325,
   "type": "Feature",
   "properties": {
+    "addr:full":"8901 S Sooner Rd Oklahoma City OK 73135",
+    "addr:housenumber":"8901",
+    "addr:postcode":"73135",
+    "addr:street":"S Sooner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.423566,35.377316,-97.423566,35.377316",
     "geom:latitude":35.377316,
     "geom:longitude":-97.423566,
@@ -32,9 +37,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
+        101714731,
+        102083969,
+        85811459,
         101714461,
-        102082577
+        102082577,
+        85819711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +54,28 @@
     "wof:geomhash":"ee49a0be02639992daf781db70d5007d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083969,
+            "locality_id":101714731,
+            "neighbourhood_id":85811459,
+            "region_id":85688585,
+            "venue_id":320846325
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85819711,
             "region_id":85688585,
             "venue_id":320846325
         }
     ],
     "wof:id":320846325,
-    "wof:lastmodified":1466766835,
+    "wof:lastmodified":1491909373,
     "wof:name":"J & J Express Lube Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

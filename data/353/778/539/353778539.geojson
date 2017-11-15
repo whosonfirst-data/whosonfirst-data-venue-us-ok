@@ -2,9 +2,14 @@
   "id": 353778539,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 N Rockwell Ave Bethany OK 73008",
+    "addr:housenumber":"5100",
+    "addr:postcode":"73008",
+    "addr:street":"N Rockwell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.636687,35.525335,-97.636687,35.525335",
     "geom:latitude":35.525335,
     "geom:longitude":-97.636687,
@@ -32,9 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714421,
+        101714461,
         102082577,
+        85871705,
+        101714421,
         85854531
     ],
     "wof:brand_id":420574063,
@@ -46,7 +54,16 @@
     "wof:geomhash":"397ae1ca5e588fa74478f396058ccf74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871705,
+            "region_id":85688585,
+            "venue_id":353778539
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -56,9 +73,9 @@
         }
     ],
     "wof:id":353778539,
-    "wof:lastmodified":1466765226,
+    "wof:lastmodified":1491910192,
     "wof:name":"Texaco",
-    "wof:parent_id":85854531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

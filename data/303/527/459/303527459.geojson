@@ -2,9 +2,14 @@
   "id": 303527459,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 W Britton Rd Oklahoma City OK 73114",
+    "addr:housenumber":"1300",
+    "addr:postcode":"73114",
+    "addr:street":"W Britton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.537285,35.565566,-97.537285,35.565566",
     "geom:latitude":35.565566,
     "geom:longitude":-97.537285,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"b26e314ad28d3ff38f6b366f4b5ae622",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303527459,
-    "wof:lastmodified":1466765956,
+    "wof:lastmodified":1491933078,
     "wof:name":"Bonnyland Learning Institute",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320333449,
   "type": "Feature",
   "properties": {
+    "addr:full":"1505 S Rock Island Ave El Reno OK 73036",
+    "addr:housenumber":"1505",
+    "addr:postcode":"73036",
+    "addr:street":"S Rock Island Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.950738,35.518887,-97.950738,35.518887",
     "geom:latitude":35.518887,
     "geom:longitude":-97.950738,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"f287a4e13bea2cf6bb2391fe1f3ca98b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320333449,
-    "wof:lastmodified":1466765374,
+    "wof:lastmodified":1491912079,
     "wof:name":"IESI El Reno",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

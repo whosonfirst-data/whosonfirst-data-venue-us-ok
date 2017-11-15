@@ -2,9 +2,14 @@
   "id": 337491865,
   "type": "Feature",
   "properties": {
+    "addr:full":"530 SE 55th St Oklahoma City OK 73129",
+    "addr:housenumber":"",
+    "addr:postcode":"530;73129",
+    "addr:street":"Se 55Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.499832,35.409804,-97.499832,35.409804",
     "geom:latitude":35.409804,
     "geom:longitude":-97.499832,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"bf20e5ddec343907d2aec309c4cd8825",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":337491865,
-    "wof:lastmodified":1466762605,
+    "wof:lastmodified":1491909352,
     "wof:name":"MPS Real Estate",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

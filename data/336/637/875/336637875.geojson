@@ -2,14 +2,20 @@
   "id": 336637875,
   "type": "Feature",
   "properties": {
+    "addr:full":"2068 Crossroads Mall Dr Oklahoma City OK 73149",
+    "addr:housenumber":"2068",
+    "addr:postcode":"73149",
+    "addr:street":"Crossroads Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.487377,35.395962,-97.487377,35.395962",
     "geom:latitude":35.395962,
     "geom:longitude":-97.487377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2068 Crossroads Mall Dr",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -29,20 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
         85819711
     ],
+    "wof:brand_id":1125151553,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QbiCDYOzfeZ8RspyItKmI_35.395962_-97.487377@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"4399dc6892e6c487cb7c281821eb493c",
+    "wof:geomhash":"a377a6453f920f82bd0d9447ca142ab7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":336637875,
-    "wof:lastmodified":1466762760,
+    "wof:lastmodified":1510699753,
     "wof:name":"Gordon's Jewelers",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

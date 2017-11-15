@@ -2,9 +2,14 @@
   "id": 304039043,
   "type": "Feature",
   "properties": {
+    "addr:full":"4312 Clendon Way Oklahoma City OK 73115",
+    "addr:housenumber":"",
+    "addr:postcode":"4312;73115",
+    "addr:street":"Clendon Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.448703,35.421457,-97.448703,35.421457",
     "geom:latitude":35.421457,
     "geom:longitude":-97.448703,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"a9da4dbe0f2dc44b4cddba69376e103a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":304039043,
-    "wof:lastmodified":1466763033,
+    "wof:lastmodified":1491909329,
     "wof:name":"Pezdirtz Realty",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

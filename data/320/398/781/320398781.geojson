@@ -2,9 +2,14 @@
   "id": 320398781,
   "type": "Feature",
   "properties": {
+    "addr:full":"3615 E I- 240 Svc Rd Oklahoma City OK 73135",
+    "addr:housenumber":"3615;240",
+    "addr:postcode":"73135",
+    "addr:street":"E I;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.457765,35.392527,-97.457765,35.392527",
     "geom:latitude":35.392527,
     "geom:longitude":-97.457765,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"6ce60478b51a7d636b912d125ca85cdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320398781,
-    "wof:lastmodified":1466765715,
+    "wof:lastmodified":1491909314,
     "wof:name":"Supplee 4WD Enterprises",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

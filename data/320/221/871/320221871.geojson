@@ -2,9 +2,14 @@
   "id": 320221871,
   "type": "Feature",
   "properties": {
+    "addr:full":"4712 NW 62nd Ter Oklahoma City OK 73122",
+    "addr:housenumber":"4712",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 62Nd Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.607567,35.535008,-97.607567,35.535008",
     "geom:latitude":35.535008,
     "geom:longitude":-97.607567,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"92a333b39f30a6201ea5303f7f79e691",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320221871,
-    "wof:lastmodified":1466764620,
+    "wof:lastmodified":1491910134,
     "wof:name":"Master Merchandisers",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

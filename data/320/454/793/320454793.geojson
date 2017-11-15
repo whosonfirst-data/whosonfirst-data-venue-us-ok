@@ -2,9 +2,14 @@
   "id": 320454793,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 NW 23rd St Oklahoma City OK 73103",
+    "addr:housenumber":"119",
+    "addr:postcode":"73103",
+    "addr:street":"Nw 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.515109,35.493288,-97.515109,35.493288",
     "geom:latitude":35.493288,
     "geom:longitude":-97.515109,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
-        85871695,
-        85871677
+        85871677,
+        85871695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +49,28 @@
     "wof:geomhash":"432eca04912748f8e87204d014d172c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082577,
-            "locality_id":101714461,
-            "neighbourhood_id":85871695,
-            "region_id":85688585,
-            "venue_id":320454793
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
             "neighbourhood_id":85871677,
             "region_id":85688585,
             "venue_id":320454793
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871695,
+            "region_id":85688585,
+            "venue_id":320454793
         }
     ],
     "wof:id":320454793,
-    "wof:lastmodified":1466765961,
+    "wof:lastmodified":1491921284,
     "wof:name":"Atlas Loans",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

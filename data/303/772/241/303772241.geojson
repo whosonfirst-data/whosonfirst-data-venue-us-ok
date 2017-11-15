@@ -2,9 +2,14 @@
   "id": 303772241,
   "type": "Feature",
   "properties": {
+    "addr:full":"313 W Twisted Branch Way Mustang OK 73064",
+    "addr:housenumber":"313",
+    "addr:postcode":"73064",
+    "addr:street":"W Twisted Branch Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.731117,35.398693,-97.731117,35.398693",
     "geom:latitude":35.398693,
     "geom:longitude":-97.731117,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"e51ca5cbe708a3e3f7900e5ad5951c2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303772241,
-    "wof:lastmodified":1466766662,
+    "wof:lastmodified":1491912012,
     "wof:name":"Snow White Laundry Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303950881,
   "type": "Feature",
   "properties": {
+    "addr:full":"806 Cedar Ave Yukon OK 73099",
+    "addr:housenumber":"806",
+    "addr:postcode":"73099",
+    "addr:street":"Cedar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.756922,35.508885,-97.756922,35.508885",
     "geom:latitude":35.508885,
     "geom:longitude":-97.756922,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"8ffe0d8ca3993a37fda8e39e7aea7a40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303950881,
-    "wof:lastmodified":1466767045,
+    "wof:lastmodified":1491911890,
     "wof:name":"Integrated Circuits",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

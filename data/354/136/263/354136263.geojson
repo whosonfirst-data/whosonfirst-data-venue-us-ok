@@ -2,9 +2,14 @@
   "id": 354136263,
   "type": "Feature",
   "properties": {
+    "addr:full":"2030 E Canadian Court Ter Mustang OK 73064",
+    "addr:housenumber":"2030",
+    "addr:postcode":"73064",
+    "addr:street":"E Canadian Court Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.681558,35.393098,-97.681558,35.393098",
     "geom:latitude":35.393098,
     "geom:longitude":-97.681558,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"9c33b0360e8b1147494fc545e907c029",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":354136263,
-    "wof:lastmodified":1466763641,
+    "wof:lastmodified":1491912052,
     "wof:name":"TLC Air Conditioning & Heat",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303261499,
   "type": "Feature",
   "properties": {
+    "addr:full":"808 N Centennial Way Mustang OK 73064",
+    "addr:housenumber":"808",
+    "addr:postcode":"73064",
+    "addr:street":"N Centennial Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.755924,35.39662,-97.755924,35.39662",
     "geom:latitude":35.39662,
     "geom:longitude":-97.755924,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"65c5e229e185c5b06cecbc09c9247bf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303261499,
-    "wof:lastmodified":1466764768,
+    "wof:lastmodified":1491912042,
     "wof:name":"Kimberly Claxton Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303795633,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 E Trade Center Ter Mustang OK 73064",
+    "addr:housenumber":"127",
+    "addr:postcode":"73064",
+    "addr:street":"E;Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.722657,35.39379,-97.722657,35.39379",
     "geom:latitude":35.39379,
     "geom:longitude":-97.722657,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"e7e12f6b6275634855898b4b242602b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303795633,
-    "wof:lastmodified":1466766718,
+    "wof:lastmodified":1491911944,
     "wof:name":"Tate Publishing & Entps LLC",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

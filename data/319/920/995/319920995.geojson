@@ -2,9 +2,14 @@
   "id": 319920995,
   "type": "Feature",
   "properties": {
+    "addr:full":"10309 Paisley Rd Yukon OK 73099",
+    "addr:housenumber":"10309",
+    "addr:postcode":"73099",
+    "addr:street":"Paisley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.702769,35.447538,-97.702769,35.447538",
     "geom:latitude":35.447538,
     "geom:longitude":-97.702769,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"1169d22d4c4ebb0fa3bb2a6b4dce80cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":319920995,
-    "wof:lastmodified":1466763837,
+    "wof:lastmodified":1491911886,
     "wof:name":"Grays Tackle and Archery Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353666703,
   "type": "Feature",
   "properties": {
+    "addr:full":"1429 NW 92nd St Oklahoma City OK 73114",
+    "addr:housenumber":"1429",
+    "addr:postcode":"73114",
+    "addr:street":"Nw 92Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.537289,35.564569,-97.537289,35.564569",
     "geom:latitude":35.564569,
     "geom:longitude":-97.537289,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"a01c3e105b99c56ce1f8dbcbfb84393d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353666703,
-    "wof:lastmodified":1466764625,
+    "wof:lastmodified":1491933099,
     "wof:name":"Plf Trucking Inc",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

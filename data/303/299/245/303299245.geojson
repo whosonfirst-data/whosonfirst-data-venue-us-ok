@@ -2,9 +2,14 @@
   "id": 303299245,
   "type": "Feature",
   "properties": {
+    "addr:full":"15035 W Wilshire Blvd Yukon OK 73099",
+    "addr:housenumber":"15035",
+    "addr:postcode":"73099",
+    "addr:street":"W Wilshire Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.808441,35.551193,-97.808441,35.551193",
     "geom:latitude":35.551193,
     "geom:longitude":-97.808441,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -47,7 +53,7 @@
     "wof:geomhash":"ac4d7245c67553c3927fec5c561293f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":303299245,
-    "wof:lastmodified":1466764937,
+    "wof:lastmodified":1491911995,
     "wof:name":"Rudy Ruzicka",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

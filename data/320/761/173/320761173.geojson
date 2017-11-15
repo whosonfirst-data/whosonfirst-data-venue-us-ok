@@ -2,9 +2,14 @@
   "id": 320761173,
   "type": "Feature",
   "properties": {
+    "addr:full":"4625 NW 39th St Oklahoma City OK 73122",
+    "addr:housenumber":"4625",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 39Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.604734,35.511286,-97.604734,35.511286",
     "geom:latitude":35.511286,
     "geom:longitude":-97.604734,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3d888a6f455789832db7a90da3dfc093",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320761173,
-    "wof:lastmodified":1466766691,
+    "wof:lastmodified":1491910216,
     "wof:name":"Oklahoma Pawn Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

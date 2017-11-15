@@ -2,9 +2,14 @@
   "id": 287303447,
   "type": "Feature",
   "properties": {
+    "addr:full":"1335 W Britton Rd Oklahoma City OK 73114",
+    "addr:housenumber":"1335",
+    "addr:postcode":"73114",
+    "addr:street":"W Britton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.537817,35.565643,-97.537817,35.565643",
     "geom:latitude":35.565643,
     "geom:longitude":-97.537817,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"984e080c3b263daa7a1ef56a7699ed1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":287303447,
-    "wof:lastmodified":1466763473,
+    "wof:lastmodified":1491933063,
     "wof:name":"Britton Road Jewelry Precious",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

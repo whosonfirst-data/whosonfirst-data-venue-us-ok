@@ -2,9 +2,14 @@
   "id": 353660007,
   "type": "Feature",
   "properties": {
+    "addr:full":"1125 W Hefner Rd Oklahoma City OK 73114",
+    "addr:housenumber":"1125",
+    "addr:postcode":"73114",
+    "addr:street":"W Hefner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.533595,35.580152,-97.533595,35.580152",
     "geom:latitude":35.580152,
     "geom:longitude":-97.533595,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"a34832189feb9cbc5e1159df133ad103",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353660007,
-    "wof:lastmodified":1466764582,
+    "wof:lastmodified":1491933092,
     "wof:name":"Autozone",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

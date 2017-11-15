@@ -2,9 +2,14 @@
   "id": 353798327,
   "type": "Feature",
   "properties": {
+    "addr:full":"8701 S Eastern Ave Oklahoma City OK 73149",
+    "addr:housenumber":"8701",
+    "addr:postcode":"73149",
+    "addr:street":"S Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.477061,35.381729,-97.477061,35.381729",
     "geom:latitude":35.381729,
     "geom:longitude":-97.477061,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"fc005c2262d929fcd0f8e010818ab661",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353798327,
-    "wof:lastmodified":1466765228,
+    "wof:lastmodified":1491909433,
     "wof:name":"Charles Fryar Co",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

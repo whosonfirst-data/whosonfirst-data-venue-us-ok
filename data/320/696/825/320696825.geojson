@@ -2,9 +2,14 @@
   "id": 320696825,
   "type": "Feature",
   "properties": {
+    "addr:full":"4900 NW 62nd Ter Oklahoma City OK 73122",
+    "addr:housenumber":"4900",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 62Nd Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.6106,35.534608,-97.6106,35.534608",
     "geom:latitude":35.534608,
     "geom:longitude":-97.6106,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"3b397ebdff609ed3eff9305f6c3e593d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320696825,
-    "wof:lastmodified":1466766544,
+    "wof:lastmodified":1491910146,
     "wof:name":"Oxford House Rollingwood",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

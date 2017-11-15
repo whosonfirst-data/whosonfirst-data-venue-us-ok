@@ -2,9 +2,14 @@
   "id": 353417685,
   "type": "Feature",
   "properties": {
+    "addr:full":"2023 W Cedar Ridge Dr Mustang OK 73064",
+    "addr:housenumber":"2023",
+    "addr:postcode":"73064",
+    "addr:street":"W Cedar Ridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.761752,35.383578,-97.761752,35.383578",
     "geom:latitude":35.383578,
     "geom:longitude":-97.761752,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"dcaea387b5d646a7969c3daebb1b67bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353417685,
-    "wof:lastmodified":1466762532,
+    "wof:lastmodified":1491911929,
     "wof:name":"Mike Hale Auto Sales Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

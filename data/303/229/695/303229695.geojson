@@ -2,9 +2,14 @@
   "id": 303229695,
   "type": "Feature",
   "properties": {
+    "addr:full":"4101 N Macarthur Blvd Warr Acres OK 73122",
+    "addr:housenumber":"4101",
+    "addr:postcode":"73122",
+    "addr:street":"N Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.618946,35.513754,-97.618946,35.513754",
     "geom:latitude":35.513754,
     "geom:longitude":-97.618946,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"8d11a23e16bf8743c45cc0ccf7091ad3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303229695,
-    "wof:lastmodified":1466764681,
+    "wof:lastmodified":1491910114,
     "wof:name":"Las Amigos",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

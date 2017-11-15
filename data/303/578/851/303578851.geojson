@@ -2,9 +2,14 @@
   "id": 303578851,
   "type": "Feature",
   "properties": {
+    "addr:full":"2225 SW 29th St Oklahoma City OK 73119",
+    "addr:housenumber":"2225",
+    "addr:postcode":"73119",
+    "addr:street":"Sw 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.551878,35.435262,-97.551878,35.435262",
     "geom:latitude":35.435262,
     "geom:longitude":-97.551878,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"69e06143bcf19ac25cd9d6b69f1b2f06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303578851,
-    "wof:lastmodified":1466766231,
+    "wof:lastmodified":1491904570,
     "wof:name":"A-OK Radiator World Inc",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",

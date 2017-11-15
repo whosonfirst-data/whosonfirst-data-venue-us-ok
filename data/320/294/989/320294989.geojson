@@ -2,9 +2,14 @@
   "id": 320294989,
   "type": "Feature",
   "properties": {
+    "addr:full":"9001 E 2nd St Arcadia OK 73007",
+    "addr:housenumber":"9001",
+    "addr:postcode":"73007",
+    "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.371625,35.652633,-97.371625,35.652633",
     "geom:latitude":35.652633,
     "geom:longitude":-97.371625,
@@ -31,8 +36,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714451,
         102082577
     ],
     "wof:breaches":[],
@@ -40,20 +45,20 @@
         "sg:id":"SG_7mjKIv7pF3F2KQ0jLgXWTt_35.652633_-97.371625@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"21eaa8f3407298c809e0050a2e1fe335",
+    "wof:geomhash":"e7288849f65713323fe48af035c5059b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
-            "locality_id":101714451,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688585,
             "venue_id":320294989
         }
     ],
     "wof:id":320294989,
-    "wof:lastmodified":1466765135,
+    "wof:lastmodified":1494529570,
     "wof:name":"Robin & Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320797451,
   "type": "Feature",
   "properties": {
+    "addr:full":"7711 E Covell Rd Edmond OK 73034",
+    "addr:housenumber":"7711",
+    "addr:postcode":"73034",
+    "addr:street":"E Covell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.388747,35.681948,-97.388747,35.681948",
     "geom:latitude":35.681948,
     "geom:longitude":-97.388747,
@@ -30,8 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714451,
         102082577
     ],
     "wof:breaches":[],
@@ -39,20 +44,20 @@
         "sg:id":"SG_7FEk69Ygcdh6bLhjdQV6IY_35.681948_-97.388747@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"60c7a4b04435108b3d36ed1b3b3cff74",
+    "wof:geomhash":"cbdaca2c25274f0548300364fc8824d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
-            "locality_id":101714451,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688585,
             "venue_id":320797451
         }
     ],
     "wof:id":320797451,
-    "wof:lastmodified":1466766831,
+    "wof:lastmodified":1494529572,
     "wof:name":"C & J Rebuilders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

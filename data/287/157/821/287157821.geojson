@@ -2,9 +2,14 @@
   "id": 287157821,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 W Armstrong Dr Mustang OK 73064",
+    "addr:housenumber":"18",
+    "addr:postcode":"73064",
+    "addr:street":"W Armstrong Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.731545,35.391015,-97.731545,35.391015",
     "geom:latitude":35.391015,
     "geom:longitude":-97.731545,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"cf2dd880974c7a8b56df9dc558d22feb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":287157821,
-    "wof:lastmodified":1466763706,
+    "wof:lastmodified":1491912013,
     "wof:name":"Pet Lovers Pet Shop",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

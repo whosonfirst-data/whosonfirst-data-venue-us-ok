@@ -2,9 +2,14 @@
   "id": 303851037,
   "type": "Feature",
   "properties": {
+    "addr:full":"3011 SE 44th St Oklahoma City OK 73135",
+    "addr:housenumber":"3011",
+    "addr:postcode":"73135",
+    "addr:street":"Se 44Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.457594,35.420879,-97.457594,35.420879",
     "geom:latitude":35.420879,
     "geom:longitude":-97.457594,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"e6ba59141351cfc9fdfaa7c81b8a5c0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303851037,
-    "wof:lastmodified":1466766848,
+    "wof:lastmodified":1491909247,
     "wof:name":"Talk Of The Town",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303482461,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 S Bickford Ave El Reno OK 73036",
+    "addr:housenumber":"205",
+    "addr:postcode":"73036",
+    "addr:street":"S Bickford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.95372,35.532233,-97.95372,35.532233",
     "geom:latitude":35.532233,
     "geom:longitude":-97.95372,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"e2df447e11561f9c2efaa023fa7f2814",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303482461,
-    "wof:lastmodified":1466765784,
+    "wof:lastmodified":1491912032,
     "wof:name":"Professional Accounting Svcs",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

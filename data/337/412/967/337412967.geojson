@@ -2,9 +2,14 @@
   "id": 337412967,
   "type": "Feature",
   "properties": {
+    "addr:full":"4210 NW 39th St Oklahoma City OK 73112",
+    "addr:housenumber":"4210",
+    "addr:postcode":"73112",
+    "addr:street":"Nw 39Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.595559,35.511133,-97.595559,35.511133",
     "geom:latitude":35.511133,
     "geom:longitude":-97.595559,
@@ -38,6 +43,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -51,7 +57,7 @@
     "wof:geomhash":"a8cf02d9bbe1198b20bc35281bfc267d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":337412967,
-    "wof:lastmodified":1466763996,
+    "wof:lastmodified":1491910164,
     "wof:name":"B & H Supply Co Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

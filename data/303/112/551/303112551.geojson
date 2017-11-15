@@ -2,9 +2,14 @@
   "id": 303112551,
   "type": "Feature",
   "properties": {
+    "addr:full":"4633 N Macarthur Blvd Warr Acres OK 73122",
+    "addr:housenumber":"4633",
+    "addr:postcode":"73122",
+    "addr:street":"N Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.619034,35.518547,-97.619034,35.518547",
     "geom:latitude":35.518547,
     "geom:longitude":-97.619034,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"21b204724b92bef42e8270f4d08156a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303112551,
-    "wof:lastmodified":1466763435,
+    "wof:lastmodified":1491910182,
     "wof:name":"Holy Trinity",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

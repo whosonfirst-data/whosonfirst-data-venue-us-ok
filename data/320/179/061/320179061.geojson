@@ -2,9 +2,14 @@
   "id": 320179061,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 S Bickford Ave El Reno OK 73036",
+    "addr:housenumber":"301",
+    "addr:postcode":"73036",
+    "addr:street":"S Bickford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.953797,35.531372,-97.953797,35.531372",
     "geom:latitude":35.531372,
     "geom:longitude":-97.953797,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"36f6011c0c01cb065f96829e3d76f7c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320179061,
-    "wof:lastmodified":1466764491,
+    "wof:lastmodified":1491911983,
     "wof:name":"Integrity Pump & Supply",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

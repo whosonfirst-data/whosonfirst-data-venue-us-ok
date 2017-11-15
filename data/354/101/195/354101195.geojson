@@ -2,9 +2,14 @@
   "id": 354101195,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 NE 14th St Oklahoma City OK 73104",
+    "addr:housenumber":"601",
+    "addr:postcode":"73104",
+    "addr:street":"Ne 14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.501108,35.483575,-97.501108,35.483575",
     "geom:latitude":35.483575,
     "geom:longitude":-97.501108,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"8c88a7f95ac93e042cae132a91eb630e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":354101195,
-    "wof:lastmodified":1466763508,
+    "wof:lastmodified":1491927395,
     "wof:name":"Faculty House",
     "wof:parent_id":85871693,
     "wof:placetype":"venue",

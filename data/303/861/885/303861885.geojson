@@ -2,9 +2,14 @@
   "id": 303861885,
   "type": "Feature",
   "properties": {
+    "addr:full":"6900 NW 39th Expy Bethany OK 73008",
+    "addr:housenumber":"6900",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 39Th Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.635161,35.512739,-97.635161,35.512739",
     "geom:latitude":35.512739,
     "geom:longitude":-97.635161,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -46,7 +52,7 @@
     "wof:geomhash":"0444c7706caa312e44cc8f139dfc1972",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":303861885,
-    "wof:lastmodified":1466766875,
+    "wof:lastmodified":1491910214,
     "wof:name":"Windgate",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

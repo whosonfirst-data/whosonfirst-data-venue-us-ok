@@ -2,9 +2,14 @@
   "id": 320622945,
   "type": "Feature",
   "properties": {
+    "addr:full":"4909 SE 58th St Oklahoma City OK 73135",
+    "addr:housenumber":"4909",
+    "addr:postcode":"73135",
+    "addr:street":"Se 58Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.43162,35.407683,-97.43162,35.407683",
     "geom:latitude":35.407683,
     "geom:longitude":-97.43162,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"2e93e7dbba9564f2d5cf1b5c3bcd6552",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320622945,
-    "wof:lastmodified":1466766337,
+    "wof:lastmodified":1491909248,
     "wof:name":"Flow Control Systems",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

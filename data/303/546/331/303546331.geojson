@@ -2,9 +2,14 @@
   "id": 303546331,
   "type": "Feature",
   "properties": {
+    "addr:full":"2624 SE 40th St Oklahoma City OK 73129",
+    "addr:housenumber":"2624",
+    "addr:postcode":"73129",
+    "addr:street":"Se 40Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.464981,35.424335,-97.464981,35.424335",
     "geom:latitude":35.424335,
     "geom:longitude":-97.464981,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"b4efef304c648a078cc561feb9a13b51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303546331,
-    "wof:lastmodified":1466765942,
+    "wof:lastmodified":1491909243,
     "wof:name":"AAA Storage",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

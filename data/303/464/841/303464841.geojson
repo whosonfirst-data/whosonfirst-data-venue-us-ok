@@ -2,9 +2,14 @@
   "id": 303464841,
   "type": "Feature",
   "properties": {
+    "addr:full":"1613 SE 66th St Oklahoma City OK 73149",
+    "addr:housenumber":"1613",
+    "addr:postcode":"73149",
+    "addr:street":"Se 66Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.485716,35.39882,-97.485716,35.39882",
     "geom:latitude":35.39882,
     "geom:longitude":-97.485716,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"9d51be85e35faffccd6df313c39a1101",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303464841,
-    "wof:lastmodified":1466765799,
+    "wof:lastmodified":1491909389,
     "wof:name":"Bottom Line Solutions",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

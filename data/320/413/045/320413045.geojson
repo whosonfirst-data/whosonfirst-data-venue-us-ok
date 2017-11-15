@@ -2,14 +2,20 @@
   "id": 320413045,
   "type": "Feature",
   "properties": {
+    "addr:full":"1093 S Cornwell Dr Yukon OK 73099",
+    "addr:housenumber":"1093",
+    "addr:postcode":"73099",
+    "addr:street":"S Cornwell Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.742463,35.496432,-97.742463,35.496432",
     "geom:latitude":35.496432,
     "geom:longitude":-97.742463,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1093 S Cornwell Dr",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -29,20 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
         85805913
     ],
+    "wof:brand_id":1125155949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wQCGugG5Ronpwnb3PaaK5_35.496432_-97.742463@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"8cf47c6d6f13a1805ccb00b1726eff2f",
+    "wof:geomhash":"457f15877eb7a634eced0ecfb2c82cd8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":320413045,
-    "wof:lastmodified":1466765870,
+    "wof:lastmodified":1510699784,
     "wof:name":"Mattress King",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 319954027,
   "type": "Feature",
   "properties": {
+    "addr:full":"443 SE 52nd St Oklahoma City OK 73129",
+    "addr:housenumber":"443",
+    "addr:postcode":"73129",
+    "addr:street":"Se 52Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.502258,35.412672,-97.502258,35.412672",
     "geom:latitude":35.412672,
     "geom:longitude":-97.502258,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a990202ab580dafbf780d690f271ac07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":319954027,
-    "wof:lastmodified":1466764040,
+    "wof:lastmodified":1491909249,
     "wof:name":"Clark Wholesale Fencing Co",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

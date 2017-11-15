@@ -2,9 +2,14 @@
   "id": 303863439,
   "type": "Feature",
   "properties": {
+    "addr:full":"8409 Gateway Ter Oklahoma City OK 73149",
+    "addr:housenumber":"8409",
+    "addr:postcode":"73149",
+    "addr:street":"Gateway Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.498333,35.380236,-97.498333,35.380236",
     "geom:latitude":35.380236,
     "geom:longitude":-97.498333,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"34a9de87f05e8daf48a7b84ea29299bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":303863439,
-    "wof:lastmodified":1466766880,
+    "wof:lastmodified":1491909372,
     "wof:name":"An Affair Of The Heart",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

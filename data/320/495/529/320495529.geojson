@@ -2,9 +2,14 @@
   "id": 320495529,
   "type": "Feature",
   "properties": {
+    "addr:full":"1619 N Orchard Ter Mustang OK 73064",
+    "addr:housenumber":"1619",
+    "addr:postcode":"73064",
+    "addr:street":"N Orchard Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.690275,35.404411,-97.690275,35.404411",
     "geom:latitude":35.404411,
     "geom:longitude":-97.690275,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"f0ae9003ef156dfc5352f326d192b038",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320495529,
-    "wof:lastmodified":1466766052,
+    "wof:lastmodified":1491911813,
     "wof:name":"Greg Best Ins Agency",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

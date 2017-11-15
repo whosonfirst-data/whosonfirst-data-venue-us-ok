@@ -2,9 +2,14 @@
   "id": 303868085,
   "type": "Feature",
   "properties": {
+    "addr:full":"6644 NW 39th Expy Bethany OK 73008",
+    "addr:housenumber":"6644",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 39Th Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.630207,35.511552,-97.630207,35.511552",
     "geom:latitude":35.511552,
     "geom:longitude":-97.630207,
@@ -38,6 +43,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -51,7 +57,7 @@
     "wof:geomhash":"a02e5dc805ea598616cc54f32ef21ed5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":303868085,
-    "wof:lastmodified":1466766971,
+    "wof:lastmodified":1491910184,
     "wof:name":"Global Logic Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

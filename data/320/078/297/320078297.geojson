@@ -2,9 +2,14 @@
   "id": 320078297,
   "type": "Feature",
   "properties": {
+    "addr:full":"2212 SW 28th St Oklahoma City OK 73108",
+    "addr:housenumber":"2212",
+    "addr:postcode":"73108",
+    "addr:street":"Sw 28Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.552182,35.436149,-97.552182,35.436149",
     "geom:latitude":35.436149,
     "geom:longitude":-97.552182,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"bd39f2d456cc2351aa0fdd69366e85ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320078297,
-    "wof:lastmodified":1466763453,
+    "wof:lastmodified":1491904582,
     "wof:name":"Olvedo Transports Inc",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",

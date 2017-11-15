@@ -2,9 +2,14 @@
   "id": 303337073,
   "type": "Feature",
   "properties": {
+    "addr:full":"7004 NW 63rd St Bethany OK 73008",
+    "addr:housenumber":"7004",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 63Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.641114,35.536947,-97.641114,35.536947",
     "geom:latitude":35.536947,
     "geom:longitude":-97.641114,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"53fbde0d58595837aafe834f3d6a1e34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -51,7 +57,7 @@
             "venue_id":303337073
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -61,9 +67,9 @@
         }
     ],
     "wof:id":303337073,
-    "wof:lastmodified":1466765221,
+    "wof:lastmodified":1491910190,
     "wof:name":"Primerica Financial Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

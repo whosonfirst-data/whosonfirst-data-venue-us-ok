@@ -2,9 +2,14 @@
   "id": 354013205,
   "type": "Feature",
   "properties": {
+    "addr:full":"5800 S Santa Fe Ave Oklahoma City OK 73109",
+    "addr:housenumber":"5800",
+    "addr:postcode":"73109",
+    "addr:street":"S Santa Fe Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.512514,35.406207,-97.512514,35.406207",
     "geom:latitude":35.406207,
     "geom:longitude":-97.512514,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"c0a56bbe1741ee28c0db2dacad609102",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":354013205,
-    "wof:lastmodified":1466763018,
+    "wof:lastmodified":1491909408,
     "wof:name":"April L Sandefer",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

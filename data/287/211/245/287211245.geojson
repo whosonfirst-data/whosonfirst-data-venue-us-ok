@@ -2,9 +2,14 @@
   "id": 287211245,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 W Britton Rd Oklahoma City OK 73114",
+    "addr:housenumber":"400",
+    "addr:postcode":"73114",
+    "addr:street":"W Britton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.52242,35.565564,-97.52242,35.565564",
     "geom:latitude":35.565564,
     "geom:longitude":-97.52242,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"f0bfaec9547f081892637650df54bf83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":287211245,
-    "wof:lastmodified":1466764059,
+    "wof:lastmodified":1491933063,
     "wof:name":"Dennis Bass Paint & Body Shop",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320722925,
   "type": "Feature",
   "properties": {
+    "addr:full":"6821 N Broadway Edmond OK 73034",
+    "addr:housenumber":"6821",
+    "addr:postcode":"73034",
+    "addr:street":"N Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.478438,35.725173,-97.478438,35.725173",
     "geom:latitude":35.725173,
     "geom:longitude":-97.478438,
@@ -29,8 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714451,
         102082577
     ],
     "wof:breaches":[],
@@ -38,20 +43,20 @@
         "sg:id":"SG_23LNIQAfY9Ev1y3jeuG94s_35.725173_-97.478438@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"507b2cea33f4472a9ff32500fb4fe1f2",
+    "wof:geomhash":"e6aa112c0911693abe81cfccee1edb29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
-            "locality_id":101714451,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688585,
             "venue_id":320722925
         }
     ],
     "wof:id":320722925,
-    "wof:lastmodified":1466766603,
+    "wof:lastmodified":1494529574,
     "wof:name":"Pampered Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

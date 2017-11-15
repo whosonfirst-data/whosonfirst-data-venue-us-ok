@@ -2,9 +2,14 @@
   "id": 303719737,
   "type": "Feature",
   "properties": {
+    "addr:full":"2224 N Ann Arbor Ave Oklahoma City OK 73127",
+    "addr:housenumber":"2224",
+    "addr:postcode":"73127",
+    "addr:street":"N Ann Arbor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.610003,35.491251,-97.610003,35.491251",
     "geom:latitude":35.491251,
     "geom:longitude":-97.610003,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"2fdd23a6de5fe493de3a0e550c7c5c0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303719737,
-    "wof:lastmodified":1466766525,
+    "wof:lastmodified":1491910116,
     "wof:name":"Miller Survey Co",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

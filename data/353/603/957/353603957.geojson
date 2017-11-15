@@ -2,9 +2,14 @@
   "id": 353603957,
   "type": "Feature",
   "properties": {
+    "addr:full":"11120 SE 49th St Oklahoma City OK 73150",
+    "addr:housenumber":"",
+    "addr:postcode":"11120;73150",
+    "addr:street":"Se 49Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.328895,35.415427,-97.328895,35.415427",
     "geom:latitude":35.415427,
     "geom:longitude":-97.328895,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"52fa567f7de9fa603d1e6e226049fbee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353603957,
-    "wof:lastmodified":1466764269,
+    "wof:lastmodified":1491909413,
     "wof:name":"Tyny Goat Ranch",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

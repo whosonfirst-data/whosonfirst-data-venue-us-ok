@@ -2,9 +2,14 @@
   "id": 337613519,
   "type": "Feature",
   "properties": {
+    "addr:full":"3813 N College Ave Bethany OK 73008",
+    "addr:housenumber":"3813",
+    "addr:postcode":"73008",
+    "addr:street":"N College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.629178,35.509561,-97.629178,35.509561",
     "geom:latitude":35.509561,
     "geom:longitude":-97.629178,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"93fb11f9f2379af0a609d067c13a5e0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":337613519,
-    "wof:lastmodified":1466763291,
+    "wof:lastmodified":1491910247,
     "wof:name":"Bethany Trubune",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

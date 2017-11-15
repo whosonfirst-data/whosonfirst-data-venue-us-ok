@@ -2,9 +2,14 @@
   "id": 353487971,
   "type": "Feature",
   "properties": {
+    "addr:full":"4616 NW 61st St Oklahoma City OK 73122",
+    "addr:housenumber":"4616",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 61St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.607291,35.533675,-97.607291,35.533675",
     "geom:latitude":35.533675,
     "geom:longitude":-97.607291,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"929e9f63b118380b8250ab1e09913dde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353487971,
-    "wof:lastmodified":1466762950,
+    "wof:lastmodified":1491910236,
     "wof:name":"Chaparral Window Co",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 287279743,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 SE 38th St Oklahoma City OK 73129",
+    "addr:housenumber":"2600",
+    "addr:postcode":"73129",
+    "addr:street":"Se 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.46491,35.42622,-97.46491,35.42622",
     "geom:latitude":35.42622,
     "geom:longitude":-97.46491,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"155964129572151abf320105698707bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":287279743,
-    "wof:lastmodified":1466763126,
+    "wof:lastmodified":1491909289,
     "wof:name":"Hilltop Assembly Of God Church",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

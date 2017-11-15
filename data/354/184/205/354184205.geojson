@@ -2,9 +2,14 @@
   "id": 354184205,
   "type": "Feature",
   "properties": {
+    "addr:full":"8018 Chukar Rd Yukon OK 73099",
+    "addr:housenumber":"8018",
+    "addr:postcode":"73099",
+    "addr:street":"Chukar Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.767662,35.557931,-97.767662,35.557931",
     "geom:latitude":35.557931,
     "geom:longitude":-97.767662,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ed5a7ad28d69f6b094e2df32e24eb60c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354184205,
-    "wof:lastmodified":1466763825,
+    "wof:lastmodified":1491912030,
     "wof:name":"Fat & Happy Services Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

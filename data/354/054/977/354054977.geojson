@@ -2,9 +2,14 @@
   "id": 354054977,
   "type": "Feature",
   "properties": {
+    "addr:full":"6724 NW 63rd St Oklahoma City OK 73132",
+    "addr:housenumber":"6724",
+    "addr:postcode":"73132",
+    "addr:street":"Nw 63Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.631922,35.536857,-97.631922,35.536857",
     "geom:latitude":35.536857,
     "geom:longitude":-97.631922,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3540a52d110dea2ecd353f6068ca2b74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354054977,
-    "wof:lastmodified":1466763321,
+    "wof:lastmodified":1491910206,
     "wof:name":"Church Of Christ Cherokee Hill",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

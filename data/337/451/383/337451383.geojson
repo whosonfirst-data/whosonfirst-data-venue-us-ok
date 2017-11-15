@@ -2,9 +2,14 @@
   "id": 337451383,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Woodlawn Dr Yukon OK 73099",
+    "addr:housenumber":"700",
+    "addr:postcode":"73099",
+    "addr:street":"Woodlawn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.753877,35.484315,-97.753877,35.484315",
     "geom:latitude":35.484315,
     "geom:longitude":-97.753877,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"099727988bd7edc5820fc869382b4d9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":337451383,
-    "wof:lastmodified":1466762366,
+    "wof:lastmodified":1491911988,
     "wof:name":"Cowan Don Carpet Service",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

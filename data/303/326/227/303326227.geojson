@@ -2,9 +2,14 @@
   "id": 303326227,
   "type": "Feature",
   "properties": {
+    "addr:full":"5354 S I- 35 Svc Rd Oklahoma City OK 73129",
+    "addr:housenumber":"5354;35",
+    "addr:postcode":"73129",
+    "addr:street":"S I;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.492565,35.411082,-97.492565,35.411082",
     "geom:latitude":35.411082,
     "geom:longitude":-97.492565,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"67f42f1f306017ed61939e7f5b57b41a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303326227,
-    "wof:lastmodified":1466765055,
+    "wof:lastmodified":1491909377,
     "wof:name":"Den-Con Tool",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

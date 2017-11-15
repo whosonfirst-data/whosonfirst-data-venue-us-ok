@@ -2,9 +2,14 @@
   "id": 353415427,
   "type": "Feature",
   "properties": {
+    "addr:full":"1215 Garth Brooks Blvd Yukon OK 73099",
+    "addr:housenumber":"1215",
+    "addr:postcode":"73099",
+    "addr:street":"Garth Brooks Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.760161,35.496388,-97.760161,35.496388",
     "geom:latitude":35.496388,
     "geom:longitude":-97.760161,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"7c14703acc3629ab1963345d650c54c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353415427,
-    "wof:lastmodified":1466762520,
+    "wof:lastmodified":1491911963,
     "wof:name":"Washington Mutual Finance LLC",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

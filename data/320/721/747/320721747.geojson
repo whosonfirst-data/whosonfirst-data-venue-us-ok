@@ -2,9 +2,14 @@
   "id": 320721747,
   "type": "Feature",
   "properties": {
+    "addr:full":"4500 N Macarthur Blvd Oklahoma City OK 73122",
+    "addr:housenumber":"4500",
+    "addr:postcode":"73122",
+    "addr:street":"N Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.618876,35.515267,-97.618876,35.515267",
     "geom:latitude":35.515267,
     "geom:longitude":-97.618876,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"b7b0633a8563e70bcf4f95b1bae3c2c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320721747,
-    "wof:lastmodified":1466766598,
+    "wof:lastmodified":1491910165,
     "wof:name":"Macarthur Park Apartments",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

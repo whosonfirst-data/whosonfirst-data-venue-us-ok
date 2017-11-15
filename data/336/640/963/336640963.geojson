@@ -2,9 +2,14 @@
   "id": 336640963,
   "type": "Feature",
   "properties": {
+    "addr:full":"2008 Crossroads Mall Dr Oklahoma City OK 73149",
+    "addr:housenumber":"2008",
+    "addr:postcode":"73149",
+    "addr:street":"Crossroads Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.487459,35.395786,-97.487459,35.395786",
     "geom:latitude":35.395786,
     "geom:longitude":-97.487459,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"7e56bd53c935f4054b406bf3763fa36b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":336640963,
-    "wof:lastmodified":1466762807,
+    "wof:lastmodified":1491909337,
     "wof:name":"Gingiss Formal Wear",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

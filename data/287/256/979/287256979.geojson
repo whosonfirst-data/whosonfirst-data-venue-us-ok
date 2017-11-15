@@ -2,9 +2,14 @@
   "id": 287256979,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 S Agnew Ave Oklahoma City OK 73108",
+    "addr:housenumber":"2600",
+    "addr:postcode":"73108",
+    "addr:street":"S Agnew Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.55462,35.438307,-97.55462,35.438307",
     "geom:latitude":35.438307,
     "geom:longitude":-97.55462,
@@ -29,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
-        102082577
+        102082577,
+        85871707,
+        85871667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,28 @@
     "wof:geomhash":"266795f1adc012c2c58815b8ff6f1809",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871707,
+            "region_id":85688585,
+            "venue_id":287256979
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871667,
             "region_id":85688585,
             "venue_id":287256979
         }
     ],
     "wof:id":287256979,
-    "wof:lastmodified":1466762792,
+    "wof:lastmodified":1491904593,
     "wof:name":"Apostolic Assembly",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

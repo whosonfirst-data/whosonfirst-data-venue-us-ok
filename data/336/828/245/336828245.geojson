@@ -2,9 +2,14 @@
   "id": 336828245,
   "type": "Feature",
   "properties": {
+    "addr:full":"4036 Coronado Pl Warr Acres OK 73122",
+    "addr:housenumber":"4036",
+    "addr:postcode":"73122",
+    "addr:street":"Coronado Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.621953,35.513344,-97.621953,35.513344",
     "geom:latitude":35.513344,
     "geom:longitude":-97.621953,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"864888886271b03176bf6a181c946cda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":336828245,
-    "wof:lastmodified":1466764722,
+    "wof:lastmodified":1491910195,
     "wof:name":"National Fitness Pro Assoc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

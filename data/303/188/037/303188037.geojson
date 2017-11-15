@@ -2,9 +2,14 @@
   "id": 303188037,
   "type": "Feature",
   "properties": {
+    "addr:full":"809 Lancaster Dr Yukon OK 73099",
+    "addr:housenumber":"809",
+    "addr:postcode":"73099",
+    "addr:street":"Lancaster Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.725235,35.497324,-97.725235,35.497324",
     "geom:latitude":35.497324,
     "geom:longitude":-97.725235,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a28f446d74b7b4267aada97d5e5f6fd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303188037,
-    "wof:lastmodified":1466764365,
+    "wof:lastmodified":1491911866,
     "wof:name":"J H B & Company Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

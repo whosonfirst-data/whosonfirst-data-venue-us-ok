@@ -2,9 +2,14 @@
   "id": 320616955,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Fieldstone Way Mustang OK 73064",
+    "addr:housenumber":"101",
+    "addr:postcode":"73064",
+    "addr:street":"Fieldstone Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.725511,35.395883,-97.725511,35.395883",
     "geom:latitude":35.395883,
     "geom:longitude":-97.725511,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"4e7afda95823d9ae9701bcabbffec7d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320616955,
-    "wof:lastmodified":1466766330,
+    "wof:lastmodified":1491911928,
     "wof:name":"Fieldstone Garden Apartments",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320818877,
   "type": "Feature",
   "properties": {
+    "addr:full":"5918 NW 45th St Oklahoma City OK 73122",
+    "addr:housenumber":"5918",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 45Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.619871,35.517367,-97.619871,35.517367",
     "geom:latitude":35.517367,
     "geom:longitude":-97.619871,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"7f239c535cf7b67074621fb1405a159f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320818877,
-    "wof:lastmodified":1466766890,
+    "wof:lastmodified":1491910182,
     "wof:name":"Central Plumbing Service",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353713699,
   "type": "Feature",
   "properties": {
+    "addr:full":"9900 Broadway Exn Oklahoma City OK 73114",
+    "addr:housenumber":"9900",
+    "addr:postcode":"73114",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.513777,35.574265,-97.513777,35.574265",
     "geom:latitude":35.574265,
     "geom:longitude":-97.513777,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"74df39420f6097d519c1c183b0f9a7c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353713699,
-    "wof:lastmodified":1466765051,
+    "wof:lastmodified":1491933057,
     "wof:name":"Oklahoma City District Office",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

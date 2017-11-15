@@ -2,9 +2,14 @@
   "id": 287180261,
   "type": "Feature",
   "properties": {
+    "addr:full":"608 S Aqua Clear Dr Mustang OK 73064",
+    "addr:housenumber":"608",
+    "addr:postcode":"73064",
+    "addr:street":"S Aqua Clear Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.764704,35.385412,-97.764704,35.385412",
     "geom:latitude":35.385412,
     "geom:longitude":-97.764704,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"495e872f3f34790f2fc6441746aa76a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":287180261,
-    "wof:lastmodified":1466763853,
+    "wof:lastmodified":1491911819,
     "wof:name":"Ksr Accounting Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 353620461,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 NW 22nd St Oklahoma City OK 73103",
+    "addr:housenumber":"221",
+    "addr:postcode":"73103",
+    "addr:street":"Nw 22Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.517115,35.492311,-97.517115,35.492311",
     "geom:latitude":35.492311,
     "geom:longitude":-97.517115,
@@ -26,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
-        85871695,
-        85871677
+        85871677,
+        85871695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +46,28 @@
     "wof:geomhash":"2005d0a8aaede0cefe1575096e1690ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082577,
-            "locality_id":101714461,
-            "neighbourhood_id":85871695,
-            "region_id":85688585,
-            "venue_id":353620461
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
             "neighbourhood_id":85871677,
             "region_id":85688585,
             "venue_id":353620461
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871695,
+            "region_id":85688585,
+            "venue_id":353620461
         }
     ],
     "wof:id":353620461,
-    "wof:lastmodified":1466764624,
+    "wof:lastmodified":1491921294,
     "wof:name":"Smei Academy of Achieveme",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

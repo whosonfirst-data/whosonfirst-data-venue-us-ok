@@ -2,9 +2,14 @@
   "id": 303705365,
   "type": "Feature",
   "properties": {
+    "addr:full":"3431 N Macarthur Blvd Oklahoma City OK 73122",
+    "addr:housenumber":"3431",
+    "addr:postcode":"73122",
+    "addr:street":"N Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.619026,35.505488,-97.619026,35.505488",
     "geom:latitude":35.505488,
     "geom:longitude":-97.619026,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"1ef35b70bd198754259b3cdf8a6c449f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303705365,
-    "wof:lastmodified":1466766604,
+    "wof:lastmodified":1491910179,
     "wof:name":"Modern Home Appliance Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

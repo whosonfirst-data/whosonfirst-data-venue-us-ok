@@ -2,9 +2,14 @@
   "id": 320389987,
   "type": "Feature",
   "properties": {
+    "addr:full":"4913 Polo Ln Mustang OK 73064",
+    "addr:housenumber":"4913",
+    "addr:postcode":"73064",
+    "addr:street":"Polo Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.762889,35.418419,-97.762889,35.418419",
     "geom:latitude":35.418419,
     "geom:longitude":-97.762889,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"f6ba31cf847d16e1e9cfcf0a5cf448ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320389987,
-    "wof:lastmodified":1466765671,
+    "wof:lastmodified":1491911818,
     "wof:name":"Temple Ventures LLC",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320313055,
   "type": "Feature",
   "properties": {
+    "addr:full":"3527 Jensen Rd E El Reno OK 73036",
+    "addr:housenumber":"3527",
+    "addr:postcode":"73036",
+    "addr:street":"Jensen Rd E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.907846,35.49366,-97.907846,35.49366",
     "geom:latitude":35.49366,
     "geom:longitude":-97.907846,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"bc51a4dbc6e5b94473b2e107e0fea7c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320313055,
-    "wof:lastmodified":1466765115,
+    "wof:lastmodified":1491911891,
     "wof:name":"S & J Anchor Svc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

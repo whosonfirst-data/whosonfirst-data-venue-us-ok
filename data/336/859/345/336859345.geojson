@@ -2,9 +2,14 @@
   "id": 336859345,
   "type": "Feature",
   "properties": {
+    "addr:full":"6909 NW 60th St Bethany OK 73008",
+    "addr:housenumber":"6909",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 60Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.63402,35.533398,-97.63402,35.533398",
     "geom:latitude":35.533398,
     "geom:longitude":-97.63402,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"61e063c28f94134c2b401c17585b7216",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336859345,
-    "wof:lastmodified":1466765077,
+    "wof:lastmodified":1491910249,
     "wof:name":"Derrick Baker",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

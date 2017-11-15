@@ -2,9 +2,14 @@
   "id": 353872711,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 NE 10th St Oklahoma City OK 73104",
+    "addr:housenumber":"701",
+    "addr:postcode":"73104",
+    "addr:street":"Ne 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.501176,35.47827,-97.501176,35.47827",
     "geom:latitude":35.47827,
     "geom:longitude":-97.501176,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"fd405e0978fb8d94ec880e2a2ed638ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353872711,
-    "wof:lastmodified":1466765586,
+    "wof:lastmodified":1491927384,
     "wof:name":"Todd E Wright Od",
     "wof:parent_id":85871693,
     "wof:placetype":"venue",

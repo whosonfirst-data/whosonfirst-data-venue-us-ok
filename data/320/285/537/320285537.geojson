@@ -2,9 +2,14 @@
   "id": 320285537,
   "type": "Feature",
   "properties": {
+    "addr:full":"6729 NW 50th St Bethany OK 73008",
+    "addr:housenumber":"6729",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 50Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.63029,35.522426,-97.63029,35.522426",
     "geom:latitude":35.522426,
     "geom:longitude":-97.63029,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"ca5920ee86b906efd5ba8c1cfb724977",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320285537,
-    "wof:lastmodified":1466765089,
+    "wof:lastmodified":1491910154,
     "wof:name":"Perfect Image Salon",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

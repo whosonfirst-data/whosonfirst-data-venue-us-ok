@@ -2,9 +2,14 @@
   "id": 287124643,
   "type": "Feature",
   "properties": {
+    "addr:full":"6735 NW 50th St Bethany OK 73008",
+    "addr:housenumber":"6735",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 50Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.630063,35.522425,-97.630063,35.522425",
     "geom:latitude":35.522425,
     "geom:longitude":-97.630063,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5c56effe7f4320f9ca7bffb28a064bc6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":287124643,
-    "wof:lastmodified":1466763584,
+    "wof:lastmodified":1491910235,
     "wof:name":"Barnes Grocery",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

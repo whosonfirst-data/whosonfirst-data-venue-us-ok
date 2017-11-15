@@ -2,9 +2,14 @@
   "id": 287298721,
   "type": "Feature",
   "properties": {
+    "addr:full":"8313 S Olie Ave Oklahoma City OK 73139",
+    "addr:housenumber":"8313",
+    "addr:postcode":"73139",
+    "addr:street":"S Olie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.527398,35.381787,-97.527398,35.381787",
     "geom:latitude":35.381787,
     "geom:longitude":-97.527398,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"0523deaf8ff1be97555fc78f3f29a2ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":287298721,
-    "wof:lastmodified":1466763408,
+    "wof:lastmodified":1491909364,
     "wof:name":"Chucks Antiques Collectab",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

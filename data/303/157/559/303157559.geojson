@@ -2,9 +2,14 @@
   "id": 303157559,
   "type": "Feature",
   "properties": {
+    "addr:full":"5901 NW 34th St Oklahoma City OK 73122",
+    "addr:housenumber":"5901",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 34Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.623083,35.50596,-97.623083,35.50596",
     "geom:latitude":35.50596,
     "geom:longitude":-97.623083,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"88adb61d285eb37ba957a6547604c744",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303157559,
-    "wof:lastmodified":1466764155,
+    "wof:lastmodified":1491910150,
     "wof:name":"Summer Place Apartments",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

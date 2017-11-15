@@ -2,9 +2,14 @@
   "id": 320174787,
   "type": "Feature",
   "properties": {
+    "addr:full":"4232 Epperly Dr Oklahoma City OK 73115",
+    "addr:housenumber":"4232",
+    "addr:postcode":"73115",
+    "addr:street":"Epperly Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.43654,35.423285,-97.43654,35.423285",
     "geom:latitude":35.423285,
     "geom:longitude":-97.43654,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"ee74578596ce8370b14221b5434e6e1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320174787,
-    "wof:lastmodified":1466764494,
+    "wof:lastmodified":1491909396,
     "wof:name":"Oklahoma Elks Major Proje",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

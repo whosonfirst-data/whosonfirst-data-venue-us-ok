@@ -2,9 +2,14 @@
   "id": 303598165,
   "type": "Feature",
   "properties": {
+    "addr:full":"427 SW 27th St El Reno OK 73036",
+    "addr:housenumber":"427",
+    "addr:postcode":"73036",
+    "addr:street":"Sw 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.958451,35.507772,-97.958451,35.507772",
     "geom:latitude":35.507772,
     "geom:longitude":-97.958451,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -40,7 +46,7 @@
     "wof:geomhash":"94f4d0d1877386819bf5d0b73bb90845",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":303598165,
-    "wof:lastmodified":1466766181,
+    "wof:lastmodified":1491911976,
     "wof:name":"Roblyer Middle School",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

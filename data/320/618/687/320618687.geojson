@@ -2,9 +2,14 @@
   "id": 320618687,
   "type": "Feature",
   "properties": {
+    "addr:full":"3124 S Pennsylvania Ave Oklahoma City OK 73119",
+    "addr:housenumber":"3124",
+    "addr:postcode":"73119",
+    "addr:street":"S Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.547861,35.433661,-97.547861,35.433661",
     "geom:latitude":35.433661,
     "geom:longitude":-97.547861,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"56a684ffbae00fb87b9a7f6a453c4c52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320618687,
-    "wof:lastmodified":1466766326,
+    "wof:lastmodified":1491904577,
     "wof:name":"Dreamland Childcare",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 320612189,
   "type": "Feature",
   "properties": {
+    "addr:full":"4912 SE 58th Pl Oklahoma City OK 73135",
+    "addr:housenumber":"4912",
+    "addr:postcode":"73135",
+    "addr:street":"Se 58Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.431466,35.406764,-97.431466,35.406764",
     "geom:latitude":35.406764,
     "geom:longitude":-97.431466,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"41f56a4913b7ccea1cf604d296067396",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320612189,
-    "wof:lastmodified":1466766306,
+    "wof:lastmodified":1491909295,
     "wof:name":"J & J Janitorial",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

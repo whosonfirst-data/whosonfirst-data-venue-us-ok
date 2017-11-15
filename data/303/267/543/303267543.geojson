@@ -2,9 +2,14 @@
   "id": 303267543,
   "type": "Feature",
   "properties": {
+    "addr:full":"5831 Tulakes Ave Bethany OK 73008",
+    "addr:housenumber":"5831",
+    "addr:postcode":"73008",
+    "addr:street":"Tulakes Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.636889,35.531321,-97.636889,35.531321",
     "geom:latitude":35.531321,
     "geom:longitude":-97.636889,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714421,
+        101714461,
         102082577,
+        85871705,
+        101714421,
         85854531
     ],
     "wof:breaches":[],
@@ -43,7 +51,16 @@
     "wof:geomhash":"0021fa3ccce9555bc866b4f3872200e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871705,
+            "region_id":85688585,
+            "venue_id":303267543
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -53,9 +70,9 @@
         }
     ],
     "wof:id":303267543,
-    "wof:lastmodified":1466764711,
+    "wof:lastmodified":1491910219,
     "wof:name":"Turbine Aircraft Services LLC",
-    "wof:parent_id":85854531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

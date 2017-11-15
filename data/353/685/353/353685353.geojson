@@ -2,9 +2,14 @@
   "id": 353685353,
   "type": "Feature",
   "properties": {
+    "addr:full":"8816 S Pennsylvania Ave Oklahoma City OK 73159",
+    "addr:housenumber":"8816",
+    "addr:postcode":"73159",
+    "addr:street":"S Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.547881,35.377269,-97.547881,35.377269",
     "geom:latitude":35.377269,
     "geom:longitude":-97.547881,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"720952c0fc5f1b3777938367bceda9b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353685353,
-    "wof:lastmodified":1466764731,
+    "wof:lastmodified":1491909317,
     "wof:name":"Twisted Donut",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

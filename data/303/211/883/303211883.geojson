@@ -2,9 +2,14 @@
   "id": 303211883,
   "type": "Feature",
   "properties": {
+    "addr:full":"6717 NW 59th Ter Bethany OK 73008",
+    "addr:housenumber":"6717",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 59Th Ter Bethany",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.631952,35.531985,-97.631952,35.531985",
     "geom:latitude":35.531985,
     "geom:longitude":-97.631952,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"1e8be415b7f845093cb239248228cf94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303211883,
-    "wof:lastmodified":1466764487,
+    "wof:lastmodified":1491910108,
     "wof:name":"Branscum Construction Bet",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

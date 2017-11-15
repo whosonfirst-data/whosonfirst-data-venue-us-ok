@@ -2,9 +2,14 @@
   "id": 337496799,
   "type": "Feature",
   "properties": {
+    "addr:full":"920 W I- 240 Svc Rd Oklahoma City OK 73139",
+    "addr:housenumber":"920;240",
+    "addr:postcode":"73139",
+    "addr:street":"W I;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.531375,35.391004,-97.531375,35.391004",
     "geom:latitude":35.391004,
     "geom:longitude":-97.531375,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ed9bc913cae76c47f8e18c843d8cd3a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":337496799,
-    "wof:lastmodified":1466762630,
+    "wof:lastmodified":1491909401,
     "wof:name":"Steak and Ale",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

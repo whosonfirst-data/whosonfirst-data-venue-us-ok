@@ -2,9 +2,14 @@
   "id": 353556301,
   "type": "Feature",
   "properties": {
+    "addr:full":"228 W Hefner Rd Oklahoma City OK 73114",
+    "addr:housenumber":"228",
+    "addr:postcode":"73114",
+    "addr:street":"W Hefner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.519696,35.580015,-97.519696,35.580015",
     "geom:latitude":35.580015,
     "geom:longitude":-97.519696,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -40,7 +46,7 @@
     "wof:geomhash":"b198088aa006b27464160dd8ea2bfd0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":353556301,
-    "wof:lastmodified":1466763955,
+    "wof:lastmodified":1491933098,
     "wof:name":"Bridgeway Church",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

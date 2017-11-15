@@ -2,9 +2,14 @@
   "id": 320417143,
   "type": "Feature",
   "properties": {
+    "addr:full":"4301 N Macarthur Blvd Warr Acres OK 73122",
+    "addr:housenumber":"4301",
+    "addr:postcode":"73122",
+    "addr:street":"N Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.618954,35.516223,-97.618954,35.516223",
     "geom:latitude":35.516223,
     "geom:longitude":-97.618954,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"2790096fc306e2469960df6b88e58974",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320417143,
-    "wof:lastmodified":1466765787,
+    "wof:lastmodified":1491910128,
     "wof:name":"D De Wayne Mc Anally",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

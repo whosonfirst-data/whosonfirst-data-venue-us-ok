@@ -2,9 +2,14 @@
   "id": 320769479,
   "type": "Feature",
   "properties": {
+    "addr:full":"4748 S Bryant Ave Oklahoma City OK 73135",
+    "addr:housenumber":"4748",
+    "addr:postcode":"73135",
+    "addr:street":"S Bryant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.45912,35.420274,-97.45912,35.420274",
     "geom:latitude":35.420274,
     "geom:longitude":-97.45912,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"c82a3467b2b0acd22f2f1835625da6e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320769479,
-    "wof:lastmodified":1466766822,
+    "wof:lastmodified":1491909423,
     "wof:name":"Bryant Avenue Baptist Church",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

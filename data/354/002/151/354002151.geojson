@@ -2,9 +2,14 @@
   "id": 354002151,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 N L Ave El Reno OK 73036",
+    "addr:housenumber":"220",
+    "addr:postcode":"73036",
+    "addr:street":"N L Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.941476,35.535109,-97.941476,35.535109",
     "geom:latitude":35.535109,
     "geom:longitude":-97.941476,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"56480744914b55ddb1ca1ccef29519cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354002151,
-    "wof:lastmodified":1466762924,
+    "wof:lastmodified":1491911801,
     "wof:name":"Maffitt Transportation Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354069663,
   "type": "Feature",
   "properties": {
+    "addr:full":"4532 NW 50th St Oklahoma City OK 73122",
+    "addr:housenumber":"4532",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 50Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.609837,35.522235,-97.609837,35.522235",
     "geom:latitude":35.522235,
     "geom:longitude":-97.609837,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"12dc54d7b48b118c2161d3756cdfbfec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":354069663,
-    "wof:lastmodified":1466763390,
+    "wof:lastmodified":1491910167,
     "wof:name":"Scissor Talk",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

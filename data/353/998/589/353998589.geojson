@@ -2,9 +2,14 @@
   "id": 353998589,
   "type": "Feature",
   "properties": {
+    "addr:full":"6330 NW 39th Expy Bethany OK 73008",
+    "addr:housenumber":"6330",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 39Th Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.626109,35.51107,-97.626109,35.51107",
     "geom:latitude":35.51107,
     "geom:longitude":-97.626109,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"90be7b090147a817bebdb8bbc8b71e1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353998589,
-    "wof:lastmodified":1466765997,
+    "wof:lastmodified":1491910151,
     "wof:name":"All Star Auto Glass",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

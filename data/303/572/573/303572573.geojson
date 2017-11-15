@@ -2,9 +2,14 @@
   "id": 303572573,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 S County Line Rd Blanchard OK 73040",
+    "addr:housenumber":"315",
+    "addr:postcode":"73040",
+    "addr:street":"S County Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.313259,35.629019,-98.313259,35.629019",
     "geom:latitude":35.629019,
     "geom:longitude":-98.313259,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714719,
-        102083973
+        101714457,
+        102082577,
+        85805913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,19 @@
     "wof:geomhash":"0896ae9cb0f8feaf107582d3b17dd2fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083973,
-            "locality_id":101714719,
-            "neighbourhood_id":-1,
+            "county_id":102082577,
+            "locality_id":101714457,
+            "neighbourhood_id":85805913,
             "region_id":85688585,
             "venue_id":303572573
         }
     ],
     "wof:id":303572573,
-    "wof:lastmodified":1466766107,
+    "wof:lastmodified":1491911833,
     "wof:name":"Ham It Up Karaoke & Sound",
-    "wof:parent_id":-1,
+    "wof:parent_id":85805913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

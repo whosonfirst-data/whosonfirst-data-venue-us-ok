@@ -2,9 +2,14 @@
   "id": 354187119,
   "type": "Feature",
   "properties": {
+    "addr:full":"8001 S Eastern Ave Oklahoma City OK 73149",
+    "addr:housenumber":"8001",
+    "addr:postcode":"73149",
+    "addr:street":"S Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.477062,35.387189,-97.477062,35.387189",
     "geom:latitude":35.387189,
     "geom:longitude":-97.477062,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"ababe00cb958efe73f82ad1a252a4904",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354187119,
-    "wof:lastmodified":1466763834,
+    "wof:lastmodified":1491909415,
     "wof:name":"Diamond Ballroom",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

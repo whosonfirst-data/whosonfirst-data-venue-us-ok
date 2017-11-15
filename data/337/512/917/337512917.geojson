@@ -2,9 +2,14 @@
   "id": 337512917,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 SW 74th St Oklahoma City OK 73159",
+    "addr:housenumber":"1401",
+    "addr:postcode":"73159",
+    "addr:street":"Sw 74Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.533503,35.391711,-97.533503,35.391711",
     "geom:latitude":35.391711,
     "geom:longitude":-97.533503,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -46,7 +52,7 @@
     "wof:geomhash":"8cb7cf557bef363e8e8704c5b8f6961d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":337512917,
-    "wof:lastmodified":1466762718,
+    "wof:lastmodified":1491909335,
     "wof:name":"Wal-Mart",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

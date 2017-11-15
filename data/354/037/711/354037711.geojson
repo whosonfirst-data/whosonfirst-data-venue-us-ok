@@ -2,9 +2,14 @@
   "id": 354037711,
   "type": "Feature",
   "properties": {
+    "addr:full":"12240 N Mustang Rd Yukon OK 73078",
+    "addr:housenumber":"12240",
+    "addr:postcode":"73078",
+    "addr:street":"N Mustang Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.727141,35.593201,-97.727141,35.593201",
     "geom:latitude":35.593201,
     "geom:longitude":-97.727141,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"3b90632299272b7bf4db7b8812dcbea6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":354037711,
-    "wof:lastmodified":1466763195,
+    "wof:lastmodified":1491911865,
     "wof:name":"Surrey Hills Oil & Lube Ctr",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

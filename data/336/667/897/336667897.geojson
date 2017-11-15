@@ -2,9 +2,14 @@
   "id": 336667897,
   "type": "Feature",
   "properties": {
+    "addr:full":"6416 NW 39th Expy Bethany OK 73008",
+    "addr:housenumber":"6416",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 39Th Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.627684,35.511121,-97.627684,35.511121",
     "geom:latitude":35.511121,
     "geom:longitude":-97.627684,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5aac491bd511b65d9a357dcdceab6063",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336667897,
-    "wof:lastmodified":1466763223,
+    "wof:lastmodified":1491910212,
     "wof:name":"Ron's Tire & Svc Ctr",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337523529,
   "type": "Feature",
   "properties": {
+    "addr:full":"10929 SE 59th St Oklahoma City OK 73150",
+    "addr:housenumber":"10929",
+    "addr:postcode":"73150",
+    "addr:street":"Se 59Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.336998,35.406381,-97.336998,35.406381",
     "geom:latitude":35.406381,
     "geom:longitude":-97.336998,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -49,7 +55,7 @@
     "wof:geomhash":"ff47838553aa67adf77e91bab13f12e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":337523529,
-    "wof:lastmodified":1466762784,
+    "wof:lastmodified":1491909444,
     "wof:name":"Midwest Pump & Supply",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

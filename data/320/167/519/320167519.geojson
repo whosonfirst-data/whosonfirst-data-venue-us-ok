@@ -2,9 +2,14 @@
   "id": 320167519,
   "type": "Feature",
   "properties": {
+    "addr:full":"1209 Skyview Dr El Reno OK 73036",
+    "addr:housenumber":"1209",
+    "addr:postcode":"73036",
+    "addr:street":"Skyview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.98789,35.546479,-97.98789,35.546479",
     "geom:latitude":35.546479,
     "geom:longitude":-97.98789,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d9b03bd730cd4e9ff38e72b298932951",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320167519,
-    "wof:lastmodified":1466764452,
+    "wof:lastmodified":1491912009,
     "wof:name":"R & T Transport",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

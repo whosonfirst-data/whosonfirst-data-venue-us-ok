@@ -2,9 +2,14 @@
   "id": 287273873,
   "type": "Feature",
   "properties": {
+    "addr:full":"2010 S Shepard Ave El Reno OK 73036",
+    "addr:housenumber":"2010",
+    "addr:postcode":"73036",
+    "addr:street":"S Shepard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.937165,35.516022,-97.937165,35.516022",
     "geom:latitude":35.516022,
     "geom:longitude":-97.937165,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"78f28d55d358ea67df06fa515c993d5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":287273873,
-    "wof:lastmodified":1466763046,
+    "wof:lastmodified":1491911878,
     "wof:name":"Phil's Cycle & Atvs",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

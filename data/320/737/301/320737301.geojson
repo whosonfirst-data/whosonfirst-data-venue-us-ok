@@ -2,9 +2,14 @@
   "id": 320737301,
   "type": "Feature",
   "properties": {
+    "addr:full":"10908 N Pennsylvania Ave Oklahoma City OK 73120",
+    "addr:housenumber":"10908",
+    "addr:postcode":"73120",
+    "addr:street":"N Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.549251,35.584395,-97.549251,35.584395",
     "geom:latitude":35.584395,
     "geom:longitude":-97.549251,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"55559a8d73ba134b61d946f9b3cfcd1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320737301,
-    "wof:lastmodified":1466766643,
+    "wof:lastmodified":1491933051,
     "wof:name":"Audio Book Shelf",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

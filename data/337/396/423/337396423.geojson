@@ -2,9 +2,14 @@
   "id": 337396423,
   "type": "Feature",
   "properties": {
+    "addr:full":"10401 N Pennsylvania Ave Oklahoma City OK 73120",
+    "addr:housenumber":"10401",
+    "addr:postcode":"73120",
+    "addr:street":"N Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.549292,35.576721,-97.549292,35.576721",
     "geom:latitude":35.576721,
     "geom:longitude":-97.549292,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714425,
-        102082577
+        101714461,
+        102082577,
+        85807637,
+        85871705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,28 @@
     "wof:geomhash":"7a75b81cc167ec2b6b41eace48e9a65e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
-            "locality_id":101714425,
-            "neighbourhood_id":-1,
+            "locality_id":101714461,
+            "neighbourhood_id":85807637,
+            "region_id":85688585,
+            "venue_id":337396423
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871705,
             "region_id":85688585,
             "venue_id":337396423
         }
     ],
     "wof:id":337396423,
-    "wof:lastmodified":1466763931,
+    "wof:lastmodified":1491933064,
     "wof:name":"Sodexho Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 303121695,
   "type": "Feature",
   "properties": {
+    "addr:full":"13901 Cemetery Rd N Piedmont OK 73078",
+    "addr:housenumber":"13901",
+    "addr:postcode":"73078",
+    "addr:street":"Cemetery Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.762975,35.614057,-97.762975,35.614057",
     "geom:latitude":35.614057,
     "geom:longitude":-97.762975,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"e324eade5ff4b1f8ab8e17ca2539ba67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303121695,
-    "wof:lastmodified":1466763584,
+    "wof:lastmodified":1491911886,
     "wof:name":"Cherry Wrecking & Trucking",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

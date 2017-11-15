@@ -2,9 +2,14 @@
   "id": 320814139,
   "type": "Feature",
   "properties": {
+    "addr:full":"2076 Crossroads Mall Dr Oklahoma City OK 73149",
+    "addr:housenumber":"2076",
+    "addr:postcode":"73149",
+    "addr:street":"Crossroads Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.487366,35.395986,-97.487366,35.395986",
     "geom:latitude":35.395986,
     "geom:longitude":-97.487366,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -40,7 +46,7 @@
     "wof:geomhash":"d4d39e387ebb18753bb4271acf0c9cc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":320814139,
-    "wof:lastmodified":1466766876,
+    "wof:lastmodified":1491909338,
     "wof:name":"Lane Bryant",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

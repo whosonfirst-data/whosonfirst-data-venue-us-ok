@@ -2,9 +2,14 @@
   "id": 303098941,
   "type": "Feature",
   "properties": {
+    "addr:full":"8821 S Youngs Blvd Oklahoma City OK 73159",
+    "addr:housenumber":"8821",
+    "addr:postcode":"73159",
+    "addr:street":"S Youngs Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.551859,35.378462,-97.551859,35.378462",
     "geom:latitude":35.378462,
     "geom:longitude":-97.551859,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"41575d56df0bcc8ea39034686a189b3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303098941,
-    "wof:lastmodified":1466763221,
+    "wof:lastmodified":1491909262,
     "wof:name":"Writecraft Publishing Co",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

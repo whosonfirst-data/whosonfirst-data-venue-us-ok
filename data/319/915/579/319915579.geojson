@@ -2,9 +2,14 @@
   "id": 319915579,
   "type": "Feature",
   "properties": {
+    "addr:full":"5725 S High Ave Oklahoma City OK 73129",
+    "addr:housenumber":"5725",
+    "addr:postcode":"73129",
+    "addr:street":"S High Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.494847,35.407389,-97.494847,35.407389",
     "geom:latitude":35.407389,
     "geom:longitude":-97.494847,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"a9bf0cb4694b78abdc9a11f1267e08bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":319915579,
-    "wof:lastmodified":1466763798,
+    "wof:lastmodified":1491909352,
     "wof:name":"Arzo Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

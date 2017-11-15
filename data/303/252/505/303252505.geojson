@@ -2,9 +2,14 @@
   "id": 303252505,
   "type": "Feature",
   "properties": {
+    "addr:full":"6728 NW 38th St Bethany OK 73008",
+    "addr:housenumber":"6728",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 38Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.632077,35.510794,-97.632077,35.510794",
     "geom:latitude":35.510794,
     "geom:longitude":-97.632077,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"40584f0b6e7b8eab5ed176fc6baf1974",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303252505,
-    "wof:lastmodified":1466764634,
+    "wof:lastmodified":1491910195,
     "wof:name":"Tom Cupples Agency",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303178035,
   "type": "Feature",
   "properties": {
+    "addr:full":"13341 Stephens Rd Piedmont OK 73078",
+    "addr:housenumber":"13341",
+    "addr:postcode":"73078",
+    "addr:street":"Stephens Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.772731,35.621446,-97.772731,35.621446",
     "geom:latitude":35.621446,
     "geom:longitude":-97.772731,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"2305427c7f6ae57abc6efa1ce05b6218",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303178035,
-    "wof:lastmodified":1466764316,
+    "wof:lastmodified":1491912035,
     "wof:name":"Attic Collectibles",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

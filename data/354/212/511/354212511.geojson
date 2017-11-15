@@ -2,9 +2,14 @@
   "id": 354212511,
   "type": "Feature",
   "properties": {
+    "addr:full":"2241 SW 44th St Oklahoma City OK 73119",
+    "addr:housenumber":"2241",
+    "addr:postcode":"73119",
+    "addr:street":"Sw 44Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.551635,35.420785,-97.551635,35.420785",
     "geom:latitude":35.420785,
     "geom:longitude":-97.551635,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"1eaac8c3815eff3cc3642b18077d9c70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354212511,
-    "wof:lastmodified":1466763994,
+    "wof:lastmodified":1491904597,
     "wof:name":"Penn 44 Lanes",
     "wof:parent_id":85871707,
     "wof:placetype":"venue",

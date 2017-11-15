@@ -2,9 +2,14 @@
   "id": 287153105,
   "type": "Feature",
   "properties": {
+    "addr:full":"1608 SE 59th St Oklahoma City OK 73129",
+    "addr:housenumber":"1608",
+    "addr:postcode":"73129",
+    "addr:street":"Se 59Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.481582,35.406198,-97.481582,35.406198",
     "geom:latitude":35.406198,
     "geom:longitude":-97.481582,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"c91314d4da7b4bb3449a1fbf095b3032",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":287153105,
-    "wof:lastmodified":1466763681,
+    "wof:lastmodified":1491909302,
     "wof:name":"Valley Brook Municipal Bldg",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

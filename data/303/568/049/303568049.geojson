@@ -2,9 +2,14 @@
   "id": 303568049,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 N Sara Rd Mustang OK 73064",
+    "addr:housenumber":"1100",
+    "addr:postcode":"73064",
+    "addr:street":"N Sara Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.706734,35.398146,-97.706734,35.398146",
     "geom:latitude":35.398146,
     "geom:longitude":-97.706734,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"91fdf24c57f2bf873c0d7df44e30cd58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303568049,
-    "wof:lastmodified":1466766208,
+    "wof:lastmodified":1491911964,
     "wof:name":"Religious Education Office",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

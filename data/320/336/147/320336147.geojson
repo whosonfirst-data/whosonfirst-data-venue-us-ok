@@ -2,9 +2,14 @@
   "id": 320336147,
   "type": "Feature",
   "properties": {
+    "addr:full":"4200 NW 36th St Oklahoma City OK 73112",
+    "addr:housenumber":"4200",
+    "addr:postcode":"73112",
+    "addr:street":"Nw 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.594484,35.507798,-97.594484,35.507798",
     "geom:latitude":35.507798,
     "geom:longitude":-97.594484,
@@ -26,10 +31,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
-        85854531
+        85854531,
+        101714461,
+        85871679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,28 @@
     "wof:geomhash":"c5c7fb7609673217bbde480f212e5d03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
             "neighbourhood_id":85854531,
             "region_id":85688585,
             "venue_id":320336147
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871679,
+            "region_id":85688585,
+            "venue_id":320336147
         }
     ],
     "wof:id":320336147,
-    "wof:lastmodified":1466765370,
+    "wof:lastmodified":1491910206,
     "wof:name":"Buyer's Advantage Realty",
-    "wof:parent_id":85854531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

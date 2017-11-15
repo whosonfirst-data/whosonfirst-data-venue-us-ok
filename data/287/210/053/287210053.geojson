@@ -2,9 +2,14 @@
   "id": 287210053,
   "type": "Feature",
   "properties": {
+    "addr:full":"7201 S Sunnylane Rd Oklahoma City OK 73135",
+    "addr:housenumber":"7201",
+    "addr:postcode":"73135",
+    "addr:street":"S Sunnylane Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.441335,35.398924,-97.441335,35.398924",
     "geom:latitude":35.398924,
     "geom:longitude":-97.441335,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"aa8cc8cacece6a28715ae6aa20701420",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":287210053,
-    "wof:lastmodified":1466764047,
+    "wof:lastmodified":1491909364,
     "wof:name":"Pollock Paper Distributors",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

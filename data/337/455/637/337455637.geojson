@@ -2,9 +2,14 @@
   "id": 337455637,
   "type": "Feature",
   "properties": {
+    "addr:full":"699 Kingsgate Rd Yukon OK 73099",
+    "addr:housenumber":"699",
+    "addr:postcode":"73099",
+    "addr:street":"Kingsgate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.768362,35.498442,-97.768362,35.498442",
     "geom:latitude":35.498442,
     "geom:longitude":-97.768362,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a8a3f7e487d0fc4ad5a77ec4f68a7d52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":337455637,
-    "wof:lastmodified":1466762396,
+    "wof:lastmodified":1491911924,
     "wof:name":"All-Pro Fence Co",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

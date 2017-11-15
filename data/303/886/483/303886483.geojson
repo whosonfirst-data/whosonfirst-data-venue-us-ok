@@ -2,9 +2,14 @@
   "id": 303886483,
   "type": "Feature",
   "properties": {
+    "addr:full":"4120 S Douglas Blvd Oklahoma City OK 73150",
+    "addr:housenumber":"4120",
+    "addr:postcode":"73150",
+    "addr:street":"S Douglas Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.370762,35.423592,-97.370762,35.423592",
     "geom:latitude":35.423592,
     "geom:longitude":-97.370762,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"e7d98f10cd65c02bd40f9384a37452d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303886483,
-    "wof:lastmodified":1466766933,
+    "wof:lastmodified":1491909236,
     "wof:name":"ABC Mobile Brake",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

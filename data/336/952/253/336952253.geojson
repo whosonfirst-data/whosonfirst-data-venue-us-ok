@@ -2,9 +2,14 @@
   "id": 336952253,
   "type": "Feature",
   "properties": {
+    "addr:full":"3306 N Macarthur Blvd Oklahoma City OK 73122",
+    "addr:housenumber":"3306",
+    "addr:postcode":"73122",
+    "addr:street":"N Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.618886,35.504459,-97.618886,35.504459",
     "geom:latitude":35.504459,
     "geom:longitude":-97.618886,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"3dc5d2bcd6b959745837361a83172723",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":336952253,
-    "wof:lastmodified":1466765333,
+    "wof:lastmodified":1491910161,
     "wof:name":"Beau Too Grooming",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

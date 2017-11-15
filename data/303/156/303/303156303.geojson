@@ -2,9 +2,14 @@
   "id": 303156303,
   "type": "Feature",
   "properties": {
+    "addr:full":"11900 Royal Coach Dr Yukon OK 73099",
+    "addr:housenumber":"11900",
+    "addr:postcode":"73099",
+    "addr:street":"Royal Coach Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.73308,35.590222,-97.73308,35.590222",
     "geom:latitude":35.590222,
     "geom:longitude":-97.73308,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"60c230cf071d96b6afc5c9812c6712ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303156303,
-    "wof:lastmodified":1466764136,
+    "wof:lastmodified":1491911957,
     "wof:name":"Weed & Feed Ltd Co",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

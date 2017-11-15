@@ -2,9 +2,14 @@
   "id": 303222777,
   "type": "Feature",
   "properties": {
+    "addr:full":"3913 N College Ave Bethany OK 73008",
+    "addr:housenumber":"3913",
+    "addr:postcode":"73008",
+    "addr:street":"N College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.629201,35.510653,-97.629201,35.510653",
     "geom:latitude":35.510653,
     "geom:longitude":-97.629201,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"331ece1a4f664c06f0edf708503bc2b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303222777,
-    "wof:lastmodified":1466764574,
+    "wof:lastmodified":1491910137,
     "wof:name":"Howell's Hive",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

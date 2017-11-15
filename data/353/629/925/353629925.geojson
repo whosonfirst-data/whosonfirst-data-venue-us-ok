@@ -2,9 +2,14 @@
   "id": 353629925,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Yukon Ave Yukon OK 73099",
+    "addr:housenumber":"1000",
+    "addr:postcode":"73099",
+    "addr:street":"Yukon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.760263,35.50067,-97.760263,35.50067",
     "geom:latitude":35.50067,
     "geom:longitude":-97.760263,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -40,7 +46,7 @@
     "wof:geomhash":"c3b220818b5c23c4b298f4199e2d44f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":353629925,
-    "wof:lastmodified":1466764529,
+    "wof:lastmodified":1491911800,
     "wof:name":"Yukon Senior High School",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

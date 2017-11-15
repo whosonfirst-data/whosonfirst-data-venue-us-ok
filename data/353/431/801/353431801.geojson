@@ -2,9 +2,14 @@
   "id": 353431801,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 Carlsbad Ct Yukon OK 73099",
+    "addr:housenumber":"309",
+    "addr:postcode":"73099",
+    "addr:street":"Carlsbad Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.737224,35.482572,-97.737224,35.482572",
     "geom:latitude":35.482572,
     "geom:longitude":-97.737224,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"0b0376e1e4dcd1736b8b030d85357566",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353431801,
-    "wof:lastmodified":1466762608,
+    "wof:lastmodified":1491911910,
     "wof:name":"Jurgensen Ent Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

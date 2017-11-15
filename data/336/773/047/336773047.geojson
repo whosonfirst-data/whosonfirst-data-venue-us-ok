@@ -2,9 +2,14 @@
   "id": 336773047,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 N Trade Center Ter Mustang OK 73064",
+    "addr:housenumber":"345",
+    "addr:postcode":"73064",
+    "addr:street":"N Trade Center Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.72142,35.393167,-97.72142,35.393167",
     "geom:latitude":35.393167,
     "geom:longitude":-97.72142,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -46,7 +52,7 @@
     "wof:geomhash":"e1bc82273999785a7148760d87db075b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":336773047,
-    "wof:lastmodified":1466764529,
+    "wof:lastmodified":1491912024,
     "wof:name":"Movie Gallery",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

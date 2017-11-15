@@ -2,9 +2,14 @@
   "id": 336673003,
   "type": "Feature",
   "properties": {
+    "addr:full":"11504 Darlington Rd NW Calumet OK 73014",
+    "addr:housenumber":"11504",
+    "addr:postcode":"73014",
+    "addr:street":"Darlington Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.084376,35.580423,-98.084376,35.580423",
     "geom:latitude":35.580423,
     "geom:longitude":-98.084376,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"eeed2d4b3eb7644ae6749799c18adf32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336673003,
-    "wof:lastmodified":1466763300,
+    "wof:lastmodified":1491911973,
     "wof:name":"David Harman",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

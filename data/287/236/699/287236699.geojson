@@ -2,9 +2,14 @@
   "id": 287236699,
   "type": "Feature",
   "properties": {
+    "addr:full":"2712 S Country Club Rd El Reno OK 73036",
+    "addr:housenumber":"2712",
+    "addr:postcode":"73036",
+    "addr:street":"S Country Club Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.972577,35.506681,-97.972577,35.506681",
     "geom:latitude":35.506681,
     "geom:longitude":-97.972577,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -40,7 +46,7 @@
     "wof:geomhash":"742f3b90577eae2ded84fb3bfc1fa771",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":287236699,
-    "wof:lastmodified":1466762488,
+    "wof:lastmodified":1491911977,
     "wof:name":"Days Inn",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

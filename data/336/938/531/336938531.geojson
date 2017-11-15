@@ -2,9 +2,14 @@
   "id": 336938531,
   "type": "Feature",
   "properties": {
+    "addr:full":"924 S Morgan Rd Oklahoma City OK 73128",
+    "addr:housenumber":"924",
+    "addr:postcode":"73128",
+    "addr:street":"S Morgan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.68905,35.458495,-97.68905,35.458495",
     "geom:latitude":35.458495,
     "geom:longitude":-97.68905,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"8f4a9f618fb05228a618371c78a2bdcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336938531,
-    "wof:lastmodified":1466765392,
+    "wof:lastmodified":1491911817,
     "wof:name":"CRST Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

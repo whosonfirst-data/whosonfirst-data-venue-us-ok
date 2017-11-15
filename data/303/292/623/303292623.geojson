@@ -2,9 +2,14 @@
   "id": 303292623,
   "type": "Feature",
   "properties": {
+    "addr:full":"1828 W Rose Oak Dr Mustang OK 73064",
+    "addr:housenumber":"1828",
+    "addr:postcode":"73064",
+    "addr:street":"W Rose Oak Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.765788,35.381611,-97.765788,35.381611",
     "geom:latitude":35.381611,
     "geom:longitude":-97.765788,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"b10bc0c641f1247f917ad081ee973b6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303292623,
-    "wof:lastmodified":1466765026,
+    "wof:lastmodified":1491911819,
     "wof:name":"Dougs Appliance Repair",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

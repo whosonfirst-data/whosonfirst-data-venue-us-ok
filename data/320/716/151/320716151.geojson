@@ -2,9 +2,14 @@
   "id": 320716151,
   "type": "Feature",
   "properties": {
+    "addr:full":"1007 Kenilworth Rd Oklahoma City OK 73114",
+    "addr:housenumber":"1007",
+    "addr:postcode":"73114",
+    "addr:street":"Kenilworth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.537237,35.558709,-97.537237,35.558709",
     "geom:latitude":35.558709,
     "geom:longitude":-97.537237,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"251c70c00a3a7ec6863cc3441d240806",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320716151,
-    "wof:lastmodified":1466766584,
+    "wof:lastmodified":1491933064,
     "wof:name":"Bart L Shedeck Architect",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

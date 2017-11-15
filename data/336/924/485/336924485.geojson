@@ -2,9 +2,14 @@
   "id": 336924485,
   "type": "Feature",
   "properties": {
+    "addr:full":"9717 NW 10th St Oklahoma City OK 73127",
+    "addr:housenumber":"9717",
+    "addr:postcode":"73127",
+    "addr:street":"Nw 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.687383,35.478876,-97.687383,35.478876",
     "geom:latitude":35.478876,
     "geom:longitude":-97.687383,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"4df1eb31f5d2c2e1e42bc4f52f72a33a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":336924485,
-    "wof:lastmodified":1466765303,
+    "wof:lastmodified":1491912003,
     "wof:name":"Westlake Mobile Home Park",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

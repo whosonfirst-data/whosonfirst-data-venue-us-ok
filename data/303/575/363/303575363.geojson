@@ -2,9 +2,14 @@
   "id": 303575363,
   "type": "Feature",
   "properties": {
+    "addr:full":"14800 SW 65th St Mustang OK 73064",
+    "addr:housenumber":"14800",
+    "addr:postcode":"73064",
+    "addr:street":"Sw 65Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.802268,35.400656,-97.802268,35.400656",
     "geom:latitude":35.400656,
     "geom:longitude":-97.802268,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"bb62ec17d685f2bd3d9b5cc6f9c4c00a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303575363,
-    "wof:lastmodified":1466766124,
+    "wof:lastmodified":1491911835,
     "wof:name":"Plexa Graphics",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

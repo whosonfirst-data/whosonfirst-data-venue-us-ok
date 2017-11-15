@@ -2,9 +2,14 @@
   "id": 336810111,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 W Vandament Ave Yukon OK 73099",
+    "addr:housenumber":"403",
+    "addr:postcode":"73099",
+    "addr:street":"W Vandament Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.749713,35.493457,-97.749713,35.493457",
     "geom:latitude":35.493457,
     "geom:longitude":-97.749713,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"ea21a2188553ced2e6eabeb39a419c4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336810111,
-    "wof:lastmodified":1466764713,
+    "wof:lastmodified":1491911847,
     "wof:name":"Jennifer M King",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

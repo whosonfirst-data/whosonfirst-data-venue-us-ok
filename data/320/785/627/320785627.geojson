@@ -2,9 +2,14 @@
   "id": 320785627,
   "type": "Feature",
   "properties": {
+    "addr:full":"5940 NW 50th St Oklahoma City OK 73122",
+    "addr:housenumber":"5940",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 50Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.621755,35.522228,-97.621755,35.522228",
     "geom:latitude":35.522228,
     "geom:longitude":-97.621755,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"378f4223d31df54a6004e2c03968ad96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320785627,
-    "wof:lastmodified":1466766807,
+    "wof:lastmodified":1491910199,
     "wof:name":"D&C Masonry LLC",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

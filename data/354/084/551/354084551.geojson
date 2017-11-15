@@ -2,9 +2,14 @@
   "id": 354084551,
   "type": "Feature",
   "properties": {
+    "addr:full":"5301 N Meridian Ave Oklahoma City OK 73112",
+    "addr:housenumber":"5301",
+    "addr:postcode":"73112",
+    "addr:street":"N Meridian Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.601191,35.522329,-97.601191,35.522329",
     "geom:latitude":35.522329,
     "geom:longitude":-97.601191,
@@ -38,6 +43,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -51,7 +57,7 @@
     "wof:geomhash":"ad0a290f8f6d492cfed9845b24b18da9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":354084551,
-    "wof:lastmodified":1466763452,
+    "wof:lastmodified":1491910166,
     "wof:name":"Danforth Senior Center",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

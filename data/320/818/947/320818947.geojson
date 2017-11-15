@@ -2,9 +2,14 @@
   "id": 320818947,
   "type": "Feature",
   "properties": {
+    "addr:full":"7300 N Comanche Ave Oklahoma City OK 73132",
+    "addr:housenumber":"7300",
+    "addr:postcode":"73132",
+    "addr:street":"N Comanche Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.616849,35.546568,-97.616849,35.546568",
     "geom:latitude":35.546568,
     "geom:longitude":-97.616849,
@@ -26,8 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714421,
         102082577
     ],
     "wof:breaches":[],
@@ -35,20 +40,20 @@
         "sg:id":"SG_6jiJb3F6Xo0qhLNun2eD7J_35.546568_-97.616849@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"7662bd5d00efbfa91607a0dd38c810cd",
+    "wof:geomhash":"5aadcc0841b2ecc8bc6b349ca315c240",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
-            "locality_id":101714421,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688585,
             "venue_id":320818947
         }
     ],
     "wof:id":320818947,
-    "wof:lastmodified":1466766892,
+    "wof:lastmodified":1494529553,
     "wof:name":"Burris Valley Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

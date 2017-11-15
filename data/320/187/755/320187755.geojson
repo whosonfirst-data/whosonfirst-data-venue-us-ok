@@ -2,9 +2,14 @@
   "id": 320187755,
   "type": "Feature",
   "properties": {
+    "addr:full":"2449 Townsend Dr El Reno OK 73036",
+    "addr:housenumber":"2449",
+    "addr:postcode":"73036",
+    "addr:street":"Townsend Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.986292,35.535325,-97.986292,35.535325",
     "geom:latitude":35.535325,
     "geom:longitude":-97.986292,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"d0422e4d646a328cca4f3dee1c39c1ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320187755,
-    "wof:lastmodified":1466764542,
+    "wof:lastmodified":1491911854,
     "wof:name":"Eugene Cryer Painting",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

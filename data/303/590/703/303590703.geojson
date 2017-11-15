@@ -2,9 +2,14 @@
   "id": 303590703,
   "type": "Feature",
   "properties": {
+    "addr:full":"1292 W I- 240 Svc Rd Oklahoma City OK 73139",
+    "addr:housenumber":"1292;240",
+    "addr:postcode":"73139",
+    "addr:street":"W I;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.535657,35.391006,-97.535657,35.391006",
     "geom:latitude":35.391006,
     "geom:longitude":-97.535657,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"2586e06802bcf0297a823bd59f0acd3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303590703,
-    "wof:lastmodified":1466766168,
+    "wof:lastmodified":1491909299,
     "wof:name":"Carriage Square Apartments",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

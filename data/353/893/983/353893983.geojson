@@ -2,9 +2,14 @@
   "id": 353893983,
   "type": "Feature",
   "properties": {
+    "addr:full":"6414 S Eastern Ave Oklahoma City OK 73129",
+    "addr:housenumber":"6414",
+    "addr:postcode":"73129",
+    "addr:street":"S Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.476558,35.403028,-97.476558,35.403028",
     "geom:latitude":35.403028,
     "geom:longitude":-97.476558,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"54c341bb3e9952943933b042e4370279",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353893983,
-    "wof:lastmodified":1466765668,
+    "wof:lastmodified":1491909444,
     "wof:name":"U S P C I / Tinker Project",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

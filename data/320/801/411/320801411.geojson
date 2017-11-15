@@ -2,9 +2,14 @@
   "id": 320801411,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 Dublin Rd Oklahoma City OK 73120",
+    "addr:housenumber":"2101",
+    "addr:postcode":"73120",
+    "addr:street":"Dublin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.553157,35.569821,-97.553157,35.569821",
     "geom:latitude":35.569821,
     "geom:longitude":-97.553157,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"1ce114d4d1d674101063fe6a8839fe37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":320801411,
-    "wof:lastmodified":1466766841,
+    "wof:lastmodified":1491933079,
     "wof:name":"All Hort Systems Inc",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

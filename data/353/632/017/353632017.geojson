@@ -2,9 +2,14 @@
   "id": 353632017,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 N Admire Ave El Reno OK 73036",
+    "addr:housenumber":"501",
+    "addr:postcode":"73036",
+    "addr:street":"N Admire Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.957153,35.537735,-97.957153,35.537735",
     "geom:latitude":35.537735,
     "geom:longitude":-97.957153,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"2da318fb92c56159ac033655866e296c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353632017,
-    "wof:lastmodified":1466764531,
+    "wof:lastmodified":1491911985,
     "wof:name":"Mount Moriah Baptist Church",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

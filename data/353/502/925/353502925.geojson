@@ -2,9 +2,14 @@
   "id": 353502925,
   "type": "Feature",
   "properties": {
+    "addr:full":"5900 N Sterling Dr Oklahoma City OK 73122",
+    "addr:housenumber":"5900",
+    "addr:postcode":"73122",
+    "addr:street":"N Sterling Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.60874,35.532157,-97.60874,35.532157",
     "geom:latitude":35.532157,
     "geom:longitude":-97.60874,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"4ea219d8812e445bf91a12ce860402d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353502925,
-    "wof:lastmodified":1466763163,
+    "wof:lastmodified":1491910242,
     "wof:name":"Janyths Monograms & Gifts",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

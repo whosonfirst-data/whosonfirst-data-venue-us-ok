@@ -2,9 +2,14 @@
   "id": 336907759,
   "type": "Feature",
   "properties": {
+    "addr:full":"5602 N Rockwell Ave Bethany OK 73008",
+    "addr:housenumber":"5602",
+    "addr:postcode":"73008",
+    "addr:street":"N Rockwell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.636616,35.527886,-97.636616,35.527886",
     "geom:latitude":35.527886,
     "geom:longitude":-97.636616,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"69818580af144262dfc3cef3d2cb2bdc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336907759,
-    "wof:lastmodified":1466765153,
+    "wof:lastmodified":1491910153,
     "wof:name":"Federal Exams AVI Grund Schols",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354106725,
   "type": "Feature",
   "properties": {
+    "addr:full":"6205 Kingston Rd Oklahoma City OK 73122",
+    "addr:housenumber":"6205",
+    "addr:postcode":"73122",
+    "addr:street":"Kingston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.606074,35.534515,-97.606074,35.534515",
     "geom:latitude":35.534515,
     "geom:longitude":-97.606074,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"4dc42d05375f27981a2ae9e62deeb8ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":354106725,
-    "wof:lastmodified":1466763538,
+    "wof:lastmodified":1491910143,
     "wof:name":"Chloe Enterprises",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303938569,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 S Nebraska Ave Oklahoma City OK 73129",
+    "addr:housenumber":"4401",
+    "addr:postcode":"73129",
+    "addr:street":"S Nebraska Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.47927,35.421756,-97.47927,35.421756",
     "geom:latitude":35.421756,
     "geom:longitude":-97.47927,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -46,7 +52,7 @@
     "wof:geomhash":"f38fec192e9b4ad4a1fc608c095901c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":303938569,
-    "wof:lastmodified":1466767017,
+    "wof:lastmodified":1491909395,
     "wof:name":"Premier Landscape & Maint",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

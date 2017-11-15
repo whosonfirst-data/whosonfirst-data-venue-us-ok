@@ -2,9 +2,14 @@
   "id": 320515999,
   "type": "Feature",
   "properties": {
+    "addr:full":"11621 N Santa Fe Ave Oklahoma City OK 73114",
+    "addr:housenumber":"11621",
+    "addr:postcode":"73114",
+    "addr:street":"N Santa Fe Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.51381,35.593062,-97.51381,35.593062",
     "geom:latitude":35.593062,
     "geom:longitude":-97.51381,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"7cf2b1e7670bbaca471faea2502e3b9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320515999,
-    "wof:lastmodified":1466766092,
+    "wof:lastmodified":1491933100,
     "wof:name":"Taylor's Furniture Restoration",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

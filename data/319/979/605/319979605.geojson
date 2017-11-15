@@ -2,9 +2,14 @@
   "id": 319979605,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 Sequoia Park Dr Yukon OK 73099",
+    "addr:housenumber":"2501",
+    "addr:postcode":"73099",
+    "addr:street":"Sequoia Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.747062,35.480406,-97.747062,35.480406",
     "geom:latitude":35.480406,
     "geom:longitude":-97.747062,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"7c9439fc07fdb973dde9ce42135e74d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":319979605,
-    "wof:lastmodified":1466762374,
+    "wof:lastmodified":1491911988,
     "wof:name":"Dak Design LLC",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

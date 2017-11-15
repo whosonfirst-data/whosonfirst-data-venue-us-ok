@@ -2,9 +2,14 @@
   "id": 320272315,
   "type": "Feature",
   "properties": {
+    "addr:full":"522 W Watts St El Reno OK 73036",
+    "addr:housenumber":"522",
+    "addr:postcode":"73036",
+    "addr:street":"W Watts St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.958246,35.529548,-97.958246,35.529548",
     "geom:latitude":35.529548,
     "geom:longitude":-97.958246,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"5ce3924d3ab3a605f91014c4ad4e842f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320272315,
-    "wof:lastmodified":1466764923,
+    "wof:lastmodified":1491911879,
     "wof:name":"Used To Be New Store",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

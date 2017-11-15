@@ -2,9 +2,14 @@
   "id": 303227949,
   "type": "Feature",
   "properties": {
+    "addr:full":"126 W Main St Yukon OK 73099",
+    "addr:housenumber":"126",
+    "addr:postcode":"73099",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.746557,35.507809,-97.746557,35.507809",
     "geom:latitude":35.507809,
     "geom:longitude":-97.746557,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d6b16c99c9d17191ee902f48e9094648",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303227949,
-    "wof:lastmodified":1466764679,
+    "wof:lastmodified":1491911797,
     "wof:name":"Hair Insight",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

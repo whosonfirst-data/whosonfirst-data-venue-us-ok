@@ -2,9 +2,14 @@
   "id": 353918689,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 SE 67th St Oklahoma City OK 73149",
+    "addr:housenumber":"324",
+    "addr:postcode":"73149",
+    "addr:street":"Se 67Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.503805,35.397905,-97.503805,35.397905",
     "geom:latitude":35.397905,
     "geom:longitude":-97.503805,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"8307108600edf37447cfe1ba0f2733af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353918689,
-    "wof:lastmodified":1466765807,
+    "wof:lastmodified":1491909340,
     "wof:name":"Handley's Septic Tank Cleaning",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

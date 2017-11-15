@@ -2,9 +2,14 @@
   "id": 320105301,
   "type": "Feature",
   "properties": {
+    "addr:full":"3901 N Tulsa Ave Oklahoma City OK 73112",
+    "addr:housenumber":"3901",
+    "addr:postcode":"73112",
+    "addr:street":"N Tulsa Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.592347,35.510859,-97.592347,35.510859",
     "geom:latitude":35.510859,
     "geom:longitude":-97.592347,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"d67930167186bb1c3de902ad7789bbad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":320105301,
-    "wof:lastmodified":1466763844,
+    "wof:lastmodified":1491910189,
     "wof:name":"Weightroom",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

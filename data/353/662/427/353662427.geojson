@@ -2,14 +2,20 @@
   "id": 353662427,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 E Vandament Ave Yukon OK 73099",
+    "addr:housenumber":"115",
+    "addr:postcode":"73099",
+    "addr:street":"E Vandament Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.741237,35.493436,-97.741237,35.493436",
     "geom:latitude":35.493436,
     "geom:longitude":-97.741237,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"115 E Vandament Ave",
     "sg:city":"Yukon",
     "sg:classifiers":[
@@ -29,20 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
         85805913
     ],
+    "wof:brand_id":1125156973,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MqMxo1PCr55mjhTzNoA58_35.493436_-97.741237@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb30db157ea7ad281747899a9b8115bd",
+    "wof:geomhash":"960b839752432ab7fad21dc94fd869f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":353662427,
-    "wof:lastmodified":1466764692,
+    "wof:lastmodified":1510699775,
     "wof:name":"Hair Biz",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303096819,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 W Vail Dr Yukon OK 73099",
+    "addr:housenumber":"121",
+    "addr:postcode":"73099",
+    "addr:street":"W Vail Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.744986,35.481662,-97.744986,35.481662",
     "geom:latitude":35.481662,
     "geom:longitude":-97.744986,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"2bcace6dcfbb93940f745d6c3a794451",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303096819,
-    "wof:lastmodified":1466763187,
+    "wof:lastmodified":1491911969,
     "wof:name":"Lain Express Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

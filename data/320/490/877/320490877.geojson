@@ -2,9 +2,14 @@
   "id": 320490877,
   "type": "Feature",
   "properties": {
+    "addr:full":"4708 N Macarthur Blvd Warr Acres OK 73122",
+    "addr:housenumber":"4708",
+    "addr:postcode":"73122",
+    "addr:street":"N Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.618888,35.519896,-97.618888,35.519896",
     "geom:latitude":35.519896,
     "geom:longitude":-97.618888,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"e927c7974b0052f620cf6122a795c562",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320490877,
-    "wof:lastmodified":1466765962,
+    "wof:lastmodified":1491910235,
     "wof:name":"Dick Click & Assoc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

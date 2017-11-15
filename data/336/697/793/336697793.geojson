@@ -2,9 +2,14 @@
   "id": 336697793,
   "type": "Feature",
   "properties": {
+    "addr:full":"5308 NW 44th St Oklahoma City OK 73122",
+    "addr:housenumber":"5308",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 44Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.606467,35.516332,-97.606467,35.516332",
     "geom:latitude":35.516332,
     "geom:longitude":-97.606467,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"0e7a795fe0ae8dff0a43fcc0a1b7a96e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336697793,
-    "wof:lastmodified":1466763685,
+    "wof:lastmodified":1491910112,
     "wof:name":"Select Senior Services Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

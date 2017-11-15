@@ -2,9 +2,14 @@
   "id": 336813473,
   "type": "Feature",
   "properties": {
+    "addr:full":"6988 Richland Rd NW Piedmont OK 73762",
+    "addr:housenumber":"6988",
+    "addr:postcode":"73762",
+    "addr:street":"Richland Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.798372,35.701534,-97.798372,35.701534",
     "geom:latitude":35.701534,
     "geom:longitude":-97.798372,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"4bdd065777fb690d59861a8129490ca4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336813473,
-    "wof:lastmodified":1466764652,
+    "wof:lastmodified":1491912080,
     "wof:name":"Banta Commercial Properties",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

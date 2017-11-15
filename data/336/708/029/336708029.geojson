@@ -2,9 +2,14 @@
   "id": 336708029,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 Epperly Dr Oklahoma City OK 73115",
+    "addr:housenumber":"",
+    "addr:postcode":"2800;73115",
+    "addr:street":"Epperly Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.437601,35.436581,-97.437601,35.436581",
     "geom:latitude":35.436581,
     "geom:longitude":-97.437601,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714453,
-        102082577
+        101714461,
+        102082577,
+        85819711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +48,19 @@
     "wof:geomhash":"994192b72726ae15c37d28f5f4e6035d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
-            "locality_id":101714453,
-            "neighbourhood_id":-1,
+            "locality_id":101714461,
+            "neighbourhood_id":85819711,
             "region_id":85688585,
             "venue_id":336708029
         }
     ],
     "wof:id":336708029,
-    "wof:lastmodified":1466763846,
+    "wof:lastmodified":1491909353,
     "wof:name":"Del City Police-Records Div",
-    "wof:parent_id":-1,
+    "wof:parent_id":85819711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

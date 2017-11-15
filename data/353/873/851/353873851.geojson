@@ -2,9 +2,14 @@
   "id": 353873851,
   "type": "Feature",
   "properties": {
+    "addr:full":"11117 SW 59th St Mustang OK 73064",
+    "addr:housenumber":"11117",
+    "addr:postcode":"73064",
+    "addr:street":"Sw 59Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.721489,35.406292,-97.721489,35.406292",
     "geom:latitude":35.406292,
     "geom:longitude":-97.721489,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"d8e040c0f40cdfd7828bd4f03cffab8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353873851,
-    "wof:lastmodified":1466765586,
+    "wof:lastmodified":1491911956,
     "wof:name":"Hill Grading Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

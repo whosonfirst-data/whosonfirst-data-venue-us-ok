@@ -2,9 +2,14 @@
   "id": 287127157,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Creekwood Dr Yukon OK 73099",
+    "addr:housenumber":"800",
+    "addr:postcode":"73099",
+    "addr:street":"Creekwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.755721,35.487407,-97.755721,35.487407",
     "geom:latitude":35.487407,
     "geom:longitude":-97.755721,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"0503d32172048745a997218706b3fbae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":287127157,
-    "wof:lastmodified":1466763589,
+    "wof:lastmodified":1491912062,
     "wof:name":"BP Industries",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

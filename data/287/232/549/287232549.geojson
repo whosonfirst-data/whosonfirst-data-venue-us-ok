@@ -2,9 +2,14 @@
   "id": 287232549,
   "type": "Feature",
   "properties": {
+    "addr:full":"5324 NW 46th St Warr Acres OK 73122",
+    "addr:housenumber":"5324",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 46Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.609729,35.518592,-97.609729,35.518592",
     "geom:latitude":35.518592,
     "geom:longitude":-97.609729,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"076345930c37aceada5d9cba7a1a04d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":287232549,
-    "wof:lastmodified":1466762419,
+    "wof:lastmodified":1491910214,
     "wof:name":"USPCI Inc",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

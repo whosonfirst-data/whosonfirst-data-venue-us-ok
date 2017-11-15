@@ -2,9 +2,14 @@
   "id": 287294335,
   "type": "Feature",
   "properties": {
+    "addr:full":"6425 S Eastern Ave Oklahoma City OK 73149",
+    "addr:housenumber":"6425",
+    "addr:postcode":"73149",
+    "addr:street":"S Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.476705,35.403174,-97.476705,35.403174",
     "geom:latitude":35.403174,
     "geom:longitude":-97.476705,
@@ -39,6 +44,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -52,7 +58,7 @@
     "wof:geomhash":"337e9be6f649ef2d298e6c3334fb0e49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":287294335,
-    "wof:lastmodified":1466763345,
+    "wof:lastmodified":1491909379,
     "wof:name":"Midwest Container Company Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

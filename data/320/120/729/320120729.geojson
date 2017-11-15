@@ -2,9 +2,14 @@
   "id": 320120729,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 N Sam Houston Mustang OK 73064",
+    "addr:housenumber":"309",
+    "addr:postcode":"73064",
+    "addr:street":"N Sam Houston",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.740855,35.394938,-97.740855,35.394938",
     "geom:latitude":35.394938,
     "geom:longitude":-97.740855,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"d555c6caf04f026f743c9b268bbba287",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":320120729,
-    "wof:lastmodified":1466764101,
+    "wof:lastmodified":1491911799,
     "wof:name":"Infisage LLC",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354055413,
   "type": "Feature",
   "properties": {
+    "addr:full":"608 Stanton L Young Blvd Oklahoma City OK 73104",
+    "addr:housenumber":"608",
+    "addr:postcode":"73104",
+    "addr:street":"Stanton L Young Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.501952,35.480072,-97.501952,35.480072",
     "geom:latitude":35.480072,
     "geom:longitude":-97.501952,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"919ed271925f7c99b87f4aa48f31b9b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":354055413,
-    "wof:lastmodified":1466763320,
+    "wof:lastmodified":1491927388,
     "wof:name":"Dean Mc Gee Eye Institute",
     "wof:parent_id":85871693,
     "wof:placetype":"venue",

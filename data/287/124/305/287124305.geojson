@@ -2,9 +2,14 @@
   "id": 287124305,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 S Littler Ave Edmond OK 73034",
+    "addr:housenumber":"900",
+    "addr:postcode":"73034",
+    "addr:street":"S Littler Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.479708,35.644078,-97.479708,35.644078",
     "geom:latitude":35.644078,
     "geom:longitude":-97.479708,
@@ -30,8 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714451,
         102082577
     ],
     "wof:breaches":[],
@@ -39,20 +44,20 @@
         "sg:id":"SG_6entvMVJCUaQHeGLQ8wWXJ_35.644078_-97.479708@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"7569a9c07c69922268d6b725fd56030b",
+    "wof:geomhash":"fec6699c48b377a5b9dc4727b0e3337d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
-            "locality_id":101714451,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688585,
             "venue_id":287124305
         }
     ],
     "wof:id":287124305,
-    "wof:lastmodified":1466763578,
+    "wof:lastmodified":1494529566,
     "wof:name":"St John The Baptist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

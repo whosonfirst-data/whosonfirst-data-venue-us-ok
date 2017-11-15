@@ -2,14 +2,20 @@
   "id": 319967947,
   "type": "Feature",
   "properties": {
+    "addr:full":"1318 W Britton Rd Oklahoma City OK 73114",
+    "addr:housenumber":"1318",
+    "addr:postcode":"73114",
+    "addr:street":"W Britton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.537058,35.565488,-97.537058,35.565488",
     "geom:latitude":35.565488,
     "geom:longitude":-97.537058,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1318 W Britton Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -27,20 +33,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
         85807637
     ],
+    "wof:brand_id":1125154255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KU1CHdzo15MtJ7HvHR75V_35.565488_-97.537058@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"812a0f060aae18ec2b2ba5d9db292f62",
+    "wof:geomhash":"32061aa788444397365c978cb5afd148",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":319967947,
-    "wof:lastmodified":1466764149,
+    "wof:lastmodified":1510697447,
     "wof:name":"Taco Mayo",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

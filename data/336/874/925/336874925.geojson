@@ -2,9 +2,14 @@
   "id": 336874925,
   "type": "Feature",
   "properties": {
+    "addr:full":"7200 NW 63rd St Bethany OK 73132",
+    "addr:housenumber":"7200",
+    "addr:postcode":"73132",
+    "addr:street":"Nw 63Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.636702,35.536972,-97.636702,35.536972",
     "geom:latitude":35.536972,
     "geom:longitude":-97.636702,
@@ -35,9 +40,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714421,
+        101714461,
         102082577,
+        85871705,
+        101714421,
         85854531
     ],
     "wof:breaches":[],
@@ -48,7 +56,16 @@
     "wof:geomhash":"7ea0fd8d9a8ec49646fcfbbda4699c10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871705,
+            "region_id":85688585,
+            "venue_id":336874925
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -58,9 +75,9 @@
         }
     ],
     "wof:id":336874925,
-    "wof:lastmodified":1466765195,
+    "wof:lastmodified":1491910146,
     "wof:name":"Aviation General Inc",
-    "wof:parent_id":85854531,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 336733061,
   "type": "Feature",
   "properties": {
+    "addr:full":"9500 NW 4th St Oklahoma City OK 73127",
+    "addr:housenumber":"9500",
+    "addr:postcode":"73127",
+    "addr:street":"Nw 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.685418,35.472845,-97.685418,35.472845",
     "geom:latitude":35.472845,
     "geom:longitude":-97.685418,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -49,7 +55,7 @@
     "wof:geomhash":"0fc345627998c9eedfd32aea51d999d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":336733061,
-    "wof:lastmodified":1466764190,
+    "wof:lastmodified":1491911971,
     "wof:name":"Lopez Foods Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

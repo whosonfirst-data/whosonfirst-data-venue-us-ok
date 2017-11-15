@@ -2,9 +2,14 @@
   "id": 303085263,
   "type": "Feature",
   "properties": {
+    "addr:full":"5348 NW 44th St Oklahoma City OK 73122",
+    "addr:housenumber":"5348",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 44Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.605719,35.516306,-97.605719,35.516306",
     "geom:latitude":35.516306,
     "geom:longitude":-97.605719,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"251ec4660a0c05a4a02cdc8df79ee4f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303085263,
-    "wof:lastmodified":1466762993,
+    "wof:lastmodified":1491910203,
     "wof:name":"Gardening Services",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

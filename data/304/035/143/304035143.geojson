@@ -2,9 +2,14 @@
   "id": 304035143,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 Elm Ave Yukon OK 73099",
+    "addr:housenumber":"302",
+    "addr:postcode":"73099",
+    "addr:street":"Elm Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.74892,35.506711,-97.74892,35.506711",
     "geom:latitude":35.506711,
     "geom:longitude":-97.74892,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"cf5b46394f3595b1064d7ace48aad1a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":304035143,
-    "wof:lastmodified":1466763006,
+    "wof:lastmodified":1491911892,
     "wof:name":"Jacques Feni Coiffures",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

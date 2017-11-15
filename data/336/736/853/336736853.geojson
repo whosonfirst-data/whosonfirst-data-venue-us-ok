@@ -2,9 +2,14 @@
   "id": 336736853,
   "type": "Feature",
   "properties": {
+    "addr:full":"218 State Hwy 152 Mustang OK 73064",
+    "addr:housenumber":"218",
+    "addr:postcode":"73064",
+    "addr:street":"State Hwy 152",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.724933,35.391605,-97.724933,35.391605",
     "geom:latitude":35.391605,
     "geom:longitude":-97.724933,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -40,7 +46,7 @@
     "wof:geomhash":"ad8819f809ce0e537a6998245695343b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":336736853,
-    "wof:lastmodified":1466764216,
+    "wof:lastmodified":1491911950,
     "wof:name":"Sonic Drive-In",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

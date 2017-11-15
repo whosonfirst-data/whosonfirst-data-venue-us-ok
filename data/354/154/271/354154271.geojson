@@ -2,9 +2,14 @@
   "id": 354154271,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 E Wade St El Reno OK 73036",
+    "addr:housenumber":"215",
+    "addr:postcode":"73036",
+    "addr:street":"E Wade St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.952549,35.531455,-97.952549,35.531455",
     "geom:latitude":35.531455,
     "geom:longitude":-97.952549,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"dd5799e054d47a7b01a60f79667d4d5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":354154271,
-    "wof:lastmodified":1466763706,
+    "wof:lastmodified":1491911864,
     "wof:name":"El Reno Carnegie Library",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

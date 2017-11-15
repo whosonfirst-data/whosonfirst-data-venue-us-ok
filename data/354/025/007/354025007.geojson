@@ -2,9 +2,14 @@
   "id": 354025007,
   "type": "Feature",
   "properties": {
+    "addr:full":"10124 Thompson Ave Yukon OK 73099",
+    "addr:housenumber":"10124",
+    "addr:postcode":"73099",
+    "addr:street":"Thompson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.697832,35.445576,-97.697832,35.445576",
     "geom:latitude":35.445576,
     "geom:longitude":-97.697832,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"2775af43690417996735807a65fa3122",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":354025007,
-    "wof:lastmodified":1466764194,
+    "wof:lastmodified":1491912044,
     "wof:name":"Jvh Marketing",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

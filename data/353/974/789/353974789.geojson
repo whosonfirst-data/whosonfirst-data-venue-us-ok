@@ -2,9 +2,14 @@
   "id": 353974789,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 S Rock Island Ave El Reno OK 73036",
+    "addr:housenumber":"112",
+    "addr:postcode":"73036",
+    "addr:street":"S Rock Island Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.952746,35.533091,-97.952746,35.533091",
     "geom:latitude":35.533091,
     "geom:longitude":-97.952746,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"55173f7473e907a049a63f10a73e17d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":353974789,
-    "wof:lastmodified":1466765903,
+    "wof:lastmodified":1491912009,
     "wof:name":"Haynes Photo Supply & Studio",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

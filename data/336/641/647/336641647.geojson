@@ -2,9 +2,14 @@
   "id": 336641647,
   "type": "Feature",
   "properties": {
+    "addr:full":"5350 S Westminster Rd Oklahoma City OK 73150",
+    "addr:housenumber":"5350",
+    "addr:postcode":"73150",
+    "addr:street":"S Westminster Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.335607,35.414705,-97.335607,35.414705",
     "geom:latitude":35.414705,
     "geom:longitude":-97.335607,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3ab0a02fc1cb9e807556b6d3e64c7538",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336641647,
-    "wof:lastmodified":1466762818,
+    "wof:lastmodified":1491909381,
     "wof:name":"Comprehensive Pain Center Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

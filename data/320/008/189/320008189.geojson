@@ -2,9 +2,14 @@
   "id": 320008189,
   "type": "Feature",
   "properties": {
+    "addr:full":"8109 S Western Ave Oklahoma City OK 73139",
+    "addr:housenumber":"8109",
+    "addr:postcode":"73139",
+    "addr:street":"S Western Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.530192,35.385537,-97.530192,35.385537",
     "geom:latitude":35.385537,
     "geom:longitude":-97.530192,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"a55567a3e678695c1e5ce99523c846a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320008189,
-    "wof:lastmodified":1466762396,
+    "wof:lastmodified":1491909334,
     "wof:name":"Mary Crawford Insurance Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354094153,
   "type": "Feature",
   "properties": {
+    "addr:full":"2205 SE 56th St Oklahoma City OK 73129",
+    "addr:housenumber":"2205",
+    "addr:postcode":"73129",
+    "addr:street":"Se 56Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.475095,35.410018,-97.475095,35.410018",
     "geom:latitude":35.410018,
     "geom:longitude":-97.475095,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"d5e9e1f42355745f4ba3d503ff59d134",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":354094153,
-    "wof:lastmodified":1466763477,
+    "wof:lastmodified":1491909336,
     "wof:name":"Manikins",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

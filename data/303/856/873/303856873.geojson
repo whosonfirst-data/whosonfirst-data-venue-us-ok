@@ -2,9 +2,14 @@
   "id": 303856873,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 NE 6th St Oklahoma City OK 73104",
+    "addr:housenumber":"601",
+    "addr:postcode":"73104",
+    "addr:street":"Ne 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.500869,35.47391,-97.500869,35.47391",
     "geom:latitude":35.47391,
     "geom:longitude":-97.500869,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
-        102082577
+        102082577,
+        85871671,
+        85871693
     ],
     "wof:brand_id":420574907,
     "wof:breaches":[],
@@ -43,19 +51,28 @@
     "wof:geomhash":"d1e0ccd294616829b0c05389bec9f4d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871671,
+            "region_id":85688585,
+            "venue_id":303856873
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082577,
+            "locality_id":101714461,
+            "neighbourhood_id":85871693,
             "region_id":85688585,
             "venue_id":303856873
         }
     ],
     "wof:id":303856873,
-    "wof:lastmodified":1466766854,
+    "wof:lastmodified":1491927378,
     "wof:name":"Red Cross",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

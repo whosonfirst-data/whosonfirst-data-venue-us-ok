@@ -2,9 +2,14 @@
   "id": 304086175,
   "type": "Feature",
   "properties": {
+    "addr:full":"3300 S Highland Park Dr Oklahoma City OK 73129",
+    "addr:housenumber":"3300",
+    "addr:postcode":"73129",
+    "addr:street":"S Highland Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.463555,35.433123,-97.463555,35.433123",
     "geom:latitude":35.433123,
     "geom:longitude":-97.463555,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"3f4f5d1d20021f6d48a561cae4a6fa7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":304086175,
-    "wof:lastmodified":1466763327,
+    "wof:lastmodified":1491909350,
     "wof:name":"Highland Park Mobile Estates",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

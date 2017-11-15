@@ -2,9 +2,14 @@
   "id": 353785613,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Oak Ave Yukon OK 73099",
+    "addr:housenumber":"601",
+    "addr:postcode":"73099",
+    "addr:street":"Oak Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.753447,35.504726,-97.753447,35.504726",
     "geom:latitude":35.504726,
     "geom:longitude":-97.753447,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"4f07ecfbdf6f05f99d59ec2ddd2d2a56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353785613,
-    "wof:lastmodified":1466765369,
+    "wof:lastmodified":1491911915,
     "wof:name":"Yukon Indian Education Program",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

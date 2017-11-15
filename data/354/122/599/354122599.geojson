@@ -2,9 +2,14 @@
   "id": 354122599,
   "type": "Feature",
   "properties": {
+    "addr:full":"435 W Hillcrest Dr Mustang OK 73064",
+    "addr:housenumber":"435",
+    "addr:postcode":"73064",
+    "addr:street":"W Hillcrest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.728788,35.386359,-97.728788,35.386359",
     "geom:latitude":35.386359,
     "geom:longitude":-97.728788,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"6614ce3a447467f50e7a5b55582e520a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":354122599,
-    "wof:lastmodified":1466763595,
+    "wof:lastmodified":1491911884,
     "wof:name":"Hurricane Pressure Wash",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

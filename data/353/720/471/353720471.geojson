@@ -2,9 +2,14 @@
   "id": 353720471,
   "type": "Feature",
   "properties": {
+    "addr:full":"5930 NW 39th St Oklahoma City OK 73122",
+    "addr:housenumber":"5930",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 39Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.621216,35.511091,-97.621216,35.511091",
     "geom:latitude":35.511091,
     "geom:longitude":-97.621216,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"843cbee3f7026425f5824c3ef9af5b9e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353720471,
-    "wof:lastmodified":1466764853,
+    "wof:lastmodified":1491910242,
     "wof:name":"Spay Clinic",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

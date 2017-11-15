@@ -2,9 +2,14 @@
   "id": 320805239,
   "type": "Feature",
   "properties": {
+    "addr:full":"1032 Garth Brooks Blvd Yukon OK 73085",
+    "addr:housenumber":"1032",
+    "addr:postcode":"73085",
+    "addr:street":"Garth Brooks Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.760309,35.497797,-97.760309,35.497797",
     "geom:latitude":35.497797,
     "geom:longitude":-97.760309,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"6fd187843bd3156ce0b64f3247588443",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320805239,
-    "wof:lastmodified":1466766839,
+    "wof:lastmodified":1491911814,
     "wof:name":"Ren Nails",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

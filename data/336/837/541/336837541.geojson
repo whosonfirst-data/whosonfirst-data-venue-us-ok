@@ -2,9 +2,14 @@
   "id": 336837541,
   "type": "Feature",
   "properties": {
+    "addr:full":"5709 N Donald Ave Oklahoma City OK 73122",
+    "addr:housenumber":"5709",
+    "addr:postcode":"73122",
+    "addr:street":"N Donald Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.627395,35.52874,-97.627395,35.52874",
     "geom:latitude":35.52874,
     "geom:longitude":-97.627395,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5c67f62b418b3531e4e80b27fa5c2f6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336837541,
-    "wof:lastmodified":1466764839,
+    "wof:lastmodified":1491910170,
     "wof:name":"Maximum Maintenance",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

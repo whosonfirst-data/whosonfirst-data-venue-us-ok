@@ -2,9 +2,14 @@
   "id": 320447811,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Maxi Ct Yukon OK 73099",
+    "addr:housenumber":"400",
+    "addr:postcode":"73099",
+    "addr:street":"Maxi Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.735143,35.503848,-97.735143,35.503848",
     "geom:latitude":35.503848,
     "geom:longitude":-97.735143,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"d6be1ca46d01a1293666f3dea1fbdfa9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320447811,
-    "wof:lastmodified":1466765941,
+    "wof:lastmodified":1491911824,
     "wof:name":"Redneck Tannery",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

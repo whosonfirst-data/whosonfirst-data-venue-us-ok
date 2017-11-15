@@ -2,9 +2,14 @@
   "id": 336866125,
   "type": "Feature",
   "properties": {
+    "addr:full":"7717 S Cemetery Rd Yukon OK 73099",
+    "addr:housenumber":"7717",
+    "addr:postcode":"73099",
+    "addr:street":"S Cemetery Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.760164,35.431605,-97.760164,35.431605",
     "geom:latitude":35.431605,
     "geom:longitude":-97.760164,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"e2465fa409c0e502188f3a9d6da64b3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336866125,
-    "wof:lastmodified":1466764903,
+    "wof:lastmodified":1491911809,
     "wof:name":"Myers Saddle Shop",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

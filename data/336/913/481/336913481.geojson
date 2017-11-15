@@ -2,9 +2,14 @@
   "id": 336913481,
   "type": "Feature",
   "properties": {
+    "addr:full":"917 NW 92nd St Oklahoma City OK 73114",
+    "addr:housenumber":"917",
+    "addr:postcode":"73114",
+    "addr:street":"Nw 92Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.529915,35.56458,-97.529915,35.56458",
     "geom:latitude":35.56458,
     "geom:longitude":-97.529915,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"47e5076651e332cc6797f3446cd39d91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":336913481,
-    "wof:lastmodified":1466765274,
+    "wof:lastmodified":1491933067,
     "wof:name":"American Legion",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

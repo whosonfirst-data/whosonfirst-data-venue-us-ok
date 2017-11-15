@@ -2,9 +2,14 @@
   "id": 320768529,
   "type": "Feature",
   "properties": {
+    "addr:full":"8600 S Western Ave Oklahoma City OK 73139",
+    "addr:housenumber":"8600",
+    "addr:postcode":"73139",
+    "addr:street":"S Western Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.53013,35.380579,-97.53013,35.380579",
     "geom:latitude":35.380579,
     "geom:longitude":-97.53013,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"af08df8d7e59da7d131c8e7aaff27d29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320768529,
-    "wof:lastmodified":1466766757,
+    "wof:lastmodified":1491909442,
     "wof:name":"Super Clean Car Wash",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

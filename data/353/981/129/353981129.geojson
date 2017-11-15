@@ -2,9 +2,14 @@
   "id": 353981129,
   "type": "Feature",
   "properties": {
+    "addr:full":"355 Pebble Creek Ter Mustang OK 73064",
+    "addr:housenumber":"355",
+    "addr:postcode":"73064",
+    "addr:street":"Pebble Creek Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.718328,35.392805,-97.718328,35.392805",
     "geom:latitude":35.392805,
     "geom:longitude":-97.718328,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3f86cfdfdfe2cd9474bc4d93b89c0c30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353981129,
-    "wof:lastmodified":1466765913,
+    "wof:lastmodified":1491911929,
     "wof:name":"Pebble Creek Golf Course",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

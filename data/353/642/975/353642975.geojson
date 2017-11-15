@@ -2,9 +2,14 @@
   "id": 353642975,
   "type": "Feature",
   "properties": {
+    "addr:full":"7126 NW 39th Expy Bethany OK 73008",
+    "addr:housenumber":"7126",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 39Th Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.637308,35.513089,-97.637308,35.513089",
     "geom:latitude":35.513089,
     "geom:longitude":-97.637308,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"e2e98b65116735a47f790b59f3b0009a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353642975,
-    "wof:lastmodified":1466764713,
+    "wof:lastmodified":1491910132,
     "wof:name":"KARS & KARS Sales & Leasing",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

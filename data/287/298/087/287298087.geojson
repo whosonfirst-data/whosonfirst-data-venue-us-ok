@@ -2,9 +2,14 @@
   "id": 287298087,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 Chas Cir Yukon OK 73099",
+    "addr:housenumber":"",
+    "addr:postcode":"4300;73099",
+    "addr:street":"Chas Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.779388,35.425836,-97.779388,35.425836",
     "geom:latitude":35.425836,
     "geom:longitude":-97.779388,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"42d97081a489b51d79ad22fae0c97fb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":287298087,
-    "wof:lastmodified":1466763396,
+    "wof:lastmodified":1491911956,
     "wof:name":"Rex Kennard Farms",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

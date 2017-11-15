@@ -2,9 +2,14 @@
   "id": 303315817,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Stanton L Young Blvd Oklahoma City OK 73117",
+    "addr:housenumber":"1000",
+    "addr:postcode":"73117",
+    "addr:street":"Stanton L Young Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.495077,35.480038,-97.495077,35.480038",
     "geom:latitude":35.480038,
     "geom:longitude":-97.495077,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"8a793f415bb87a55bcc1ed6acb7be568",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303315817,
-    "wof:lastmodified":1466765021,
+    "wof:lastmodified":1491927386,
     "wof:name":"Alumni & Development Office",
     "wof:parent_id":85871693,
     "wof:placetype":"venue",

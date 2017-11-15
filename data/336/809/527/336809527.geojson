@@ -2,9 +2,14 @@
   "id": 336809527,
   "type": "Feature",
   "properties": {
+    "addr:full":"4100 S Douglas Blvd Oklahoma City OK 73150",
+    "addr:housenumber":"4100",
+    "addr:postcode":"73150",
+    "addr:street":"S Douglas Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.370763,35.423456,-97.370763,35.423456",
     "geom:latitude":35.423456,
     "geom:longitude":-97.370763,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"9985e553eac4ac57a1bca0af7f8a4331",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":336809527,
-    "wof:lastmodified":1466764707,
+    "wof:lastmodified":1491909254,
     "wof:name":"A & A Mufflers Brakes Auto Svc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

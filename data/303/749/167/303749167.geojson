@@ -2,9 +2,14 @@
   "id": 303749167,
   "type": "Feature",
   "properties": {
+    "addr:full":"10904 N Pennsylvania Ave Oklahoma City OK 73120",
+    "addr:housenumber":"10904",
+    "addr:postcode":"73120",
+    "addr:street":"N Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.549251,35.584438,-97.549251,35.584438",
     "geom:latitude":35.584438,
     "geom:longitude":-97.549251,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"29c91ee57c673ab63b718cab40047b81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303749167,
-    "wof:lastmodified":1466766529,
+    "wof:lastmodified":1491933054,
     "wof:name":"Lang's Tailor Shop",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

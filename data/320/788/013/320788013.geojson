@@ -2,9 +2,14 @@
   "id": 320788013,
   "type": "Feature",
   "properties": {
+    "addr:full":"6221 NW 39th Expy Bethany OK 73008",
+    "addr:housenumber":"6221",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 39Th Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.623675,35.511231,-97.623675,35.511231",
     "geom:latitude":35.511231,
     "geom:longitude":-97.623675,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"92236cc5f47ebde9e99c3542df6a7c0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":320788013,
-    "wof:lastmodified":1466766798,
+    "wof:lastmodified":1491910240,
     "wof:name":"Multimedia Cablevision",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

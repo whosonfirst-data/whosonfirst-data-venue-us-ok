@@ -2,9 +2,14 @@
   "id": 303105991,
   "type": "Feature",
   "properties": {
+    "addr:full":"813 SE 70th St Oklahoma City OK 73149",
+    "addr:housenumber":"813",
+    "addr:postcode":"73149",
+    "addr:street":"Se 70Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.496733,35.396103,-97.496733,35.396103",
     "geom:latitude":35.396103,
     "geom:longitude":-97.496733,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"88cc1a780d4add5969c9984a0e6ac95b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303105991,
-    "wof:lastmodified":1466763335,
+    "wof:lastmodified":1491909376,
     "wof:name":"A & B Transit",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

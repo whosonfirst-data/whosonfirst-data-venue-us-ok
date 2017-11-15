@@ -2,9 +2,14 @@
   "id": 336687745,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 S Rock Island Ave El Reno OK 73036",
+    "addr:housenumber":"100",
+    "addr:postcode":"73036",
+    "addr:street":"S Rock Island Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.952672,35.533204,-97.952672,35.533204",
     "geom:latitude":35.533204,
     "geom:longitude":-97.952672,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"f8c25b72dbe537d824a96a06e28b33ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":336687745,
-    "wof:lastmodified":1466763532,
+    "wof:lastmodified":1491912005,
     "wof:name":"Rose Rock Bank",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

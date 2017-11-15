@@ -2,9 +2,14 @@
   "id": 303757689,
   "type": "Feature",
   "properties": {
+    "addr:full":"408 Summit Ridge Dr Oklahoma City OK 73114",
+    "addr:housenumber":"408",
+    "addr:postcode":"73114",
+    "addr:street":"Summit Ridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.506496,35.584721,-97.506496,35.584721",
     "geom:latitude":35.584721,
     "geom:longitude":-97.506496,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"b85139336f0a8dc24ddabcf4c8fa3d29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303757689,
-    "wof:lastmodified":1466766636,
+    "wof:lastmodified":1491933071,
     "wof:name":"Summit Ridge Apartments",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

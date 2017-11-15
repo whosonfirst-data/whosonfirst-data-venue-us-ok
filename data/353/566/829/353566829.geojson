@@ -2,9 +2,14 @@
   "id": 353566829,
   "type": "Feature",
   "properties": {
+    "addr:full":"5913 S Sunnylane Rd Oklahoma City OK 73135",
+    "addr:housenumber":"5913",
+    "addr:postcode":"73135",
+    "addr:street":"S Sunnylane Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.441366,35.406502,-97.441366,35.406502",
     "geom:latitude":35.406502,
     "geom:longitude":-97.441366,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"9f4b1c09f81f39d6834c76eeece2692e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353566829,
-    "wof:lastmodified":1466764124,
+    "wof:lastmodified":1491909443,
     "wof:name":"Sunny Foods",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 303421765,
   "type": "Feature",
   "properties": {
+    "addr:full":"4972 Frisco Rd NW Piedmont OK 73078",
+    "addr:housenumber":"4972",
+    "addr:postcode":"73078",
+    "addr:street":"Frisco Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.780535,35.683443,-97.780535,35.683443",
     "geom:latitude":35.683443,
     "geom:longitude":-97.780535,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"96573d84cf92d4fd9f5a26cb0cf5b152",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303421765,
-    "wof:lastmodified":1466765433,
+    "wof:lastmodified":1491911815,
     "wof:name":"Westrup Construction",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

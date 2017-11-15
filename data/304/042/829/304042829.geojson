@@ -2,9 +2,14 @@
   "id": 304042829,
   "type": "Feature",
   "properties": {
+    "addr:full":"213 S Rock Island Ave El Reno OK 73036",
+    "addr:housenumber":"213",
+    "addr:postcode":"73036",
+    "addr:street":"S Rock Island Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.952592,35.532172,-97.952592,35.532172",
     "geom:latitude":35.532172,
     "geom:longitude":-97.952592,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"fc2497e4a6a0775a6554528ba5348df9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":304042829,
-    "wof:lastmodified":1466763063,
+    "wof:lastmodified":1491912073,
     "wof:name":"Howard Oneida",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

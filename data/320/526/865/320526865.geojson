@@ -2,9 +2,14 @@
   "id": 320526865,
   "type": "Feature",
   "properties": {
+    "addr:full":"244 NW 111th St Oklahoma City OK 73114",
+    "addr:housenumber":"244",
+    "addr:postcode":"73114",
+    "addr:street":"Nw 111Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.515187,35.583231,-97.515187,35.583231",
     "geom:latitude":35.583231,
     "geom:longitude":-97.515187,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"3d787b09949d0d1d48d0ff9f67478e70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":320526865,
-    "wof:lastmodified":1466766022,
+    "wof:lastmodified":1491933075,
     "wof:name":"Hardesty Team Peak Energy",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

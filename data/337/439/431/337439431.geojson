@@ -2,9 +2,14 @@
   "id": 337439431,
   "type": "Feature",
   "properties": {
+    "addr:full":"6117 Inland Rd Oklahoma City OK 73132",
+    "addr:housenumber":"6117",
+    "addr:postcode":"73132",
+    "addr:street":"Inland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.626174,35.54179,-97.626174,35.54179",
     "geom:latitude":35.54179,
     "geom:longitude":-97.626174,
@@ -32,8 +37,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
-        101714421,
         102082577
     ],
     "wof:breaches":[],
@@ -41,20 +46,20 @@
         "sg:id":"SG_6X3vfjqPYpiVrhAfX4XmW6_35.541790_-97.626174@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"76f96fb0a95eb46f2c567ca83285ed6f",
+    "wof:geomhash":"f3c06dade350aed0452a7334de09af84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
-            "locality_id":101714421,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688585,
             "venue_id":337439431
         }
     ],
     "wof:id":337439431,
-    "wof:lastmodified":1466762287,
+    "wof:lastmodified":1494529552,
     "wof:name":"Sherris Fashions & Accesories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

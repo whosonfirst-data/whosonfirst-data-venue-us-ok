@@ -2,9 +2,14 @@
   "id": 353603381,
   "type": "Feature",
   "properties": {
+    "addr:full":"7008 NW 60th St Bethany OK 73008",
+    "addr:housenumber":"7008",
+    "addr:postcode":"73008",
+    "addr:street":"Nw 60Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.636546,35.533256,-97.636546,35.533256",
     "geom:latitude":35.533256,
     "geom:longitude":-97.636546,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"e7728d79e30b0f7b8bff06a023fa4fb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":353603381,
-    "wof:lastmodified":1466764393,
+    "wof:lastmodified":1491910147,
     "wof:name":"Steeds Carpet Service",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

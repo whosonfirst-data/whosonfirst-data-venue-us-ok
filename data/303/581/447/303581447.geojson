@@ -2,9 +2,14 @@
   "id": 303581447,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 Liberty Pkwy Midwest City OK 73110",
+    "addr:housenumber":"2701",
+    "addr:postcode":"73110",
+    "addr:street":"Liberty Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.421572,35.435228,-97.421572,35.435228",
     "geom:latitude":35.435228,
     "geom:longitude":-97.421572,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"acc1faecde89386c18388d393a8dad59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303581447,
-    "wof:lastmodified":1466766232,
+    "wof:lastmodified":1491909450,
     "wof:name":"Praxair Surface Technologies",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

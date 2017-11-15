@@ -2,9 +2,14 @@
   "id": 320854983,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Garth Brooks Blvd Yukon OK 73085",
+    "addr:housenumber":"1000",
+    "addr:postcode":"73085",
+    "addr:street":"Garth Brooks Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.760309,35.497474,-97.760309,35.497474",
     "geom:latitude":35.497474,
     "geom:longitude":-97.760309,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"4d675d863d7bff00b78c8b8c6ca78e78",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":320854983,
-    "wof:lastmodified":1466767060,
+    "wof:lastmodified":1491911963,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

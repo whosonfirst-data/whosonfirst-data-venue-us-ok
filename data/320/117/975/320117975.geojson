@@ -2,9 +2,14 @@
   "id": 320117975,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 W Parkland Dr Yukon OK 73099",
+    "addr:housenumber":"120",
+    "addr:postcode":"73099",
+    "addr:street":"W Parkland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.74652,35.482588,-97.74652,35.482588",
     "geom:latitude":35.482588,
     "geom:longitude":-97.74652,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"82cf14efe95aadd9d62ede22e58a36d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":320117975,
-    "wof:lastmodified":1466764055,
+    "wof:lastmodified":1491911970,
     "wof:name":"Bluejean Transport LLC",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

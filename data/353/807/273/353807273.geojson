@@ -2,9 +2,14 @@
   "id": 353807273,
   "type": "Feature",
   "properties": {
+    "addr:full":"4702 N State St Warr Acres OK 73122",
+    "addr:housenumber":"4702",
+    "addr:postcode":"73122",
+    "addr:street":"N State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.612255,35.518903,-97.612255,35.518903",
     "geom:latitude":35.518903,
     "geom:longitude":-97.612255,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"7f99e177322d48fc77af6cea4927b0d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353807273,
-    "wof:lastmodified":1466765353,
+    "wof:lastmodified":1491910183,
     "wof:name":"B & D Heat & Air",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

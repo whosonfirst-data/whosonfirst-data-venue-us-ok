@@ -2,9 +2,14 @@
   "id": 336778201,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 N Mustang Rd Mustang OK 73064",
+    "addr:housenumber":"119",
+    "addr:postcode":"73064",
+    "addr:street":"N Mustang Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.724658,35.392087,-97.724658,35.392087",
     "geom:latitude":35.392087,
     "geom:longitude":-97.724658,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -47,7 +53,7 @@
     "wof:geomhash":"fce33a277aabf1f99ec8781103938809",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":336778201,
-    "wof:lastmodified":1466764572,
+    "wof:lastmodified":1491911950,
     "wof:name":"Wave Hair Design The",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

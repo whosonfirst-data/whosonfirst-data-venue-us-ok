@@ -2,9 +2,14 @@
   "id": 336636169,
   "type": "Feature",
   "properties": {
+    "addr:full":"4500 S Sunnylane Rd Oklahoma City OK 73135",
+    "addr:housenumber":"4500",
+    "addr:postcode":"73135",
+    "addr:street":"S Sunnylane Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.441307,35.419672,-97.441307,35.419672",
     "geom:latitude":35.419672,
     "geom:longitude":-97.441307,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -48,7 +54,7 @@
     "wof:geomhash":"9abdd49c21e6235a7f3da3d671346a36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":336636169,
-    "wof:lastmodified":1466762734,
+    "wof:lastmodified":1491909385,
     "wof:name":"Airwave Communications",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

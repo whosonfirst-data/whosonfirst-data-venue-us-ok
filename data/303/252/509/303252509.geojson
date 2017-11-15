@@ -2,9 +2,14 @@
   "id": 303252509,
   "type": "Feature",
   "properties": {
+    "addr:full":"12221 Park Ave Yukon OK 73099",
+    "addr:housenumber":"12221",
+    "addr:postcode":"73099",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.743183,35.467268,-97.743183,35.467268",
     "geom:latitude":35.467268,
     "geom:longitude":-97.743183,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"3996f8c7c62e9b7cd5b1ed4b0ec7f4ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303252509,
-    "wof:lastmodified":1466764720,
+    "wof:lastmodified":1491911974,
     "wof:name":"International Pentecostal",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

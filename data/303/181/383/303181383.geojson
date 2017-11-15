@@ -2,9 +2,14 @@
   "id": 303181383,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 S 10th St Yukon OK 73099",
+    "addr:housenumber":"502",
+    "addr:postcode":"73099",
+    "addr:street":"S 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.758651,35.501773,-97.758651,35.501773",
     "geom:latitude":35.501773,
     "geom:longitude":-97.758651,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"e50995212db950bd7e0239e4d09b5e3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303181383,
-    "wof:lastmodified":1466764448,
+    "wof:lastmodified":1491911997,
     "wof:name":"Emerson Power Transm Corp",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

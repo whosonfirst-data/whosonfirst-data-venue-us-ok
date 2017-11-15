@@ -2,9 +2,14 @@
   "id": 303593601,
   "type": "Feature",
   "properties": {
+    "addr:full":"3320 S Frisco Rd Yukon OK 73099",
+    "addr:housenumber":"3320",
+    "addr:postcode":"73099",
+    "addr:street":"S Frisco Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.777551,35.438234,-97.777551,35.438234",
     "geom:latitude":35.438234,
     "geom:longitude":-97.777551,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"e60216f699eab8a6af96ac29959ab853",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":303593601,
-    "wof:lastmodified":1466766284,
+    "wof:lastmodified":1491911912,
     "wof:name":"Midwest Irrigation Inc",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

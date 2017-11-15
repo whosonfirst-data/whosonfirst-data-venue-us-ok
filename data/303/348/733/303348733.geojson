@@ -2,9 +2,14 @@
   "id": 303348733,
   "type": "Feature",
   "properties": {
+    "addr:full":"7359 S Shields Blvd Oklahoma City OK 73149",
+    "addr:housenumber":"7359",
+    "addr:postcode":"73149",
+    "addr:street":"S Shields Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.507253,35.39316,-97.507253,35.39316",
     "geom:latitude":35.39316,
     "geom:longitude":-97.507253,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"a105df6329e2bbf33e9122fa2feba0f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303348733,
-    "wof:lastmodified":1466765147,
+    "wof:lastmodified":1491909425,
     "wof:name":"Michael Trading Group Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

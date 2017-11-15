@@ -2,9 +2,14 @@
   "id": 319905509,
   "type": "Feature",
   "properties": {
+    "addr:full":"8029 Woodchuck Rd Yukon OK 73099",
+    "addr:housenumber":"8029",
+    "addr:postcode":"73099",
+    "addr:street":"Woodchuck Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.770747,35.552942,-97.770747,35.552942",
     "geom:latitude":35.552942,
     "geom:longitude":-97.770747,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"c31b1cc215ba3d59752a9e1992f0e8db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":319905509,
-    "wof:lastmodified":1466763543,
+    "wof:lastmodified":1491911834,
     "wof:name":"Nelson Law Office",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

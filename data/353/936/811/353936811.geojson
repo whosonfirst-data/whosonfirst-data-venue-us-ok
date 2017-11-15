@@ -2,9 +2,14 @@
   "id": 353936811,
   "type": "Feature",
   "properties": {
+    "addr:full":"12220 SE 80th St Oklahoma City OK 73150",
+    "addr:housenumber":"",
+    "addr:postcode":"12220;73150",
+    "addr:street":"Se 80Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.312207,35.386562,-97.312207,35.386562",
     "geom:latitude":35.386562,
     "geom:longitude":-97.312207,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"6743611d8eddb8b15be5cf1e85f9b346",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353936811,
-    "wof:lastmodified":1466765690,
+    "wof:lastmodified":1491909308,
     "wof:name":"Perfection Electric",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

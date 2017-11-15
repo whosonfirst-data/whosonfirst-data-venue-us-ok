@@ -2,9 +2,14 @@
   "id": 303540567,
   "type": "Feature",
   "properties": {
+    "addr:full":"5404 Embers Dr Oklahoma City OK 73135",
+    "addr:housenumber":"5404",
+    "addr:postcode":"73135",
+    "addr:street":"Embers Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.4262,35.41659,-97.4262,35.41659",
     "geom:latitude":35.41659,
     "geom:longitude":-97.4262,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"3f3a31de6abe87b9200f155da00754af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303540567,
-    "wof:lastmodified":1466765999,
+    "wof:lastmodified":1491909389,
     "wof:name":"Banana Products Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

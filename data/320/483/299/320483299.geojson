@@ -2,9 +2,14 @@
   "id": 320483299,
   "type": "Feature",
   "properties": {
+    "addr:full":"4025 NW 56th Ter Oklahoma City OK 73112",
+    "addr:housenumber":"4025",
+    "addr:postcode":"73112",
+    "addr:street":"Nw 56Th Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.591933,35.528553,-97.591933,35.528553",
     "geom:latitude":35.528553,
     "geom:longitude":-97.591933,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"f94747a6ec95ad64a2d4e9ba211975aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -54,7 +60,7 @@
             "venue_id":320483299
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -64,9 +70,9 @@
         }
     ],
     "wof:id":320483299,
-    "wof:lastmodified":1466766021,
+    "wof:lastmodified":1491910222,
     "wof:name":"Home Mortgage Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 287263079,
   "type": "Feature",
   "properties": {
+    "addr:full":"9205 N Western Ave Oklahoma City OK 73114",
+    "addr:housenumber":"9205",
+    "addr:postcode":"73114",
+    "addr:street":"N Western Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.53137,35.564458,-97.53137,35.564458",
     "geom:latitude":35.564458,
     "geom:longitude":-97.53137,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"645cf5a25e55f82d7718244f0041cdf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":287263079,
-    "wof:lastmodified":1466762878,
+    "wof:lastmodified":1491933056,
     "wof:name":"Ann and Eds Antiques",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 354138125,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 NW 23rd St Oklahoma City OK 73103",
+    "addr:housenumber":"701",
+    "addr:postcode":"73103",
+    "addr:street":"Nw 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.524189,35.493251,-97.524189,35.493251",
     "geom:latitude":35.493251,
     "geom:longitude":-97.524189,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -44,7 +50,7 @@
     "wof:geomhash":"e44b3c100176cf86f46768d26e67d4da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
             "venue_id":354138125
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -63,9 +69,9 @@
         }
     ],
     "wof:id":354138125,
-    "wof:lastmodified":1466763647,
+    "wof:lastmodified":1491921285,
     "wof:name":"Church's Chicken",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
     "wof:superseded_by":[],

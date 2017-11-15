@@ -2,9 +2,14 @@
   "id": 353633159,
   "type": "Feature",
   "properties": {
+    "addr:full":"603 S Radio Rd El Reno OK 73036",
+    "addr:housenumber":"603",
+    "addr:postcode":"73036",
+    "addr:street":"S Radio Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.901592,35.529382,-97.901592,35.529382",
     "geom:latitude":35.529382,
     "geom:longitude":-97.901592,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"72becaa05ed8079b6af123497ecea5df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353633159,
-    "wof:lastmodified":1466764666,
+    "wof:lastmodified":1491911907,
     "wof:name":"Wilds Green Grass Sod Farm",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

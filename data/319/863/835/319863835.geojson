@@ -2,9 +2,14 @@
   "id": 319863835,
   "type": "Feature",
   "properties": {
+    "addr:full":"8908 S Western Ave Oklahoma City OK 73139",
+    "addr:housenumber":"8908",
+    "addr:postcode":"73139",
+    "addr:street":"S Western Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.530106,35.377207,-97.530106,35.377207",
     "geom:latitude":35.377207,
     "geom:longitude":-97.530106,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5ff9b07cea17ebd59f9f3ea1ebbe17f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":319863835,
-    "wof:lastmodified":1466763305,
+    "wof:lastmodified":1491909322,
     "wof:name":"Silver Scissors Tailor Shop",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

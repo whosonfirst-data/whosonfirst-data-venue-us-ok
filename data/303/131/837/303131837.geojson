@@ -2,9 +2,14 @@
   "id": 303131837,
   "type": "Feature",
   "properties": {
+    "addr:full":"7370 S Walker Ave Oklahoma City OK 73139",
+    "addr:housenumber":"7370",
+    "addr:postcode":"73139",
+    "addr:street":"S Walker Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.52118,35.393899,-97.52118,35.393899",
     "geom:latitude":35.393899,
     "geom:longitude":-97.52118,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -39,7 +45,7 @@
     "wof:geomhash":"34a1b65aa4bc88fa56e4fc1a77ee2fc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":303131837,
-    "wof:lastmodified":1466763753,
+    "wof:lastmodified":1491909426,
     "wof:name":"David C Cavallaro DPM Inc",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",

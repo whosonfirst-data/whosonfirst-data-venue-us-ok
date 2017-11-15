@@ -2,9 +2,14 @@
   "id": 353498369,
   "type": "Feature",
   "properties": {
+    "addr:full":"621 W Main St Yukon OK 73099",
+    "addr:housenumber":"621",
+    "addr:postcode":"73099",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.752488,35.507957,-97.752488,35.507957",
     "geom:latitude":35.507957,
     "geom:longitude":-97.752488,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"70cacc73f23d19ee2723699e0d99b7be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":353498369,
-    "wof:lastmodified":1466763092,
+    "wof:lastmodified":1491911924,
     "wof:name":"Hatley Valerie R",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

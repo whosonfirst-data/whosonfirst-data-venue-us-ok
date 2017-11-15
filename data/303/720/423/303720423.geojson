@@ -2,9 +2,14 @@
   "id": 303720423,
   "type": "Feature",
   "properties": {
+    "addr:full":"9320 N Pennsylvania Ave Oklahoma City OK 73120",
+    "addr:housenumber":"9320",
+    "addr:postcode":"73120",
+    "addr:street":"N Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.549176,35.565498,-97.549176,35.565498",
     "geom:latitude":35.565498,
     "geom:longitude":-97.549176,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714461,
         102082577,
@@ -43,7 +49,7 @@
     "wof:geomhash":"11a8a4d3a5a49aea93a9a12dd4b0b02a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714461,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":303720423,
-    "wof:lastmodified":1466766523,
+    "wof:lastmodified":1491933082,
     "wof:name":"Cells U More",
     "wof:parent_id":85807637,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 336621547,
   "type": "Feature",
   "properties": {
+    "addr:full":"1404 S Miles Ave El Reno OK 73036",
+    "addr:housenumber":"1404",
+    "addr:postcode":"73036",
+    "addr:street":"S Miles Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.95914,35.516645,-97.95914,35.516645",
     "geom:latitude":35.516645,
     "geom:longitude":-97.95914,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -47,7 +53,7 @@
     "wof:geomhash":"6c61efb73daaa237d7fe22481ce24b2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":336621547,
-    "wof:lastmodified":1466762516,
+    "wof:lastmodified":1491912023,
     "wof:name":"Six-M's Septic Tank",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

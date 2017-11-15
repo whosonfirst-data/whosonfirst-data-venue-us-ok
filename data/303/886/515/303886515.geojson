@@ -2,9 +2,14 @@
   "id": 303886515,
   "type": "Feature",
   "properties": {
+    "addr:full":"5921 NW 56th St Oklahoma City OK 73122",
+    "addr:housenumber":"5921",
+    "addr:postcode":"73122",
+    "addr:street":"Nw 56Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.621526,35.527852,-97.621526,35.527852",
     "geom:latitude":35.527852,
     "geom:longitude":-97.621526,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714421,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"45d2cd2a1ee1f46190a9787e708d960f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714421,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":303886515,
-    "wof:lastmodified":1466766933,
+    "wof:lastmodified":1491910227,
     "wof:name":"Raymond's Storm Doors & Window",
     "wof:parent_id":85854531,
     "wof:placetype":"venue",

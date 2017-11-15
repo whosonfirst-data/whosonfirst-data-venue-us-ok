@@ -2,9 +2,14 @@
   "id": 353579089,
   "type": "Feature",
   "properties": {
+    "addr:full":"13300 Skyland Dr Yukon OK 73099",
+    "addr:housenumber":"13300",
+    "addr:postcode":"73099",
+    "addr:street":"Skyland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.767776,35.578603,-97.767776,35.578603",
     "geom:latitude":35.578603,
     "geom:longitude":-97.767776,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -45,7 +51,7 @@
     "wof:geomhash":"347be32ada62904f36f84b5583a107c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":353579089,
-    "wof:lastmodified":1466764197,
+    "wof:lastmodified":1491911898,
     "wof:name":"Dave Trammel Pools",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",

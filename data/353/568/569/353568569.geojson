@@ -2,9 +2,14 @@
   "id": 353568569,
   "type": "Feature",
   "properties": {
+    "addr:full":"15200 State Hwy 66 Yukon OK 73099",
+    "addr:housenumber":"15200",
+    "addr:postcode":"73099",
+    "addr:street":"State Hwy 66",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.806442,35.507796,-97.806442,35.507796",
     "geom:latitude":35.507796,
     "geom:longitude":-97.806442,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688585,
+        102191575,
         85633793,
         101714457,
         102082577,
@@ -42,7 +48,7 @@
     "wof:geomhash":"163f496525252d160af5427c10f5c763",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082577,
             "locality_id":101714457,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":353568569,
-    "wof:lastmodified":1466764151,
+    "wof:lastmodified":1491911892,
     "wof:name":"Reline Centers Of America",
     "wof:parent_id":85805913,
     "wof:placetype":"venue",
