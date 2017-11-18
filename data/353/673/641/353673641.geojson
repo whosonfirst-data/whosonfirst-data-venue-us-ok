@@ -7,13 +7,16 @@
     "addr:postcode":"73069",
     "addr:street":"Buchanan Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.444734,35.213414,-97.444734,35.213414",
     "geom:latitude":35.213414,
     "geom:longitude":-97.444734,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"434 Buchanan Ave",
     "sg:city":"Norman",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_3ZyUlYlE3gJsSicpiO7Dsw_35.213414_-97.444734@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"663a385932d43caaa35be28ec79afc2b",
+    "wof:geomhash":"ed3a4693303eb04a59bf50af38e2757d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +60,17 @@
         }
     ],
     "wof:id":353673641,
-    "wof:lastmodified":1472640555,
+    "wof:lastmodified":1510942770,
     "wof:name":"Othello's Italian Restaurant",
     "wof:parent_id":85811459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        220136669
+    ],
+    "wof:supersedes":[
+        220136669
+    ],
     "wof:tags":[
         "eating",
         "association"
