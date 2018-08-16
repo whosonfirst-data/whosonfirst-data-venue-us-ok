@@ -7,6 +7,7 @@
     "addr:postcode":"74401",
     "addr:street":"State St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.372785,35.75047,-95.372785,35.75047",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.372785,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"220 State St",
     "sg:city":"Muskogee",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_1HQsXIkve49I3f8xxMRSRl_35.750470_-95.372785@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"8fb72a7d1807655d5cad9244a1d970cb",
+    "wof:geomhash":"61ab0f630094de9bc295c3e730ae9b7c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":303658297,
-    "wof:lastmodified":1472640753,
+    "wof:lastmodified":1534439174,
     "wof:name":"Casa of Muskogee County Inc",
     "wof:parent_id":85855981,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354227487
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

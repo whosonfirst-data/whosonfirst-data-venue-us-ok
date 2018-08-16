@@ -7,6 +7,7 @@
     "addr:postcode":"73120",
     "addr:street":"N May Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.567105,35.568627,-97.567105,35.568627",
@@ -14,6 +15,7 @@
     "geom:longitude":-97.567105,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9636 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_48QQJGyJh7MDe0OTO69PpF_35.568627_-97.567105@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c47b1b3e536e83f41854d32b6af737d",
+    "wof:geomhash":"c9d80eea6f17861039c6ae8440c70fdd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":353484813,
-    "wof:lastmodified":1472640432,
+    "wof:lastmodified":1534439174,
     "wof:name":"Wright Thornton Jr",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354217069
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

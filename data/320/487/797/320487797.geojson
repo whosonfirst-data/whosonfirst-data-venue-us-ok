@@ -7,6 +7,7 @@
     "addr:postcode":"74114",
     "addr:street":"S Columbia Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.95087,36.131842,-95.95087,36.131842",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.95087,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2121 S Columbia Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_3bEVpyZJZ9G82jyKd8cpCp_36.131842_-95.950870@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"8bde73dce4de0dbc1df8ed882e138f0c",
+    "wof:geomhash":"ebca79931db057de49afc12929584684",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":320487797,
-    "wof:lastmodified":1472640686,
+    "wof:lastmodified":1534439177,
     "wof:name":"Jerry R Watt Co",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353975311
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "business"

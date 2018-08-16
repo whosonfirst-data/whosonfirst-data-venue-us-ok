@@ -2,18 +2,24 @@
   "id": 287249933,
   "type": "Feature",
   "properties": {
-    "addr:full":"410 W Moore St Henryetta OK 74437",
+    "addr:city":"Henryetta",
+    "addr:full":"410 West Moore Street Henryetta, Ok 74437",
+    "addr:house_number":"410",
     "addr:housenumber":"410",
+    "addr:phone":"+1 918-652-7112",
     "addr:postcode":"74437",
+    "addr:road":"West Moore Street",
+    "addr:state":"OK",
     "addr:street":"W Moore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.986939,35.437698,-95.986939,35.437698",
-    "geom:latitude":35.437698,
-    "geom:longitude":-95.986939,
+    "geom:bbox":"-95.98593,35.4377,-95.98593,35.4377",
+    "geom:latitude":35.4377,
+    "geom:longitude":-95.98593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"410 W Moore St",
     "sg:city":"Henryetta",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -39,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000074,
         "sg:id":"SG_1HKiLXkCuXro5ioqjtu7Ob_35.437698_-95.986939@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"143d26fbf0690b5bbfea40c0e8b5c28e",
+    "wof:geomhash":"3e39faf770bef7059031ee269de7a1e5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":287249933,
-    "wof:lastmodified":1472640377,
+    "wof:lastmodified":1534439177,
     "wof:name":"Henryetta Territorial Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -67,10 +75,10 @@
     ]
 },
   "bbox": [
-    -95.986939,
-    35.437698,
-    -95.986939,
-    35.437698
+    -95.98593,
+    35.4377,
+    -95.98593,
+    35.4377
 ],
-  "geometry": {"coordinates":[-95.98693900000001,35.437698],"type":"Point"}
+  "geometry": {"coordinates":[-95.98593,35.4377],"type":"Point"}
 }

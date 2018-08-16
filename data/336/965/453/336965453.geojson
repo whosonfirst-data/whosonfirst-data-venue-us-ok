@@ -2,18 +2,24 @@
   "id": 336965453,
   "type": "Feature",
   "properties": {
-    "addr:full":"521 N Weigle Ave Watonga OK 73772",
+    "addr:city":"Watonga",
+    "addr:full":"521 N Weigle Ave Watonga, Ok 73772",
+    "addr:house_number":"521",
     "addr:housenumber":"521",
+    "addr:phone":"+1 580-623-5069",
     "addr:postcode":"73772",
+    "addr:road":"N Weigle Ave",
+    "addr:state":"OK",
     "addr:street":"N Weigle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-98.411883,35.849456,-98.411883,35.849456",
-    "geom:latitude":35.849456,
-    "geom:longitude":-98.411883,
+    "geom:bbox":"-98.41191,35.84873,-98.41191,35.84873",
+    "geom:latitude":35.84873,
+    "geom:longitude":-98.41191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"521 N Weigle Ave",
     "sg:city":"Watonga",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -39,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000080,
         "sg:id":"SG_58M13hhJRq68Dxf9f1BxA5_35.849456_-98.411883@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"b7d8b1d44775617b3cc6fb25338771ed",
+    "wof:geomhash":"1a42b362c097f06220212b38359527c3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,8 +63,8 @@
         }
     ],
     "wof:id":336965453,
-    "wof:lastmodified":1472640585,
-    "wof:name":"T B Ferguson Museum",
+    "wof:lastmodified":1534439172,
+    "wof:name":"Ferguson T B Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
@@ -67,10 +75,10 @@
     ]
 },
   "bbox": [
-    -98.411883,
-    35.849456,
-    -98.411883,
-    35.849456
+    -98.41191,
+    35.84873,
+    -98.41191,
+    35.84873
 ],
-  "geometry": {"coordinates":[-98.411883,35.849456],"type":"Point"}
+  "geometry": {"coordinates":[-98.41191000000001,35.84873],"type":"Point"}
 }

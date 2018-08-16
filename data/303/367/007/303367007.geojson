@@ -7,6 +7,7 @@
     "addr:postcode":"73120",
     "addr:street":"W Memorial Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.593975,35.609024,-97.593975,35.609024",
@@ -14,6 +15,7 @@
     "geom:longitude":-97.593975,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4120 W Memorial Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_5SDA7gH8seF7Y9sOfPAenX_35.609024_-97.593975@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d72b457ace5b4d9bad36ce7a71a6afa",
+    "wof:geomhash":"0cd53678dd95c8ac95a9a8f474545d7d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":303367007,
-    "wof:lastmodified":1472640649,
+    "wof:lastmodified":1534439172,
     "wof:name":"Neuropsychology Associates",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336955479
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

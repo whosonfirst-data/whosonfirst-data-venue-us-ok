@@ -2,18 +2,24 @@
   "id": 353419959,
   "type": "Feature",
   "properties": {
-    "addr:full":"421 N Main St Guymon OK 73942",
+    "addr:city":"Guymon",
+    "addr:full":"421 N Main St Guymon, Ok 73942-4315",
+    "addr:house_number":"421",
     "addr:housenumber":"421",
-    "addr:postcode":"73942",
+    "addr:phone":"+1 580-338-4278",
+    "addr:postcode":"73942-4315",
+    "addr:road":"N Main St",
+    "addr:state":"OK",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-101.48148,36.682027,-101.48148,36.682027",
-    "geom:latitude":36.682027,
-    "geom:longitude":-101.48148,
+    "geom:bbox":"-101.48147,36.6827,-101.48147,36.6827",
+    "geom:latitude":36.6827,
+    "geom:longitude":-101.48147,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"421 N Main St",
     "sg:city":"Guymon",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529901
+    ],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -39,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000278,
         "sg:id":"SG_3Bb43Ghar50ZC8ks3TxnoR_36.682027_-101.481480@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"aba67dcf0965b09ddfa4dff2909f1aa0",
+    "wof:geomhash":"1c641b58f0b65c36c6c4e06ddbc943d0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":353419959,
-    "wof:lastmodified":1472640365,
-    "wof:name":"Artist Incubation Inc",
+    "wof:lastmodified":1534439171,
+    "wof:name":"Artist Incubation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
@@ -67,10 +77,10 @@
     ]
 },
   "bbox": [
-    -101.48148,
-    36.682027,
-    -101.48148,
-    36.682027
+    -101.48147,
+    36.6827,
+    -101.48147,
+    36.6827
 ],
-  "geometry": {"coordinates":[-101.48148,36.682027],"type":"Point"}
+  "geometry": {"coordinates":[-101.48147,36.6827],"type":"Point"}
 }

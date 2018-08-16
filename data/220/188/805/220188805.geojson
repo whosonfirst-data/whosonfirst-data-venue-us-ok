@@ -2,18 +2,24 @@
   "id": 220188805,
   "type": "Feature",
   "properties": {
-    "addr:full":"14 E 7th St Tulsa OK 74119",
+    "addr:city":"Tulsa",
+    "addr:full":"14 E 7Th St Tulsa, Ok 74119",
+    "addr:house_number":"14",
     "addr:housenumber":"14",
+    "addr:phone":"+1 918-295-8144",
     "addr:postcode":"74119",
+    "addr:road":"E 7Th St",
+    "addr:state":"OK",
     "addr:street":"E 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.988926,36.149602,-95.988926,36.149602",
-    "geom:latitude":36.149602,
-    "geom:longitude":-95.988926,
+    "geom:bbox":"-96.00376,36.16105,-96.00376,36.16105",
+    "geom:latitude":36.16105,
+    "geom:longitude":-96.00376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"14 E 7th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -36,7 +42,11 @@
         "consultant",
         "galleries"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528139,
+        102527781
+    ],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -45,10 +55,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000011,
         "sg:id":"SG_13VcUXR3SgSJEcRXaVBH3a_36.149602_-95.988926@1303262960"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ab2445d7c4de01aec5817d2330ef12b",
+    "wof:geomhash":"35c4300f7af5656872963d1cec9a41af",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,8 +72,8 @@
         }
     ],
     "wof:id":220188805,
-    "wof:lastmodified":1472640306,
-    "wof:name":"Tulsa Children's Museum",
+    "wof:lastmodified":1534439177,
+    "wof:name":"Tulsa Children'S Museum",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
@@ -74,10 +85,10 @@
     ]
 },
   "bbox": [
-    -95.988926,
-    36.149602,
-    -95.988926,
-    36.149602
+    -96.00376,
+    36.16105,
+    -96.00376,
+    36.16105
 ],
-  "geometry": {"coordinates":[-95.98892600000001,36.149602],"type":"Point"}
+  "geometry": {"coordinates":[-96.00376,36.16105],"type":"Point"}
 }

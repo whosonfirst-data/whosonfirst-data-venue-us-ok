@@ -2,18 +2,24 @@
   "id": 320328421,
   "type": "Feature",
   "properties": {
-    "addr:full":"614 E Main St Shawnee OK 74801",
+    "addr:city":"Shawnee",
+    "addr:full":"614 E Main St Shawnee, Ok 74801-0114",
+    "addr:house_number":"614",
     "addr:housenumber":"614",
-    "addr:postcode":"74801",
+    "addr:phone":"+1 405-275-8412",
+    "addr:postcode":"74801-0114",
+    "addr:road":"E Main St",
+    "addr:state":"OK",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.915615,35.327471,-96.915615,35.327471",
-    "geom:latitude":35.327471,
-    "geom:longitude":-96.915615,
+    "geom:bbox":"-96.91568,35.32748,-96.91568,35.32748",
+    "geom:latitude":35.32748,
+    "geom:longitude":-96.91568,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"614 E Main St",
     "sg:city":"Shawnee",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 405 275 8412",
     "sg:postcode":"74801",
     "sg:province":"OK",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -36,10 +43,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000021,
         "sg:id":"SG_3OvlAJlCfHovMy3K1xQAEh_35.327471_-96.915615@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f504c875d59ab3a8ecd5cb2dc36f41d",
+    "wof:geomhash":"967c551fb921282bc87364d5116fb2df",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":320328421,
-    "wof:lastmodified":1472640640,
+    "wof:lastmodified":1534439171,
     "wof:name":"Santa Fe Depot Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -96.915615,
-    35.327471,
-    -96.915615,
-    35.327471
+    -96.91568,
+    35.32748,
+    -96.91568,
+    35.32748
 ],
-  "geometry": {"coordinates":[-96.915615,35.327471],"type":"Point"}
+  "geometry": {"coordinates":[-96.91567999999999,35.32748],"type":"Point"}
 }

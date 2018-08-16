@@ -2,18 +2,25 @@
   "id": 319848941,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 S Johnstone Ave Bartlesville OK 74003",
+    "addr:city":"Bartlesville",
+    "addr:full":"401 S Johnstone Ave Bartlesville, Ok 74003-6619",
+    "addr:house_number":"401",
     "addr:housenumber":"401",
-    "addr:postcode":"74003",
+    "addr:phone":"+1 918-338-4290",
+    "addr:postcode":"74003-6619",
+    "addr:road":"S Johnstone Ave",
+    "addr:state":"OK",
     "addr:street":"S Johnstone Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.977648,36.749919,-95.977648,36.749919",
-    "geom:latitude":36.749919,
-    "geom:longitude":-95.977648,
+    "geom:bbox":"-95.97793,36.74892,-95.97793,36.74892",
+    "geom:latitude":36.74892,
+    "geom:longitude":-95.97793,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"401 S Johnstone Ave",
     "sg:city":"Bartlesville",
     "sg:classifiers":[
@@ -30,7 +37,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528547
+    ],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -39,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000461,
         "sg:id":"SG_52wHyppWf0F3qOjIRjTqBQ_36.749919_-95.977648@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"20d928d0edab53b0ffb3889f61557b3f",
+    "wof:geomhash":"066ca79a0f602fda55967d866312b9cb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,22 +66,24 @@
         }
     ],
     "wof:id":319848941,
-    "wof:lastmodified":1472640308,
-    "wof:name":"Bartlsvlle Area History Museum",
+    "wof:lastmodified":1534439177,
+    "wof:name":"Bartlesville Area History Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320713141
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
   "bbox": [
-    -95.977648,
-    36.749919,
-    -95.977648,
-    36.749919
+    -95.97793,
+    36.74892,
+    -95.97793,
+    36.74892
 ],
-  "geometry": {"coordinates":[-95.977648,36.749919],"type":"Point"}
+  "geometry": {"coordinates":[-95.97793,36.74892],"type":"Point"}
 }

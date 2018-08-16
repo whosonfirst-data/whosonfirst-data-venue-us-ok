@@ -7,6 +7,7 @@
     "addr:postcode":"74114",
     "addr:street":"E 21St St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.956685,36.133167,-95.956685,36.133167",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.956685,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2424 E 21st St S",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_5ab7J94I1UPYlFPfNVmorV_36.133167_-95.956685@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"6f53ff02e3a4dc31e3331c937f9b3d64",
+    "wof:geomhash":"236186eba181e3ef4d8c55381476b628",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +59,17 @@
         }
     ],
     "wof:id":303564781,
-    "wof:lastmodified":1472640714,
+    "wof:lastmodified":1534439173,
     "wof:name":"D J Shubeck Company Inc",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320469937
+    ],
+    "wof:supersedes":[
+        220183311
+    ],
     "wof:tags":[
         "equipment",
         "industrial"

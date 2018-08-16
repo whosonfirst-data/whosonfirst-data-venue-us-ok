@@ -7,6 +7,7 @@
     "addr:postcode":"73112",
     "addr:street":"N Portland Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.583438,35.525875,-97.583438,35.525875",
@@ -14,6 +15,7 @@
     "geom:longitude":-97.583438,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5401 N Portland Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_5BrqsmYSG5wli8zUYWcJTe_35.525875_-97.583438@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"c354a2181cd688f891d50697d965f641",
+    "wof:geomhash":"247fd22dc26bcdb574d99788ee051869",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":353990759,
-    "wof:lastmodified":1472640645,
+    "wof:lastmodified":1534439171,
     "wof:name":"Oklahoma Cardiovascular Assco",
     "wof:parent_id":85871705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336780575
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

@@ -7,6 +7,7 @@
     "addr:postcode":"73102",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.520904,35.467781,-97.520904,35.467781",
@@ -14,6 +15,7 @@
     "geom:longitude":-97.520904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"420 W Main St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_1ytXgPQK0BUqkjVKfb394u_35.467781_-97.520904@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"194b18af1900b7ca995b4f555562c910",
+    "wof:geomhash":"3193ae2851f6862088cd7c2fa6ac4dce",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":303570733,
-    "wof:lastmodified":1472640717,
+    "wof:lastmodified":1534439173,
     "wof:name":"Oklahoma City Personnel Dept",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320557623
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "village"

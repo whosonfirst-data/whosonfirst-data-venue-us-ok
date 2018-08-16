@@ -7,6 +7,7 @@
     "addr:postcode":"74105",
     "addr:street":"E Skelly Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.942534,36.091031,-95.942534,36.091031",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.942534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3105 E Skelly Dr",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_0yjDZTDpcJw7nN3sUEFntN_36.091031_-95.942534@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"0d781140434a9f2f5671b052148e5432",
+    "wof:geomhash":"bf10a31f1e62bb065e9b2b185e41cf52",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":336782319,
-    "wof:lastmodified":1472640513,
+    "wof:lastmodified":1534439173,
     "wof:name":"P R N Services",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303752017
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"74103",
     "addr:street":"S Boston Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.989625,36.152967,-95.989625,36.152967",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.989625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"320 S Boston Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_7fJf5xF4S6fyMv65iVjOIN_36.152967_-95.989625@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c2c4ee6ab267e7b8ecf7f79ca691eaf",
+    "wof:geomhash":"79e63217e6481a6a87e379f4c4830036",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":287161935,
-    "wof:lastmodified":1472640324,
+    "wof:lastmodified":1534439177,
     "wof:name":"Jessup Stone PC",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        319833159
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

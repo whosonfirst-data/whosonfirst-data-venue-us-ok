@@ -7,6 +7,7 @@
     "addr:postcode":"74104",
     "addr:street":"S Utica Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967242,36.146266,-95.967242,36.146266",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.967242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1120 S Utica Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_6EAoMI1NZ4va50rmr0Deul_36.146266_-95.967242@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"d0e331c94513875fd84908c0099f2c18",
+    "wof:geomhash":"b713bcd94b15ab5b385b26f3694653fd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":353561273,
-    "wof:lastmodified":1472640511,
+    "wof:lastmodified":1534439176,
     "wof:name":"Hillcrest/Chapman Breast Hlth",
     "wof:parent_id":85872485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        220172083
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

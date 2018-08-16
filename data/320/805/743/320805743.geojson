@@ -7,6 +7,7 @@
     "addr:postcode":"73134",
     "addr:street":"Quail Springs Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.576073,35.610817,-97.576073,35.610817",
@@ -14,6 +15,7 @@
     "geom:longitude":-97.576073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14000 Quail Springs Pkwy",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
         "sg:id":"SG_6lljDlvAoKvHXvfimHtQHq_35.610817_-97.576073@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a8141d4a730d53886b23a89aab7a959",
+    "wof:geomhash":"a4697a88dc6df083c3777a51341f8d26",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":320805743,
-    "wof:lastmodified":1472640787,
+    "wof:lastmodified":1534439174,
     "wof:name":"Nextel",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320610221
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting",

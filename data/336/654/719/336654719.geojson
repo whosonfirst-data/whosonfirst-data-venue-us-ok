@@ -7,6 +7,7 @@
     "addr:postcode":"74114",
     "addr:street":"E 21St St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.953951,36.133323,-95.953951,36.133323",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.953951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2525 E 21st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_59AmqVjIXZrayyb5Njsnbd_36.133323_-95.953951@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"70fddd8c24b06b3ed21f0f8d8980f1e9",
+    "wof:geomhash":"ca7b39050da5e79a090089e206dff276",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":336654719,
-    "wof:lastmodified":1472640377,
+    "wof:lastmodified":1534439175,
     "wof:name":"Ken Meredith CPA",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303893515
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

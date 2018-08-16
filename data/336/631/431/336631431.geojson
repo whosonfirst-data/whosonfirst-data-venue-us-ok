@@ -2,18 +2,24 @@
   "id": 336631431,
   "type": "Feature",
   "properties": {
-    "addr:full":"518 S Main St Hobart OK 73651",
+    "addr:city":"Hobart",
+    "addr:full":"518 S Main Hobart, Ok 73651",
+    "addr:house_number":"518",
     "addr:housenumber":"518",
+    "addr:phone":"+1 580-726-6202",
     "addr:postcode":"73651",
+    "addr:road":"S Main",
+    "addr:state":"OK",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-99.093052,35.022813,-99.093052,35.022813",
-    "geom:latitude":35.022813,
-    "geom:longitude":-99.093052,
+    "geom:bbox":"-99.09303,35.02271,-99.09303,35.02271",
+    "geom:latitude":35.02271,
+    "geom:longitude":-99.09303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"518 S Main St",
     "sg:city":"Hobart",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 580 726 6202",
     "sg:postcode":"73651",
     "sg:province":"OK",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -36,10 +43,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000347,
         "sg:id":"SG_4q3HBGoZlTV80T6XcAHdc6_35.022813_-99.093052@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"99e3e0fa5e77f752f66c68d81ebbe8e9",
+    "wof:geomhash":"9fb3d1060edec15a5912e6b616273d75",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,8 +60,8 @@
         }
     ],
     "wof:id":336631431,
-    "wof:lastmodified":1472640333,
-    "wof:name":"Kiowa County Historical Museum",
+    "wof:lastmodified":1534439170,
+    "wof:name":"Kiowa County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
@@ -62,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -99.093052,
-    35.022813,
-    -99.093052,
-    35.022813
+    -99.09303,
+    35.02271,
+    -99.09303,
+    35.02271
 ],
-  "geometry": {"coordinates":[-99.093052,35.022813],"type":"Point"}
+  "geometry": {"coordinates":[-99.09303,35.02271],"type":"Point"}
 }

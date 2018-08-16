@@ -2,18 +2,24 @@
   "id": 235931955,
   "type": "Feature",
   "properties": {
-    "addr:full":"4770 S Harvard Ave Tulsa OK 74135",
+    "addr:city":"Tulsa",
+    "addr:full":"4770 S Harvard Ave Tulsa, Ok 74135",
+    "addr:house_number":"4770",
     "addr:housenumber":"4770",
+    "addr:phone":"+1 918-747-9393",
     "addr:postcode":"74135",
+    "addr:road":"S Harvard Ave",
+    "addr:state":"OK",
     "addr:street":"S Harvard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.940147,36.093412,-95.940147,36.093412",
-    "geom:latitude":36.093412,
-    "geom:longitude":-95.940147,
+    "geom:bbox":"-95.94079,36.09302,-95.94079,36.09302",
+    "geom:latitude":36.09302,
+    "geom:longitude":-95.94079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4770 S Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:postcode":"74135",
     "sg:province":"OK",
     "sg:website":"http://www.richardsonart.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528139,
+        102527781
+    ],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -38,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000046,
         "sg:id":"SG_6qvN4TVFOT94EMlv3CC28H_36.093412_-95.940147@1303262960"
     },
     "wof:country":"US",
-    "wof:geomhash":"19e8b1d53a072af96619c33af16dde44",
+    "wof:geomhash":"24d0eb7679a4ed2b3bf48d7f416458d5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":235931955,
-    "wof:lastmodified":1472640262,
+    "wof:lastmodified":1534439177,
     "wof:name":"Richardson Asian Art Museum",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
@@ -64,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.940147,
-    36.093412,
-    -95.940147,
-    36.093412
+    -95.94079,
+    36.09302,
+    -95.94079,
+    36.09302
 ],
-  "geometry": {"coordinates":[-95.940147,36.093412],"type":"Point"}
+  "geometry": {"coordinates":[-95.94079000000001,36.09302],"type":"Point"}
 }

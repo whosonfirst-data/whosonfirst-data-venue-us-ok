@@ -2,18 +2,24 @@
   "id": 337618771,
   "type": "Feature",
   "properties": {
-    "addr:full":"2009 Williams Ave Woodward OK 73801",
+    "addr:city":"Woodward",
+    "addr:full":"2009 Williams Ave Woodward, Ok 73801-5717",
+    "addr:house_number":"2009",
     "addr:housenumber":"2009",
-    "addr:postcode":"73801",
+    "addr:phone":"+1 580-256-6136",
+    "addr:postcode":"73801-5717",
+    "addr:road":"Williams Ave",
+    "addr:state":"OK",
     "addr:street":"Williams Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-99.3907,36.426159,-99.3907,36.426159",
-    "geom:latitude":36.426159,
-    "geom:longitude":-99.3907,
+    "geom:bbox":"-99.39071,36.42605,-99.39071,36.42605",
+    "geom:latitude":36.42605,
+    "geom:longitude":-99.39071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2009 Williams Ave",
     "sg:city":"Woodward",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 580 256 6136",
     "sg:postcode":"73801",
     "sg:province":"OK",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532183
+    ],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -36,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000292,
         "sg:id":"SG_67I4VpJHPLDecLokU5KxEX_36.426159_-99.390700@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"77e22de76c08a77e53fe9a808e0da99e",
+    "wof:geomhash":"c1e98698a07d1f6d5e9f6eafc057b634",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":337618771,
-    "wof:lastmodified":1472640450,
-    "wof:name":"Plains Indians & Pioneers",
+    "wof:lastmodified":1534439171,
+    "wof:name":"Plains Indians & Pioneers Historical Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -99.3907,
-    36.426159,
-    -99.3907,
-    36.426159
+    -99.39071,
+    36.42605,
+    -99.39071,
+    36.42605
 ],
-  "geometry": {"coordinates":[-99.3907,36.426159],"type":"Point"}
+  "geometry": {"coordinates":[-99.39071,36.42605],"type":"Point"}
 }

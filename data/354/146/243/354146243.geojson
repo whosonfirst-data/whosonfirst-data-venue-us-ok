@@ -7,6 +7,7 @@
     "addr:postcode":"74127",
     "addr:street":"W 9Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.000198,36.14689,-96.000198,36.14689",
@@ -14,6 +15,7 @@
     "geom:longitude":-96.000198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"744 W 9th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_3AvPtj7QUu3Zs5Q9fHOq29_36.146890_-96.000198@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"fa47ea9ca9cc2b69a000142fdca4ce06",
+    "wof:geomhash":"c633a4a50f4318107ea5661f7104b447",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +58,17 @@
         }
     ],
     "wof:id":354146243,
-    "wof:lastmodified":1472640459,
+    "wof:lastmodified":1534439174,
     "wof:name":"Behavioral Health Svc At Tulsa",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        320601453
+    ],
+    "wof:supersedes":[
+        220192249
+    ],
     "wof:tags":[
         "mental"
     ]

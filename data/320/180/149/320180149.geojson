@@ -7,6 +7,7 @@
     "addr:postcode":"74133",
     "addr:street":"S Mingo Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-95.86856,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"8112 S Mingo Rd",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":320180149,
-    "wof:lastmodified":1512142741,
+    "wof:lastmodified":1534439175,
     "wof:name":"Mc Donald's",
     "wof:parent_id":85872467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856779379
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

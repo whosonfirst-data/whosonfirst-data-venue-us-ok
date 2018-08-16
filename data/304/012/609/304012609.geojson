@@ -7,6 +7,7 @@
     "addr:postcode":"74743",
     "addr:street":"S Broadway St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.512848,34.005039,-95.512848,34.005039",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.512848,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"623 S Broadway St",
     "sg:city":"Hugo",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_78fbFo2VUd9Kf2QEC5l8Wu_34.005039_-95.512848@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"841ad6a65ddd560ef60e0cd28897cdf7",
+    "wof:geomhash":"b0f4981c33fa2627936e65c2129fd42d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":304012609,
-    "wof:lastmodified":1472640272,
+    "wof:lastmodified":1534439176,
     "wof:name":"Hugo Chapel Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        235958899
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

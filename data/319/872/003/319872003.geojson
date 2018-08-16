@@ -7,6 +7,7 @@
     "addr:postcode":"74135",
     "addr:street":"S Harvard Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940142,36.092545,-95.940142,36.092545",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.940142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4720 S Harvard Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_25qpk78OiYRb2BUf6Cq7i1_36.092545_-95.940142@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"12ac4051c670454d9558f00f2ef4036a",
+    "wof:geomhash":"eee98e51db7b54a724508ab12b09032c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":319872003,
-    "wof:lastmodified":1472640331,
+    "wof:lastmodified":1534439171,
     "wof:name":"Family Care Of Tulsa Inc",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320256869
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

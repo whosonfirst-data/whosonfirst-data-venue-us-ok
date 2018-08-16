@@ -7,6 +7,7 @@
     "addr:postcode":"74105",
     "addr:street":"S Peoria Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975659,36.095709,-95.975659,36.095709",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.975659,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4651 S Peoria Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_2fbfojRap4qigsgJkoCq8h_36.095709_-95.975659@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8f6ffc57f6de1c91e21b77ce12a3b5c",
+    "wof:geomhash":"0e45478f3ebe72fae5a80a6b90a92c7e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":287163741,
-    "wof:lastmodified":1472640326,
+    "wof:lastmodified":1534439177,
     "wof:name":"Brookside Animal Hospital Inc",
     "wof:parent_id":85872477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        220175265
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,18 +2,24 @@
   "id": 320059403,
   "type": "Feature",
   "properties": {
-    "addr:full":"204 N Main St Elk City OK 73644",
+    "addr:city":"Elk City",
+    "addr:full":"204 N Main St Elk City, Ok 73644",
+    "addr:house_number":"204",
     "addr:housenumber":"204",
+    "addr:phone":"+1 580-243-0437",
     "addr:postcode":"73644",
+    "addr:road":"N Main St",
+    "addr:state":"OK",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-99.40481,35.412706,-99.40481,35.412706",
-    "geom:latitude":35.412706,
-    "geom:longitude":-99.40481,
+    "geom:bbox":"-99.4048,35.41179,-99.4048,35.41179",
+    "geom:latitude":35.41179,
+    "geom:longitude":-99.4048,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"204 N Main St",
     "sg:city":"Elk City",
     "sg:classifiers":[
@@ -32,7 +38,11 @@
         "gas",
         "producer"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526463,
+        102524777
+    ],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -41,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000004,
         "sg:id":"SG_3JnXkJF8WRpBLsNijQQYOr_35.412706_-99.404810@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"45219b31a7c3ff1a9739e829cb8fbe8a",
+    "wof:geomhash":"0e189bcdc86cd812aab3aeda9bf1e9c0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,8 +68,8 @@
         }
     ],
     "wof:id":320059403,
-    "wof:lastmodified":1472640407,
-    "wof:name":"John West Oil & Gas",
+    "wof:lastmodified":1534439170,
+    "wof:name":"West John Oil And Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
@@ -71,10 +82,10 @@
     ]
 },
   "bbox": [
-    -99.40481,
-    35.412706,
-    -99.40481,
-    35.412706
+    -99.4048,
+    35.41179,
+    -99.4048,
+    35.41179
 ],
-  "geometry": {"coordinates":[-99.40481,35.412706],"type":"Point"}
+  "geometry": {"coordinates":[-99.40479999999999,35.41179],"type":"Point"}
 }

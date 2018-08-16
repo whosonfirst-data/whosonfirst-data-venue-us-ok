@@ -7,6 +7,7 @@
     "addr:postcode":"74136",
     "addr:street":"S Lewis Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.957985,36.05929,-95.957985,36.05929",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.957985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7130 S Lewis Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_0MZ6uU8nAAVIohVL3T1uE6_36.059290_-95.957985@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"997ff77dddca1c3edc94a130b33e6a0f",
+    "wof:geomhash":"ecce48db5a6237fa6cbba17f2bb15c63",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":336863801,
-    "wof:lastmodified":1472640562,
+    "wof:lastmodified":1534439171,
     "wof:name":"Terrel B Doremus",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336870223
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

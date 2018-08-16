@@ -2,18 +2,24 @@
   "id": 235934031,
   "type": "Feature",
   "properties": {
-    "addr:full":"2021 E 71st St Tulsa OK 74136",
+    "addr:city":"Tulsa",
+    "addr:full":"2021 E 71St St Tulsa, Ok 74136-5408",
+    "addr:house_number":"2021",
     "addr:housenumber":"2021",
-    "addr:postcode":"74136",
+    "addr:phone":"+1 918-492-1818",
+    "addr:postcode":"74136-5408",
+    "addr:road":"E 71St St",
+    "addr:state":"OK",
     "addr:street":"E 71St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.963168,36.060832,-95.963168,36.060832",
-    "geom:latitude":36.060832,
-    "geom:longitude":-95.963168,
+    "geom:bbox":"-95.96343,36.06267,-95.96343,36.06267",
+    "geom:latitude":36.06267,
+    "geom:longitude":-95.96343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2021 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 918 492 1818",
     "sg:postcode":"74136",
     "sg:province":"OK",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528139,
+        102527781
+    ],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -37,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000528,
         "sg:id":"SG_07Qil6S6eXllwucKUvkjOo_36.060832_-95.963168@1303262960"
     },
     "wof:country":"US",
-    "wof:geomhash":"50506a3e5c854765ce4b488f34adade7",
+    "wof:geomhash":"02fd9a893833234954360b03b6675f85",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,8 +64,8 @@
         }
     ],
     "wof:id":235934031,
-    "wof:lastmodified":1472640260,
-    "wof:name":"Sherwin Miller Museum Of Jewish Art Inc",
+    "wof:lastmodified":1534439177,
+    "wof:name":"Sherwin Miller Museum Of Jewish Art",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
@@ -63,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.963168,
-    36.060832,
-    -95.963168,
-    36.060832
+    -95.96343,
+    36.06267,
+    -95.96343,
+    36.06267
 ],
-  "geometry": {"coordinates":[-95.963168,36.060832],"type":"Point"}
+  "geometry": {"coordinates":[-95.96343,36.06267],"type":"Point"}
 }

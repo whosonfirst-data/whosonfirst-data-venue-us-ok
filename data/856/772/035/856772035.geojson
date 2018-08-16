@@ -2,18 +2,24 @@
   "id": 856772035,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 E Lee Ave Sapulpa OK 74066",
+    "addr:city":"Sapulpa",
+    "addr:full":"100 E Lee Ave Sapulpa, Ok 74066-4216",
+    "addr:house_number":"100",
     "addr:housenumber":"100",
-    "addr:postcode":"74066",
+    "addr:phone":"+1 918-224-4871",
+    "addr:postcode":"74066-4216",
+    "addr:road":"E Lee Ave",
+    "addr:state":"OK",
     "addr:street":"E Lee Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.112823,35.997501,-96.112823,35.997501",
-    "geom:latitude":35.997501,
-    "geom:longitude":-96.112823,
+    "geom:bbox":"-96.11248,35.99754,-96.11248,35.99754",
+    "geom:latitude":35.99754,
+    "geom:longitude":-96.11248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"100 E Lee Ave",
     "sg:city":"Sapulpa",
     "sg:classifiers":[
@@ -32,19 +38,23 @@
         "galleries",
         "art"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528139
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000146,
         "sg:id":"SG_6YOPTLfjCUaXeAX7PNAL3Z_35.997555_-96.112141@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464102254,
-    "wof:geomhash":"4a48a0164d2c887794003dc7a2a1d02c",
+    "wof:geomhash":"2d3e733621158c6fd3af54935ea530e2",
     "wof:hierarchy":[],
     "wof:id":856772035,
-    "wof:lastmodified":1472640294,
-    "wof:name":"Sapulpa Historical Museum",
+    "wof:lastmodified":1534439174,
+    "wof:name":"Sapulpa Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
@@ -57,10 +67,10 @@
     ]
 },
   "bbox": [
-    -96.112823,
-    35.997501,
-    -96.112823,
-    35.997501
+    -96.11248,
+    35.99754,
+    -96.11248,
+    35.99754
 ],
-  "geometry": {"coordinates":[-96.11282300000001,35.997501],"type":"Point"}
+  "geometry": {"coordinates":[-96.11248000000001,35.99754],"type":"Point"}
 }

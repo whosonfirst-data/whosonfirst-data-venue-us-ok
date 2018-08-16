@@ -7,6 +7,7 @@
     "addr:postcode":"73102",
     "addr:street":"Dean A Mcgee Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.517697,35.471004,-97.517697,35.471004",
@@ -14,6 +15,7 @@
     "geom:longitude":-97.517697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"215 Dean A McGee Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_0RcLnrALgW42VDoMV7Fye1_35.471004_-97.517697@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"64ffbf866638221dab31876a61a9d37e",
+    "wof:geomhash":"f9315ea8cfd32c85dfc5bfbb15e96092",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":320302729,
-    "wof:lastmodified":1472640617,
+    "wof:lastmodified":1534439173,
     "wof:name":"US Hearings Ofc",
     "wof:parent_id":85871717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303752121
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,18 +2,23 @@
   "id": 336593627,
   "type": "Feature",
   "properties": {
-    "addr:full":"102 W Broadway St Hollis OK 73550",
+    "addr:city":"Hollis",
+    "addr:full":"102 W Broadway St Hollis, Ok 73550",
+    "addr:house_number":"102",
     "addr:housenumber":"102",
     "addr:postcode":"73550",
+    "addr:road":"W Broadway St",
+    "addr:state":"OK",
     "addr:street":"W Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-99.919799,34.681871,-99.919799,34.681871",
-    "geom:latitude":34.681871,
-    "geom:longitude":-99.919799,
+    "geom:bbox":"-99.91876,34.68188,-99.91876,34.68188",
+    "geom:latitude":34.68188,
+    "geom:longitude":-99.91876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"102 W Broadway St",
     "sg:city":"Hollis",
     "sg:classifiers":[
@@ -30,7 +35,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -39,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000377,
         "sg:id":"SG_33aqTB5xJ8CSxfulaU0h39_34.681871_-99.919799@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"bf14d05a746b7d00919da03b607f37d9",
+    "wof:geomhash":"8da4445142081a0941ec93d27a840bbc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,8 +62,8 @@
         }
     ],
     "wof:id":336593627,
-    "wof:lastmodified":1472640266,
-    "wof:name":"Harmon Cnty Historical Museum",
+    "wof:lastmodified":1534439170,
+    "wof:name":"Harmon County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
@@ -67,10 +74,10 @@
     ]
 },
   "bbox": [
-    -99.919799,
-    34.681871,
-    -99.919799,
-    34.681871
+    -99.91876,
+    34.68188,
+    -99.91876,
+    34.68188
 ],
-  "geometry": {"coordinates":[-99.919799,34.681871],"type":"Point"}
+  "geometry": {"coordinates":[-99.91876000000001,34.68188],"type":"Point"}
 }

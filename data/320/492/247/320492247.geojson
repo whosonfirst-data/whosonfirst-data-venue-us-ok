@@ -7,6 +7,7 @@
     "addr:postcode":"73134",
     "addr:street":"W Memorial Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-97.566138,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2501 W Memorial Rd",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -59,12 +60,14 @@
         }
     ],
     "wof:id":320492247,
-    "wof:lastmodified":1510695815,
+    "wof:lastmodified":1534439175,
     "wof:name":"Garfield's Restaurant & Pub",
     "wof:parent_id":85871715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856775789
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

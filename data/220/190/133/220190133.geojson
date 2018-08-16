@@ -2,18 +2,24 @@
   "id": 220190133,
   "type": "Feature",
   "properties": {
-    "addr:full":"121 N Greenwood Ave Tulsa OK 74120",
+    "addr:city":"Tulsa",
+    "addr:full":"121 N Greenwood Ave Tulsa, Ok 74120",
+    "addr:house_number":"121",
     "addr:housenumber":"121",
+    "addr:phone":"+1 918-295-5009",
     "addr:postcode":"74120",
+    "addr:road":"N Greenwood Ave",
+    "addr:state":"OK",
     "addr:street":"N Greenwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.986173,36.159992,-95.986173,36.159992",
-    "geom:latitude":36.159992,
-    "geom:longitude":-95.986173,
+    "geom:bbox":"-95.98597,36.1598,-95.98597,36.1598",
+    "geom:latitude":36.1598,
+    "geom:longitude":-95.98597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"121 N Greenwood Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 918 295 5009",
     "sg:postcode":"74120",
     "sg:province":"OK",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528139,
+        102527781
+    ],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -38,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000069,
         "sg:id":"SG_6qfpWfHcHHc2DeaRyrRwbk_36.159992_-95.986173@1303262960"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce15ff7862f0387395c96cad4ee35bcc",
+    "wof:geomhash":"8f1d20d981effe54dc2140a524f88579",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":220190133,
-    "wof:lastmodified":1472640306,
+    "wof:lastmodified":1534439177,
     "wof:name":"J H Franklin Greenwood Museum Project",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -73,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.986173,
-    36.159992,
-    -95.986173,
-    36.159992
+    -95.98597,
+    36.1598,
+    -95.98597,
+    36.1598
 ],
-  "geometry": {"coordinates":[-95.98617299999999,36.159992],"type":"Point"}
+  "geometry": {"coordinates":[-95.98596999999999,36.1598],"type":"Point"}
 }

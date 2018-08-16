@@ -7,6 +7,7 @@
     "addr:postcode":"73108",
     "addr:street":"Exchange Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.561841,35.452845,-97.561841,35.452845",
@@ -14,6 +15,7 @@
     "geom:longitude":-97.561841,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2501 Exchange Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_5LDiKIIgNuJxxwOa0jnJ8G_35.452845_-97.561841@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"648580a2405795f48a23a452b07164b6",
+    "wof:geomhash":"c9d4013be21b64a5de407184ad183503",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":320001427,
-    "wof:lastmodified":1472640269,
+    "wof:lastmodified":1534439171,
     "wof:name":"Bob Read Cattle Co",
     "wof:parent_id":85871667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        337500509
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "buyer",

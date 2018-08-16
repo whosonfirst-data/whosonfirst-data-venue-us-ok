@@ -2,18 +2,24 @@
   "id": 354127831,
   "type": "Feature",
   "properties": {
-    "addr:full":"719 Manvel Ave Chandler OK 74834",
+    "addr:city":"Chandler",
+    "addr:full":"719 Manvel Ave Chandler, Ok 74834-2842",
+    "addr:house_number":"719",
     "addr:housenumber":"719",
-    "addr:postcode":"74834",
+    "addr:phone":"+1 405-258-2425",
+    "addr:postcode":"74834-2842",
+    "addr:road":"Manvel Ave",
+    "addr:state":"OK",
     "addr:street":"Manvel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.880809,35.70345,-96.880809,35.70345",
-    "geom:latitude":35.70345,
-    "geom:longitude":-96.880809,
+    "geom:bbox":"-96.88081,35.70273,-96.88081,35.70273",
+    "geom:latitude":35.70273,
+    "geom:longitude":-96.88081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"719 Manvel Ave",
     "sg:city":"Chandler",
     "sg:classifiers":[
@@ -31,7 +37,8 @@
         "society",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -40,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000523,
         "sg:id":"SG_5KLhvfZC7NDBI3DXR2VD9a_35.703450_-96.880809@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e8a5694c6e60dba63b45c2a19ef57cf",
+    "wof:geomhash":"3f73a4966e1dee97aedd8d1235b9c579",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,8 +64,8 @@
         }
     ],
     "wof:id":354127831,
-    "wof:lastmodified":1472640448,
-    "wof:name":"Lincoln County Historical Soc",
+    "wof:lastmodified":1534439173,
+    "wof:name":"Lincoln County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
@@ -69,10 +77,10 @@
     ]
 },
   "bbox": [
-    -96.880809,
-    35.70345,
-    -96.880809,
-    35.70345
+    -96.88081,
+    35.70273,
+    -96.88081,
+    35.70273
 ],
-  "geometry": {"coordinates":[-96.880809,35.70345],"type":"Point"}
+  "geometry": {"coordinates":[-96.88081,35.70273],"type":"Point"}
 }

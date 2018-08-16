@@ -7,6 +7,7 @@
     "addr:postcode":"74136",
     "addr:street":"S Yale Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.922128,36.066713,-95.922128,36.066713",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.922128,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6600 S Yale Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_4wdS9q6bZww3vK4ut7Fjdw_36.066713_-95.922128@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"88069a2b8f86b2cf3cc98a022111ed58",
+    "wof:geomhash":"8b864fcb39d3195dcfa85f948ae23214",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":304003513,
-    "wof:lastmodified":1472640261,
+    "wof:lastmodified":1534439170,
     "wof:name":"Me Ke Akua Health Ctr",
     "wof:parent_id":85872481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320126555
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "school",

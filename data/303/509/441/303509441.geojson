@@ -2,18 +2,24 @@
   "id": 303509441,
   "type": "Feature",
   "properties": {
-    "addr:full":"24 E McKennon Ave Bixby OK 74008",
+    "addr:city":"Bixby",
+    "addr:full":"24 E Mckennon Ave Bixby, Ok 74008",
+    "addr:house_number":"24",
     "addr:housenumber":"24",
+    "addr:phone":"+1 918-366-1200",
     "addr:postcode":"74008",
+    "addr:road":"E Mckennon Ave",
+    "addr:state":"OK",
     "addr:street":"E Mckennon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.882048,35.944088,-95.882048,35.944088",
-    "geom:latitude":35.944088,
-    "geom:longitude":-95.882048,
+    "geom:bbox":"-95.88196,35.94391,-95.88196,35.94391",
+    "geom:latitude":35.94391,
+    "geom:longitude":-95.88196,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"24 E McKennon Ave",
     "sg:city":"Bixby",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 918 366 1200",
     "sg:postcode":"74008",
     "sg:province":"OK",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528139
+    ],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -36,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000355,
         "sg:id":"SG_5KdzFw3YACd6HN9ylRvo9H_35.944088_-95.882048@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"fab5a27c7e4c762856807207906db6e7",
+    "wof:geomhash":"b8fdd3c27b0c77d8b50acb3352586d1d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":303509441,
-    "wof:lastmodified":1472640697,
-    "wof:name":"Bixby Historical Museum",
+    "wof:lastmodified":1534439171,
+    "wof:name":"Bixby Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.882048,
-    35.944088,
-    -95.882048,
-    35.944088
+    -95.88196,
+    35.94391,
+    -95.88196,
+    35.94391
 ],
-  "geometry": {"coordinates":[-95.882048,35.944088],"type":"Point"}
+  "geometry": {"coordinates":[-95.88196000000001,35.94391],"type":"Point"}
 }

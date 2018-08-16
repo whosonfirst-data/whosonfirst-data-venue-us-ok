@@ -7,6 +7,7 @@
     "addr:postcode":"74135",
     "addr:street":"S Yale Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.922198,36.101111,-95.922198,36.101111",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.922198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4107 S Yale Ave",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_044DvFsFE7wewvrPbsuaO4_36.101111_-95.922198@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"5bb89e887fe9629a8ed8142e7b07270a",
+    "wof:geomhash":"99de70fb6f3e5abbcefc7fd8ad9281c2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":336758809,
-    "wof:lastmodified":1472640500,
+    "wof:lastmodified":1534439171,
     "wof:name":"Friedmans Jewelers",
     "wof:parent_id":85872475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        303476489
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

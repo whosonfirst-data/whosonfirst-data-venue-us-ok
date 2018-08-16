@@ -2,18 +2,24 @@
   "id": 303708587,
   "type": "Feature",
   "properties": {
-    "addr:full":"305 N Price Ave Hominy OK 74035",
+    "addr:city":"Hominy",
+    "addr:full":"305 N Price Ave Hominy, Ok 74035",
+    "addr:house_number":"305",
     "addr:housenumber":"305",
+    "addr:phone":"+1 918-885-2374",
     "addr:postcode":"74035",
+    "addr:road":"N Price Ave",
+    "addr:state":"OK",
     "addr:street":"N Price Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.394073,36.41876,-96.394073,36.41876",
-    "geom:latitude":36.41876,
-    "geom:longitude":-96.394073,
+    "geom:bbox":"-96.39412,36.418,-96.39412,36.418",
+    "geom:latitude":36.418,
+    "geom:longitude":-96.39412,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"305 N Price Ave",
     "sg:city":"Hominy",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -39,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404000088,
         "sg:id":"SG_4u0kawekez2dJ0K9MgiFAx_36.418760_-96.394073@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"acc811396c5110f5fb7084f957c2c769",
+    "wof:geomhash":"5c2d8177e11fd3c37bc8d135fbbcbd4c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":303708587,
-    "wof:lastmodified":1472640773,
+    "wof:lastmodified":1534439174,
     "wof:name":"Drummond House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -67,10 +75,10 @@
     ]
 },
   "bbox": [
-    -96.394073,
-    36.41876,
-    -96.394073,
-    36.41876
+    -96.39412,
+    36.418,
+    -96.39412,
+    36.418
 ],
-  "geometry": {"coordinates":[-96.39407300000001,36.41876],"type":"Point"}
+  "geometry": {"coordinates":[-96.39412,36.418],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"74127",
     "addr:street":"W 9Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.999302,36.147316,-95.999302,36.147316",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.999302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"744 W 9th St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -75,7 +77,7 @@
         "sg:id":"SG_191ugREfRqvsO2lju0SSsd_36.147316_-95.999302@1303262960"
     },
     "wof:country":"US",
-    "wof:geomhash":"6081bd69bfdc173629847aa8ae076441",
+    "wof:geomhash":"316370153b8ff901c880fc7c126f70c7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -88,12 +90,15 @@
         }
     ],
     "wof:id":220192249,
-    "wof:lastmodified":1472640317,
+    "wof:lastmodified":1534439174,
     "wof:name":"HILLCREST BEHAVIORAL HEALTH SERVICES",
     "wof:parent_id":85867127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        354146243,
+        320601453
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

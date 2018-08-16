@@ -7,6 +7,7 @@
     "addr:postcode":"73102",
     "addr:street":"N Harvey Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.518028,35.468915,-97.518028,35.468915",
@@ -14,6 +15,7 @@
     "geom:longitude":-97.518028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"217 N Harvey Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_35EaD2EO3KNY8a09NeLL4x_35.468915_-97.518028@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"59dc057fdce4c6afe9331659951703fb",
+    "wof:geomhash":"3cb1c6eb30cbbcf3eca83fa47f9fa337",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":303519841,
-    "wof:lastmodified":1472640694,
+    "wof:lastmodified":1534439176,
     "wof:name":"United Legal Services Inc",
     "wof:parent_id":85871711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353939367
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

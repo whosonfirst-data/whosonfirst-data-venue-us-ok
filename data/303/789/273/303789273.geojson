@@ -2,18 +2,23 @@
   "id": 303789273,
   "type": "Feature",
   "properties": {
-    "addr:full":"5715 S Sooner Rd Guthrie OK 73044",
+    "addr:city":"Guthrie",
+    "addr:full":"5715 S. Sooner Rd. Guthrie, Ok 73044-6739",
+    "addr:house_number":"5715",
     "addr:housenumber":"5715",
-    "addr:postcode":"73044",
+    "addr:postcode":"73044-6739",
+    "addr:road":"S. Sooner Rd.",
+    "addr:state":"OK",
     "addr:street":"S Sooner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-97.425405,35.82037,-97.425405,35.82037",
-    "geom:latitude":35.82037,
-    "geom:longitude":-97.425405,
+    "geom:bbox":"-97.42542,35.82347,-97.42542,35.82347",
+    "geom:latitude":35.82347,
+    "geom:longitude":-97.42542,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"5715 S Sooner Rd",
     "sg:city":"Guthrie",
     "sg:classifiers":[
@@ -31,7 +36,10 @@
         "gallery"
     ],
     "sg:website":"www.natlitrmus.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529947
+    ],
     "wof:belongsto":[
         85688585,
         85633793,
@@ -41,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400475,
         "sg:id":"SG_459yar55SKcMCkfQ2qcMSf_35.820370_-97.425405@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb7278405e49f818c311d494d90b9bc3",
+    "wof:geomhash":"b2eb0828f5d6bbebf8b0a28ab7c26235",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":303789273,
-    "wof:lastmodified":1472640766,
+    "wof:lastmodified":1534439173,
     "wof:name":"National Lighter Museum",
     "wof:parent_id":85829441,
     "wof:placetype":"venue",
@@ -69,10 +78,10 @@
     ]
 },
   "bbox": [
-    -97.425405,
-    35.82037,
-    -97.425405,
-    35.82037
+    -97.42542,
+    35.82347,
+    -97.42542,
+    35.82347
 ],
-  "geometry": {"coordinates":[-97.425405,35.82037],"type":"Point"}
+  "geometry": {"coordinates":[-97.42542,35.82347],"type":"Point"}
 }

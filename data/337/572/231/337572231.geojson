@@ -7,6 +7,7 @@
     "addr:postcode":"73112",
     "addr:street":"N May Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.565552,35.526921,-97.565552,35.526921",
@@ -14,6 +15,7 @@
     "geom:longitude":-97.565552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5600 N May Ave",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_5oKJL7Q14H22lj9uu02W4p_35.526921_-97.565552@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"e25a482d54f0a0972f3486bede5fc12b",
+    "wof:geomhash":"83cbe0e053394da61bb5b5f5e90b8cf3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":337572231,
-    "wof:lastmodified":1472640401,
+    "wof:lastmodified":1534439174,
     "wof:name":"Smedlund & Co",
     "wof:parent_id":85836949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320478667
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

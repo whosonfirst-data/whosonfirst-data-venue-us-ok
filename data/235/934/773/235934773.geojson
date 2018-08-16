@@ -7,6 +7,7 @@
     "addr:postcode":"74136",
     "addr:street":"E 71St St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.964409,36.060852,-95.964409,36.060852",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.964409,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1831 E 71st St",
     "sg:city":"Tulsa",
     "sg:classifiers":[
@@ -61,7 +63,7 @@
         "sg:id":"SG_591K30bqewnEL4l2wHuist_36.060852_-95.964409@1303262960"
     },
     "wof:country":"US",
-    "wof:geomhash":"f591322825e1e52138382f687734f30e",
+    "wof:geomhash":"aaf3660b0d3c8953a9fa0b7fe8c4b133",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -74,12 +76,14 @@
         }
     ],
     "wof:id":235934773,
-    "wof:lastmodified":1472640263,
+    "wof:lastmodified":1534439177,
     "wof:name":"Clinical Counseling Association of Tulsa",
     "wof:parent_id":85872491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        319847071
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "family",

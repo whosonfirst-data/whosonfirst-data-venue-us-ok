@@ -7,6 +7,7 @@
     "addr:postcode":"73116",
     "addr:street":"Nw 63Rd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.520754,35.536861,-97.520754,35.536861",
@@ -14,6 +15,7 @@
     "geom:longitude":-97.520754,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"301 NW 63rd St",
     "sg:city":"Oklahoma City",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_7mqsEgOLHg06Pbw4cqZAI3_35.536861_-97.520754@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"25f6c69a3645a3e2161839ffe361a5a4",
+    "wof:geomhash":"c4751f8da6501a0ae8b614d50fc27bb7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":320175041,
-    "wof:lastmodified":1472640522,
+    "wof:lastmodified":1534439172,
     "wof:name":"Coachman Inns Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320507313
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

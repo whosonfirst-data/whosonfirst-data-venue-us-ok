@@ -7,6 +7,7 @@
     "addr:postcode":"74354",
     "addr:street":"E Central Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.876373,36.874595,-94.876373,36.874595",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.876373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"102 E Central Ave",
     "sg:city":"Miami",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_0sR7chmL83ljsv4sF1Wlng_36.874595_-94.876373@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"26c400b42fe8da3cfae88ef1400ce7c2",
+    "wof:geomhash":"d3bc4ffb36b32fa520047c3ca8a59e04",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":303500245,
-    "wof:lastmodified":1472640697,
+    "wof:lastmodified":1534439174,
     "wof:name":"Ottawa County Dst Attorney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ok",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353792805
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",
